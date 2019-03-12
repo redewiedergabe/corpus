@@ -5,4 +5,4 @@ This corpus was created by the DFG funded project "Redewiedergabe - eine literat
 
 Homepage: www.redewiedergabe.de
 
-Detailed information about the corpus can be found in the [Wiki](https://github.com/redewiedergabe/corpus/wiki/Das-Redewiedergabe-Korpus).
+Detailed information about the corpus can be found in the [Wiki](https://github.com/redewiedergabe/corpus/wiki/The-%22Redewiedergabe%22-corpus).
