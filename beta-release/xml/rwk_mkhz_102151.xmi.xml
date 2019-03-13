@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Telegramme.
+                        
+            
+            
+               
+                  Bad-Gastein, 24. Juli. date
+               (Orig.-Teleg. des
+                        „Mähr. Tagbl.“)
+               Der Kaiser hat gestern um
+                        5¾ U. Nachm. Bad-Gastein im besten Wohlsein verlassen. <said id="1" mode="reported" content="speech" level="1">Von dem auf dem Straubinger
+                        Platze befindlichen <seg id="1" type="speaker">Publicum</seg> mit begeisterten Hochrufen <seg id="1" type="intExpr">begrüßt</seg>
+            </said>, nahm der <seg id="3" type="speaker">Kaiser</seg>
+            <said id="2" mode="reported" content="speech" level="1">die <seg id="2" type="intExpr">Abschiedsbegrüßung</seg> des <seg id="2" type="speaker">Statthalters Grafen Thun</seg>, des
+                        <seg id="2" type="speaker">Bürgermeisters</seg> sowie der übrigen <seg id="2" type="speaker">Honoratioren</seg>
+                        und zum Curgebrauche anwesenden <seg id="2" type="speaker">Natabilitäten</seg>
+            </said>
+                        entgegen und <said id="3" mode="reported" content="speech" level="1">beehrte die Anwesenden mit <seg id="3" type="intExpr">Ansprachen</seg>.</said>
+            
+            
+               
+                  Wien, 24. Juli. date
+               (Orig.-Tel. d. „M. T.“)
+                        
+               Der italienische Botschafter am Wiener Hofe,
+                        <seg id="9" type="speaker">Graf Nigra</seg>, hat vorige Woche <said id="9" mode="reported" content="writing" level="1">über telegrafische
+                        <seg id="9" type="intExpr">Berufung</seg> seitens des Minister-Präsidenten Crispi</said>
+                        Wien verlassen und sich nach Rom begeben. —
+                        Diese Berufung des italiensschen Diplomaten steht
+                        mit den irredentistischen Umtrieben im Gebiete
+                        von Triest und Trient im engen Zusammenhange.
+                        Crispi ist gewillt, den irredentistischen Bestrebungen in Italien mit größter Energie entgegenzutreten; auch bei uns in Oesterreich wird sich ein
+                        diesbezügliches energisches Vorgehen in allernächster Zeit äußern.
+            
+            
+               
+                  Jägerndorf, 24. Juli. date
+               (Orig.-Teleg. des
+                        „Mähr. Tagbl.“)
+               Der Strike der Textilarbeiter
+                        scheint nahezu beendigt. Mehrere Fabriken sind
+                        wieder im vollen Betriebe. In den meisten anderen Fabriken und Werkstätten ist der Betrieb
+                        wenigstens theilweise wieder aufgenommen.
+               
+            
+            
+               
+                  Bern, 24. Juli. date
+               (Orig.-Teleg. des „Mähr.
+                        Tagbl.“)
+               <said id="10" mode="reported" content="speech writing" level="1">Die deutsche <seg id="10" type="speaker">Regierung</seg> 
+               <seg id="10" type="intExpr">kündigte</seg> am 20.
+                        Juli den Niederlassungs-Vertrag</said>, welcher im Jahre 1890 außer Kraft tritt.
+            
+            
+               
+                  Wiesbaden, 24. Juli. date
+               (Orig.-Telegr. des
+                        „Mähr. Tagbl.“)
+               <seg id="5" type="frame" pos="start">Dem <seg id="5" type="speaker">„Rheinischen Courier“</seg>
+                        zufolge,</seg>
+            <said id="5" mode="indirect" content="writing" level="1">bestätigt es sich, daß der Herzog Adolf
+                        von Nassau demnächst oder etwa im Herbste einen
+                        Besuch am kaiserlichen Hofe in Berlin zu machen
+                        beabsichtigt.</said>
+            
+            
+               
+                  Belgrad, 24. Juli. date
+               (Orig.-Telegr. des
+                        „Mähr. Tagbl.“)
+               <said id="6" mode="reported" content="speech" level="1">Der Redacteur der „Malenovine“ <seg id="11" type="speaker">Pera Todorovič</seg> wurde gestern wegen <said id="11" mode="reported" content="speech" level="2">
+                  <seg id="11" type="intExpr">Beleidigung</seg> der Behörden</said> zu 30tägigem Arreste
+                        <seg id="6" type="intExpr">verurtheilt</seg>.</said> Das Gericht hat über denselben den
+                        fofortigen Strafantritt nicht verhängt. Gestern
+                        Früh wollte Todorovič flüchten, wurde aber auf dem
+                        Bahnhofe ertappt und sofort in Arrest gesetzt.
+            
+            
+               
+                  Belgrad, 24. Juli. date
+               (Or.. T, d. „M. T.“)
+                        
+               Regent Protics wird sich heute oder morgen an
+                        das Krankenlager des Regenten Ristics, welcher
+                        einen Schlaganfall erlitt, nach Vranjska Banja
+                        begeben. — Auch König Milan wird den leidenden serbischen Staatsmann in dem genannten
+                        Badeorte aufsuchen.
+            
+            
+               
+                  Sophia, 24. Juli. date
+               (Orig.-Teleg. d. „Mähr.
+                        Tagbl.“)
+               Eine Commission bulgarischer Officiere
+                        unter Führung des Majors Baladanow begibt
+                        sich in den nächsten Tagen zur Uebernahme von
+                        Festungs-Geschützen zu Krupp nach Essen. —
+                        Eine größere Anzahl von Pferden wird demnächst
+                        durch die bulgarische Regierung in Ungarn angekauft werden.
+            
+            
+               
+                  Rom, 24. Juli. date
+               (Orig.-Tel. d. „M. T.“)
+                        
+               Die radicalen Vereine beschlossen Angesichts der
+                        Haltung der Regierung gegenüber der irredentistischen Bewegung ihre Action insgeheim fortzusetzen.
+            
+            
+               
+                  Prag, 24. Juli date
+               (Orig.-Tel. d. „M. T.“)
+                        
+               <said id="8" mode="reported" content="writing" level="1">Die <seg id="8 12" type="speaker">„Narodni Listy“</seg> 
+               <seg id="8" type="intExpr">mahnen</seg> von einer Betheiligung der Tschechen an der landwirthschaftlichen Reichsausstellung, welche im Jahre 1890
+                        in Wien stattfinden soll, <seg id="8" type="intExpr">ab</seg>
+            </said>, <said id="12"
+                  mode="indirect freeIndirect"
+                  content="writing"
+                  level="1">weil selbe nur zur
+                        Glorie der Residenz dienen würde.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

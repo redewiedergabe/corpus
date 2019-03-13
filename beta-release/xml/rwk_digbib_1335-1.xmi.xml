@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Dietegen</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Dietegen</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Es war aber ein schöner Sommerabend, weswegen, als die Seldwyler auf der Höhe des Berges und auf ihrem Gebiete angekommen waren, <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">sie</seg> 
+               <seg id="1" type="intExpr">beschlossen</seg>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">sich hier in dem abendlichen Sommerwalde noch auf eigene Rechnung zu belustigen und von dem gehabten Schrecken zu erholen</said>, zumal ihnen aus ihrer Stadt noch ein ansehnlicher <seg id="2" type="speaker">Zuzug</seg> entgegenkam, voll Neugierde, <said id="2"
+                  mode="indirect freeIndirect"
+                  content="speech thought"
+                  level="1">wie es ihnen ergangen sei.</said> So mußten denn die Musikanten wieder aufspielen, und die mitgeführten Becher kreisten erst jetzt in voller Fröhlichkeit. Dietegen blickte so glückselig, neugierig und harmlos umher, daß man von weitem sah, daß das ein unschuldiges <seg id="4" type="speaker">Kind</seg> war, <said id="4" mode="reported" content="speech" level="1">was seine <seg id="4" type="intExpr">Erzählung</seg> auch bestätigte.</said> Die Seldwylerinnen konnten sich nicht satt an ihm sehen, flochten ihm einen Kranz von Laub und Waldblumen auf den Kopf, daß er in seinem langen weiten Hemde gar lieblich aussah, und endlich küßten sie ihn der Reihe nach, und wenn ihn die letzte aus den Armen ließ, nahm ihm die erste wieder beim Kopf. 
+                  Aber jenes kleine Mädchen, welches den Dietegen eigentlich gerettet hatte, trat jetzt plötzlich aus der Menge hervor und stellte sich zornig zwischen den Knaben und die Frau, welche ihn eben küssen wollte; es nahm ihn eifrig bei der Hand, um ihn in den Kreis der Kinder zu führen, <seg id="5" type="frame" pos="start">so daß die <seg id="5" type="speaker">Gesellschaft</seg> in neue Heiterkeit ausbrach und <seg id="5" type="intExpr">rief</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">»So ist es recht! die kleine Küngolt hält ihre Eroberung fest! und Geschmack hat sie auch, seht nur, wie gut das Männchen zu ihr paßt!«</said>
+            <seg id="7" type="frame" pos="start">Küngolts <seg id="7" type="speaker">Vater</seg> aber, der Forstmeister der Stadt, <seg id="7" type="intExpr">sagte</seg>:</seg>
+            <said id="7" mode="direct" content="speech" level="1">»Der Bub gefällt mir wohl, er hat sehr gute Augen! Wenn es den Herren recht ist, so nehme ich ihn einstweilen bei mir auf, da ich doch nur ein Kind habe, und will sehen, daß ich einen ehrlichen Weidmann aus ihm mache!«</said> 
+                  Dieser Vorschlag erhielt den Beifall der Seldwyler, und so ließ Küngolt, wohl zufrieden, ihren Dietegen nicht mehr von der Hand, sondern hielt ihn fest bei sich. Das Pärchen nahm sich in der Tat höchst anmutig aus; auch das Mädchen trug einen üppigen Kranz auf dem Köpfchen und war in Grün und Rot gekleidet. Deshalb gingen sie wie ein Bild aus alter Märchenzeit vor dem fröhlichen Volke her, als dieses endlich beim glühenden Abendrot berghinunter heimwärts zog. Bald jedoch trennte sich der Forstmeister von dem Zuge und ging mit den Kindern seitwärts nach seinem Forsthause, welches unweit der Stadt im Walde lag. Ein dunkler Baumgang führte zu dem Hause, in welchem die stille Frau des Försters saß und mit Erstaunen die Kinder eintreten sah. Sogleich sammelte sich auch das Gesinde, und während die Frau den müden Kindern zu essen gab, <said id="9" mode="reported" content="speech" level="1">
+               <seg id="9" type="intExpr">erzählte</seg> der <seg id="9" type="speaker">Mann</seg> das Abenteuer mit dem Knaben.</said> Der war aber jetzt gänzlich erschöpft, auch fror es ihn in seiner allzu leichten Tracht; <seg id="10" type="frame" pos="start">daher wurde <seg id="10" type="intExpr">herumgefragt</seg>,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">wer den Ankömmling für die erste Nacht in seinem Bette aufnehmen wolle?</said> Aber die Knechte sowie die Magd wichen scheu zurück und hüteten sich, ein Kind zu berühren, das soeben am Galgen gehangen hatte. <seg id="11" type="frame" pos="start">Da <seg id="11" type="intExpr">rief</seg> 
+               <seg id="11" type="speaker">Küngolt</seg> eifrig:</seg>
+            <said id="11" mode="direct" content="speech" level="1">»Er soll in meinem Bettchen schlafen, es ist groß genug für uns beide!«</said> Als hierüber alles lachte, <seg id="12" type="frame" pos="start">
+               <seg id="12" type="intExpr">sagte</seg> die <seg id="12" type="speaker">Forstmeisterin</seg> freundlich:</seg>
+            <said id="12" mode="direct" content="speech" level="1">»Das soll er, mein Kind!«</said> Und den Jungen liebevoll betrachtend, <seg id="13" type="frame" pos="start">
+               <seg id="13" type="intExpr">setzte</seg> 
+               <seg id="13" type="speaker">sie</seg> 
+               <seg id="13" type="intExpr">hinzu</seg>:</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Gleich als der arme Schelm hereintrat, <seg id="14" type="frame" pos="start">befiel <seg id="14" type="speaker">mich</seg> eine sonderbare <seg id="14" type="intExpr">Ahnung</seg>,</seg> 
+               <said id="14" mode="indirect" content="thought" level="2">als ob ein guter Engel erschiene, der uns noch zum Heil gereichen würde.</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Unsure</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>
+            <said id="2" mode="direct" content="speech" level="1">Jch griff nach meinem
+                        Krückstock und wankte hinaus. Der Ausbruch des Unwetters ließ noch auf
+                        sich warten, aber am Hafen und in den Straßen herrschte schon ein
+                        grausenerregender Tumult. Die Schornsteine aller Dampfer rauchten;
+                        denn es wurde geheizt, um im schlimmsten Falle sich durch die Maschinenkraft zu retten. Die Kauffahrer warfen alle ihre Anker aus, nahmen die
+                        Raaen ein und verkürzten die Masten. Aus der chinesischen Stadt drang
+                        das Jammergeschrei der Bevölkerung zu uns herüber. Ganz verwirrt
+                        starrte ich in die dunkle Ferne der Wasser, die, wie auf Rollen geschoben,
+                        langsam heranzurücken schienen, als mit einem Donner wie von hundert zugleich abgefeuerten Batterien ich einen Luftstoß erhielt, der mich gegen
+                        die Mauer und den Boden warf. Es war der erste Athemzug des
+                        Taifun. <said id="1"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="1" type="speaker">Jch</seg> wage keine <seg id="1" type="intExpr">Beschreibung</seg>
+               </said>, so deutlich ich den furchtbaren,
+                        zugleich löwenartig ächzenden Laut noch heut höre. Meine Schwäche gestattete mir kaum, nach Hause zurückzukehren. Mehrmals stieß mich der
+                        Orkan zu Boden; er gab sich immer in einem unwiderstehlichen Anprall
+                        kund, der über See und Festland wegfegte, als sollte alle denkende,
+                        athmende und vegetirende Kreatur von der Oberfläche desPlanen vertilgt und in das Nichts geweht werden. Vor der unbändigen Gewalt des
+                        Taifun zerstäubten die obersten Schichten des Oceans; ein dichtes Schneegestöber von Wasserflocken verbreitete sich über Hafen und Stadt. Erst
+                        um acht Uhr Abends verstummte der Orkan. Dank der beobachteten Vorsicht
+                        waren die Schäden und Verluste im Hafen und auf der Rhede geringer,
+                        als man erwartet; desto größere Verheerungen hatte das Naturereigniß
+                        unter den Chinesen angerichtet. Eine Menge der stets überdachten Familienboote, die nicht rechtzeitig auf den Strand gezogen worden waren,
+                        hatte gleich der erste Anprall umgestoßen und in die Tiefe versenkt oder
+                        durch die haushohen Wogen zerschmettert. Und dennoch konnte selbst die
+                        drohende Gefahr die verblendeten Chinesen nicht davon abbringen, statt
+                        Hand an ihre Rettung zu legen, dem Drachen der Tiefe zu ihrer Rettung
+                        Opfer darzubringen. Der Besitzer eines kleinen Bootes, welches sammt
+                        den darin Sitzenden der nächste Wellensturz zu begraben drohte, brannte
+                        mit betenden Händen noch einen Schwärmer ab, um dann unter dem
+                        heranrollenden Wasserberge mit den Seinigen zu verschwinden.“</said>
+                         
+            „Nahrungs- und Genußmittel“ nennt sich ein neues Buch von Karl
+                        Ruß, welches denI. Theil einerWaarenkunde für die Frauenweltbildet und das ( ebenso wie die beiden übrigen später erscheinenden
+                        Theile, „Hauswirthschaftsgegenstände“ und „Arznei=,Farbenwaaren und
+                        Schönheitsmittel“ ) als ein für sich bestehendes Buch zu kaufen ist. Diese
+                        Frauenbücher von Ruß haben sich von Anfang an der besten Aufnahme zu
+                        erfreuen gehabt, und dies ist wohl erklärlich, da sie mit wissenschaftlich
+                        zuverlässiger und zugleich anregend unterhaltender Bearbeitung die geschmackvollste Ausstattung und den billigen Preis von nur je 1 Thlr. verbinden. Die vorliegenden „Nahrungs= und Genußmittel“ seien allen den
+                        Frauen bestens empfohlen, welche über die Gegenstände, mit denen sie
+                        fortwährend zu schaffen haben, sich nach allen Seiten hin unterrichten
+                        wollen, um sich einerseits vor Schaden und Nachtheilen zu bewahren, und
+                        andererseits am vortheilhaftesten einzukaufen. Das Buch richtet vorzugsweise auch auf die Verfälschungen und Verunreinigungen der Nahrungsstoffe die eingehendste Aufmerksamkeit.
+            
+               M.Das Haus mit den Hühnerfedern in Peking, „Kimao-foe“, eine
+                        Herberge für arme Leute, besteht aus einem großen Saal, der mit einer
+                        fußhohen Schicht von Hühnerfedern bedeckt ist.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

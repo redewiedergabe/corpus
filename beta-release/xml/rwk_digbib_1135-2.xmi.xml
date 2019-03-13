@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bei uns zulande auf dem Lande</title>
+             <author>Droste-Hülshoff, Annette von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Bei uns zulande auf dem Lande</f>
+         <f name="author">Droste-Hülshoff, Annette von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     
+                        – Dennoch bleiben Erbübel immer schwer
+                           auszurotten, <seg id="1" type="frame" pos="start">und <seg id="1 2" type="speaker">ich</seg> 
+               <seg id="1" type="intExpr">glaube</seg>
+            </seg>
+            <said id="1" mode="indirect" content="thought" level="1">
+               <seg id="2" type="frame" pos="start">
+                  <seg id="2" type="intExpr">bemerkt</seg> zu haben,</seg> 
+               <said id="2"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">daß, <said id="3"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">sobald <seg id="3" type="speaker">man</seg> auf <said id="4" mode="reported" content="speech" level="4">die
+                           <seg id="4" type="intExpr">Redeweisen</seg> dieser grandiosen <seg id="4" type="speaker">Parteilosen</seg>
+                     </said> fein kräftig <seg id="3" type="intExpr">ein geht</seg> und etwa
+                           hier und dort noch den rechten Drücker aufsetzt</said>, sie geradeso vergnügt
+                           lächeln als ein Bauer, der Zahnweh hat.</said>
+            </said>
+            <said id="5" mode="direct" content="speech" level="1">Gott besser's</said>
+            <seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">sage</seg> 
+               <seg id="5" type="speaker">ich</seg>
+            </seg> und überlasse
+                           die beliebige Auslegung jedem.
+                        – Was mich anbelangt, so bin <seg id="6" type="speaker">ich</seg>, <said id="6"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">wie <seg id="6" type="intExpr">gesagt</seg>
+            </said>, ein Mensch
+                           nullius iudicii, nämlich ein Münsterländer, sonst guter Leute Kind, habe
+                           studiert in Bonn, in Heidelberg, auch auf einer Ferienreise vom Rigi
+                           geschaut und die Welt nicht nur weitläufig, sondern sogar überaus schön
+                           gefunden – ein in der Tat wunderbar köstlicher Moment, und für den armen
+                           Studenten, der um jeden zu diesem Zwecke heimgelegten Taler irgendeine
+                           andere Freude hat totschlagen müssen, ein tief, fast heilig bewegender –
+                           dennoch nichts gegen das erste Knistern des Heidekrauts unter den Rädern,
+                           nichts gegen das mutwillige Andringen der ersten Blütenstaubwolke, die
+                           die erste Nußhecke uns in den Wagen wirbelte, nach drei langen auswärts
+                           verlebten Jahren.
+                        Da habe ich mich mal weit aus dem Schlage gelehnt und mich
+                           gelb einpudern lassen, wie ein Römer aus den Zeiten Augusts, und so wie
+                           berauscht die erstickenden Küsse meiner Heimat eingesogen.
+                        Dann kamen meine klaren, stillen Weiher mit den gelben
+                           Wasserlilien, meine Schwärme von Libellen, die wie glänzende Zäpfchen
+                           sich überall anhängen, meine blauen, goldenen, getigerten Schmetterlinge,
+                           die wie flatternde Miniaturen aufstiegen.
+                        Wie gern wäre ich ausgestiegen und ein Weilchen
+                           nebenhergetrabt, <seg id="7" type="frame" pos="start">aber es <seg id="7" type="intExpr">kam</seg> 
+               <seg id="7" type="speaker">mir</seg> 
+               <seg id="7" type="intExpr">vor</seg>,</seg>
+            <said id="7" mode="indirect" content="thought" level="1">als müßte ich mich schämen vor den
+                           Leuten im Schnellwagen</said> und vor allen machte mir ein bleicher, winddürrer
+                           Herr not, der ganz aussah wie ein Genie, was auf Menschenkenntnis reist,
+                           denn ich bin ehrlicher Leute Kind und möchte nicht gern als empfindsame
+                           Heidschnucke in einem Journale figurieren.
+                        <seg id="13" type="frame" pos="start">Deshalb will <seg id="13" type="speaker">ich</seg> denn auch hier abbrechen und nur noch <seg id="13" type="intExpr">sagen</seg>,</seg>
+            <said id="13" mode="indirect" content="speech" level="1">daß ich seit zwölf Jahren wieder bei uns zulande bin und mein friedliches
+                           Brot habe, als Rentmeister meines guten gnädigen Herrn, der keine
+                           Schwalbe an seinem Dache belästigen mag, wieviel weniger seine Leute
+                           überladet, so daß ich meine Arbeit in der Tat ganz wohl zwingen kann und
+                           um vieles an gutem, ich meine gesundem Aussehen gewonnen habe, sonderlich
+                           in den letzten fünf Jahren, seit ich das obere Turmzimmer bewohne, was
+                           das gesundeste im Hause ist und mir
+                           noch allerlei kleine Ergötzlichkeiten, als aus dem Fenster zu angeln und
+                           die Reiher über dem Schloßweiher wegzuschießen, bietet.</said>
+                        – Die Zeitungen werden mir auch gebracht, wenn der Herr sie
+                           gelesen, und die Bücher aus der Leihbibliothek; so füllt sich mein
+                           Überschuß an Zeit ganz behaglich aus, und ich bleibe hinlänglich in
+                           Rapport mit der politischen und belletristischen Außenwelt.
+                        – Sehr wunderlich war mir zumute, als ich vor etwa zehn
+                           Jahren zum erstenmal mein gutes Ländchen in van der Veldens Roman
+                           unverhofft begegnete, <seg id="10" type="frame" pos="start">es <seg id="10" type="intExpr">war</seg> 
+               <seg id="10" type="speaker">mir</seg> fast,</seg>
+            <said id="10" mode="indirect" content="thought" level="1">als sei ich nun ein Lion geworden
+                           und könne fortan nicht mehr in meinem ordinären Rocke ausgehen.</said>
+                        In den letzten Jahren habe ich mich indessen dagegen
+                           verhärtet, seit wir Westfalen in der Literatur wie Ameisen
+                           umherwimmeln.
+                        <said id="11"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="11" type="speaker">Ich</seg> will nichts gegen diese Schriften <seg id="11" type="intExpr">sagen</seg>
+            </said>,
+                           <seg id="12" type="frame" pos="start">da <seg id="12" type="speaker">ich</seg> wohl <seg id="12" type="intExpr">weiß</seg>,</seg>
+            <said id="12"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">wie es mir ergehen würde, wenn ich z.B. einen Russen
+                           oder Kalmücken in die Szene setzen sollte</said>, aber soviel ist gewiß, daß ich
+                           in den Figuren, die dort unsere Straßen durchwandeln, höchstens meine
+                           Nebenmenschen erkannt habe.
+                     
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Berndorf. Heiligenkrenz. Mödling. Vöslan.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1916</f>
+         <f name="decade">1910</f>
+         <f name="title">Berndorf. Heiligenkrenz. Mödling. Vöslan.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.badener</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die Bestimmung gewisser
+                        Verkaufstage und Verkaufsstunden sind Vorteile, die
+                        dem Käufer und dem überlasteten Personal der
+                        Anstalt zu Gute kommen. Das Wirtschaftsjahr
+                        1916/17 beginnt somit unter beruhigenden Auspizien.
+                        Leistungsfähigkeit und Beschaffungsmöglichkeit haben
+                        bisher entsprochen, sie werden auch hier für die
+                        kommenden Tage den Anforderungen gerecht werden
+                        und somit das Lebensinteresse dieser dem allgemeinen Wohl der Bevölkerung dienenden Anstalt
+                        kennzeichnen und festigen.
+               
+            
+            
+               
+                  Heiligenkrenz.
+                        
+               
+               
+                  
+                     (Todesfall.)
+                  
+                  Samstag starb
+                        nach kurzem, schweren Leiden um 7 Uhr abends
+                        Herr Josef Hausknost, Oberlehrer in Heiligenkreuz, im 52. Lebensjahre. Die Einsegnung erfolgte
+                        Dienstag in der Kapelle des allgem. öffentlichen
+                        Rath’schen Krankenhauses in Baden, worauf die
+                        Beerdigung auf dem dortigen Stadtpfarrfriedhofe
+                        im eigeuen Grabe erfolgte.
+               
+            
+            
+               
+                  Mödling.
+                        
+               
+               
+                  
+                     (Hoher Besuch.)
+                  
+                  Donnerstag,
+                        den 14. d. M., 3 Uhr nachmittags, erschienen die
+                        kaiserlichen Hoheiten Erzherzog Leopold Salvator und Frau Erzherzogin Blanka mit ihren
+                        Töchtern den Erzherzoginnen Dolores, Marie
+                        Imaknlata, Margarita Assunta und
+                        ihrem Gefolge. Prinzen Lobkowitz, Exzellenz
+                        Reuter und Oberleutnant Spitzer, in der
+                        Hyrtl’schen Waisenanstalt und wurden daselbst vom
+                        Landesausschuß <seg id="12" type="speaker">Herrn Bielohlawek</seg> empfangen
+                        und <said id="12" mode="reported" content="speech" level="1">ihnen der Anstaltsdirektor Herr Dreßler,
+                         die Lehrerschaft, der Leiter des Rekonvaleszentenheimes k. u. k. Oberleutnant Baron Brunitzky
+                         sowie die ehrwürdigen Schwestern der Anstalt <seg id="12" type="intExpr">vorgestellt</seg>.</said> Die hohen Herrschaften wurden bei der Besichtigung der Anstalt und Spitalsräume mit Jubel
+                        und Blumen begrüßt. Die Waisenknaben zeigten
+                        ihre militärische und die Musikkapelle ihre musikalische
+                        Schulung durch ihren Lehrer Herrn Mayer. <said id="2" mode="reported" content="speech" level="1">Die
+                        hohen <seg id="2" type="speaker">Herrschaften</seg> brachten ihre vollste Anerkennung
+                        zum <seg id="2" type="intExpr">Ausdrucke</seg>
+            </said> und begaben sich hierauf zur gründenden Versammlung des Vereines „K. k. österr.
+                        Militär-Witwen- und Waisenfonds sowie für Kinderschutz und Jugendfürsorge im Gerichtsbezirke Mödling“ in den Saal der Mödlinger Bühne. Unter
+                        den Klängen der Volkshymne wurden sie vom k. k.
+                        Statthaltereirat Herrn Fuchs ehrfurchtsvoll begrüßt
+                        und in den Saal geführt, <said id="13" mode="reported" content="speech" level="1">woselbst<seg id="13" type="speaker"> Graf Segur</seg>
+                         die gründende Versammlung mit einer festlichen
+                        <seg id="13" type="intExpr">Ansprache</seg> eröffnete.</said>
+            <said id="5" mode="reported" content="speech" level="1">Hierauf <seg id="5" type="intExpr">sprachen</seg> noch <seg id="5" type="speaker">Herr
+                        Bürgermeister Thomas Tamussino</seg> und <seg id="5" type="speaker">Herr
+                        Dr. Donin</seg> aus Wien.</said>
+            <seg id="14" type="speaker">Graf Segur</seg> überreichte
+                        <said id="14" mode="reported" content="speech" level="1">mit einer feierlichen <seg id="14" type="intExpr">Ansprache</seg>
+            </said> dem Vereine, welcher
+                        1914 gegründet wurde, das aus den werktätigen
+                        Kreisen der Mödlinger Bürgerschaft erzielte Patengeschenk von 80.000 Kronen. <said id="7" mode="reported" content="speech" level="1">Zum Schlusse der Rede
+                        <seg id="7" type="intExpr">brachte</seg> 
+               <seg id="7" type="speaker">er</seg> ein dreifaches Hoch auf Se. Majestät den
+                        Kaiser <seg id="7" type="intExpr">aus</seg>
+            </said>, das mit großem Jubel wiederholt wurde.
+                        Die österreichische Volkshymne und „Heil Dir im
+                        Siegerkranz“ beschlossen die Versammlung. Nach
+                        derselben wurden die Spitzen der Behörden und
+                        eine große Anzahl der Gäste vom Grafen Segur
+                         zum Tee eingeladen, <said id="9" mode="reported" content="speech" level="1">wo die k. u. k. <seg id="9" type="speaker">Hoheiten</seg> einige
+                        hervorragende Persönlichkeiten mit Ansprachen <seg id="9" type="intExpr">auszeichneten</seg>.</said> Herr und Frau Gräfin Segur machten
+                        dabei in liebenswürdigster Weise die Honneurs.
+               
+               
+                  
+                     (Auszeichnung.)
+                  
+                  Die Gemahlin des Kommissärs der k. k. Bezirkshauptmannschaft Frau Marie
+                        Gräfin Segur wurde als Leiterin der Tuberkulosen 
+                     fürsorgeaktion und für ihre unermüdliche Tätigkeit
+                        im politischen Bezirke Mödling das Ehrenkreuz
+                        2. Klasse vom Roten Kreuze mit der Kriegsdekoration
+                        verliehen.
+               
+               
+                  
+                     (Ehrung.)
+                  
+                  <said id="11" mode="reported" content="speech" level="1">In der letzten Gemeindeausschußsitzung wurde der Kommissär der Bezirkshauptmannschaft Herr Graf Segur in Anbetracht der hervorragenden Leistungen auf dem Gebiete der Approvisionierung der Stadt und für seine unausgesetzte
+                        Tätigkeit beim Vereine des Roten Kreuzes zum
+                        Ehrenbürger der Stadt Mödling <seg id="11" type="intExpr">ernannt</seg>.</said>
+               
+               
+                  
+                     (Mödlinger Bühne.)
+                  
+                  Einen großen Lacherfolg erzielte Dienstag den 12. d. M. der Schwank
+                        „Fräulein Witwe“ von Viktor L é on und Alexander
+                        Engel.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

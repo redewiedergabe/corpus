@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Kunstteufel: Modernes Märchen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1844</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Kunstteufel: Modernes Märchen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Was aber dem Knaben besonders entsetzlich schien, das war
+                        ein großer schwarzer Kater, der Liebling des Maestro, den er Abends
+                        immer auf den Knieen hielt und dem helle Funken entsprühten, sobald der Herr nur streichelnd sein Fell berührte. Oft, wenn Giovanni besonders fleißig gewesen, im Laufe des Tages, <said id="1" mode="reported" content="speech" level="1">oft <seg id="1" type="intExpr">brach</seg> dann
+                         
+               
+               nach langer Stille der <seg id="1 2" type="speaker">Maestro</seg> das Schweigen</said> und <said id="2" mode="reported" content="speech" level="1">
+               <seg id="2" type="intExpr">erzählte</seg> dem
+                        Schüler Märchen</said>, bei denen das Haar des Knaben sich vor Entsetzen in die Höhe sträubte, und wieder trat dann tiefes Schweigen 
+                        ein, aber die Seele des Knaben arbeitete rüstig fort.
+               Kein Mensch kann die Qualen nachempfinden, die dabei in
+                        Giovanni tobten. Er sah die Schreckgespenster,<said id="3" mode="reported" content="speech" level="1"> von denen der <seg id="3" type="speaker">Maestro</seg> lächelnd, wie von lieben Freunden, <seg id="3" type="intExpr">erzählt</seg> hatte</said>, an den Wänden auf und niedersteigen, sie näherten sich ihm, griffen nach ihm
+                        und drohten ihn zu erdrücken. Dann hätte er aufschreien mögen
+                        vor Todesangst, <said id="4" mode="reported" content="speech" level="1">aber ihm war zu <seg id="4" type="intExpr">schweigen</seg> befohlen</said> und <seg id="5" type="frame" pos="start">
+               <seg id="5" type="speaker">er</seg> 
+               <seg id="5" type="intExpr">wußte</seg>,</seg>
+            <said id="5" mode="indirect" content="thought" level="1"> wie hart jede Uebertretung der Befehle gestraft wurde.</said> So litt er
+                        schweigend fort, bis der Maestro sich erhob und den Knaben selbst
+                        zu Bett geleitete, wo seine absichtlich erregte Phantasie ihn immer noch lange wach
+                        erhielt.
+               Tage reihten sich an Tage, und Monate an Monate in immer
+                        gleicher Weise. Die Zeit, welche Giovanni übend am Klavier zubringen mußte, stieg je länger, je mehr und der Maestro schien entzückt über die Fortschritte seines Schülers. Giovanni selbst spielte
+                        gar gern jene süßen Weisen, die vor seiner Seele schwebten, <said id="6" mode="reported" content="thought" level="1">wenn
+                        <seg id="6" type="speaker">er</seg> der fernen Mutter <seg id="6" type="intExpr">gedachte</seg>.</said> Dann versuchte <seg id="7" type="speaker">er</seg> es,<said id="7" mode="reported" content="speech" level="1"> ihre Stimme
+                        <seg id="7" type="intExpr">nachzuahmen</seg>
+            </said> und das Brausen des Meeres, das wie ein zauberisches
+                        Wiegenlied aus der Vergangenheit zu ihm herüberklang. Kam aber
+                        der Maestro dazu und hörte die Töne, <said id="8" mode="reported" content="speech" level="1">so <seg id="8" type="intExpr">verwies</seg> 
+               <seg id="8 9 10" type="speaker">er</seg> dem Knaben
+                        das thörichte Treiben</said>,<seg id="9" type="frame" pos="start">
+               <seg id="9" type="intExpr"> befahl</seg> ihm,</seg>
+            <said id="9" mode="indirect" content="speech" level="1">fleißig seine Passagen und Etüden zu üben</said> und <seg id="10" type="frame" pos="start">
+               <seg id="10" type="intExpr">schilderte</seg>, in den glänzendsten Farben,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">die Freuden
+                        und das Glück, das Giovanni genießen würde, wenn er durch fleißiges Studium einst ein Meister in der Musik geworden sein würde.</said>
+               
+                        So war Giovanni zwölf Jahre geworden und Marie stand im
+                        zehnten Jahre. Auch sie hatte der Maestro in der Musik unterwiesen, auch sie hatte täglich viele Stunden übend zugebracht und eine
+                        gewisse Fertigkeit erlangt; aber es war ihr nur eine lästige mechanische Beschäftigung geblieben, an der ihr Geist keinen Theil hatte und
+                        der sie sich entzog, sobald sie konnte. Dem Giovanni hingegen war
+                        Musik das Element, in dem seine Seele lebte; sie war seine eigentliche Sprache und jeder Ton, der sein Ohr berührte, regte eine
+                        Welt von unklaren Ahnungen in ihm an, deren Gewalt er fast erlag. Er war groß über seine Jahre und sein langes dunkles Haar,
+                         
+               
+               das in natürlichen Locken herabfiel, gab den bleichen, aber regelmäßig schönen Zügen des Knaben eine seltene Bedeutsamkeit. Giovanni war mit einem feurigen Geiste und mit dem regsten Gefühl
+                        geboren. Die unaufhörliche Beschäftigung mit der Kunst, die seine
+                        Nerven erregte, das einsame Leben in dem unheimlichen Hause und
+                        die furchtbaren Märchen des Maestro, das Alles hatte ihn noch
+                        empfindlicher gemacht und seine Phantasie geweckt und überreizt. Das
+                        war es aber grade, was der Maestro beabsichtigt hatte; und mit
+                        Freuden sah er, wie Giovanni erbebte und zugleich vor Wonne
+                        leuchtete, <seg id="11" type="frame" pos="start">bei der <seg id="11" type="intExpr">Nachricht</seg>,</seg>
+            <said id="11" mode="indirect" content="speech" level="1">daß er und Marie, an einem der nächsten Abende, in den Sälen des Marchese San Severino erscheinen
+                        und dort spielen sollten.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

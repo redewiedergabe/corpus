@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zu spät</title>
+             <author>Meysenbug, Malwida Freiin von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1907</f>
+         <f name="decade">1900</f>
+         <f name="title">Zu spät</f>
+         <f name="author">Meysenbug, Malwida Freiin von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dann wollte <seg id="1" type="speaker">sie</seg> selbst nacheilen oder Sergei schicken; <seg id="1" type="frame" pos="start">aber die <seg id="1" type="intExpr">Überzeugung</seg>,</seg>
+            <said id="1" mode="indirect" content="thought" level="1">daß ihre Gegenwart Iwan nur erbittern werde</said> und die Angst, auch Sergei in den Handel zu verwickeln, machten sie unschlüssig. Vergebens bemühte sich Sergei, sie zu bewegen, zu Bett zu gehen, <seg id="3" type="frame" pos="start">indem <seg id="3" type="speaker">er</seg> 
+               <seg id="3" type="intExpr">versprach</seg>,</seg>
+            <said id="3" mode="indirect" content="speech" level="1">wenn Iwan in einer halben Stunde nicht zurück sei, wolle er fort, ihn zu suchen.</said> Davon wollte sie nichts wissen. Endlich nahm sie Hut und Schal, ergriff Sergeis Arm und begab sich auf die Straße. Am Hotel angelangt, wo Schmetow wohnte, schickte sie <seg id="4" type="speaker">Sergei</seg> hinein, <seg id="4" type="frame" pos="start">um zu <seg id="4" type="intExpr">fragen</seg>,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">ob dieser schon im Hause sei.</said>
+            <seg id="5" type="frame" pos="start">Der <seg id="5" type="speaker">Kellner</seg> 
+               <seg id="5" type="intExpr">erwiderte</seg>,</seg>
+            <said id="5" mode="indirect" content="speech" level="1">daß der russische Herr vor einiger Zeit allein nach Haus gekommen und bereits in sein Schlafzimmer gegangen sei.</said> Das beruhigte Frau v. Sch... etwas und sie schlug nun den Weg nach Ludmillas Wohnung ein. Es war noch hell im Zimmer, aber die Vorhänge waren niedergelassen und es war unmöglich zu sehen, was im Innern vorging. <seg id="6" type="frame" pos="start">Doch <seg id="6" type="intExpr">fühlte</seg> und <seg id="6" type="intExpr">wußte</seg> 
+               <seg id="6" type="speaker">Frau v. Sch...</seg>,</seg>
+            <said id="6"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß Iwan hier sei.</said> Sie stand eine Zeitlang unter dem Fenster, unschlüssig, ob sie hineingehen solle oder nicht, <seg id="8" type="frame" pos="start">aber <seg id="8" type="speaker">Sergei</seg> 
+               <seg id="8" type="intExpr">beschwor</seg> sie,</seg>
+            <said id="8" mode="indirect" content="speech" level="1">es nicht zu tun.</said>
+            <seg id="9" type="frame" pos="start">
+               <seg id="9 10" type="speaker">Er</seg> 
+               <seg id="9" type="intExpr">sagte</seg>,</seg>
+            <said id="9" mode="indirect" content="speech" level="1">er kenne seinen Bruder viel zu gut, <seg id="10" type="frame" pos="start">um nicht zu <seg id="10" type="intExpr">wissen</seg>,</seg> 
+               <said id="10"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">daß es ihn tief beleidigen, ihn vielleicht für immer von den Seinigen entfernen würde.</said>
+            </said> Dieser Grund überwog bei der Mutter und schweren Herzens ging sie wieder heim. Kein Schlaf kam auf ihre Augenlider; <said id="11"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">
+               <seg id="11" type="speaker">sie</seg> 
+               <seg id="11" type="intExpr">zählte</seg> die Stunden der Nacht</said>, die langsam dahinschlichen, um zu hören, wann Iwan heimkehre. 
+                  Dieser war indes, als er das Haus verlassen hatte, direkt auf Ludmillas Wohnung zugeeilt. In kleiner Entfernung hielt er jedoch an, denn er sah Ludmilla und Schmetow noch vor derselben stehen. Endlich empfahl sich der letztere und ging. Iwan eilte hin. Er fand das Haus noch offen, pochte an Ludmillas Türe, trat aber auch zugleich ein. Sie sah ruhig und heiter aus, aber als sie ihn erblickte, flog eine Wolke über ihr Gesicht. 
+                  <said id="14" mode="direct" content="speech" level="1">»Halten Sie so <said id="25" mode="reported" content="speech" level="2">
+                  <seg id="25" type="speaker">Ihr</seg> 
+                  <seg id="25" type="intExpr">Versprechen</seg>
+               </said>, mein <seg id="16" type="speaker">Herr</seg>?«</said>
+            <seg id="14" type="frame" pos="end">
+               <seg id="14" type="intExpr">sagte</seg> 
+               <seg id="14 15" type="speaker">sie</seg> kalt.</seg>
+            <said id="15" mode="direct" content="speech" level="1">»Es war Bedingung, daß Sie hier bescheiden und vorsichtig sein sollten.«</said>
+            <said id="16" mode="direct" content="speech" level="1">»<seg id="26" type="frame" pos="start">Und <seg id="26" type="intExpr">glaubst</seg> 
+                  <seg id="26" type="speaker">du</seg>,</seg> 
+               <said id="26"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß ich das ertragen werde, Ludmilla, dich mit einem andern freundlicher zu sehen, als du es je mit mir gewesen bist?</said> 
+               <seg id="27" type="frame" pos="start">
+                  <seg id="27" type="intExpr">Wissen</seg> muß <seg id="27" type="speaker">ich</seg>,</seg> 
+               <said id="27"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">was das für ein Verhältnis ist mit diesem Schmetow, der wahrlich tut, als hätte er ältere Rechte auf dich, als ich.</said> Ha! wenn ich das fände, – es wäre sein Tod oder meiner.«</said>
+            <said id="19" mode="direct" content="speech" level="1">»Tor!«</said>
+            <seg id="19" type="frame" pos="end"> 
+               <seg id="19" type="intExpr">sagte</seg> 
+               <seg id="19 20" type="speaker">Ludmilla</seg>
+            </seg>, indem sie fast verächtlich mit den Schultern zuckte. <said id="20" mode="direct" content="speech" level="1">»Verhältnis? Was für ein Verhältnis? Ich kenne Schmetow von Petersburg her; er ist mein ergebener Freund; ich verehre ihn hoch, höher als alle andern Männer, ich könnte ihm jedes Opfer bringen. Fange nur nicht an, den Othello mit mir zu spielen, das ist lächerlich und ich hasse das Ridiküle! <said id="28"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">Von deinen Rechten <seg id="28" type="intExpr">weiß</seg> 
+                  <seg id="28" type="speaker">ich</seg> nichts:</said> ich habe mich nie des Rechts begeben, meine Freundschaft zu verschenken, an wen ich will.«</said>
+            <said id="22" mode="reported" content="speech" level="1">Kaum hatte <seg id="22" type="speaker">sie</seg> dies <seg id="22" type="intExpr">gesagt</seg>
+            </said>, so sprang Iwan wie ein Tiger, den das tödliche Blei verletzt hat, mit zornflammenden Augen auf sie zu, faßte die beiden Enden eines seidenen Tuches, das sie um den Hals geschlungen hatte und riß sie auf das Sofa nieder; <seg id="23" type="frame" pos="start">hier zog <seg id="23" type="speaker">er</seg> das Tuch fest zu und <seg id="23" type="intExpr">rief</seg>:</seg>
+            <said id="23" mode="direct" content="speech" level="1">»<said id="24"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="24" type="intExpr">Wiederhole</seg> noch einmal <seg id="24" type="speaker">deine</seg> letzten Worte</said> und deine Lippen werden nie wieder freveln.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

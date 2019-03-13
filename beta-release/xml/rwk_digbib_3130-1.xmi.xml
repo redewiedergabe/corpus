@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kalkstein</title>
+             <author>Stifter, Adalbert</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Kalkstein</f>
+         <f name="author">Stifter, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="2" mode="direct" content="thought" level="1">Aber sie kennen den Tod nicht. <said id="1" mode="reported" content="speech" level="2">Wenn <seg id="1" type="speaker">sie</seg> auch seinen Namen <seg id="1" type="intExpr">auf den Lippen führen</seg>
+               </said>, <said id="12"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">so <seg id="12" type="intExpr">kennen</seg> 
+                  <seg id="12" type="speaker">sie</seg> seine Wesenheit nicht</said>, und ihr emporstrebendes Leben hat keine Empfindung von Vernichtung. Wenn sie selbst in den Tod gerieten, <said id="13"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">würden <seg id="13" type="speaker">sie</seg> es nicht <seg id="13" type="intExpr">wissen</seg>
+               </said>, und sie würden eher sterben, ehe sie es erfahren.</said>
+            <said id="14" mode="reported" content="thought" level="1">Als <seg id="14 2" type="speaker">ich</seg> so <seg id="14" type="intExpr">dachte</seg>
+            </said>, hörte ich das <seg id="15" type="speaker">Glöcklein</seg> von dem Turme der Karkirche in meine Steine herein klingen, <said id="15"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">das eben zu der Morgenmesse <seg id="15" type="intExpr">rief</seg>
+            </said>, <said id="3"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">die der <seg id="3" type="speaker">Pfarrer</seg> 
+               <seg id="3" type="intExpr">abhalten</seg>
+            </said>, und der die Kinder beiwohnen würden. 
+                  Ich ging tiefer in die Steine hinein, und fand meine Leute, die sich freuten, mich zu sehen, und die mir Lebensmittel gebracht hatten. – 
+                  Da ich lange in der Gegend verweilte, konnte ich es nicht vermeiden, <said id="16" mode="reported" content="speech" level="1">auch aus dem <seg id="16" type="intExpr">Munde</seg> der <seg id="16 17 7" type="speaker">Menschen</seg> manches über den Pfarrer zu hören.</said>
+            <seg id="17" type="frame" pos="start">Da <seg id="17" type="intExpr">erfuhr</seg> ich,</seg>
+            <said id="17" mode="indirect" content="speech" level="1">daß es wirklich wahr sei, woran ich <said id="5" mode="reported" content="speech" level="2">vermöge <seg id="5" type="speaker">seiner</seg> 
+                  <seg id="5" type="intExpr">Aussage</seg>
+               </said> ohnehin nicht mehr gezweifelt hatte, daß er schon seit vielen Jahren in seinem Vorhause auf der hölzernen Bank schlafe und die Bibel unter dem Kopfe habe; daß er hiebei im Sommer nur die grauen Wollkleider anhabe, und im Winter sich auch einer Decke bediene.</said>
+            <said id="7" mode="indirect freeIndirect" content="speech" level="1">Seine Kleider trage er so lange und er halte sie so beisammen, <seg id="8" type="frame" pos="start">daß sich <seg id="8" type="speaker">niemand</seg> 
+                  <seg id="8" type="intExpr">erinnern</seg> könne,</seg> 
+               <said id="8"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">wann er sich einmal neue angeschafft hätte.</said> Das obere Stockwerk seines Pfarrhofes habe er vermietet. Es sei ein Malm gekommen, der in einem Amte gestanden, dann in den Ruhestand versetzt worden war, und der seinen Gehalt nun in der Gegend verzehre, in welcher er geboren worden sei. Er habe den Umstand, daß der Pfarrer seine Zimmer vermiete, benützt, um sich mit seiner Tochter da einzumieten, daß er immer den Schauplatz vor Augen habe, in dem er seine Kindheit zugebracht hatte.</said> Es war mir diese Tatsache wieder ein Beweis, wie süß uns 
+<said id="18" mode="reported" content="speech" level="1">nach den <seg id="18" type="intExpr">Worten</seg> des <seg id="18 19" type="speaker">Dichters</seg>
+            </said> der Geburtsboden zieht, <seg id="19" type="frame" pos="start">und seiner nicht <seg id="19" type="intExpr">vergessen</seg> läßt,</seg>
+            <said id="19"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß hier ein Mann eine Gegend als ein Labsal und als eine Erheiterung seines Alters aufsucht, aus der jeder andere fortzukommen trachten würde.</said>
+            <said id="10" mode="indirect" content="speech" level="1">Der Pfarrer</said>
+            <seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">sagte</seg> 
+               <seg id="10 11" type="speaker">man</seg>,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">esse zum Frühmahle und am Abende nur ein Stück schwarzen Brotes, und sein Mittagessen bereite ihm seine Dienerin Sabine, welche es in ihrer Wohnung koche und es ihm in den Pfarrhof bringe.</said>
+            <said id="11" mode="indirect freeIndirect" content="speech" level="1">Es bestehe häufig aus warmer Milch oder einer Suppe oder im Sommer selbst aus kalten Dingen. Wenn er krank sei, lasse er keinen Arzt und keine Arznei kommen, sondern liege und enthalte sich der Speisen, bis er gesund werde. Von den Einkünften seiner Miete und seines Amtes tue er Gutes, und zwar an Leute, die er sorgsam aussuche. Er habe keine Verwandten und Bekannten. Seit den Jahren, seit denen er da sei, sei niemand bei ihm auf Besuch gewesen. Alle seine Vorgänger seien nur kurze Zeit Pfarrer in dem Kar gewesen, und seien dann fortgekommen; er aber sei schon sehr lange da, und es habe den Anschein, daß er bis zu seinem Lebensende da bleiben werde. Er gehe auch nicht auf Besuche in die Nachbarschaft, ja er gehe nicht viel mit Menschen um, und wenn er nicht in seinen Amtsgeschäften oder in der Schule sei, so lese er in seinem Stüblein, oder <seg id="20" type="speaker">er</seg> gehe über die Wiese in das Steinkar, gehe dort im Sande herum, <said id="20" mode="reported" content="thought" level="2">oder sitze dort einsam mit seinen <seg id="20" type="intExpr">Gedanken</seg>.</said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

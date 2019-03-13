@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zigeunerstreiche.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1912</f>
+         <f name="decade">1910</f>
+         <f name="title">Zigeunerstreiche.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Unsure</f>
+         <f name="source">mkhz.czernowitzer</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Selten verüben sie ihre Gewalttaten bei Tage und
+                        selten wagen sie sich auch in die Zentren großer Ortschaften oder gar Städte; Ausnahmen von dieser Regel kommen nur als ganz vereinzelte Fälle vor. Im allgemeinen
+                        benützen sie die Nacht oder noch lieber, wie die Wilden, die
+                        frühesten Morgenstunden zu ihren Raubzügen und suchen
+                        nur die Peripherien der Dörfer heim. Schnell erscheinen
+                        sie, und schnell sind sie verschwunden. Ganze Gruppen befassen sich nur mit gewöhnlichem Diebstahl, dann wieder
+                        gibt es Zigeunerbanden, die nur den Raubmord als ihr
+                        Gewerbe betreiben. Diese Raubmörderbanden gehören alle
+                        einem organisierten Verbande an und wenn ein Trupp
+                        einen Mord verübt hat, so werden die Mörder schnell
+                        einem anderen Trupp eingereiht, und die Spuren sind in
+                        Augenblicken so gut verwischt, daß ihnen selbst die gewiegtesten Gendarmen nicht zu folgen vermögen. <seg id="1" type="frame" pos="start">Nach
+                        <seg id="1" type="intExpr">Angaben</seg> des <said id="2"
+                     mode="reported"
+                     content="speech"
+                     level="1"
+                     prag="yes">eingangs <seg id="2" type="intExpr">erwähnten</seg> 
+                  <seg id="1" type="speaker">Kenners</seg>
+               </said>
+            </seg>
+            <said id="1" mode="indirect" content="speech" level="1">gehören die
+                        Räuber und Mörder stets solchen Banden an, deren Mitglieder als Kesselflicker und Schlosser von Ort zu Ort
+                        ziehen, während die Diebe den Reihen der wandernden
+                        Zigeuner entstammen.</said>
+               Das ganze Zigeunervolk steckt noch tief im finstersten,
+                        scheußlichsten Aberglauben, wie folgender Vorfall beweisen mag: In Büdszentmihaly wurde der Zigeuner Karl
+                        Rostas verhaftet, weil er aus dem Friedhof eine Leiche
+                        ausgegraben und nachhause geschleppt hatte, um sie zu
+                        verspeisen. <seg id="3" type="frame" pos="start">
+               <seg id="3" type="speaker">Rostas</seg> 
+               <seg id="3" type="intExpr">erklärte</seg>,</seg>
+            <said id="3" mode="indirect" content="speech" level="1">daß es ihm hauptsächlich um
+                        die Hände des Toten zu tun gewesen war.</said>
+            <said id="4" mode="indirect freeIndirect" content="speech" level="1">
+               <seg id="4" type="speaker">Er</seg> äße die
+                        Hände eines Leichnams, weil ihn solche Speise bei Diebstählen vor der Verhaftung schütze.</said> Dieser Aberglaube
+                        verdient die Beachtung der Kultur- und Sittenforscher,
+                        weil er auffallend mit einem im ganzen Osten Europas
+                        weit verbreiteten Aberglauben der Diebe übereinstimmt.
+                        Gräberschändungen zwecks Erlangung einer Totenhand
+                        als Diebstalismans sind häufig. Denn wenn man eine
+                        Totenhand in ein Fenster eines Hauses, in dem man
+                        einbricht, legt, so schlafen die Bestohlenen fest, und der
+                        Dieb kann ruhig arbeiten.
+               Mit Vorliebe sehen es jene Zigeuner, die bei ihren
+                        Räubereien bares Geld ergattern wollen und dabei auch
+                        vor Mord nicht zurückschrecken, auf die einsam gelegenen
+                        Gasthäuser der Pußta ab. Solche Ueberfälle werden nicht
+                        von einzelnen, sondern von ganzen Banden unternommen. Ein besonders romantischer Ueberfall wurde vor
+                        zwei Jahren von einer <seg id="6" type="speaker">Zigeunerbande</seg> in Pojana bei
+                        Lugos unternommen. Sie spekulierte bei Ausübung die ses Verbrechens auf den Aberglauben der Bevölkerung,
+                        der in jener zumeist von Serben bewohnten Gegend groß
+                        ist. In der Nacht vom 13. auf den 14. Mai 1910 klopfte
+                        es nämlich in dem genannten Dorfe an die Tür des
+                        <seg id="5" type="speaker">Müllers Petru Muntyan</seg>. <seg id="5" type="frame" pos="start">Auf die <seg id="5" type="intExpr">Frage</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">Wer da?</said>
+            <seg id="6" type="frame" pos="start">
+               <seg id="6" type="intExpr">hieß</seg>
+                        es:</seg>
+            <said id="6" mode="direct" content="speech" level="1">der Teufel!</said> Muntyan sah hinaus und erblickte zwölf
+                        in weiße Leintücher gehüllte <seg id="8" type="speaker">Gestalten</seg>. <said id="7" mode="direct" content="speech" level="1">„Was wollt ihr?“</said>
+            <seg id="7" type="frame" pos="end">
+               <seg id="7" type="intExpr">schrie</seg> der abergläubische <seg id="7" type="speaker">Müller</seg> voller Entsetzen.</seg>
+            <seg id="8" type="frame" pos="start">Wie aus
+                        Grabestiefe kam die <seg id="8" type="intExpr">Antwort</seg>:</seg>
+            <said id="8" mode="direct" content="speech" level="1">„Dein Gut, Dein Geld,
+                        Dein Weib!“</said> Muntyans Frau war nicht so ängstlich und
+                        abergläubisch wie ihr Mann. Sie ergriff ein Gewehr und
+                        schoß auf die Gespenster, und diese erwiderten das Feuer
+                        nach allzu menschlicher Manier. Diese Schüsse lockten Gendarmen herbei, und die Räuber entflohen. Aber der
+                        Kampf hatte schon seine Opfer gefordert: außer einem
+                        verwundeten Zigeuner fanden die Gendarmen auf dem
+                        Schlachtfeld den Müller tot, die tapfere Müllerin schwerverletzt.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

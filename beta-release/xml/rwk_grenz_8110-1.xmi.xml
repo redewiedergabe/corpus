@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hinterlassene Schriften von G. G. Gervinus.</title>
+             <author>Rößler, Constantin </author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1872</f>
+         <f name="decade">1870</f>
+         <f name="title">Hinterlassene Schriften von G. G. Gervinus.</f>
+         <f name="author">Rößler, Constantin </f>
+         <f name="fictional">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Um ein
+                        so klägliches Ziel würde es sich kaum der Mühe lohnen, einen vorübergehenden Erfolg zu entbehren. Sehr lächerlich aber ist, wenn der angeblich von
+                        Preußen geführte „Stoß ins Herz des Legitimismus und Monarchismus" dem
+                        revolutionären Orkan die Bahn geebnet haben soll. <said id="15"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Der <seg id="15" type="speaker">Mann</seg>, der sich für
+                        einen großen Geschichtskenner <seg id="15" type="intExpr">hält</seg>
+            </said>, verwechselt die privatrechtliche Carricatur
+                        der Monarchie mit ihrer wahren geschichtlichen Erscheinung. Die Domänen
+                        des Privatfürstenthums können dem Mißbrauch schaarenweis entzogen werden,
+                        und die Monarchie wird sich im Glauben wie im Leben der Völker nur um
+                        so fester erheben, wenn ihr das göttliche Siegel ihrer Beglaubigung, wenn
+                        ihr die monarchischen Thaten und Gründungen, wenn ihr der monarchisch
+                        institutionenbildende Geist nicht fehlt.
+            Wir kommen zu des Anklägers letztem Pfeil. Es ist das Ausland
+                        welches ein wahrhaft einheitlich geordnetes, ein wahrhaft starkes Deutschland
+                        niemals dulden wird. Wir werden auf die Geschichte des Mittelalters und
+                        auf die späteren Versuche Oestreichs in der angegebenen Richtung hingewiesen.
+                        Es ist aber männiglich bekannt, daß im Mittelalter vornehmlich das römische
+                        Papstthum es war, welches die Consolidation des deutschen Staates verhinderte. Das Hinderniß war allerdings in einer ausländischen Macht gelegen, aber doch nicht in einer ausländischen Macht nach den modernen Begriffen. Es waren zwei universalistische Tendenzen, die sich im Papstthum
+                         
+            
+            und Kaiserthum bekämpften. Was sollen wir die alte, wenn auch stets interessante Geschichte an dieser Stelle beleuchten? <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">Das Scheitern der deutschen
+                        Monarchie im Mittelalter wird in keinem <seg id="2" type="intExpr">Kopfe</seg>, als in dem unseres <seg id="2" type="speaker">Anklägers</seg>, sich zum Beweis gegen die Herstellung der Monarchie in der neudeutschen Staatsentwickelung gestalten.</said>
+            <said id="4" mode="reported" content="speech" level="1">Mit erhöhter Siegesgewißheit kommt der <seg id="4" type="speaker">Ankläger</seg> auf die Versuche der
+                        Habsburger im 17. Jahrhundert zu <seg id="4" type="intExpr">sprechen</seg>, das deutsche Reich dem Staatsgedanken der damaligen Zeit zu unterwerfen, wie er sich in der habsburgischen
+                        Ausführung gestaltete.</said>
+            <said id="14" mode="indirect freeIndirect" content="speech" level="1">Der halbe Erdtheil sei gegen diese Versuche aufgestanden</said>, <seg id="6" type="frame" pos="start">und mit sichtbarem Wohlgefallen <seg id="6" type="intExpr">betont</seg> 
+               <seg id="6 14" type="speaker">Gervinus</seg>,</seg>
+            <said id="6" mode="indirect" content="speech" level="1">daß ein fremder
+                        Herrscher als Retter der deutschen „Stämme" von den Fürsten der bedrohten
+                        Kleinstaaten empfangen wurde, <said id="12"
+                     mode="reported"
+                     content="writing"
+                     level="2"
+                     nonfact="yes">die noch von keiner <seg id="12" type="speaker">Geschichtsschreibung</seg> darum
+                        des Vaterlandsverrathes bezichtigt worden seien.</said>
+            </said>
+            Aber hier liegt wieder <said id="7" mode="reported" content="speech" level="1">eine Reihe von falschen <seg id="7" type="intExpr">Behauptungen</seg>
+            </said>, oder wenn
+                        das besser ist, von Selbsttäuschungen phantasirender Geschichtsbetrachtung
+                        vor. Nicht um die deutschen „Stämme" handelte es sich im 30jährigen Krieg,
+                        sondern um die Rettung des Protestantismus vor dem Jesuitismus. Nicht
+                        um den Particularismus gegenüber einer nationalen Monarchie handelte es
+                        sich, sondern um die Rettung der deutschen Nationalität selbst gegenüber
+                        einer spanisch-wallonisch-italienischen Camarilla, deren Werkzeug Croaten, Wallonen, spanische und italienische Heerhaufen waren. <seg id="8" type="frame" pos="start">
+               <seg id="8" type="speaker">Man</seg> kann die merkwürdige Katastrophe Wallensteins daraus <seg id="8" type="intExpr">erklären</seg>,</seg>
+            <said id="8" mode="indirect" content="speech" level="1">daß die Habsburger unfähig waren, <said id="16" mode="reported" content="thought" level="2">den <seg id="16" type="intExpr">Staatsgedanken</seg> des 17. Jahrhunderts</said> in seiner Reinheit zu
+                        ergreifen, daß sie ihn jesuitisch verunstalten mußten.</said> Hätte in den damaligen
+                        Habsburgern der Geist gelebt, den Wallenstein heraufzubeschwören versuchte:
+                        die Politik des Absolutismus, aber im deutsch-nationalen Sinne, mit deutschem Material und ohne Belästigung des religiösen Gewissens zu ergreifen,
+                        so wäre das weltgeschichtliche Recht mit ihnen gewesen, weil sie sich zu seinen
+                        Vollstreckern gemacht hätten. Dann war unnöthig, Wallenstein zu verstoßen, dann hätte der kleinstaatliche Particularismus trotz des schwedischen
+                        Retters nichts vermocht.
+            Es ist höchst auffällig, <said id="13" mode="reported" content="speech" level="1">wie <seg id="13" type="speaker">Gervinus</seg> das Auftreten Gustav Adolphs
+                        in der deutschen Geschichte — <said id="9"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">das für den <seg id="9" type="speaker">Deutschen</seg> immer eine traurige <seg id="9" type="intExpr">Erinnerung</seg> bleibt</said>, weil es die Rettung unseres Selbst auf Kosten dieses Selbst
+                        durch das Ausland von dem Ausland bedeutet — mit solchem Nachdruck <seg id="13" type="intExpr">hervorhebt</seg>.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

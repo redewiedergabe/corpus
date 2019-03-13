@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Weihnachten vor Paris (Schluß)</title>
+             <author>Stellanus, Georg</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1901</f>
+         <f name="decade">1900</f>
+         <f name="title">Weihnachten vor Paris (Schluß)</f>
+         <f name="author">Stellanus, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Er war eben
+                        ein Dammich, was nicht ausschließt, daß man bereit sein kann, zur Durchführung
+                        eines fidelen Plans einem ehrsamen Bürger, und wenn es der Vater des besten
+                        Freundes wäre, etwas Sand in die Augen zu streuen. Eugen wollte dem alten Hahn
+                        lieber keinen Sand in die Augen streuen, aber <seg id="1 2" type="speaker">er</seg> machte sich anheischig, <said id="1" mode="reported" content="speech" level="1">ihm folgenden
+                        Kunstfloh <seg id="1" type="intExpr">ins Ohr zu setzen</seg>.</said> Da es dem Regiment sehr daran liege, möglichst bald
+                        wieder vollzählig zu sein, so sei eine Anzahl von Unteroffizieren als Preßgänger
+                        thätig, die sich in den Fuhrparkskolonnen und sonst jedes körperlich einigermaßen
+                        tüchtigen jungen Menschen bemächtigten und ihm mit Gewalt den schwarzen Kragen
+                        anlegten. Im Frieden sei das allerdings nicht mehr erlaubt, aber im Felde, vor
+                        dem Feinde habe der <said id="2" mode="direct" content="speech" level="1">„alte Schützengeist"</said> ein Recht dazu: das sei etwas durch das
+                        Herkommen Geheiligtes, das man ihm nicht nehmen könne. Da deshalb ein junger
+                        Mann wie Julius innerhalb der ersten vierundzwanzig Stunden weggeschnappt
+                        und eingekleidet werden würde, so empfehle sich in dessen Interesse <said id="3"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">eine <seg id="3" type="intExpr">Notlüge</seg>
+            </said>,
+                        und <seg id="4" type="speaker">man</seg> werde wohl daran thun, <said id="4"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">ihn für ein Mädchen, am besten für Karls
+                        Schwester <seg id="4" type="intExpr">auszugeben</seg>.</said>
+            <seg id="7" type="speaker">Vater Hahn</seg> war <said id="7" mode="reported" content="thought" level="1">mit innigem <seg id="7" type="intExpr">Einverständnis</seg>
+            </said> — <said id="6" mode="direct" content="speech" level="1">„mit Wollust,"</said>
+            <seg id="6" type="frame" pos="end">wie sich
+                        <seg id="6" type="speaker">Zeisig</seg> 
+               <seg id="6" type="intExpr">ausdrückte</seg>
+            </seg> -  auf die für ihn zurechtgemachte Leimrute gegangen. Wenn
+                        der alte Schützengeist das Recht hatte, so war daran nichts zu ändern. <said id="8" mode="reported" content="thought" level="1">
+               <seg id="8 9 10" type="speaker">Er</seg> hätte
+                        ja den Schützen, weil doch Karl <said id="9" mode="direct" content="speech" level="2">„ooch eener"</said> war, den hübschen Rekruten <seg id="8" type="intExpr">gegönnt</seg>
+            </said>,
+                        <seg id="10" type="frame" pos="start">aber die <seg id="10" type="intExpr">Erwägung</seg>,</seg>
+            <said id="10" mode="indirect" content="thought" level="1">wie unwillkommen Juliussens Zwangseinstellung den vier Liebesgabenrittern sein würde</said>, hatte sofort die Oberhand gewonnen. Wenn sie ihn nicht
+                        auf dem Privatleiterwagen des Etappenkommandanten nach mit Leber Galang
+                        genommen hätten, würde er Karln heute nicht mehr gefunden haben. <said id="11"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Das konnte
+                        ihnen nie genug <seg id="11" type="intExpr">gedankt</seg> werden</said>, und daß sie, allerdings unwillentlich, dabei doch
+                        auch an der verpaßten Gelegenheit zur „Köninglichen Hoheit" schuld gewesen waren,
+                        war durch jenes Verdienst mehr als ausgeglichen. Ihr Julius mußte der Gefahr
+                        unter allen Umständen entrissen, und um das zu erreichen, <said id="12"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">für ein Mädchen <seg id="12" type="intExpr">ausgegeben</seg> werden.</said> Zum Glück war er noch bartlos, und wer nicht seinen, Vater
+                        Hahns, scharfen Blick hatte, konnte sich täuschen lassen. Wenn nur Paul, der noch
+                        immer nicht wieder aufgetaucht war, den Werbeunteroffizieren nicht in die Hände
+                        fiel: in friedlichen Zeiten wäre allerdings wegen seiner Hüfte nichts für ihn zu
+                        fürchten gewesen, aber hier im Felde, wo er selbst trotz seines vorgerückten Alters
+                        nicht sicher war, ob sich nicht der in einer finstern Ecke lauernde alte Schützengeist
+                        sogar auf ihn stürzen möchte, war für nichts zu stehn. <said id="13" mode="reported" content="speech" level="1">
+               <said id="14" mode="reported" content="thought" level="2">Aber <seg id="14" type="speaker">er</seg> hatte schon seinen
+                        <seg id="14" type="intExpr">Plan</seg>
+               </said>, den <seg id="13" type="speaker">er</seg> Karl und Zeisig <seg id="13" type="intExpr">mitteilte</seg>:</said>
+            <said id="15" mode="reported" content="speech" level="1">wie Juliussen wollte <seg id="15" type="speaker">er</seg> auch Pauln für
+                        ein junges Mädchen <seg id="15" type="intExpr">ausgeben</seg>, für eine Freundin seiner Tochter, Fräulein Pauline,
+                        die mitgekommen war, um die Gefahr mit ihrer Freundin, der angeblichen Rosa,
+                        zu teilen.</said>
+            <said id="17" mode="direct" content="speech" level="1">Aber Vater</said>
+            <seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">sagte</seg> 
+               <seg id="17" type="speaker">Karl</seg>,</seg>
+            <said id="17" mode="direct" content="speech" level="1">
+               <said id="18" mode="reported" content="thought" level="2">wo <seg id="18" type="intExpr">denkst</seg> 
+                  <seg id="18" type="speaker">du</seg> denn hin!</said> Eenen, der lahm is, kann
+                        doch unser Oberscht nich brauchen, <said id="19"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">un 's <seg id="19" type="intExpr">gloobts</seg> uns ja ooch <seg id="19" type="speaker">keener</seg>
+               </said>, der Pauln
+                        sieht: wie e Mädel sieht der doch wahrhaftigen Gottes nich aus.</said>
+            Man soll sich grundsätzlicherweise nie auf die Seite eines Sohnes stellen, <said id="20" mode="reported" content="speech" level="1">
+               <seg id="20" type="speaker">der</seg>
+                        seinem Vater <seg id="20" type="intExpr">widerspricht</seg>
+            </said>, aber - <said id="21"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">unter uns <seg id="21" type="intExpr">gesagt</seg>
+            </said> - das allerallereinzigste mal
+                        hatte Karl doch Recht: wie ein verkleidetes Mädchen sah Paul nicht aus: nur allein
+                        die beiden auf der Schindelmühle in Aktion getretnen Fäuste.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

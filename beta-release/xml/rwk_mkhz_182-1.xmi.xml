@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1871</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.augsburg</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Manche Gebäude erzitterten in ihren
+                     Grundvesten.
+                  <seg id="1" type="frame" pos="start">Der „D.
+                  Z.“ <seg id="1" type="intExpr">schreibt</seg> 
+               <seg id="1" type="speaker">man</seg> aus Nieder=Beerbach, 26 Febr:</seg>
+            <said id="1" mode="direct" content="writing" level="1">Nach dem heftigen
+                     Erdstoße der am 12 Febr. Vorm. halb 11 Uhr die beim Gottesdienst versammelte
+                     Gemeinde so erschreckte, daß viele laut aufschrieen, bemerkte man hier
+                     tägliche, aber nur geringe Erschütterungen, zum Theil mit dumpfem Rollen, bis
+                     gestern früh 8 Uhr 49 Minuten wieder ein sehr heftiger Stoß erfolgte, der das
+                     ganze Haus erbeben, die Schränke wanken, Gläser klirren ließ, und etwa 25
+                     Secunden, sich allmählich mindernd, andauerte.
+                  Die Kinder in der Schule schrieen und weinten; <seg id="2" type="frame" pos="start">
+                  <seg id="2" type="speaker">Holzmacher</seg>
+                     <seg id="2" type="intExpr">erzählten</seg>:</seg> 
+               <said id="2" mode="indirect" content="speech" level="2">das Rauschen und Widereinanderschlagen der Bäume habe ihnen
+                     Schrecken eingejagt; dazu seien zwei Mauern der Ruine Frankenstein mit Getöse
+                     theilweise eingestürzt, so daß die Leute entsetzt aus dem Walde
+                     heimliefen.</said>
+                  Von diesem ersten Stoß an erfolgten in größern oder geringern
+                     Unterbrechungen bis zum Abend noch neun Erschütterungen; zwischen Mitternacht
+                     und halb 1 Uhr wieder zwei Erschütterungen mit dumpfem Rollen.
+                  Fünf Minuten nach 4 Uhr Morgens wieder ein Stoß, der dem von
+                     gestern früh an Stärke nichts nachgab, von starkem Rollen begleitet, welches
+                     sich auch binnen einer halben Stunde noch viermal ohne Stoß wiederholte, und
+                     wie fernes Donnern klang.
+                  Auch dießmal war zu bemerken daß die Richtung der Stöße von Süd und
+                     Südwest her zu kommen schien.</said>
+               
+            
+            
+               
+                  New=York, 9 Febr. <seg id="4" type="frame" pos="start">Ueber <said id="3" mode="reported" content="writing" level="1">ein kürzlich von <seg id="3" type="speaker">uns</seg> 
+                  <seg id="3" type="intExpr">erwähntes</seg>
+                     Eisenbahnunglück</said> bringt die <seg id="4" type="speaker">„Frkf.
+                  Ztg.“</seg> unter obigen Datum folgenden <seg id="4" type="intExpr">Bericht</seg>:</seg>
+            <said id="4" mode="direct" content="writing" level="1">„Jn der Nacht vom 6 zum
+                     7 Febr. ereignete sich in der Nähe von Poughkeepsie ( Staat New=York ) ein
+                     Eisenbahnunglück wie unser mit Eisenbahnunglücken leider so reich gesegnetes
+                     Land bis heute kein zweites in dieser Art aufzuweisen hat.
+                  Es war etwa eine halbe Stunde nach 10 Uhr des Abends als ein aus 30
+                     Wagen bestehender Extragüterzug, der mit Petroleum beladen war, die Station
+                     Neu=Hamburg über New=York passirte.
+                  Eine kurze Strecke davon gerieth einer der Wagen aus dem Geleise,
+                     was jedoch der Locomotivführer nicht eher bemerkte als bis er auf die Brücke
+                     von „Wappinger's Creek“ kam.
+                  Hier schien ihm etwas nicht recht in Ordnung, und er gab dem Zug
+                     neue Zugkraft, indem er den Dampf voll anließ.
+                  Der Effect war daß inmitten auf der Brücke der Wagen, der bereits
+                     aus dem Geleise war, auf das andere Geleis geschleudert wurde.
+                  Jn demselben Augenblicke brauste der „Courierzug“ von New=York
+                     heran.
+                  Der Locomotivführer sah zwar den Wagen auf seinem Gleise liegen,
+                     aber keine menschliche Macht konnte den Zusammenstoß mehr vermeiden, und
+                     mit aller Macht fuhr der Expreßzug in den mit nichtraffinirtem Petroleum
+                     beladenen Wagen hinein.
+                  Ein markerschütternder Stoß, dann ein Aufflammen bis zum Himmel
+                     hinan und darauf eine furchtbare Explosion -- das war das Werk eines
+                     Augenblicks!
+                  Eine Secunde später ein neuer Krach, und die
+                     hölzerne Eisenbahnbrücke bricht zusammen, und der ganze Courierzug mit dem in
+                     Flammen stehenden Petroleumwagen stürzt hinunter in den zugefrornen Fluß! Aus
+                     mehr denn 50 menschlichen Kehlen dringt ein Schrei der gräßlichsten Todesangst
+                     durch die Luft; oben der Zug hat diese letzten Rufe Verunglückter hören können,
+                     während sie ihre Todesfahrt von 200 Fuß von der Brücke herunter in den Fluß
+                     machten; dann erfolgte ein Krachen und Zischen, <said id="5" mode="direct" content="speech" level="2">„wie wenn Feuer mit Wasser sich
+                     mengt“</said> -- und es ward still in der Tiefe.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

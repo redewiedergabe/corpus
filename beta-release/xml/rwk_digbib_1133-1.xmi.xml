@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Werde, die Du bist!</title>
+             <author>Dohm, Hedwig</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1894</f>
+         <f name="decade">1890</f>
+         <f name="title">Werde, die Du bist!</f>
+         <f name="author">Dohm, Hedwig</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="1" type="frame" pos="start">Da stand <seg id="1" type="speaker">Heinrich</seg> auf und <seg id="1" type="intExpr">sagte</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">»Bitte, Mama,
+                        nur nichts Medicinisches.«</said>
+            <said id="2" mode="reported" content="speech" level="1">Und am Tage darauf <seg id="2" type="intExpr">redeten</seg> 
+               <seg id="2" type="speaker">wir</seg> von
+                        Mädchen-Erziehung.</said>
+            <seg id="3" type="frame" pos="start">Da stand <seg id="3" type="speaker">er</seg> auch auf und <seg id="3" type="intExpr">sagte</seg>:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Nur nichts über Erziehung, dann
+                        noch lieber Medicinisches.«</said>
+            <seg id="4" type="frame" pos="start">
+               <seg id="4" type="speaker">Ich</seg> 
+               <seg id="4" type="intExpr">weiß</seg> nicht mehr,</seg>
+            <said id="4"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">
+               <said id="5"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">was <seg id="5" type="speaker">ich</seg> 
+                  <seg id="5" type="intExpr">reden</seg> soll</said>
+            </said>, und
+                        werde still und einsilbig; <said id="25" mode="reported" content="speech" level="1">nur so das Allereinfachste <seg id="25" type="intExpr">sage</seg> 
+               <seg id="25" type="speaker">ich</seg>, über das
+                        Wetter, über das blühende Aussehen der Kinder</said>, <said id="26" mode="reported" content="speech" level="1">und <seg id="26" type="speaker">ich</seg> 
+               <seg id="26" type="intExpr">sage</seg> das nur so
+                        mechanisch</said>, <said id="27" mode="reported" content="thought" level="1">damit <seg id="27" type="speaker">man</seg> mich nicht <seg id="27" type="intExpr">für</seg> mürrisch und unzufrieden <seg id="27" type="intExpr">halten</seg>
+                        soll.</said>
+                  
+                  
+                     Ich ertappe mich zuweilen, <said id="7" mode="reported" content="speech" level="1">daß <seg id="7 28" type="speaker">ich</seg> laut mit mir selber
+                        <seg id="7" type="intExpr">spreche</seg>.</said>
+            <said id="28" mode="freeIndirect" content="thought" level="1"> Thun das vielleicht alte Leute so häufig, weil Andere sie nicht
+                        hören mögen?</said>
+                  
+                  
+                     Ein ander Mal, als bei Grete Gesellschaft war, hatte ich mir
+                        ganz feine, neue Handschuhe angezogen, um ihr Ehre zu machen.
+                     <said id="8" mode="direct" content="speech" level="1">»Thu mir den Gefallen, Mamachen,«</said>
+            <seg id="8" type="frame" pos="mid">
+               <seg id="8" type="intExpr">sagte</seg> 
+               <seg id="8" type="speaker">Heinrich</seg>,</seg>
+            <said id="8" mode="direct" content="speech" level="1">»und ziehe die
+                        Handschuhe aus, man sieht dann gleich, daß Du zur Familie gehörst.«</said>
+            <seg id="9" type="frame" pos="start">Einen
+                        Augenblick <seg id="9" type="intExpr">fuhr</seg> es <seg id="9" type="speaker">mir</seg> 
+               <seg id="9" type="intExpr">durch den Sinn</seg>:</seg>
+            <said id="9" mode="direct" content="thought" level="1">
+               <seg id="10" type="frame" pos="start">hat <seg id="10" type="speaker">er</seg> den <seg id="10" type="intExpr">Hintergedanken</seg>,</seg> 
+               <said id="10"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß ich in
+                        meiner dürftigen Erscheinung, als gebetener Gast, compromittirend bin?</said>
+            </said>
+                     Für eine Mutter oder Schwiegermutter ist man nicht
+                        verantwortlich.
+                     Die muß man hinnehmen, wie Gott sie giebt.
+                    <said id="29" mode="reported" content="thought" level="1"> 
+               <seg id="29" type="speaker">Ich</seg> 
+               <seg id="29" type="intExpr">bereute</seg> gleich diesen Gedanken.</said>
+            <said id="32" mode="reported" content="speech" level="1">
+               <seg id="33" type="frame" pos="start">
+                  <seg id="32 33" type="speaker">Er</seg> 
+                  <seg id="32 33" type="intExpr">lobte</seg>
+               </seg> seinen Gästen gegenüber laut
+                        meine Herzensgüte</said>, <said id="33" mode="indirect" content="speech" level="1">wie ich acht Jahre so treu meinen Gatten gepflegt
+                        u.s.w.</said>
+                     Das war mir entsetzlich peinlich und verletzte mich
+                        wirklich.
+                     <seg id="12" type="frame" pos="start">Und wieder <seg id="12" type="intExpr">dachte</seg> 
+               <seg id="12" type="speaker">ich</seg>:</seg>
+            <said id="12" mode="direct" content="thought" level="1">
+               <said id="13"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="13" type="intExpr">Lobt</seg> 
+                  <seg id="13" type="speaker">er</seg> Dich etwa</said>, wie eine Art
+                        Entschuldigung für Deine sonstige Kümmerlichkeit.</said>
+            <said id="14"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">
+               <seg id="14" type="speaker">Ich</seg> 
+               <seg id="14" type="intExpr">sage</seg> es ja – Verfolgungswahn!</said>
+                  
+                  
+                     Wenn ich von einem Spaziergang heimkomme und ein besonders
+                        feiner Besuch ist bei meinen Kindern, so gehe ich die Hintertreppe herauf,
+                        leise, damit mich Niemand hört.
+                     Es ist unbequem für <seg id="15" type="speaker">sie</seg>, <said id="15"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">das alte Mämmchen dem Gast erst
+                        <seg id="15" type="intExpr">vorstellen</seg> zu müssen</said>, <seg id="16" type="frame" pos="start">und darnach <seg id="16" type="intExpr">weiß</seg> 
+               <seg id="16" type="speaker">man</seg> nicht,</seg>
+            <said id="16"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was man mit ihr anfangen
+                        soll.</said>
+            <seg id="30" type="frame" pos="start">Es <seg id="30" type="intExpr">bedrückt</seg> 
+               <seg id="30" type="speaker">mich</seg>,</seg>
+            <said id="30" mode="indirect" content="thought" level="1">daß ich so unbeholfen bin, so würdelos im
+                        grauen Haar.</said>
+            <said id="17" mode="reported" content="speech" level="1">Die Paar <seg id="17" type="intExpr">Höflichkeitsphrasen</seg>, die ab und zu ein <seg id="17" type="speaker">Besuchender</seg> an
+                        mich richtet</said>, irritiren mich.
+                     <said id="18"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="18" type="speaker">Sie</seg> brauchen ja nicht mit mir zu <seg id="18" type="intExpr">reden</seg>.</said>
+                     Sie sollen es nicht.
+                  
+                  
+                     So herzlich war mein Gretel beim Abschied und Heinrich so
+                        wohlwollend freundlich, wenn auch etwas zerstreut.
+                     Die Kinder bliesen eine Fanfare – allerliebster Einfall – oder –
+                        Humor, altes Mämmchen!
+                     Humor!
+                  
+                  
+                     Magdalene macht soviel Umstände mit mir.
+                     Sie hat sich um meinetwillen ihres Teppichs beraubt.
+                     <said id="19" mode="reported" content="speech" level="1">Neulich <seg id="19" type="intExpr">klagte</seg> 
+               <seg id="19" type="speaker">sie</seg> über kalte Füße.</said>
+            <said id="20" mode="direct" content="speech" level="1">»Wozu hast Du denn Deinen Teppich?«</said>
+            <seg id="20" type="frame" pos="end">
+               <seg id="20" type="intExpr">fragte</seg> 
+               <seg id="20" type="speaker">Eugen</seg>.</seg>
+                     Sie gab ihm einen Wink.
+                     <seg id="21" type="frame" pos="start">Und dann <seg id="21" type="intExpr">merkte</seg> 
+               <seg id="21" type="speaker">ich</seg>,</seg>
+            <said id="21"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß sie Mittags nicht wie sonst ihr Glas
+                        Wein trank.</said>
+                     Sie spart es sich am Munde ab, um es mir zu geben.
+                     <said id="31" mode="reported" content="speech" level="1">Es <seg id="31" type="intExpr">entfuhr</seg> 
+               <seg id="31" type="speaker">ihr</seg> neulich</said>, so unwillkürlich.
+                  
+                  
+                     Magdalene ist, wie ich war.
+                     Ich sehe mich bei ihr wie in einem Spiegel.
+                     Sie nimmt auch oft von einer Speise nichts, damit ihr Mann recht viel davon haben soll.
+                     Nur verfährt sie bei Allem praktischer.
+                     Sie weiß es so einzurichten, daß ihr Mann dahinter kommt, wenn
+                        sie ihm ein Opfer bringt.
+                     Ich war immer in Angst, <said id="24"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">
+               <seg id="24" type="speaker">er</seg> könne es <seg id="24" type="intExpr">merken</seg>.</said>
+                     Und Alles thut sie rascher, munterer und bewußter, als ich es
+                        that.
+                     Und ihr Mann – den liebt sie ganz anders, als
+                        ich Eduard liebte, ganz anders.
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

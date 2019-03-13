@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Deutsches Reich. Frankreich. Oesterreich-Ungarn. Italien. Spanien. Türkei.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Deutsches Reich. Frankreich. Oesterreich-Ungarn. Italien. Spanien. Türkei.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Ausland.
+                        
+            
+            
+               
+                  Deutsches Reich.
+                        
+               
+               
+                  
+                     Hamburg, 11. Januar. date
+                  Die
+                        Zahl der Arbeitslosen beträgt ungefähr 30,000. Infolge der
+                        Unterbrechung der Schifffahrt und der großen Kälte herrscht
+                        große Noth.
+               
+               
+                  — Dr. Windthorst wird nächstens 80 Jahre alt.
+               
+            
+            
+               
+                  Frankreich.
+                        
+               
+               
+                  Der Mörder des russischen Gesandten in
+                        Paris, Padlewski mit Namen, wurde kürzlich in Olot (Spanien), nahe an der französischen Grenze, verhaftet. Er wird
+                        an Frankreich ausgeliefert werden.
+               
+               
+                  — In Toulouse wollte der Pöbel am Mittwoch Abend
+                        den Laden eines Preußen plündern, der deutsche Angestellte hat.
+                        Die Polizei mußte eingreifen.
+               
+            
+            
+               
+                  Oesterreich-Ungarn.
+                        
+               
+               
+                  
+                     Vorarlberg. 
+                  Ueber die
+                        Rheinkorrektion ist’s sehr stille geworden; man thut inzwischen
+                        das Mögliche für die Instandsetzung aktueller Rheinschutzbauten.
+                        Die Wuhre und Dämme sollen österreichischerseits mit Hülfe der
+                        neuen Reichssubsidien den schweizerischen möglichst ebenbürtig, an
+                        einzelnen Stellen noch stärker gemacht werden. Die reorganisirten. Gemeindewehren haben für Ueberraschungsfälle an allen
+                        kritischen Stellen große Steinhaufen aufgerichtet, mit denen raschest blöde werdende Dammstücke gestützt werden können; in dieser Beziehung herrscht diesseits des Rheines zur Zeit große Rührigkeit.
+                  
+               
+            
+            
+               
+                  Italien.
+                        
+               
+               
+                  
+                     Rom. 
+                  <seg id="1" type="frame" pos="start">Dem „<seg id="1" type="speaker">Moniteur</seg>“ <seg id="1" type="intExpr">zufolge</seg>
+            </seg>
+            <said id="1" mode="indirect" content="writing" level="1">wird die
+                        vom Papste angenommene Vermittlung zwischen Portugal und dem
+                        Kongostaat eine schiedsrichterliche sein. </said>Beide Mächte verpflichten
+                        sich, die Entscheidung des Papstes definitiv anzunehmen.
+               
+               
+                  — Mailand, 10. Jan. date
+                  In San Demetrio (Distrikt
+                        Aquila) ist das Schulgebäude in Folge Schneedruck eingestürzt;
+                        der Lehrer und viele Schüler sind verunglückt.
+               
+            
+            
+               
+                  Spanien.
+                        
+               
+               
+                  In ganz Spanien herrscht ungewöhnliche
+                        Kälte; in Valenzia sind die Orangenbäume erfroren, der Schaden
+                        ist groß. In Granada wurde am 8. ds. ein Erdbeben verspürt,
+                        das neun Sekunden währte.
+               
+            
+            
+               
+                  Türkei.
+                        
+               
+               
+                 <seg id="2" type="frame" pos="start"> Wie der „N. Fr. Pr.“ über Sofia aus Konstantinopel <seg id="2" type="intExpr">gemeldet</seg> wird,</seg>
+            <said id="2" mode="indirect" content="writing" level="1">herrscht auf der Hohen Pforte
+                        große Aengstlichkeit, da gelegentlich der Lutzki-Affäre entdeckt
+                        wurde, daß viele hohe türkische Funktionäre russische Söldlinge
+                        sind und mehr als fünfhundert russische Spione in allerlei Verkleidung momentan in der Türkei leben.</said> Hundertsechszig russische Ingenieure sollen mit der Aufnahme des Bosporus und
+                        der Fortifikation desselben insgemein beschäftigt sein.<said id="3" mode="reported" content="speech writing" level="1"> Der <seg id="3" type="speaker">Polizeichef Nazun Bey</seg> 
+               <seg id="3" type="intExpr">beantragte</seg> Kjurda Pascha’s Verbannung</said>,
+                        weil derselbe Lutzki für 200 türkische Pfund verkaufte, worüber
+                        in offiziellen Kreisen große Entrüstung herrscht. Prinz Nakaschidze ist in türkischen Kreisen sehr beliebt, darum ist er noch
+                        internirt, damit die Russen ihn nicht auch entführen. Der frühere Bahndirektor Nikolow, welcher mit Lutzki befreundet ist,
+                        reiste behufs Intervention nach Konstantinopel, kehrte aber ohne
+                        Resultat zurück, weil es trotz der türkischen Bereitwilligkeit zu
+                        spät war. Die Russen hatten ihr Opfer bereits der Machtsphähre europäischer Humanität ganz entrückt.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

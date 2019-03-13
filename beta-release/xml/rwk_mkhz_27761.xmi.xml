@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Renaissance innerlicher Kultur.</title>
+             <author>Wille, Bruno</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Renaissance innerlicher Kultur.</f>
+         <f name="author">Wille, Bruno</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Renaissance innerlicher Kultur.
+                        VonDr.Bruno Wille,Friedrichshagen.
+                        
+            Auf einer Wanderung durch die Neckarlandschaft fand <seg id="1 8 10" type="speaker">ich</seg> in einem
+                        Waldgrunde eine Grube nebst Mauer= und Balkenresten und<seg id="1" type="frame" pos="start"> 
+               <seg id="1" type="intExpr">vernahm</seg>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">hier
+                        habe vor Zeiten ein Eremit gehaust.</said>
+            <said id="3" mode="indirect" content="thought" level="1">
+               <said id="13"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">Dieser <seg id="13" type="speaker">Mensch</seg>
+               </said>
+            </said>
+            <seg id="3" type="frame" pos="mid">-- so <seg id="3" type="intExpr">bedachte</seg>
+               <seg id="3" type="speaker"> ich</seg>,</seg>
+            <said id="3" mode="indirect" content="thought" level="1"> 
+               <said id="13"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">hatte
+                        sich damals von einer Lebensweise, <said id="6" mode="reported" content="speech" level="3">die <seg id="6" type="speaker">man</seg> gewöhnlich „Kultur“ <seg id="6" type="intExpr">nennt</seg>
+                  </said>, völlig
+                        <seg id="13" type="intExpr">losgesagt</seg>
+               </said> und zu einer Verachtung aller Äußerlichkeit bekehrt, so daß er nicht
+                        mehr nach Geld und Gut, Geselligkeit und Ehre, nach behaglicher Wohnung,
+                        feiner Kleidung und sinnlichem Vergnügen trachtete, sondern wesentlich nach
+                        dem Heile seines innerlichen Lebens,<said id="7"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes"> wie <seg id="7" type="speaker">er</seg> es <seg id="7" type="intExpr">verstand</seg>. </said>
+            </said>
+            <said id="8" mode="freeIndirect" content="thought" level="1">Seltsam!</said> Ganz
+                        spärlich sind heutzutage solche nach innen gekehrten Naturen, <said id="9"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">und <seg id="9" type="intExpr">verständnislos</seg>
+                        steht ihnen der moderne <seg id="9" type="speaker">Massenmensch</seg> gegenüber.</said>
+            <said id="10" mode="freeIndirect" content="thought" level="1"> Welch ein Gegensatz zwischen einem Großstädter und etwa einem indischen
+                        Einsiedler!</said> Der Großstädter hat sein Leben abhängig gemacht von einer verwickelten Menge äußerer Dinge und Einrichtungen, von vermeintlichen Bequemlichkeiten, von Mode und Luxus. <said id="11" mode="reported" content="thought" level="1">Je zivilisierter <seg id="11" type="speaker">er</seg> sich <seg id="11" type="intExpr">dünkt</seg>
+            </said>, desto unfähiger
+                        ist er gewöhnlich, ohne Sprungfederbett seine Nachtruhe zu finden, desto dringlicher bedarf er des Odols und der Pomade, desto unwürdiger und haltloser
+                        kommt er sich vor, falls ein boshafter Zufall es fügt, daß er ohne gewisse
+                        repräsentative Toilettestücke die „gute Gesellschaft“ aufsucht, z. B. seine Handschuhe vergessen hat, oder ohne Hemdenkragen auf die Straße gerät. Bei
+                        einem Generalstreik der Arbeiter in Genua erlebte ich, daß der moderne Reisende
+                        hilflos wie ein kleines Kind dasteht, sobald die Eisenbahn und Straßenbahn,
+                        die öffentliche Beleuchtung und das gewohnte Dienstpersonal plötzlich versagt.
+                        Schier unzertrennlich ist der zivilisierte Europäer eben verwachsen mit seinem
+                        Kulturrüstzeug, mit Bahnen und Drähten, Behörden und Banken, Hotels und
+                        Restaurants, Droschken und Bediensteten. Für den buddhistischen Mönch indessen ist solche Weltlichkeit nichts als der Kultus eines Wahns, der den
+                        Menschen von wahrer Freiheit ablenkt. Jn einer Sammlung buddhistischer
+                        Lieder heißt es:
+                         
+         
+      </p>
+      </body>
+   </text>
+</TEI>

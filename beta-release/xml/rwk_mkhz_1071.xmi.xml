@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vermischtes</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Vermischtes</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.arbeitgeber</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Vermischtes.
+                        
+            
+            
+               
+                  *Japanische Vögel. Nebst verschiedenen Kunstschätzen hat die
+                        östreichisch=ostasiatische Expedition auch ein recht nettes Spielzeug mitgebracht. Es sind dies Vögel in natürlicher Größe, deren Köpfe aus
+                        Thon oder Gyps gebildet sind; Körper und Flügel sind aus Papier
+                        und tragen natürliche Schwanzfedern. Der Vogel wird an einem
+                        Faden, der am Halse befestigt ist, gehalten und perpendikulär hängend
+                        nach Belieben langsam oder schnell im Kreise bewegt. Bei dieser
+                        Bewegung, die auch durch den Luftzug selbst hervorgebracht werden
+                        kann, flattert dieser buntbemalte Vogel auf so natürliche Weise mit
+                        seinen Schwanzfedern, daß man die Augen von dieser Erscheinung
+                        gar nicht wegwenden kann. Kinder wie Erwachsene erfreut dieses
+                        Spielzeug, welches uns einfach das Gesetz der archimedischen Schraube
+                        in neuer und origineller Anwendung veranschaulicht. Eine erfreuliche
+                        Thatsache ist es nun, daß in Wien sogar eine kleine Fabrik dieses
+                        überaus billigen Spielzeuges entstanden ist, welche ihr Entstehen der
+                        Ausstellung ostasiatischer Gegenstände im nieder=östr. Gewerbeverein
+                        zu verdanken hat.
+            
+            
+               
+                  *Ein Budget aus dem Jahre 1740. Bezeichnend für die
+                        Zustände in Frankreich vor der Revolution und im höchsten Grade
+                        naiv ist die Aufstellung des französischen Haushaltes damaliger Zeit.
+                       <said id="1" mode="reported" content="writing" level="1"> 
+               <seg id="1" type="speaker">Kolb</seg> 
+               <seg id="1" type="intExpr">theilt</seg> in seiner Vergl. Statistik einige davon <seg id="1" type="intExpr">mit</seg>:</said> die eine beginnt mit der königl. Tafel: 7,300,000 Frs.,menues plaisirs
+                        840,000 Frs.,présents aux maitresses800,000 Frs.,
+                        Depenses inconnues( Polizei, Verwaltung ) 44 Millionen Frs., Heer
+                        55 Mill. Frs., Staatsschuld 49 Mill. Frs.,Espions1,400,000 Frs.
+            
+            
+               
+                  *Gefangene Franzosen. Die Zahl derselben beträgt jetzt nach
+                        der Kapitulation von Metz 4 Marschälle, ca. 140 Generale, 10,000
+                        Offiziere und 323,000 Mann, wohingegen die Zahl der von den
+                        Franzosen bisher gefangen genommenen deutschen Soldaten nur etwa
+                        2100 beträgt.
+            
+            
+               † Dr. Ph. K. J. Kreuzberg ( ursprünglicher Familienname
+                        Ascher ) , nationalökonomischer Schriftsteller, starb am 23. Oktober im
+                        69. Jahre in Wien. <said id="3" mode="reported" content="writing" level="1">
+               <seg id="3" type="speaker">Er</seg> 
+               <seg id="3" type="intExpr">entfaltete</seg> eine ausgebreitete Thätigkeit in
+                        der Publizistik</said>, war ständiger Mitarbeiter der Halle'schen Jahrbücher,
+                        der Augsburger und der Leipziger Allgemeinen Zeitung, der Kölnischen
+                        Zeitung, des Grenzbotenec.
+                        
+                
+            
+            
+               
+                  *Neue Zeitung. Jn Wien ist die Probenummer einer neuen
+                        Wochenschrift ausgegeben worden, „Der Reporter“, die alle Vorgänge auf den Gebieten des Bank=, Börsen=, Verkehrs= und Versicherungswesens eingehend besprechen, und auch ein Feuilleton für Kunst
+                        und Literatur enthalten wird.
+            
+            
+               
+                  *Das „Buch der Welt“ enthält in seiner No. 14 <said id="4" mode="reported" content="writing" level="1">einen
+                        offenen <seg id="4" type="intExpr">Brief</seg> 
+               <seg id="4" type="speaker">Auerbachs</seg> an seinen Kollegen Viktor Hugo</said>, <said id="5" mode="indirect" content="thought" level="1">der</said>
+            <seg id="5" type="frame" pos="mid">, wie
+                        <seg id="5" type="speaker">uns</seg> 
+               <seg id="5" type="intExpr">scheint</seg>, </seg>
+            <said id="5" mode="indirect" content="thought" level="1">zu ernsthaft ist.</said> Auf so tolles Zeug, wie es eben die
+                        Franzosen zu Tag fördern, <said id="7" mode="reported" content="speech" level="1">ist es kaum möglich anders als ironisch
+                        zu <seg id="7" type="intExpr">antworten</seg>.
+ </said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Stadtpfeifer</title>
+             <author>Riehl, Wilhelm Heinrich von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Der Stadtpfeifer</f>
+         <f name="author">Riehl, Wilhelm Heinrich von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Mit vergnüglichem Lächeln lauschte er zuletzt dem jungen Maestro, der in Eisenstadt zu Joseph Haydns Füßen gesessen, und dessen wild geniale Symphonien man bereits in Paris aufführte und druckte. <said id="1" mode="reported" content="speech" level="1">
+               <seg id="1" type="speaker">Neubauer</seg> hatte nicht zu viel von sich <seg id="1" type="intExpr">gesagt</seg>.</said> Den vierzigjährigen <seg id="3 4" type="speaker">Stadtpfeifer</seg> durchzuckte bei <said id="3" mode="reported" content="speech" level="1">den <seg id="3" type="intExpr">Erzählungen</seg> des zwanzigjährigen Abenteurers</said>, der mit seinem Talent so vermessen spielte, noch einmal das alte Gelüsten, aus der Verpuppung der Stadtpfeiferei mit Gewalt plötzlich als ein berühmter Musiker hervorzubrechen. Doch als er aufblickte und in einem Stückchen Spiegelscherbe, welches Christine, in Ermangelung eines ganzen Spiegels (gerade seinem Sitze gegenüber) an der Wand befestigt hatte, sein bereits leise ergrauendes Haar schaute, schämte er sich und ging dann höchst resigniert ins Nebenstübchen, <said id="4"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">um mit den <seg id="4" type="speaker">Kindern</seg> das Abendgebet zu <seg id="4" type="intExpr">sprechen</seg>.</said> 
+                     Auch Frau Christine wurde etwas milder gestimmt gegen den Fremden. <said id="5" mode="reported" content="thought" level="1">
+               <seg id="5" type="speaker">Sie</seg> 
+               <seg id="5" type="intExpr">hielt</seg> zwar <said id="23" mode="reported" content="speech" level="2">
+                  <seg id="23" type="speaker">seine</seg> sämtlichen <seg id="23" type="intExpr">Historien</seg>
+               </said> für erlogen, aber für gut erlogen.</said> Der Mann schien es ihr zu einer solchen Tüchtigkeit im Lügen gebracht zu haben, daß sie zuletzt einen gewissen Respekt vor ihm bekam. 
+                     <said id="7" mode="direct" content="speech" level="1">»Seht,«</said>
+            <seg id="7" type="frame" pos="mid">
+               <seg id="7" type="intExpr">sprach</seg> 
+               <seg id="7" type="speaker">er</seg> zu dem Ehepaar, als der Stadtpfeifer wieder zurückkam,</seg>
+            <said id="7" mode="direct" content="speech" level="1">»dort liegt ein großer Stoß Noten; wir setzen ihn auf die Erde; er ist mein Kopfkissen, und weiter brauche ich nichts für die Nacht. Ich wickle mich in meinen weitschößigen Rock, empfehle meine Seele dem heiligen Franziskus und dem heiligen Antonius und schlafe heute auf dem Fußboden so gut, wie gestern im weichen Klosterbett. Wer müd' ist, ruht auch auf einem Misthaufen sanft. Ich hätte wohl zu einem der Hofmusiker gehen können, allein ich mag es nicht. Im Vertrauen, Freund, ich komme hierher <said id="9" mode="reported" content="speech writing" level="2">mit guten <seg id="9" type="intExpr">Empfehlungen</seg>
+               </said> als Bewerber um die erledigte Hofkapellmeisterstelle«</said> (<said id="8" mode="direct" content="thought" level="1">»<said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes"
+                     prag="yes">
+                  <seg id="10" type="intExpr">Lüg</seg> 
+                  <seg id="10" type="speaker">du</seg> dem Teufel ein Ohr ab!</said>«</said>
+            <seg id="8" type="frame" pos="end">
+               <seg id="8" type="intExpr">dachte</seg> Frau <seg id="8" type="speaker">Christine</seg> im stillen Sinn</seg>) – <said id="7" mode="direct" content="speech" level="1">»und da müßten meine Leute doch vorweg den Respekt vor mir verlieren, <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">wenn <seg id="11" type="speaker">ich</seg> in diesem Aufzuge bei einem von ihnen <seg id="11" type="intExpr">einsprechen</seg> würde.</said> Stadtpfeifer, ich werfe mich in deine Arme. <seg id="12" type="frame" pos="start">
+                  <seg id="12" type="speaker">Ich</seg> 
+                  <seg id="12" type="intExpr">fragte</seg> gestern im Kloster Arnstein die ehrwürdigen Brüder:</seg> 
+               <said id="12" mode="direct" content="speech" level="2">›Wer ist unter allen musikalischen Männern Weilburgs der geradeste, zuverlässigste, neidloseste?‹</said> 
+               <seg id="13" type="frame" pos="start">Da <seg id="13" type="intExpr">erwiderte</seg> der witzige <seg id="13" type="speaker">Pater Placidus</seg>:</seg> 
+               <said id="13" mode="direct" content="speech" level="2">›Der zum Höchsten gesetzt ist unter den Musikern der Stadt, der Stadtpfeifer oben auf dem Schloßturm.‹</said> 
+               <seg id="14" type="frame" pos="start">Darauf <seg id="14" type="intExpr">beschloß</seg> 
+                  <seg id="14 15" type="speaker">ich</seg>,</seg> 
+               <said id="14" mode="indirect" content="thought" level="2">bei Euch Quartier zu nehmen, <said id="15"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">Euch mich <seg id="15" type="intExpr">anzuvertrauen</seg>.</said>
+               </said> Mir fehlt das Kleid, das den Mann macht. Stadtpfeifer, Ihr müßt mir morgen früh Euern Staatsrock leihen, <said id="24"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">denn <seg id="24" type="speaker">ich</seg> muß mich alsbald dem Fürsten <seg id="24" type="intExpr">vorstellen</seg> lassen.</said>«</said>
+            <said id="16" mode="direct" content="speech" level="1">»Was? den ziegelroten Rock, den die ganze Stadt kennt?«</said>
+            <seg id="16" type="frame" pos="end">
+               <seg id="16" type="intExpr">rief</seg> 
+               <seg id="16" type="speaker">Christine</seg> starr vor Staunen.</seg>
+            <said id="17" mode="direct" content="speech" level="1">»Richtig, <said id="19" mode="reported" content="thought" level="2">den ziegelroten Rock <seg id="19" type="intExpr">meine</seg> 
+                  <seg id="19" type="speaker">ich</seg>
+               </said>,«</said>
+            <seg id="17" type="frame" pos="end">
+               <seg id="17" type="intExpr">fuhr</seg> 
+               <seg id="17 18" type="speaker">Neubauer</seg> kaltblütig <seg id="17" type="intExpr">fort</seg>.</seg>
+            <said id="18" mode="direct" content="speech" level="1">»<said id="20"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Doch das wollen <seg id="20" type="speaker">wir</seg> morgen früh weiter <seg id="20" type="intExpr">besprechen</seg>
+               </said> beim Kaffee oder – ich sehe es der Hausfrau an – Ihr seid noch von der alten Mode – bei der Milchsuppe.«</said> 
+                     Der Stadtpfeifer saß wie verzaubert. Gegenüber diesem tollen Uebermut voll genialer Blitze fühlte er sich recht als Philister, <seg id="21" type="frame" pos="start">und da ihm <seg id="21" type="speaker">Neubauer</seg> gar <seg id="21" type="intExpr">erzählte</seg>,</seg>
+            <said id="21" mode="indirect" content="speech" level="1">daß er meist im Walde, auf der Gasse, wohl gar in der Gosse, am allerliebsten aber im Wirtshause komponiere – betrunken oder nüchtern, gleichviel –</said>, da hätte er weinen mögen über sein ehrliches, ängstliches, erfolgloses Mühen hier oben auf der Turmstube.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

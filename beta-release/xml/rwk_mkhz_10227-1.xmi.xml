@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Nuleeni der Sternengeist. Ein indisches Märchen.</title>
+             <author>Reichel, E.</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Nuleeni der Sternengeist. Ein indisches Märchen.</f>
+         <f name="author">Reichel, E.</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.badener</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Die Ursache seines Kummers war
+                        folgende:
+                         
+               Seit dem Anfang der Welt waren alle seine
+                        Brüder mit der Liebe eines hellen Zwillingssternes
+                        gesegnet; nur ihm war keiner gegeben, nur er
+                        mußte seit Jahrtausenden, einsam und verlassen,
+                        allein wohnen. Er hatte keine Gefährtin, die ihre
+                        Hand in die seine legte, ihre Stimme mit der seinen
+                        im Gesange einte, wenn der Abend über den Himmel sank.
+               Wenn Nachts süße Weisen von den Wohnungen
+                        der Geister her erschollen, von jenen strahlenden
+                        Wohnungen her, <said id="3"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">die wir <seg id="3" type="speaker">Erdenmenschen</seg> Sterne
+                        <seg id="3" type="intExpr">nennen</seg>
+            </said>, war <seg id="6" type="speaker">Zorab</seg>’s helles Zelt das einzige am
+                        Himmel, das still war oder <said id="4" mode="reported" content="speech" level="1">höchstens durch <seg id="4" type="speaker">seine</seg>
+                        Seufzer und <seg id="4" type="intExpr">Klagen</seg> erschüttert wurde.</said>
+            <said id="5" mode="direct" content="speech" level="1">„Horch!“</said>
+            <seg id="5" type="frame" pos="mid">pflegten <seg id="5" type="speaker">sie</seg>, mit Singen einhaltend,
+                        zu <seg id="5" type="intExpr">sagen</seg>,</seg>
+            <said id="5" mode="direct" content="speech" level="1">„hört <said id="6" mode="reported" content="speech" level="2">diese Seufzer und <seg id="6" type="intExpr">Klagen</seg>!</said> ’s ist
+                        Zorab, der seine Verlassenheit beweint.“</said>
+                         
+               
+               Nun hatte Zorab seit langen Zeiten auf die
+                        Töchter der Erde geschaut und sie schön gefunden,
+                        und <seg id="7" type="frame" pos="start">
+               <seg id="7" type="speaker">er</seg> 
+               <seg id="7" type="intExpr">wußte</seg>,</seg>
+            <said id="7"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß wenn eine von ihnen ihn mehr
+                        lieben könnte, als alles Andere auf der Welt, ihr
+                        Geist nach ihrem Tode zu ihm hinaufsteigeu und
+                        ewig bei ihm bleiben würde.</said> So wiegte <seg id="8" type="speaker">er</seg> die
+                        schönsten Mädchen in Schlaf und <said id="8" mode="reported" content="speech" level="1">
+               <seg id="8" type="intExpr">sprach</seg> im Traume
+                        zu ihnen.</said> Aber ihre Geister waren so sehr mit den
+                        irdischen Dingen beschäftigt, <said id="16"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">daß <seg id="16" type="speaker">sie</seg> nicht Zeit
+                        hatten, <said id="17" mode="reported" content="speech" level="2">
+                  <seg id="17" type="speaker">sein</seg> sanftes <seg id="17" type="intExpr">Flüstern</seg>
+               </said> zu <seg id="16" type="intExpr">beantworten</seg>
+            </said>, und
+                        manche ihn nicht einmal hörten.
+               Dann entdeckte er auch etwas sonderbares, daß
+                        nämlich die Mädchen, welche ihm am besten gefielen,
+                        welche die zarteste Haut und die schönsten Augen
+                        hatten, die rohesten Seelen besaßen, und daß die
+                        reinsten Herzen hinter dunkler Haut und unlieblichen
+                        Augen wohnten.
+               <said id="10" mode="reported" content="thought" level="1">Dies gab <seg id="10" type="speaker">ihm</seg> zu <seg id="10" type="intExpr">denken</seg>
+            </said>: <seg id="11" type="frame" pos="start">
+               <seg id="11" type="speaker">er</seg> 
+               <seg id="11" type="intExpr">schloß</seg>,</seg>
+            <said id="11" mode="indirect" content="thought" level="1">daß die
+                        Töchter der Menschen Fallstricken glichen, da sie
+                        nicht das waren, was sie zu sein schienen.</said>
+            <said id="18" mode="reported" content="thought" level="1">Doch <seg id="18" type="speaker">er</seg>
+                        gab noch nicht alle <seg id="18" type="intExpr">Hoffnung</seg> auf, das Mädchen,
+                        welches er suchte, zu finden</said>, ein Mädchen mit einem
+                        schönen Gesicht und einer dem Mondstrahl gleichenden
+                        Seele, welches ihn mehr als sich selbst lieben
+                        würde. <seg id="13" type="frame" pos="start">Oft <seg id="13" type="intExpr">glaubte</seg> 
+               <seg id="13" type="speaker">er</seg>,</seg>
+            <said id="13" mode="indirect" content="thought" level="1">ein solches gefunden zu
+                        haben</said>, doch sobald er sie im Traume mit sich zu
+                        beschäftigen suchte, fand er für sich keinen Raum.
+                        Sie war vollständig von dem Bilde eines irdischen
+                        Geliebten erfüllt.
+               
+               Der ewigen Enttäuschungen müde, wollte er
+                        das Suchen ganz aufgeben. Still und traurig saß
+                        er in seinem Sternenzelt. <seg id="19" type="frame" pos="start">Doch plötzlich kam <seg id="19" type="speaker">ihm</seg>
+                        ein neuer <seg id="19" type="intExpr">Gedanke</seg>:</seg>
+            <said id="19" mode="indirect" content="thought" level="1">das Mädchen, welches <seg id="20" type="speaker">er</seg> suchte,
+                        war nicht auf der Erde.</said>
+            <said id="20" mode="freeIndirect" content="thought" level="1">Warum sollte <seg id="21" type="speaker">er</seg> nun nicht
+                        die allen Geistern gegebene Macht benutzen — <said id="21"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">die
+                        Macht zu <seg id="21" type="intExpr">wünschen</seg>?</said> — <seg id="15" type="frame" pos="start">warum sollte <seg id="15" type="speaker">er</seg> nicht
+                        <seg id="15" type="intExpr">wünschen</seg>,</seg> 
+               <said id="15"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß ein Mädchen geboren würde, welches
+                        seinem Verlangen entspräche?</said> Ueber welches er unausgesetzt wachen und es lehren könnte, ihn mehr
+                        als sich selbst und alles auf der Welt zu lieben,
+                        und dessen Geist, nachdem es gestorben, zu ihm
+                        hinaufsteigen und bis in Ewigkeit bei ihm bleiben
+                        würde?</said>
+                         
+               Von Hoffnung erfüllt, heftete er seine Blicke
+                        abermals auf die Erde. Die Töchter des Nordens
+                        waren schön mit ihren blauen Augen und blondem
+                        Haar. Aber sie waren kalt — kalt wie der Schnee
+                        ihrer Winter. Zorab fröstelte, als er sie sah, und er
+                        wandte seinen Blick schnell nach Osten. Seine Augen
+                        schweiften sorglos über die Töchter der Sonne, bis
+                        sie an den Hindumädchen haften blieben.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>—Der ehrliche Finder.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">—Der ehrliche Finder.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Verschiedenes. 
+            
+            
+               
+                  — Die Bevölkerung der Erde wird auf 1438 Millionen
+                     geschätzt.
+                  Hievon sind in Europa 312 Millionen, in Asten 831 Mill., in Afrika 205 Mill.,
+                     in Amerika 86 Mill.
+                  und in Australien 4 Millionen.
+                  Weiße gibt es ungefähr 500 Millionen, Schwarze 250 Millionen und der Rest in
+                     Zwischenfarben.
+                  500 Millionen wohnen in Häusern, 800 Millionen in Hütten und Höhlen und die
+                     übrigen kennen gar kein festes Obdach.
+               
+            
+            
+               
+                  — <said id="6" mode="reported" content="speech writing" level="1">Aus Linz wird <seg id="6" type="intExpr">berichtet</seg>: Die Sennerin Josepha Schwein wurde von dem
+                     25jährigen Garstener Sträfling Ruppert Hau (aus Wien) auf der Hobisch-Alm
+                     ermordet.</said> Hau wurde in der Nähe von St. Gallen wegen verdächtigen Benehmens von
+                     Gensdarmen aufgegriffen und, da er sich mit dem Messer widersetzte, im Kampfe —
+                     mit dem Bajonnet — niedergestochen.
+               
+            
+            
+               
+                  — Ein seltsamer Unfall stieß in Marienburg einem Herrn
+                     zu, der in einer Wirthschaft einen Aal verzehrte.
+                  Eben hatte er ein Stück zum Munde geführt, als er plötzlich mit einem
+                     Schmerzensschrei Messer und Gabel fallen ließ; er hatte auf einen Angelhaken
+                     gebissen, der ihm nun im Gaumen saß, zum Glück aber ohne allzu große Schmerzen
+                     entfernt werden konnte.
+               
+            
+            
+               
+                  — Eine feiste Ratte beehrte dieser Tage eine Sitzung des Bundessenats in
+                     Washington mit ihrem Besuch.
+                  Man war gerade mit Erledigung von Pensionsgesuchen beschäftigt, als das
+                     „niedliche“ Thierchen unter dem Sitz des Senators Conquitt von Georgia zum
+                     Vorschein kam und dem genannten Herrn in das Hosenbein kroch.
+                  Als der erschrockene Senator mit der Hand nach der Stelle fuhr, wo er den
+                     Eindringling verspürte, biß ihn das Vieh auch noch in’s Bein, da es den Ausweg
+                     versperrt sah.
+                  Mit der Ruhe und Aufmerksamkeit der Anwesenden war es natürlich vorbei.
+               
+            
+            
+               
+                  — Der ehrliche Finder.
+               
+               
+                  <said id="2" mode="reported" content="speech" level="1">Bei einem Fuhrherrn <seg id="2" type="intExpr">meldet</seg> sich für die ausgeschriebene Stelle eines
+                     Droschkenkutschers ein sehr bieder aussehender <seg id="2 5" type="speaker">Bewerber</seg>.</said>
+            <said id="4" mode="direct" content="speech" level="1">Vor allen Dingen</said>
+            <seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagt</seg> der <seg id="4" type="speaker">Fuhrherr</seg>,</seg>
+            <said id="4" mode="direct" content="speech" level="1">müssen Sie also siets recht höflich zu
+                     den Fahrgästen sein und sich auch der größten Ehrlichkeit befleißigen.
+                  Wenn Sie nun z. B. in Ihrem Wagen eine Brieftasche mit 100,000 Mark fänden,
+                     was würden Sie thun?</said>
+                  — <said id="5" mode="direct" content="speech" level="1">Na, nischt mehr, von meinen Zinsen leben!</said>
+            <seg id="5" type="frame" pos="end">
+               <seg id="5" type="intExpr">lautet</seg> die prompte <seg id="5" type="intExpr">Antwort</seg>.</seg>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Politische Uebersicht. Parlamentarische Schreckenberger.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Politische Uebersicht. Parlamentarische Schreckenberger.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.badener</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Den politischen Parteien Oesterreichs ist
+                        Sonntag ein Licht aufgesteckt worden über den
+                        „neuen Curs“ der Regierung. War schon der
+                        berüchtigte Salzburger Katholikentag danach angeth an, den clericalen Zug, von dem sich die
+                        Regierung des Grafen Badeni leiten läßt, ziemlich unverhüllt hervortreten zu lassen, der vorige
+                        Sonntag hat den vollgiltigen Beweis erbracht
+                        für die Thatsache, daß Graf Badeni mit vollen
+                        Segeln ins clericale Lager steuert, ja, daß er
+                        sich bereits längst in dessen Mitte befindet. Dem
+                        Bezirkshauptmanne von Feldkirch in Vorarlberg
+                        und dem Landeshauptmanne dieses Landes war
+                        es vorbehalten, in dieser Sache volle Klarheit zu
+                        schaffen. <said id="1" mode="reported" content="speech" level="1">Gelegentlich der constituirenden Versammlung eines katholischen Lehrervereines <seg id="1" type="intExpr">begrüßte</seg> auch <seg id="1" type="speaker">Bezirkshauptmann Graf Schaffgotsch</seg>
+                        den Verein namens der Regierung.</said>
+            <seg id="2" type="frame" pos="start">Zuvörderst
+                        <seg id="2" type="intExpr">bedauerte</seg> 
+               <seg id="2 19" type="speaker">er</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">daß unsere gegenwärtigen parlamentarischen Verhältnisse die sofortige Einführung
+                        der confessionellen Schule nicht gestatten.</said>
+            <said id="19" mode="indirect freeIndirect" content="speech" level="1">Nachdem es aber als unumstößlich anerkannt sei, daß
+                        das Leben der Staatsbürger auf derjenigen Religion aufgebaut sein müsse</said>, welche die herrschende
+                        im Staate ist, <said id="20" mode="reported" content="speech" level="1">so <seg id="20" type="intExpr">empfiehlt</seg> der <seg id="20" type="speaker">Vertreter</seg> der
+                        Regierung bis auf Weiteres die Erreichung dieses
+                        Zieles auf anderem Wege, auf welchem den heute
+                        geltenden Staatsgrundgesetzen viel wirksamer begegnet werden kann, als auf dem offenen und
+                        ehrlichen Wege der parlamentarischen Action,
+                        nämlich durch die „private Vereinigung“, das ist
+                        die Gründung von katholischen Lehrervereinen ...</said>
+            <seg id="4" type="frame" pos="start">Der <seg id="4 22" type="speaker">Vertreter</seg> der Regierung beeilt sich aber,
+                        <seg id="4" type="intExpr">hinzuzufügen</seg>,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">„daß gegenwärtig die Regierung
+                        jedenfalls nicht auf einem Standpunkte stehe,
+                        welcher den clericalen Bestrebungen feindselig
+                        wäre, und wenn es früher Zeiten gegeben habe,
+                        wo feindselige Strömungen herrschten, so seien
+                        diese Zeiten glücklicherweise vorüber und es
+                        werde den katholischen Lehrern kein Hinderniß
+                        mehr in den Weg gelegt werden, <said id="21" mode="reported" content="thought" level="2">um das zu er reichen, was <seg id="21" type="speaker">sie</seg> 
+                  <seg id="21" type="intExpr">wünschen</seg>
+               </said>“.</said>
+            <said id="6" mode="reported" content="thought" level="1">Wie verständnißinnig
+                        <said id="22" mode="reported" content="speech" level="2">diese <seg id="22" type="intExpr">Worte</seg>
+               </said> gleich an Ort und Stelle <seg id="6" type="intExpr">aufgefaßt</seg>
+                        wurden</said>, zeigt <said id="23" mode="reported" content="speech" level="1">die darauffolgende <seg id="23" type="intExpr">Rede</seg> des <seg id="23" type="speaker">Landeshauptmannes Grafen Rhomberg</seg>
+            </said>, <seg id="7" type="frame" pos="start">
+               <seg id="7" type="speaker">welcher</seg> es <seg id="7" type="intExpr">begrüßte</seg>,</seg>
+            <said id="7" mode="indirect" content="speech" level="1">
+               <said id="8" mode="reported" content="speech" level="2">daß der <seg id="8 9" type="speaker">Bezirkshauptmann</seg> in so beredter
+                        Weise den Standpunkt seiner eigenen Person,
+                        sowie den der Staatsregierung<seg id="8" type="intExpr"> zum Ausdrucke</seg>
+                        <seg id="8" type="intExpr">gebracht</seg> habe</said>
+            </said>, <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">bemerkte</seg>,</seg>
+            <said id="9" mode="indirect" content="speech" level="1">es müsse das die
+                        Clericalen ermuthigen, auf dem betretenen Wege
+                        auszuharren, denn die Verhältnisse hätten sich
+                        heute wesentlich geändert und man sehe nun auch
+                        in Regierungskreisen ein, zu welchen Consequenzen
+                        der Liberalismus führe.</said> — <seg id="10" type="frame" pos="start">
+               <seg id="10" type="speaker">Wir</seg> 
+               <seg id="10" type="intExpr">glauben</seg>,</seg>
+            <said id="10" mode="indirect" content="thought" level="1">
+               <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß
+                        mehr zu <seg id="11" type="intExpr">sagen</seg>, absolut nicht mehr nothwendig
+                        ist.</said>
+            </said>
+            <said id="12" mode="reported" content="speech" level="1">Die Vereinigte <seg id="12" type="speaker">Linke</seg> hat seinerzeit die <seg id="13" type="speaker">Regierung</seg> 
+               <said id="24" mode="reported" content="speech" level="2">wegen der <seg id="24" type="intExpr">Rede</seg> 
+                  <seg id="24" type="speaker">Thun</seg>’s auf dem Salzburger Katholikentage</said> 
+               <seg id="12" type="intExpr">interpellirt</seg>
+            </said> und <said id="13" mode="reported" content="speech" level="1">eine <seg id="13" type="intExpr">Antwort</seg> erhalten</said>, <said id="14"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">die gerade keine erbauliche <seg id="14" type="intExpr">genannt</seg>
+                        werden kann.</said>
+            <said id="15"
+                  mode="reported"
+                  content="speech writing"
+                  level="1"
+                  nonfact="yes">Die Ereignisse vom vorigen Sonntag
+                        in Vorarlberg machen jede weitere <seg id="15" type="intExpr">Erörterung</seg>
+                        über die letzten Ziele der Regierung Badeni’s
+                        überflüssig</said>, und die Partei, welche jetzt noch über
+                        ihr ferneres Verhalten dieser Regierung gegenüber tiefsinnige Betrachtungen anstellen wollte,
+                        würde sich einfach tödtlich lächerlich machen. <seg id="16" type="frame" pos="start">Für
+                        die <seg id="16" type="speaker">Liberalen</seg> Oesterreichs gibt es fürderhin nur
+                        mehr eine einzige <seg id="16" type="intExpr">Parole</seg>:</seg>
+            <said id="16"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  border="yes">Kampf um jeden Preis
+                        gegen diese Regierung!</said>
+                         
+               In Wien hätte Samstag eine Ehrenbeleidigungs-Verhandlung gegen den Bürgermeister
+                        Strobach stattfinden sollen zwecks Behandlung
+                        dreier Ehrverletzungsfälle, welche sich dieser zu
+                        Schulden hatte kommen lassen. Der Magistratsdiurnist Sepper, <said id="17" mode="reported" content="speech" level="1">welchen <seg id="17" type="speaker">Strobach</seg> einen Lügner
+                        <seg id="17" type="intExpr">genannt</seg> hatte</said>, und ein Einspännerkutscher, <said id="18" mode="reported" content="speech" level="1">welcher
+                        von dem <seg id="18 25" type="speaker">Oberhaupte</seg> der Stadt Wien mit dem
+                        Kosenamen <said id="25" mode="direct" content="speech" level="2">„besoffener Schweinkerl“</said> 
+               <seg id="18" type="intExpr">belegt</seg> worden
+                        war</said>, hatten die Klage angestrengt und eine Reihe
+                        von Zeugen geführt.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

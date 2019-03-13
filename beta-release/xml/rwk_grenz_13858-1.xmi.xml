@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Maßgebliches und Unmaßgebliches</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Maßgebliches und Unmaßgebliches</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="20" type="frame" pos="start">
+               <seg id="20" type="speaker">Wir</seg> haben bis jetzt nicht <seg id="20" type="intExpr">gewußt</seg>,</seg>
+            <said id="20"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">daß diese gutmütige Hausfrau eine Berlinerin
+                        gewesen ist</said>; <said id="2" mode="reported" content="writing" level="1">wir <seg id="2" type="intExpr">erfuhren</seg> es erst aus der <seg id="2" type="speaker">Rudolphschen</seg> Verbesserung.</said>
+            <seg id="3" type="frame" pos="start">
+               <seg id="3" type="speaker">Diese</seg> 
+               <seg id="3" type="intExpr">lautet</seg>:</seg>
+            <said id="3" mode="direct" content="writing" level="1">
+               <seg id="4" type="frame" pos="start">Die <seg id="4" type="speaker">Hausfrau</seg> lachte in ihrem Sinn
+                        Und <seg id="4" type="intExpr">sprach</seg>:</seg> 
+               <said id="4" mode="direct" content="speech" level="2">Na, Mäuschen, denn lauf nur hin!
+                     Wollte ja auch meinem Kinde eben
+                        Einen Pfefferkuchen zum Knabbern geben.</said>
+                     Das Mäuschen aber lief fort geschwind,
+                        Und die Mutter ging fröhlich zu ihrem Kind.</said>
+            <seg id="5" type="frame" pos="start">Kann <seg id="5" type="speaker">uns</seg> nach dem Lesen dieser Probe von Verbesserungen deutscher Gedichte
+                        jemand <seg id="5" type="intExpr">verdenken</seg>,</seg>
+            <said id="5"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß <seg id="6" type="speaker">wir</seg> an die Spitze dieser Mitteilung <said id="6" mode="direct" content="writing" level="2">„Ein neuer Ballhorn"</said>
+                        geschrieben haben?</said>
+                         
+               
+            
+            Hündchen und Böckchen.
+            Kind und Ochse.
+            
+               Nachschrift der Redaktion. 
+               Es ist gewiß nicht schön, wenn Verse verballhornt werden, mag nun der Dichter Goethe oder Schiller, oder mag er Hey
+                        oder Burmann heißen. Aber sollte man nicht den guten Hey jetzt lieber ganz
+                        in Ruhe lassen? Und den guten Speckter dazu? Es wird doch wirklich die höchste
+                        Zeit. Die sogenannten „Fabeln" Heys mögen, als sie zuerst erschienen (1833),
+                        einem gewissen Bedürfnis entgegengekommen sein. Heute aber haben wir doch
+                        längst viel Besseres, zum Teil schon unter dem kunstmäßig für Kinderfilm und
+                        Kindermund geschaffnen, vor allem aber unter den wieder aus dem Brunnen der
+                        Volksdichtung geschöpften Kinderliedern und Kindersprüchen. Wenn wir eine Mustersammlung von Kinderliedern zusammenstellen sollten, wir würden in die größte
+                        Verlegenheit kommen, wenn wir aus <seg id="21" type="speaker">Heys</seg> „Fabeln" auch nur eine oder zwei für
+                        diese Sammlung auswählen sollten. Unser verehrter Herr Mitarbeiter hat den
+                        „Raben" und das „Pferd und den Sperling" herausgegriffen. Das sind verhältnismäßig noch die hübschesten, außerdem etwa noch der „Schneemann," aber
+                        mustergiltig ist nicht eine einzige darunter. Man sehe sie doch nur an, <said id="21" mode="reported" content="writing" level="1">diese
+                        angeblichen „Fabeln," sie sind alle nach derselben Schablone <seg id="21" type="intExpr">gemacht</seg>.</said>
+            <said id="8" mode="reported" content="speech" level="1">Erst ein
+                        <seg id="8" type="intExpr">Gespräch</seg> zwischen dem <seg id="8" type="speaker">Kinde</seg> und einem <seg id="8" type="speaker">Tiere</seg>, oder zwischen zwei <seg id="8" type="speaker">Tieren</seg>
+            </said>, meist
+                        gesucht, witzlos, frostig, mit Mühe die sechs Zeilen füllend, dann noch sechs
+                        erzählende Zeilen, genau von derselben Beschaffenheit. <seg id="22" type="frame" pos="start">
+               <seg id="22" type="speaker">Wir</seg> haben früher einmal
+                        die Vermutung <seg id="22" type="intExpr">ausgesprochen</seg>,</seg>
+            <said id="22" mode="indirect" content="speech" level="1">daß die „Fabeln" Heys erst zu Speckters Bildern
+                        angefertigt worden seien</said>; <said id="11" mode="direct" content="speech" level="1">
+               <said id="12" mode="reported" content="writing" level="2">so lahme Geschichten</said>
+            </said>
+            <seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagten</seg> 
+               <seg id="11" type="speaker">wir</seg> uns,</seg>
+            <said id="11"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <said id="12" mode="reported" content="writing" level="2">kann <seg id="12" type="speaker">niemand</seg>
+                        <seg id="12" type="intExpr">schreiben</seg>
+               </said>, wenn er nicht unter dem Zwange bildlicher Vorlagen steht, es ist ja die
+                        reine Clichepoesie.</said> Wir wurden damals eines Bessern belehrt, <seg id="13" type="frame" pos="start">es soll <seg id="13" type="intExpr">urkundlich</seg>
+                        nachweisbar sein,</seg>
+            <said id="13" mode="indirect" content="writing" level="1">daß die Reime Heys eher dagewesen seien als die Bilder Speckters.</said>
+            <seg id="14" type="frame" pos="start">Neuerdings ist uns von kundiger <seg id="14" type="speaker">Seite</seg> 
+               <seg id="14" type="intExpr">verraten</seg> worden,</seg>
+            <said id="14" mode="indirect" content="speech writing" level="1">daß nur die sechs Dialogzeilen vor den Zeichnungen dagewesen, <said id="23" mode="reported" content="writing" level="2">die sechs angeschlossenen erzählenden Zeilen
+                        aber <said id="15" mode="reported" content="speech" level="3">auf <seg id="15" type="intExpr">Wunsch</seg> des damaligen <seg id="15" type="speaker">Verlegers</seg>
+                  </said> erst nach Anfertigung der Zeichnungen
+                        noch von <seg id="23 25" type="speaker">Hey</seg> 
+                  <seg id="23" type="intExpr">hinzugereimt</seg> worden sind.</said>
+            </said> Doch wozu die vielen Worte? Hier
+                        sind ein paar vollständige Proben, damit <said id="24"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">der <seg id="24" type="speaker">Leser</seg>, der vielleicht nur noch eine
+                        dunkle <seg id="24" type="intExpr">Erinnerung</seg> an diese „Fabeln" aus seinen Kinderjahren hat</said>, mit seinem
+                        heutigen Urteil wieder einmal an sie hinantreten kann.
+               
+               
+                  <said id="25" mode="direct" content="writing" level="1">Hüte dich Böckchen, jetzt beiß' ich dich! —
+                        Hüte dich, Hündchen, jetzt (?) wehr' ich mich! —
+                        Habe gar einen scharfen Zahn. —
+                        Sind mir zwei Hörner gewachsen an. (!) —
+                        Böckchen, es war nicht so schlimm gemeint,
+                        Laß uns nur spielen und sein(!) gut Freund.
+                  Und so liefen den ganzen Tag
+                        Immer die zwei einander nach;
+                        Hündchen das bellte mit Gewalt (!),
+                        Böckchen das zeigte die Hörner bald(!);
+                        sprangen dann wieder um die Wette.
+                        Wers doch mit angesehen hätte!
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

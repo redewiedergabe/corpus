@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erdkunde in den höheren Schulen</title>
+             <author>Offe, Hans Dr.</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1916</f>
+         <f name="decade">1910</f>
+         <f name="title">Erdkunde in den höheren Schulen</f>
+         <f name="author">Offe, Hans Dr.</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Indes beschränkt sich ihr Wirkungskreis naturgemäß auf
+                        das rein Ideelle.
+            So bleibt also, wie man die Sachlage auch ansehen mag, der Erdkunde
+                        in ihrer Rolle als Vermittlerin zwischen Natur- und Kulturerkenntnis eine
+                        wichtige Teilaufgabe unsrer höheren Schule zu erfüllen übrig.
+            
+            
+            Bevor die Schulerdkunde imstande sein wird, selbst nur den bescheidensten
+                        Erwartungen nach dieser Richtung gerecht zu werden, sind mancherlei Hemmnisse
+                        zu überwinden.
+            Ist die Erdkunde eine ganz besonders „komplexe" Wissenschaft, so folgt
+                        daraus für einen gedeihlichen Schulunterricht, daß zu einer vollen Auswirkung
+                        ihrer Bildungsmöglichkeiten der Schüler ein nicht zu gering bemessenes Wissen
+                        aus den wichtigeren Hilfswissenschaften bereits sein eigen nennen muß, wenn
+                        anders der Erdkundenunterricht auf ihnen wirklich aufbauen soll. <said id="1"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">Praktisch
+                        <seg id="1" type="intExpr">gesprochen</seg> ist also, — selbst abgesehen von der nötigen geistigen Reife, — erst die
+                        Oberstufe der geeignete Platz, um den geographischen Unterricht zum befriedigenden
+                        Abschluß zu bringen.
+ </said>           Heute sind wir von der Verwirklichung dieser auf zwingenden Gründen
+                        beruhenden Erkenntnis noch ziemlich weit entfernt. Zwar schreiben die amtlichen
+                        Lehrpläne „länderkundliche Wiederholungen im Anschluß an den Geschichtsunterricht" auf der Oberstufe vor; zwar werden den Oberklassen der Oberrealschulen 
+						für eine (!) erdkundliche Wochenstunde verhältnismäßig umfangreiche
+                        Lehraufgaben gestellt, so u. a. „die Grundzüge der allgemeinen Erdkunde,
+                        gelegentlich auch einiges aus der Völkerkunde."<seg id="2" type="frame" pos="start"> Aber <seg id="2" type="speaker">man</seg> kann sich bei näherer
+                        Prüfung dem <seg id="2" type="intExpr">Eindruck</seg> nicht entziehen,</seg>
+            <said id="2"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes"> daß dieser Unterricht allein schon wegen
+                        seines allzu bescheidenen äußeren Umfanges, gleichsam in der Luft schwebt </said>—
+                        dies um so mehr, wenn er von Tertia (oder doch Untersekunda) an auf
+                        einem großen Teil der höheren Lehranstalten nur mit einer Wochenstunde
+                        betrieben wird.
+            Fast noch schwerwiegender will ein anderer Umstand erscheinen. Wie aus
+                        Statistiken der letzten 15 Jahre unzweideutig hervorgeht, ist der Anteil der
+                        nicht fachmännisch vorgebildeten Lehrer der Erdkunde an der Gesamtzahl der
+                        Lehrer dieses Faches ein unerwartet hoher, obwohl geprüfte Fachlehrer der
+                        Erdkunde im allgemeinen weit mehr als unbedingt nötig vorhanden sind.
+                        Nach zuverlässigen Angaben aus dem Schuljahr 1907/08, — neuere Zahlen
+                        liegen mir nicht vor — die sich auf verschiedene deutsche Landesteile (Berlin,
+                        Königreich Sachsen, Elsaß-Lothringen) beziehen, wurde unser Fach zu etwa
+                        40—50 Prozent und darüber von Nicht-Geographen unterrichtet. Leider ist es
+                        immer noch, im Widerspruch zu den ausdrücklichen amtlichen Bestimmungen,
+                        vielerorten „Brauch", erdkundliche Lehrstunden womöglich ohne Rücksicht darauf,
+                        ob der betreffende Nichtfachmann sich einarbeiten kann oder will, als „Füllstunden" zwecks Erreichung der erforderlichen Stundenzahl unter die Mitglieder
+                        eines Lehrerkollegiums zu verteilen!!
+                         
+            Ich will auf die naheliegenden Folgen für den wissenschaftlichen Ernst der
+                        Schularbeit und ihr Ansehen in der Öffentlichkeit nicht eingehen. <said id="3" mode="reported" content="speech" level="1">Das <seg id="3" type="intExpr">Gesagte</seg>
+            </said>
+                        dürfte auch dem Fernerstehenden verständlich machen, weswegen der bisherige
+                        erdkundliche Schulunterricht die auf ihn gestellten Erwartungen in der Regel
+                        überhaupt nicht erfüllen konnte.<said id="4" mode="reported" content="thought" level="1"> Damit ist <seg id="4" type="speaker">meines</seg> 
+               <seg id="4" type="intExpr">Erachtens</seg> zugleich der
+                         
+            
+            Weg angedeutet, den eine künftige Schulreform wird gehen müssen, will sie
+                        nicht gegenüber einer dringenden pädagogischen Forderung der Gegenwart als
+                        rückständig erfunden werden.</said> —
+                         
+           <said id="5" mode="reported" content="thought" level="1"> 
+               <seg id="5" type="intExpr">Vergessen</seg> 
+               <seg id="5" type="speaker">wir</seg> nicht den weiteren Zusammenhang, in dem wiederum die
+                        Schulreform als Ganzes mit der Reform des Universitätsunterrichts steht!</said>
+            <said id="6" mode="reported" content="thought" level="1"> Gern und dankbar sei der <seg id="6" type="speaker">Verdienste</seg> der akademischen Vertreter der Geographie
+                        um die Schulerdkunde <seg id="6" type="intExpr">gedacht</seg>.</said>
+            <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="speaker">Ich</seg> 
+               <seg id="7" type="intExpr">nenne</seg> nur bekanntere Namen, wie Ratzel,
+                        Kirchhoff, H. Wagner.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Von der Straße</title>
+             <author>Frapan, Ilse</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">Von der Straße</f>
+         <f name="author">Frapan, Ilse</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">»Das finde ich nicht; ist es so oft?«</said>
+            <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">Er</seg> (in gezwungenem, witzelnden Ton):</seg>
+            <said id="2" mode="direct" content="speech" level="1">»O, <seg id="31" type="frame" pos="start">
+                  <seg id="31" type="speaker">ich</seg> will nicht <seg id="31" type="intExpr">sagen</seg>,</seg> 
+               <said id="31"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß ich mich darüber freue!</said>«</said>
+            <seg id="3" type="frame" pos="start">
+               <said id="4" mode="reported" content="speech" level="1">
+                  <seg id="3 4" type="speaker">Er</seg> 
+                  <seg id="4" type="intExpr">sprach</seg> grell und laut</said> und <seg id="3" type="intExpr">setzte</seg> mit einem stürmischen Lachausbruch <seg id="3" type="speaker">hinzu</seg>:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Und so ganz aus Zufall!«</said>
+            <seg id="5" type="frame" pos="start">
+               <seg id="5" type="speaker">Sie</seg> (mit unterdrückter Stimme):</seg>
+            <said id="5" mode="direct" content="speech" level="1">»Es ist auch Zufall, das heißt –«</said>
+            <seg id="6" type="frame" pos="start">
+               <seg id="6" type="speaker">Er</seg>:</seg>
+            <said id="6" mode="direct" content="speech" level="1">»Zufall? hahaha! Nein <seg id="7 8" type="speaker">du</seg>, hör, sei doch bloß einmal aufrichtig! <said id="7"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="7" type="intExpr">Sprich</seg> dich doch ein einziges Mal aus!</said> 
+               <said id="8"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="8" type="intExpr">Sprich</seg> rein, <said id="32" mode="reported" content="thought" level="3">wie <seg id="32" type="speaker">du</seg> 
+                     <seg id="32" type="intExpr">denkst</seg>!</said>
+               </said> Nein sieh, tu mir den Gefallen!«</said> (Er ließ ihren Arm fahren, trat ein paar Schritte zurück und betrachtete sie von Ferne, dann brach er abermals in Lachen aus.) 
+                  
+                     <seg id="9" type="frame" pos="start">
+               <seg id="9" type="speaker">Sie</seg> (halb weinend):</seg>
+            <said id="9" mode="direct" content="speech" level="1">»Sei doch nicht so laut, <said id="33" mode="reported" content="speech" level="2">
+                  <seg id="33" type="speaker">ich</seg> 
+                  <seg id="33" type="intExpr">bitte</seg> dich, Emil!</said>«</said>
+            <seg id="30" type="frame" pos="start">
+               <seg id="30" type="speaker">Er</seg>:</seg>
+            <said id="30" mode="direct" content="speech" level="1">»Laut? Wen geht das was an?</said> (Er sah sich herausfordernd nach mir um.) <said id="30" mode="direct" content="speech" level="1">– Und gerade, wo ich gehen und ein Glas Bier trinken wollte.«</said>
+            <said id="11"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="11" type="speaker">Sie</seg> 
+               <seg id="11" type="intExpr">antwortete</seg> nicht.</said>
+            <seg id="12" type="frame" pos="start">
+               <seg id="12" type="speaker">Er</seg> (mit heftigem Schelten):</seg>
+            <said id="12" mode="direct" content="speech" level="1">»Siehst du wohl! <said id="34"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="34" type="speaker">man</seg> kann kein Wort <seg id="34" type="intExpr">sagen</seg>
+               </said>, <said id="13" mode="reported" content="speech" level="2">so fängst <seg id="13" type="speaker">du</seg> gleich an zu <seg id="13" type="intExpr">maulen</seg>!</said> Das ist nu all das zweitemal heute.«</said>
+            <seg id="14" type="frame" pos="start">
+               <seg id="14" type="speaker">Sie</seg> (kläglich):</seg>
+            <said id="14" mode="direct" content="speech" level="1">»<said id="35"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="35" type="speaker">Ich</seg> habe nicht <seg id="35" type="intExpr">gemault</seg>.</said>« </said>
+            <seg id="15" type="frame" pos="start">
+               <seg id="15" type="speaker">Er</seg> (mit schallendem Lachen):</seg>
+            <said id="15" mode="direct" content="speech" level="1">»<said id="36"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="36" type="speaker">Ich</seg> habe nicht <seg id="36" type="intExpr">gemault</seg>!</said> 
+               <said id="37"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="37" type="speaker">ich</seg> habe nicht <seg id="37" type="intExpr">gemault</seg>!</said> hahaha!«</said>
+            <seg id="16" type="frame" pos="start">
+               <seg id="16" type="speaker">Sie</seg> (noch kläglicher):</seg>
+            <said id="16" mode="direct" content="speech" level="1">»Ich habe es nicht getan, warum lachst du so laut?«</said>
+            <seg id="17" type="frame" pos="start">
+               <seg id="17" type="speaker">Er</seg>:</seg>
+            <said id="17" mode="direct" content="speech" level="1">»Es hört sich bloß so komisch an; <said id="19" mode="reported" content="speech" level="2">
+                  <seg id="19" type="speaker">ich</seg> habe nicht <seg id="19" type="intExpr">gemault</seg>!</said> hahaha!«</said>
+            <seg id="20" type="frame" pos="start">
+               <seg id="20" type="speaker">Sie</seg>:</seg>
+            <said id="20" mode="direct" content="speech" level="1">»Die Leute kucken dich an! Sei doch still!«</said>
+            <seg id="21" type="frame" pos="start">
+               <seg id="21" type="speaker">Er</seg>:</seg>
+            <said id="21" mode="direct" content="speech" level="1">»<said id="38"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="38" type="speaker">Wer</seg> hat mir was zu <seg id="38" type="intExpr">befehlen</seg>?</said> wer?«</said> (Er schob den Hut ganz zurück und fuchtelte mit dem Stocke umher.) <said id="21" mode="direct" content="speech" level="1">»Ich bin wütend! Ich bin wütend auf die ganze Welt. Nichts als Schinderei den ganzen Tag. Die Menschheit ist keinen Schuß Pulver wert! Da wohnt auch so einer!</said> (Er ballte die Faust gegen ein stattliches Haus an der andern Seite, aus dessen Bogenfenstern helles Licht, durch rote seidene Vorhänge gedämpft, herüberfiel.) <said id="21" mode="direct" content="speech" level="1">Man gut, daß die mit ihren Millionen auch mal sterben müssen!«</said>
+            <seg id="22" type="frame" pos="start">
+               <seg id="22" type="speaker">Sie</seg>:</seg>
+            <said id="22" mode="direct" content="speech" level="1">»Hast du dich nicht gut amüsiert gestern? Du bist doch ausgekommen?«</said>
+            <seg id="23" type="frame" pos="start">
+               <seg id="23" type="speaker">Er</seg>:</seg>
+            <said id="23" mode="direct" content="speech" level="1">»Ja das woll! Wir haben allerlei Jux gehabt, sind bis nach Winterhude Schlittschuh gelaufen –«</said>
+            <seg id="24" type="frame" pos="start">
+               <seg id="24" type="speaker">Sie</seg>:</seg>
+            <said id="24" mode="direct" content="speech" level="1">»Es war schön auf der Alster, nicht du? Bloß hatte das Eis so viele Rillen.«</said>
+            <seg id="25" type="frame" pos="start">
+               <seg id="25" type="speaker">Er</seg>: (plötzlich argwöhnisch):</seg>
+            <said id="25" mode="direct" content="speech" level="1">»Sieh, du bist also gestern auch auf'm Eis gewesen? Sie gehn woll jetzt jeden Abend aus, mein Fräulein?«</said>
+            <seg id="26" type="frame" pos="start">
+               <seg id="26" type="speaker">Sie</seg> (bittend):</seg>
+            <said id="26" mode="direct" content="speech" level="1">»<seg id="39" type="frame" pos="start">
+                  <seg id="39" type="speaker">Ich</seg> 
+                  <seg id="39" type="intExpr">dachte</seg>,</seg> 
+               <said id="39" mode="indirect" content="thought" level="2">daß ich dich vielleicht treffen würde</said> –«</said>
+            <seg id="27" type="frame" pos="start">
+               <seg id="27" type="speaker">Er</seg>:</seg>
+            <said id="27" mode="direct" content="speech" level="1">»Nee, meine Gute, <said id="40" mode="reported" content="speech" level="2">das ist 'ne <seg id="40" type="intExpr">Ausrede</seg>.</said> Denn seh ich auch wirklich gar nicht ein, warum 
+ich hier das ganze Ende mit Ihnen längs laufe! Ich bin so all zweimal heute 'ne weite Tour gelaufen fürs Geschäft, ganz nach Uhlenhorst, hin und zurück.«</said> 
+                  Er blieb mit ungeduldigem Achselzucken stehen und tat, als wolle er rechts abbiegen. 
+                  <said id="28" mode="direct" content="speech" level="1">»Gott, Emil, sei doch nicht so!«</said>
+            <seg id="28" type="frame" pos="mid">
+               <seg id="28" type="intExpr">bat</seg> 
+               <seg id="28" type="speaker">sie</seg> eindringlich, etwas Weißes aus der Tasche ziehend,</seg>
+            <said id="28" mode="direct" content="speech" level="1">»kuck mal, das hab ich dir mitgebracht, nu kannst du doch woll sehn –«</said> Sie weinte leise. 
+                  
+                     <seg id="29" type="frame" pos="start">
+               <seg id="29" type="speaker">Er</seg>:</seg>
+            <said id="29" mode="direct" content="speech" level="1">»Siehst du woll? All wieder! Es ist nicht mehr auszuhalten.</said> (Er riß ihr den Brief aus der Hand und schlug heftig damit hin und her.) <said id="29" mode="direct" content="speech" level="1">Was ist es denn? Hunderttausend Taler? Das wär doch noch der Mühe wert!
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das russische Heer in Polen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Das russische Heer in Polen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Rußland. 
+            
+            
+               Warschan 4. August [ Das russische Heerin Polen. ]
+                  Ungefähr zwei Meilen von der preußischen Grenze sind die ersten Abtheilungen der
+                  russischen Armee zu sehen, welche in Städten und Dörfern nach gehöriger
+                  Schlachtordnung vertheilt ist.
+               Die leichte Kavalerie mit Kosaken bildet die Avantgarde, sodann die Jnfanterie,
+                  hinter ihr die Artillerie, zum Schluß die schwere Kavalerie.
+               Um Warschau ist ein Lager von 40,000 Mann. Jm ganzen Königreiche stehen zwei
+                  Armeekorps zu 50,000 Mann; das dritte sollte einmarschiren, es kam aber nur ein
+                  Theil und der Rest zog sich ins Lager bei Luck zurück, weil sich in diesem Heere
+                  die Cholera zeigte.
+               Nach Galizien zu ist ebenfalls ein Lager unter Radziwill aufgestellt.
+               Der Kaiser sollte hieher kommen, was aber verschoben wurde, wahrscheinlich wegen
+                  des Ausbruches der Cholera in Petersburg.
+            
+            
+               <said id="1" mode="reported" content="writing" level="1">Das <seg id="1" type="speaker">Journal</seg> de St. Petersbourg <seg id="1" type="intExpr">theilt</seg> eine lange, vom 31. Juli datirte und zur
+                  Mittheilung an die europäischen Regierungen bestimmte <seg id="3 2" type="speaker">Note</seg> des russischen
+                  Cabinetts über die russische Jntervention in den
+                     Donaufürstenthümern <seg id="1" type="intExpr">mit</seg>, <seg id="2" type="frame" pos="start">in welcher <said id="3" mode="reported" content="writing" level="2">nach <seg id="3" type="intExpr">Darlegung</seg> des Thatbestandes</said> mit
+                  besonderem Nachdruck darauf <seg id="2" type="intExpr">hingewiesen</seg> wird,</seg> 
+               <said id="2" mode="indirect" content="writing" level="2">daß diese Jntervention auf specielle
+                  Vertragsbestimmungen sich gründe und daher in keiner Weise <said id="4" mode="reported" content="speech writing" level="3">die früheren
+                  <seg id="4" type="intExpr">Erklärungen</seg> 
+                     <seg id="4" type="speaker">Rußlands</seg>
+                  </said> beeinträchtigen könne, denen gemäß es allen unabhängigen
+                  Staaten gegenüber gesonnen ist, in der Stellung strengster
+                     Neutralität zu verharren.</said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

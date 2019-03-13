@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Venus im Pelz</title>
+             <author>Sacher-Masoch, Leopold von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Venus im Pelz</f>
+         <f name="author">Sacher-Masoch, Leopold von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">»Also <said id="33"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     prag="yes">ehrlich <seg id="33" type="intExpr">gesprochen</seg>.</said> 
+               <seg id="34" type="frame" pos="start">
+                  <seg id="34" type="speaker">Ich</seg> 
+                  <seg id="34" type="intExpr">glaube</seg> nicht,</seg> 
+               <said id="34"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß ich einen Mann länger lieben kann – als</said> –«</said>
+            <seg id="1 33 2 6 9 4 11" type="speaker">sie</seg> neigte ihr Köpfchen anmutig zur Seite und <said id="2" mode="reported" content="thought" level="1">
+               <seg id="2" type="intExpr">sann</seg> nach.</said>
+            <said id="3" mode="direct" content="speech" level="1">»Ein Jahr.«</said>
+            <said id="4" mode="direct" content="speech" level="1">»<said id="7"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     prag="yes">Wo <seg id="7" type="intExpr">denken</seg> 
+                  <seg id="7" type="speaker">Sie</seg> hin</said> – einen Monat vielleicht.«</said>
+            <said id="5" mode="direct" content="speech" level="1">»Auch mich nicht?«</said>
+            <said id="6" mode="direct" content="speech" level="1">»Nun Sie – Sie vielleicht zwei.«</said>
+            <said id="8" mode="direct" content="speech" level="1">»Zwei Monate!«</said>
+            <seg id="8" type="frame" pos="end">
+               <seg id="8" type="intExpr">schrie</seg> 
+               <seg id="8 3 5 10" type="speaker">ich</seg> auf.</seg>
+            <said id="9" mode="direct" content="speech" level="1">»Zwei Monate, das ist sehr lange.«</said>
+            <said id="10" mode="direct" content="speech" level="1">»Madame, das ist mehr als antik.«</said>
+            <said id="11" mode="direct" content="speech" level="1">»Sehen Sie, Sie ertragen die Wahrheit nicht.«</said> 
+                  Wanda ging durch das Zimmer, lehnte sich dann gegen den Kamin zurück und betrachtete mich, mit dem Arme auf dem Sims ruhend. 
+                  <said id="12" mode="direct" content="speech" level="1">»Was soll ich also mit Ihnen anfangen?«</said>
+            <seg id="12" type="frame" pos="end">
+               <seg id="12" type="intExpr">begann</seg> 
+               <seg id="12" type="speaker">sie</seg> wieder.</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Was Sie wollen«</said>
+            <seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">antwortete</seg> 
+               <seg id="13 15" type="speaker">ich</seg> resigniert,</seg>
+            <said id="13" mode="direct" content="speech" level="1">»was Ihnen Vergnügen macht.«</said>
+            <said id="14" mode="direct" content="speech" level="1">»Wie inkonsequent!«</said>
+            <seg id="14" type="frame" pos="mid">
+               <seg id="14" type="intExpr">rief</seg> 
+               <seg id="14" type="speaker">sie</seg>,</seg>
+            <said id="14" mode="direct" content="speech" level="1">»erst wollen Sie mich zur Frau und dann geben Sie sich mir zum Spielzeug.«</said>
+            <said id="15" mode="direct" content="speech" level="1">»<seg id="16" type="speaker">Wanda</seg> – ich liebe Sie.«</said>
+            <said id="16" mode="direct" content="speech" level="1">»Da wären wir wieder dort, wo wir angefangen haben. Sie lieben mich und wollen mich zur Frau, ich aber will keine neue Ehe schließen, <said id="17" mode="reported" content="thought" level="2">weil <seg id="17" type="speaker">ich</seg> an der Dauer meiner und Ihrer Gefühle <seg id="17" type="intExpr">zweifle</seg>.</said>«</said>
+            <said id="18" mode="direct" content="speech" level="1">»Wenn ich es aber mit Ihnen wagen will?«</said>
+            <seg id="18" type="frame" pos="end">
+               <seg id="18" type="intExpr">erwiderte</seg> 
+               <seg id="18" type="speaker">ich</seg>.</seg>
+            <said id="20" mode="direct" content="speech" level="1">»Dann kommt es noch darauf an, ob ich es mit Ihnen wagen will«</said>
+            <seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">sprach</seg> 
+               <seg id="20" type="speaker">sie</seg> ruhig,</seg>
+            <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="frame" pos="start">
+                  <seg id="21" type="speaker">ich</seg> kann mir ganz gut <seg id="21" type="intExpr">denken</seg>,</seg> 
+               <said id="21" mode="indirect" content="thought" level="2">daß ich einem Mann für das Leben gehöre</said>, aber es müßte ein voller Mann sein, ein Mann, der mir imponiert, der mich durch die Gewalt seines Wesens unterwirft, verstehen Sie? und jeder Mann – ich kenne das – wird, sobald er verliebt ist – schwach, biegsam, lächerlich, wird sich in die Hand des Weibes geben, vor ihr auf den Knien liegen, während ich nur jenen dauernd lieben könnte, vor dem ich knien würde. Aber Sie sind mir so lieb geworden, daß ich es mit Ihnen versuchen will.«</said> 
+                  
+                     Ich stürze zu ihren Füßen. 
+                  <said id="23" mode="direct" content="speech" level="1">»Mein Gott! da knien Sie schon«</said>
+            <seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">sprach</seg> 
+               <seg id="23" type="speaker">sie</seg> spöttisch,</seg>
+            <said id="23" mode="direct" content="speech" level="1">»Sie fangen gut an«</said>, und als ich mich wieder erhoben hatte, <seg id="24" type="frame" pos="start">
+               <seg id="24" type="intExpr">fuhr</seg> 
+               <seg id="24" type="speaker">sie</seg> 
+               <seg id="24" type="intExpr">fort</seg>:</seg>
+            <said id="24" mode="direct" content="speech" level="1">»Ich gebe Ihnen ein Jahr Zeit, mich zu gewinnen, <seg id="35" type="frame" pos="start">
+                  <seg id="35" type="speaker">mich</seg> zu <seg id="35" type="intExpr">überzeugen</seg>,</seg> 
+               <said id="35"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß wir füreinander passen, daß wir zusammen leben können.</said> Gelingt Ihnen dies, dann bin ich Ihre Frau und dann, Severin, eine Frau, welche ihre Pflichten streng und gewissenhaft erfüllen wird. Während dieses Jahres werden wir wie in einer Ehe leben –«</said> 
+                  Mir stieg das Blut zu Kopfe. 
+                  Auch ihre Augen flammten plötzlich auf. – <said id="25" mode="direct" content="speech" level="1">»Wir werden zusammenwohnen«</said>
+            <seg id="25" type="frame" pos="mid">, <seg id="25" type="intExpr">fuhr</seg> 
+               <seg id="25 27 29" type="speaker">sie</seg> 
+               <seg id="25" type="intExpr">fort</seg>,</seg>
+            <said id="25" mode="direct" content="speech" level="1">»alle unsere Gewohnheiten teilen, um zu sehen, ob wir uns ineinander finden können. Ich räume Ihnen alle Rechte eines Gatten, eines Anbeters, eines Freundes ein. Sind Sie damit zufrieden?«</said>
+            <said id="26" mode="direct" content="speech" level="1">»<seg id="28 26" type="speaker">Ich</seg> muß wohl.«</said>
+            <said id="27" mode="direct" content="speech" level="1">»Sie müssen nicht.«</said>
+            <said id="28" mode="direct" content="speech" level="1">»Also ich will –«</said>
+            <said id="29" mode="direct" content="speech" level="1">»Vortrefflich. <said id="30" mode="reported" content="speech" level="2">So <seg id="30" type="intExpr">spricht</seg> ein <seg id="30" type="speaker">Mann</seg>.</said> Da haben Sie meine Hand.«</said>
+                         
+                  Seit zehn Tagen war ich keine Stunde ohne sie, die Nächte ausgenommen. Ich durfte immerfort in ihre Augen sehen, ihre Hände halten, <said id="31" mode="reported" content="speech" level="1">
+               <seg id="31" type="speaker">ihren</seg> 
+               <seg id="31" type="intExpr">Reden</seg>
+            </said> lauschen, sie überallhin begleiten. <said id="32" mode="reported" content="thought" level="1">Meine Liebe <seg id="32" type="intExpr">kommt</seg> 
+               <seg id="32" type="speaker">mir</seg> wie ein tiefer, bodenloser Abgrund <seg id="32" type="intExpr">vor</seg>, in dem ich immer mehr versinke, aus dem mich jetzt schon nichts mehr retten kann.</said> 
+                  Wir hatten uns heute nachmittag auf der Wiese zu den Füßen der Venusstatue gelagert, ich pflückte Blumen und warf sie in ihren Schoß und sie band sie zu Kränzen, mit denen wir unsere Göttin schmückten.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

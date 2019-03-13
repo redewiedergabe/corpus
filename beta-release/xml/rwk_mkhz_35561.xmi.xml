@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Schweden.
+                        
+            
+            Gothenburg 14. Juli. ( Osts. Z. ) Auch in Schweden
+                        herrscht eben so wenig wie in Norwegen irgend eine Begeisterung
+                        für den schleswig=holsteinischen Kreuzzug. <said id="4" mode="reported" content="speech" level="1">Der norweg. <seg id="4 5" type="speaker">Storthing</seg> hat bekanntlich in <said id="5" mode="reported" content="speech" level="2">einer langen <seg id="5" type="intExpr">Debatte</seg>
+               </said> ein, Regierung und
+                        König vollkommen desavouirendes Votum <seg id="4" type="intExpr">abgegeben</seg>.</said> Bei uns
+                        in Schweden ist der gewerbliche, der Handels= und der Bauernstand ebenfalls sehr unzufrieden, namentlich über die finanziellen
+                        Dispositionen der Regierung.<seg id="3" type="frame" pos="start"> Die <seg id="3" type="speaker">Presse</seg> ist allseitig der <seg id="3" type="intExpr">Meinung</seg>,</seg>
+            <said id="3" mode="indirect" content="writing" level="1">daß Schweden und Norwegen mit diesem Kriege gar nichts
+                        zu schaffen haben, und die Regierung wird auf dem nächsten
+                        Reichstage einen harten Stand bekommen.</said> Lange hält es auch
+                        bei uns nicht mehr zusammen, und es unterliegt wohl keinem
+                        Zweifel, daß auch unsere altmodische Verfassungsmaschine nächstens auseinanderbrechen wird. Die materiellen Verhältnisse
+                        spielen den Regierungen ja immer die schlimmsten Streiche, und
+                        damit sieht es denn auch bei uns recht traurig aus. Handel und
+                        Verkehr liegen fast ganz darnieder; Jmport genug, aber nichts
+                        zu exportiren, und darum fängt das Geld an, entsetzlich knapp
+                        zu werden. Es ist hier Alles unzufrieden, und wenn der Versuch,
+                        diese Unzufriedenheit durch den skandinavischen Feldzug auf kurze
+                        Zeit zu besänftigen, einigermaßen gelungen war, so wacht sie
+                        doch jetzt, nachdem man sich von dem nationalen Rausche ernüchtert hat, mit desto größerer Gewalt wieder auf. Es herrscht allgemein eine düstere Stimmung, die auch bei uns unzweifelhaft
+                        nächstens in irgend eine That umschlagen muß.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

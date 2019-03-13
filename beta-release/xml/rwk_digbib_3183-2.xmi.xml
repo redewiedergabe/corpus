@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Miks Bumbullis</title>
+             <author>Sudermann, Hermann</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1917</f>
+         <f name="decade">1910</f>
+         <f name="title">Miks Bumbullis</f>
+         <f name="author">Sudermann, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Der Miks Bumbullis war bald gefunden. <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Er</seg> trieb sich in den Krügen umher und <seg id="1" type="intExpr">erklärte</seg> in seiner Betrunkenheit jedem, <said id="2" mode="reported" content="speech" level="1">
+                  <said id="19"
+                        mode="reported"
+                        content="thought"
+                        level="2"
+                        nonfact="yes"
+                        border="yes"
+                        prag="yes">
+                     <seg id="19 2" type="speaker">der</seg> es <seg id="19" type="intExpr">wissen</seg> 
+                     <seg id="19" type="intExpr">wollte</seg>
+                  </said>
+               </said>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">er sei von dem Hegemeister beklappt worden.</said>
+            <said id="3" mode="indirect freeIndirect" content="speech" level="1">Darum müsse <seg id="3" type="speaker">er</seg> jetzt auf ein paar Jahre in die Kaluse.</said>
+            <said id="4"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">Aber von dem Morde <seg id="4" type="intExpr">wußte</seg> 
+               <seg id="4" type="speaker">er</seg> nichts.</said>
+            <seg id="5" type="frame" pos="start">Dem Gendarm, der ihm Handschellen anlegte, streckte <seg id="5" type="speaker">er</seg> die Zunge aus und <seg id="5" type="intExpr">bestand darauf</seg>,</seg>
+            <said id="5" mode="indirect" content="speech" level="1">daß der Krüger sich das Geld für die Zeche selber aus der Hosentasche hole, denn er müsse die kostbaren Armbänder schonen, die der Staat ihm geschenkt habe.</said> 
+                     Ein strammer, gedrungener <seg id="6 8" type="speaker">Kerl</seg> war er mit einem blonden Unschuldsgesicht. Trug das Haar noch von der Soldatenzeit her glatt an der Seite gescheitelt und sah mit großen, ausgeblaßten Augen gelassen in die Runde. 
+                     Sein erstes Verhör verlief wesentlich anders, als der <seg id="7 10" type="speaker">Untersuchungsrichter</seg> erwartet hatte. <said id="6" mode="indirect freeIndirect" content="speech" level="1">Der alte Hegemeister habe es zwar schon lange auf ihn abgesehen gehabt, im Walde Mann gegen Mann würde er auch sicherlich auf ihn abgedrückt haben, das hätte die Ehre von ihm gefordert; den Schuß durchs Fenster aber habe ein anderer getan.</said> 
+                     Soweit war alles in Ordnung. 
+                     <said id="7" mode="indirect freeIndirect" content="speech" level="1">Wo er sich denn in der Mordnacht aufgehalten habe?</said> 
+                     Und nun kam die merkwürdige Wendung. 
+                     <said id="8" mode="indirect freeIndirect" content="speech" level="1">Er sei irgendwo eingestiegen, sich eine neue Flinte zu beschaffen. <said id="9"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Wo, <seg id="9" type="intExpr">sage</seg> 
+                  <seg id="9" type="speaker">er</seg> nicht.</said>
+            </said>
+            <said id="10" mode="indirect freeIndirect" content="speech" level="1">Was er denn mit der Flinte habe anfangen wollen, <seg id="11" type="frame" pos="start">da <seg id="11 12" type="speaker">er</seg> doch <seg id="11" type="intExpr">sicher gewesen</seg> sei,</seg> 
+               <said id="11"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">alsbald verhaftet zu werden?</said>
+            </said>
+            <said id="12" mode="indirect freeIndirect" content="speech" level="1">Er habe über die Grenze gehen wollen, und da drüben müsse man immer was in der Hand haben.</said>
+            <seg id="13" type="frame" pos="start">Der <seg id="13" type="speaker">Untersuchungsrichter</seg> 
+               <seg id="13" type="intExpr">legte</seg> ihm <seg id="13" type="intExpr">ans Herz</seg>,</seg>
+            <said id="13" mode="indirect" content="speech" level="1">daß, <seg id="14" type="frame" pos="start">wenn <seg id="14" type="speaker">er</seg> nicht <seg id="14" type="intExpr">angeben</seg> wolle,</seg> 
+               <said id="14"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">wo er den Einbruch verübt habe</said>, sein Kopf sich schon als abgetan betrachten könne.</said> Aber auch das half nichts. 
+                     Noch an demselben Tag wurde er zwischen zwei Gendarmen auf einen Bretterwagen gesetzt und die zwei Meilen weit zur Mordstätte gefahren. Das Publikum in Heydekrug sammelte sich am Weg und starrte ihn an. Das schien ihm großen Spaß zu machen. 
+                     Grigas und Eve empfingen die <seg id="15" type="speaker">Gerichtskommission</seg> mit der dienstfertigen Würde des guten Gewissens, die heftig in Verlegenheit umschlug, <said id="15" mode="reported" content="speech" level="1">als ihnen die näheren Umstände der frühmorgendlichen Heimkunft <seg id="15" type="intExpr">abgefragt</seg> wurden.</said> 
+                     Der Tatbestand war klar. Der Bruch der Fensterscheibe schien auf einen Schrotschuß hinzuweisen, obwohl nur eine Wunde – dicht über dem Herzen – sich vorfand. Genaueres festzustellen blieb der Leichenöffnung vorbehalten. Fußspuren ließen sich nicht entdecken. 
+                     Als Miks Bumbullis vor die Leiche geführt wurde, tasteten ein halbes Dutzend Augenpaare gierig nach seinem Angesicht. Der große Augenblick, <said id="20"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">der so manches <seg id="20" type="intExpr">Geständnis</seg> aus der Seele reißt</said>, verging ungenutzt. Ruhevoll – ein wenig neugierig fast – blickte <seg id="18" type="speaker">Miks</seg> auf den Körper nieder und sah sich dann, als suche er irgend etwas, in der Stube um. 
+                     <said id="21" mode="reported" content="speech" level="1">Die üblichen Vorhaltungen, die der <seg id="21" type="speaker">Dolmetsch</seg>, ein kluger, kleiner Mann, der in der Seele des fremden Volkes zu lesen gewohnt war, noch eindrucksvoller <seg id="21" type="intExpr">übersetzte</seg>
+            </said>, verhallten ungehört. 
+                     <said id="18" mode="direct" content="speech" level="1">»<said id="22"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">
+                  <seg id="22" type="speaker">Ich</seg> 
+                  <seg id="22" type="intExpr">weiß</seg> von rein gar nuscht,</said>«</said>
+            <seg id="18" type="frame" pos="end">blieb die einzige <seg id="18" type="intExpr">Antwort</seg>.</seg> 
+                     Nur als hierauf die kleine Anikke weinend hereingeführt wurde, flog ein Schein wie von plötzlicher Ermüdung über die gestrafften Züge – einen Augenblick nur –, dann war er wieder der alte. 
+                     Aus dem Kind ließ sich, wie natürlich, vor den fremden Männern nichts herausbringen.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Verein Frauenhilfe. Die Hilfsbereitschaft der Marburger Bevölkerung Unterhaltsbeitrag für Angehörige von Mobilisierten. Maßnahmen zur Sicherung der Ernte und Wintersaaten. Der Verkauf von Mehl, Reis und Zucker. „Verlustträger gesucht“. Trauungen. Todesfälle. Ausmusterung des letzten Kadettenjahrganges. Dank von Reservisten. Radfahrer, Für arme Angehörige eingerückter Reservisten. Von der Gemeindesparkasse. Die Preissteigerung bei den Spezeristen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">Verein Frauenhilfe. Die Hilfsbereitschaft der Marburger Bevölkerung Unterhaltsbeitrag für Angehörige von Mobilisierten. Maßnahmen zur Sicherung der Ernte und Wintersaaten. Der Verkauf von Mehl, Reis und Zucker. „Verlustträger gesucht“. Trauungen. Todesfälle. Ausmusterung des letzten Kadettenjahrganges. Dank von Reservisten. Radfahrer, Für arme Angehörige eingerückter Reservisten. Von der Gemeindesparkasse. Die Preissteigerung bei den Spezeristen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.marburger</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Der Verblichene stand
+                        im 66. Lebensjahre und war Mitglied des Gemeindeund des Ortsschulrates Pobersch. Die Beisetzung erfolgt Dienstag um 5 Uhr von der Leichenhalle
+                        des kirchl. Friedhofes aus.
+            
+            
+               
+                  Ausmusterung des letzten Kadettenjahrganges.
+               
+               Samstag fand in der hiesigen MilitärOberrealschule infolge der allgemeinen Mobilisierung die vorzeitige Ausmusterung der Zöglinge des letzten vierten Kádettenschuljahrganges
+                        statt. Die erschütternden Ereignisse der letzten Tage,
+                        die dumpfe, ernste Stimmung, die alle Gemüter
+                        bewegt, drückten dieser Ausmusterung den Charakter
+                        der glühendsten Begeisterung auf, einer Begeisterung,
+                        <said id="1"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">die sich nicht <seg id="1" type="intExpr">in Worte fassen</seg> läßt</said>, die man nachfühlen muß. <said id="2" mode="reported" content="speech" level="1">Nach abgehaltenem Hochamt hielt Herr
+                        geistlicher <seg id="2" type="speaker">Professor Stefan</seg> eine temperamentvolle,
+                        zündende <seg id="2" type="intExpr">Ansprache</seg> an die jungen Fähnriche</said>, worauf
+                        er die Säbelweihe vornahm. Sodann versammelten
+                        sich Offiziere, Fähnriche und Zöglinge vor dem Kaiserdenkmale
+                        <said id="3" mode="reported" content="speech" level="1">Der Schul kommandant, <seg id="3 20" type="speaker">Herr Oberstleutnant Martinek</seg>, <seg id="3" type="intExpr">nahm</seg>
+                        den jungen Fähnrichen den <seg id="3" type="intExpr">Eid</seg> 
+               <seg id="3" type="intExpr">ab</seg>
+            </said> und <said id="20" mode="reported" content="speech" level="1">hielt im
+                        Anschlusse eine für die Anstalt historisch bedeutsame,
+                        von hellster Begeisterung durchdrungene <seg id="20" type="intExpr">Rede</seg>
+            </said>, die
+                        alle Anwesenden erzittern machte. <said id="5" mode="direct" content="speech" level="1">„Nicht an den
+                        Feind — durch den Feind!“</said>
+            <seg id="5" type="frame" pos="end">
+               <seg id="5" type="intExpr">rief</seg> 
+               <seg id="5" type="speaker">er</seg> den kampfdurstigen, strammen Marssöhnen zu.</seg>
+            <said id="6" mode="reported" content="speech" level="1">
+               <seg id="6" type="speaker">Er</seg> 
+               <seg id="6" type="intExpr">beglückwünschte</seg> sie zu dem seltenen Soldatenglück, das
+                        <seg id="21" type="speaker">ihnen</seg> ermöglichte, <said id="21" mode="reported" content="speech" level="2">den <seg id="21" type="intExpr">Treuschwur</seg>
+               </said> gleich in die
+                        Tat umsetzen zu können.</said> Nachdem die Musik
+                        das allen Soldaten
+                         herzen heilige Gebet vor der Schlacht gespielt hatte,
+                        <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="intExpr">brachte</seg> der <seg id="7" type="speaker">Schulkommandant</seg> ein stürmisches Hoch
+                        auf den Allerhöchsten Kriegsherrn <seg id="7" type="intExpr">aus</seg>.</said> Hei! wie
+                        da die Säbel aus der Scheide flogen, wie alle
+                        Augen glänzten, <seg id="22" type="frame" pos="start">wie alle Herzen sich vereinigten
+                        in dem unerschütterlichen <seg id="22" type="intExpr">Treuschwur</seg>:</seg>
+            <said id="22" mode="direct" content="speech" level="1">Siegen oder
+                        Sterben!</said> Das waren keine <seg id="22" type="speaker">Jünglinge</seg> mehr, das
+                        waren entschlossene Männer, die bei den Klängen
+                        der Volkshymme, den hochgeschwungenen Säbel in
+                        der Faust, unbeweglich standen.
+               Eine stramme Defilierung vor dem Militärstationskommandanten Herrn Obersten Baron Abele beschloß die herzerhebende Feier. Der Krieg entreißt
+                        der Militär-Oberrealschule ihren verehtten Kommandanten, Herrn Oberstleutnant Wilhelm Martinek, der in nie erlahmender Schaffenskraft durch
+                        seine musterhaften soldatischen Eigenschaften der
+                        Anstalt ein eigenes, truppenfrisches, dauerndes Gepräge gegeben hat. <said id="9" mode="reported" content="speech" level="1">Auch <seg id="9 10 11" type="speaker">wir</seg> 
+               <seg id="9" type="intExpr">rufen</seg> dem scheidenden
+                        Kommandanten ein herzliches <said id="10" mode="direct" content="speech" level="2">„Glück auf!“</said> entgegen</said> und <said id="11" mode="reported" content="speech" level="1">
+               <seg id="11" type="intExpr">begrüßen</seg> gleichzeitig den neuen Kommandanten, Herrn Oberstleutnant Karl Koraletz.</said>
+                        
+                
+            
+            
+               
+                  Dank von Reservisten.
+               
+               <seg id="19" type="frame" pos="start">Aus Pobersch
+                         erhielten wir heute folgende <seg id="19" type="intExpr">Zuschrift</seg>:</seg>
+            <said id="19" mode="direct" content="writing" level="1">An die
+                        verehrliche Redaktion der Marburger Zeitung. Vor
+                        unserem Ausmarsch aus Pobersch fühlt sich die
+                        hier einquartierte <seg id="13" type="speaker">Mannschaft</seg> gedrängt, den liebwerten Herrn und Frau Pukl, Gastwirt in
+                        Pobersch, <said id="12" mode="reported" content="speech" level="2">für die <seg id="12" type="speaker">uns</seg> gewiß zu einem Drittel ermäßigten Preise verabreichten Speisen und Getränke,
+                        unseren allverbindlichsten <seg id="12" type="intExpr">Dank</seg> zu <seg id="12" type="intExpr">sagen</seg>
+               </said> 
+               <seg id="13" type="frame" pos="start">mit dem
+                        <seg id="13" type="intExpr">Wunsche</seg>,</seg> 
+               <said id="13" mode="indirect" content="thought" level="2">daß Solches auch anderwärts Nachahmung
+                        finden möge.</said> 
+               <seg id="14" type="frame" pos="start">Die hier in Pobersch einquartierte
+                        <seg id="14" type="intExpr">Mannschaft</seg> 
+                  <seg id="14" type="speaker">bittet</seg> daher,</seg> 
+               <said id="14" mode="indirect" content="speech" level="2">die verehrliche Redaktion
+                        der Marburger Zeitung möge der lieben Frau und
+                        Herrn Anton Pukl, Gastwirt in Pobersch, für die
+                        freundliche Bewirtung unseren Dank in geeigneter
+                        Weise öffentlich zum Ausdrucke bringen.</said> Mit dem
+                        Ausdrucke der größten Hochachtung zeichnet für die
+                        jetzt hier anwesenden 27 Reseroisten und aller
+                        übrigen ganz ergebenst Franz Hartmann.
+ </said>
+            <said id="15"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="15" type="speaker">Radfahrer</seg>,
+               
+               welche freiwillig und unentgeltlich
+                        Botendienste übernehmen, wollen sich beim Stadtrate Marburg oder bei der k. k. Bezirkshauptmannschaft Marburg <seg id="15" type="intExpr">melden</seg>.</said>
+            
+            
+               
+                  Für arme Angehörige eingerückter Reservisten.
+               
+               Gestern vormittags fand im Gemeiuderatssaale eine Sitzung <said id="23" mode="reported" content="writing" level="1">des von <seg id="23" type="speaker">uns</seg> bereits Samstag
+                        <seg id="23" type="intExpr">erwähnten</seg> Damenausschusses</said> statt. <seg id="17" type="frame" pos="start">Mit Rücksicht
+                        auf den durch die Kriegsereignisse beanspruchten
+                        Raum können <seg id="17" type="speaker">wir</seg> heute nur <seg id="17" type="intExpr">mitteilen</seg>,</seg>
+            <said id="17" mode="indirect" content="writing" level="1">
+               <seg id="18" type="frame" pos="start">daß u. a
+                        <seg id="18" type="intExpr">beschlossen</seg> wurde,</seg> 
+               <said id="18" mode="indirect" content="speech" level="2">von einer Sammlung für die
+                        Angehörigen armer Reservisten in den nächsten Tagen
+                        noch abzusehen und daß ferners eine Arbeitsvermittelungsstelle für die Angehörigen von Reservisten
+                        geschaffen wurde.</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

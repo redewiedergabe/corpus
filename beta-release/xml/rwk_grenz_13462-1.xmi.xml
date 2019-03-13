@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein böser Geist im heutigen England. 2. </title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Ein böser Geist im heutigen England. 2. </f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Der Cant hat uns bis in unsre
+                        Triebe hinein verdorben, und es wäre ein interessantes Problem, <seg id="1" type="frame" pos="start">wenn <seg id="1" type="speaker">man</seg> sich
+                        die <seg id="1" type="intExpr">Frage</seg> 
+               <seg id="1" type="intExpr">vorlegte</seg>,</seg>
+            <said id="1" mode="indirect" content="thought" level="1">ob er nicht auch auf das Gepräge unsrer Gesichtszüge eingewirkt und jene eigentümliche Mundbildung hervorgerufen hat, welche die englische
+                        Rasse so häufig kennzeichnet. </said>Wie sehr <said id="19" mode="reported" content="thought" level="1">er in <seg id="19" type="speaker">unsern</seg> 
+               <seg id="19" type="intExpr">Gedankengang</seg> eindringt</said>,
+                        kann man an der juristischen Fiktion sehen, daß nichts <said id="3" mode="reported" content="thought" level="1">den <seg id="3" type="intExpr">Wahrspruch</seg> von zwölf
+                        englischen <seg id="3 20 21" type="speaker">Geschwornen</seg>
+            </said> aufheben könne.<said id="20"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"> Ist jemand unschuldig zu Zuchthaus <seg id="20" type="intExpr">verurteilt</seg>
+            </said>, <said id="21"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">so kann er nur <seg id="21" type="intExpr">begnadigt</seg>
+            </said>, nicht aber wieder in den vorigen
+                        Stand eingesetzt werden und für seine Leiden Entschädigung erlangen. Selbst
+                        unsre Sprache zeigt unverkennbare Merkmale von Cant.<said id="22" mode="reported" content="speech" level="1"> 
+               <seg id="22" type="speaker">Wir</seg> 
+               <seg id="22" type="intExpr">nennen</seg> eine
+                        Menschenklasse licensed victuallers</said>, die gar nicht die Erlaubnis hat, Viktualien
+                        zu verkaufen, und dies nur selten thut. Sie haben die Erlaubnis, alkoholische
+                        Getränke zu verkaufen und selbst diese zu verfälschen. Der bloße Ausdruck
+                        enthält eine gleißnerische Lüge, durch deren allgemeine Verwendung und Billigung
+                        jetzt <said id="23" mode="reported" content="speech" level="1">eine Körperschaft von Leuten <seg id="23" type="intExpr">bezeichnet</seg> wird</said>, welche früher das Schicksal
+                        eines Ministeriums entschied."
+                         
+            In das Kapitel vom gesellschaftlichen Cant gehört das stete Bestreben der
+                        englischen Mittelklassen, <seg id="24" type="frame" pos="start">
+               <seg id="24" type="speaker">sich</seg> und <seg id="24" type="speaker">andre</seg>
+               <seg id="24" type="intExpr"> glauben</seg> zu machen,</seg>
+            <said id="24"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">sie seien mehr, als
+                        sie in Wirklichkeit sind</said>, und das giebt ihrer ganzen Existenz mit ihren Beschäftigungen und Freuden die Farbe der Unreellität. Die Dienstboten sind nur
+                        glücklich, wenn sie sich wie ihre Herrschaft putzen können. Ähnlich die Handwerker, die kleinen Kaufleute, selbst Dichter und Schriftsteller. Dickens z. B.
+                        ruinirte sich trotz sehr bedeutender Honorare dadurch, daß er es mit seinen
+                        Ausgaben den Lords, mit denen er verkehrte und<said id="29" mode="reported" content="speech writing" level="1"> von <seg id="29" type="speaker">denen</seg> er <seg id="29" type="intExpr">eingeladen</seg>
+                        wurde</said>, gleichzuthun versuchte. Überall fast mühen sich die englischen Mittelklassen ab, <seg id="10" type="frame" pos="start">der <seg id="10" type="speaker">Welt</seg> die <seg id="10" type="intExpr">Meinung</seg> beizubringen,</seg>
+            <said id="10"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"> es gebe ein Verbindungsglied
+                        zwischen ihnen und den gesellschaftlich höherstehenden</said>, und machen sich dadurch
+                        unglücklich. Ein milde Form des gesellschaftlichen Gleißner- und Scheinwesens
+                        ist die Gewohnheit der Parlamentarier und Minister, <said id="11" mode="reported" content="speech" level="1">
+               <seg id="11" type="speaker">ihre</seg> 
+               <seg id="11" type="intExpr">Reden</seg> mit griechischen
+                        und lateinischen Zitaten zu spicken.</said> Diese sind nicht für „den Verbrauch durch
+                        das Publikum" berechnet, <said id="26" mode="reported" content="thought" level="1">sondern sollen nur an die gesellschaftliche Stellung der
+                        Redner und ihrer Zuhörer, an die Erziehung derselben zu Gentlemen <seg id="26" type="intExpr">erinnern</seg>
+            </said>,
+                        die sie in Eton oder Harrow durchgemacht haben. <seg id="27" type="frame" pos="start">Es ist eine allgemein angenommene <seg id="27" type="intExpr">Einbildung</seg>,</seg>
+            <said id="27" mode="indirect" content="thought" level="1">daß nur vornehme Leute mit dem Griechischen und
+                        Lateinischen vertraut seien</said>, obwohl <seg id="14" type="speaker">die</seg>, welche am häufigsten <said id="14" mode="reported" content="speech" level="1">solche Zitate <seg id="14" type="intExpr">verüben</seg>
+            </said>, vielleicht am wenigsten in die betreffenden Litteraturen eingedrungen sind.
+                        Sobald irgendwo in der Welt ein Skandal an den Tag kommt, giebt uns der
+                        britische Löwe, dieses Wappentier voll Überhebung und Gleißnerei, sofort sein
+                        vergnügtes Gebrüll zu genießen. Ganz anders, wenn etwas derart zu Hause
+                         
+            
+            aufgedeckt wird. <said id="28"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">Dann <seg id="28" type="intExpr">brüllt</seg> 
+               <seg id="28" type="speaker">er</seg> entrüstete Mißbilligung über den Frevel</said>,
+                        welcher zeigt, daß Jupiter Ammon mit Sägespänen ausgestopft ist. Kaum
+                        hatte die englische Gesellschaft den unangenehmen Eindruck der Grevilleschen
+                        Memoiren verwunden, <seg id="16" type="frame" pos="start">in welchen<seg id="16" type="speaker"> sie </seg>daran <seg id="16" type="intExpr">erinnert</seg> wurde,</seg>
+            <said id="16" mode="indirect" content="thought" level="1">daß Albion noch
+                        vor kurzem von einem Dummkopfe und vor ihm von einem elenden Wüstling
+                        regiert worden war</said>, als die Biographie Samuel Wilberforces und die Briefe
+                        Carlyles und seiner Frau erschienen. <said id="17" mode="direct" content="speech" level="1">Was für Enthüllungen! </said>
+            <seg id="17" type="frame" pos="end">
+               <seg id="17" type="intExpr">heulte</seg> die wohlgekleidete respektable <seg id="17 18" type="speaker">Menge</seg>.</seg>
+            <said id="18" mode="direct" content="speech" level="1">Welche Frechheit, welche unverzeihliche Indiskretion,
+                        den Schleier von dem Privatleben verstorbener hervorragender Männer zu
+                        heben!
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

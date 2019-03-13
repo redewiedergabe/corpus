@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Mein Freund Ypsilon</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Mein Freund Ypsilon</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die Brust hob sich stärker, der Schritt wurde frischer und fester. Ypsilon aber wandelte weiter wie durch eine tote Landschaft. An einem Frühstücksplatz ließen wir uns nieder, und gleich mir schlürfte auch Ypsilon seinen Kaffee, <seg id="22" type="frame" pos="start">und <seg id="22" type="speaker">mich</seg> wollte es <seg id="22" type="intExpr">bedünken</seg>,</seg>
+            <said id="22"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">als wenn er zu einem wirklichen Leben erwachte.</said> Nach einem Schluck schüttelte er wohl auch den Kopf und strich sich über die Augen. 
+                  <said id="2" mode="direct" content="speech" level="1">»Wollen wir nicht über Land fahren?«</said>
+            <seg id="2" type="frame" pos="mid">
+               <seg id="2" type="intExpr">fragte</seg> 
+               <seg id="2" type="speaker">ich</seg>,</seg>
+            <said id="2" mode="direct" content="speech" level="1">»das Wetter ist günstig.«</said>
+            <said id="3" mode="direct" content="speech" level="1">»O ja!«</said>
+            <seg id="3" type="frame" pos="end">
+               <seg id="3" type="intExpr">sagte</seg> 
+               <seg id="3" type="speaker">er</seg>
+            </seg>, und ich war ganz erfreut über dies erste Wort. 
+                  Wir setzten uns in einen Wagen und fuhren dem Wienerwald entgegen. Anfangs saß Ypsilon regungslos an meiner Seite; erst als wir ins Freie kamen und die Bäume der Landstraße uns überschatteten, sah er sich wie erstaunt um, als wollte er sich besinnen. Endlich lächelte er. 
+                  <said id="4" mode="direct" content="speech" level="1">»Ist's nicht schön da?«</said>
+            <seg id="4" type="frame" pos="end">
+               <seg id="4" type="intExpr">fragte</seg> 
+               <seg id="4" type="speaker">ich</seg>.</seg> 
+                  Er sah mich wieder lächelnd an, <seg id="5" type="frame" pos="start">als wollte <seg id="5" type="speaker">er</seg> 
+               <seg id="5" type="intExpr">sagen</seg>:</seg>
+            <said id="5"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">»Du Narr, <seg id="23" type="frame" pos="start">
+                  <seg id="23" type="intExpr">meinst</seg> 
+                  <seg id="23" type="speaker">du</seg> wirklich,</seg> 
+               <said id="23"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß mir dies endlich helfen soll?</said>«</said>
+            <said id="24" mode="reported" content="speech" level="1">
+               <seg id="24 25" type="speaker">Ich</seg> 
+               <seg id="24" type="intExpr">sprach</seg> weiter, so gut es mir vom Herzen ging</said>, das sich sehr gepreßt fühlte, <said id="25" mode="reported" content="speech" level="1">und <seg id="25" type="intExpr">redete</seg> von der großartigen, versöhnenden Einsamkeit des Waldes, in dem wir jetzt fuhren ...</said>
+                  Er schloß die Augen, und seine Stirne runzelte sich. Dann schüttelte er den Kopf. <said id="7" mode="reported" content="thought" level="1">
+               <seg id="7" type="speaker">Ich</seg> hatte die <seg id="7" type="intExpr">Empfindung</seg>, <seg id="8" type="frame" pos="start">als wenn <seg id="8" type="speaker">er</seg> 
+                  <seg id="8" type="intExpr">sagen</seg> wollte:</seg> 
+               <said id="8"
+                     mode="direct"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">»Du wirst es doch nicht besser machen!«</said>
+            </said>
+            <said id="9" mode="reported" content="thought" level="1">So führte <seg id="9 26" type="speaker">ich</seg> in der <seg id="9" type="intExpr">Einbildung</seg> immer <said id="26"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">ein <seg id="26" type="intExpr">Gespräch</seg>
+               </said> mit ihm, <said id="30"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">ohne daß <seg id="30" type="speaker">er</seg> eigentlich den <seg id="30" type="intExpr">Mund auftat</seg>.</said>
+            </said> 
+                  In einem stillen Wirtshause ließen wir uns ein Mittagmahl auftragen. <said id="27"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">Um uns <seg id="27" type="intExpr">flüsterte</seg> der <seg id="27" type="speaker">Wald</seg> mit geheimnisvollen Stimmen</said>, und der Wind strich über die Wipfel. 
+                  <seg id="12" type="frame" pos="start">
+               <seg id="12" type="speaker">Ich</seg> 
+               <seg id="12" type="intExpr">sprach</seg> meinem Freunde <seg id="12" type="intExpr">zu</seg>,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">von den vorgesetzten Speisen zu nehmen</said>, was er endlich befolgte. <seg id="13" type="frame" pos="start">Nach ein paar Bissen aber legte <seg id="13" type="speaker">er</seg> Gabel und Messer weg, sah mir voll ins Gesicht und <seg id="13" type="intExpr">sagte</seg>:</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Du bist ein guter Mensch, aber du wirst es doch nicht besser machen!«</said> 
+                  Ach! <said id="14" mode="reported" content="speech" level="1">Dasselbe hatte <seg id="14" type="speaker">er</seg> mir ja schon <seg id="14" type="intExpr">gesagt</seg>, mit seiner kummertrüben Miene.</said>
+            <said id="15" mode="direct" content="speech" level="1">»Nein, ich werde es vielleicht nicht besser machen«</said>
+            <seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">entgegnete</seg> 
+               <seg id="15" type="speaker">ich</seg>,</seg>
+            <said id="15" mode="direct" content="speech" level="1">»aber es wird gut werden, wenn du vernünftig bist. Ich begreife dich ja«</said>
+            <seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">fuhr</seg> 
+               <seg id="15" type="speaker">ich</seg> 
+               <seg id="15" type="intExpr">fort</seg>,</seg>
+            <said id="15" mode="direct" content="speech" level="1">»mir fehlt das Verständnis nicht für dein reizbares, krankes Poetengemüt, du wärst eigentlich gar kein Dichter, wenn du in deine Türkisa nicht verliebt wärest.«</said>
+            <said id="16" mode="direct" content="speech" level="1">»Und da sie stirbt, muß ich elend sein«</said>, <seg id="16" type="frame" pos="end">
+               <seg id="16" type="intExpr">unterbrach</seg> 
+               <seg id="16" type="speaker">er</seg> mich</seg> und sah mich bebend an. 
+                  Von dieser fixen Idee ließ er nun nicht mehr, und auf <said id="17" mode="reported" content="speech" level="1">all <seg id="17" type="speaker">mein</seg> 
+               <seg id="17" type="intExpr">Zureden</seg>
+            </said> hatte er nur mehr eine ablehnende Kopfbewegung. <seg id="18" type="frame" pos="start">
+               <seg id="18" type="speaker">Ich</seg> 
+               <seg id="18" type="intExpr">fühlte</seg>,</seg>
+            <said id="18"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß diesem Wahne gegenüber meine Weisheit zu Ende sei.</said> 
+                  Wir saßen geraume Zeit da, dann gingen wir auch im Walde umher. Es war ein entsetzlicher Tag. <said id="28" mode="freeIndirect" content="thought" level="1">Wie verging er mir? <said id="29"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">Kaum <seg id="29" type="intExpr">weiß</seg> 
+                  <seg id="29 28" type="speaker">ich</seg>'s selbst</said>
+            </said>; so schwer, so bange lasteten die Stunden auf mir. 
+                  Die Sonne stand weit im Westen, als wir uns wieder in den Wagen setzten. Die wohlausgeruhten Pferde trabten mit vergnüglicher Schnelle über den Waldweg. 
+                  So waren wir eine Strecke weit gefahren, <seg id="20" type="frame" pos="start">als <seg id="20" type="speaker">ich</seg> 
+               <seg id="20" type="intExpr">bemerkte</seg>,</seg>
+            <said id="20"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß mein Freund unruhig wurde.</said> 
+                  Die Sonne begann zu sinken, und die Dämmerung breitete sich langsam über die Auen ... <said id="21" mode="direct" content="speech" level="1">»Schneller!«</said>
+            <seg id="21" type="frame" pos="end">
+               <seg id="21" type="intExpr">sagte</seg> 
+               <seg id="21" type="speaker">er</seg> leise</seg> ...
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

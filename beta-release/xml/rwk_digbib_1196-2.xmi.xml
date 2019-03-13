@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Erdbeerimareili</title>
+             <author>Gotthelf, Jeremias</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Das Erdbeerimareili</f>
+         <f name="author">Gotthelf, Jeremias</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Damals waren die Näherinnen noch nicht so hageldick wie Nesseln in den Hägen und Steine auf dem Emmengrund. Damals war noch kein Drang darnach, am Schatten bleich zu werden und in Schnürleibern zu ermagern, um schön und vornehm zu scheinen; damals stund ein rotbackig Mensch noch höher im Kurs als eine bleiche Gränne. Damals war die Freiheit, ohne Zucht von Meister und Meisterfrau in einem 
+eigenen Stübchen zu wohnen, wo man aus- und eingehen und ein- und auslassen konnte, wann und wen man wollte, noch nicht so geschätzt wie jetzt. 
+                  Sie verdiente damit Geld, wenig zwar, denn die Leute schätzten das Geld höher als die Arbeit, dafür gaben sie dann aber auch ihre Produkte wohlfeil ab. Sie verdiente aber nicht bloß Geld mit der Arbeit, sondern auch die Teilnahme der Menschen, sie ward ein lebendig Glied in der Kette der Bewohner; sie lebte nicht bloß im Tschaggeneigraben, sondern sie gehörte dazu und tat was darin. 
+                  Sie führte indessen doch ein kümmerlich Leben, so recht abteilen konnte <seg id="1" type="speaker">sie</seg> nicht, <seg id="1" type="frame" pos="start">
+               <seg id="1" type="intExpr">wußte</seg> daher oft von einem Tag zum andern nicht,</seg>
+            <said id="1"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was essen.</said>
+            <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">Die <seg id="3 2" type="speaker">Nachbarn</seg>, welche ihr die verdienten Kreuzer nachrechneten und sie durch ein Vergrößerungsglas ansahen, konnten das nicht <seg id="2" type="intExpr">begreifen</seg>
+            </said>, <seg id="3" type="frame" pos="start">
+               <seg id="3" type="intExpr">meinten</seg>,</seg>
+            <said id="3" mode="indirect" content="speech thought" level="1">sie sollte ein Herrenleben führen können.</said> Die guten Leute haben in der Regel für sich und Andere eine ganz andere Rechnungsweise, sie legen ein Maß an Andere, über welches sie gen Himmel schreien würden, wenn Andere es an sie legen wollten. <said id="4" mode="reported" content="speech" level="1">Wenn <seg id="4" type="speaker">sie</seg> einmal <seg id="4" type="intExpr">klagte</seg>
+            </said>, <seg id="5" type="frame" pos="start">so <seg id="5" type="intExpr">sagte</seg> 
+               <seg id="5" type="speaker">man</seg> ihr:</seg>
+            <said id="5" mode="direct" content="speech" level="1">Ei mein Gott, was, so viel Geld verdienen und es nicht machen können! Es gibt <seg id="6" type="speaker">Leute</seg>, welche es mit dem Zehnten machen müssen und <seg id="6" type="frame" pos="start">doch <seg id="6" type="intExpr">meinen</seg>,</seg> 
+               <said id="6" mode="indirect" content="thought" level="2">wie gut sie es hätten.</said>
+            </said> Die gute Frau führte ein schwermütig Leben, seufzte oft, weinte viel, aber erzeigte es daher vor den Leuten so wenig als möglich. 
+                  Einmal, an einem schönen Sonntag nach Johanni wars, <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="intExpr">baten</seg> und <seg id="7" type="intExpr">schmeichelten</seg> die <seg id="7" type="speaker">Kinder</seg> nach dem Mittagessen</said>, bis sie mit ihnen in die Wildnis wanderte, hinauf in Wald und Weid. Erdbeeren hatten sie bei andern Kindern gesehen, nach solchen verlangten ihre Herzchen, die Mutter sollte ihnen welche suchen helfen. Sie gingen lange, lange durch den Wald, Schattseite dem Graben entlang, und auch nicht ein Erdbeeri fanden sie, und traurig wandten sie sich um, auf 
+der andern Seite heimzugehen, Sonnseite. Kaum hatten sie einige Schritte getan, so zupfte das kleine Mareili, das jüngste ihrer drei Kinder, <seg id="8" type="frame" pos="start">
+               <seg id="8" type="speaker">welches</seg> der Mutter an der Schürze hing, dieselbe heftig und <seg id="8" type="intExpr">rief</seg>:</seg>
+            <said id="8" mode="direct" content="speech" level="1">Mutter, Mutter, lue, warum ists dort so rot</said>, Und siehe, es war ein großer Fleck voll reifer Erdbeeren an der sonnigen Halde. <seg id="9" type="frame" pos="start">
+               <seg id="9" type="speaker">Sie</seg> hatten in der Stadt gelebt und nicht daran <seg id="9" type="intExpr">gedacht</seg>,</seg>
+            <said id="9"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß man die ersten Sonnseite, die letzten im Herbst Schattseite suchen muß.</said> Da war ein Jubel! Sie fanden mehr, als sie aßen, großen Vorrat nahmen sie noch heim. 
+                  Als die Frau die schönen Erdbeeren betrachtete, <seg id="10" type="frame" pos="start">
+               <seg id="10" type="intExpr">dachte</seg> 
+               <seg id="10" type="speaker">sie</seg>,</seg>
+            <said id="10" mode="direct" content="thought" level="1">wenn die jetzt in der Stadt wären, aus denen löste man viel Geld, so schöne sind dort selten.</said> Aber die Stadt war weit; <said id="11" mode="direct" content="thought" level="1">doch</said>
+            <seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">dachte</seg> 
+               <seg id="11" type="speaker">sie</seg>,</seg>
+            <said id="11" mode="direct" content="thought" level="1">liebt man vielleicht in den vielen Herrenhäusern da herum Erdbeeren auch mit Zucker als Erdbeerisalat oder auf andere Weise.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

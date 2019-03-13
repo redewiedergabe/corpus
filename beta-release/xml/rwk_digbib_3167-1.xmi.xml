@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>John Riew'</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">John Riew'</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="3" mode="direct" content="speech" level="1">
+               <said id="1" mode="direct" content="speech" level="2">Kann's nicht anders sein, so nimm dir eine schmucke wilde Katz, an der du deine Plage und doch auch dein Vergnügen hast! <said id="2"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        nonfact="yes">Was <seg id="2" type="intExpr">meinst</seg> du, <seg id="2" type="speaker">Rick</seg>?</said>«</said> 
+                  Aber er lüpfte nur den Hut, daß die Luft durch seine braunen Locken ging, und sah mich lachend aus seinen hellen Augen an. <said id="5" mode="direct" content="speech" level="2">»Dank für deine Weisheit, <seg id="1" type="speaker">John</seg>«</said>
+               <seg id="5" type="frame" pos="mid">,<seg id="5" type="intExpr"> sagte</seg>
+                  <seg id="5" type="speaker"> er</seg>;</seg> 
+               <said id="5" mode="direct" content="speech" level="2">»<said id="6"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        border="yes">aber was einer muß, das kann nur <seg id="6" type="speaker">einer</seg> 
+                     <seg id="6" type="intExpr">wissen</seg>.</said>«</said> 
+                  <seg id="39" type="frame" pos="start">Da <seg id="39" type="intExpr">sah</seg> 
+                  <seg id="39" type="speaker">ich</seg> wohl,</seg> 
+               <said id="39" mode="indirect" content="thought" level="2">daß er weitab von aller Vernunft sei</said>, und so hat er die Perle Riekchen zu seinem Unheil dann geheiratet.<said id="8" mode="reported" content="speech" level="2"> Aber <seg id="8" type="speaker">ich</seg> 
+                  <seg id="8" type="intExpr">sage</seg> Ihnen, Nachbar, auch derzeit, da sie jünger war – zehn Jahre auf einer Robinson-Insel!</said>«</said> Und der Kapitän spreizte abwehrend seine Hände vor sich. <said id="9" mode="direct" content="speech" level="1">»Doch«</said>
+            <seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">rief</seg> 
+               <seg id="9" type="speaker">er</seg> dann wieder, </seg>
+            <said id="9" mode="direct" content="speech" level="1">»<said id="40" mode="reported" content="thought" level="2">das Getränk nicht zu <seg id="40" type="intExpr">vergessen</seg>
+               </said>; God bless you, Sir!«</said> 
+                  – – Schon einigemal hatte ich ein Rühren an der Türklinke vernommen; jetzt, während wir mit den Gläsern anklirrten und tranken, sah ich, daß die Tür, der ich zugewandt saß, um einen schmalen Spalt geöffnet wurde. 
+                  <said id="12" mode="direct" content="speech" level="1">»Kapitän!«</said>
+            <seg id="12" type="frame" pos="mid">
+               <seg id="12" type="intExpr">sagte</seg> 
+               <seg id="12" type="speaker">ich</seg>,</seg>
+            <said id="12" mode="direct" content="speech" level="1"> »es ist jemand vor der Stube.«</said> 
+                  Er wandte sich. <said id="13" mode="direct" content="speech" level="1">»Das ist <seg id="16" type="speaker">Rick</seg>!« </said>
+            <seg id="13" type="frame" pos="end">
+               <seg id="13" type="intExpr">sagte</seg> 
+               <seg id="13 14" type="speaker">er</seg>.</seg>
+            <said id="14" mode="direct" content="speech" level="1">»Junge, warum schläfst du nicht?« </said>
+                  Aber die Tür öffnete sich weiter. <said id="15" mode="direct" content="speech" level="1">»So komm her ein«</said>
+            <seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">rief</seg>
+               <seg id="15" type="speaker"> er</seg>,</seg>
+            <said id="15" mode="direct" content="speech" level="1">»wenn du was auf dem Herzen hast!«</said>
+            <said id="16" mode="direct" content="speech" level="1"> »Ich kann nicht«</said>
+            <seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">kam</seg> es von der Tür;</seg>
+            <seg id="17" type="frame" pos="start">und <seg id="17" type="speaker">ich </seg>
+               <seg id="17" type="intExpr">gewahrte</seg> jetzt freilich,</seg>
+            <said id="17"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes"> daß der arme Schelm barfuß und im blanken Hemde draußen stand. 
+ </said>                 Da stieß der <seg id="18 21" type="speaker">Alte</seg> einen Seufzer aus, erhob sich und schritt nach der Tür: <said id="18" mode="direct" content="speech" level="1">»Nun, Rick, was willst du denn?«</said>
+            <said id="19" mode="direct" content="speech" level="1">  »Ohm«</said>
+            <seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">sagte</seg> der<seg id="19" type="speaker"> Knabe</seg> leise und vor Kälte zitternd, doch so, daß ich's verstehen konnte, </seg>
+            <said id="19" mode="direct" content="speech" level="1">»<said id="20"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="20" type="speaker">ich</seg> hab dir ja noch gar nicht gute Nacht <seg id="20" type="intExpr">gesagt</seg>!</said>«</said>
+            <said id="21" mode="direct" content="speech" level="1">   »Und deshalb konntest du nicht schlafen?« 
+ </said>
+            <said id="22" mode="reported" content="thought" level="1">
+               <seg id="22" type="speaker">Ich</seg> 
+               <seg id="22" type="intExpr">glaubte</seg> nur zu sehen, wie Rick stillschweigend mit dem Kopfe schüttelte.</said> Und der <seg id="23" type="speaker">Alte</seg> gab ihm einen herzhaften Schmatz: <said id="23" mode="direct" content="speech" level="1">»Gute Nacht, mein <seg id="24" type="speaker">Kind</seg>! Aber nun schlaf und <seg id="24" type="frame" pos="start">
+                  <seg id="24" type="intExpr">bitt</seg> vorher unsern Herrgott,</seg> 
+               <said id="24"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß er dein weiches Herz allzeit bei deinem harten Kopfe lasse!</said>«</said> 
+                  Da hörte ich, wie der Knabe behend die Treppen hinauflief; der Alte aber setzte sich langsam wieder an seinen Platz. Wir saßen eine Weile schweigend. <said id="25" mode="direct" content="speech" level="1">»So ist er immer«</said>
+            <seg id="25" type="frame" pos="mid">, <seg id="25" type="intExpr">sagte</seg> 
+               <seg id="25" type="speaker">er</seg> dann;</seg>
+            <said id="25" mode="direct" content="speech" level="1">»der Grund ist gut; <seg id="26" type="frame" pos="start">
+                  <seg id="26" type="speaker">ich</seg> 
+                  <seg id="26" type="intExpr">dacht</seg> schon,</seg> 
+               <said id="26" mode="indirect" content="thought" level="2">daß er kommen würde.</said>«</said>
+            <said id="27" mode="direct" content="speech" level="1">»Und doch«</said>
+            <seg id="27" type="frame" pos="mid">, <seg id="27" type="intExpr">erwiderte</seg> 
+               <seg id="27" type="speaker">ich</seg> – ich konnte es nicht zurückhalten – </seg>
+            <said id="27" mode="direct" content="speech" level="1">»haben Sie ihn neulich recht hart behandelt, Kapitän!« </said>
+            <seg id="28" type="speaker">Er</seg> blickte mich an: <said id="28" mode="direct" content="speech" level="1">»<said id="29" mode="reported" content="thought" level="2">
+                  <seg id="29" type="speaker">Sie</seg> 
+                  <seg id="29" type="intExpr">meinen</seg> das mit dem Armenhause!</said> Ja, ja, es mag auch so aussehen; <seg id="30" type="frame" pos="start">aber er mußt einmal <seg id="30" type="intExpr">erfahren</seg>,</seg> 
+               <said id="30" mode="indirect" content="speech" level="2">wohin er ohne mich geraten würde.</said>«</said> Er trank einen Schluck und starrte vor sich hin. <said id="31" mode="direct" content="speech" level="1">»Doch«</said>
+            <seg id="31" type="frame" pos="mid">, <seg id="31" type="intExpr">hub</seg> 
+               <seg id="31" type="speaker">er</seg> wieder <seg id="31" type="intExpr">an</seg>,</seg>
+            <said id="31" mode="direct" content="speech" level="1">»<said id="32"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="32" type="speaker">ich</seg> wollte Ihnen von meinem alten Rick <seg id="32" type="intExpr">erzählen</seg>
+               </said> ; der Junge ist ja noch gar nicht auf der Welt.«</said>
+            <said id="33" mode="reported" content="thought" level="1"> Da<seg id="33" type="intExpr"> fiel</seg>'s <seg id="33" type="speaker">mir</seg> 
+               <seg id="33" type="intExpr">bei</seg>
+            </said>,<seg id="34" type="frame" pos="start"> 
+               <seg id="34" type="speaker">ich</seg> 
+               <seg id="34" type="intExpr">frug</seg>:</seg>
+            <said id="34" mode="direct" content="speech" level="1">»Ist er der Sohn von Ihrem Freunde? <seg id="35" type="frame" pos="start">
+                  <seg id="35" type="speaker">Ich</seg> 
+                  <seg id="35" type="intExpr">mein</seg>,</seg>
+               <said id="35" mode="indirect" content="thought" level="2"> es war doch nur das Mädchen da?</said>«</said>
+            <said id="36" mode="direct" content="speech" level="1">»Geduld, Nachbar«</said>
+            <seg id="36" type="frame" pos="mid">, <seg id="36" type="intExpr">sagte</seg> der <seg id="36" type="speaker">Kapitän</seg> und legte seine Hand auf meinen Arm;</seg>
+            <said id="36" mode="direct" content="speech" level="1">»der Junge wird, leider, auch geboren werden; Ihr sollt alles noch erfahren! Also – <said id="38"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">wie in den ersten Ehejahren von Rick Geyers der Seegang gewesen ist</said>
+               <seg id="38" type="frame" pos="end">, das <seg id="38" type="intExpr">weiß </seg>
+                  <seg id="38" type="speaker">ich</seg> nicht</seg>, denn ich war überall, nur nicht in Hamburg.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Dasdeutsch-russische Abkommenperfekt.Der Stillstandinden Marokko-verhandlungen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Dasdeutsch-russische Abkommenperfekt.Der Stillstandinden Marokko-verhandlungen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.czernowitzer</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Vom Tage.
+                        
+               
+            
+            Czernowitz, 21. August.
+                        
+            
+               
+                  Das deutsch-russische Abkommen perfekt.
+                        
+               
+               
+                  Petersburg, 19. August. date
+               <said id="1"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  border="yes">Das Abkommen zwischen
+                        Deutschland und Rußland bezüglich Persiens und
+                        der Bagdadbahn ist heute hier vom deutschen <seg id="1" type="speaker">Botschafter</seg> und
+                        vom russischen <seg id="1" type="speaker">Stellvertreter</seg> des Ministers des Aeußern <seg id="1" type="intExpr">unter
+                        zeichnet</seg> worden.</said>
+               Im Abkommen sind eingehende Bestimmungen bezüglich des
+                        Auschlusses der Bagdadbahn an das künftige Eisenbahnnetz.
+                        Damit ist deutschen Handel ein wertvoller Zugang an das
+                        nördliche Persien gewährleistet. <seg id="2" type="frame" pos="start">Gleich in der Einlei t ung <seg id="2" type="intExpr">spricht</seg>
+                        das <seg id="2" type="speaker">Abkommen</seg> den Grundsatz <seg id="2" type="intExpr">aus</seg>,</seg>
+            <said id="2" mode="indirect" content="writing" level="1">daß der Handel aller
+                        Nationen in Persien gleichberechtigt ist.</said> Die Bewegungsfreiheit
+                        des deutschen Handels auf persischem Boden hat hiedurch eine
+                        neue vertragsmäßige Feststellungg erfahren. <said id="3"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  border="yes">Die <seg id="3" type="intExpr">Unterzeichnung</seg>
+                        der Noten im gegenwärtigen Zeitpunkt</said> beweist, daß die Beziehungen <seg id="3" type="speaker">Deutschlands</seg> zu <seg id="3" type="speaker">Rußland</seg> durch die marokkanischen
+                        Schwierigkeiten nicht berührt worden sind.
+            
+            
+            
+               
+                  Der Stillstand in den Marokkoverhandlungen.
+                        
+               
+               
+                  
+                     Berliner Zeitungsstimmen.
+                        
+                  
+                  
+                     Berlin, 20. August. date
+                  <seg id="4" type="frame" pos="start">Das <seg id="4" type="speaker">„Berliner Tageblatt“</seg> 
+               <seg id="4" type="intExpr">schreibt</seg> in seiner Sonntags-Wochenschau über den
+                        gegenwärtigen Stand der Marokkoverhandlungen:</seg>
+            <said id="4" mode="direct" content="writing" level="1">„<seg id="5" type="frame" pos="start">Die einzige und nicht gerade tröstliche <seg id="5" type="speaker">Meldung</seg> 
+                  <seg id="5" type="intExpr">besagt</seg>,</seg> 
+               <said id="5" mode="indirect" content="speech writing" level="2">daß <said id="6" mode="reported" content="speech" level="3">die <seg id="6" type="intExpr">Unterhaltung</seg> zwischen <seg id="6" type="speaker">Herrn v. KiderlenWaechter</seg> und <seg id="6" type="speaker">Herrn Cambon</seg>
+                  </said> eine Unterbrechung erfahren
+                        habe.</said> 
+               <said id="7"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">Wie lange diese Pause dauern soll</said>
+               <seg id="7" type="frame" pos="end">, darüber <seg id="7" type="intExpr">weiß</seg>
+                        <seg id="7" type="speaker">man</seg> nichts.</seg> Daß eine solche Verzögerung gerade in diesem
+                        Augenblicke nicht eben einen verheißungsvollen Eindruck machen kann, liegt auf der Hand. Es
+                        konnte deshalb auch nicht überraschen, daß sich die Nervosität nicht bloß im deutschen Volke, sondern noch mehr in
+                        Frankreich wieder verstärkte.</said>
+            <said id="8" mode="reported" content="writing" level="1">Die „<seg id="8 9 10" type="speaker">Kreuzzeitung</seg>“ <seg id="8" type="intExpr">mißt</seg> dem Umstande, daß
+                        die deutsch-französischen Verhandlungen unterbrochen wurden, eine besondere Bedeutung <seg id="8" type="intExpr">bei</seg>
+            </said> und <seg id="9" type="frame" pos="start">
+               <seg id="9" type="intExpr">sagt</seg>,</seg>
+            <said id="9" mode="indirect" content="writing" level="1">daß
+                        die Unterbrechung entweder der Vorläufer einer raschen
+                        Besserung oder einer Verschlimmerung der Lage sein wird.</said>
+            <said id="10" mode="direct" content="writing" level="1">„Die Verhandlungen sind offenbar an einem Punkte angelangt, an dem es gilt, wichtige Entschließungen zu fassen, <seg id="11" type="frame" pos="start">und die französische <seg id="11" type="speaker">Regierung</seg> ist bereits
+                        in <seg id="11" type="intExpr">Erwägungen</seg> darüber eingetreten,</seg> 
+               <said id="11" mode="indirect" content="thought" level="2">ob sich diese Entschlüsse in einem dem deutschen Standpunkte entgegenkommenden Sinne bewegen sollen oder nicht.</said>“</said>
+            <seg id="12" type="frame" pos="start">Weiter <seg id="12" type="intExpr">sagt</seg> die <seg id="12" type="speaker">„Kreuzzeitung“</seg>:</seg>
+            <said id="12" mode="direct" content="writing" level="1">„Durch das Vorgehen Frankreichs werden wir genötigt, zur Zeit unsere
+                        wirtschaftlichen Interessen in Marokko selbst zu schützen.
+                        Verschmäht es Frankreich nun, sich mit uns freundschaftlich zu verständigen, so werden wir diesen Schutz unserer
+                        wirtschaftlichen Interessen in Marokko auch in Zukunft
+                        selbst ausüben müssen, und andere Mächte dürften sich dann in die gleiche Lage versetzt sehen. Das gewaltsam zu verhindern, würde aber für Frankreich ein sehr bedenkliches Unterfangen darstellen, <seg id="13" type="frame" pos="start">und deshalb sind <seg id="13" type="speaker">wir</seg>
+                        der festen <seg id="13" type="intExpr">Hoffnung</seg>,</seg> 
+               <said id="13" mode="indirect" content="thought" level="2">daß nach der Pause die Verhandlungen fortgeführt werden und man zu einer endlichen Verständigung gelangen wird.</said> Je mehr man während dessen
+                        in Frankreich mit dem Säbel rasselt, desto fester wird man
+                        in Berlin auf allen Forderungen verharren müssen, denn
+                        es würde der Ehre eines großen und starken Volkes
+                        nicht entsprechen, auf die Androhung gewaltsamer Mittel hin auch nur einen Schritt
+                        zurückzuweichen.“</said>
+                         
+               
+               
+                  
+                     Säbelgerassel in der Pariser Presse.
+                        
+                  
+                  
+                     Paris, 20. August. date
+                  <said id="14" mode="reported" content="writing" level="1">
+               <seg id="14" type="speaker">„Matin“</seg> und <seg id="14" type="speaker">„Echo de Paris“</seg>
+                        ergehen sich in ihren gestrigen <seg id="14" type="intExpr">Ausgaben</seg> anläßlich der Unterbrechungen der deutsch-französischen Marokkoverhandlungen in wüsten Kriegshetzereien gegen
+                        Deutschlands.</said> So führt der „Matin“ in seinem Leitartikel eine Sprache gegen Deutschland, die an Schärfe
+                        nichts zu wünschen übrig läßt. 
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

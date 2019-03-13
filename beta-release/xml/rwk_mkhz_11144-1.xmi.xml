@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Abreise der rumänischen Königin aus Constantza. Aviatik. Die Wiener Flugwoche. Das Mißgeschick Zeppelins. KB. Jean Jacques Rouffeau. KB. Streik. KB. Kleine Rundschau.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1912</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Abreise der rumänischen Königin aus Constantza. Aviatik. Die Wiener Flugwoche. Das Mißgeschick Zeppelins. KB. Jean Jacques Rouffeau. KB. Streik. KB. Kleine Rundschau.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.czernowitzer</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Der Gesundheitszustand der Königin ist im Gegenteil ein durchaus
+                        befriedigender, der Aufenthalt in Constantza hat ihr sehr
+                        gut getan, so daß sie sich von den Folgen des Unwohlseins,
+                        von dem sie vor einigen Wochen befallen worden war,
+                        gänzlich erholt hat.
+            
+            
+            
+               
+                  Aviatik.
+                        Die Wiener Flugwoche.
+                        
+               
+               
+                  
+                     Oberleutnant Blaschke steigt mit einem Fahrgast 4260
+                        Meter hoch.
+                        
+                  
+                  
+                     Wien, 29. Juni. date
+                  Das Ereignis des heutigen Tages
+                        ist der Höhenflug des Oberleutnants v. Blaschke, der
+                        mit einem Fluggaste eine Höhe von 4260 Metern erreichte und damit den von ihm selbst aufgestellten Weltrekord geschlagen hat. Die nächste Höhe erreichte Garros
+                        ohne Fluggast mit 2350 Metern. Zeitweise war man über
+                        das Verbleiben der Flieger sehr beunruhigt, die, trotzdem
+                        der Himmel ziemlich klar war, vollkommen unsichtbar geworden waren.
+                  Auf dem Flugfelde hatten sich über 150.000 Personen
+                        eingefunden, darunter die Erzherzoge Leopold Salvator
+                        und Peter Ferdinand, sowie der Eisenbahnminister Freiherr von Forstner. <said id="1" mode="reported" content="speech" level="1">Auch der Besuch des Kaisers war <seg id="1" type="intExpr">angesagt</seg>
+            </said>, ist jedoch nicht erfolgt. <seg id="2" type="frame" pos="start">Wie es <seg id="2" type="intExpr">heißt</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">habe der Kaiser
+                        auf der Fahrt zum Flugfelde begriffen, diese aufgegeben.</said>
+            <seg id="4" type="frame" pos="start">Von den weiteren Ereignissen des Tages sind die <seg id="4" type="intExpr">Gerüchte</seg> zu erwähnen,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">daß sich auch drei Unfälle ereignet
+                        haben.</said> Tatsächlich ist der Franzose Moinau bei DeutschWagram zu einer vorzeitigen Landung gezwungen gewesen, wobei das Flugzeug leicht beschädigt wurde. Oberleutnant Miller, der im Sturzfluge landete, überschlug
+                        sich mehrmals und <seg id="5" type="frame" pos="start">
+               <seg id="5" type="speaker">man</seg> 
+               <seg id="5" type="intExpr">glaubte</seg>,</seg>
+            <said id="5" mode="indirect" content="thought" level="1">daß Flugzeug und Flieger verloren seien.</said> Die Kraftwagen fuhren an Ort und
+                        Stelle, als sie jedoch hinkamen, hatte sich Miller bereits
+                        befreit. Er war unverletzt geblieben und auch sein Flugzeug hatte nur eine leichte Beschädigung erlitten. Die
+                        dritte Nachricht betrifft den Russen Semenenko, aber auch
+                        er hat keinen Schaden genommen.
+                  Sehr bemerkenswert war das Notlanden vor dem
+                        Ziele. Garros, der den ersten Preis erhielt, landete 14
+                        Meter 37 Zentimeter über dem Ziele. An zweiter Stelle
+                        war der Rumäne Vlaicu, der 14 Meter 39 Zentimeter
+                        vor dem Ziele niederging. Große Begeisterung und viel
+                        Interesse erweckten die Kunstflüge, die Garros und Breguet zum Schlusse des heutigen Flugtages veranstalteten.
+               
+               
+                  
+                     Wieder ein Todessturz.
+                        
+                  
+                  KB. 
+                  
+                     Mühlhausen (Elsaß), 29. Juni.
+                  (Tel. der „Cz.
+                        Allg. Ztg.“)
+                  Heute um 5 Uhr früh stürzte der Flieger
+                        Schädt bei der Napoleonsinsel mit seinem Flugzeug ab und
+                        war sofort tot. <said id="6" mode="indirect" content="speech" level="1">Er soll</said>
+            <seg id="6" type="frame" pos="mid">, wie <seg id="6" type="speaker">Augenzeugen</seg> 
+               <seg id="6" type="intExpr">berichten</seg>,</seg>
+            <said id="6" mode="indirect" content="speech" level="1">eine
+                        Kurve zu kurz genommen haben, wobei er aus einer Höhe
+                        von 250 Metern in den Wald abstürzte.</said>
+               
+            
+            
+            
+               
+                  Das Mißgeschick Zeppelins.
+                        
+               
+               KB. 
+               
+                  Düsseldorf, 29. Juni. date
+               (Tel. der „Cz. Allg. Ztg.“)
+                        
+               Das Luftschiff „Schwaben“ ist verbrannt, wobei mehrere
+                        Personen verwundet wurden. Einzelheiten fehlen. Wegen
+                        starken Windes war das Luftschiff vormittags nicht in
+                        die Halle gebracht worden und wurde mittags von einer
+                        Böe erfaßt und entzwei gebrochen. Die Gaszellen entleerten sich. Während das Schiff in die Höhe getrieben wurde,
+                        explodierte das Gas. Vom Luftschiff ist wahrscheinlich
+                        nichts übrig geblieben. — Es ist das achte Zeppelin’sche
+                        Luftschiff, das zerstört wird. Die Fahrzeuge kosteten fünf
+                        Millionen Mark. Gegenwärtig ist nur ein Luftschiff intakt, die „Viktoria Louise“.
+            
+            
+            
+               
+                  Jean Jacques Rouffeau.
+                        
+               
+               KB. 
+               
+                  Paris, 30. Juni. date
+               (Tel. der „Cz. Allg. Ztg.“)
+                        
+               Heute fand im Pantheon die Enthüllung des Denkmals Jean Jacques Rousseaus im Beisein des
+                        Präsidenten Fallieres, der Minister und des diplomatischen Korps statt. Als der Präsident das Pantheon
+                        verließ, <seg id="7" type="frame" pos="start">folgten <seg id="7" type="speaker">camelots du roy</seg> pfeifend und <seg id="7" type="intExpr">rufend</seg>:</seg>
+            <said id="7" mode="direct" content="speech" level="1">„Es
+                        lebe der König“</said> dem Wagen.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

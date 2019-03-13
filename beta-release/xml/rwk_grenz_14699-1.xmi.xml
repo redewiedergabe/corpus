@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Neues über Schleswig-Holstein</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Neues über Schleswig-Holstein</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Die Dinge, wie wir sie hier herausgepflückt haben, machen natürlich nicht
+                        die Hauptsache des inhaltreichen und anziehenden <seg id="1 2 16 3" type="speaker">Buches</seg> aus. Sein Schwerpunkt liegt in <said id="1"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">der aktenmäßigen <seg id="1" type="intExpr">Darlegung</seg>
+            </said> und <said id="2" mode="reported" content="writing" level="1">der sachkundigen, gewissenhaften <seg id="2" type="intExpr">Erörterung</seg> der politischen Verhandlungen in Berlin, Frankfurt, London,
+                        Malmö und Kopenhagen und der Regierungsführung in den Herzogtümern
+                        selbst.</said>
+            <said id="16" mode="reported" content="writing" level="1">Die Haltung Preußens erfährt da oft genug bittere, aber gerechte
+                        <seg id="16" type="intExpr">Kritik</seg>
+            </said>; auch<said id="3" mode="reported" content="writing" level="1"> die <seg id="3" type="intExpr">Aufdeckung</seg> der zum Teil schmählichen dänischen Ränke</said> hält
+                        sich von jeder Leidenschaftlichkeit fern. Bei der besondern Scharfsichtigkeit des
+                        Verfassers für die Schwächen von Freunden wie Gegnern verdient es geradezu
+                        Bewunderung, wie außerordentlich rechtlich und wacker sich nach <said id="5" mode="reported" content="writing" level="1">
+               <seg id="5" type="speaker">seiner</seg> genauen und auch bei Personen vorurteilsfreien <seg id="5" type="intExpr">Darstellung</seg>
+            </said> die verschiednen
+                        auf einander folgenden Regierungen der Herzogtümer (die „provisorische," die
+                        "gemeinsame" und die Statthalterschaft) in all ihren Schwierigkeiten und Be-
+            
+            drängnissen benommen haben. Sie haben jederzeit Loyalität, Dankbarkeit und
+                        Zuverlässigkeit der Politik selbst vorangestellt und es doch in der Politik
+                        immer noch so gut gemacht, als es nach Lage der Dinge überhaupt möglich war.
+           <said id="6" mode="reported" content="writing" level="1"> Auf die Kriegsereignisse <seg id="6" type="intExpr">geht</seg> der <seg id=" 6 7" type="speaker">Verfasser</seg> nur <seg id="6" type="intExpr">ein</seg>, so weit er dabei
+                        Augenzeuge war.</said> Bei dem denkwürdigsten dieser Ereignisse, dem weltbewegenden
+                        Tage von Eckernförde, war er gerade wieder dabei und <said id="7" mode="reported" content="writing" level="1">
+               <seg id="7" type="intExpr">schildert</seg> diese herzerhebende Begebenheit mit höchster Anschaulichkeit, dann auch das plötzliche
+                        erschütternde Ende des Dramas.</said> Es war Abend und dunkel geworden, die
+                        eroberten Schiffe lagen in der Bucht, Schleiden und sein Gefährte <seg id="17" type="speaker">Lorentzen</seg>
+                        wollten gerade nach Schleswig zurückfahren, <said id="17"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">um der Regierung die große
+                        <seg id="17" type="intExpr">Botschaft</seg> zu bringen</said>, und stiegen den Hügel hinauf. Da erfolgte, gerade als
+                        beide sich auf das schnelle Krachen von ein paar Schüssen hin umsahen, die
+                        fürchterliche Explosion.<said id="8" mode="direct" content="writing" level="1"> „Der Christian VIII. flog in die Luft. Die Dunkelheit wich plötzlich größter Tageshelle. Eine ungeheure schwarze Rauchwolke
+                        schwebte über dem Ganzen. Brennende Balken und Masten bildeten riesige
+                        Sterne darin, und die in der Luft krepirenden Bomben durchzuckten wie Blitze,
+                        denen der Donner unmittelbar folgte, diese Wolkenmasse. Es war ein unbeschreiblich großartiger, furchtbar schöner Anblick!"</said>
+            <said id="18"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">Noch schulden <seg id="18" type="speaker">wir</seg> dem Verfasser ein <seg id="18" type="intExpr">Wort</seg>
+            </said>, um seiner persönlichen Glaubwürdigkeit auch an dieser Stelle zu öffentlicher Genugthuung zu verhelfen.
+                        Das Koburgische Memoirenwerk hat diese Glaubwürdigkeit etwas erschüttert.
+                       <seg id="10" type="frame" pos="start"> Da <seg id="10" type="intExpr">heißt</seg> es nämlich in einem wörtlich abgedruckten Briefe <seg id="10" type="speaker">Schleidens</seg>,</seg>
+            <said id="10" mode="indirect" content="writing" level="1"> der
+                        Herzog habe zwei Stunden im Kugelregen ausgehalten.</said>
+            <said id="11" mode="reported" content="writing" level="1">Da nun längst durch
+                        die von <seg id="11" type="speaker">Professor Jansen</seg> in Kiel gegebnen <seg id="11" type="intExpr">Nachweise</seg> das heldenmütige Benehmen des Herzogs schmerzlich herabgedrückt worden ist,</said> so mußte der einzige
+                        Zeuge, an den sich der Herzog hält, in etwas eigentümlichem Lichte erscheinen.
+                       <seg id="12" type="frame" pos="start"> Dagegen <seg id="12" type="intExpr">wehrt</seg> sich nun <seg id="12" type="speaker">Schleiden</seg>, was man ihm nicht verdenken kann, und zwar
+                        folgendermaßen:</seg>
+            <said id="12" mode="direct" content="writing" level="1"> „Herzog Ernst II. von Koburg hat mir die Ehre erwiesen,
+                        Auszüge aus <said id="19" mode="reported" content="writing" level="2">zwei <seg id="19" type="intExpr">Briefen</seg>, welche <seg id="19" type="speaker">ich</seg> demgemäß in jener Nacht und am folgenden Tage über das Ereignis an unsern Vertreter in London, Dr. K. Stamwer,
+                        richtete</said>, in seinen Denkwürdigkeiten (Band I. S. 400 2c.) abzudrucken. Als
+                        ich dieselben las,<seg id="20" type="frame" pos="start"> 
+                  <seg id="20" type="intExpr">erschien</seg> es <seg id="20" type="speaker">mir</seg> undenkbar,</seg> 
+               <said id="20" mode="indirect" content="thought" level="2">
+                  <said id="21" mode="reported" content="speech" level="3">daß <seg id="21" type="speaker">ich</seg> mich in solcher Weise,
+                        wie es dort geschehen, über die persönliche Tapferkeit des Herzogs, welcher
+                        danach zwei Stunden im Kugelregen gehalten haben und dem ein Pferd totgeschossen sein sollte, <seg id="21" type="intExpr">ausgesprochen</seg> haben könne</said>
+               </said>, <said id="22"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">da der <seg id="22" type="speaker">mir</seg> von dem Verhalten Sr. Hoheit gebliebene <seg id="22" type="intExpr">Eindruck</seg> ein ganz andrer war.</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

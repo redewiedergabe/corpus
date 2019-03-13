@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">
+               <seg id="2" type="frame" pos="start">
+                  <seg id="2" type="speaker">Jch</seg> 
+                  <seg id="2" type="intExpr">glaube</seg> nicht,</seg> 
+               <said id="2"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß
+                        sie gefährlich krank ist.</said> Doch habe <seg id="34" type="speaker">ich</seg> ihrem Willen nachgegeben und
+                        <said id="34" mode="reported" content="speech" level="2">nach dem Arzt <seg id="34" type="intExpr">geschickt</seg>.</said>“</said>
+                         
+            Der Arzt sah verwundert auf und wollte den <seg id="1" type="speaker">Sprechenden</seg> näher
+                        betrachten; aber dieser drehte sich um und ging nach dem Fenster.
+                        Sander schritt auf das Bett zu.
+            Dort lag Helene Willing, die einzige Tochter des Privatiers,
+                        dessen Frau schon seit langen Jahren todt war. Ein bleiches, mattes
+                        Gesicht hob sich kaum von den Kissen ab, welche um dasselbe emporquollen, und bei der Dunkelheit des Zimmers ließen sich die Züge
+                        nur mit Mühe erkennen.
+            <seg id="36" type="speaker">Sander</seg> rückte einen Stuhl an das Bett und <said id="36" mode="reported" content="speech" level="1">
+               <seg id="36" type="intExpr">forderte</seg> mit leiser
+                        Stimme</said> -- die unheimliche Stille im Zimmer hatte Einfluß auf
+                        ihn geübt -- <said id="36" mode="reported" content="speech" level="1">die Hand der Kranken.</said> Ein schön geformter Arm
+                        wurde ihm entgegengehalten. <said id="7" mode="reported" content="speech thought" level="1">
+               <seg id="7" type="speaker">Er</seg> 
+               <seg id="7" type="intExpr">zählte</seg> die Schläge des Pulses</said>;
+                        offenbar lag die Kranke in einem heftigen Fieber. Er fühlte die
+                        innere Hitze des Körpers und erschrak vor dem hohen Grade derselben. <said id="10" mode="reported" content="speech" level="1">
+               <said id="11" mode="reported" content="speech" level="2">Einige <seg id="11" type="intExpr">Fragen</seg>, welche <seg id="11" type="speaker">er</seg> an die <seg id="10" type="speaker">Kranke</seg> 
+                  <seg id="11" type="intExpr">stellte</seg>
+               </said>, wurden mit
+                        leiser, aber erregter Stimme <seg id="10" type="intExpr">beantwortet</seg>.</said> Dabei sahen ihn die
+                        dunklen Augen der Kranken fortwährend bittend an.
+            Der Vater des Mädchens war, <said id="13" mode="reported" content="speech" level="1">als der <seg id="13 37" type="speaker">Arzt</seg> zu <seg id="13" type="intExpr">fragen</seg> begonnen
+                        hatte</said>, ebenfalls an das Bett getreten. <seg id="15" type="frame" pos="start">Jetzt wandte <seg id="15" type="speaker">er</seg> sich an denselben und <seg id="15" type="intExpr">sagte</seg> mit einem gezwungen freundlichen Ausdruck, welcher
+                        die Härte <said id="37" mode="reported" content="speech" level="1">der vorher gesprochenen <seg id="37" type="intExpr">Worte</seg>
+               </said> wieder gut machen sollte;</seg>
+            <said id="15" mode="direct" content="speech" level="1">„Sie würden mich verbinden, <said id="16"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">wenn <seg id="16" type="speaker">Sie</seg> alles zur Heilung
+                        Erforderliche genau <seg id="16" type="intExpr">angeben</seg> wollten.</said> Margareth“</said>, damit wies <seg id="17" type="speaker">er</seg>
+                        auf die in der Ecke sitzende Frau, welche auch <said id="17" mode="reported" content="speech" level="1">bei der <seg id="17" type="intExpr">Nennung</seg> ihres
+                        Namens</said> nicht aufsah, <said id="15" mode="direct" content="speech" level="1">„und ich werden Jhre Vorschriften genau befolgen.“</said>
+            <said id="19" mode="reported" content="speech" level="1">Der <seg id="19 20" type="speaker">Arzt</seg> 
+               <seg id="19" type="intExpr">verlangte</seg> nach Papier und Feder, <said id="20"
+                     mode="reported"
+                     content="writing"
+                     level="2"
+                     nonfact="yes">um ein Rezept zu
+                        <seg id="20" type="intExpr">schreiben</seg>.</said>
+            </said> Während der Vater sich in das nächste Zimmer entfernt
+                        hatte, um dies zu holen, und der Arzt eben im Begriff war, sich
+                        vom Stuhl zu erheben, umfaßten die Finger der Kranken plötzlich
+                        seinen Arm und zogen ihn näher an das Bett; er beugte sich etwas
+                        vorwärts <seg id="22" type="frame" pos="start">und hörte <seg id="22" type="speaker">sie</seg> mit halb erstickter Stimme <seg id="22" type="intExpr">ausrufen</seg>:</seg>
+            <said id="22" mode="direct" content="speech" level="1">„Retten Sie mich! Retten Sie mich!“</said>
+                         
+            Jn ihren Zügen aber las er eine solche Angst, daß er erschrocken
+                        zurückfuhr.
+            <said id="25" mode="reported" content="speech" level="1">Die <seg id="25" type="intExpr">Stimme</seg> des <seg id="25" type="speaker">Vaters</seg> ließ sich vernehmen</said>, und sogleich kehrte
+                        die Kranke das Gesicht nach der Wand. <said id="26" mode="reported" content="writing" level="1">Während <seg id="26" type="speaker">er</seg> 
+               <seg id="26" type="intExpr">schrieb</seg>
+            </said>, hatte
+                        der Arzt Gelegenheit, den Mann genauer zu betrachten. Derselbe war
+                        über Mittelgröße, von einer hagern, eckigen Gestalt. Sein Gesicht war
+                        von vielen Falten durchfurcht, und wenn auch schneeweißes Haar um
+                        dasselbe herumhing, flößte es dennoch nicht jene ehrfurchtsvolle Scheu
+                        ein, wie man sie vor dem Greise wohl empfindet. Die Nafe war scharf
+                        hervortretend, und in den Augen brannte ein unheimliches Feuer. Was
+                        aber an dem Greise wohlzuthun pflegt und eben die Ehrfurcht der
+                        jüngeren Leute erweckt, jene Ruhe des Geistes, die sich auf dem Gesicht spiegelt und kund thut, daß zwischen Außen= und Jnnenwelt
+                        der Kampf abgeschlossen sei, davon war hier nichts zu finden. Dazu
+                        kam eine gewisse Hastigkeit in allen Bewegungen, welche von einer
+                        innerlichen Unruhe Zeugniß gab.
+            <said id="31" mode="reported" content="speech" level="1">Der <seg id="31" type="speaker">Arzt</seg> hatte seine <seg id="31" type="intExpr">Verordnung</seg> beendet</said>, <seg id="33" type="frame" pos="start">
+               <said id="32" mode="reported" content="speech" level="1">und nachdem <seg id="33 32" type="speaker">er</seg> noch
+                        einige Verhaltungsmaßregeln <seg id="32" type="intExpr">gegeben</seg>
+               </said> und <seg id="33" type="intExpr">erklärt</seg> hatte,</seg>
+            <said id="33" mode="indirect" content="speech" level="1">wiederkommen
+                        zu wollen</said>, schickte er sich zum Gehen an.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

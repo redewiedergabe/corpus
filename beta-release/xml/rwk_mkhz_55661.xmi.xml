@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Das Ohr des Dionysius.
+                        
+            
+            
+               Jn den Steinbrüchen unweit Syrakus auf Sicilien
+                        zeigt man den Reisenden noch jetzt unter den zahlrei
+               
+               chen dort befindlichen Höhlen den Eingang des großartigen Stollengangs, <said id="10"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">der im Munde der geschichtlichen <seg id="10" type="intExpr">Sage</seg> das Ohr des Dionysius heißt</said>; <said id="3"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">das syrakusanische <seg id="3" type="speaker">Volk</seg> 
+               <seg id="3" type="intExpr">nennt</seg> ihn wegen des darin bemerkbaren
+                        interessanten Echos „La Grotta della favella“.</said> Jn
+                        ellipsenförmiger Krümmung ist ein geräumiger, nach
+                        oben mit spitziger Wölbung abgeschlossener Gang bis
+                        auf ungefähr 50 Fuß Länge in die Tiefe des Felsens
+                        gehauen; eine kanalartige Rinne läuft oben, wo sich
+                        die beiden Seitenwände zusammenneigen, der ganzen
+                        Ausdehnung nach bis in den Hintergrund und bewirkt,
+                        indem sie die an den gerundeten Wänden hinaufgleitenden Schallwellen vereinigt und nach der glatten
+                        Rückwand führt, an derselben jenes merkwürdige Echo,
+                        welches Veranlassung gegeben hat <seg id="11" type="frame" pos="start">zu der bekannten
+                        <seg id="11" type="intExpr">Sage</seg> vom Tyrannen Dionysius,</seg>
+            <said id="11" mode="indirect" content="speech writing" level="1">der dort in verborgener Kammer <said id="5" mode="reported" content="speech" level="2">die <seg id="5" type="intExpr">Klagen</seg> und Befreiungspläne seiner
+                        unglücklichen <seg id="5" type="speaker">Opfer</seg>
+               </said> belauscht habe.</said> Die Schallverstärkung am Ende des Raums ist wirklich bemerkenswerth.
+                        <said id="6" mode="reported" content="speech" level="1">
+               <seg id="6" type="intExpr">Worte</seg>, die vorn am Eingange geflüstert werden</said>, kann
+                        man ganz laut und deutlich vernehmen; das Zerreißen
+                        eines Papierblatts nimmt sich aus wie Brausen des
+                        wildbewegten Meers, <said id="12" mode="reported" content="thought" level="1">und wenn ein kleiner Böller abgefeuert wird, <seg id="12" type="intExpr">glaubt</seg> 
+               <seg id="12" type="speaker">man</seg> den furchtbarsten Donnerschlag oder das Zusammenstürzen eines Vulkans zu hören.</said> Ein italienischer Musiklehrer, Antonio Falcone,
+                        hatte einen Kanon gesetzt, worin nur zwei Stimmen
+                        von Menschen, die übrigen aber so künstlich durch das
+                        Echo dieser Grotte ausgeführt wurden, daß sich die
+                        vollständigste Harmonie eines Ensemblestücks von selbst
+                        ergab. Dieser Falcone war also in gewissem Sinne
+                        ein Vorgänger von Daguerre; wie dieser die Natur
+                        malen, so lehrte sie jener singen.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

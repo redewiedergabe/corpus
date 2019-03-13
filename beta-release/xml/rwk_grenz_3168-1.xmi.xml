@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wochenbericht.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">Wochenbericht.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="1" type="frame" pos="start">Es ist nicht wahrscheinlich, daß <seg id="1" type="speaker">Oestreich</seg> im Vertrauen auf
+       die preußische Hilfe <seg id="1" type="intExpr">glauben</seg> wird,</seg>
+            <said id="1"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">den Gefahren Trotz bieten zu können, denen es durch eine
+       neutrale Haltung ausgesetzt wird</said>; <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">und wenn <seg id="2" type="speaker">es</seg> sich dazu stark genug <seg id="2" type="intExpr">glauben</seg> sollte</said>, so haben
+       doch die östreichischen Staatsmänner nie ein solches Maß von Genügsamkeit an den Tag gelegt,
+       daß sie sich auf eine unergiebige Passivität beschränken sollten, wo ihnen die thätige
+       Mitwirkung einen großen Lohn in Aussicht stellt: die Wiederbefreiung von dem russischen
+       Einfluß, dem der Kaiserstaat in seinen unglücklichen Tagen großen Spielraum gewähren mußte,
+       die Erringung einer angesehenen Stellung im europäischen Völkerrathe, und die Sicherung
+       seiner materiellen Interessen an der untern Donau.- Während dieser Kampfpreis in der 
+     
+     
+     
+      einen Wagschale liegt, liegt in der andern ein Bürgerkrieg und ein Kampf gegen
+       die Westmächte, der doch selbst mit preußischer Unterstützung voller Gefahren und von sehr
+       zweifelhaftem Ausgange ist.
+      Da ist die Wahl nicht schwer für denjenigen, der überhaupt entschlossen ist,
+       das ihm anvertraute Pfund nicht zu vergraben; — und Oestreich hat bereits gewählt, <said id="5" mode="reported" content="speech" level="1">trotz
+       aller von <seg id="5" type="speaker">Berlin</seg> ausgesprengten <seg id="5" type="intExpr">Versicherungen</seg> des Gegentheils.</said>
+            <said id="23"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Der <seg id="23" type="speaker">Kaiser</seg> von Frankreich konnte unmöglich <said id="6"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">ohne positive <seg id="6" type="intExpr">Zusicherungen</seg> von
+       Seiten <seg id="6" type="speaker">Oestreichs</seg>
+               </said> und auf die Gefahr hin, durch die Thatsachen Lügen gestraft zu werden, bei
+       einem feierlichen Act von der Geneigtheit Oestreichs zur Kooperation mit dem Westen <seg id="23" type="intExpr">sprechen</seg>
+            </said>;
+       auch der Umstand, <said id="8" mode="reported" content="speech" level="1">daß <seg id="8" type="speaker">Oestreich</seg> die bekannte Convention in Berlin <seg id="8" type="intExpr">befürwortete</seg>
+            </said>, beweist
+       deutlich die principielle Uebereinstimmung des Kaiserstaats mit den Westmächten.
+      Der Uebergang Oestreichs zur Action gegen Rußland scheint uns nur noch eine
+       Frage der Zeit; <said id="9" mode="reported" content="writing" level="1">und der <seg id="9" type="speaker">Telegraph</seg> hat gestern ein Ereigniß <seg id="9" type="intExpr">gemeldet</seg>, welches den Augenblick
+       des Handelns beschleunigen muß.</said>
+      Wir meinen den Uebergang der Russen über die Donau, — <said id="10" mode="reported" content="speech" level="1">ein Ereigniß, welches
+       <seg id="10" type="speaker">Franz Joseph</seg> selbst als ein für die östreichische Politik entscheidendes Moment <seg id="10" type="intExpr">hingestellt</seg>
+       hat.</said>
+            <seg id="11" type="frame" pos="start">Als <seg id="11" type="speaker">Graf Orloff</seg> 
+               <seg id="11" type="intExpr">fragte</seg>,</seg>
+            <said id="11" mode="indirect" content="speech" level="1">
+               <seg id="12" type="frame" pos="start">ob <seg id="12" type="speaker">er</seg> seinem Monarchen nicht wenigstens die <seg id="12" type="intExpr">Zusicherung</seg>
+       mitbringen dürfe,</seg> 
+               <said id="12"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß Oestreich nie gegen Rußland auftreten werde</said>
+            </said>, <seg id="13" type="frame" pos="start">
+               <seg id="13" type="intExpr">äußerte sich</seg> der junge
+       <seg id="13" type="speaker">Kaiser</seg> bejahend,</seg>
+            <said id="13" mode="indirect" content="speech" level="1">
+               <seg id="14" type="frame" pos="start">wenn <seg id="14" type="speaker">er</seg> die <seg id="14" type="intExpr">Gewißheit</seg> hätte,</seg> 
+               <said id="14"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß Rußland nie die Donau überschreiten
+       werde.</said>
+            </said>
+      Dieses Ereigniß ist nun eingetreten; es ist auch gegen Oestreich gerichtet und
+       wird dessen Action beschleunigen.
+     
+     
+      <seg id="15" type="frame" pos="start">
+               <seg id="15" type="speaker">Wir</seg> 
+               <seg id="15" type="intExpr">glauben</seg> also,</seg>
+            <said id="15" mode="indirect" content="thought" level="1">daß wir, seitdem wir uns Oestreich gefangen gegeben haben,
+       der Gefahr entronnen sind, für Rußland zu kämpfen.</said>
+      Wir werden uus vielmehr in der Richtung fortbewegen, die uns durch das Recht
+       und das europäische Interesse vorgeschrieben ist; freilich nicht aus eignem Entschluß,
+       sondern auf fremden Impuls; freilich nicht zu Preußens, sondern zu Oestreichs Ruhm. . . .
+       hinunter, preußischer Stolz, hinunter! 
+     
+     
+      Diese Aussichten sind für die Kreuzzeituugspartei nichts weniger als
+       erfreulich. <seg id="17" type="frame" pos="start">
+               <seg id="17" type="speaker">Sie</seg> hat die Kraft dieses Königreichs dem östreichischen Kaiser in der <seg id="17" type="intExpr">Hoffnung</seg> zu
+       Füßen gelegt,</seg>
+            <said id="17" mode="indirect" content="thought" level="1">beide Staaten in die Fallstricke der russischen Politik verwickeln zu
+       können.</said>
+            <said id="18" mode="reported" content="speech writing" level="1">
+               <seg id="18" type="speaker">Sie</seg> hat, um sicher zu gehen, dem östreichischen Bündniß einige Vorschläge
+       <seg id="18" type="intExpr">beigegeben</seg>
+            </said>, die, wenn sie günstige Ausnahme gefunden hätten, uns aus indirectem Wege in die
+       Arme Rußlands führen mußten.
+      Obgleich der eine vollständig gescheitert zu sein scheint, wird es doch auch
+       jetzt noch gut sein, beiden das gebührende Etikett: „Gift" anzuhängen. 
+     
+     
+      <seg id="20" type="frame" pos="start">Ihre <seg id="20" type="speaker">Leser</seg> 
+               <seg id="20" type="intExpr">erinnern sich</seg>,</seg>
+            <said id="20" mode="indirect" content="thought" level="1">daß <said id="24" mode="reported" content="speech" level="2">in der <seg id="24" type="intExpr">Rede</seg> des <seg id="24" type="speaker">Herrn v.
+       Manteuffel</seg>
+               </said> 
+               <said id="22" mode="reported" content="speech" level="2">
+                  <seg id="22" type="speaker">Preußen</seg> demjenigen Bundesgenossen seine Unterstützung <seg id="22" type="intExpr">zusicherte</seg>, der sich zuerst
+       für deutsche Interessen das Schwert zu ziehen berufen fühlen möchte.</said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

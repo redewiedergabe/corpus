@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>—Regierungsraths-Verhandlungen.—Stickerei.—Tieferlegung des Bodensees.—Rorschach.—Grub.—Oberhelfenschwil.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">—Regierungsraths-Verhandlungen.—Stickerei.—Tieferlegung des Bodensees.—Rorschach.—Grub.—Oberhelfenschwil.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  An Schreiner Ignaz Wild
+                     von Tannheim, Großherzogthum Baden, aufgenommen in Lütisburg, wird der
+                     Kantonsbürgerrechtsbrief ausgehändigt.
+               
+               
+                  An das diesjährige Preisturnfest in Goßau  wird eine Ehrengabe von 100 Fr. verabfolgt.
+               
+               
+                  Die Wahl des Neupriesters, Hrn. Anton Bolhalter
+                      von Alt St. Johann, zum Kaplan der Kirchgemeinde Flums wird
+                     anerkannt.
+               
+               
+                  Schlossermeister Johannes Schmid in Wattwyl
+                     erhält das Patent als Blitzableiteraufseher.
+               
+            
+            
+               
+                  — Stickerei.
+               
+               
+                  Im Industrie- und Gewerbemuseum in St. Gallen sind gegenwärtig
+                     folgende Artikel ausgestellt, welche Zeichnern und Stickfabrikanten dankbaren
+                     Stoff bieten; 
+               
+               
+                  1) Musterbuch und Photographien der Schifflistickmaschinen, System
+                     Gröbli, aus der mechanischen Werkstätte von I. I. Rieter und Komp. in Töß;
+                  
+               
+               
+                  2) eine Anzahl prachtvoller Zeichnungen für Bandes und Stores aus
+                     dem Atelier der Herren Mick und Kürsteiner in Paris; 
+               
+               
+                  3) Vitragen in Bobbinettechnik, französisches Fabrikat; 
+               
+               
+                  4) Geprägte Blumenpapiere, Spitzen-Imitation nach Entwürfen von
+                     Direktor Friedrich Fischbach, ausgeführt von Ude und Klebe in Eberstadt bei
+                     Darmstadt.
+               
+            
+            
+               
+                  — ( Tieferlegung des Bodensees.)
+               
+               
+                  <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Deutsche Blätter</seg> 
+               <seg id="1" type="intExpr">berichten</seg>:</seg>
+            <said id="1" mode="direct" content="writing" level="1">
+               <seg id="2" type="frame" pos="start">Nach <seg id="2" type="intExpr">Mittheilungen</seg>, die aus <seg id="2" type="speaker">Kreisen</seg>
+                     stammen, welche mit holländischen Verhältnissen bekannt sind,</seg> 
+               <said id="2" mode="indirect" content="speech writing" level="2">beschäftigt man
+                     sich in Holland lebhaft mit der Frage der Tieferlegung des Wasserspiegels im
+                     Bodensee.</said>
+                  <said id="3" mode="reported" content="thought" level="2">Da <seg id="3" type="speaker">man</seg> die niederländische Schifffahrt bei dieser Angelegenheit
+                     stark betheiligt <seg id="3" type="intExpr">glaubt</seg>
+               </said>, <seg id="4" type="frame" pos="start">so <seg id="4" type="intExpr">sagt</seg> 
+                  <seg id="4" type="speaker">man</seg> in den interessirten Kreisen,</seg> 
+               <said id="4" mode="indirect" content="speech" level="2">daß, bevor
+                     Veränderungen am Bodensee vorgenommen werden, allen <seg id="5 13" type="speaker">Rheinuferstaaten</seg>, also auch
+                     Holland, Gelegenheit gegeben werde, die Pläne näher zu prüfen und <said id="5"
+                        mode="reported"
+                        content="speech writing"
+                        level="3"
+                        nonfact="yes">
+                     <said id="13"
+                           mode="reported"
+                           content="thought"
+                           level="4"
+                           nonfact="yes">etwaige
+                     <seg id="13" type="intExpr">Bedenken</seg> dagegen</said> 
+                     <seg id="5" type="intExpr">geltend</seg> zu machen.</said>
+               </said> Ueber das Stadium der Vorbereitungen soll
+                     übrigens das Projekt noch nicht hinausgelangt sein.
+                  <said id="7" mode="reported" content="writing" level="2">Der Plan, jene Frage in Erwägung zu ziehen und zur Untersuchung der
+                     einschlägigen Verhältnisse eine Konferenz zusammentreten zu lassen, ist schon
+                     seit dem Jahre 1880 in der <seg id="7" type="speaker">Presse</seg> 
+                  <seg id="7" type="intExpr">besprochen</seg> worden.</said>
+                  <said id="8" mode="reported" content="speech" level="2">Auch im Reichstage ist die Angelegenheit<seg id="8" type="intExpr"> zur Sprache</seg> 
+                  <seg id="8" type="intExpr">gebracht</seg>
+                     worden</said>, <seg id="9" type="frame" pos="start">und <seg id="9" type="speaker">man</seg> darf wohl <seg id="9" type="intExpr">versichert</seg> sein,</seg> 
+               <said id="9"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß die Wichtigkeit derselben an
+                     maßgebender Stelle nicht verkannt wird.</said>
+            </said>
+               
+            
+            
+               
+                  — Die St. Galler wollen mit der Erstellung einer Tonhalle Ernst
+                     machen.
+                  <said id="14"
+                  mode="indirect freeIndirect"
+                  content="speech writing"
+                  level="1">Ein Initiativkomite sei eifrig an der Arbeit und demnächst werde
+                     dasselbe mit seinem Finanzplan zur Schaffung der nöthigen Kapitalien an’s
+                     Tageslicht treten.</said>
+               
+            
+            
+               
+                  — Beim Bezirksgerichte Dornbirn befindet sich ein gewisser Huber
+                     von Lustenau in Untersuchsverhaft, der in vielen rheinthalischen Orten, sowie
+                     in Rorschach und Umgegend, namentlich an Markttagen eine große Zahl von
+                     Diebstählen ausgeführt haben soll.
+                  Die Hausdurchsuchung ergab einen förmlichen Bazar von den
+                     verschiedensten Waaren; die Stückzahl beläuft sich auf 750.
+               
+            
+            
+               
+                  — Rorschach.
+               
+               
+                  Die Veruntreuungen des verstorbenen Gemeindammann betragen bis
+                     jetzt Fr. 52,000 (nicht 65,000 Fr.) Der Titl.
+                  Gemeinderath wird sehr wahrscheinlich in Folge dieses Vorkommnisses
+                     eine Pfandrevision beschließen.
+               
+            
+            
+               
+                  — Grub.
+               
+               
+                  Hier wurde Lehrer R. abgefaßt, der unsittlicher Handlungen gegen
+                     Kinder angeklagt ist.
+                  Der Untersuch wird ergeben, inwieweit die Anklage begründet ist
+                     oder nicht.
+               
+            
+            
+               
+                  — Die Toggenburger Wallfahrt nach Maria
+                     Einsiedeln findet am 4. und 5. Juni statt.
+               
+               
+            
+            
+               
+                  — Oberhelfenschwil.
+               
+               
+                  Allgemeines Bedauern erregt hier der am Sonntag Morgen erfolgte Tod
+                     des Herrn Adolf Kunz, Bierbrauer, eines jungen und thätigen Mannes.
+                  Schon seit mehreren Tagen körperlich und gemüthlich angegriffen,
+                     versetzte er sich am Samstag Nachmittag, nachdem er das Bett verlassen hatte,
+                     zwei Stiche, die enorme Blutverluste und in der Frühe des folgenden Tages
+                     seinen Tod zur Folge hatten.
+               
+            
+            
+               
+                  — <said id="15" mode="reported" content="speech" level="1">Die <seg id="15" type="speaker">Delegirtenversammlung</seg>
+                     der Feuerwehrsektionen des Linthalverbandes, der von Rüti-Waldweg, Rapperswil,
+                     Glarus, Ennenda, Schwanden, FlumsWallenstadt u. s. w. bis nach Chur 17
+                     Sektionen umfaßt, hat für die diesjährige Festversammlung einstimmig Chur als
+                     Festort <seg id="15" type="intExpr">bezeichnet</seg>
+            </said> und wird dieselbe im Laufe dieses Sommers etwa Ende Juni
+                     oder Anfangs Juli stattfinden.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Unsure</f>
+         <f name="source">mkhz.morgenblatt</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="2" type="speaker">Orso</seg> fliehet gleich dem Hirsche,
+                        Um den Buschwald zu erreichen;
+                        Doch verrannt sind schon die Wege,
+                        Das Gebirg ist abgeschnitten. <said id="2" mode="freeIndirect" content="thought" level="1">Ach, wohin? Sieh, fest am Hügel
+                        Steht ein Haus! Winkt dort nicht Zuflucht?
+                        Weh, es ist das Haus des Feindes,
+                        Weh, es ist das Haus Ruggero's!</said> Dennoch springt zur Thüre Orso,
+                        Bricht hinein, durchsucht die Stuben;
+                        Die Bewohner sind im Dorfe,
+                        Und er weiß sich Herr und Meister. Büchse, Blei und Pulver hat er,
+                        Nahrung bietet ihm der Keller,
+                        Rasch verrammelt er den Zugang,
+                        Lange kann er sich vertheid'gen. Und schon nahet mit den Sippen
+                        Dort Ruggero. Keiner waget
+                        Sich heran, aus jeder Lücke
+                        Droht des Orso sichre Kugel.<seg id="3" type="frame" pos="start">Wüthend <seg id="3" type="intExpr">schnaubt</seg> der <seg id="3" type="speaker">Eigenthümer</seg>,</seg>
+            <said id="3" mode="indirect" content="speech" level="1">Daß in seinem Haus der Todfeind
+                        Schutz gefunden</said>; wilder tobt er,
+                        Als den todten Sohn sie bringen. Und er holet bei dem Nachbarn
+                        Einen Feuerbrand vom Herde,
+                        Schleudert ihn in blinder Rachlust
+                        Auf das Dach der eignen Hütte. Mit entsetzlich grauser Freude
+                        Sieht er, wie die Flamme lecket;
+                        Rings das Dach steht schon in Gluten,
+                        Das Gebälk fängt an zu brechen. Heulend stürzt sein Weib zur Stelle.
+                        <said id="1" mode="direct" content="speech" level="1">„Rasender!“</said>
+            <seg id="1" type="frame" pos="mid">so <seg id="1" type="intExpr">ruft</seg> 
+               <seg id="1" type="speaker">sie</seg> gräßlich,</seg>
+            <said id="1" mode="direct" content="speech" level="1">Willst du kinderlos dich machen?
+                        Jn der Hütte schläft Francesko! „Weh, Francesko, unser jüngstes,
+                        Einz'ges Kind wird nun verbrennen!“</said> -Wie zerbrach da seine Rachlust!
+                        Stier und starr sah er in's Glutmeer.
+                        
+         
+      </p>
+      </body>
+   </text>
+</TEI>

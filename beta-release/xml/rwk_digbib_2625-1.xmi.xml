@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frau Salome</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Frau Salome</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">»Welch ein merkwürdiger Wechsel der Temperatur!«</said>
+            <seg id="1" type="frame" pos="end"> 
+               <seg id="1" type="intExpr">rief</seg> 
+               <seg id="1" type="speaker">sie</seg>
+            </seg>, und sie fand zu der meteorologischen Bemerkung ein Dichterzitat
+      
+        <said id="2" mode="direct" content="speech" level="1"> Ein Windstoß fuhr aus dem betränten Grunde,
+         Und es erblitzte purpurrotes Licht,</said>
+            <seg id="2" type="frame" pos="end"> 
+               <seg id="2" type="intExpr">murmelte</seg> 
+               <seg id="2" type="speaker">sie</seg>
+            </seg>, und der Justizrat, auf die schindelgedeckten Häuser und Hütten deutend, brachte die Terzine und den dritten Gesang der »Hölle« mit einem gewissen mürrischen Nachdruck zu Ende.
+                     
+                        <said id="3" mode="direct" content="speech" level="1">Hinsank ich ohne meines Daseins Kunde,
+                        Wie unter eines schweren Schlafs Gewicht</said>,
+                        
+                     
+                    <seg id="3" type="frame" pos="end"> 
+               <seg id="3" type="intExpr">zitierte</seg> 
+               <seg id="3 4 9" type="speaker">er</seg>
+            </seg> und<seg id="4" type="frame" pos="start"> 
+               <seg id="4" type="intExpr">fügte</seg> seinerseits <seg id="4" type="intExpr">hinzu</seg>:</seg>
+            <said id="4" mode="direct" content="speech" level="1"> »Es haben schon mehr Leute ausfindig gemacht, daß es hier gewöhnlich ziemlich kühl weht. Das ist nervenstärkend, Baronin; und was den Schlaf anbetrifft, so habe ich seinetwegen hier Quartier genommen. Er hat sich niemals im Leben zu schwer auf mich gelegt; – auf meines Daseins Kunde aber verzichte ich dann und wann mit dem größten Vergnügen.«</said>
+            <said id="5" mode="direct" content="speech" level="1">»<seg id="6" type="frame" pos="start">Um so weniger <seg id="6" type="intExpr">finde</seg> 
+                  <seg id="6" type="speaker">ich</seg> es passend und berechtigt,</seg> 
+               <said id="6" mode="indirect" content="thought" level="2">
+                  <said id="7" mode="reported" content="speech" level="3">daß <seg id="7 8" type="speaker">Sie</seg> mich vorhin so grimmig <seg id="7" type="intExpr">anfuhren</seg>
+                  </said> und <said id="8" mode="reported" content="speech" level="3">von Ihrer Amtserfahrung und Kriminalgesetzbuchweisheit aus <seg id="8" type="intExpr">lächerlich</seg> machten.</said>
+               </said>«</said>
+            <said id="9" mode="direct" content="speech" level="1"> »Wenn wir demnächst einmal wieder eine Partie Billard zusammen spielen, <said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">wollen <seg id="10" type="speaker">wir</seg> die Kontroverse <seg id="10" type="intExpr">fortsetzen</seg>
+               </said>, Frau Salome. Wenn wir uns jetzt nicht beeilen, wird wahrscheinlicherweise mein Besuch des Wartens überdrüssig werden und heimgehen, ohne eine Visitenkarte zurückzulassen.« </said>
+                     Er ergriff von neuem den Zügel des Maultiers und führte es von dem Waldpfade auf den steinigen Dorfweg und dem Dorfe zu. 
+                     <seg id="11" type="frame" pos="start">Die schöne <seg id=" 5 11" type="speaker">Frau</seg> lachte und <seg id="11" type="intExpr">sagte</seg>:</seg>
+            <said id="11" mode="direct" content="speech" level="1"> »So seid ihr!«</said>
+            <said id="12" mode="direct" content="speech" level="1">»Ja, so sind wir!«</said>
+            <seg id="12" type="frame" pos="end">
+               <seg id="12" type="intExpr">brummte</seg> 
+               <seg id="12 13" type="speaker">Scholten</seg>.</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Als ob noch <seg id="14" type="speaker">jemand</seg> nötig hätte, <said id="14"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">mir das zu <seg id="14" type="intExpr">sagen</seg>?!</said>«</said> 
+                  
+               
+            
+            
+               
+                  
+                     Fünftes Kapitel
+                     Wie unter eines schweren Schlafes Macht lag trotz der Tageshelle das Dorf da. Was die drei anging, so war der Esel der gleichmütigste unter ihnen; aber auch er hatte sich mit seinem Verdruß abzufinden. Es wuchsen ausgezeichnete Disteln farbenprächtig zwischen dem Gestein bis in den Weg; man wußte ihren Zuckergehalt wohl zu taxieren, aber der zweibeinige <seg id="15" type="speaker">Narr</seg> mit dem dicken Prügel und <said id="15" mode="reported" content="speech" level="1">dem ewigen widerlichen, unverständlichen Menschengeschnatter</said> zog nicht am Zügel, sondern er riß an ihm, und die dumm-unverschämte Kreatur, die man den lieben langen Tag auf dem Rücken gehabt hatte, hätte einem freilich durch ihren Anblick den Genuß an der vollsten Krippe verleiden können. 
+                    <said id="16" mode="direct" content="speech" level="1"> »Was ist Talent für Lebensbehagen?«</said>
+            <seg id="16" type="frame" pos="end">
+               <seg id="16" type="intExpr">murmelte</seg> in dem Augenblick der <seg id="16 17" type="speaker">Justizrat Scholten</seg>.</seg>
+            <said id="17" mode="direct" content="speech" level="1">»Nichts als die Gabe, aus dem Qualm etwas zu machen, der von dem Feuer der Leidenschaften in der Luft wirbelt!«</said> 
+                     Die Frau Salome aber sah mit ihren orientalischen Augen auf das stumme Dorf. 
+                     Kein Kindergeschrei – kein Gänsegeschnatter – kein fröhliches Singen der Feldarbeiter! Viel Gebüsch doch wenige Obstbäume um die Schindelhäuser. Eine graue Steinkirche abseits auf einem Hügel zwischen den Gräbern des Dorfes; das hohe Gebirge seitwärts über den Wäldern, und nach der andern Richtung hin, über die Dächer, das Gebüsch und die mageren Felder hinaus, die ferne blaue Ebene! 
+                    <said id="18" mode="direct" content="speech" level="1"> »Es ist ein einsilbiges Volk, das hier haust«</said>
+            <seg id="18" type="frame" pos="end">, <seg id="18" type="intExpr">sagte</seg> 
+               <seg id="18 19" type="speaker">Scholten</seg>.</seg>
+            <said id="19" mode="direct" content="speech" level="1">»Zum größten Teil befindet es sich gegenwärtig sogar unter der Erde; drei Viertel der männlichen Bevölkerung treiben Bergbau, und das letzte Viertel mit den Weibern befindet sich im Walde oder auf den Äckern. Sie haben kurz anzubeißen, das sehen Sie schon den Kindergesichtern an. Manchmal passieren da Geschichten, die das Gepräge eines ganz andern Säkulums tragen. Sie stoßen auf <said id="20"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Worte</said>, <said id="21"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Ausdrücke</said>, Ansichten, die ganz sonderbar nach der Wüstenei des siebzehnten Jahrhunderts riechen, kurz, <said id="22"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">einen idyllischern Sommeraufenthalt für einen Juristen werden <seg id="22" type="speaker">Sie</seg> sich schwerlich <seg id="22" type="intExpr">vorstellen</seg> können</said>, liebe Baronin.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gradiva</title>
+             <author>Jensen, Wilhelm</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Gradiva</f>
+         <f name="author">Jensen, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Bald indes hielt sie nochmals an; Trittsteine überkreuzten auch hier die Straße, und sie schritt wieder zur rechten Seite derselben zurück. So wendete sie jetzt ihre andere Profilseite zu und nahm sich ein wenig verändert aus, da ihre linke, das Gewand aufschürzende Hand nicht sichtbar ward und statt ihrer gebogenen Armhaltung die rechte gradlinig herabhing. In der weiteren Entfernung aber umwoben sie nun die goldwelligen Sonnenstrahlen mit dichterem Schleiergewirk, ließen nicht mehr unterscheiden, wo sie, auf einmal vor dem Haus des Meleager verschwindend, geblieben sei. 
+                  Norbert Hanold stand noch, ohne ein Glied gerührt zu haben. Nur mit den Augen, und diesmal mit den leiblichen, hatte er Schritt um Schritt ihr kleiner werdendes Bild in sich aufgenommen. Jetzt holte er zum erstenmal tief Atem, denn auch seine Brust war beinah reglos geblieben. 
+                  Zugleich aber hielt der sechste Sinn, die übrigen zur Nichtigkeit niederdrängend, <seg id="1" type="speaker">ihn</seg> völlig in seiner Macht. <said id="1" mode="freeIndirect" content="thought" level="1">War das, was eben vor ihm gestanden, ein Erzeugnis seiner Phantasie oder Wirklichkeit gewesen?</said>
+            <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">
+               <seg id="11" type="frame" pos="start">
+                  <seg id="2 11" type="speaker">Er</seg> 
+                  <seg id="2 11" type="intExpr">wußte</seg>
+               </seg> es nicht</said>, <seg id="11" type="frame" pos="start">nicht</seg>
+            <said id="11"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">ob er wache oder träume</said>, suchte sich vergeblich darauf zu besinnen. Dann jedoch überlief's ihm plötzlich mit einem sonderbaren Schauer den Rücken. Er sah und hörte nichts, doch fühlte an geheimen Schwingungen seines Innern, daß Pompeji in der Mittagsgeisterstunde rings um ihn her zu leben begonnen hatte, und so lebte in ihr auch die Gradiva wieder und war in das Haus gegangen, das sie vor dem verhängnisvollen Augusttage des Jahres 79 bewohnt hatte. 
+                  Er kannte die Casa di Meleagro von früherem Besuch, war diesmal jedoch noch nicht dahin gekommen, sondern hatte nur im Museo Nazionale Neapels kurz vor dem Wandgemälde des Meleager und seiner arkadischen Jagdgenossin Atalanta angehalten, das in jenem Hause der Merkurstraße gefunden und nach dem das letztere benannt worden. Doch wie er nun, wieder zur Bewegungsfähigkeit gelangt, gleichfalls diesem zuschritt, <seg id="3" type="frame" pos="start">ward <seg id="3" type="speaker">ihm</seg> 
+               <seg id="3" type="intExpr">zweifelhaft</seg>,</seg>
+            <said id="3" mode="indirect" content="thought" level="1">ob es wirklich seinen Namen nach dem Erleger des kalydonischen Ebers trage.</said>
+            <said id="4" mode="reported" content="thought" level="1">
+               <seg id="4" type="speaker">Er</seg> 
+               <seg id="4" type="intExpr">entsann</seg> sich plötzlich eines griechischen Dichters Meleager, der allerdings wohl etwa um ein Jahrhundert vor der Zerstörung Pompejis gelebt hatte.</said> Aber ein Nachkomme von ihm konnte hierher geraten sein und sich das Haus erbaut haben. Das stimmte mit <said id="12" mode="reported" content="thought" level="1">etwas anderem in <seg id="12" type="speaker">seinem</seg> 
+               <seg id="12" type="intExpr">Gedächtnis</seg> Aufgewachten</said> überein, denn <seg id="5" type="frame" pos="start">
+               <seg id="5" type="speaker">er</seg> 
+               <seg id="5" type="intExpr">erinnerte</seg> sich seiner Vermutung oder vielmehr gewissen Überzeugung,</seg>
+            <said id="5" mode="indirect" content="thought" level="1">die Gradiva sei von griechischer Abkunft gewesen.</said>
+            <said id="13" mode="reported" content="thought" level="1">Daneben freilich mischte sich in <seg id="13" type="speaker">seine</seg> 
+               <seg id="13" type="intExpr">Vorstellung</seg> das Bild der Atalanta ein</said>, <seg id="14" type="frame" pos="start">wie's <seg id="14" type="speaker">Ovid</seg> in einer der Metamorphosen <seg id="14" type="intExpr">geschildert</seg>:</seg>
+            <said id="14" mode="direct" content="writing" level="1">Oben schloß ihr Gewand mit dem Dorn die geglättete Spange, Kunstlos lag ihr das Haar in den einzelnen Knoten gesammelt.</said>
+            <said id="15" mode="reported" content="thought" level="1">Nicht im Wortlaut konnte <seg id="15 17" type="speaker">er</seg> sich auf die Verse <seg id="15" type="intExpr">besinnen</seg>, doch ihr Inhalt war ihm gegenwärtig</said>; <seg id="16" type="frame" pos="start">und aus <seg id="16" type="speaker">seinem</seg> 
+               <seg id="16" type="intExpr">Kenntnisvorrat</seg> gesellte sich hinzu,</seg>
+            <said id="16" mode="indirect" content="thought" level="1">daß die junge Gattin des Öneussohnes Meleagros Kleopatra geheißen habe.</said>
+            <said id="17"
+                  mode="indirect freeIndirect"
+                  content="thought"
+                  level="1">Mit größerer Wahrscheinlichkeit aber handelte sich's nicht um den, sondern um den griechischen Dichter Meleager.</said>
+            <said id="18" mode="reported" content="thought" level="1">So gaukelte es in der campanischen Sonnenglut mythologisch-literarhistorisch-archäologisch durch <seg id="18" type="speaker">seinen</seg> 
+               <seg id="18" type="intExpr">Kopf</seg>.</said> 
+                  An den Häusern des Castor und Pollux und des Centauren vorübergekommen, stand er jetzt vor der Casa di Meleagro, von deren Schwelle ihm, noch erkennbar, der eingelegte Gruß ›Have‹ entgegensah.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

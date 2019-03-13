@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="reported" content="speech" level="1">Es wird dort der Durchschnittsverzehr an Branntwein auf 1 Liter von
+                        Gastwirten selbst <seg id="1" type="intExpr">geschätzt</seg>.</said> Was Wunder, wenn der Verschleißer bald reich, der
+                        Verzehrer immer ärmer wird. <seg id="2" type="frame" pos="start">Es wurde <seg id="18" type="speaker">mir</seg> 
+               <seg id="2" type="intExpr">mitgeteilt</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">daß es Wirtschaften gibt,
+                        die im Monat bis zu 2000 Liter Schnaps verkaufen und am Liter 45 Pf. Gewinn
+                        erzielen.</said>
+            Die Behörden haben insofern Schutz vor der Kneipe zu geben versucht, als sie
+                        an vielen Stellen die Wirtschaften an den Lohntagen mehrere Stunden oder den
+                        ganzen Tag haben schließen lassen. Dasselbe geschah am 6., 7. und 8. Februar,
+                        als die erste Streikunterstützung ausgezahlt wurde.
+            Das Wichtigste gegen den Alkohol ist jedoch nicht von den Behörden, sondern
+                        aus der Arbeiterschaft heraus geschehen. „Die Streikkomitees legen das größte Gewicht darauf, daß sich die Streikenden strenge dem Alkohol enthalten. Überallwerden Flugblätter verbreitet, <seg id="17" type="frame" pos="start">
+               <seg id="17" type="speaker">die</seg> die Arbeiter <seg id="17" type="intExpr">auffordern</seg>,</seg>
+            <said id="17" mode="indirect" content="writing" level="1">während der ganzen
+                        Dauer des Streiks Bier und Schnaps zu meiden.</said> Die <seg id="3" type="speaker">Arbeiter</seg> befolgen diesen Rat
+                        getreulich, <seg id="3" type="frame" pos="start">in der <seg id="3" type="intExpr">Erkenntnis</seg>,</seg>
+            <said id="3" mode="indirect" content="thought" level="1">daß jeder Alkoholexzeß die Stimmung gegen die
+                        Streikenden wenden und so den Unternehmern zu gute kommen würde.</said> Bei den
+                        Versammlungen wird kein Bier ausgeschänkt.“ Und das in einer solch alkoholdurchseuchten Gegend! Wirklich ein glänzendes Zeichen für die Energie und die
+                        sittliche Kraft der Arbeiterschaft!
+                         
+            Es mag gestattet sein, <said id="18" mode="reported" content="writing" level="1">hier mit ein paar Worten auf die Stellung der Sozialdemokratie zur Alkoholfrage <seg id="18" type="intExpr">einzugehen</seg>.</said>
+            <said id="5" mode="reported" content="thought" level="1">Außerdeutsche <seg id="5 6" type="speaker">Führer</seg> haben seit längerer
+                        Zeit die Wichtigkeit der Alkoholfrage <seg id="5" type="intExpr">erkannt</seg>
+            </said> und <said id="6" mode="reported" content="speech" level="1">sind mit aller Schärfe für die
+                        Abstinenz <seg id="6" type="intExpr">eingetreten</seg>
+            </said>, in der Schweiz Oberrichter Otto Lang, in Belgien Vandervelde,
+                        in Österreich Viktor Adler, <said id="14"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">zu <seg id="14" type="intExpr">schweigen</seg> von den englischen Gewerkschaftsführern.</said>
+                        Die deutschen Führer haben sich zunächst zur Abstinenzbewegung nicht sehr wohlwollend gestellt. <said id="19"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Letzteres wurde von den <seg id="19 7" type="speaker">Alkoholinteressenten</seg> in Deutschland mit
+                        unverhohlener Freude <seg id="19" type="intExpr">begrüßt</seg>.</said>
+            <seg id="7" type="frame" pos="start">Höhnisch wurden die Alkoholbekämpfer immer wieder
+                        darauf <seg id="7" type="intExpr">hingewiesen</seg>,</seg>
+            <said id="7" mode="indirect" content="speech" level="1">daß, wenn sie auch in allen sonstigen Kreisen der Bevölkerung
+                        Anhänger gewinnen würden, ihre Agitation in der Arbeiterschaft wegen der Haltung
+                        der Führer vergeblich sein würde.</said>
+            <seg id="20" type="frame" pos="start">Jmmer wieder wurde von bürgerlichen <seg id="20" type="speaker">Politikern</seg>
+                        <seg id="20" type="intExpr">ausgeführt</seg>,</seg>
+            <said id="20" mode="indirect" content="speech" level="1">daß die sozialdemokratische Partei auf die Mitarbeit der kleinen Parteiwirte, der sogenannten „Hetzwirte“ angewiesen sei, dieselben hätten in der Zeit des
+                        Sozialistengesetzes unbezahlbare Dienste getan und seien auch jetzt unentbehrlich, es
+                        sei auch viel zu wichtig für die Partei, verdiente Genossen, die außer Verdienst gekommen seien und denen man nichts anderes verschaffen könne, als Wirte unterzubringen.</said>
+            <seg id="11" type="frame" pos="start">Die sozialdemokratischen <seg id="11 12  " type="speaker">Führer</seg> 
+               <seg id="11" type="intExpr">wünschten</seg>,</seg>
+            <said id="11" mode="indirect" content="thought" level="1">daß die Massen durch den
+                        Alkohol stumpf und dumm blieben, weil sie dann leichter zu leiten seien</said>, -- <seg id="10" type="frame" pos="start">
+               <seg id="10" type="speaker">sie</seg>
+                        <seg id="10" type="intExpr">wünschten</seg>,</seg>
+            <said id="10" mode="indirect" content="thought" level="1">daß die Massen durch den Alkohol in Elend und Ruin kämen, weil sie
+                        dann unzufrieden mit der herrschenden Ordnung der Dinge und geneigter, alles Bestehende über den Haufen zu werfen und auf den Trümmern eine neue Welt aufzubauen sein würden.</said> -- Wie weit es sich <said id="12" mode="reported" content="speech" level="1">bei diesen <seg id="12" type="intExpr">Ausführungen</seg>
+            </said> um <said id="16"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">eine <seg id="16" type="intExpr">Verkennung</seg> der Verhältnisse</said> handelt, oder ob hier teilweise ein Kern von Tatsachen
+                        vorhanden ist, der nur mehr oder weniger gehässig dargestellt wird, braucht hier
+                        nicht untersucht zu werden. Eine unverrückbare Tatsache bleibt bestehen: Keine
+                        politische Partei außer der sozialdemokratischen hat mit solchem Ernst die Alkoholfrage in der letzten Zeit behandelt, in keiner bereitet man sich so energisch auf eine
+                        radikale Lösung im Sinne der Abstinenz vor.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

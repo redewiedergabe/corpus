@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kontroversenzüchtung: Ein Mahnwort an den Gesetzgeber</title>
+             <author>Josef, Eugen </author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Kontroversenzüchtung: Ein Mahnwort an den Gesetzgeber</f>
+         <f name="author">Josef, Eugen </f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Leider kann <seg id="1" type="speaker">man</seg>
+                        dieses von der zweiten Bestimmung nicht <seg id="1" type="intExpr">sagen</seg>, nämlich von Paragraph 866
+                        Absatz 3 der Zivilprozeßordnung.</said>
+            <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">Er</seg> 
+               <seg id="2" type="intExpr">lautet</seg>:</seg>
+            <said id="2" mode="direct" content="writing" level="1">„Auf Grund <said id="4" mode="reported" content="writing" level="2">eines <seg id="4" type="speaker">Vollstreckungsbefehls</seg>
+               </said> findet <said id="15" mode="reported" content="writing" level="2">die <seg id="15" type="intExpr">Eintragung</seg> einer Sicherungshypothek</said> nicht statt. <said id="5"
+                     mode="reported"
+                     content="speech writing"
+                     level="2"
+                     nonfact="yes">Auf Grund
+                        eines andern <seg id="5" type="intExpr">Schuldtitels</seg> darf eine Sicherungshypothek nur für eine den Betrag
+                        von 300 Mark übersteigende Forderung eingetragen werden.</said>"</said>
+            <said id="7"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes"
+                  prag="yes">
+               <seg id="7 8" type="speaker">Man</seg> muß diese
+                        Vorschrift geradezu als eine sozialpolitische Monstrosität <seg id="7" type="intExpr">bezeichnen</seg>
+            </said> und <seg id="8" type="frame" pos="start">möchte
+                        fast <seg id="8" type="intExpr">annehmen</seg>,</seg>
+            <said id="8"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">daß sich der Gesetzgeber hier von einem antisozialpolitischen Zuge
+                        hat leiten lassen.</said> Denn dem Gläubiger ist der billige Weg des Mahnverfahrens verboten, er muß den kostspieligen Weg der Klage und des Urteils
+                        beschreiten. Und ferner: nur dem wohlhabenden Gläubiger soll die Sicherungshypothek vergönnt sein; kleinere Gewerbetreibende, deren Forderungen erfahrungsmäßig 300 Mark nicht zu übersteigen pflegen, steht dieses Sicherungs- und
+                        Befriedigungsmittel nicht zu. Und der Grund dieser merkwürdigen Vorschrift:
+                        es sollte verhütet werden, daß durch <said id="9" mode="reported" content="writing" level="1">
+               <seg id="9" type="intExpr">Zwangseintragungen</seg> geringer Beträge</said> die
+                        Grundbücher unübersichtlich gemacht werden! Als ob die Menschen nur um
+                        der Grundbücher willen da seien! Und welche Fülle unerfreulicher Streitfragen hat diese sozialpolitische Monstrosität erzeugt! Ist <said id="16" mode="reported" content="writing" level="1">die <seg id="16" type="intExpr">Zwangseintragung</seg>
+            </said>
+                        zulässig auf Grund mehrerer Schuldtitel desselben Gläubigers oder auch verschiedner Gläubiger, wenn nur die Gesamtsumme 300 Mark übersteigt? Findet
+                        die Beschränkung der Eintragbarkeit auch Anwendung auf Arresthypotheken
+                        sowie bei Ansprüchen des Werkmeisters auf Einräumung einer Sicherungshypothek? Ferner, wenn der Schuldner zur Bewilligung der Sicherungshypothek verurteilt ist? Ferner im Verwaltungszwangsverfahren sowie bei
+                        <said id="10" mode="reported" content="writing" level="1">
+               <seg id="10" type="intExpr">Zwangseintragungen</seg> von Nachtragskosten?</said>
+                         
+            6. Überaus einfach waren die Vorschriften der frühern Landesgesetze,
+                        namentlich des preußischen Rechts, über die Legitimation zur Beschwerde in der
+                        freiwilligen Gerichtsbarkeit. Nach der allgemeinen Gerichtsordnung <said id="11" mode="reported" content="speech writing" level="1">fand die
+                        <seg id="11" type="intExpr">Beschwerde</seg> statt gegen den Inhalt einer dem Beschwerdeführer „vermeintlich
+                        nachteiligen" Verfügung.</said> Mißstände hatten sich aus dieser Regelung nicht ergeben, und Streitfragen über die Legitimation zur Beschwerde bestanden im
+                        frühern preußischen Recht nicht. Und derselbe günstige Rechtszustand besteht
+                        noch heute für Grundbuchsachen, die doch die wichtigsten Angelegenheiten der
+                        freiwilligen Gerichtsbarkeit sind: <said id="13"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">die <seg id="13" type="speaker">Grundbuchordnung</seg> hat keine <seg id="13" type="intExpr">Vorschriften</seg>
+                        über die Beschwerde</said>, darum steht sie jedem zu, der an der Beseitigung der augefochwen Verfügung ein rechtliches Interesse hat. Dagegen gibt das Reichsgesetz über die freiwillige Gerichtsbarkeit die Beschwerde nur dem, dessen „Recht"
+                        durch die Verfügung „beeinträchtigt" ist, nicht also schon dem, der ein bloßes
+                        Interesse an ihrer Änderung hat. <seg id="17" type="frame" pos="start">Nun ist aber die <seg id="17" type="intExpr">Frage</seg>,</seg>
+            <said id="17"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  prag="yes">ob die Verfügung das „Recht" des Beschwerdeführers „beeinträchtigt," oder ob er an ihrer Beseitigung nur ein Interesse hat</said>, natürlich oft sehr schwer zu entscheiden. Daher
+                        kommt die Fülle unerfreulicher Streitfragen hierüber, die den frühern Rechten
+                        unbekannt waren: fast dreihundert Entscheidungen der Oberlandesgerichte über
+                         
+            
+            diese Frage sind schon veröffentlicht worden! Sicher hat die Einschränkung des
+                        Beschwerderechts, wie sie das neue Recht in Änderung des frühern Rechtszustandes vorschreibt, einiges für sich, aber keineswegs war sie im Interesse der
+                        Gerechtigkeit etwa geboten; <said id="18"
+                  mode="reported"
+                  content="speech writing"
+                  level="1"
+                  nonfact="yes">darum hätte der <seg id="18" type="speaker">Gesetzgeber</seg> diese Einschränkung <seg id="18" type="intExpr">ablehnen</seg> müssen</said>, weil sie zu einer Kontroversenzüchtung führt.
+            Wieviel Arbeit, Zeit, Ärger und Kosten hätte der Gesetzgeber den Gerichten
+                        und den Staatsbürgern sparen können, wenn er die als Kontroversenzüchtuug
+                        nachgewiesnen Bestimmungen, die doch durch die Rücksicht auf die Gerechtigkeit
+                        keineswegs geboten waren, gar nicht getroffen hätte! Ihering teilte die
+                        Juristen launig ein in solche, die sich mit der Lehre von der Stellvertretung
+                        schon beschäftigt haben, und in solche, die sich mit ihr noch nicht beschäftigt haben.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

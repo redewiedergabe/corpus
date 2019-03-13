@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+
+Das Gesammteinkommen der Schullehrer beträgt hiernach 125,749 Thlr. und kommt danach im
+                        Durchschnitte auf den Einzelnen ein Gehalt von 121 Thlr. Dazu
+                        kommt noch, daß die Unterstützungen Seitens des Staates in den
+                        letzten Jahren auch geringer gewesen sind als früher. Es wurden
+                        nämlich den Elementarlehrern des Stettiner Regierungsbezirkes
+                        gewährt im Jahre 1847: 5500 Thlr.; 1848: 2400 Thlr. und
+                        1849: 2400 Thlr.
+            Magdeburg 24. October. ( Magd. C. ) Gestern und heute
+                        haben unsere Stadt mehrere Bataillons passirt, die zur Verstärkuug der im Herzogthume Schleswig befindlichen preußischen
+                        Truppen bestimmt sind. Sie gehörten dem 6. und 7. Regimente
+                        an. Auf Morgen werden noch weitere Truppendurchmärsche erwartet. Die Truppen verweilen hier nicht, sondern werden sogleich auf der Magdeburg=Hamburger Eisenbahn befördert. Jn
+                        Hamburg werden sie eine Nacht einquartirt und dann sogleich
+                        weiter transportirt werden.
+            Aachen 25. October. ( Aach. Z. ) Heute Mittag ist mit einem Extrazuge der Reichsverweser, Erzherzog Johann, nebst Frau v.
+                        Brandhof und dem jungen Grafen v. Meran, hier eingetroffen und
+                        hat, ohne weiteren Aufenthalt, seine Reise nach Lüttich fortgesetzt.
+            Hannover 24. October. Herr v.Gagernwird morgen
+                        Abend von Hamburg hier wieder eintreffen und einen Tag hier
+                        bleiben. Seine Freunde beabsichtigen ihm eine Ovation zu bereiten.
+            Mannheim 26. October. Stand der Brechruhrepidemie.
+                        Am 25. October: Zugang 5, genesen 11, gestorben 2.
+            # Aus Oberhessen 25. October. <seg id="1" type="frame" pos="start">Der aus den Rastatter
+                        Cassematten entsprungene <seg id="1" type="speaker">Sohn</seg> des ProfessorsDr.Hillebrandin Gießen hat seiner Familie brieflich <seg id="1" type="intExpr">zu wissen gethan</seg>,</seg>
+            <said id="1" mode="indirect" content="writing" level="1">  daß er glücklich auf französischem Boden angekommen sey und sich
+                        zunächst in Straßburg längere Zeit aufzuhalten gedenke.</said> Ueber
+                        diese Nachricht herrscht in Gießen große Freude, <said id="2" mode="reported" content="speech" level="1">zumal gleichzeitig auch der BürgerKarl Scribavon den <seg id="2" type="speaker">Geschworenen</seg>
+                        für „nicht schuldig“ <seg id="2" type="intExpr">erklärt</seg> worden ist.</said>
+            <seg id="3" type="frame" pos="start"> Mehrere deutsche, d. h.
+                        Gießener <seg id="3" type="speaker">Frauen</seg>
+               <seg id="3" type="intExpr">sprachen</seg> in folgender Weise dem Advocaten
+                        Metzfür seine Vertheidigung Scriba's <seg id="3" type="intExpr">ihren Dank aus</seg>:</seg>
+            <said id="3" mode="direct" content="speech" level="1">„<seg id="27" type="speaker">Wir</seg>
+                        können nicht umhin <said id="27" mode="reported" content="speech" level="2">unseren heißesten Dank dem ehrenwerthen
+                        Manne Herrn Advocaten Metz von Darmstadt <seg id="27" type="intExpr">nachzurufen</seg>
+               </said>, <said id="5" mode="reported" content="speech" level="2">dem
+                        <seg id="5" type="speaker">Manne</seg>, welcher ungenirt nicht nur dasRechtseines Clienten,
+                        des Herrn Candidaten Scriba zu <seg id="5" type="intExpr">vertheidigen</seg>
+               </said>, sondern, <said id="6"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     prag="yes">
+                  <seg id="6 7" type="speaker">ich</seg> möchte
+                        <seg id="6" type="intExpr">sagen</seg>
+               </said>, im Sinne aller edlen deutschen Männer <said id="7" mode="reported" content="speech" level="2">die Sache des gesammten Vaterlandes dem Volke gegenüber <seg id="7" type="intExpr">auszusprechen</seg> vermochte.</said>
+               <seg id="8" type="frame" pos="start"> Mit dem <seg id="8" type="intExpr">Wunsche</seg>,</seg> 
+               <said id="8" mode="indirect" content="thought" level="2">daß alle politisch Angeklagten das
+                        Glück hätten, <said id="9" mode="reported" content="speech" level="3">auf solche humaneWahrheit <seg id="9" type="intExpr">sagende</seg>
+                     <seg id="9" type="speaker">Vertheidigung</seg>
+                  </said> rechnen zu können</said>, <said id="10" mode="reported" content="writing" level="2">
+                  <seg id="10" type="intExpr">unterzeichnen</seg> sichmehrere
+                        deutsche <seg id="10 8" type="speaker">Frauen</seg>
+               </said>[ <said id="11" mode="reported" content="speech" level="2">denen <seg id="11" type="speaker">wir</seg> vor allen Stücken bessere Kenntniß der deutschen Sprache <seg id="11" type="intExpr">wünschten</seg> 
+               </said>] .“</said> -- Trotz dem wider das
+                        Einsammeln von Geld für politische Flüchtlinge ergangenen Verbote sammelt man in Gießen fort; auch nimmt man Gaben von
+                        Kleidungsstücken und Tuchlappen zum Ausbessern der Kleider an.
+                        -- Bei der letzten Assisensitzung in Gießen stand vor den
+                        Schranken ein gewisser Wilhelm Kertrich von Oberwerba, <said id="28" mode="reported" content="speech" level="1">
+               <seg id="28" type="intExpr">angeklagt</seg> vorsätzlich in seiner Behausung Feuer zur Nachtzeit angelegt zu haben.</said>
+            <said id="29" mode="indirect freeIndirect" content="speech" level="1">Sein Haus, das nur einen Werth von 400 fl.
+                        habe, sey zu 1000 fl. versichert gewesen; er stehe in schlechtem
+                        Rufe und seine Vermögensverhältnisse seyen ganz zerrüttet.</said>
+            <said id="13" mode="reported" content="speech" level="1">Trotz
+                        der tüchtigen <seg id="13" type="intExpr">Vertheidigung</seg> des Advocaten<seg id="13" type="speaker">Dr.Eckstein</seg>
+            </said>ward
+                        über den Angeklagten, <said id="14" mode="reported" content="speech" level="1">zumal viele <seg id="14" type="speaker">Zeugen</seg> Ungünstiges über ihn
+                        <seg id="14" type="intExpr">aussagten</seg>
+            </said>, <said id="15" mode="reported" content="speech" level="1">das „Schuldig“ von den <seg id="15" type="speaker">Geschworenen</seg> 
+               <seg id="15" type="intExpr">ausgesprochen</seg>.</said>
+            <said id="16" mode="reported" content="speech" level="1">Der <seg id="16" type="speaker">Assisenhof</seg> 
+               <seg id="16" type="intExpr">verurtheilte</seg> ihn zu acht Jahren Correctionshausstrafe.</said>
+            Aus der Wettarau 25. October.<said id="17" mode="reported" content="speech" level="1"> Mittlerweile hat sich
+                        nun auch ein <seg id="17" type="speaker">HerrWöller</seg>,Administrator von mehreren Stiftungen, wohnhaft in Wölfersheim als Candidat zum Landtage
+                        <seg id="17" type="intExpr">angeboten</seg>.</said>
+            <seg id="18" type="frame" pos="start">
+               <seg id="18 19" type="speaker">Herr Wöller</seg> 
+               <seg id="18" type="intExpr">sagt</seg> in einer Anzeige im Jntelligenzblatte,</seg>
+            <said id="18" mode="indirect" content="speech" level="1">
+               <seg id="20" type="frame" pos="start">er sey von vielen <seg id="20" type="speaker">Seiten</seg> 
+                  <seg id="20" type="intExpr">aufgefordert</seg> worden,</seg> 
+               <said id="20" mode="indirect" content="speech" level="2">
+                  <said id="19" mode="reported" content="speech" level="3">sich als
+                        Candidat zu <seg id="19" type="intExpr">melden</seg>
+                  </said>
+               </said>
+            </said>, und es mag seyn, daß dieser Herr,<said id="21"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes"> 
+               <seg id="21" type="speaker">der</seg> auch
+                        auf die Republik nicht so ganz bös zu <seg id="21" type="intExpr">sprechen</seg> seyn soll</said>, bei
+                        Manchen nicht übel steht, <seg id="22" type="frame" pos="start">zumal <seg id="22" type="speaker">er</seg> vor einiger Zeit dem Landtage
+                        <seg id="22" type="intExpr">die Aufgabe stellte</seg>,</seg>
+            <said id="22" mode="indirect" content="speech" level="1">den Standesherren an den Kragen zu gehen.</said>
+            <seg id="23" type="frame" pos="start"> 
+               <seg id="23" type="speaker"> Jch</seg>
+               <seg id="23" type="intExpr"> bezweifele</seg> indessen sehr,</seg>
+            <said id="23" mode="indirect" content="speech" level="1">ob ihm das Glück der Wahl zu Theil
+                        wird.</said> -- Vor einigen Tagen fand in einem benachbarten Orte die
+                        Obduction eines stark in den achtziger Jahren stehenden alten
+                        Mannes statt, weil derselbe einige Zeit vor seinem Tode von seinem eigenen Sohne gar arg geschlagen und mißhandelt worden
+                        war, und <seg id="24" type="frame" pos="start">das <seg id="24" type="speaker">Gericht</seg> 
+               <seg id="24" type="intExpr">muthmaßte</seg>,</seg>
+            <said id="24" mode="indirect" content="speech writing" level="1">der Greis könne in Folge dieser
+                        Mißhandlung gestorben seyn.</said> Was die Untersuchung des Leichnames für ein Resultat hatte, ist mir noch unbekannt. Leider
+                        findet auf dem Lande häufig die Mißhandlung von alten Leuten
+                        durch ihre eigenen Verwandten statt; sie leben den Jhrigen meist
+                        zu lange, besonders wegen des Auszuges, d. h. die alten Leute
+                        treten ihr Eigenthum an ihre Kinder ab, dagegen müssen diese
+                        ihnen Obdach und Victualien geben.
+            Wiesbaden 25. October. ( N. A. Z. ) <said id="25" mode="reported" content="speech" level="1">Jn der heutigen Assisensitzung wurde GastwirthDebusmannvon hier, <said id="26" mode="reported" content="speech" level="2">der Theilnahme an dem Frankfurter Septemberaufstande <seg id="26" type="intExpr">angeklagt</seg>
+               </said>, zu
+                        neun Monat Correctionshausstrafe <seg id="25" type="intExpr">verurtheilt</seg>.
+ </said>           Kiel 23. October. ( H. C. ) Heinrich v. Gagern ist hier.
+                        Heute Nachmittag wird derselbe in Begleitung Beselers eine
+                        Dampfschifffahrt zur Besichtigung unseres schönen Hafens machen
+                        und morgen zum Festmahle nach Hamburg zurückkehren.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

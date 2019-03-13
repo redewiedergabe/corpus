@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>—Mittel gegen den widerlichen Geruch des Stockfisches.—Vom Tode überrascht.—Die geküßte Prinzessin.—Schreckensthat eines Blödsinnigen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">—Mittel gegen den widerlichen Geruch des Stockfisches.—Vom Tode überrascht.—Die geküßte Prinzessin.—Schreckensthat eines Blödsinnigen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Verschiedenes. 
+            
+            
+               
+                  — Mittel gegen den widerlichen Geruch 
+                     des Stockfisches.
+               
+               
+                  Vielen ist der Geruch, welchen die Stockfische verbreiten, wenn sie gekocht
+                     werden, so zuwider, daß sie lieber auf den Genuß dieser Fastenspeise
+                     verzichten, als ihre Geruchsnerven daran belästigen lassen.
+                  Und doch ist nichts leichter, als den Stockfischen diesen widerlichen Geruch
+                     ohne alle Kosten zu benehmen.
+                  Man darf nämlich nur eine Hand voll Kohlen aus dem Feuer nehmen und in das
+                     Wasser werfen, in welchem der Stockfisch gesotten wird, muß aber darauf sehen,
+                     daß sie nicht mehr mit Flammen brennen, sondern nur noch glühen.
+                  Da die Kohlen auf dem Wasser schwimmen, so lassen sie sich vor dem Anrichten
+                     mit dem Schaumlöffel leicht wegnehmen.
+               
+               
+                  (Aus „Bibliothek der Hausfrau“.) 
+               
+            
+            
+               
+                  — Vom Tode überrascht.
+               
+               
+                  Während des am 31. Januar zu Linz in Oesterreich stattgehabten Maskenballes in
+                     den landwirthschaftlichen Redoutensälen wurde eine maskirte Dame während des
+                     Tanzes vom Gehirnschlage getroffen und sank ihrem Tänzer todt in die Arme. Alle
+                     Mittel der Aerzte erwiesen sich als fruchtlos und die Leiche wurde im
+                     Maskenkostüm in die Todtenkammer gebracht.
+               
+            
+            
+               
+                  — Die geküßte Prinzessin.
+               
+               
+                  Am vergangenen Sonntag wurde in Baden-Baden ein Maskenzug abgehalten, welchen
+                     sich auch die Kaiserin von Oesterreich ansah.
+                  Dieselbe ging mit ihren Verwandten, der Gräfin Trani und deren Tochter, Prinzessin M., die Sophienallee entlang.
+                  Vor dem Großh.
+                  Amtsgebäude ging nun der den Zug eröffnende geschwärzte Harlekin auf die
+                     Prinzessin zu, umarmte dieselbe herzlich und verabreichte ihr zwei saftige
+                     Küsse, nicht ohne Spuren seines imitirten Mohrenthums auf ihren gerötheten
+                     Wangen zurückzulassen. Der schwarze Attenthäter, <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">der</seg> keine <seg id="2" type="intExpr">Ahnung</seg> davon hatte,</seg>
+            <said id="2"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">daß er einer Prinzessin seine Zärtlichkeit bewies</said>, ward andern Tages, nachdem
+                     seine Persönlichkeit festgestellt war, <said id="3" mode="reported" content="speech" level="1">vor die <seg id="3" type="speaker">Behörde</seg> 
+               <seg id="3" type="intExpr">zitirt</seg>
+            </said>, die ihn indeß
+                     wieder laufen ließ.
+               
+            
+            
+               
+                  — Schreckensthat eines Blödsinnigen.
+               
+               
+                  <seg id="4" type="frame" pos="start">Aus Berglas in Böhmen wird <seg id="4" type="intExpr">gemeldet</seg>:</seg>
+            <said id="4" mode="direct" content="writing" level="1">Der blödsinnige aber riesenstarke Sohn
+                     eines dortigen Wirthschaftsbesitzers wurde von anderen <seg id="5" type="speaker">Ortsinsassen</seg> in’s
+                     Gasthaus mitgenommen und <said id="5" mode="reported" content="speech" level="2">zum Trinken <seg id="5" type="intExpr">aufgefordert</seg>.</said>
+                  Plötzlich sprang der Blödsinnige auf, packte das 2 Jahre alte Söhnchen des
+                     Wirthes und setzte es auf die heiße Ofenplatte.
+                  Auf das Geschrei des Kindes kam dessen Großmutter, eine 74jährige Frau,
+                     herbei, welche das Kind vom Ofen hinwegnehmen wollte.
+                  Der Blöde gab ihr jedoch einen wuchtigen Schlag über den Kopf, daß sie
+                     bewußtlos zusammenbrach, worauf er ihr mit einem Hammer die Hirnschale vollends
+                     zertrümmerte. Nach vollbrachter That verbarrikadirte er die Wirthsstube, ließ
+                     Niemanden ein und zerschlug die gesammte Einrichtung. Erst als zwei Gensdarmen
+                     kamen, öffnete er und ließ sich verhaften.
+                  Der Bauer, welcher den Blödsinnigen zum Trinken aufgefordert, wurde ebenfalls
+                     verhaftet.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

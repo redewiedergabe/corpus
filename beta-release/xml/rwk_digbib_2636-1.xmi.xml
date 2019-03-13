@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Silberwanze</title>
+             <author>Reventlow, Franziska Gräfin zu</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1917</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Silberwanze</f>
+         <f name="author">Reventlow, Franziska Gräfin zu</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Stundenlang irrten wir durch Gassen, an Bretterwänden, Winkeln und Zäunen entlang und kehrten endlich todmüde zurück. Die Haustür stand offen, aber es war niemand zu sehen. Ratlos tappten wir im Dunkeln herum und stießen in einer Ecke des Flurs auf einen schlafenden Hausknecht. <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Er</seg> wollte durchaus nicht aufstehen und <seg id="1" type="intExpr">sagte</seg>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">wir brauchten nur die Treppen hinaufgehen und die Zimmer selbst aussuchen.</said> Der Damenimitator ging mit einem Licht voran, aber in allen Betten lagen schon Leute. Bis wir zuletzt ein unbewohntes Gelaß mit vielen Betten und einem zerrissenen Ledersofa entdeckten. <seg id="2" type="frame" pos="start">Endgültig verzweifelt <seg id="2" type="intExpr">beschloß</seg> 
+               <seg id="2" type="speaker">man</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">hier zu biwakieren.</said> Die ganze Sache, vor allem die Leute, die wir in den anderen Zimmern gesehen, wirkte so unheimlich, daß es uns lieber war, zusammenzubleiben. Es wurde eine ungemütliche Nacht. Die einzige Kerze brannte bald herunter, und alle wälzten sich schlaflos. Zuletzt dämmerten wir doch noch ein, und es war schon Morgen, als 
+Frau Pollacek uns mit einem gellenden Schrei weckte. <seg id="16" type="frame" pos="start">Dann <seg id="16" type="intExpr">jammerte</seg> 
+               <seg id="16" type="speaker">sie</seg> halb im Schlaf vor sich hin</seg>
+            <said id="16" mode="indirect" content="speech" level="1"> – es sei nicht mehr zum Aushalten – hätte sie nur diese unselige Reise nicht unternommen</said> und so weiter...
+                  <said id="17" mode="indirect freeIndirect" content="speech" level="1">Ja, um Gottes willen, was denn los sei?</said> – <seg id="6" type="frame" pos="start">
+               <seg id="6" type="speaker">Sie</seg> 
+               <seg id="6" type="intExpr">ermunterte</seg> sich jetzt völlig:</seg>
+            <said id="6" mode="indirect" content="speech" level="1">Es habe sie etwas ganz Fürchterliches gestochen...</said> Damit stand sie auf und gebärdete sich wie eine Verzweifelte. Allgemeine Panik. <said id="7" mode="reported" content="speech" level="1">Der <seg id="7" type="speaker">Professor</seg> 
+               <seg id="7" type="intExpr">sprach</seg> von den in den Balkanländern vorkommenden Skorpionarten, die in größerer Anzahl selbst Erwachsenen gefährlich werden könnten.</said> Alle wurden blaß vor Schrecken, <seg id="8" type="frame" pos="start">nur der mutige <seg id="8" type="speaker">Damenimitator</seg> schritt zur Tat, untersuchte das eben verlassene Bett und <seg id="8" type="intExpr">konstatierte</seg>, nachdem er alle Decken auseinandergeschlagen hatte,</seg>
+            <said id="8" mode="indirect" content="speech" level="1">Skorpione in größerer Anzahl seien jedenfalls nicht vorhanden.</said> Uns fiel ein Stein vom Herzen. 
+                  Die junge Frau hatte sich inzwischen etwas beruhigt und war ebenfalls herangetreten. <seg id="9" type="frame" pos="start">Plötzlich <seg id="9" type="intExpr">schrie</seg> 
+               <seg id="9" type="speaker">sie</seg> wieder <seg id="9" type="intExpr">auf</seg>:</seg>
+            <said id="9" mode="direct" content="speech" level="1">»Da – schauen Sie her!«</said> 
+                  Alles drängte sich um das Bett, und nun erblickte man ein schimmerndes rundes Tier von der Größe einer mittleren Kaffeebohne, welches sich langsam den Bettrand entlang schob, und, als es die vielen forschenden Blicke auf sich gerichtet fühlte, sichtlich betreten stehen blieb. 
+                  Der Professor setzte seine Brille auf und suchte mittels eines Stückes Papier seiner habhaft zu werden. Es gelang. <seg id="10" type="frame" pos="start">Dann betrachtete <seg id="10" type="speaker">er</seg> es eingehend, schüttelte den Kopf und <seg id="10" type="intExpr">meinte</seg>,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">
+               <seg id="18" type="speaker">er</seg> fühle sich versucht, <said id="18"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">es als die gemeine Bettwanze, Cimex lectuarius, <seg id="18" type="intExpr">anzusprechen</seg>
+               </said>, nur was die silbergraue Färbung und die anscheinend durch den Biß hervorgerufene psychische Erregung beträfe, stehe er vor einem Rätsel.</said> 
+                  Es folgte nun eine Art naturwissenschaftlicher Sitzung. 
+                  
+                     
+Mit dem Schlafen war es sowieso vorbei, <said id="12" mode="reported" content="speech" level="1">
+               <seg id="12" type="speaker">man</seg> saß fröstelnd herum und <seg id="12" type="intExpr">besprach</seg> das Ereignis, <seg id="12" type="intExpr">tauschte</seg> Reiseabenteuer, Kenntnisse, Beobachtungen und Erlebnisse mit gewöhnlichen Wanzen aus, die ja in den südlichen Ländern keinem erspart bleiben – immerhin, ein Insekt wie dieses dem serbischen Boden entsprossene hatte noch keiner gesehen oder je davon gehört.</said> 
+                  Die Sonne stand schon am Himmel, <seg id="19" type="frame" pos="start">als der <seg id="19" type="speaker">Professor</seg> sich erhob und in einer längeren Rede <seg id="19" type="intExpr">erklärte</seg>,</seg>
+            <said id="19" mode="indirect" content="speech" level="1">
+               <said id="23" mode="reported" content="speech" level="2">
+                  <seg id="23" type="speaker">er</seg> 
+                  <seg id="23" type="intExpr">danke</seg> den verehrten Anwesenden herzlich für ihr Bestreben, an der Lösung des Problems mitzuwirken.</said>
+            </said>
+            <said id="20" mode="indirect freeIndirect" content="speech" level="1">Man sei demselben jedenfalls ein gutes Stück näher gekommen,<seg id="22" type="frame" pos="start"> und <seg id="22 15" type="speaker">er</seg> 
+                  <seg id="22" type="intExpr">beschließe</seg> daher,</seg> 
+               <said id="22" mode="indirect" content="speech" level="2">falls es uns recht sei, dem Tier, das seiner Ansicht nach eine wichtige Entdeckung bedeute, den Namen Cimex argentuus, zu deutsch Silberwanze, beizulegen und <said id="15"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">seiner Fakultät sofort <seg id="15" type="intExpr">Mitteilung</seg> darüber zu machen.
+
+</said>
+               </said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Lumpen und ihre Bedeutung.</title>
+             <author>Stumpff, Julius</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Lumpen und ihre Bedeutung.</f>
+         <f name="author">Stumpff, Julius</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Belgien produzirt 400,000 Ctr. Hadern, die Ein= und Ausfuhr
+                        hebt sich.
+            Norddeutschland produzirt 1,620,000 Ctr. Hadern, beschäftigt 16,000
+                        Sammler, verbraucht 2,100,000 Ctr. nebst 355,000 Ctr. Surrogate.
+            Süddeutschland produzirt 500,000 Ctr., Hadern, beschäftigt 5000 Sammler; Einfuhr 80--100,000 Ctr.
+            Oesterreich produzirt nur 1,000,000 Ctr. Hadern, davon noch 60,000
+                        Ctr. Ausfuhr.
+            Die Schweiz produzirt 125,000 Ctr. Hadern, Ein= und Ausfuhr hebt
+                        sich so ziemlich.
+            England produzirt bei 30 Millionen Einwohnern das bedeutende
+                        Quantum von 2,000,000 Ctr. Hadern, wozu noch 300,000 Ctr. Einfuhr
+                        kommt, und verbraucht außerdem noch 1,170,000 Ctr. Surrogate.
+            Spanien produzirt 500,000 Ctr. Hadern, 215,000 Ctr. gehen davon
+                        durch Schmuggel auswärts. Bei dem Hadersammeln sind 7000 Personen, und zwar meistentheils Frauen beschäftigt.
+            Portugal produzirt 105,000 Ctr. Hadern. Ausfuhr 41,000 Ctr. 1750
+                        Sammler.
+            Griechenland produzirt 25,000 Ctr. Hadern, welche sämmtlich nach
+                        England und Frankreich gehen. 400 Sammler.
+            Dänemark produzirt 64,000 Ctr. Ausfuhr 4000 Ctr. 600 Sammler.
+            Schweden und Norwegen produziren 135,000 Ctr. Hadern, der Norden
+                        geht der Sammlung fast ganz verloren, die Bevölkerung ist dort zu dünn.
+                        1100 Sammler. 10,000 Ctr. Ausfuhr.
+            Rußland produzirt nur 754,000 Ctr. Hadern. 54,000 Ctr. Ausfuhr.
+                        7000 Sammler.
+            Jtalien produzirt 600,000 Ctr. Hadern. 80,000 Ctr. Ausfuhr. 6000
+                        Sammler.
+            Die Türkei produzirt annähernd 36,000 Ctr. Hadern. Ausfuhr gegen
+                        30,000 Ctr. nach England und Frankreich.
+            Aegypten exportirt nicht unbedeutend nach England.
+            Amerika liefert verhältnißmäßig wenig Hadern; erstlich ist die Bevölkerung noch theilweise sehr licht, andernfalls sind die Löhne für Arbeiter
+                        sehr hoch, so daß das Sammeln nicht lohnend genug ist. Verbrauch
+                        4 1 / 4 Million Ctr., welche durch Einfuhr und Surrogate gedeckt werden.
+            Brasilien ist so wenig verdienstbedürftig, daß von seinen7 3 / 4 Millionen
+                        Einwohnern fast gar keine Hadern gesammelt werden; der Bedarf wird
+                        von Hamburg gedeckt.
+            In Summa werden in Europa jährlich circa 8 Millionen Ctr. Hadern, im Werth von 25 Mill. Thalern, gesammelt; dieses scheinbar werthlose Material gewinnt so schon in erster Linie durch das Sammeln eine große
+                        Bedeutung. Außer den Sammlern bestehen noch eine Menge Händler, so
+                        wie große Handlungshäuser, und sind letztere vorzüglich in Breslau,
+                        Berlin, Stettin, Danzig, Königsberg, Hamburg, Bremen, Lübeck und Triest
+                        anzutreffen.
+            Wenn man die Ein= und Ausfuhrlisten vergleicht, <seg id="2" type="frame" pos="start">so muß <seg id="2" type="speaker">man</seg> 
+               <seg id="2" type="intExpr">sich
+                        wundern</seg>,</seg>
+            <said id="2" mode="indirect" content="thought" level="1">wie der Verkehr sich kreuzt</said>, und mag wohl ein großer Theil zum
+                        Schmuggel dienen, besonders solche Sorten, die als Düngerhadern nicht in
+                        Papierfabriken gelangen. Da die drei hierbei am meisten interessirten
+                        Länder, England, Deutschland und Frankreich, an einem Ausgangszoll
+                        nur ein negatives Jnteresse haben können, derselbe aber den Verkehr
+                        erschwert und vertheuert, so ist eine gänzliche Freigebung des Verkehrs zu
+                        erwarten.
+            <seg id="3" type="frame" pos="start">Schließlich möchte <seg id="3" type="speaker">ich</seg> die geehrten Leserinnen noch darauf aufmerksam
+                        machen und <seg id="3" type="intExpr">bitten</seg>,</seg>
+            <said id="3" mode="indirect" content="writing" level="1">in ihren Haushaltungen darauf zu sehen, daß nicht allzuviel Hadernmaterial zu Grunde gehe.</said> So gingen früher durch das Zunderbrennen, ehe man noch die Streichhölzer kannte, Tausende von Centnern
+                        der besten leinenen Hadern der Papierfabrikation verloren, und leiden wir
+                        auch gegenwärtig nicht an Hadernmangel, so ist es doch auch nicht lange
+                        her, daß es so war; der Papierverbrauch steigt stetig, und haben wir die
+                        jetzige hadernbillige Zeit vorzüglich den Surrogaten, und ganz besonders
+                        dem Holzstoff zu verdanken.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

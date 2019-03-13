@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>17. Die drei Bälle</title>
+             <author>Kuhn, Adalbert</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1859</f>
+         <f name="decade">1850</f>
+         <f name="title">17. Die drei Bälle</f>
+         <f name="author">Kuhn, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="1" type="frame" pos="start">Angekommen vor dem Schloße der Königstochter war <seg id="1" type="speaker">er</seg> 
+               <seg id="1" type="intExpr">rathlos</seg>,</seg>
+            <said id="1"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was nun weiter zu thun sei.</said> Da treibt gerade der Schweinhirt aus. <seg id="2" type="frame" pos="start">Dem <seg id="2" type="intExpr">sagt</seg> 
+               <seg id="2 4" type="speaker">er</seg>:</seg>
+            <said id="2" mode="direct" content="speech" level="1">»Was soll ich dir geben, wenn du mich heute und noch zwei Tage die Schweine hüten läßt?«</said>
+            <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Hirt</seg> 
+               <seg id="3" type="intExpr">glaubte</seg> anfangs,</seg>
+            <said id="3" mode="indirect" content="thought" level="1">
+               <said id="4" mode="reported" content="speech" level="2">die <seg id="4" type="intExpr">Frage</seg>
+               </said> sei dem feinen Herrn Scherz.</said>
+            <seg id="5" type="frame" pos="start">Als <seg id="5" type="speaker">dieser</seg> aber <seg id="5" type="intExpr">betheuerte</seg>,</seg>
+            <said id="5" mode="indirect" content="speech" level="1">es wäre sein völliger Ernst</said>, <said id="6" mode="reported" content="speech" level="1">da wurden <seg id="6" type="speaker">sie</seg> bald <seg id="6" type="intExpr">einig</seg> um ein schönes Geschenk.</said> Der Prinz zog nun einen groben Kittel an, hütete am Vormittage die Schweine und spielte mittags im Sonnenschein mit seinem schönen silbernen Balle vor den Fenstern der Prinzessin. <seg id="7" type="frame" pos="start">
+               <seg id="7" type="speaker">Die</seg> sah ihm zu und <seg id="7" type="intExpr">schickte</seg> bald zu ihm,</seg>
+            <said id="7" mode="indirect" content="speech" level="1">wie viel er für den Ball haben wolle.</said>
+            <seg id="8" type="frame" pos="start">
+               <seg id="8" type="speaker">Er</seg> gab die <seg id="8" type="intExpr">Antwort</seg>:</seg>
+            <said id="8" mode="direct" content="speech" level="1">»Verkaufen thu' ich den Ball um keinen Preis; aber die Prinzeßin kann ihn verdienen, wenn sie eine Nacht ihr Bette mit mir theilt.«</said> Das wurde denn endlich angenommen. Aber die Stelle der Prinzeßin mußte eine Kammerjunfer vertreten. <said id="9"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Der <seg id="9" type="speaker">Prinz</seg> 
+               <seg id="9" type="intExpr">merkte</seg> das gleich</said>, lieferte jedoch am andern Morgen den Ball aus. Er ging nun wieder und hütete die Schweine, aber am Mittage sah man ihn mit einem goldenen Balle unter dem Fenster der Schönen spielen. <said id="10" mode="reported" content="speech" level="1">
+               <seg id="10" type="speaker">Sie</seg> 
+               <seg id="10" type="intExpr">begehrte</seg> auch diesen zu kaufen</said> und erhielt ihn unter der nämlichen Bedingung. Der vermeintliche Hirt wurde nun auf dieselbe Weise betrogen. Als er aber am dritten Mittage mit dem diamantenen Balle spielte, <said id="11" mode="reported" content="speech" level="1">und die <seg id="11" type="speaker">Prinzeßin</seg> auch den zu haben <seg id="11" type="intExpr">wünschte</seg>
+            </said>,<seg id="12" type="frame" pos="start"> 
+               <seg id="12" type="intExpr">erklärte</seg> 
+               <seg id="12" type="speaker">er</seg>:</seg>
+            <said id="12" mode="direct" content="speech" level="1">»Zweimal hat sie mich hintergangen; diesen Ball erhält sie durchaus nicht anders, als wenn sie selbst eine Nacht bei mir schläft.«</said> Anfangs wollte sie darauf nicht eingehen, <seg id="14" type="frame" pos="start">als aber ihre <seg id="14" type="speaker">Kammerjunfer</seg> 
+               <seg id="14" type="intExpr">sagte</seg>:</seg>
+            <said id="14" mode="direct" content="speech" level="1">»Thut es nur, Prinzeßin! Es gilt gleich, ob ihr diesen Mann bei euch im Bette habt, oder einen Klotz«</said>, <said id="15" mode="reported" content="speech" level="1">da <seg id="15" type="intExpr">sagte</seg> 
+               <seg id="15" type="speaker">sie</seg> zu</said>, hielt Wort und empfing den Ball. Der Schweinhirt bekam nun <said id="17" mode="reported" content="speech" level="1">das <seg id="17" type="intExpr">versprochene</seg> Geschenk.</said> Die Prinzeßin war aber nicht so wohlfeilen Kaufs zu dem kostbaren Balle gekommen, <said id="18" mode="reported" content="thought" level="1">wie <seg id="18" type="speaker">sie</seg> 
+               <seg id="18" type="intExpr">gedacht</seg> hatte.</said>
+            <said id="19" mode="reported" content="speech" level="1">Bald erfuhr das der Prinz durch den <seg id="19" type="speaker">Schweinhirten</seg>, <said id="25" mode="reported" content="speech" level="2">bei welchem <seg id="25" type="speaker">sie</seg> sich angelegentlich nach dem Gehülfen <seg id="25" type="intExpr">erkundigt</seg> hatte.</said>
+            </said>
+            <seg id="20" type="frame" pos="start">Da ging der <seg id="20" type="speaker">Prinz</seg> zu ihr und <seg id="20" type="intExpr">forderte</seg> sie <seg id="20" type="intExpr">auf</seg>,</seg>
+            <said id="20" mode="indirect" content="speech" level="1">sich von ihm in sein Vaterland entführen zu laßen.</said> Sie willigte ein. Während sie sich mit Gelde und Kleinodien versah, sorgte er heimlich für Wagen und Pferde. <said id="21"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">Darauf reisten sie ohne <seg id="21" type="intExpr">Wißen</seg> des <seg id="21" type="speaker">Vaters</seg> ab</said> und fuhren über das Waßer nach Deutschland. In der ersten Stadt angekommen, gab sich der Prinz abends ans Spielen und verspielte Kapp und Kugel, nur seine Frau nicht. <seg id="22" type="frame" pos="start">Als <seg id="22" type="speaker">er</seg> ihr dann <seg id="22" type="intExpr">sagte</seg>,</seg>
+            <said id="22" mode="indirect" content="speech" level="1">daß Wagen und Pferde und Geld fort wären</said>, fing sie an, bitterlich zu weinen. Sie mußten ihre Reise nun zu Fuß fortsetzen und sich ein Unterkommen suchen. Da kamen sie am Abend in eine Herberge und blieben daselbst ein paar Wochen. Als sie wieder abreisen wollten, <said id="23" mode="reported" content="speech" level="1">kam der <seg id="23" type="speaker">Wirth</seg> und <seg id="23" type="intExpr">forderte</seg> Bezahlung.</said>
+            <seg id="24" type="frame" pos="start">Der <seg id="24" type="speaker">Prinz</seg> 
+               <seg id="24" type="intExpr">erklärte</seg>,</seg>
+            <said id="24" mode="indirect" content="speech" level="1">er besäße so viel nicht.</said> Da ward der Wirth grob und behielt ihre Sachen zum Unterpfande. So verlor die Prinzeßin auch ihre drei Bälle, ihre Kleinode und besten Kleider.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Salzburg und die Tauernpässe</title>
+             <author>Kaemmel, Otto </author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Salzburg und die Tauernpässe</f>
+         <f name="author">Kaemmel, Otto </f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+
+In dieser aussichtsreichen Lage tritt Hof-Gastein hervor, der Hauptort des ganzen Tals
+                        (876 Meter), ein Marktflecken städtischen Charakters, das <said id="1"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  border="yes">„güldne Stadtl,"</said>
+            <seg id="1" type="frame" pos="end">wie er zur Zeit des Bergsegens <seg id="1" type="intExpr">hieß</seg>,</seg> aber wohl die älteste Niederlassung
+                        im Tale, denn schon 894 bestand hier eine Kirche <said id="2"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  border="yes">„zu unsrer lieben Frau am
+                        Gries,"</said> und 1223 erscheint sie als Pfarrkirche. Holzhäuser sind hier selten,
+                         
+               
+               vielmehr überwiegen große, massive, mehrstöckige Steinhauser, die, soweit sie
+                        in der Wölbung der einzelnen Stockwerke, namentlich des Erdgeschosses, in
+                        Laubengängen und Serpentinsäulen künstlerisch ausgestattet sind, in Tür- und
+                        Fenstergewänden, zuweilen auch in einem runden Ecktürmchen die Baukunst
+                        der Renaissance verraten, jetzt aber meist in Hotels verwandelt sind, wie der
+                        Goldne Adler, das Hotel Müller, die Blaue Traube. Denn hier saßen im sechzehnten Jahrhundert die reichen Bergherren, die Weitmoser, die Strochner, die
+                        Rosenberg, die Straffer, die Zotten von Neudegg, die Moser u. a., sie bauten
+                        sich damals auch ein stattliches Gewerkenhaus mit zwei runden Ecktürmchen, das
+                        jetzige Militärkrankenhaus am südlichen Ausgange des Ortes, und einer von
+                        ihnen, Christoph Weitmoser, der eine Goldgrube mit 100 Talern anfing und
+                        dann jeder seiner vier Töchter 75000 Taler mitgab (gest. 1558), errichtete sich
+                        sogar das „Weitmoserschlössel," dessen hohes Dach zwischen zwei runden Türmen
+                        von der Westseite des Tals auf Hof-Gastein herniederschaut. Künstlerisch haben
+                        diese Bergherren auch ihre Leichensteine an der Mauer der alten spitztürmigen
+                        Kirche mitten im Orte ausstatten lassen; <said id="6" mode="reported" content="writing" level="1">in rotem Marmor sind Namen und
+                        Familienwappen zierlich <seg id="6" type="intExpr">gemeißelt</seg>
+            </said>, <said id="7" mode="reported" content="writing" level="1">und auf den meisten steht darunter ein
+                        <seg id="7" type="intExpr">Spruch</seg> aus Luthers Bibelübersetzung.</said> Denn die Männer, denen sie gesetzt
+                        wurden, waren selbständige Köpfe; wie sie über die gemeine Notdurft hinaus
+                        der künstlerischen Bewegung folgten, die auf den ihnen so wohl bekannten Bergpfaden aus Italien herüberflutete, so nahmen sie auch die Lehre des großen
+                        Bergmannssohns an, die von norddeutschen, namentlich sächsischen Bergknappen
+                        getragen in ihr weltfernes und doch so verkehrsreiches Bergtal drang; sie
+                        haben, <said id="8" mode="reported" content="speech" level="1">
+               <seg id="8" type="speaker">seiner</seg> 
+               <seg id="8" type="intExpr">Mahnung</seg>
+            </said> folgend, sogar eine Zeit lang eine lateinische Schule
+                        für ihre Söhne unterhalten, und Erasmus Weitmoser war einer der Führer
+                        des salzburgischen Bauernkriegs, der weit mehr als ein Bauernkrieg war, ein
+                        Freiheitskampf gegen die erzbischöfliche Herrschaft. Doch der Protestantismus
+                        des Tales wurde niedergetreten, die überzeugungstreuesten Lutheraner wanderten
+                        allmählich aus, noch im Jahre 1731 ihrer gegen tausend, und heute sind die
+                        Grabsteine der alten lutherischen Bergherren auch die Grabsteine des Gasteiner
+                        Protestantismus. Aber mit dem Ende des sechzehnten Jahrhunderts schwand
+                        auch der reiche Bergsegen; heute erinnert an ihn nur noch das Wappen von
+                        Hof-Gastein, Schlegel und Bohrer im goldnen und silbernen Felde. Was der
+                        Markt mit seinen 800 bis 900 Einwohnern jetzt noch ist, das verdankt er der
+                        Röhrenleitung, die seit 1828 das Thermalwasser von Wildbad Gastein hierher
+                        führt. Seitdem sind zahlreiche Miet- und Badehäuser auch in Hof-Gastein
+                        entstanden. Ladislaus Pyrker, Erzbischof von Erlau in Ungarn (1827 bis 1847),
+                        hat das ehemalige Gewerkenhaus 1832 in ein Militärhospital verwandelt und
+                        saluti milium geweiht, und schräg gegenüber hat noch 1872 der Berliner
+                        Bankier Magnus Hermann ein kleineres Haus demselben Zwecke bestimmt. Was
+                        Hof-Gastein als Badeort fehlt, das sind schattige Spaziergänge, denn das Tal
+                        ist hier weit und sonnig.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

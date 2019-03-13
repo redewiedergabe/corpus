@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Freier</title>
+             <author>Christ, Lena</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Freier</f>
+         <f name="author">Christ, Lena</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     Denn die Moserkälber sind gar berühmt weit und
+                        breit!
+                     <seg id="1" type="frame" pos="start">Nur so nebenbei <seg id="1" type="intExpr">meint</seg> 
+               <seg id="1" type="speaker">er</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">»Der wird jetz hübsch überlaufa werdn,
+                        der Moserbauer.
+                     Zwegn dee Weibsbilder, moan i.«</said> 
+                  
+                  
+                     Jetzt sind es die <seg id="2" type="speaker">anderen</seg>, die sich unwissend stellen.
+                     <said id="2" mode="direct" content="speech" level="1">»Warum zwegn dee Weibsbilder?
+                     – Ja so – zwegn eahnan Heiratsguat.
+                     No ja – mei – der oa möcht die und der ander die ...«</said> 
+                  
+                  
+                     
+                         Die Unterhaltung gerät ins Stocken, denn
+                        die Nanndl spannt auf einen Pfiff ihres Vaters hin die Ochsen aus und weist
+                        sie in den Stall.
+                     Und die Mirl steigt vom Heuboden herab und geht ins Haus, <seg id="3" type="frame" pos="start">indem
+                        <seg id="3" type="speaker">sie</seg> die Angekommenen mit einem züchtigen</seg>
+            <said id="3" mode="direct" content="speech" level="1">»'ß Good beinand«</said>
+            <seg id="3" type="frame" pos="end">
+               <seg id="3" type="intExpr">begrüßt</seg>.</seg>
+                  
+                  
+                     Derweil tritt auch der Moserbauer aus der Tenne und sieht die
+                        Leut.
+                  
+                  
+                     <seg id="5" type="frame" pos="start">
+               <seg id="5 4" type="speaker">Er</seg> geht bedächtig auf sie zu, <said id="4"
+                     mode="reported"
+                     content="speech"
+                     level="1"
+                     border="yes">
+                  <seg id="4" type="intExpr">hört</seg> 
+                  <seg id="4" type="intExpr">sich</seg> ihren Gruß und ihre
+                        Wünsche <seg id="4" type="intExpr">an</seg>
+               </said> und <seg id="5" type="intExpr">sagt</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">»Hübsch Schnee ham mir wieder kriagt, ja.
+                     Is aber recht.
+                     Nachher tuat eahm der Frost net so viel – an Troad ...«</said>
+            <said id="6" mode="direct" content="speech" level="1">»Hast an Samawoaz für mi?«</said>
+            <seg id="6" type="frame" pos="end">
+               <seg id="6" type="intExpr">fragt</seg>, ihn unterbrechend, der <seg id="6" type="speaker">Michel</seg>
+                        von Au.</seg>
+                     Denn er ist der Ungestümste von allen Freiern.
+                  
+                  
+                     Doch der Moserbauer ist nicht auf den Kopf gefallen.
+                     <seg id="7" type="frame" pos="start">
+               <seg id="7" type="speaker">Er</seg> 
+               <seg id="7" type="intExpr">weiß</seg> genau,</seg>
+            <said id="7"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">was der ander will.</said>
+            <said id="8" mode="direct" content="speech" level="1">»Wieviel Tagwerk möchst denn anbaun damit?«</said>
+            <seg id="8" type="frame" pos="end">
+               <seg id="8" type="intExpr">fragt</seg> 
+               <seg id="8 10" type="speaker">er</seg>.</seg>
+            <said id="9" mode="direct" content="speech" level="1">»Fuchzehne«</said>
+            <seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">sagt</seg> der <seg id="9" type="speaker">Michel</seg> arglos.</seg>
+            <said id="10" mode="direct" content="speech" level="1">»Baust mehra Korn?
+                     Oder hast a Tagwerk Mischling aa im Sinn?«</said> 
+                  
+                  
+                     Je nun.
+                     <said id="11" mode="reported" content="speech" level="1">Auf solche Fragen <seg id="11" type="intExpr">sagt</seg> 
+               <seg id="11" type="speaker">jeder</seg> die Wahrheit.</said>
+            <seg id="12" type="frame" pos="start">Und so erfährt der Moser,</seg>
+            <said id="12"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  border="yes">daß man beim Schneithuber so an die
+                        zwanzig Tagwerk Korn, fünf bis sechs Tagwerk Mischling und etwa zwanzig
+                        Tagwerk Haber anbaut.</said>
+                     Erdäpfel gibt's auf zwölf Tagwerk Land.
+                  
+                  
+                     <seg id="13" type="frame" pos="start">Und der <seg id="13" type="speaker">Alte</seg> 
+               <seg id="13" type="intExpr">rechnet</seg> im Kopf:</seg>
+            <said id="13" mode="direct" content="thought" level="1">»Fuchzehne – fünfadreißg – vierzg
+                        – sechzg – siebazg.
+                     Und Wiesen ... aha.
+                     Wird er leicht so hundert Tagwerk stark sein.«</said>
+            <seg id="14" type="speaker">Er</seg> mustert genau den Anzug vom Michel.
+                     <said id="14" mode="freeIndirect" content="thought" level="1">Er wär' gar nicht übel; gutes Tuch – der Mantel schwer – die
+                        Stiefel vom Bauernschuster gemacht – keine Stadtware.</said>
+            <said id="15" mode="direct" content="speech" level="1">»Alsdann, i will schaugn«</said>
+            <seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">sagt</seg> 
+               <seg id="15" type="speaker">er</seg> langsam,</seg>
+            <said id="15" mode="direct" content="speech" level="1">»ob i dir no a paar
+                        Zentner gebn kann.
+                     Geh eine in d' Stubn derweil und hock di a weng nieder.«</said>
+            <said id="16" mode="direct" content="thought" level="1">»Ja, Herrgott!
+                     Das schaut ja schier aus, als täts was werden!«</said>
+            <seg id="16" type="frame" pos="end">
+               <seg id="16" type="intExpr">denkt</seg>
+                        schmunzelnd der <seg id="16" type="speaker">Michel</seg>.</seg>
+            <said id="17" mode="reported" content="thought" level="1">Und die <seg id="17" type="speaker">andern</seg> 
+               <seg id="17" type="intExpr">denken</seg> zähneknirschend dasselbe.</said>
+                  
+                  
+                     Der Schweigerlenz aber kann sich nicht mehr beherrschen.
+                     Er vergißt ganz auf sein Stierkalb und auf die angestammte
+                        Bauernschlauheit.
+                  
+                  
+                     <said id="18" mode="direct" content="speech" level="1">»Daß d' jetz du den Pfennigfuchser zu an Tochtermo nehma magst!«</said>
+            <seg id="18" type="frame" pos="end">
+               <seg id="18" type="intExpr">sagt</seg> 
+               <seg id="18 19" type="speaker">er</seg>.</seg>
+            <said id="19" mode="direct" content="speech" level="1">»Da gäbs do wirkli no andere aa, die für a deinigs Dirndl
+                        passetn.
+                     Schaug mi o!
+                     Der oanzige Bua, hundertfuchzg Tagwerk und vierzg Stuck Vieh im
+                        Stall!
+                     Und schuldenfrei!
+                     Durft si a jede d' Finger bis zu dee Ellabogn abschlecka, bal s'
+                        mi kriagn kunnt!«</said>
+            <said id="20" mode="freeIndirect" content="thought" level="1">Au weh, Lenz!
+                     Diesmal hast du zu weit geschossen!</said>
+                     Der Moserbauer lacht bloß.
+                     Und schüttelt den Kopf.
+                     <said id="21" mode="reported" content="speech" level="1">Das <seg id="21" type="intExpr">Antworten</seg> aber besorgen die <seg id="21" type="speaker">beiden Reiserbuben</seg>.</said>
+            <said id="22" mode="direct" content="speech" level="1">»Ja, da schaug her!«</said>
+            <seg id="22" type="frame" pos="end">
+               <seg id="22" type="intExpr">meint</seg> der <seg id="22 23" type="speaker">eine</seg>.</seg>
+            <said id="23" mode="direct" content="speech" level="1">»A solchener ist mir aa no net vürkemma, der si selber anfeilt
+                        wie der billige Jakob sei Kraxenglump!«</said>
+            <seg id="24" type="frame" pos="start">Und der <seg id="24 25" type="speaker">andere</seg> 
+               <seg id="24" type="intExpr">fügt bei</seg>:</seg>
+            <said id="24" mode="direct" content="speech" level="1">»<said id="26"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">
+                  <said id="27"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">Und vom Fingerabschlecka <seg id="27" type="intExpr">is</seg> beim
+                        Moserbauern seine Töchter überhaupts koa <seg id="27" type="intExpr">Red</seg>
+                  </said>
+               </said>
+               <seg id="26" type="frame" pos="end">, dees <seg id="26" type="intExpr">mirkst</seg> 
+                  <seg id="26" type="speaker">dir</seg>!</seg>
+                     Die Arbeit derfst scho du selber macha!«</said>
+            <said id="25" mode="reported" content="speech" level="1">Solche <seg id="25" type="intExpr">Worte</seg>
+            </said> sind keine schöne Musik für den
+                        Lenz und auch kein Schlafpülverlein.
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

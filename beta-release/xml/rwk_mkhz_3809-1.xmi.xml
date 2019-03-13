@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+
+Zu Art. 14.: <said id="1" mode="direct" content="writing" level="1">„Die öffentliche Schuld wird garantirt,“</said>
+            <said id="20" mode="reported" content="speech" level="1">
+               <seg id="20" type="intExpr">beantragte</seg> 
+               <seg id="20 1 3" type="speaker">Hr. Pongeard</seg> als Amendement <seg id="3" type="frame" pos="start">den <seg id="3" type="intExpr">Zusatz</seg>:</seg>
+            </said>
+            <said id="3" mode="direct" content="writing" level="1">„Jede Art
+                        von Verpflichtung, welche der Staat gegen seine Gläubiger übernommen, ist unverletzlich“</said> und der Artikel wurde mit diesem von
+                        der Commission genehmigten Amendement angenommen. <said id="21" mode="reported" content="speech" level="1">Zu Art.
+                        15. in Betreff der Steuern <seg id="21" type="intExpr">beantragte</seg> 
+               <seg id="21 6" type="speaker">Hr. Person</seg> 
+               <seg id="6" type="frame" pos="start">folgendes
+                        <seg id="6" type="intExpr">Amendement</seg>:</seg>
+            </said>
+            <said id="6" mode="direct" content="writing" level="1">„Jede Steuer wird zum allgemeinen Nutzen auferlegt. Jedes Einkommen ist der Steuer unterworfen. Jede Steuer
+                        steht im Verhältnisse zum Einkommen. Jeder Bürger schuldet
+                        eine persönliche Steuer.“</said>
+            <said id="7" mode="reported" content="speech" level="1">Es entspann sich eine lange <seg id="7" type="intExpr">Erörterung</seg>
+                        über fortschreitende Besteuerung und indirecte Steuern</said>, die jedoch
+                        bis zum Schlusse der <seg id="7" type="speaker">Sitzung</seg> zu keinem Ergebnisse führte.
+            
+               * * * Paris 23. September. Die gestrige <seg id="8" type="speaker">Sitzung</seg> sollte mit
+                        Unterbrechung <said id="8" mode="reported" content="speech" level="1">der <seg id="8" type="intExpr">Berathung</seg> über die Constitution wichtigen materiellen Fragen</said> gewidmet seyn und die Kammer hatte eben sechs
+                        Millionen für Anlegung von Vicinalwegen, die zur Hebung des
+                        Ackerbaues so wichtig sind, bewilligt, -- <said id="10" mode="reported" content="speech writing" level="1">als auf einmal eine <seg id="10" type="intExpr">Jnterpellation</seg> an das Ministerium dazwischentrat.</said> Jch muß hier,
+                        um Jhnen dieselbe klar zu machen, einiges Andere einflechten.
+                        Betrachten Sie alle Parteien, in welche das gegenwärtige Frankreich zerfällt, Bonapartisten, Legitimisten, Philippisten, Socialisten
+                        und rothe Republikaner, so werden sie bei allen diesen, so haltlos
+                        sie auch an und für sich seyn mögen, immerhin eine Jdee finden,
+                        womit sie auf die Massen einwirken, und wenn der Bonapartist
+                        den militärischen Ruhm und Glanz der Kaiserzeit, der Legitimist
+                        die Herrlichkeit der alten Zeit, wo jeder <seg id="11" type="speaker">Bauer</seg> ein Huhn im Topf
+                        hatte und <said id="11" mode="reported" content="speech" level="1">die Herzensgüte und Redlichkeit der gefallenen Dynastie
+                        <seg id="11" type="intExpr">preist</seg>
+            </said>, wenn der Philippist als Ritter der Jndustrie und des materiellen Wohlstandes auftritt, <said id="12" mode="reported" content="speech" level="1">wenn der <seg id="12" type="speaker">Socialist</seg> dem Volke goldene
+                        Berge <seg id="12" type="intExpr">verspricht</seg>
+            </said> und der Rothrepublikaner Wuth und Rache gegen
+                        alles Bestehende schnaubt, -- so können alle diese Leute mit ihrer handgreiflichen Weisheit auf einen gewissen Anhang unter den Massen zählen. Anders aber ist es mit der gegenwärtigen Republik, die im Grunde weiter nichts als die Regierung einer in
+                        lauter abstracten Dingen herumtappenden Journalistenschule ist,
+                        die ihre Jdeale in Athen, Sparta und Rom sucht. Athen und
+                        Sparta liegen aber trotz der Universität der gegenwärtigen Generation sehr fern und so kommt es, daß die Republik, die
+                        honette Republik, die Massen so kalt läßt, wie ein mythologisches Bild von Davi oder eine Götterstatüe aus irgend einer
+                        akademischen Schule, zumal da die neue Regierungsform unseren
+                        guten Franzosen noch weiter nichts gebracht hat als schwere
+                        Noth die Menge und große Kosten. Das allgemeine Gefühl in
+                        Frankreich ist in Folge von alle dem jetzt -- Unbehaglichkeit, die
+                        sich <said id="22" mode="reported" content="speech" level="1">in allerlei <seg id="22" type="intExpr">Gerüchten</seg>
+            </said> vorläufig Luft zu machen sucht. So circulirten dieser Tage zwei neue Ministerlisten, von denen die eine sich
+                        mehr den Philippisten, die andere mehr dem Berge nähert; <seg id="14" type="frame" pos="start">wieder
+                        <seg id="14" type="intExpr">hieß</seg> es,</seg>
+            <said id="14" mode="indirect" content="speech" level="1">
+               <said id="23"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Cavaignac solle, um schnell zu einer gewissen Ordnung
+                        zu kommen, von der <seg id="23" type="speaker">Nationalversammlung</seg> zum Präsidenten
+                        <seg id="23" type="intExpr">ausgerufen</seg> werden</said>
+            </said>, und <said id="16" mode="reported" content="speech writing" level="1">gestern brachte <seg id="16 18" type="speaker">Herr Sauteyra</seg> seine <seg id="16" type="intExpr">Jnterpellation</seg>
+            </said>, das heißt, <seg id="17" type="frame" pos="start">
+               <seg id="17" type="speaker">er</seg> 
+               <seg id="17" type="intExpr">klagte</seg>:</seg>
+            <said id="17" mode="indirect" content="speech" level="1">im Lande herrschten Unruhe
+                        und Befürchtungen aller Art, alle Parteien sollten doch ihres
+                        Privathaders vergessen und aufrichtig an Republik und Regierung sich anschließen.</said>
+            <said id="18" mode="indirect freeIndirect" content="speech" level="1">Was die Regierung unter den obwaltenden
+                        Umständen zu thun gedenke?</said>
+            <seg id="19" type="frame" pos="start">
+               <seg id="19" type="speaker">Cavaignac</seg> 
+               <seg id="19" type="intExpr">antwortete</seg> tröstend:</seg>
+            <said id="19" mode="indirect" content="speech" level="1">Wolken seyen allerdings dagewesen, allein sie hätten sich wieder
+                        zerstreut, alle guten Bürger möchten um die republikanische Fahne
+                        sich schaaren und dort sich brüderlich die Hand reichen.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

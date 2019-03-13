@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Mantel</title>
+             <author>Gogol, Nikolaj Vasilevič</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Mantel</f>
+         <f name="author">Gogol, Nikolaj Vasilevič</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Er hätte es sich vollkommen sparen können, soviel Energie an den Tag zu legen, denn die zehn Beamten, die seinem Befehl zu gehorchen hatten, fürchteten ihn ohnehin schon genug. Sowie sie ihn von fern kommen sahen, beeilten sie sich, ihre Federn hinzulegen, und sprangen herbei, um sich respektvoll dort, wo er vorüberkam, aufzustellen. <said id="2" mode="reported" content="speech" level="1">In den <seg id="2" type="intExpr">Gesprächen</seg> mit <seg id="2" type="speaker">seinen</seg> 
+               <seg id="2" type="speaker">Untergebenen</seg>
+            </said> beobachtete <seg id="3" type="speaker">er</seg> eine stolze, erhabene Haltung <seg id="3" type="frame" pos="start">und <seg id="3" type="intExpr">sagte</seg> kaum etwas anderes als die Worte:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Was wollen Sie? <seg id="25" type="frame" pos="start">
+                  <seg id="25" type="intExpr">Wissen</seg> 
+                  <seg id="25" type="speaker">Sie</seg> auch,</seg> 
+               <said id="25"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">mit wem Sie reden?</said> 
+               <seg id="26" type="frame" pos="start">
+                  <seg id="26" type="intExpr">Bedenken</seg> 
+                  <seg id="26" type="speaker">Sie</seg> auch,</seg> 
+               <said id="26"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">wer vor Ihnen steht?</said>«</said> 
+                  Im übrigen war er ein gutmütiger Mensch, freundlich und liebenswürdig gegen seine Freunde. Nur hatte ihm der Generalstitel den Kopf verdreht. Seit dem Tage, da er ihm beigelegt worden, lebte er den größten Teil des Tages in einer Art Schwindel; bei seinesgleichen jedoch gewann er wieder das Gleichgewicht, und dann ließ sich nicht verkennen, daß es ihm in mehr als einer Beziehung nicht an Liebenswürdigkeit fehlte. Aber sobald er sich in einer Gesellschaft mit einer Persönlichkeit zusammenfand, die einen geringeren Rang bekleidete als er, verschanzte er sich hinter eine strenge Schweigsamkeit, und diese Lage war ihm um so peinlicher, <seg id="20" type="frame" pos="start">als <seg id="20" type="speaker">er</seg> sehr wohl <seg id="20" type="intExpr">fühlte</seg>,</seg>
+            <said id="20"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß er seine Zeit eigentlich angenehmer verleben konnte.</said>
+            <seg id="6" type="frame" pos="start">
+               <seg id="6" type="speaker">Allen</seg>, die ihn in einem solchen Augenblick beobachteten, war es <seg id="6" type="intExpr">unzweifelhaft</seg>,</seg>
+            <said id="6"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß <seg id="21 22" type="speaker">er</seg> vor Verlangen brannte, <said id="21"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">sich an einer interessanten <seg id="21" type="intExpr">Unterhaltung</seg> zu beteiligen</said>
+            </said>, <seg id="22" type="frame" pos="start">aber die <seg id="22" type="intExpr">Furcht</seg>,</seg>
+            <said id="22"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">irgendwelche unvorsichtige Zuvorkommenheit an den Tag zu legen, zu vertraulich zu erscheinen und dadurch seine Würde schwer zu schädigen</said>, hielt ihn zurück. Um sich einer solchen Gefahr zu entziehen, bewahrte <seg id="7" type="speaker">er</seg> eine außerordentliche Zurückhaltung und <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="intExpr">sprach</seg> nur von Zeit zu Zeit irgendein einsilbiges Wort.</said> Kurz, er hatte es so weit gebracht, <said id="8"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">daß <seg id="8" type="speaker">man</seg> ihn den Langweiligen <seg id="8" type="intExpr">nannte</seg>
+            </said>, und diesen Titel hatte er durchaus verdient. 
+                  So war die Persönlichkeit, deren Hilfe der bescheidene Akaki in Anspruch nehmen sollte. Der Augenblick, in dem er seinen Schritt unternahm, schien ganz besonders dazu ausersehen, der Eitelkeit des Generals zu schmeicheln, und mußte doch zugleich der Sache des Titularrats günstig sein. 
+                  Die hohe <seg id="23" type="speaker">Persönlichkeit</seg> befand sich in ihrem Kabinett und <said id="23" mode="reported" content="speech" level="1">
+               <seg id="23" type="intExpr">plauderte</seg> fröhlich mit einem alten Freunde</said>, den er seit mehreren Jahren nicht gesehen hatte, <seg id="9" type="frame" pos="start">als ihm <seg id="9" type="intExpr">gemeldet</seg> wurde,</seg>
+            <said id="9" mode="indirect" content="speech" level="1">daß <seg id="10" type="frame" pos="start">ein <seg id="10" type="speaker">Herr Baschmatschkin</seg> um die Ehre <seg id="10" type="intExpr">bitte</seg>,</seg> 
+               <said id="10" mode="indirect" content="speech" level="2">bei Seiner Exzellenz vorgelassen zu werden.</said>
+            </said>
+            <said id="11" mode="direct" content="speech" level="1">»Wer ist der Mann?«</said>
+            <seg id="11" type="frame" pos="end">
+               <seg id="11" type="intExpr">fragte</seg> die hohe <seg id="11 13" type="speaker">Persönlichkeit</seg> in verächtlichem Tone.</seg>
+            <said id="12" mode="direct" content="speech" level="1">»Ein Beamter«</said>
+            <seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">antwortete</seg> der <seg id="12" type="speaker">Bote</seg>.</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Soll warten! Habe jetzt keine Zeit, ihn zu empfangen.«</said>
+            <said id="14" mode="reported" content="speech" level="1">Der edle <seg id="14" type="speaker">Beamte</seg> 
+               <seg id="14" type="intExpr">log</seg>
+            </said>, es hinderte ihn gar nichts, die verlangte Audienz zu gewähren. <said id="15" mode="reported" content="speech" level="1">Sein <seg id="15" type="speaker">Freund</seg> und <seg id="15" type="speaker">er</seg> hatten bereits verschiedene <seg id="15" type="intExpr">Gesprächsstoffe</seg> völlig erschöpft.</said>
+            <seg id="16" type="frame" pos="start">Schon mehr als einmal waren lange Gesprächspausen eingetreten, in denen sie sich leicht auf die Schultern geklopft mit den <seg id="16" type="intExpr">Worten</seg>:</seg>
+            <said id="16" mode="direct" content="speech" level="1">»So also war es, mein Lieber.«</said> – <said id="17" mode="direct" content="speech" level="1">»Jawohl, Stephan.«</said>
+            <said id="24" mode="reported" content="speech" level="1">Aber der <seg id="24" type="speaker">General</seg> 
+               <seg id="24" type="intExpr">weigerte</seg> sich, den Bittsteller zu empfangen</said>, um seinem Freunde, der den Dienst quittiert hatte und auf dem Lande lebte, seine Bedeutung als General zu beweisen und um ihm zu zeigen, daß die Beamten im Vorzimmer warten müßten, bis es ihm beliebe, sie zu empfangen. 
+                  Endlich, <said id="18" mode="reported" content="speech" level="1">nachdem <seg id="18" type="speaker">sie</seg> noch verschiedene andere <seg id="18" type="intExpr">Dialoge</seg> geführt</said> und noch einige weitere Pausen überstanden hatten, während derer die beiden Freunde sich in ihren Sesseln zurückgelehnt und den Zigarrenrauch in die Luft geblasen hatten, <seg id="19" type="frame" pos="start">schien der <seg id="19" type="speaker">General</seg> sich plötzlich zu <seg id="19" type="intExpr">erinnern</seg>,</seg>
+            <said id="19" mode="indirect" content="thought" level="1">daß man ihn um eine Audienz ersucht habe.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

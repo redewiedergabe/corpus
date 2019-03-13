@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Schutzimpfung</title>
+             <author>Wedekind, Frank</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Die Schutzimpfung</f>
+         <f name="author">Wedekind, Frank</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">
+               <said id="2" mode="reported" content="speech" level="2">
+                  <seg id="2" type="speaker">Ich</seg> 
+                  <seg id="2" type="intExpr">danke</seg> dir bestens für deine Einladung.</said>«</said>
+            <said id="4" mode="reported" content="speech" level="1">
+               <seg id="4 1" type="speaker">Er</seg> machte noch einige wohlgemeinte, jovial-scherzhafte <seg id="4" type="intExpr">Bemerkungen</seg>
+            </said> und verließ darauf das Zimmer. Ich blieb wie angewurzelt stehen, bis ich seine Schritte unten im Hausgang verhallen hörte. 
+                  <seg id="6" type="speaker">Ich</seg> will es mir ersparen, <said id="6"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">den entsetzlichen Zustand von Wut und Verzweiflung zu <seg id="6" type="intExpr">schildern</seg>, in dem sich die bedauernswürdige Frau nach dieser Szene befand.</said> Sie war seelisch wie aus den Fugen gegangen und gab mir Beweise von Haß und Verachtung, wie ich sie nie in meinem Leben empfangen habe. Während sie sich hastig ankleidete, <seg id="9" type="frame" pos="start">
+               <seg id="9" type="intExpr">bedrohte</seg> 
+               <seg id="9 12" type="speaker">sie</seg> mich damit,</seg>
+            <said id="9" mode="indirect" content="speech" level="1">mir ins Gesicht zu spucken.</said>
+            <seg id="10" type="speaker">Ich</seg> verzichtete natürlich auf jeden Versuch, mich zu verteidigen. 
+                  <said id="10" mode="direct" content="speech" level="1">»<said id="11"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     prag="yes">Wohin <seg id="11" type="intExpr">denkst</seg> 
+                  <seg id="11" type="speaker">du</seg> denn jetzt zu gehen?</said>«</said>
+            <said id="12" mode="direct" content="speech" level="1">»<said id="13"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">
+                  <seg id="13" type="speaker">Ich</seg> 
+                  <seg id="13" type="intExpr">weiß</seg> nicht</said> – – ins Wasser – – nach Hause – – oder auch zu Brüchmanns – um zu sehen, wie es deren Jüngsten geht. – <said id="14"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">
+                  <seg id="14" type="speaker">Ich</seg> 
+                  <seg id="14" type="intExpr">weiß</seg> es nicht.</said>«</said> 
+                  – – Am Mittag gegen zwei Uhr saßen wir zusammen unter den schattigen Kastanienbäumen neben dem Gasthof zur Post in Ebenhausen, Röbel, Schletter, mein Freund und ich, und erlabten uns an gebratenen Hühnern und hellschimmerndem saftigen Kopfsalat. Mein Freund, dessen Seelenzustand ich argwöhnisch beobachtete, beruhigte mich durch die ganz außergewöhnlich fröhliche Laune, in der er sich befand. <seg id="16" type="frame" pos="start">
+               <seg id="16 17" type="speaker">Er</seg> warf mir scherzhaft treffende Blicke zu und rieb sich siegreich schmunzelnd die Hände, ohne indessen zu <seg id="16" type="intExpr">verraten</seg>,</seg>
+            <said id="16"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <said id="17" mode="reported" content="thought" level="2">was sein Inneres so froh <seg id="17" type="intExpr">bewegte</seg>.</said>
+            </said> Die Tour verlief ohne weitere Störung, und gegen zehn Uhr abends waren mir wieder in der Stadt. Am Bahnhof angekommen, <said id="18" mode="reported" content="speech" level="1">
+               <seg id="18" type="intExpr">verabredeten</seg> 
+               <seg id="18" type="speaker">wir</seg> uns in ein Bierlokal.</said>
+            <said id="19" mode="direct" content="speech" level="1">»<seg id="20" type="frame" pos="start">
+                  <seg id="20" type="intExpr">Erlaubt</seg> mir nur</seg>«</said>, <seg id="19" type="frame" pos="mid">
+               <seg id="19" type="intExpr">sagte</seg> mein <seg id="19" type="speaker">Freund</seg>,</seg>
+            <said id="19" mode="direct" content="speech" level="1">»<said id="20"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß ich eben nach Hause gehe und meine Frau hole.</said> Sie hat den ganzen schönen Tag bei dem kranken Kinde gesessen und würde es uns übelnehmen, wenn wir sie nun den Abend zu Hause allein verbringen lassen.«</said> 
+                  Bald darauf kam er mit ihr in den verabredeten Garten. <said id="23" mode="reported" content="speech" level="1">Das <seg id="23" type="intExpr">Gespräch</seg> drehte sich natürlich um die überstandene Tour</said>, <said id="25" mode="reported" content="speech" level="1">deren Ereignislosigkeit von allen <seg id="25" type="speaker">Teilnehmern</seg> nach Kräften zu <seg id="25" type="intExpr">erzählungswürdigen</seg> Abenteuern aufgebauscht wurde.</said>
+            <said id="27" mode="reported" content="speech" level="1">Die junge <seg id="27" type="speaker">Frau</seg> war etwas <seg id="27" type="intExpr">wortkarg</seg>
+            </said>, etwas betreten und würdigte mich keines Blickes. Er hingegen trug noch mehr als während des Nachmittags in seinem jovialen Gesicht jenes für mich so rätselhafte Siegesbewußtsein zur Schau. Seine überlegenen, triumphierenden Blicke galten jetzt aber mehr seiner versonnen dasitzenden Gattin als mir. Es war nicht anders, als hätte er irgendeine innere, ihn tief beseligende Genugtuung erfahren. 
+                  Erst einen Monat später, als ich mit der jungen <seg id="32" type="speaker">Frau</seg> zum erstenmal wieder allein war, klärte sich mir dieses Rätsel auf. <said id="32" mode="reported" content="speech" level="1">Nachdem ich noch einmal die heftigsten <seg id="32" type="intExpr">Vorwürfe</seg> über mich hatte ergehen lassen müssen</said>, war eine oberflächliche Versöhnung erfolgt, <seg id="35" type="frame" pos="start">nach deren mühevollem Zustandekommen <seg id="35" type="speaker">sie</seg> mir <seg id="35" type="intExpr">anvertraute</seg>,</seg>
+            <seg id="38" type="frame" pos="start">
+               <said id="35" mode="indirect" content="speech" level="1">wie ihr <seg id="38 36" type="speaker">Mann</seg>, als sie am Abend jenes Tages zu Hause mit ihm allein war, <said id="36" mode="reported" content="speech" level="2">ihr mit verschränkten Armen folgenden <seg id="38 36" type="intExpr">Vortrag</seg> 
+                     <seg id="38" type="intExpr">gehalten</seg> hatte:</said>
+               </said>
+            </seg>
+            <said id="38" mode="direct" content="speech" level="1">»Deinen lieben, süßen Jungen, mein Kind, den habe ich jetzt aber gründlich kennengelernt. <seg id="40" type="frame" pos="start">Jeden Tag <seg id="40" type="intExpr">gestehst</seg> 
+                  <seg id="40" type="speaker">du</seg> mir,</seg> 
+               <said id="40" mode="indirect" content="speech" level="2">daß du ihn liebst</said>, <seg id="42" type="frame" pos="start">und <seg id="42" type="intExpr">ahnst</seg> dabei gar nicht,</seg> 
+               <said id="42"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">
+                  <said id="43"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        border="yes">wie <seg id="43 42" type="speaker">der</seg> sich über dich <seg id="43 42" type="intExpr">lustig macht</seg>.</said>
+               </said> Heute morgen traf ich ihn in seiner Wohnung an; natürlich war er nicht allein. <seg id="44" type="frame" pos="start">Freilich ist <seg id="44" type="speaker">mir</seg> jetzt auch völlig <seg id="44" type="intExpr">klargeworden</seg>,</seg> 
+               <said id="44"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">warum <seg id="48" type="speaker">er</seg> sich nichts aus dir macht und <said id="48" mode="reported" content="speech" level="3">deine Empfindungen verächtlich <seg id="48" type="intExpr">zurückweist</seg>.</said>
+               </said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

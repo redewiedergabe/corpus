@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Pressestimmen</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Pressestimmen</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Keine Trauer sollten die Deutschen
+                        also verfügen, sondern sie sollten sich freuen,
+                        daß sie nach diesem verbrecherischen Krieg,
+                        welchen sie mit ihrem „heruntergeworfenen"
+                        Wilhelm an der Spitze entfacht haben, von
+                        der Hand der Gerechtigkeit nicht so getroffen
+                        werden, wie es sein müßte. <said id="1"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">In Deutschland
+                        <seg id="1" type="intExpr">melden</seg> sich verschiedene <seg id="1" type="speaker">Stimmen</seg>.</said>
+            <said id="2"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">Was die
+                        Deutschen machen werden, ob sie mit den
+                        Friedensbedingungen einverstandem sein
+                        werden oder nicht</said>
+            <seg id="2" type="frame" pos="end">, ist noch nicht <seg id="2" type="intExpr">bekannt</seg>.</seg>
+                        Wenn sie aber gleich den biblischen ausgestoßenen Engeln von Aufgeblasenheit und
+                        Trotz aufgehetzt sich aufwiegeln sollten —
+                        so würde das vielleicht für uns nicht schlecht
+                        sein. Denn dann würde man auch bei uns
+                        Schwerter und Bajonette finden, um die
+                        gegen die neu entstehende Ordnung der
+                        Welt Aufgewiegelten zu zäumen, und würde
+                        imstande sein auch diejenigen Landesteile
+                        aus dem preußischen Joch zu erlösen, welche
+                        die Friedenskonferenz noch außerhalb der
+                        festgesetzten polnischen Grenzen läßt. 
+                  „Gazeta Poznanska" (Posen) Nr. 111 vom
+                        15. Mai 1919.
+                  Das „Wohlwollen" der Entente für
+                        Polen. <said id="3"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">
+               <seg id="3" type="speaker">Wer</seg> in den den Deutschen diktierten
+                        Friedensbedingungen irgendwelches besondere Wohlwollen der Entente für das mit
+                        ihr verbündete Polen sehen <seg id="3" type="intExpr">will</seg>
+            </said>, würde es
+                        umsonst suchen. <said id="4" mode="reported" content="writing" level="1">
+               <seg id="4" type="speaker">Wir</seg> 
+               <seg id="4" type="intExpr">schrieben</seg> schon von
+                        dem Unrecht</said>, welches großen Gebieten unserer
+                        Westmarken zugefügt wurde, <said id="5" mode="reported" content="thought" level="1">worin <seg id="5" type="speaker">wir</seg> eher
+                        ein Wohlwollen für — den geschlagenen
+                        deutschen Feind <seg id="5" type="intExpr">sehen</seg> müssen.</said> Dasselbe betrifft die Weichselmündung, Danzig, den
+                        Teil Polens, um welchen es jedem Polen am
+                        meisten ging. 
+                  Man hat dort nicht eine „freie Stadt",
+                        sondern einen ganzen freien Staat gebildet,
+                        in dem das Deutschtum unteilbar regieren
+                        wird. <seg id="7" type="frame" pos="start">
+               <said id="6" mode="reported" content="writing" level="1">Diese Angelegenheit <seg id="6" type="intExpr">bespricht</seg> 
+                  <seg id="7 6" type="speaker">Herr Ch.</seg>
+                        im Krakauer „Glos Narodu"</said> und <seg id="7" type="intExpr">sagt</seg> u. a.
+                        folgendes:</seg>
+            <said id="7" mode="direct" content="writing" level="1">Könnten die Richter der Entente 
+                  
+                  
+                  
+                  uns dieses für uns unschätzbare Stückchen
+                        Erde nicht abgeben, welches doch seit 1000
+                        Jahren uns gehört, welches der preußische
+                        Bandit uns gestohlen und dessen einheimische
+                        Bevölkerung er ausgerottet und national
+                        vergewaltigt oder nach seinen rheinischen
+                        Bergwerken und Fabriken hinausgetrieben
+                        hat! Um eine Handvoll Deutscher, von
+                        denen die Hälfte slavische Namen trägt, —
+                        die sichtbaren Spuren polnischer Herkunft —
+                        nicht der polnischen Macht zu übergeben, hat
+                        man das Interesse eines 25 Millionen zählenden Volkes geopfert . . .
+                  Warum hat man also das Interesse des
+                        Feindes höher gestellt als das unsrige? Wo
+                        ist die Freundschaft für Polen? Was könnte
+                        die Entente, indem sie den preußischen Imperialismus liquidierte, im Verhältnis zu
+                        uns noch weniger tun, <said id="8" mode="reported" content="speech" level="2">ohne die Schlagworte
+                        dem Spotte auszuliefern, welche vier Jahre
+                        lang von den großen <seg id="8" type="speaker">Männern</seg> der Entente
+                        <seg id="8" type="intExpr">ausgesprochen</seg> wurden?</said> Wir können doch
+                        nicht darum beerdigt werden wie zuzeiten
+                        Katharinas in diesem Europa, welches von
+                        Wilson verwaltet wird. Wir beginnen ein
+                        neues Staatsleben unter folgenden Bedingungen: Die Weichsel wird im wichtigsten
+                        Teil ihres Laufes nicht über polnisches
+                        Territorium fließen, denn auf ihr rechtes
+                        Ufer wird sich Preußen stützen und ihre
+                        Mündung wird überhaupt außerhalb des
+                        Umfanges unserer Staatsgrenzen liegen. Das
+                        Recht des freien Gebrauches der Weichsel
+                        seitens der Deutschen aus Ostpreußen bildet
+                        auf dieser polnischen Arterie ein Konduminium
+                        mit dem Feind. An der Mündung in die
+                        Ostsee pflanzt sich an der wichtigsten oder
+                        besser einzig und allein für uns wichtigen
+                        Stelle der Danziger Staat auf, der faktisch
+                        für Polen unabhängig ist und von den
+                        Deutschen regiert wird. Durch einen schmalen
+                        polnischen Korridor, welcher nach Putzig führt,
+                        haben die Preußen linker- und die Preußen
+                        rechterseits internationales freies „Transitum"
+                        wie im eigenen Hause.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

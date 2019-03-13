@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Amulett</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Das Amulett</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">»Es ist mir höchst angenehm«</said>
+            <seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">erwiderte</seg> der alte <seg id="1" type="speaker">Herr</seg> verbindlich,</seg>
+            <said id="1" mode="direct" content="speech" level="1">»mit einem jungen Bürger der berühmten Stadt zusammenzutreffen, der meine Glaubensbrüder in Genf so viel zu danken haben. Ich bin der Parlamentrat Chatillon, <seg id="2" type="frame" pos="start">dem der <seg id="2" type="speaker">Religionsfriede</seg> 
+                  <seg id="2" type="intExpr">erlaubt</seg>,</seg> 
+               <said id="2"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     metaph="yes">nach seiner Vaterstadt Paris zurückzukehren.</said>«</said>
+            <said id="3" mode="direct" content="speech" level="1">»Chatillon?«</said>
+            <seg id="3" type="frame" pos="end">
+               <seg id="3" type="intExpr">wiederholte</seg> 
+               <seg id="3 25" type="speaker">ich</seg> in ehrfurchtsvoller Verwunderung.</seg>
+            <said id="25" mode="direct" content="speech" level="1">»Das ist der Familienname des großen Admirals.«</said>
+            <said id="4" mode="direct" content="speech" level="1">»Ich habe nicht die Ehre mit ihm verwandt zu sein«</said>
+            <seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">versetzte</seg> der <seg id="4" type="speaker">Parlamentrat</seg>
+            </seg>
+            <said id="4" mode="direct" content="speech" level="1">»oder wenigstens nur ganz von fern; aber ich kenne ihn und bin ihm befreundet, soweit es der Unter schied des Standes und des persönlichen Wertes gestattet. Doch setzen wir uns, meine Herrschaften. Die Suppe dampft und <said id="26"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">der Abend bietet noch Raum genug zum <seg id="26" type="intExpr">Gespräch</seg>.</said>«</said> – 
+                     Ein Eichentisch mit gewundenen Füßen vereinigte uns an seinen vier Seiten. Oben war dem Fräulein, zu ihrer Rechten und Linken dem Rat und Boccard und mir am untern Ende der Tafel das Gedeck gelegt. Nachdem <said id="7" mode="reported" content="speech" level="1">unter den üblichen <seg id="7" type="intExpr">Erkundigungen</seg> und <seg id="7" type="intExpr">Reisegesprächen</seg>
+            </said> das Mahl beendigt und zu einem bescheidenen Nachtisch das perlende Getränk der benachbarten Champagne aufgetragen war, <said id="8" mode="reported" content="speech" level="1">fing die <seg id="8" type="intExpr">Rede</seg> an zusammenhängender zu fließen.</said>
+            <said id="9" mode="direct" content="speech" level="1">»<seg id="10" type="frame" pos="start">
+                  <seg id="10" type="speaker">Ich</seg> muß es an euch <seg id="10" type="intExpr">loben</seg>, ihr Herren Schweizer</seg>«</said>
+            <seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">begann</seg> der <seg id="9" type="speaker">Rat</seg>,</seg>
+            <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="indirect" content="speech" level="2">daß ihr nach kurzen Kämpfen gelernt habt, euch auf kirchlichem Gebiete friedlich zu vertragen.</said> Das ist ein Zeichen von billigem Sinn und gesundem Gemüt und mein unglückliches Vaterland konnte sich an euch ein Beispiel nehmen. – Werden wir denn nie lernen, daß sich die Gewissen nicht meistern lassen, und daß ein Protestant sein Vaterland so glühend lieben, so mutig verteidigen und seinen Gesetzen so gehorsam sein kann als ein Katholik!«</said>
+            <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="speech" level="2">
+                  <seg id="13" type="speaker">Ihr</seg> spendet uns zu reichliches <seg id="13" type="intExpr">Lob</seg>!</said>«</said>
+            <seg id="12" type="frame" pos="end">
+               <seg id="12" type="intExpr">warf</seg> 
+               <seg id="12" type="speaker">Boccard</seg> 
+               <seg id="12" type="intExpr">ein</seg>.</seg>
+            <said id="14" mode="direct" content="speech" level="1">»Freilich vertragen wir Katholiken und Protestanten uns im Staate leidlich; aber die Geselligkeit ist durch die Glaubensspaltung völlig verdorben. In früherer Zeit waren wir von Fryburg mit denen von Bern vielfach verschwägert. Das hat nun aufgehört und langjährige Bande sind zerschnitten. Auf der Reise«</said>
+            <seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">fuhr</seg> 
+               <seg id="14" type="speaker">er</seg> scherzend zu mir gewendet <seg id="14" type="intExpr">fort</seg>,</seg>
+            <said id="14" mode="direct" content="speech" level="1">»sind wir uns noch zuweilen behilflich; <said id="15" mode="reported" content="speech" level="2">aber zu Hause <seg id="15" type="intExpr">grüßen</seg> 
+                  <seg id="15" type="speaker">wir</seg> uns kaum.</said> 
+                     <seg id="16" type="frame" pos="start">Laßt <seg id="16" type="speaker">mich</seg> Euch <seg id="16" type="intExpr">erzählen</seg>:</seg> 
+               <said id="16" mode="direct" content="speech" level="2">Als ich auf Urlaub in Fryburg war – ich diene unter den Schweizern seiner allerchristlichsten Majestät –, wurde, gerade die Milchmesse auf den Plaffeyer Alpen gefeiert, wo mein Vater begütert ist und auch die Kirchberge von Bern ein Weidrecht besitzen. Das war ein trübseliges Fest. Der Kirchberg hatte seine Töchter, vier stattliche Bernerinnen, mitgebracht, die ich, als wir Kinder waren, auf der Alp alljährlich im Tanze schwenkte. <seg id="17" type="frame" pos="start">Könnt <seg id="17" type="speaker">Ihr</seg> 
+                     <seg id="17" type="intExpr">glauben</seg>,</seg> 
+                  <said id="17"
+                        mode="indirect"
+                        content="thought"
+                        level="3"
+                        nonfact="yes"
+                        border="yes">daß nach beendigtem Ehrentanze <said id="18" mode="reported" content="speech" level="4">die <seg id="18 27" type="speaker">Mädchen</seg> mitten unter den läutenden Kühen ein theologisches <seg id="18" type="intExpr">Gespräch begannen</seg>
+                     </said> und <said id="27" mode="reported" content="speech" level="4">mich, der ich mich nie viel um diese Dinge bekümmert habe, einen Götzendiener und Christenverfolger <seg id="27" type="intExpr">schalten</seg>
+                     </said>, weil ich auf den Schlachtfeldern von Jarnac und Moncontour gegen die Hugenotten meine Pflicht getan?</said>
+               </said>«</said>
+            <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="intExpr">
+                  <said id="21" mode="reported" content="speech" level="2">Religionsgespräche</said>
+               </seg>«</said>
+            <seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">begütigte</seg> der <seg id="20" type="speaker">Rat</seg>,</seg>
+            <said id="20" mode="direct" content="speech" level="1">»liegen jetzt eben in der Luft; aber warum sollte <seg id="28" type="speaker">man</seg> sie nicht mit gegenseitiger Achtung führen und <said id="28"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">in versöhnlichem Geiste sich <seg id="28" type="intExpr">verständigen</seg> können?</said> 
+               <seg id="23" type="frame" pos="start">So bin <seg id="23" type="speaker">ich</seg> 
+                  <seg id="23" type="intExpr">versichert</seg>, Herr Boccard,</seg> 
+               <said id="23"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">daß Ihr mich wegen meines evangelischen Glaubens nicht zum Scheiterhaufen verdammt, und daß <seg id="24" type="speaker">Ihr</seg> nicht der letzte seid, <said id="24"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">die Grausamkeit zu <seg id="24" type="intExpr">verwerfen</seg>
+                  </said>, mit der die Calvinisten in meinem armen Vaterlande lange Zeit behandelt worden sind.</said>«</said>
+         </p>
+      </body>
+   </text>
+</TEI>

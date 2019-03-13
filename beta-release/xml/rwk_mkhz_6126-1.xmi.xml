@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">„<seg id="1" type="speaker">Jch</seg> bin Onkel Paul.“</said>
+            <said id="2" mode="direct" content="speech" level="1">„Du bist Onkel Paul?“</said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">rief</seg> 
+               <seg id="2 3" type="speaker">sie</seg>
+            </seg> und klatschte in die Hände.
+                        <said id="3" mode="direct" content="speech" level="1">„Nicht wahr, nun braucht Mama nicht mehr zu weinen?“</said>
+            <said id="4" mode="direct" content="speech" level="1">„Nein, sie soll nicht mehr weinen!“</said>
+            <seg id="4" type="frame" pos="end">
+               <seg id="4" type="intExpr">sagte</seg> 
+               <seg id="4" type="speaker">er</seg> bewegt.</seg>
+            Der Wagen hielt vor dem Hause eines Arztes, welcher glücklicherweise bereit war, mitzufahren. <said id="5" mode="reported" content="speech" level="1">Die frühreife kleine <seg id="5" type="speaker">Paula</seg> wußte
+                        den Namen der Straße <seg id="5" type="intExpr">anzugeben</seg>, wo ihre Mutter wohnte.</said> Während der Fahrt war sie voll kindlicher Fröhlichkeit über den neuen
+                        Onkel, dem es immer schwerer wurde, seine Bewegung zu bemeistern.
+            Endlich war man am Ziel. <seg id="24 7" type="speaker">Paula</seg> wollte voraneilen, um der
+                        <seg id="8" type="speaker">Mutter</seg>, <said id="24"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">deren Zustand sie fast <seg id="24" type="intExpr">vergessen</seg> hatte</said>, <said id="7"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">die frohe <seg id="7" type="intExpr">Kunde</seg> zu
+                        bringen.</said> Onkel Paul aber hielt ihre Hand fest, und sie mußte ehrbar
+                        die Treppe mit ihm und dem Arzte hinansteigen. Auf ein Klopfen
+                        folgte ein schwaches <said id="8" mode="direct" content="speech" level="1">„Herein!“</said> Die <seg id="9" type="speaker">Kranke</seg>, die inzwischen zu sich
+                        gekommen war, wandte mühsam ihr Haupt der Thür zu. Ein Blick,
+                        <seg id="9" type="frame" pos="start">ein <seg id="9" type="intExpr">Aufschrei</seg>
+            </seg>
+            <said id="9" mode="direct" content="speech" level="1">-- Paul! Käthchen! --</said> und er lag zu ihren Füßen und
+                        hielt ihren Leib umschlungen, während sie ihr Gesicht an seiner Schulter
+                        verbarg. Schnell aber fühlte er, wie sie schwerer in seinen Armen
+                        wurde; endlich winkte er dem Arzt, <seg id="10" type="frame" pos="start">
+               <seg id="10" type="speaker">der</seg> beruhigend <seg id="10" type="intExpr">sagte</seg>:</seg>
+            <said id="10" mode="direct" content="speech" level="1">„Eine neue Ohnmacht.“</said>
+                         
+            Am Abend desselben Tages bot das Gemach einen viel freundlicheren Anblick dar; im Kamin brannte ein helles Feuer, ein Teppich
+                        bekleidete die nackten Dielen, und die Kranke lag in einem großen
+                        Lehnstuhl in Decken und Kissen gehüllt. Auf einem Schemel zu
+                        ihren Füßen saß Paula und schaute mit glücklichen Augen bald zu
+                        ihr, bald zu Onkel Paul auf, der an der Mutter Seite saß und ihre
+                        Hand in der seinigen hielt.
+            Ja, die bleiche Frau war die einst so schöne, so gefeierte und dann
+                        so tief unglückliche Katharina.
+            Ein seliges Lächeln spielte um ihren Mund, als sie von ihrem
+                        Kinde zu ihrem treuen Bruder -- denn das war er ihr jetzt -blickte. <said id="11" mode="reported" content="speech" level="1">
+               <seg id="11" type="speaker">Sie</seg> hatten viel von der Vergangenheit <seg id="11" type="intExpr">gesprochen</seg>
+            </said>; <said id="12" mode="reported" content="speech" level="1">
+               <seg id="12" type="speaker">Katharina</seg>
+                        hatte ihm nichts <seg id="12" type="intExpr">verschwiegen</seg>, nicht ihr Unrecht gegen seine Aeltern,
+                        nicht ihre späteren Jrrungen.</said>
+            <said id="13" mode="reported" content="speech" level="1">Als <seg id="13" type="speaker">sie</seg> von ihrer traurigen Ehe
+                        <seg id="13" type="intExpr">sprach</seg>
+            </said>, erglühte er in heftigem Zorn; <seg id="14" type="frame" pos="start">aber <seg id="14" type="speaker">sie</seg> legte sanft die Hand
+                        auf seine Lippen und <seg id="14" type="intExpr">sprach</seg>:</seg>
+            <said id="14" mode="direct" content="speech" level="1">„Gott hat mich gezüchtigt, ich beuge mich in Demuth. <seg id="15" type="frame" pos="start">Durch
+                        geduldiges Ertragen all' des Elends habe <seg id="15" type="speaker">ich</seg> 
+                  <seg id="15" type="intExpr">geglaubt</seg>,</seg> 
+               <said id="15" mode="indirect" content="thought" level="2">Sühne
+                        zu finden für die Schuld der Vergangenheit.</said> 
+               <said id="16"
+                     mode="reported"
+                     content="speech thought"
+                     level="2"
+                     border="yes">
+                  <seg id="16" type="speaker">Mein</seg> heißes <seg id="16" type="intExpr">Gebet</seg>
+               </said> hat
+                        Gott erhört; mein Kind wird nicht verlassen sein, wenn ich von
+                        ihm gehe.“</said>
+            <said id="17" mode="direct" content="speech" level="1">„Du wirst noch lange nicht von ihm und von mir gehen“</said>
+            <seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">sprach</seg>
+                        <seg id="17 19" type="speaker">er</seg>
+            </seg> und drückte seine Lippen auf ihre Hände.
+            <seg id="18" type="frame" pos="start">
+               <seg id="18" type="speaker">Sie</seg> lächelte trübe und <seg id="18" type="intExpr">sprach</seg> nach einer Pause:</seg>
+            <said id="18" mode="direct" content="speech" level="1">„Und Du, Paul?“</said>
+            <said id="19" mode="direct" content="speech" level="1">„<said id="20" mode="reported" content="speech" level="2">Von <seg id="20" type="speaker">mir</seg> ist wenig zu <seg id="20" type="intExpr">berichten</seg>
+               </said>; ich habe nur gelebt, um Dich
+                        
+               
+               zu suchen, nachdem ich von dem Vermögen meines Vaters mehr gerettet, als ich erwartet hatte. Aber alle meine Nachforschungen waren
+                        vergeblich ( <seg id="21" type="frame" pos="start">
+                  <seg id="21" type="speaker">er</seg> 
+                  <seg id="21" type="intExpr">verschwieg</seg>,</seg> 
+               <said id="21"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß er sie in Frankreich gesucht hatte</said> ) , und
+                        ich war beinahe hoffnungslos, als ein Zufall mich vor wenigen
+                        Wochen auf Deine Spur führte. Gott sei Dank, daß ich Dich
+                        gefunden!“</said>
+            <said id="22" mode="direct" content="speech" level="1">„Ja, Gott sei Dank!“</said>
+            <seg id="22" type="frame" pos="end">
+               <seg id="22" type="intExpr">wiederholte</seg> 
+               <seg id="22" type="speaker">sie</seg>.</seg>
+            <said id="23" mode="direct" content="speech" level="1">„Und Paul“</said>
+            <seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">fügte</seg> 
+               <seg id="23" type="speaker">sie</seg>
+                        leiser <seg id="23" type="intExpr">hinzu</seg>,</seg>
+            <said id="23" mode="direct" content="speech" level="1">„wenn ich gestorben bin, nimmst Du Paula mit Dir
+                        nach Deutschland.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

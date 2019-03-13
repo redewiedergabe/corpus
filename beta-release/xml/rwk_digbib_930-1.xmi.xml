@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Abdankung</title>
+             <author>Birlinger, Anton</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Abdankung</f>
+         <f name="author">Birlinger, Anton</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Alle diese Lieder haben ihren Schluß in der Terz. Will ein Bub recht den Großen spielen, so singt er die zweite Stimme des Liedes um eine Octave höher, aber allein. Hie und da fallen auch je beim zweiten Theil der Strofe alle Sänger im Chor ein, so daß die erste Hälfte des Versesallein,die zweite im Chor, aberzweistimmiggesungen wird. 
+                  Die Sangweise wiederholt sich fort und fort und ich hörtenieeine andere
+                        
+                        
+                        5
+                     . 
+                  
+                     Waren nun so etliche 10-15, auch wol mehr Liedlein abgesungen und abgetanzt, <seg id="1" type="frame" pos="start">so ließ sich manchmal ein <seg id="1" type="speaker">Musikant</seg> 
+               <seg id="1" type="intExpr">hören</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">So iər hërrə iəz iş gnûə, lẽnd iss au drenkə!</said>
+            <said id="2" mode="direct" content="speech" level="1">Nix då, de Schottischə!</said>
+            <seg id="2" type="frame" pos="end">war aber die <seg id="2" type="intExpr">Antwort</seg>.</seg> Denn wolgemerkt, der »Schottische« mußte jedesmal aufgespielt werden, bevor man seine Tänzerin zuerst »an's Buben Platz« führte, <said id="3" mode="reported" content="speech" level="1">wo <seg id="3" type="speaker">sie</seg> »<seg id="3" type="intExpr">Bschaid thun</seg>« mußte</said> und sie dann an ihren Platz brachte.<said id="4" mode="direct" content="speech" level="1">Håşt dî wol g.haltə, Uschəlẽ!</said>
+            <seg id="4" type="frame" pos="end">das war ungefähr der <seg id="4" type="intExpr">Dank</seg> selbesmal. </seg>
+                  Zum »Schottischen« stellten sich nun alle Paarezugleichauf; aber nicht wie beim »Ringelrum«, sondern jedes Paar schaute sich in's Gesicht, so daß die Bewegung nur seitwärts vor sich ging. Die Hände waren kreuzweis ineinander gelegt, und bei diesem Tanze war es schicklich, daß die Tänzerin die Augen züchtig zu Boden schlug. 
+                  Aber auch hier, wie vorhin, warGesang und Tanz verbunden.
+                   
+                  Ebenso wurden wieder Abtheilungen gemacht, und wie beim vorigen Tanze spielten die Musikanten die Melodie ganz kurze Zeit,<seg id="11" type="frame" pos="start"> worauf der <seg id="11 12" type="speaker">Vortänzer</seg> wieder <seg id="11" type="intExpr">anfing</seg>:</seg>
+            <said id="11" mode="direct" content="speech" level="1">Schäzlẽ må bişt géştig gwësə?
+                     
+                     
+                        Z'Bibərə uff dər Gautschə,
+                     
+                     
+                        Həõ məim Schälzẽ d'hôsə gfiikt,
+                     
+                     
+                        Jəz kã-n-ərs widər brouchə.
+</said>                        
+                     
+                  
+                  Dies wird dann mit der Musik zwei-, dreimal wiederholt,meist auch eine kleine Version angehängt, <seg id="12" type="frame" pos="start">worauf wieder<seg id="12" type="intExpr"> gesungen</seg> wird:</seg>
+            <said id="12" mode="direct" content="speech" level="1"> Hätt məẽ gəõs dəẽ gəõs itt bissə,
+                     
+                     
+                        Hett dəẽ geõs də flüg.l nô;
+                     
+                     
+                        Hettişt itt in d'hôsə gsch.
+                     
+                     
+                        Hettişt saubərẽ hôsə nô.
+                     
+                  
+                  
+                     
+                        Drui mål nudlə, drui mål nudlə
+                     
+                     
+                        Und ə mål ənn Stopfər,
+                     
+                     
+                        's gəit kõẽ schönər's Mädlẽ hiə
+                     
+                     
+                        Ass 's Uhrəmachərs dôchtər.
+ </said>                       
+                     
+                  
+                  Der »Schottische« dauerte jedoch nicht lange und bildete jedesmal den Schluß des Tanzes. 
+                  Wollen die Verheirateten tanzen, so geschieht dies immer ohne die ledigen Leute. <said id="7" mode="reported" content="speech" level="1">Es wird dann schon vorher denselben von einem <seg id="7" type="speaker">Musikanten</seg> ein »Vortanz« oder auch »drei Tänz und ein Hopper« <seg id="7" type="intExpr">ausgerufen</seg>. 
+ </said>                 »Geschenkt« erhalten die Brautleute sehr viel. Nicht nur Geld bekommen sie, auch Küchengeräte, Gläser, Kaffeekannen u. dgl.
+                  Gegen Mitternacht gehen die Brautleute nach Hause. Die Musikanten versammeln sich am Hochzeitstische, es wird noch gesungen und auf's Wohlsein der jungen Eheleute angestoßen. <seg id="8" type="speaker">Sie</seg> werden mit der Musik bis unter das Wirtshaus begleitet, <said id="8" mode="reported" content="speech" level="1">wo dann noch einmal von den Eltern <seg id="8" type="intExpr">Abschied genommen</seg> wird. </said>
+                  In der Heimath wartet man schon auf sie; dort waren nämlich einige Weibsleute aus der Freundschaft aufgestellt, welche den Tag durch immer beschäftigt waren, den Hochzeitleuten ihr »Zuig« beschauen und bewundern zu lassen. 
+                  Man trinkt dann noch einen »Siedigen« (Kaffee). Bevordie jungen Eheleute aber zu Bette gehen, visitirt man genau Bettstatt, Hemder u.s.w.; denn schelmische Freunde unternehmen es meist, ihnen einen Schabernack zu spielen, indem sie die Latten unten an der Bettstatt absägen, die Hemdärmel des Brauthemds zunähen, oder gar in's Nachtgeschirr ein Loch bohren etc.
+                  Den andern Tag erscheinen die <seg id="13" type="speaker">jungen Eheleute</seg> jedesmal in der Kirche. Nachher geht man zum Pfarrer, <said id="13" mode="reported" content="speech" level="1">nach der Schuldigkeit zu <seg id="13" type="intExpr">fragen</seg>
+            </said>, ebenso die Hochzeitszeche im Wirthshause zu bereinigen. 
+               
+               
+                  Fußnoten
+                  <note>
+                     
+                        
+                        1EinLämmeleist ein Glas, oben mit einem Röhrchen versehen, woraus die Wiegenkinder trinken.
+                  </note>
+            <note>
+                     
+                        
+                        2
+                        Gollerist eine Chemisette, welche Brust und Schulter bedeckt, aber keinen Kragen hat; war meist von durchsichtigem Zeug, hin und wieder mit Goldstoff durchwirkt (s. Braut), oder von Seidenzeug. <said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="1"
+                     border="yes">In Wurmlingen <seg id="10" type="intExpr">sagt</seg> 
+                  <seg id="10" type="speaker">man</seg>
+                           ṣmîslẽ, g.şmîs.
+ </said>                       
+                        
+                      
+                  </note>
+            <note>
+                     
+                        
+                        3»Laube« ist ursprünglich der vom Laub umgebene Raum, Laubhütte; dem Worte muß ein goth.
+                           laubjo
+                        und ahd.
+                           lauba
+                        oder
+                           laubja
+                        zu Grunde liegen; in weiterer Bedeutung istLaubejeder bedeckte Gang, z.B. Hausflur, Vorsaal, Brodlaube, Kornlaube, Fleischlaube; endlich heißt der AbtrittLaüble,weil er am Ende des Laubenganges an den Häusern sich befindet. Von
+                           laubja
+                        kommt das roman.loggia,woher wiederlosement, logement, losirenetc.
+                  </note>
+            <note>
+                     
+                        
+                        4Die kurzen Lieder heißen in der Wurmlinger Gegend nur »Tänze«, weil sie fast nur zum Tanzen gesungen wurden. »Rappendizlen« heißen sie in der Tuttlinger Gegend (Weilheim).
+                  </note>
+            <note>
+                     
+                        
+                        5Die gewöhnlichsten Bourəliədlə waren folgende: 
+                     3. Oepfingə, Dischingə, Donəriədô – 
+                     O hätt î məĩ Schäzele, wiə wett î's liəbô.
+                     4. Und Oepfingə, Dischingə, Bappəlau zuə, 
+                     Wiə danzet die Bourə, wiə glöpfet diə Schuə.
+                     5. Məi Schäzele ist nätt und ei wenn î's nõ hätt, 
+                     Nåch gieng î viel tausədmål liəber ins Bett.
+                     6. ə Ringle am Fingərle, ə Löchle derdur, 
+                     Då sieh-n-î məim Schäzle səĩ falscha Natur.
+                     7. Und du deəst wohl so gukə mit deine Augô, 
+                     Und î hau dî niə mêgə, du desch mer's glaubô.
+                     8. Und wenn î nô näher bei məim Schäzle wär, 
+                     Nåch wär mir məi Heəzle it halba so schwär.
+                     9. Und du deəst jå nu näher zu deim Schäzle gau, 
+                     Nåch deəst du it älləweil – so ə Gschiß haũ.
+                     10. Drei Rosə im Gâtə, drei Ilgə im Wald, 
+                     Im Sommer isch lieblə, im Winter isch kalt.
+                     11. Und druimål um d'Scheiterbeug, druimål ums Hous, 
+                     Und druimål en Pfiff gethan, Schwâze guk rous.
+                     12.
+
+</note>
+         </p>
+      </body>
+   </text>
+</TEI>

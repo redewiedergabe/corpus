@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.maehrisches</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+                Wird eine solche
+                        Wirkung auf die Dauer hintanzuhalten sein? <said id="1" mode="indirect" content="thought" level="1">Daß
+                        der Kaiser mit dem politischen Gesammtsystem
+                        nicht übereinstimmt, <said id="2" mode="reported" content="speech" level="2">daß <seg id="2" type="speaker">er</seg> namentlich die geübte
+                        Wahlpraxis auf das schärfste <seg id="2" type="intExpr">verurthei l t</seg>
+               </said>
+            </said>
+            <seg id="1" type="frame" pos="end">, war
+                        vor den letzten Ereignissen schon <seg id="1" type="intExpr">bekannt</seg> 
+            </seg>und <said id="3" mode="reported" content="speech" level="1">ist
+                        durch <seg id="3" type="speaker">denselben</seg> auf das nachdrücklichste <seg id="3" type="intExpr">bestätigt</seg>
+                        worden.</said>
+            <said id="4"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">Die bleiche <seg id="4" type="speaker">Angst</seg> der Reaction vor der
+                        Veröffentlichung des kaiserlichen Schreibens über
+                        die Wahlfreiheit <seg id="4" type="intExpr">redet</seg> ganze Bände.</said> Hierin liegt
+                        die Bedeutung der letzten Vorgänge und diese
+                        wird sich früher oder später geltend machen. Jedenfalls wenn die freisinnige Partei und Presse
+                        einigermaßen ihre Aufgabe erkennt und in vernünftiger und zweckmäßiger Weise ihre Schuldigkeit thut. Zweimal hat der Kaiser gezeigt,
+                        daß er die Schichte, die zwischen ihm und dem
+                        freisinnigen Volke liegt, durchbrechen will und
+                        das sollte d o ch eine Mahnung an das deutsche
+                        Volk sein, diesen hochherzigen Intentionen des
+                        Monarchen aus eigener Kraft gerecht zu werden.
+                        Um die Stellung des Fürsten Bismarck braucht
+                        der Nation nicht bange zu sein. Nicht nur kann
+                        es als sicher gelten, daß auch Kaiser Friedrich
+                        sich von dem großen Staatsmanne nicht trennen
+                        will und nicht trennen wird; <seg id="6" type="frame" pos="start">
+               <seg id="6" type="speaker">man</seg> 
+               <seg id="6" type="intExpr">gewinnt</seg> auch
+                        immer mehr den <seg id="6" type="intExpr">Eindruck</seg>,</seg>
+            <said id="5" mode="reported" content="thought" level="1">
+               <said id="6" mode="indirect" content="thought" level="1">als <seg id="5" type="intExpr">betrachte</seg> 
+                  <seg id="5" type="speaker">Fürst
+                        Bismarck</seg> die Zeit für gekommen, da man auch
+                        ohne die reactionären Parteien regieren kann.</said>
+            </said> Der
+                        geniale Realpolitiker hat sich niemals an Parteien
+                        und Systeme gebunden und er wird die Politik
+                        der freien Hand auch fernerhin zu bethätigen
+                        wissen.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

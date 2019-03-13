@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.maerkische</f>
+      </fs>
+      <body>
+         <p>         
+
+Graf Bennigsen ist aus Wien
+                        zurückgekehrt, und nach allem, <said id="1" mode="reported" content="speech" level="1">was <seg id="1" type="speaker">man</seg> hier über den
+                        Zweck seiner Sendung und über den Gegenstand der von
+                        ihm in Wien gepflogenenen Verhandlungen <seg id="1" type="intExpr">erfährt</seg>
+            </said>, kann
+                        man über die eigentlichen Jntentionen des sogenannten
+                        Bündnisses vom 27. Febr. nicht mehr in Zweifel sein.
+                        <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">Man</seg> ist hier jetzt völlig darüber <seg id="2" type="intExpr">ins Klare gesetzt</seg>,</seg>
+            <said id="2" mode="indirect" content="thought" level="1">daß
+                        Hannover, welche Projecte von ihm auch aufgestellt oder
+                        begünstigt werden mögten, mit denselben nur das Eine
+                        Ziel -- Wiederherstellung des alten Bundestages, gleichviel unter welcher Form -- im Auge hat.</said>
+            <seg id="3" type="frame" pos="start">Gleichzeitig aber
+                        ist <seg id="3" type="speaker">man</seg> hier auch von Wien aus darüber <seg id="3" type="intExpr">unterrichtet</seg>,</seg>
+            <said id="3" mode="indirect" content="thought" level="1">
+               <said id="12" mode="reported" content="speech" level="2">daß das österreichische <seg id="12" type="speaker">Cabinet</seg> zu dem Vertrags=Entwurf
+                        vom 27. Febr. in irgend ein bindendes Verhältniß zu
+                        treten entschieden von der Hand <seg id="12" type="intExpr">gewiesen</seg> hat.</said>
+            </said> Jnzwischen
+                        soll dennoch, trotz der Abstimmungen seiner Kammer, <seg id="4" type="frame" pos="start">auch
+                        <seg id="4" type="speaker">Sachsen</seg> sich dazu <seg id="4" type="intExpr">einverstanden</seg> haben,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">die „Münchener
+                        Uebereinkunft“ zu ratificiren.</said>
+            Die russische <seg id="13 5" type="speaker">Note</seg> wegen Griechenlands athmet auf
+                        verdächtige Weise etwas von jener Anmaßung der für
+                        das Jnnland bestimmten czaarischen Manifeste, wonach
+                        der orthodore Czaar die Ordnungs=Erhaltungs=Mission
+                        für die ganze Welt vom Himmel erhalten hat, und alle
+                        Völker, oder nach genauerer Uebersetzung: <said id="13" mode="direct" content="writing" level="1">„alle Heiden,“</said>
+                        sich niederzuwerfen haben vor <said id="14" mode="reported" content="speech" level="1">
+               <seg id="14" type="speaker">seinen</seg> heiligen <seg id="14" type="intExpr">Befehlen</seg>.</said>
+                        Diesen Ton kennt man inzwischen noch aus den Manifesten Seiner himmlischen Majestät von China, und die
+                        <said id="5" mode="direct" content="writing" level="1">„rothborstigen Barbaren“</said> haben es längst verlernt, vor
+                        <said id="15" mode="reported" content="speech" level="1">dergleichen orientalischen <seg id="15" type="intExpr">Großsprechereien</seg>
+            </said> zu erzittern. Und
+                        ist der Kern in Erfurtdenn so gering, da er über 23 Millionen
+                        Deutsche zählt? Der neue Königsbund zählt nur über
+                        8 Millionen, wenn sich nicht Oesterreich seiner erbarmt
+                        und ihn mit seinen Slowaken, Ruthenen, Galiziern, Croaten und Jllyriern in die Arme drückt.
+            Königsberg, 10. März. Eine Aenderung des gegenwärtigen Provisoriums in Schleswig scheint außer
+                        allem Zweifel zu sein, sollte dieselbe auch nur in einem
+                        Personenwechsel bestehen; <seg id="6" type="frame" pos="start">wenigstens kann <seg id="6" type="speaker">ich</seg> Jhnen mit
+                        Zuverlässigkeit <seg id="6" type="intExpr">mittheilen</seg>,</seg>
+            <said id="6" mode="indirect" content="speech writing" level="1">daß Graf v. Eulenburg, früher
+                        hier Ober=Regierungsrath, <said id="7" mode="reported" content="speech" level="2">als Vice=Präsident der hiesigen
+                        Regierung <seg id="7" type="intExpr">berufen</seg>
+               </said> und sein baldiges Eintreffen hierselbst
+                        erwartet wird.</said> -- Prof. Simson, welcher hier im Schooße
+                        seiner Familie weilt, <seg id="16" type="frame" pos="start">hat eine <seg id="16" type="intExpr">Einladung</seg> von dem <seg id="16" type="speaker">Minister</seg> von Manteuffel erhalten,</seg>
+            <said id="16" mode="indirect" content="writing" level="1">sich vor dem Zusammentritt
+                        des Volkshauses in Erfurt zu Conferenzen in Berlin
+                        einzufinden.</said>
+            Von der polnischen Gränze, 6. März. Es
+                        unterliegt keinem Zweifel, daß die russische Armee kriegsgerüstet jeden Augenblick zum Marsche bereit ist; <said id="17"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">wohin?</said>
+            <seg id="17" type="frame" pos="end">
+               <seg id="17" type="intExpr">weiß</seg> 
+               <seg id="17" type="speaker">Niemand</seg>.</seg> Alle älteren Generale sind entweder in
+                        Ruhestand versetzt oder ins Jnnere geschickt, nur junge
+                        Leute sind bei der Armee, meist von denen, die in der
+                        letzten Zeit avancirt sind. General Grabbe und Sobolew
+                        erwarten mit Nächstem eine Civil=Anstellung hohen Ranges. <seg id="10" type="frame" pos="start">
+               <seg id="10" type="speaker">Man</seg> 
+               <seg id="10" type="intExpr">sagt</seg>,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">daß noch größere Heeresmassen nach dem
+                        Königreiche Polen rücken sollen, nachdem zuvor bei Moskau eine große Revue über dieselben abgehalten worden.</said>
+            Hamburg, 12. März. Als Beleg für das dänische Treiben und das dänische böse Gewissen auf Alsen
+                        wird es gelten können, daß der preußische Commissär Präsident Vollpracht, von jener Jnsel <said id="18" mode="reported" content="speech" level="1">auf <seg id="18" type="intExpr">Befehl</seg> des <seg id="18" type="speaker">General=Commando</seg> 's</said> verwiesen wurde. Am 8. traf ihn diese
+                        Ordre in Augustenburg und mußte er am nächsten Morgen früh um halb 6 Uhr Alsen verlassen. Die dort geschehenen Permittirungen dänischer Soldaten sind vom
+                        Kriegs=Ministerium zu Kopenhagen zurückgenommen, was
+                        am 8. auf Alsen bekannt war.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

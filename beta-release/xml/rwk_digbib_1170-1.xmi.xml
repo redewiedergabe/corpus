@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Unterm Birnbaum</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Unterm Birnbaum</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Hier sah er jetzt nachdenklich auf die Stelle, wo vor einerhalben Stunde noch die Rapssäcke gestanden hatten, und in seinem Auge lag etwas, <seg id="1" type="frame" pos="start">als<seg id="1" type="intExpr"> wünsch</seg> 
+               <seg id="1" type="speaker">er</seg>,</seg>
+            <said id="1" mode="indirect" content="thought" level="1">sie stünden noch am selben Fleck oder es wären neue statt ihrer aus dem Boden gewachsen.</said>
+            <said id="26" mode="reported" content="speech thought" level="1">
+               <seg id="26 3 4" type="speaker">Er</seg> 
+               <seg id="26" type="intExpr">zählte</seg> dann die Fässerreihe</said>,<said id="3" mode="reported" content="speech" level="1"> 
+               <seg id="3" type="intExpr">rief</seg>, im Vorübergehen, einen kurzen Befehl in den Laden hinein </said>und trat gleich danach in seine gegenübergelegene Wohnstube. 
+                     Diese machte neben ihrem wohnlichen zugleich einen eigentümlichen Eindruck, und zwar, weil alles in ihr um vieles besser und eleganter war, als sich's für einen Krämer und Dorfmaterialisten schickte. Die zwei kleinen Sofas waren mit einem hellblauen Atlasstoff bezogen, und an dem Spiegelpfeiler stand ein schmaler Trumeau, weißlackiert und mit Goldleiste. <said id="4" mode="freeIndirect" content="thought" level="1">Ja, das in einem Mahagonirahmen über dem kleinen Klavier hängende Bild (allem Anscheine nach ein Stich nach Claude Lorrain) war ein Sonnenuntergang mit Tempeltrümmern und antiker Staffage</said>,<seg id="5" type="frame" pos="start"> so daß<seg id="5" type="speaker"> man</seg> sich füglich<seg id="5" type="intExpr"> fragen</seg> durfte, </seg>
+            <said id="5" mode="indirect" content="thought" level="1">wie das alles hierher komme. </said>Passend war eigentlich nur ein Stehpult mit einem Gitteraufsatz und einem Kuckloch darüber, mit Hilfe dessen man, über den Flur weg, auf das große Schiebefenster sehen konnte. 
+                     Hradscheck legte die Birne vor sich hin und blätterte das Kontobuch durch, das aufgeschlagen auf dem Pulte lag. Um ihn her war alles still, und nur aus der halb offenstehenden Hinterstube vernahm er den Schlag einer Schwarzwälder Uhr. 
+                     Es war fast, als ob das Ticktack ihn störe, wenigstens ging er auf die Tür zu, anscheinend, um sie zu schließen; als er indes hineinsah, <seg id="6" type="frame" pos="start">
+               <seg id="6" type="intExpr">nahm</seg> 
+               <seg id="6 7 9 15" type="speaker">er</seg> überrascht <seg id="6" type="intExpr">wahr</seg>,</seg>
+            <said id="6"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß seine Frau in der Hinterstube saß</said>, wie gewöhnlich schwarz, aber sorglich gekleidet, ganz wie jemand, der sich auf Figurmachen und Toilettendinge versteht. Sie flocht eifrig an einem Kranz, während ein zweiter, schon fertiger an einer Stuhllehne hing. 
+                    <said id="7" mode="direct" content="speech" level="1"> »Du hier, <seg id="8" type="speaker">Ursel</seg>! Und Kränze! Wer hat denn Geburtstag?«</said>
+            <said id="8" mode="direct" content="speech" level="1">  »Niemand. Es ist nicht Geburtstag. Es ist bloß Sterbetag, Sterbetag deiner Kinder. Aber du vergißt alles. Bloß dich nicht.« 
+ </said>
+            <said id="9" mode="direct" content="speech" level="1"> »Ach, <seg id="13 18" type="speaker">Ursel</seg>, laß doch. <said id="10" mode="reported" content="thought" level="2">
+                  <seg id="10" type="speaker">Ich</seg> 
+                  <seg id="10" type="intExpr">habe meinen Kopf voll</seg> Wunder.</said> 
+               <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="11" type="speaker">Du</seg> mußt mir nicht <seg id="11" type="intExpr">Vorwürfe machen</seg>.</said> Und dann die Kinder. Nun ja, sie sind tot, <seg id="12" type="frame" pos="start">aber <seg id="12" type="speaker">ich</seg> kann nicht trauern und <seg id="12" type="intExpr">klagen</seg>,</seg> 
+               <said id="12"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß sie's sind.</said> Umgekehrt, es ist ein Glück.«</said>
+            <said id="13" mode="direct" content="speech" level="1"> »<said id="14"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="14" type="speaker">Ich</seg> 
+                  <seg id="14" type="intExpr">verstehe</seg> dich nicht.</said>« 
+ </said>
+            <said id="15" mode="direct" content="speech" level="1"> »Und ist nur zu gut zu verstehn. Ich weiß nicht aus noch ein und habe Sorgen über Sorgen.«</said>
+            <said id="18" mode="direct" content="speech" level="1">»Worüber? Weil <seg id="19 22" type="speaker">du</seg> nichts Rechtes zu tun hast und <seg id="19" type="frame" pos="start">nicht weißt,</seg>
+               <said id="19"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes"> wie du den Tag hinbringen sollst.</said> 
+               <said id="20" mode="indirect" content="speech" level="2">Hinbringen</said>
+               <seg id="20" type="frame" pos="end">,<seg id="20" type="intExpr"> sag</seg>
+                  <seg id="20" type="speaker"> ich</seg>
+               </seg>, denn <seg id="21" type="speaker">ich</seg> will dich nicht kränken und <said id="21"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">von Zeit totschlagen sprechen.</said> 
+               <said id="22"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Aber <seg id="22" type="intExpr">sage</seg> selbst, wenn drüben die Weinstube voll ist, dann fehlt dir nichts.</said> Ach, das verdammte Spiel, das ewige Knöcheln und Tempeln. Und wenn du noch glücklich spieltest! Ja, Hradscheck, <seg id="23" type="frame" pos="start">das muß <seg id="23" type="speaker">ich</seg> dir <seg id="23" type="intExpr">sagen</seg>,</seg> 
+               <said id="23" mode="indirect" content="speech" level="2">wenn du spielen willst, so spiele wenigstens glücklich.</said> Aber ein Wirt, dernichtglücklich spielt, muß davonbleiben, sonst spielt er sich von Haus und Hof. Und dazu das Trinken, immer der schwere Ungar, bis in die Nacht hinein.« </said>
+            <said id="24"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"> 
+               <seg id="24" type="speaker">Er</seg> 
+               <seg id="24" type="intExpr">antwortete</seg> nicht</said>, und <seg id="25" type="frame" pos="start">erst nach einer Weile nahm <seg id="25" type="speaker">er</seg> den Kranz, der über der Stuhllehne hing, und <seg id="25" type="intExpr">sagte</seg>:</seg>
+            <said id="25" mode="direct" content="speech" level="1"> »Hübsch. Alles, was du machst, hat Schick. Ach, Ursel, ich wollte, du hättest bessere Tage.« </said>
+                     Dabei trat er freundlich an sie heran und streichelte sie mit seiner weißen, fleischigen Hand. 
+                     Sie ließ ihn auch gewähren, und als sie, wie beschwichtigt durch seine Liebkosungen, von ihrer Arbeit aufsah, sah man, daß es ihrerzeit eine sehr schöne Frau gewesen sein mußte, ja, sie war es beinah noch.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

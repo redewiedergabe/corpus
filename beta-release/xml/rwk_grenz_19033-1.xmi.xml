@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Mönch von Weinfelden (Fortsetzung)</title>
+             <author>Haarhaus, Julius R.</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1904</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Mönch von Weinfelden (Fortsetzung)</f>
+         <f name="author">Haarhaus, Julius R.</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+^
+                         
+            
+            Nun wurde der dritte Leichnam gebracht. Wieder wichen die Bauern bei dem
+                        Erscheinen des Burgherrn zurück, und wieder strömten sie vor, als sich die Tür hinter
+                        ihm schloß.
+            <said id="1" mode="direct" content="speech" level="1">Da habt ihr sie</said>
+            <seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">sagte</seg> 
+               <seg id="1" type="speaker">Girret</seg>,</seg>
+            <said id="1" mode="direct" content="speech" level="1">er hat sie freigegeben. <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Aber wenn <seg id="11" type="speaker">ihr</seg> wieder
+                        eine <seg id="11" type="intExpr">Botschaft</seg> auf das Burghaus habt</said>, so schickt einen andern.</said>
+            Er trat beiseite und wischte sich mit dem Ärmel seines Wamses den kalten
+                        Schweiß von der Stirn.
+            <said id="2" mode="direct" content="speech" level="1">Drei Leichen auf einen Tag!</said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">rief</seg> 
+               <seg id="2 3" type="speaker">Goerres</seg>, der Totengräber.</seg>
+            <said id="3" mode="direct" content="speech" level="1">Das haben wir zu
+                        Weinfelder seit Anno siebenundachtzig nicht mehr gehabt! Und gestern eine —
+                        macht vier.</said>
+            <seg id="4" type="frame" pos="start">
+               <seg id="4" type="speaker">Er</seg> wollte noch <seg id="4" type="intExpr">hinzufügen</seg>:</seg>
+            <said id="4"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Meinethalben mags so weiter gehn.</said> Aber <seg id="12" type="speaker">er</seg> besann
+                        sich noch rechtzeitig und <said id="12"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="12" type="intExpr">schwieg</seg>.</said>
+            Man hob die Leichname auf und trug sie ins Dorf.
+            In den nächsten Nächten blieb alles still. Herr Gyllis kannte seine Hofesleute
+                        genau genug, <seg id="5" type="frame" pos="start">daß <seg id="5" type="speaker">er</seg> 
+               <seg id="5" type="intExpr">wissen</seg> konnte,</seg>
+            <said id="5"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">sie würden keinen neuen Angriff auf seine Person
+                        mehr wagen.</said> Er hatte in ihren Mienen die eigentümliche Scheu bemerkt, die sie
+                        nur an den Tag zu legen pflegten, <said id="13"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">wenn <seg id="13" type="speaker">sie</seg> an den Einfluß einer übernatürlichen
+                        Macht <seg id="13" type="intExpr">glaubten</seg>.</said>
+            <seg id="7" type="frame" pos="start">
+               <seg id="7" type="speaker">Er</seg> 
+               <seg id="7" type="intExpr">wußte</seg>,</seg>
+            <said id="7"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß sie ihm seit Agrippas Besuch im Burghaus zaubrische
+                        Kräfte und die Verbindung mit dem Bösen zutrauten, und daß sie darin durch
+                        sein Verhalten bei dem Malefizgericht gegen die rote nett bestärkt worden waren.</said>
+                        Und wie die Bauern, <seg id="8" type="frame" pos="start">so war <seg id="8" type="speaker">er</seg> selbst auch davon <seg id="8" type="intExpr">überzeugt</seg>,</seg>
+            <said id="8" mode="indirect" content="thought" level="1">daß er seine Rettung
+                        einer übernatürlichen Macht verdankte</said>, nur mit dem Unterschiede, <said id="9"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">daß nach der
+                        <seg id="9" type="speaker">Bauern</seg> 
+               <seg id="9" type="intExpr">Meinung</seg> diese Hilfe von unten, nach seiner eignen aber von oben gekommen
+                        war.</said> Und so lebte er in diesen Tagen ruhiger als je zuvor.
+            Eines Nachts — der Mond war beinahe voll geworden — hatte der Burgherr
+                        wieder lange über den Büchern gesessen und wollte gerade sein Lager aufsuchen,
+                        als er auf ein seltsames plätscherndes Geräusch aufmerksam wurde, das vom Weiher
+                        her kam. Er löschte das Licht und trat ans Fenster. Im Frühling und im Herbst,
+                        wenn die wilden Schwäne und die Hohlgänse erschienen, wäre ein nächtlicher Lärm
+                        auf dem Teiche nichts Ungewöhnliches gewesen, aber jetzt, zur Zeit der Sommerwende, war an einen Einfall des Wassergeflügels nicht zu denken. Auch von den
+                        Fischen konnte das Geräusch nicht herrühren; die Streichzeit war längst vorüber,
+                        und das Emporschnellen der von den Hechten verfolgten Futterfische klang anders.
+                        Herr Gyllis konnte auf der vom Monde beschienenen Wasserfläche eine lange Wellenbahn erkennen, die in strudelnde Kreise endete. Jetzt tauchte ganz nahe bei der
+                        Sperrmauer etwas Weißes empor — ein menschlicher Körper — ein nackter Frauenleib. Die Badende hielt sich an der Mauer fest und schwang sich hinauf. Von
+                        den schimmernden Schultern und Armen troff die silberne Flut, und die Fülle des
+                        nassen Haares legte sich wie ein leuchtender Mantel um Brust und Rücken.
+            Der Burgherr fuhr zurück, <seg id="14" type="frame" pos="start">
+               <seg id="14" type="speaker">er</seg> 
+               <seg id="14" type="intExpr">fühlte</seg>,</seg>
+            <said id="14" mode="indirect" content="thought" level="1">wie sein Herz schneller zu klopfen begann,
+                        und wie sein Blut in den Halsadern hämmerte.</said> Zugleich wurde ihm die Kehle
+                        so trocken, als sei er dem Verschmachten nahe. Er wollte vom Fenster weg, vor
+                        dem Anblick der verkörperten Sünde fliehen, der Versuchung entrinnen — umsonst,
+                        eine geheimnisvolle Macht hielt ihn an seinem Platze fest.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

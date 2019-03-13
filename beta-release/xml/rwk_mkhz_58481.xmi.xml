@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Unsure</f>
+         <f name="source">mkhz.social</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">„ Trinkend, küssend, lachend wollen
+                        <seg id="10" type="speaker">Wir</seg> die Ewigkeit vollbringen,
+                        <said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">Und verzückt Halleluja,
+                        Kyrie Eleison <seg id="10" type="intExpr">fingen</seg>.</said>“</said> 
+               Also schloß der <seg id="1" type="speaker">Christ</seg>. <seg id="2" type="frame" pos="start">Die <seg id="2" type="speaker">Mönchlein</seg>
+                        <seg id="2" type="intExpr">Glaubten</seg> schon,</seg>
+            <said id="2"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">Erleuchtung träte
+                        Jn die Herzen</said>, und sie schleppten
+                        Flink herbei das Taufgeräthe. 
+               Doch die wasserscheuen Juden
+                        Schütteln sich und grinsen schnöde.
+                        <seg id="3" type="frame" pos="start">
+               <seg id="3" type="speaker">Rabbi Juda</seg>, der Navarrer,
+                        Hub jetzt an die <seg id="3" type="intExpr">Gegenrede</seg>:</seg>
+            <said id="3" mode="direct" content="speech" level="1">„Um für deine Saat zu düngen
+                        Meines Geistes dürren Acker,
+                        <said id="4" mode="reported" content="speech" level="2">Mit Mistkarren voll Schimpfwörter
+                        Hast <seg id="4" type="speaker">du</seg> mich <seg id="4" type="intExpr">beschmissen</seg> wacker.</said> 
+               „So folgt Jeder der Methode,
+                        Dran er nun einmal gewöhnet.
+                        <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Und anstatt <seg id="11" type="speaker">dich</seg> drob zu <seg id="11" type="intExpr">schelten</seg>
+               </said>,
+                        <said id="5" mode="reported" content="speech" level="2">
+                  <seg id="5" type="intExpr">Sag'</seg> 
+                  <seg id="5" type="speaker">ich</seg> Dank dir</said>, wohlversöhnet. 
+               „Die Dreieinigkeitsdoktrin
+                        Kann für unsre Leut' nicht passen,
+                        Die mit Regula=de=tri
+                        Sich von Jugend auf befassen. 
+               „Daß in deinem Gotte drei,
+                        Drei Personen sind enthalten,
+                        Jst bescheiden noch, sechstausend
+                        Götter gab es bei den Alten. 
+               „Unbekannt ist mir der Gott,
+                        <said id="12"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">Den ihr <seg id="12" type="speaker">Christum</seg> pflegt zu <seg id="12" type="intExpr">nennen</seg>
+               </said>;
+                        Seine Jungfer Mutter gleichfalls
+                        Hab' ich nicht die Ehr' zu kennen. 
+               „Jch bedaure, daß er einst,
+                        Vor etwa zwölfhundert Jahren,
+                        Ein'ge Unannehmlichkeiten
+                        Zu Jerusalem erfahren. 
+               „Ob die Juden ihn getödtet,
+                        Das ist schwer jetzt zu erkunden,
+                        Da ja das Corpus delicti
+                         Schon am dritten Tag verschwunden. 
+               „Daß er ein Verwandter sei
+                        Unsres Gottes ist nicht minder
+                        Zweifelhaft; <seg id="9" type="frame" pos="start">so viel <seg id="9" type="speaker">wir</seg> 
+                  <seg id="9" type="intExpr">wissen</seg>,</seg>
+                        <said id="9"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">Hat der Letztre keine Kinder.</said> 
+               „Unser Gott ist nicht gestorben
+                        Als ein armes Lämmerschwänzchen
+                        Für die Menschheit, ist kein süßes
+                        Philantröpfchen, Faselhänschen. 
+               „Unser Gott ist nicht die Liebe;
+                        Schnäbeln ist nicht seine Sache,
+                        Denn er ist ein Donnergott
+                        Und er ist ein Gott der Rache. 
+               „Seines Zornes Blitze treffen
+                        Unerbittlich jeden Sünder,
+                        Und des Vaters Schulden büßen
+                        Oft die späten Enkelkinder. 
+               „Unser Gott, der ist lebendig,
+                        Und in seiner Himmelshalle
+                        Existieret er drauf los
+                        Durch die Ewigkeiten alle.
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

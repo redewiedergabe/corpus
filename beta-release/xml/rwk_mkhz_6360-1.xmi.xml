@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Folgen einer Bedientenklatscherei: Aus den Erinnerungen des Lakaien Ferard. (Fortsetzung.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Folgen einer Bedientenklatscherei: Aus den Erinnerungen des Lakaien Ferard. (Fortsetzung.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Er zählte kaum
+                        dreiunddreißig Jahre, machte ein hübsches Haus, war ein guter Gesellschafter und hatte beharrlich sich geweigert zu beirathen, denn er liebte die
+                        Veränderung, was jedoch die Damen nicht abhielt, sein Haus in Gesellschaft ihrer Männer zu besuchen; denn Herr Lenoir hielt streng auf äußern
+                        Anstand. Am besagten Abend hatte der Rath eine sehr heitere Gesellschaft bei sich versammelt. Herr Drou, Advokat, war mit seiner Gattin,
+                        seiner Schwiegermutter der Frau Deulau geladen, der Herr Guairal, Sekretair des Palais, mit seiner Ehehälfte, der Rath Tribolet, die Herren
+                        Bournaux, Dumesnil und Naudif -- lauter bekannte und geachtete Personen, befanden sich unter den Gästen. Herr Lenoir hatte seit längerer
+                        Zeit einen Diener in seinem Hause, dem er als Hagestolz sein Vertrauen
+                        unbedingt schenkte. Dieser Diener hieß No ë l Roi. Er war etwa achtund vierzig Jahre alt und <said id="13"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">
+               <seg id="13" type="intExpr">galt</seg> bei <seg id="13" type="speaker">uns</seg> jüngeren Leuten für eine Autorität in Sachen des Lakaienwesens.</said> Er konnte nun, wie Viele seines
+                        Gleichen, keinen Nebenbuhler im Hause und am Tisch seines Herrn leiden.
+                        Nicht allein die Verkürzung der Trinkgelder war es, was Roi im Auge
+                        hatte -- er litt überhaupt keinen Widerspruch, und da Herr Lenoir sich
+                        sehr ungern um Dinge seines Junggesellenhausstandes kümmerte, durfte
+                        Roi ungehindert schalten. Daher kam es denn, daß häufig, wenn keine
+                        allzu große Zahl von Gästen an der Tafel Lenoirs speiste, Herr Roi ganz
+                        allein die Schmausenden bediente. Am 20. Dezember waren etwa vierzehn
+                        Gäste bei Herrn Lenoir versammelt, und Roi hatte sich daher anheischig
+                        gemacht, diese Herrschaften allein zu bedienen. <said id="3" mode="reported" content="speech" level="1">Jch wurde noch vor Beginn der Tafel in das Zimmer <seg id="3" type="intExpr">bestellt</seg>
+            </said>, weil <seg id="3 4" type="speaker">Herr Foi sier</seg>, der ebenfalls
+                        zugegen war, <said id="4" mode="reported" content="speech" level="1">mir eine <seg id="4" type="intExpr">Bestellung</seg> gab.</said> Nachdem ich diese empfangen hatte,
+                        ging ich fort. Der alte Roi hatte schon mit scheelen Blicken unsere Versammlung in dem Vorzimmer bemerkt; denn wenn recht viele der Bedienten
+                        anwesend waren, dann gab Herr Lenoir wohl für diese einiges an Wein
+                        zum Besten. <said id="5" mode="reported" content="speech" level="1">
+               <seg id="5" type="speaker">Ich</seg> 
+               <seg id="5" type="intExpr">richtete</seg> meine Bestellung <seg id="5" type="intExpr">aus</seg>
+            </said> und kam dann wieder in
+                        das Haus Lenoirs. Hier fand ich nur noch einige Herren vor, darunter
+                        den meinigen. Die Anderen hatten schon das Haus verlassen; namentlich
+                        waren Herr und Madame Drou früh aufgebrochen, weil Herr Drou sich
+                        unwohl fühlte. <seg id="14" type="frame" pos="start">
+               <seg id="14" type="speaker">Ich</seg> will hier gleich <seg id="14" type="intExpr">erzählen</seg>,</seg>
+            <said id="14" mode="indirect" content="speech" level="1">
+               <said id="15" mode="reported" content="speech" level="2">was unter vielen anderen
+                        Gegenständen bei Tafel <seg id="15" type="intExpr">besprochen</seg> wurde</said>
+            </said>, <said id="7" mode="reported" content="speech" level="1">weil dieser Theil der <seg id="7" type="intExpr">Unterhaltung</seg> gerade derjenige ist, dessen Jnhalt zu großen Unannehmlichkeiten
+                        führte.</said> Herr Drou war durch starke Arbeit und mancherlei Verdrießlichkeiten in eine Art von Melancholie verfallen, die ihn zuweilen für seine
+                        Umgebung recht ungenießbar machte. Er wurde fast mit Gewalt von
+                        seiner jungen Gattin in Gesellschaft geführt, um sich so viel als möglich
+                        zu zerstreuen. An jenem Abend war er wieder besonders schwermüthig.
+                        Alle <seg id="8" type="speaker">Anwesenden</seg> bemühten sich, ihn zu erheitern und <said id="8" mode="reported" content="speech" level="1">ihm seine Grillen
+                        <seg id="8" type="intExpr">auszureden</seg>
+            </said>; namentlich gab sich der junge Herr Legouv é, Advokat am
+                        Ch â telet, alle erdenkliche Mühe. Gerade als ein ganz treffliches Filet mit
+                        gesottenen Trüffeln herumgereicht ward, <seg id="9" type="frame" pos="start">
+               <seg id="9" type="intExpr">sagte</seg> 
+               <seg id="9" type="speaker">er</seg> zu Drou:</seg>
+            <said id="9" mode="direct" content="speech" level="1">„Nun, beißen Sie tüchtig ein -- <said id="10"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">das bringt <seg id="10" type="speaker">Sie</seg> auf andere <seg id="10" type="intExpr">Gedanken</seg>
+               </said>;
+                        die Trüffeln haben schon Moli è re begeistert.“</said>
+            <said id="11" mode="direct" content="speech" level="1">„Oh, mein Lieber“</said>
+            <seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> 
+               <seg id="11" type="speaker">Drou</seg>, der sehr finster drein schaute,</seg>
+            <said id="11" mode="direct" content="speech" level="1">„<seg id="12" type="frame" pos="start">
+                  <seg id="12" type="speaker">ich</seg>
+                        <seg id="12" type="intExpr">weiß</seg>,</seg> 
+               <said id="12"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">daß mir nichts helfen kann, als gute, strenge Diät.</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

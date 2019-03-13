@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ekkehard der Erste von St. Gallen und das Waltharilied</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Ekkehard der Erste von St. Gallen und das Waltharilied</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Seine Milde und
+                        Freigebigkeit waren im Kloster bekannt und gerühmt, auch den Abt soll er in
+                        diesem Sinne beeinflußt haben, <said id="2" mode="reported" content="speech" level="1">sodaß der <seg id="2" type="speaker">Kämmerer</seg> niedere, dem die Ver 
+            
+            waltung des Klosterguts und die Verteilung der Almosen oblag, diesem oftmals
+                        <seg id="2" type="intExpr">Vorwürfe</seg> über seine Verschwendung machte</said>, <said id="3" mode="reported" content="speech" level="1">worauf sich dann der <seg id="3" type="speaker">Abt</seg> auf
+                        den Dekan Ekkehard als seinen Freund und Helfershelfer im Wohltun zu <seg id="3" type="intExpr">berufen</seg> pflegte.</said>
+            Ekkehards Name ist auch mit <said id="4" mode="reported" content="speech" level="1">der oft <seg id="4" type="intExpr">nacherzählten</seg> Anekdote von dem Landstreicher</said> verknüpft, der, indem er sich lahm stellte, die Gastlichkeit des Klosters
+                        in Anspruch nahm. Ihm wurde <said id="23" mode="reported" content="speech" level="1">auf <seg id="23" type="speaker">Ekkehards</seg> 
+               <seg id="23" type="intExpr">Geheiß</seg>
+            </said> ein warmes Bad bereitet, und da ihm das Wasser zu heiß war, <seg id="6" type="frame" pos="start">so <seg id="6" type="intExpr">schrie</seg> 
+               <seg id="6" type="speaker">er</seg> laut in seiner welschen
+                        Sprache:</seg>
+            <said id="6" mode="direct" content="speech" level="1">ei mihi, cald est, cald est</said>, <seg id="7" type="frame" pos="start">worauf der <seg id="7" type="speaker">Diener</seg>, der das Bad zurichtete,
+                        in der <seg id="7" type="intExpr">Meinung</seg>,</seg>
+            <said id="7" mode="indirect" content="thought" level="1">der <seg id="8" type="speaker">Fremde</seg> sei ein Deutscher und <said id="8"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="8" type="intExpr">beklage</seg> sich über die Kälte
+                        des Wassers</said>
+            </said> — aber auch nicht ohne einen Zusatz von Bosheit, weil er sich
+                        ärgerte, daß er den dicken Kerl auf seinem Rücken in das Badezimmer hatte
+                        schleppen müssen —, heißes Wasser herbeitrug und solches in Strömen in die
+                        Badewanne goß. Da sprang der <seg id="24" type="speaker">Fremde</seg>, <said id="24"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">seine Lähmung <seg id="24" type="intExpr">vergessend</seg>
+            </said>, aus der
+                        Wanne heraus und suchte, der Tür zueilend, das Weite, während der Diener,
+                        <said id="25"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">da <seg id="25" type="speaker">er</seg> den Betrug <seg id="25" type="intExpr">erkannt</seg> hatte</said>, dem Fliehenden nachsprang und ihm mit
+                        einem halbglüheuden Holzscheit, das er dem Feuer entrissen hatte, ungezählte
+                        Streiche aufmaß. Von dem Lärm herbeigerufen erschien dann Ekkehard, wehrte
+                        dem Wütenden und ließ den betrügerischen Schelm laufen. Vier Neffen hat
+                        Ekkehard dem Kloster zugeführt, darunter Ekkehard den Zweiten, der die Herzogin
+                        Hadwig im Lateinischen unterrichtet hat — dann ist <said id="10" mode="direct" content="writing" level="1">„der edle Weinstock, der
+                        solche Schößlinge entsandte, selbst in guter Reife am Tage des heiligen Felix
+                        (14. Januar 973) eingeherbstet worden."</said>
+            <said id="26" mode="reported" content="speech" level="1">Groß war die <seg id="26" type="intExpr">Klage</seg> um den allerseits verehrten Mann.</said>
+            <seg id="11" type="frame" pos="start">Weinend ging <seg id="11" type="speaker">Immo</seg>, Ekkehards Nachfolger im Dekanat
+                        und später des Klosters Abt, als der Leichnam auf der Bahre lag, beiseite
+                        und <seg id="11" type="intExpr">rief</seg> laut:</seg>
+            <said id="11" mode="direct" content="speech" level="1">„Sieh, Herr, und betrachte, wen du so eingeherbstet hast."</said>
+            <said id="12"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Das ist so ziemlich alles, was <seg id="12" type="speaker">wir</seg> von dem Leben Ekkehards <seg id="12" type="intExpr">wissen</seg>
+            </said>, der
+                        den Namen seines Klosters so berühmt gemacht hat. Auch von seinen Dichtungen ist nicht alles erhalten: seine Hymnen und Sequenzen sind verschollen,
+                        dagegen strahlt sein Waltharius manu fortis noch heute in unvergänglichem
+                        Glanz und ist seit Scheffels Ekkehard auch in der kleinsten Bücherei zu finden.
+                        <said id="13" mode="reported" content="speech" level="1">In den Schulen wird Ekkehards Name neben dem seines Zeitgenossen, des
+                        großen Königs aus dem Sachsenstamme, <seg id="13" type="intExpr">genannt</seg>
+            </said>, <seg id="14" type="frame" pos="start">und in jedem Handbuch der
+                        Literaturgeschichte steht zu <seg id="14" type="intExpr">lesen</seg>,</seg>
+            <said id="14" mode="indirect" content="writing" level="1">
+               <said id="15" mode="reported" content="writing" level="2">daß Ekkehard von St. Gallen den Waltharius
+                        in der Jugend gedichtet hat.</said>
+            </said> So ist es, der Waltharius ist kein Werk des
+                        reifern Alters, <said id="27" mode="reported" content="writing" level="1">sondern ans der Schulbank <seg id="27" type="intExpr">verfaßt</seg>
+            </said>, <said id="17"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">ein debitum magistro, wie
+                        <seg id="17" type="speaker">man</seg> sich in der Klostersprache <seg id="17" type="intExpr">ausdrückte</seg>.</said> Ein <seg id="18" type="speaker">Exemplar</seg> dieses Gedichts gelangte wenig Jahre vor oder nach Ekkehards Tode nach Straßburg, es
+                        wurde dem Bischof Erchambald übersandt mit <said id="18" mode="reported" content="writing" level="1">einer in lateinischen Hexametern
+                        abgefaßten <seg id="18" type="intExpr">Widmung</seg>
+            </said>, <said id="19"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  border="yes">als deren Verfasser sich <seg id="19 28" type="speaker">Geraldus</seg> 
+               <seg id="19" type="intExpr">nennt</seg>
+            </said>, <seg id="28" type="frame" pos="start">ohne jedoch
+                        von seiner Persönlichkeit etwas andres <seg id="28" type="intExpr">anzugeben</seg>,</seg>
+            <said id="28" mode="indirect" content="writing" level="1">als daß er ein fragilis
+                        peccator, d. h. ein alter sündhafter Mann, und ein certus corde et fidelis
+                        alumnus, d. h. in der Sprache des Mittelalters ein treuer und ergebner Diener
+                        seines hochmächtigen Gönners sei.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

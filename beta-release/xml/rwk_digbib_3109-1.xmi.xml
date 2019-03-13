@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>9.Der Zauberer und sein Lehrling</title>
+             <author>Spiegel, Karl</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">9.Der Zauberer und sein Lehrling</f>
+         <f name="author">Spiegel, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Bald hätte er den Hans erschnappt, aber Hans machte sich zu einem Fingerle (Fingerringlein) und fiel vor einem Mädchen nieder, das gerade daher ging. Das Mädchen sah das Fingerle, hob es auf und steckte es an seinen Finger, wohin es recht schön paßte. Alle Tage kam nun ein Mann, der dem Mädchen das Ringlein abkaufen wollte. Doch das Mädchen gab es nicht her. Eines Tages, als der Mann wieder lange umsonst gehandelt hatte, wollte er dem Mädchen das Ringlein mit Gewalt nehmen. Da fiel das Ringlein auf den Boden und wurde zu lauter Hirsekörnern. Der fremde Mann, es war der Hexenmeister, machte sich zu einem ›Göhger‹ (Hahn) und fraß die Hirsekörner auf; dann flog er davon. Die Sache hatte aber doch einen Haken gehabt; <seg id="1" type="frame" pos="start">der <seg id="1" type="speaker">Hexenmeister</seg> 
+               <seg id="1" type="intExpr">glaubte</seg>,</seg>
+            <said id="1"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">er hätte den Hans vertilgt</said>, aber der Hans lebte noch. Ein Hirsekörnlein, welches der Hans selbst war, hatte der Hexenmeister übersehen. Dies Hirsekörnlein war in des Mädchens Pantoffel gefallen und dort hatte es der Hexenmeister nicht gesehen. <seg id="13" type="speaker">Hans</seg> verwandelte sich wieder in seine richtige Gestalt und <said id="13" mode="reported" content="speech" level="1">
+               <seg id="13" type="intExpr">freite</seg> um das Mädchen</said>, das ihn schon als Ring an der Hand getragen hatte. Das Mädchen fand Gefallen an Hans und wurde seine Frau. 
+                  Sie lebten sehr lange und waren glücklich miteinander. <said id="2"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Aber nie soll <seg id="2 3" type="speaker">Hans</seg> seiner Frau etwas von seiner Hexenkunst <seg id="2" type="intExpr">erzählt</seg> haben</said> und <seg id="3" type="frame" pos="start">ihr auch nie <seg id="3" type="intExpr">gesagt</seg> haben,</seg>
+            <said id="3"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">daß sie ihn schon als Ring an der Hand getragen habe.</said> Gegen seine Frau war Hans sehr gut, <seg id="4" type="frame" pos="start">da <seg id="4" type="speaker">er</seg> sich immer <seg id="4" type="intExpr">dachte</seg>,</seg>
+            <said id="4" mode="direct" content="thought" level="1">hat sie mich als Ring schon so gern gehabt, so hat sie mich als Mensch noch viel lieber.</said> 
+                  Seine Hexenkunst hat Hans nie mehr ausgeübt, da er bei seinem ersten Versuch so viel Angst hat ausstehen müssen, <said id="14" mode="reported" content="speech" level="1">und wenn einmal die <seg id="14" type="intExpr">Rede</seg> aufs Hexen kam</said>, <seg id="6" type="frame" pos="start">soll <seg id="6" type="speaker">Hans</seg> immer <seg id="6" type="intExpr">gesagt</seg> haben:</seg>
+            <said id="6" mode="direct" content="speech" level="1">Das ist nichts für rechtschaffene Leute.</said>
+            <said id="15" mode="reported" content="writing" level="1">
+               <seg id="15" type="intExpr">Aufgeschrieben</seg> durch <seg id="15" type="speaker">Herrn Adolf Schäfer</seg>
+            </said>, z.Z. Steuerrevisor in Fichtelberg, O.-Fr.; dem Verein übergeben am 3. 2. 1896. (Urschrift.)
+               
+               
+                  Fußnoten
+                  <note>
+                     
+                        
+                        1 Vorbemerkung des Märchen-Aufschreibers: Die Märchen auf der Rhön sind noch zahlreich, mehr als die Sagen. In jedem Dorfe gibt es gewisse <seg id="7" type="speaker">Personen</seg>, <said id="7" mode="reported" content="speech" level="1">die besonders gut Märchen <seg id="7" type="intExpr">erzählen</seg> können</said> und über eine große Anzahl solcher verfügen. Solche <seg id="9" type="speaker">Personen</seg> haben immer ein gutes »Sprechwerk«, wie der Volksausdruck heißt, dazu ein beneidenswertes Gedächtnis, <said id="9" mode="reported" content="speech" level="1">so daß sie <said id="16"
+                        mode="reported"
+                        content="speech"
+                        level="2"
+                        border="yes">ein einmal <seg id="16" type="intExpr">gehörtes</seg> Märchen</said> meist sofort Wort für Wort <seg id="9" type="intExpr">nacherzählen</seg> können</said>; dagegen sind sie nur mangelhaft lese- und schreibkundig, manche von ihnen sind es gar nicht. Natürlich war die Erzählweise sehr urwüchsig und durchaus nicht salonfähig. <said id="17" mode="reported" content="speech" level="1">In der Spinnstube, beim Spielgehen, auf der Weide wurden »Märlich« und »Geschichtlich« <seg id="17" type="intExpr">erzählt</seg>
+               </said>, und wo ein <seg id="10" type="speaker">Mann</seg> oder eine <seg id="10" type="speaker">Frau</seg> im Hause war, <said id="10" mode="reported" content="speech" level="1">die schön <seg id="10" type="intExpr">erzählen</seg> konnte</said>, dahin ging man gern »spiel« und »spinn«. <said id="18" mode="reported" content="speech" level="1">Ein Märchen, der goldene Johannes, der bei seiner Geburt schon ein goldenes Kreuz auf seiner Brust hatte, wurde besonders gern und oft <seg id="18" type="intExpr">verlangt</seg>
+               </said> und es durfte ein guter Erzähler sein, <said id="12"
+                     mode="reported"
+                     content="speech"
+                     level="1"
+                     nonfact="yes">wollte <seg id="12" type="speaker">er</seg> dieses Märchen an einem Abend <seg id="12" type="intExpr">erzählen</seg>.</said> Die alten Märchen kommen »außer der Modi«, die Leute haben Lesen und Schreiben gelernt und lesen jetzt selbst Geschichten.
+
+</note>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Doktor Gräsler, Badearzt</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1917</f>
+         <f name="decade">1910</f>
+         <f name="title">Doktor Gräsler, Badearzt</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Während das Spiel weiterging, dem Doktor Gräsler etwas zerstreut zuhörte, fühlte er von einer Loge her einen Operngucker auf sich gerichtet. Er erkannte Böhlinger, grüßte ihn unbefangen und erwiderte in keiner Weise den pfiffig fragenden Blick des alten Freundes. Als er im letzten Zwischenakt mit Katharina in den Wandelgängen hin und her spazierte, hing <seg id="1" type="speaker">er</seg> sich plötzlich in ihren Arm, was sie ohne weiteres geschehen ließ, <said id="1" mode="reported" content="speech" level="1">gab über die Leistungen einiger Darsteller seine <seg id="1" type="intExpr">Meinung</seg> ab</said>, aber so eindringlich und leise, als gäbe es ein holdes Geheimnis zwischen ihm und seiner reizenden Begleiterin, und er war etwas enttäuscht, Böhlinger nicht zu begegnen. Das letzte Zeichen tönte, und als Gräsler nun wieder neben Katharina saß, rückte er so nahe an sie heran, daß ihre Arme sich berührten und da sie den ihren nicht regte, <seg id="2" type="frame" pos="start">
+               <seg id="2" type="intExpr">fühlte</seg> 
+               <seg id="2" type="speaker">er</seg>,</seg>
+            <said id="2"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">wie sich allmählich eine immer vertrautere Beziehung zwischen ihm und ihr hergestellt hatte</said>, und in der Garderobe, während er ihr in die Jacke hineinhalf, durfte er es wohl wagen, ihr flüchtig Haare und Wangen zu streicheln. 
+                     Als sie vor dem Tore standen, <seg id="3" type="frame" pos="start">
+               <seg id="3" type="intExpr">sagte</seg> 
+               <seg id="3" type="speaker">sie</seg>, unter dem Hut zu ihm 
+aufblickend, in einem Ton, der nicht ganz ernst gemeint klang:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Jetzt muß ich zusehen, daß ich nach Hause komme.«</said>
+            <said id="4" mode="direct" content="speech" level="1">»<said id="5" mode="indirect" content="thought" level="2">Aber vorher</said>,«</said>
+            <seg id="4" type="frame" pos="mid">
+               <seg id="4" type="intExpr">entgegnete</seg> 
+               <seg id="4" type="speaker">er</seg> gewandt,</seg>
+            <said id="4" mode="direct" content="speech" level="1">»<said id="5" mode="indirect" content="thought" level="2">werden Sie mir</said>
+               <seg id="5" type="frame" pos="mid">, wie <seg id="5" type="speaker">ich</seg> 
+                  <seg id="5" type="intExpr">hoffe</seg>,</seg> 
+               <said id="5" mode="indirect" content="thought" level="2">liebes Fräulein Katharina, die Ehre erweisen, mein bescheidenes Mahl mit mir zu teilen.</said>«</said> 
+                     Sie sah ihn zuerst an wie fragend, dann nickte sie ernst und so rasch, als verstünde sie mehr, <said id="6" mode="reported" content="speech" level="1">als <seg id="6" type="speaker">er</seg> 
+               <seg id="6" type="intExpr">gesagt</seg> hatte.</said> Und wie Liebende, deren Schritte die Leidenschaft beschleunigt, Arm in Arm, eilten sie durch die abendlichen Straßen seinem Hause zu. 
+                     Als sie in seiner Wohnung angelangt waren und er im Arbeitszimmer Licht gemacht hatte, blickte Katharina rings um sich und betrachtete Bilder und Bücher mit neugierigen Augen. <said id="7" mode="direct" content="speech" level="1">»Gefallt es Ihnen bei mir?«</said>
+            <seg id="7" type="frame" pos="end">
+               <seg id="7" type="intExpr">fragte</seg> 
+               <seg id="7 9" type="speaker">er</seg>.</seg>
+            <seg id="8 10 11" type="speaker">Sie</seg> nickte. <said id="8" mode="direct" content="speech" level="1">»Es ist aber doch ein ganz altes Haus, nicht wahr?«</said> – <said id="9" mode="direct" content="speech" level="1">»Dreihundert Jahre gewiß.«</said> – <said id="10" mode="direct" content="speech" level="1">»Und wie neu alles aussieht!«</said> 
+                     Gern erbot er sich, ihr die übrigen Räume zu zeigen, <said id="11" mode="reported" content="speech" level="1">die in Ausstattung und Anordnung ihren <seg id="11" type="intExpr">Beifall</seg> fanden</said>; doch als sie mit ihm ins Zimmer seiner verstorbenen Schwester trat, sah sie ihn befremdet an. <said id="12" mode="direct" content="speech" level="1">»Sie sind doch nicht am Ende verheiratet,«</said>
+            <seg id="12" type="frame" pos="mid">
+               <seg id="12" type="intExpr">sagte</seg> 
+               <seg id="12" type="speaker">sie</seg>,</seg>
+            <said id="12" mode="direct" content="speech" level="1">»und Ihre Frau ist – verreist?«</said> Er lächelte zuerst, dann strich er sich mit der Hand über die Stirn, und <seg id="13" type="frame" pos="start">mit gedämpfter Stimme <seg id="13" type="intExpr">erklärte</seg> 
+               <seg id="13" type="speaker">er</seg> ihr,</seg>
+            <said id="13" mode="indirect" content="speech" level="1">daß dieses völlig neu eingerichtete Zimmer für seine Schwester bestimmt gewesen sei, die vor wenigen Monaten im Süden gestorben war.</said> Katharina blickte ihm wie prüfend ins Auge; dann trat sie näher auf ihn zu, nahm seine Hand und strich schmeichelnd mit der ihren darüber hin, was ihm sehr wohl tat. Er drehte das Licht ab, sie begaben sich ins Speisezimmer, und jetzt erst ließ sich Katharina bewegen, Hut und Jacke abzulegen. Dann aber war sie rasch wie zu Hause. Als er sich anschickte, den Tisch zu decken, <seg id="14" type="frame" pos="start">ließ <seg id="14" type="speaker">sie</seg> es nicht zu, sondern <seg id="14" type="intExpr">bestand darauf</seg>,</seg>
+            <said id="14" mode="indirect" content="speech" level="1">das sei ihre Sache.</said>
+            <said id="15" mode="reported" content="speech" level="1">Auf <seg id="15" type="speaker">ihren</seg> scherzenden <seg id="15" type="intExpr">Befehl</seg>
+            </said> nahm er auf einem entfernten Sessel Platz und sah ihr mit leiser Rührung zu, wie sie hausmütterlich alle Vorbereitungen für das Abendessen traf, und wie sie sich nicht nur hierbei, sondern auch draußen in Küche und Vorzimmer mit einer Geschicklichkeit zurechtfand, als hätte sie hier seit jeher Haus und Wirtschaft geführt.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

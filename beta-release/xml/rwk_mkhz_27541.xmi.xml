@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">„Jst nicht der Kern der Natur
+                        Menschen im Herzen?“</said>
+                        
+            Das kernhafte, tief innerliche Erlebnis, die Art, wie unser Herz mit
+                        <seg id="1" type="speaker">seinem</seg> Jdealismus das sinnliche Wahrnehmen und verständige Erfassen der
+                        Dinge begleitet und zur Einheit ergänzt, ist das eigentümlich Religiöse an aller
+                        Weltanschauung. Und weil es sich hier um eine kernhafte Tätigkeit handelt -- eben deshalb ist alle echte Religiosität und alle erlebte Weltanschauung etwas
+                        so Persönliches, <seg id="4" type="frame" pos="start">daß <seg id="4" type="speaker">man</seg> 
+               <seg id="4" type="intExpr">sagen</seg> darf:</seg>
+            <said id="4" mode="direct" content="speech" level="1">so viel Köpfe, soviel Religionen und
+                        Weltanschauungen</said>; wo aber Religion und Weltanschauung als Gemeinschaftsbewegung auftritt, da hat sie sich zu einer oberflächlichen Form ausgeprägt,
+                        einer Moral, sei es zu einem Dogmen= und Zeremoniendienst, sei es auch zu
+                        einem politisch=sozialen System. Wir haben es dann mit veräußerlichter Kultur
+                        zu tun, die unfähig ist, das zu leisten, wonach der Schatzgräber innerlicher
+                        Kultur verlangt -- ich meine lebendige, aus der Persönlichkeit gezeugte, daher
+                        überzeugende Deutung des Welt=Sinnes.
+            Weil also die Lebensfrage innerlicher Kultur im Arcanum des Menschen
+                        wurzelt, das in seiner tiefsten Eigenart allen Mitmenschen ein Buch mit sieben
+                        Siegeln bleibt, darum ist die zentrale Lebenskraft innerlicher Kultur -- Mystik,
+                        ein Erlebnis allerpersönlichster Art, das alle Oberflächenform, alles Jntellektuelle
+                        derart abgestreift hat, daß es sich kaum noch, allenfalls in künstlerischen,
+                        gefühlvollen Sinnbildern, mitteilen läßt. <seg id="3" type="frame" pos="start">
+               <seg id="3" type="speaker">Jch</seg> 
+               <seg id="3" type="intExpr">weiß</seg>,</seg>
+            <said id="3"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß dies Zurückgehen auf
+                        die Mystik für manchen Leser <said id="5" mode="reported" content="speech" level="2">die von <seg id="5" type="speaker">mir</seg> 
+                  <seg id="5" type="intExpr">empfohlene</seg> innerliche Kultur</said> besonders verdächtig macht.</said> Die moderne Verständigkeit sieht auf die Mystik
+                        herab wie auf eine Blase religiösen Jrrsinns. Die moderne Verständigkeit hat
+                        eben vor lauter Sozialsinn jenen tiefern Jndividualismus verloren, der die
+                        Freiheit nicht bloß auf dem Gebiete der äußern Lebensführung respektiert,
+                        sondern im gestaltenden Urgrunde der Persönlichkeit. Vielleicht ist das Stutzen
+                        des Lesers vor der äußersten Konsequenz meiner Ausführungen geeignet, ihm
+                        die Schroffheit zu veranschaulichen, mit der die innerliche Kultur unserer äußerlichen gegenübersteht. Horch, was der „cherubinische Wandersmann“ drüben singt:
+                         
+         
+      </p>
+      </body>
+   </text>
+</TEI>

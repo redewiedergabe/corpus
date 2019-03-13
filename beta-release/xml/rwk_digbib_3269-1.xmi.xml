@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein einsam Herz</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Ein einsam Herz</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+So war sie denn keine schmerzumflossene Niobe; sie war die alte heitere Luise, fröhlich, gutmütig und selbstvergessen, dankbar für all die schönen Tage, die Gott sie hatte erleben lassen, die Hilfe aller Hilfsbedürftigen, die liebe, wenn auch oft mißbrauchte Tante der zwei kleinen Neffen. 
+                  <seg id="32" type="speaker">Luise</seg> saß auch einmal wieder an dem runden <seg id="30" type="speaker">Nähtischchen</seg> der seligen Mutter, <said id="30"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">das ihr mehr zu <seg id="30" type="intExpr">erzählen</seg> hatte als alle magnetisierten und klopfenden Tische: von den alten Tagen, wo sie als junges Mädchen dies werte Erbstück glückselig aus der Rumpelkammer geholt; wo später August mit seinem Pfeifchen neben ihr gesessen; wo sie aufblickend ihn hatte von fern durch die Kornfelder schreiten sehen; <seg id="31" type="frame" pos="start">wo <seg id="31" type="speaker">sie</seg>, an diesem Tischchen, in den Stunden stiller Arbeit allmählich <seg id="31" type="intExpr">er kennen</seg> gelernt hatte,</seg>
+               <said id="31"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes"> daß <said id="6"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        metaph="yes">
+                     <seg id="6" type="speaker">Gott</seg> 
+                     <seg id="6" type="intExpr">Gedanken</seg> des Friedens und nicht des Leides über sie gehabt</said>
+               </said>
+            </said>, – <said id="32" mode="freeIndirect" content="thought" level="1">oh, es war ein kostbares Tischchen, samt seinem Fachwerk mit Faden und Bändern und alten Knöpfen von verschiedener Gestalt und der runden Nadelbüchse von Buchsbaum, die ihr August einmal von dem Jahrmarkt mitgebracht!</said>
+            <seg id="7" type="frame" pos="start">Der kleine<seg id="7" type="speaker"> Gustav Adolf</seg>, der älteste Sohn und künftige Stammhalter des Geschlechts, kam die Treppe heraufgeklettert und <seg id="7" type="intExpr">rief</seg>:</seg>
+            <said id="7" mode="direct" content="speech" level="1">»Tante Uis!«</said> und brachte ihr, stolz über seine Wichtigkeit, einen Brief. Das war eben nichts Seltenes. Luise, obgleich auch jetzt noch nicht stark im Briefschreiben, erhielt zuzeiten Briefe von allen Seiten, je nachdem irgendwo in der Familie eine Krankheit eingekehrt war, eine Kindtaufe, ein Umzug oder eine Reise der Hausfrau bevorstand, <seg id="11" type="frame" pos="start">und <seg id="11" type="speaker">man</seg> 
+               <seg id="11" type="intExpr">wußte</seg> unten fast gewiß,</seg>
+            <said id="11"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß Tante Luise unmittelbar nach Empfang eines Briefes auf den Boden stieg, um ihren alten Lederkoffer hervorzusuchen und auszustäuben</said>, <seg id="12" type="frame" pos="start">und der <seg id="12" type="speaker">Bruder</seg> pflegte sie mit der <seg id="12" type="intExpr">Frage</seg> zu empfangen:</seg>
+            <said id="12" mode="direct" content="speech" level="1">»Nun, wo ist's diesmal los?«</said>
+            <said id="33" mode="freeIndirect" content="thought" level="1">Warum aber bewegte <seg id="33" type="speaker">sie</seg> dieser Brief in so ganz andrer Weise? Warum stieg ihr das Blut in die Wangen und klopfte ihr Herz und zitterte ihre Hand so heftig, daß sie ihn kaum öffnen konnte?</said>
+            <seg id="19" type="frame" pos="start">
+               <seg id="19" type="speaker">Gustav Adolf</seg>, nachdem er vergeblich auf einen Botenlohn oder wenigstens auf Anerkennung von der zerstreuten Tante gewartet, war wieder hinabgeklettert und hatte sie <seg id="19" type="intExpr">verklagt</seg>:</seg>
+            <said id="19" mode="direct" content="speech" level="1">»<seg id="20" type="speaker">Tante</seg> so bös, nix geben, <said id="20"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">nix <seg id="20" type="intExpr">g'sagt</seg>.</said>«</said> Etwas beunruhigt stieg der <seg id="22" type="speaker">Bruder</seg> hinauf, <said id="22"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">um nach dem Inhalt des Briefes zu <seg id="22" type="intExpr">fragen</seg>.</said> Luise hatte sich wieder gefaßt und bereits den Lederkoffer auf den Platz geschafft; der Brief lag offen auf dem Tischchen, und sie gab ihn mit tiefem Erröten dem Bruder zu lesen, während sie sich zu tun machte. <seg id="24" type="frame" pos="start">
+               <seg id="24" type="speaker">Theodor</seg> 
+               <seg id="24" type="intExpr">las</seg>:</seg>
+            <said id="24" mode="direct" content="writing" level="1">Liebe Luise! 
+                  Meine teure Freundin! 
+                  Ich habe kein Recht zu diesem Brief und der Bitte, die er enthält, als den Glauben an Ihre selbstvergessene Güte, die ich einst so vielfach erfahren. 
+                  <seg id="28" type="frame" pos="start">
+                  <seg id="28" type="speaker">Sie</seg> 
+                  <seg id="28" type="intExpr">wissen</seg>,</seg> 
+               <said id="28"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">daß ich seit acht Jahren verheiratet bin.</said> Meine liebe Frau, immer von zarter Gesundheit, ist seit einem halben Jahre ganz bettlägerig; meine Kinder sind ohne Mutter, mein Haus ohne Aufsicht, meine Frau ohne rechte Pflege. Wir haben es vielfach mit bezahlter Hilfe versucht, es geht nicht; und, liebe Luise, ich muß ganz offen gegen Sie sein, es ist auch fast unmöglich für unsre Verhältnisse. <seg id="29" type="frame" pos="start">Da wage <seg id="29" type="speaker">ich</seg> denn die <seg id="29" type="intExpr">Frage</seg> an Sie:</seg> 
+               <said id="29" mode="direct" content="speech" level="2">Könnten, wollten Sie uns in dieser äußersten Not beistehen?</said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

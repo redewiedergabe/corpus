@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die deutsche Flotte vor der Marinecomimssion des Abgeordnetenhauses.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Die deutsche Flotte vor der Marinecomimssion des Abgeordnetenhauses.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+                                    
+                                                
+                                                  In der Berliner
+                                                  Marinecommission scheint dies leider anders zu
+                                                  sein.
+                                                  In der vorliegenden Angelegenheit
+                                                  sehen wir mehre Mitglieder der Commission Vorlagen
+                                                  des Ministeriums wesentlich auch von technischen
+                                                  Gesichtspunkten bekämpfen und unzweifelhaft sind
+                                                  die definitiven Beschlüsse der Commission
+                                                  namentlich <said id="23" mode="reported" content="speech" level="1">den entschiedenen und zuversichtlichen
+                                                  technischen <seg id="23" type="intExpr">Behauptungen</seg> des Referenten, <seg id="23" type="speaker">Hrn.
+                                                  Harkort</seg>
+            </said> zuzuschreiben.
+                                                  <said id="4"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Denn <seg id="4" type="speaker">derselbe</seg> 
+               <seg id="4" type="intExpr">weiß</seg> in Marinesachen
+                                                  vollkommen <seg id="4" type="intExpr">Bescheid</seg>
+            </said>, er kennt alles, <said id="6"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">nie wird bei
+                                                  <seg id="6" type="speaker">ihm</seg> ein <seg id="6" type="intExpr">Zweifel</seg> 
+               <seg id="6" type="intExpr">laut</seg>
+            </said>; nach der Natur jedes
+                                                  Halbwissers gibt es für ihn nur abgemachte
+                                                  Sachen.
+                                                  Und doch, <said id="9" mode="reported" content="thought" level="1">so weit <seg id="9" type="speaker">wir</seg> Hrn. Harkort
+                                                  nach den vorliegenden Zeitungsberichten und einer
+                                                  kleinen, im vorigen Jahre erschienenen Schrift zu
+                                                  <seg id="9" type="intExpr">beurtheilen</seg> vermögen</said>, <said id="24"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">
+               <seg id="24" type="intExpr">weiß</seg> 
+               <seg id="24" type="speaker">er</seg> über Marine im
+                                                  Wesentlichen nicht mehr, als jeder, der etwa eine
+                                                  kleine Seereise gemacht und einige Mal seinen Fuß
+                                                  auf ein Kriegsschiff gesetzt hat.</said>
+                                                  Sehen wir uns einige der <said id="11" mode="reported" content="speech" level="1">von <seg id="11" type="speaker">ihm</seg>
+                                                  <seg id="11" type="intExpr">vorgebrachten</seg> technischen Gründe</said> an.
+                                                
+                                                
+                                                  <seg id="12" type="frame" pos="start">
+               <said id="13" mode="reported" content="speech" level="1">
+                  <seg id="12 13" type="speaker">Herr Harkort</seg> 
+                  <seg id="13" type="intExpr">verwirft</seg> die
+                                                  Kanonenboote als Mittel der Küstenvertheidigung</said>
+                                                  und <seg id="12" type="intExpr">erklärt</seg>,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">daß Strandbatterien dafür am besten
+                                                  seien.</said>
+            <seg id="14" type="frame" pos="start">Im Gegentheil ist z. B. in <seg id="14" type="speaker">England</seg>
+                                                  die <seg id="14" type="intExpr">Ansicht</seg> allgemein,</seg>
+            <said id="14" mode="indirect" content="thought" level="1">daß die Küstenvertheidigung
+                                                  nur durch ein combinirtes System von permanenten
+                                                  und beweglichen Vertheidigungsmitteln hergerichtet
+                                                  werden kann</said>, ja in neuester Zeit werden die festen
+                                                  Vertheidigungsmittel entschieden
+                                                  zurückgedrängt.
+                                                  <said id="15" mode="reported" content="thought" level="1">Von derselben <seg id="15" type="intExpr">Ansicht</seg> ist die
+                                                  technische <seg id="15" type="speaker">Bundescommission</seg> und sind bisher noch
+                                                  alle <seg id="15" type="speaker">Regierungen</seg> ausgegangen.</said>
+                                                  Sollte Herrn Harkort das Fahrwasser
+                                                  der Rügenschen Gewässer vielleicht bekannt sein,
+                                                  <seg id="25" type="frame" pos="start">so würde <seg id="25" type="speaker">es</seg> interessant sein zu <seg id="25" type="intExpr">erfahren</seg>,</seg>
+            <said id="25"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">wie er
+                                                  ohne Schiffe die südöstlichen Küsten Rügens und
+                                                  die gegenüberliegende pommersche Küste
+                                                  vertheidigen würde.</said>
+            <seg id="26" type="frame" pos="start">
+               <seg id="26" type="speaker">Herr Harkort</seg> 
+               <seg id="26" type="intExpr">findet</seg> es ferner
+                                                  unmöglich,</seg>
+            <said id="26" mode="indirect" content="speech" level="1">daß Preußen bei 16.000 Matrosen der
+                                                  Handelsmarine seine Flotte mit 8000 Mann
+                                                  bemanne.</said>
+            <said id="28"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">Daß die englische Kriegsflotte
+                                                  nicht die Hälfte, sondern etwa ebenso viel
+                                                  Mannschaft erfordert, als die Handelsmarine
+                                                  überhaupt Matrosen besitzt, daß ein ähnliches
+                                                  Verhältniß in den meisten Ländern Statt findet</said>
+            <seg id="28" type="frame" pos="mid">,
+                                                  ist <seg id="28" type="speaker">ihm</seg>, wie es scheint,
+                                                
+                                                
+                                                
+                                                  ebenso <seg id="28" type="intExpr">unbekannt</seg>,</seg>
+            <said id="28"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">als daß der
+                                                  preußischen Kriegsmarine, mit Einschluß der
+                                                  Handelsmarine, nicht 16.000, sondern 23.000 Mann
+                                                  zur Disposition stehen*).</said>
+            <said id="17" mode="reported" content="speech" level="1">
+               <seg id="17 29" type="speaker">Hr.
+                                                  Harkort</seg> 
+               <seg id="17" type="intExpr">befrachtet</seg> ferner den
+                                                  Umstand, daß die von der preußischen Regierung in
+                                                  England gekauften Schiffe vor ihrem Auslaufen
+                                                  einer Reparatur unterzogen werden sollen, als ein
+                                                  schlechtes Zeugniß für diese Schiffe</said> und <seg id="29" type="frame" pos="start">scheint
+                                                  nicht zu <seg id="29" type="intExpr">wissen</seg>,</seg>
+            <said id="29"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">daß schwerlich irgend ein Schiff,
+                                                  welches eine längere Zeit außer Thätigkeit gewesen
+                                                  ist, ohne Reparatur in Dienst gestellt werden
+                                                  kann.</said>
+            <said id="18" mode="reported" content="speech" level="1">Dagegen <seg id="18" type="intExpr">empfiehlt</seg> 
+               <seg id="18" type="speaker">er</seg> als
+                                                  Uebungsschiffe für die preußische Marine ein
+                                                  ehemaliges Postschiff und zwei Dampfaviso's, ja
+                                                  sogar größere Kanonenboote.</said>
+                                                  Selbst so kleine Nationen wie die
+                                                  dänische haben als Cadertenschiffe Fregatten, weil
+                                                  die Eigenthümlichkeiten des höheren Marinedienstes
+                                                  sich nur auf Schiffen mit gedeckter Batterie
+                                                  lernen lassen und weil eine Trennung der Cadetten
+                                                  und Matrosen wünschenswerth ist.
+                                                  Für die Ausübung der Schiffsjungen
+                                                  genügen kleinere Fahrzeuge, aber es müssen immer
+                                                  Schiffe mit der Takelage eines Kriegsschiffes, es
+                                                  können aber nicht Räderdampfschiffe, wie einige
+                                                  der genannten Schiffe sind, dazu gebraucht werden.
+                                                  Für Hrn. Harkort ist das gleichgültig.
+                                                  <said id="20" mode="reported" content="speech" level="1">Auch die übrigen <seg id="20 21" type="speaker">Techniker</seg> der
+                                                  Marinecommission <seg id="20" type="intExpr">erklären</seg> das sehr motivirte
+                                                  Verlangen der Regierung, daß ihr 200,000
+                                                  Thlr.
+                                                  für Uebungsschiffe bewilligt
+                                                  werden, für durchaus unbegründet</said>, <said id="21" mode="indirect freeIndirect" content="speech" level="1">die vorhandenen
+                                                  Schiffe seien ausreichend.</said>
+                                                  Nie würde selbst
+                                                  das englische Parlament sich darauf einlassen,
+                                                  eine solche thatsächliche Frage zu
+                                                  entscheiden.
+                                                
+                                    
+                        </p>
+      </body>
+   </text>
+</TEI>

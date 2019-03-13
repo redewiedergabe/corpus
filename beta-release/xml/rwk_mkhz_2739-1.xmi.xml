@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+
+Aber wenn man mal selbst mitarbeiten soll,
+                        selbst mal an die Stelle des <seg id="13 14" type="speaker">Arbeiters</seg> treten soll und diese ausfüllen, so sind wenige
+                        dafür zu haben. <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Sie</seg> 
+               <seg id="1" type="intExpr">sagen</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">„Wir sehen es ja, was sollen wir's erst probieren.“</said>
+                        Und doch ist es etwas ganz anderes, selbst zu arbeiten und <said id="13" mode="reported" content="thought" level="1">daraus <seg id="13" type="intExpr">Schlüsse</seg> zu
+                        <seg id="13" type="intExpr">ziehen</seg>
+            </said>, als nur zuzusehen und <said id="14" mode="reported" content="thought" level="1">daraus zu <seg id="14" type="intExpr">folgern</seg>.</said>
+            <note>
+               
+                  * ) Wegen Raummangels zurückgestellt.
+            </note>
+            
+            Aber wenn auch wirklich einer oder der andere mal praktisch mit anfaßt, <said id="15" mode="reported" content="thought" level="1">dann
+                        <seg id="15" type="intExpr">denkt</seg> 
+               <seg id="15" type="speaker">er</seg> schon die Arbeit erkannt zu haben, wenn er ein bis zwei Tage, <said id="3"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     prag="yes">oder <seg id="3" type="intExpr">sagen</seg>
+                        <seg id="3" type="speaker">wir</seg> Wochen</said>, gearbeitet hat.</said> Ja, am Anfang erscheint einem alles neu und wunderlich. Es ist alles so interessant, und man muß scharf aufpassen, <said id="4" mode="reported" content="thought" level="1">
+               <seg id="4" type="speaker">man</seg> muß <seg id="4" type="intExpr">denken</seg>
+                        und <seg id="4" type="intExpr">überlegen</seg>
+            </said>, um es auch richtig zu machen. Aber wenn man erst Monate oder
+                        Jahre in einer Fabrik tätig gewesen ist und immer ein und dieselbe Bewegung gemacht hat, immer auf ein und derselben Stelle gestanden hat, dazu noch das eintönige Geräusch und Geklapper der Maschinen gehört hat, so wird man geradezu
+                        stumpfsinnig. Man wird selbst zur Maschine oder sogar nur zu einem Teil von ihr.
+                        Wenn man fehlt, ist es ebenso, als wenn eine Schraube oder ein Hebel fehlt.
+            Hebt man zur bestimmten Zeit die Arme, in bestimmten Zwischenräumen, um
+                        an irgend einem Hebel zu ziehen oder ein Zeitungsblatt in die Maschine zu legen,
+                        so geht diese weiter. <said id="5" mode="reported" content="thought" level="1">Zuerst muß <seg id="5" type="speaker">man</seg> wohl <seg id="5" type="intExpr">denken</seg> und <seg id="5" type="intExpr">überlegen</seg>
+            </said>, aber wenn einem
+                        die Bewegung in Fleisch und Blut übergegangen ist, so ist aus dem <seg id="16" type="speaker">Menschen</seg> eine
+                        Maschine geworden,<said id="16"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"> in der alles <seg id="16" type="intExpr">Denken</seg> aufgehört hat.
+ </said>           Hat man z. B. 36_000 Papierbogen an einem Tage in die Maschine gelegt,
+                        so wird man doch nicht noch verlangen wollen, daß dieser arme Mensch nur ein
+                        wenig nachher geistig arbeiten soll, <seg id="17" type="frame" pos="start">denn <seg id="17" type="speaker">man</seg> muß doch <seg id="17" type="intExpr">bedenken</seg>,</seg>
+            <said id="17"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">was zu dieser
+                        geisttötenden Arbeit noch hinzukommt.</said> Da ist die schlechte Luft, die in großen
+                        Fabrikräumen, wo Maschinen stehen, nicht zu vermeiden ist; dann das eintönige
+                        Geräusch der Maschinen und, was man nicht außer Acht lassen darf, die öde Umgebung der sich ewig drehenden Räder.
+            <said id="7" mode="indirect" content="thought" level="1">Daß ein moderner Fabrikmensch auf einer geistig höheren Stufe steht wie ein
+                        früherer Handwerker</said>
+            <seg id="7" type="frame" pos="end">, wage <seg id="7" type="speaker">ich</seg> 
+               <seg id="7" type="intExpr">anzuzweifeln</seg>
+            </seg>; denn wer Lust und Liebe zu seinem
+                        Beruf hat, wird nicht langweilig am Werke sein, durch das schöne Gefühl beseelt,
+                        daß er durch seine eigene Kraft was Wertvolles herstellt.
+            Und wenn ein <seg id="8" type="speaker">Tischler</seg> seine Hobel langsam über das Brett schiebt und führt,
+                        <seg id="8" type="frame" pos="start">so ist es <seg id="8" type="intExpr">unzweifelhaft</seg>,</seg>
+            <said id="8" mode="indirect" content="thought" level="1">daß <said id="9" mode="reported" content="thought" level="2">
+                  <seg id="9" type="speaker">er</seg> dabei <seg id="9" type="intExpr">denken</seg> und <seg id="9" type="intExpr">überlegen</seg> muß</said>
+            </said>, denn durch einen
+                        allzuscharfen Druck kann das Brett verdorben sein.
+            Jch will hierdurch nicht den alten Zustand der Handwerker heraufbeschwören
+                        und die großen Fabriken verwerfen, aber <said id="10"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß der moderne Fabrikmensch auf einer
+                        geistig höheren Stufe wie der Handwerker steht</said>
+            <seg id="10" type="frame" pos="end">, daran zu <seg id="10" type="intExpr">glauben</seg> ist <seg id="10" type="speaker">mir</seg> unmöglich.</seg>
+            Um nun noch auf die Lebensverhältnisse des einzelnen zurückzukommen, <seg id="11" type="frame" pos="start">so
+                        kann <seg id="11" type="speaker">man</seg> doch nicht <seg id="11" type="intExpr">sagen</seg>,</seg>
+            <said id="11"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">daß diese besser und schöner sind wie früher.</said> Da muß
+                        man wirklich erst die rauchgeschwängerte Luft geatmet und die rußbedeckten Häuser
+                        einer Fabrikstadt gesehen haben, <seg id="12" type="frame" pos="start">und <seg id="12" type="speaker">man</seg> wird nicht daran <seg id="12" type="intExpr">zweifeln</seg>,</seg>
+            <said id="12"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß die Orte, wo
+                        sich keine Fabriken befinden, lichter, reiner und gesünder sind.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

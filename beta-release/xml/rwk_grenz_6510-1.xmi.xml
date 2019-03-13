@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zustände und Aussichten in Oestreich.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1867</f>
+         <f name="decade">1860</f>
+         <f name="title">Zustände und Aussichten in Oestreich.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+
+vertreib verurtheilt war,<said id="1" mode="reported" content="speech" level="1"> während bloße <seg id="1" type="speaker">Provinzler</seg>, <said id="2" mode="reported" content="thought" level="2">
+                  <seg id="2" type="intExpr">in den Augen</seg> des echten
+                        alten <seg id="2" type="speaker">Wieners</seg> untergeordnete Kreaturen</said>, das große <seg id="1" type="intExpr">Wort</seg> im Reichstage führten.
+ </said>                       Es mag conservativer scheinen, daß man auch nach dem Sturze des Absolutismus 1859 nicht an die achtundvierziger Vorgänge anknüpfte, es mag dem
+                        Organisationstalente der östreichischen Staatsmänner schmeicheln, daß jeder neue
+                        Verfassungsentwurf von der früheren Gestaltung des Landes absieht: in der
+                        Thatsache, <said id="3"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß der kremsierer Verfassungsentwurf ganz <seg id="3" type="intExpr">vergessen</seg> werden konnte</said>,
+                        sehen wir nur den Beweis, daß das östreichische Gemeingefühl an Stärke verloren hat. Für den kremsierer Verfassungsenlwurf stand die entschiedene Majorität der östreichischen Völker ein, für die Verfassungspläne, die in den letzten
+                        Jahren auftauchten, können immer nur Minoritäten gewonnen werden.
+               Zu den trefflichen statistischen Tabellen, welche Ficker vor vier Jahren
+                        (Bevölkerung der östreichischen Monarchie, Gotha, Perthes) herausgegeben hat,
+                        fehlt eigentlich ein Supplementheft, welches die Verbreitung der centralistischen,
+                        dualistischen und föderalistischen Politik graphisch darstellte. <said id="4"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">Die schwersten <seg id="4" type="intExpr">Bedenken</seg> gegen die Durchführung irgendeines der letzthin gepriesenen Verfassungspläne würden dann erwachen.</said> Der Centralisation, <said id="5" mode="reported" content="writing" level="1">wie <seg id="5" type="speaker">sie</seg> das Februarpatent
+                        <seg id="5" type="intExpr">verkündigt</seg>
+            </said>, sind nur die Deutschen und Ruthenen, bedingungsweise vielleicht
+                        auch die Rumänen in Siebenbürgen zugethan, also höchstens 39 Procent der
+                        Gesammtbevölkerung; 53 Procent (Magyaren und Slawen) stehen in leidenschaftlicher Opposition. Der Dualismus, die Trennung Oestreichs in zwei
+                        Hälften, in deren jeder wieder die Centralisation herrschte, kann wieder nur auf
+                        die Stimme der Magyaren und eines Bruchtheils der Deutschen, etwa 25 Procent rechnen, gegen den Föderalismus endlich würden sich die Deutschen,
+                        Magyaren, Ruthenen einmüthig erheben, also würde nahezu die Hälfte der
+                        Bevölkerung, wobei das Gewicht Wiens, der Einfluß des ungarischen Adels
+                        und die Traditionen des Hofes, die durchweg antislawisch sind, noch auf die
+                        Wagschale gelegt werden müssen. Diese Schwierigkeiten werden in tonangebenden Kreisen keineswegs übersehen. Eben weil kein Verfassungsprincip sich in
+                        Oestreich rein verkörpern läßt, weil es auf das Balanciren der verschiedenen
+                        Systeme vorzugsweise ankommt, konnte nicht der gewöhnliche Weg eingeschlagen,
+                        mußte das außerordentliche Ziel auch durch außerordentliche Mittel erreicht werden. Zu den letzteren rechnet man denn die Berufung des Herrn v. Beust aus
+                        dem sächsischen in den östreichischen Staatsdienst.
+              <seg id="6" type="frame" pos="start"> 
+               <seg id="6" type="speaker">Oestreichische Journale</seg> ließen sich duich ihre Abneigung gegen alles Fremde
+                        zu der <seg id="6" type="intExpr">Frage</seg> 
+               <seg id="6" type="intExpr">verleiten</seg>:</seg>
+            <said id="6" mode="direct" content="writing" level="1">Was will Herr v. Beust von Oestreich?</said> und waren
+                        indiscret genug, auch Verhältnisse zu berühren, welche die heiligsten Privatgefühle des Herrn v. Beust verletzen mußten.<seg id="7" type="frame" pos="start"> 
+               <seg id="7" type="speaker">Wir</seg> begnügen uns zu <seg id="7" type="intExpr">fragen</seg>:</seg>
+            <said id="7" mode="direct" content="writing" level="1">Was soll Herr v. Beust in Oestreich?</said>
+            <said id="16"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">
+               <said id="8" mode="reported" content="thought" level="2">Daß <seg id="8" type="speaker">wir</seg> das Porträt, welches officiöse
+                        Blätter von dem Vielgewandten, Vielduldenden entwarfen: Herr v.Beust in weißem
+                         
+               
+               Friedenskleide mit dem Oelzweige in der Hand, nicht ähnlich <seg id="8" type="intExpr">finden</seg>
+               </said>
+            </said>, <seg id="16" type="frame" pos="end">wird
+                        <seg id="16" type="speaker">dieser</seg> selbst <seg id="16" type="intExpr">begreifen</seg>.</seg>
+            <seg id="11" type="frame" pos="start">
+               <said id="10"
+                     mode="reported"
+                     content="thought"
+                     level="1"
+                     prag="yes">Hätte <seg id="11 10" type="speaker">er</seg> in Ischl und dann in Prag dem östreichischen
+                        Hof keinen andern <seg id="11" type="intExpr">Rath</seg> zu <seg id="11" type="intExpr">ertheilen</seg> 
+                  <seg id="10" type="intExpr">gewußt</seg>
+               </said>, als:</seg>
+            <said id="11" mode="direct" content="speech" level="1">Liebet euch, Kindlein, und
+                        küsset die Hand, die euch züchtigt</said>, so wäre ihm gewiß in höflicher aber entschiedener Weise die Thüre gewiesen worden. Herrn v. Beusts Rechtstitel war
+                        sein persönlicher Haß auf Bismarck, seine Ansprüche auf das höchste östreichische
+                        Staatsamt gründeten sich auf seine Lust und seine Fähigkeit, an Preußen Rache
+                        zu üben. <seg id="12" type="speaker">Er</seg> hat wohl nicht in einen rothen Mantel gehüllt, bei fahlem Fackelscheine mit gezücktem Dolche <said id="12"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">eine Rachearie <seg id="12" type="intExpr">gesungen</seg>
+            </said>, er hat aber nichts gethan,
+                        um <said id="13" mode="reported" content="thought" level="1">die von <seg id="13" type="speaker">ihm</seg> gehegten <seg id="13" type="intExpr">Erwartungen</seg>
+            </said> zu zerstören, <said id="14" mode="reported" content="thought" level="1">wenn <seg id="14" type="speaker">man</seg> seine Tendenzen falsch <seg id="14" type="intExpr">auffaßt</seg>
+            </said>, <said id="15" mode="reported" content="thought" level="1">die <seg id="15" type="intExpr">Irrthümer</seg>
+            </said> zu zerstreuen.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

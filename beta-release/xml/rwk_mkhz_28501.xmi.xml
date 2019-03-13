@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Despot von Kryghyn</title>
+             <author>Roda, Roda</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Despot von Kryghyn</f>
+         <f name="author">Roda, Roda</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Der Despot von Kyrghyn.
+                         Von Roda Roda, Berlin.
+                        
+            
+               [ Nachdruck verboten.
+            Jm Jahre 1312 der Hedjra gelangte auf dem Souk=Archipel, dessen
+                        Hauptinsel Kyrghyn heißt, ein <seg id="1 2 " type="speaker">Herrscher</seg> zur Regierung, der alsbald das
+                        ganze Reich mit lähmendem Grauen erfüllte. Der ruhigste Bürger war nicht
+                        sicher vor dem Tode, wenn es den Sykophanten gefiel,<said id="1" mode="reported" content="speech" level="1"> ihn <seg id="1" type="intExpr">anzugeben</seg>.</said> Aus
+                        den Kerkern stank die modernde Verzweiflung. Schwangere Frauen wurden
+                        gepeinigt und Kinder gebrandmarkt.
+            Jn seine Gemächer eingeschlossen, von finsteren Heiducken bewacht, schien
+                        der Despot seine Stunden<said id="2" mode="reported" content="thought" level="1"> im <seg id="2" type="intExpr">Ersinnen</seg> immer neuer Qualen</said> zu verbringen.
+                        Seine Unsichtbarkeit verlieh dem Wüten alle Entsetzlichkeiten des blinden Verhängnisses.
+            Jm Jahre 1322 jagte der Despot sein Volk in einen Krieg gegen die
+                        Jschgüzaren; der dem ischgüzarischen Säbel entrann, entrann nicht dem Hunger,
+                        dem Frost und der Pestilenz.
+            <said id="3" mode="reported" content="thought" level="1">Jnmitten dieser Tyrannei <seg id="3" type="intExpr">beschloß</seg> ein lodernder <seg id="3" type="speaker">Jüngling</seg> sein Leben
+                        an die Entthronung des Despoten zu wagen.</said> Mit Hilfe einer gleichgesinnten
+                        Schar gelang es ihm, durch einen Handstreich zuerst die Aufmerksamkeit der
+                        Sklaven zu erregen und dann die Scheiterhaufen der Marterpfähle rächend
+                        zu entflammen.
+            Das Feuer griff um sich. Die Söldlinge schlossen sich der Empörung
+                        an. Bald brannte es an allen Enden.
+            Es fiel der Wallgürtel der Hauptstadt -- kaum verteidigt. Ein letzter
+                        Angriff auf die Zitadelle entwaffnete die letzten Wächter.
+            Bei Hörnerschall und Sturmläuten drangen die Rebellen ein, um den
+                        Despoten festzunehmen.
+            Sie fanden einen bleichen Knaben mit guten, offenen Augen. Er war so
+                        gut, daß er nicht einmal von den Verschwörern Böses befürchtete.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

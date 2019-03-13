@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Geheimnis der Marie Rogêt</title>
+             <author>Poe, Edgar Allan</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Das Geheimnis der Marie Rogêt</f>
+         <f name="author">Poe, Edgar Allan</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="26" mode="direct" content="speech" level="1">Was <said id="1" mode="reported" content="speech" level="2">die gegen Beauvais vorgebrachten <seg id="1" type="intExpr">Verdächtigungen</seg>
+               </said> betrifft, so werden <seg id="1" type="speaker">Sie</seg> diese ohne weiteres abtun. Sie haben den wahren Charakter des guten Mannes erraten. Er ist sensationsgierig, phantastisch und beschränkt und spielt sich gerne ein bißchen auf. Wer so veranlagt ist, wird sich in Fällen wirklicher Aufregung leicht so benehmen, daß er sich den Überschlauen und Unwissenden verdächtig macht. <said id="34" mode="reported" content="speech" level="2">
+                  <seg id="34" type="speaker">Herr Beauvais</seg> hatte, wie es den Anschein hat, ein persönliches <seg id="34" type="intExpr">Interview</seg> mit dem Herausgeber des Blattes</said> und kränkte diesen, <seg id="4" type="frame" pos="start">indem <seg id="4" type="speaker">er</seg>, ungeachtet <said id="5"
+                        mode="reported"
+                        content="speech thought writing"
+                        level="2">der <seg id="5" type="intExpr">Theorie</seg> des <seg id="5" type="speaker">Herausgebers</seg>
+                  </said>, seine Ansicht zu <seg id="4" type="intExpr">äußern</seg> wagte,</seg> 
+               <said id="4" mode="indirect" content="speech" level="2">daß die Leiche tatsächlich mit Marie identisch sei.</said> 
+               <said id="6" mode="direct" content="writing" level="2">›<seg id="7" type="frame" pos="start">
+                     <seg id="7" type="speaker">Er</seg> 
+                     <seg id="7" type="intExpr">besteht darauf</seg>
+                  </seg>‹</said>
+               <seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">sagt</seg> das <seg id="6 35" type="speaker">Blatt</seg>,</seg> 
+               <said id="6" mode="direct" content="writing" level="2">›<said id="7" mode="indirect" content="speech" level="3">daß die Leiche jene der Marie sei</said>, <said id="35"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">weiß aber außer <said id="36" mode="reported" content="speech writing" level="4">den Angaben, <said id="10" mode="reported" content="writing" level="5">die <seg id="36 10" type="speaker">wir</seg> hier einer <seg id="36 10" type="intExpr">Beurteilung</seg> unterzogen haben</said>
+                     </said>, nichts <seg id="35" type="intExpr">anzuführen</seg>, was auch für andere überzeugend wäre.</said>‹</said> Ohne daß wir nun auf die Tatsache zurückkommen, daß stärkere <seg id="12" type="speaker">Beweise</seg>, <said id="12" mode="direct" content="writing" level="2">›die auch für andere überzeugend wären‹</said>, gar nicht erbracht werden könnten, <seg id="13" type="frame" pos="start">so ist doch zu <seg id="13" type="intExpr">bemerken</seg>,</seg> 
+               <said id="13" mode="indirect" content="speech" level="2">daß in einem Fall wie dem vorliegenden ein Mann sehr wohl selbst überzeugt sein kann, <said id="14"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">ohne daß es <seg id="14" type="speaker">ihm</seg> möglich wäre, einen einzigen Grund <seg id="14" type="intExpr">anzugeben</seg>
+                  </said>, der für andere stichhaltig wäre.</said> Nichts ist unbestimmter als das Gefühl für individuelle Identität. Jeder kann seinen Nachbarn erkennen, dennoch gibt es wenig Anlässe, <said id="15" mode="reported" content="speech" level="2">bei denen <seg id="15" type="speaker">irgendeiner</seg> den Grund für dieses Erkennen <seg id="15" type="intExpr">anzugeben</seg> vermöchte.</said> Der Herausgeber des ›L'Etoile‹ hatte kein Recht, über Herrn Beauvais' unbegründete Überzeugung beleidigt zu sein. Die gegen diesen vorliegenden Verdachtsmomente passen viel besser zu <said id="16" mode="reported" content="speech" level="2">
+                  <seg id="16" type="speaker">meiner</seg> 
+                  <seg id="16" type="intExpr">Hypothese</seg> eines sensationshungrigen Phantasten</said> als zu <seg id="17" type="frame" pos="start">des <seg id="17 18 19 20" type="speaker">Artikelschreibers</seg> 
+                  <seg id="17" type="intExpr">Vermutung</seg>,</seg> 
+               <said id="17" mode="indirect" content="thought" level="2">daß Beauvais der Schuldige sei.</said> Neigen wir dieser milderen Auffassung zu, so gibt uns die Rose im Schlüsselloch, das <said id="18" mode="direct" content="writing" level="2">›Marie‹</said> auf der Tafel, keine Rätsel mehr auf. Wir verstehen nun das <said id="19" mode="direct" content="writing" level="2">›Beiseiteschieben der männlichen Verwandten‹</said>, sein <said id="20" mode="direct" content="writing" level="2">›Widerstreben, den Verwandten die Besichtigung der Leiche zu gestatten, <seg id="21" type="frame" pos="start">die der<seg id="22" type="speaker"> Frau B.</seg> 
+                     <seg id="21" type="intExpr">erteilte Warnung</seg>,</seg> 
+                  <said id="21" mode="indirect" content="speech" level="3">daß sie bis zu seiner</said> (Beauvais') <said id="21" mode="indirect" content="speech" level="3">Rückkehr <said id="22"
+                           mode="reported"
+                           content="speech"
+                           level="4"
+                           nonfact="yes">kein <seg id="22" type="intExpr">Gespräch</seg> mit dem Gendarmen führen</said> solle</said>, <seg id="23" type="frame" pos="start">und endlich <seg id="23" type="speaker">sein</seg> offenbares <seg id="23" type="intExpr">Bestreben</seg>,</seg> 
+                  <said id="23" mode="indirect" content="thought" level="3">daß niemand außer ihm mit den Nachforschungen zu tun haben solle</said>‹.</said> Es scheint mir außer Frage, daß Beauvais ein Verehrer Maries gewesen, daß sie mit ihm kokettierte und daß ihm daran lag, als ihr naher Freund und Vertrauter zu gelten. <said id="24"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="24" type="speaker">Ich</seg> habe über diesen Punkt nichts mehr zu sagen</said>; und da die Tatsachen <said id="25" mode="reported" content="writing" level="2">die <seg id="25" type="intExpr">Behauptung</seg> des <seg id="25" type="speaker">›L'Etoile‹</seg> bezüglich der Gleichgültigkeit von seiten der Mutter und der anderen Verwandten</said> völlig widerlegt haben – eine Gleichgültigkeit, die unvereinbar war mit der Voraussetzung, daß sie die Leiche als jene des vermißten Mädchens anerkannten –, so wollen wir nun fortfahren, als wäre die Frage der Identität zu unserer vollen Zufriedenheit erledigt.«</said>
+            <said id="27" mode="direct" content="speech" level="1">»<said id="28"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">Und was</said>«</said>
+            <seg id="27" type="frame" pos="mid">, <seg id="27" type="intExpr">fragte</seg> 
+               <seg id="27" type="speaker">ich</seg> jetzt,</seg>
+            <said id="27" mode="direct" content="speech" level="1">»<said id="28"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="28" type="intExpr">halten</seg> 
+                  <seg id="28 26 30" type="speaker">Sie</seg> von <said id="29" mode="reported" content="writing" level="3">den <seg id="29" type="intExpr">Äußerungen</seg> des <seg id="29" type="speaker">›Commercial‹</seg>?</said>
+               </said>«</said>
+            <said id="30" mode="direct" content="speech" level="1">»Daß sie weit mehr Beachtung verdienen als alle andern, die in der Sache vorgebracht worden sind. <said id="31" mode="reported" content="thought writing" level="2">Die aus den Prämissen gezogenen <seg id="31" type="intExpr">Schlüsse</seg>
+               </said> sind gewissenhaft und philosophisch; aber die Prämissen beruhen – in zwei Punkten wenigstens – auf falscher Beobachtung. <seg id="32" type="frame" pos="start">Der <seg id="32" type="speaker">›Commercial‹</seg> wünscht <seg id="32" type="intExpr">anzudeuten</seg>,</seg> 
+               <said id="32" mode="indirect" content="writing" level="2">daß Marie nicht weit vom Hause ihrer Mutter von einer Rotte roher Burschen aufgegriffen worden sei.</said> 
+               <said id="33" mode="direct" content="writing" level="2">›Es ist unmöglich‹</said>
+               <seg id="33" type="frame" pos="mid">, <seg id="33" type="intExpr">äußert</seg> 
+                  <seg id="33" type="speaker">er</seg>,</seg> 
+               <said id="33" mode="direct" content="writing" level="2">›daß eine Tausenden bekannte Persönlichkeit wie dieses junge Weib drei Häuserquadrate durchqueren könnte, ohne erkannt zu werden.‹</said> 
+               <said id="37" mode="reported" content="thought" level="2">Dies ist die <seg id="37" type="intExpr">Anschauung</seg> eines in Paris lange <seg id="37" type="speaker">Ansässigen</seg>
+               </said> – eines im öffentlichen Leben Stehenden – und eines, dessen Gänge ins Stadtinnere sich meistens auf die Gegend öffentlicher Gebäude beschränkten.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

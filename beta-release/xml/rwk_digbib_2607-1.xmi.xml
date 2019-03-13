@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>76.Das Schiff,das auf dem trockenen Lande geht</title>
+             <author>Pröhle, Heinrich</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1853</f>
+         <f name="decade">1850</f>
+         <f name="title">76.Das Schiff,das auf dem trockenen Lande geht</f>
+         <f name="author">Pröhle, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Und siehe! da stand ein Schiff, das auf dem trockenen Lande ging, daran ist weder Pflock noch Nagel gewesen, und das gab ihm das Männchen für das Frühstück. 
+                  Als er mit dem Schiffe schon lange bei seiner Mutter war, kamen seine beiden Brüder aus dem Wirthshause zurück, <seg id="1" type="frame" pos="start">und da konnten <seg id="1" type="speaker">sie</seg> das Lied <seg id="1" type="intExpr">singen</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">Herr Hans von Finkenstein
+                     
+                     
+                        Hat all sein Geld vernuck-nuck-nuckt,
+                     
+                     
+                        In lauter Bären-Schluck, Schluck, Schluck,
+                        
+                     
+                  
+                  denn ihre Taschen waren leer. </said>
+                  Nach einer Weile schickte die Königin ihre drei Söhne wieder aus. <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">Sie</seg> gab abermals Jedem hundert Thaler und <seg id="2" type="intExpr">sagte</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">sie wollte einmal sehen, wer von ihnen die feinste Stiege Leinwand heim brächte.</said> Die beiden ältesten Brüder eilten dem Dummen voraus, frühstückten auf dem Felde, gaben aber dem weißen Männchen wieder nichts ab, das dort 
+wieder zu ihnen kam. Später aber kamen sie wieder an das Wirthshaus. 
+                  Während sie dort saßen, frühstückte auch der Dumme auf dem Felde, und das Männchen kam und aß mit wie das erste Mal. <said id="3" mode="reported" content="speech" level="1">Danach <seg id="3" type="intExpr">fragte</seg> das weiße <seg id="3" type="speaker">Männchen</seg> nach seiner Verrichtung.</said>
+            <seg id="4" type="frame" pos="start">Und als <seg id="4" type="speaker">er</seg> 
+               <seg id="4" type="intExpr">sagte</seg>,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">daß seine Mutter sehen wolle, wer von den drei Brüdern die feinste Stiege Leinwand brächte</said>, <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="intExpr">hieß</seg> ihn das <seg id="7" type="speaker">Männchen</seg> wieder sich hinlegen und einschlafen.</said> Als er eine Zeitlang geschlafen hatte, weckte ihn das Männchen und da stand auch ein weißes Kätzchen da, das gab ihm eine Haselnuß und <seg id="5" type="frame" pos="start">das <seg id="5" type="speaker">Männchen</seg> 
+               <seg id="5" type="intExpr">sprach</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">"Mit der Haselnuß kehre zu deiner Frau Mutter heim, dann wird sich das Uebrige schon finden."</said> 
+                  Diesmal langten alle drei Brüder ziemlich zu gleicher Zeit an. Die beiden ältesten hatten für das Geld, welches sie in dem Wirthshause übrig behalten, noch immer Jeder eine recht feine Stiege Leinwand bekommen; der Dumme aber gab seiner Mutter die Haselnuß. Als die Königin die Nuß öffnete, war ein Gerstenkorn darin, und als sie das Gerstenkorn öffnete, war darin eine Stiege Leinwand. Die beiden ältesten Brüder wurden darüber sehr zornig, <seg id="6" type="frame" pos="start">die <seg id="6" type="speaker">Königin</seg> aber <seg id="6" type="intExpr">sprach</seg>:</seg>
+            <said id="6" mode="direct" content="speech" level="1">"Wenn mein jüngster Prinz auch die dritte Aufgabe am besten löst, so soll er König werden. Abermals gebe ich Jedem von euch hundert Thaler, damit ziehet noch einmal aus, und wer die schönste Prinzessin heim bringt, der soll König werden."</said> 
+                  Da zogen sie alle Drei wieder aus und es begab sich Alles wie zuvor. Als aber der <seg id="8" type="speaker">Dumme</seg> wieder sein Frühstück mit dem <seg id="9" type="speaker">Männchen</seg> getheilt und <said id="8" mode="reported" content="speech" level="1">ihm seine Verrichtung <seg id="8" type="intExpr">erzählt</seg> hatte</said>, <said id="9" mode="reported" content="speech" level="1">
+               <seg id="9" type="intExpr">hieß</seg> das ihn wieder sich hinlegen und schlafen</said>, und als er nachher die Augen aufschlug, war das weiße Kätzchen wieder da, das ihm das vorige Mal die Stiege Leinwand gegeben hatte. 
+                  
+                     
+<seg id="10" type="frame" pos="start">Das weiße <seg id="10" type="speaker">Männchen</seg> aber <seg id="10" type="intExpr">sagte</seg> dem Dummen,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">daß er dem weißen Kätzchen die vier Pfoten und den Kopf abhauen sollte.</said> Das wollte der Dumme zwar anfangs nicht, <said id="11" mode="reported" content="speech" level="1">und ließ sich erst lange von dem weißen <seg id="11" type="speaker">Männchen</seg> 
+               <seg id="11" type="intExpr">bitten</seg>
+            </said>, bis er ihm die eine Pfote abhackte. Da gab es einen gewaltigen Donnerschlag, und als er sich von seinem Schrecken erholt hatte und auf das Kätzchen blickte, sah er statt der abgehackten Pfote ein Menschenbein an ihrem Körper sitzen. Da hackte er dem Kätzchen schnell noch die andern Pfoten und den Kopf ab, und da stand auf einmal die schönste Prinzessin vor ihm, und das weiße Männchen war nun auch erlöst.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

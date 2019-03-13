@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gradiva</title>
+             <author>Jensen, Wilhelm</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Gradiva</f>
+         <f name="author">Jensen, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Seine ganze Wissenschaft hatte ihn nicht allein verlassen, sondern ließ ihn auch ohne das geringste Begehren, sie wieder aufzufinden; <said id="1" mode="reported" content="thought" level="1">
+               <seg id="1" type="speaker">er</seg> 
+               <seg id="1" type="intExpr">erinnerte</seg> sich ihrer nur wie aus einer weiten Ferne, und in seiner Empfindung war sie eine alte, eingetrocknete, langweilige Tante gewesen, das ledernste und überflüssigste Geschöpf auf der Welt.</said>
+            <said id="7" mode="reported" content="speech" level="1"> Was <seg id="7" type="speaker">sie</seg> mit hochgelehrter Miene <seg id="7" type="intExpr">über die</seg> verrunzelten <seg id="7" type="intExpr">Lippen brachte</seg> und als Weisheit vortrug, war alles eitel leere Wichtigtuerei</said>, klaubte nur an den dürren Schalen der Erkenntnisfrüchte herum, ohne von ihrem Inhalt, dem Wesenskerne etwas zu offenbaren und zu innerem Verständnisgenuß zu bringen. <said id="8" mode="reported" content="speech" level="1">Was <seg id="8" type="speaker">sie</seg> 
+               <seg id="8" type="intExpr">lehrte</seg>, war eine leblose archäologische Anschauung</said>, <said id="4" mode="reported" content="speech" level="1">und was <seg id="4" type="speaker">ihr</seg> 
+               <seg id="4" type="intExpr">vom Mund kam</seg>, eine tote, philologische Sprache.</said> Die verhalfen zu keinem Begreifen mit der Seele, dem Gemüt, dem Herzen, <said id="9"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">wie <seg id="9" type="speaker">man</seg>'s <seg id="9" type="intExpr">nennen</seg> wollte</said>, sondern wer danach Verlangen in sich trug, der mußte als einzig Lebendiger allein in der heißen Mittagsstille hier zwischen den Überresten der Vergangenheit stehen, um nicht mit den körperlichen Augen zu sehen und nicht mit den leiblichen Ohren zu hören. Dann kam<seg id="5" type="speaker">'s</seg> überall hervor, ohne sich zu regen, <said id="5"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  metaph="yes">und begann zu <seg id="5" type="intExpr">reden</seg> ohne Laut</said> – dann löste die Sonne die Gräberstarre der alten Steine, ein glühender Schauer durchrann sie, die Toten wachten auf, und Pompeji fing an, wieder zu leben. 
+                  Nicht eigentlich <said id="10"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">blasphemische <seg id="10" type="intExpr">Gedanken</seg> im Kopf <seg id="10" type="speaker">Norbert Hanolds</seg>
+            </said> waren's, nur ein unbestimmtes, doch jenes Beiwort gleichfalls vollverdienendes Gefühl, und mit diesem sah er, regungslos stehend, vor sich hinaus, die Strada di Mercurio gegen die Stadtmauer zu hinunter. Die vielkantigen Lavablöcke ihrer Pflasterung lagen noch so tadellos zusammengefügt wie vor ihrer Verschüttung und waren im einzelnen von einer hellgrauen Farbe, doch brütete so blendender Glanz auf ihnen, daß sie sich wie ein gestepptes silberweißes Band zwischen den schweigenden Mauern und Säulentrümmern an den Seiten in glimmender Leere hinzogen. 
+                  Da plötzlich – 
+                  Mit geöffneten Augen blickte er die Straße entlang, <seg id="11" type="frame" pos="start">doch <seg id="11" type="intExpr">war's</seg> 
+               <seg id="11" type="speaker">ihm</seg>,</seg>
+            <said id="11"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">als tue er's in einem Traum.</said> Darin trat plötzlich ein wenig abwärts von rechts her aus der Casa di Castore e Polluce etwas hervor, und über die Lavatrittsteine, die vor dem Hause zur anderen Seite der Strada di Mercurio hinüberführten, schritt leichtbehend die Gradiva dahin. 
+                  Ganz zweifellos war sie's; wenn auch die Sonnenstrahlen ihre Gestalt wie mit einem dünnen Goldschleier umgaben, nahm er sie doch deutlich und genauso im Profil, wie auf dem Relief, gewahr. Ein wenig neigte der Kopf sich vor, dessen Scheitel ein auf den Nacken zurückfallendes Tuch überschlang, die linke Hand hielt das außerordentlich reichfaltige Kleid leicht aufgerafft, und nicht weiter als bis zu den Knöcheln reichend, ließ es klar erkennen, daß bei der vorschreitenden Bewegung der rechte Fuß sich im Zurückbleiben, wenn auch nur einen Moment lang, auf den Zehenspitzen mit der Ferse beinah' senkrecht emporhob. Nur stellte hier nicht ein Steingebild alles in gleichmäßiger Farblosigkeit dar, das Gewand, sichtlich aus äußerst weich-schmiegsamem Stoff verfertigt, sah nicht mit kaltem Marmorweiß, sondern einem leicht ins Gelbliche fallenden warmen Ton an, und das leisgewellt unter dem Kopftuch auf der Stirn und an der Schläfe hervorblickende Haar hob sich mit goldbraunem Glanz von der Alabasterfarbe des Gesichtes ab.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

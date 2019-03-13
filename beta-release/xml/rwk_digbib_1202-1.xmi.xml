@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Rubin</title>
+             <author>Hebbel, Friedrich</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Rubin</f>
+         <f name="author">Hebbel, Friedrich</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Mehr verwundert und überrascht, als erfreut, schaute der Jüngling seinen Retter mit einem fragenden Blick an. <said id="1" mode="direct" content="speech" level="1">»<seg id="2" type="speaker">Du</seg> bist jetzt über hundert Stunden von Bagdad entfernt«</said>
+            <seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">begann</seg> der <seg id="1" type="speaker">Greis</seg>, der seinen Blick wohl verstanden hatte,</seg>
+            <said id="1" mode="direct" content="speech" level="1">»und sie können dort, wenn sie wollen, ein Lamm strangulieren, das ich zum Zeichen deiner Unschuld an deiner Stelle zurückgelassen habe. <seg id="2" type="frame" pos="start">
+                  <seg id="2" type="intExpr">Glaube</seg> jedoch nicht,</seg> 
+               <said id="2"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß ich dich gerettet haben würde, wenn Leichtsinn oder schnöde Habsucht dich zum Raub an fremdem Eigentum verleitet hätten.</said> Mir stehen große Kräfte zu Gebote, aber ich mißbrauche sie nie, wie so manche Genossen meiner Gewalt. Die Natur hat jene Macht, die den gewöhnlichen Lauf der Dinge aufhalten und verändern kann, vertrauensvoll in unsere Hände gelegt, damit wir ihr in irgendeinem außerordentlichen Falle, wenn die allgemeine Regel, das einfache Gesetz, nicht ausreicht, zu Hülfe kommen mögen. Solch ein Fall ist der deinige, denn der Rubin, den du dort in der Hand hältst, ist das Grab einer wunderschönen verzauberten Prinzessin. Aus ihrem Blut hat er das dunkle wunderbare Rot in sich gesogen, in das er getaucht ist. Das Feuer ihres Auges sprüht dir entgegen aus den blitzenden Strahlen, die er so verschwenderisch versendet. Ihr schlummerndes Leben schauerte dich an, als du den Stein im Sonnenschein glänzen sahst, da wurde deine Seele bis in die innersten Tiefen mit süßer Ahnung getränkt, und deine Hand mußte vollbringen, was Herz und Sinne geboten.«</said>
+            <said id="3" mode="direct" content="speech" level="1">»Kann die Prinzessin durch mich erlöst werden?«</said>
+            <seg id="3" type="frame" pos="end">
+               <seg id="3" type="intExpr">fragte</seg> 
+               <seg id="3" type="speaker">Assad</seg>, tief aufatmend.</seg>
+            <said id="4" mode="direct" content="speech" level="1">»<said id="5"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">Das <seg id="5" type="intExpr">weiß</seg> nur <seg id="5" type="speaker">sie</seg> selbst!</said>«</said>
+            <seg id="4" type="frame" pos="mid">
+               <seg id="4" type="intExpr">versetzte</seg> der <seg id="4" type="speaker">Greis</seg>,</seg>
+            <said id="4" mode="direct" content="speech" level="1">»und du kannst, wenn <seg id="8" type="speaker">du</seg> willst, sie einmal sehen und <said id="8"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">mit ihr <seg id="8" type="intExpr">reden</seg>.</said> 
+               <said id="9"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">Sobald <seg id="9" type="speaker">du</seg> um Mitternacht alle deine <seg id="9" type="intExpr">Gedanken</seg> in den einzigen an sie <seg id="9" type="intExpr">zusammendrängst</seg>
+               </said> und auf den Rubin drei 
+ Küsse drückst, so weicht der Zauber auf einen Augenblick, und sie tritt in voller Glorie der Schönheit aus ihrem steinernen Gefängnis hervor. Aber, wage nicht dein Glück und deinen Frieden an einen ungewissen Moment; mit dem Dämon ist schwer zu kämpfen, dich aber würde die herrlichste der Jungfrauen mit unwiderstehlicher Gewalt in deinem tiefsten Sein gefangennehmen, und, wenn es dir dann nicht gelänge, ihren Bann zu brechen, so wärest du elend auf ewig. Und nun leb wohl, kein Sterblicher sieht mich zum zweiten Mal!«</said> 
+                  Der Greis war verschwunden, <said id="7" mode="reported" content="speech" level="1">sowie <seg id="7" type="speaker">er</seg> 
+               <seg id="7" type="intExpr">ausgeredet</seg> hatte.</said>
+            <said id="10"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">
+               <seg id="10" type="speaker">Assad</seg> 
+               <seg id="10" type="intExpr">bemerkte</seg> es kaum</said>, denn jede seiner Empfindungen,<said id="11" mode="reported" content="thought" level="1"> jeder seiner <seg id="11" type="intExpr">Gedanken</seg> war an das Wunder, das <seg id="11" type="speaker">er</seg> in seiner Hand hielt, gebunden.</said> Wie freute er sich, daß die Sonne sich schon zum Untergang neigte, daß die Schatten sich verlängerten, wie sehnte er sich nach der Mitternacht, die er sonst, als unheimliche Freistunde der Toten und Gespenster, gescheut, vor der er sich ängstlich in die schützenden Arme des frommen Schlafs hineingeflüchtet hatte. Sie erschien ihm jetzt, wie ein Gefäß, aus dem seinen durstenden Lippen der holdeste Inbegriff alles Lebens entgegenschäumte, und daß sie über die ganze übrige Welt Angst, Grauen und Entsetzen ausgoß, gab ihr für ihn eben noch einen letzten schauerlich-zauberischen Reiz. Unterdes eilte er, da es schon dunkel wurde, rastlos fort, um noch vor völligem Einbruch der Finsternis die Stadt, die er in nicht gar weiter Ferne vor sich liegen sah, zu erreichen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

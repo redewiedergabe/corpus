@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Poesie des Unbewussten</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1881</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Poesie des Unbewussten</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+19
+                     Verehrte Schwiegermutter!
+                  
+                  15. August
+                         
+                  <said id="27" mode="reported" content="speech writing" level="1">
+               <seg id="27" type="speaker">Ich</seg> 
+               <seg id="27" type="intExpr">bestätige</seg> mit ehrerbietigem Dank den richtigen Empfang der Korrespondenzkarten meiner lieben Frau</said> und habe Ihre gute Meinung daraus ersehen. Es ist sehr schlimm, <seg id="5" type="frame" pos="start">denn <seg id="5" type="speaker">ich</seg> 
+               <seg id="5" type="intExpr">weiß</seg> nicht,</seg>
+            <said id="5"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was ich tun soll, damit sie nicht so vor mir erschrickt, wenn ich vor ihr erschrecke.</said> Das Gewitter steht über meinem Hause, der Blitz wird gleich einschlagen. <said id="6"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">
+               <seg id="6" type="speaker">Sie</seg> 
+               <seg id="6" type="intExpr">wissen</seg> alles</said>, <said id="7" mode="reported" content="speech" level="1">
+               <seg id="7" type="speaker">ich</seg> habe Ihnen pflichtgemäß alles <seg id="7" type="intExpr">eingestanden</seg>
+            </said>, <said id="28" mode="reported" content="speech" level="1">bevor <seg id="28" type="speaker">ich</seg> um Ihre Tochter, meine liebe Frau, bei Ihnen <seg id="28" type="intExpr">geworben</seg> habe ...</said> Meine Situation ist auf das höchste gespannt – soll <seg id="29" type="speaker">ich</seg> nicht abspannen? – <said id="29"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">auch ihr alles <seg id="29" type="intExpr">eingestehen</seg>?!</said> 
+                  Sie wird mich verachten; <said id="30"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="30" type="intExpr">raten</seg> 
+               <seg id="30" type="speaker">Sie</seg> mir!</said> Es wird alles geschehen, <said id="31"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">nur mit Worten kann <seg id="31" type="speaker">ich</seg> meine liebe Frau nicht <seg id="31" type="intExpr">täuschen</seg>
+            </said>, genug schon, zuviel, daß es mit Vertuschen geschieht. 
+                  <said id="32"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="32" type="intExpr">Raten</seg> 
+               <seg id="32" type="speaker">Sie</seg> mir!!</said>
+                         
+               
+               
+                  
+                     
+                        20
+                     Lieber Schwiegersohn!
+                  
+                  18. August
+                         
+                  <said id="35" mode="reported" content="speech" level="1">
+               <seg id="33" type="frame" pos="start">Die <seg id="33" type="intExpr">Frage</seg>,</seg> 
+               <said id="33" mode="indirect" content="speech" level="2">
+                  <said id="34"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">ob <seg id="34 35" type="speaker">Sie</seg> alles gestehen sollen</said>
+               </said>, haben Sie wohl nicht im Ernst gestellt</said>, <said id="36"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">deshalb erspare <seg id="36" type="speaker">ich</seg> mir die <seg id="36" type="intExpr">Beantwortung</seg> derselben</said>; und was das Täuschen anbetrifft, <seg id="12" type="frame" pos="start">so muß <seg id="12" type="speaker">ich</seg> 
+               <seg id="12" type="intExpr">sagen</seg>,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">wenn <seg id="33" type="speaker">Sie</seg> es nicht können, so trachten Sie es zu lernen</said>, denn wie wollen Sie regieren, wenn Sie nicht täuschen können? Und eine Frau nehmen, hat doch regieren wollen geheißen, seit die Welt steht.
+               
+               
+                  
+                     21
+                     Verehrte Schwiegermutter!
+                  
+                  20. August
+                         
+                  Verzeihen Sie, Sie irren sich. Ich habe es ernst gemeint, das mit dem Gestehen. Es ist nicht so kurios, wie es aussieht, <seg id="14" type="frame" pos="start">weil <seg id="14" type="speaker">ich</seg> 
+               <seg id="14" type="intExpr">weiß</seg>,</seg>
+            <said id="14"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß »man« nicht ruhen wird, <said id="15"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">bevor »<seg id="15" type="speaker">man</seg>« mich <seg id="15" type="intExpr">verraten</seg> hat.</said>
+            </said> Aber weil Sie es so nehmen, <said id="16"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">werde <seg id="16" type="speaker">ich</seg> 
+               <seg id="16" type="intExpr">schweigen</seg>.</said> Möge ich es nie bereuen, aber ich werde es bereuen. 
+                  Die Reue ist etwas Schreckliches. 
+                  Ich bin in ihren Krallen zum Feigling geworden. Könnte übrigens auch auf einmal andere Saiten aufziehen; meine Schwester hält mich ab, sonst hätte ich schon energische Maßregeln ergriffen.
+               
+               
+                  
+                     22
+                     Lieber Schwiegersohn!
+                  
+                  22. August
+                         
+                  Ihre Schwester hat recht, energische Maßregeln sollen Sie nicht ergreifen, sondern in Gottes Namen, <said id="18"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">wenn <seg id="18" type="speaker">man</seg> 
+               <seg id="37 38" type="speaker">Sie</seg> 
+               <seg id="18" type="intExpr">verrät</seg>
+            </said> – sonderbar! ich meine eher sich –, <seg id="37" type="frame" pos="start">
+               <seg id="37" type="intExpr">zugeben</seg>,</seg>
+            <said id="37"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">daß Sie das Unglück gehabt haben, bei einer Kokette Glück zu haben</said>, <seg id="38" type="frame" pos="start">sogleich jedoch <seg id="38" type="intExpr">hinzusetzen</seg>,</seg>
+            <said id="38"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <said id="39"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">daß der <seg id="39" type="speaker">Mann</seg> 
+                  <seg id="39" type="intExpr">Rechenschaft</seg> zu <seg id="39" type="intExpr">verlangen</seg> hat von der Vergangenheit seiner Frau</said>, diese aber nicht von der seinen, in bezug auf Herzensangelegenheiten.</said>
+            <said id="20" mode="indirect" content="speech" level="1">Auf Argumente lassen Sie sich</said>
+            <seg id="20" type="frame" pos="mid">, wenn <seg id="20" type="speaker">ich</seg> Ihnen <seg id="20" type="intExpr">raten</seg> darf,</seg>
+            <said id="20" mode="indirect" content="speech" level="1">nicht ein</said>, das einzige: <said id="40"
+                  mode="direct"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">»Es war von jeher so«</said>, ausgenommen, das allerdings schwach ist; aber in dieser Sache gibt es wenig starke, und solange die schwachen gelten ... <seg id="21" type="frame" pos="start">
+               <seg id="21" type="speaker">Wir</seg> 
+               <seg id="21" type="intExpr">wissen</seg> von den meisten Münzen,</seg>
+            <said id="21"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß sie den Wert, den sie anzeigen, nicht besitzen</said> – da sie jedoch allenthalben für denselben angenommen werden ... Sie verstehen mich.
+               
+               
+                  
+                     23
+                  22. August
+                         
+                  Alles gut, mehr als gut. Wir waren im Schlößchen, um Abschied zu nehmen, Emilie und ich. <seg id="23" type="frame" pos="start">
+               <seg id="23" type="speaker">Albrecht</seg> hatte <seg id="23" type="intExpr">versprochen</seg>,</seg>
+            <said id="23" mode="indirect" content="speech" level="1">uns nachzukommen</said>, erschien aber nicht. <said id="24" mode="direct" content="thought" level="1">Er hat wieder furchtbar viel zu tun</said>
+            <seg id="24" type="frame" pos="end">, <seg id="24" type="intExpr">dachte</seg> 
+               <seg id="24 41" type="speaker">ich</seg>
+            </seg>, <said id="41" mode="reported" content="speech" level="1">und <seg id="41" type="intExpr">entschuldigte</seg> ihn auch damit bei Blanka.</said> Statt dessen – wir sind noch gar nicht lange auf der Rückfahrt begriffen, und wen erblicke ich?... Niemand anders als meinen Herrn Gemahl, der am Wege steht und nach uns (wäre ich ganz aufrichtig, <said id="42"
+                  mode="reported"
+                  content="speech writing"
+                  level="1"
+                  nonfact="yes">
+               <seg id="42" type="speaker">ich</seg> 
+               <seg id="42" type="intExpr">sagte</seg> nach mir</said>) auslugt, hoffend und harrend, wie eine männliche »Spinnerin am Kreuz«.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

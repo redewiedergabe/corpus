@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.arbeitgeber</f>
+      </fs>
+      <body>
+         <p>
+            <said id="20" mode="reported" content="writing" level="1"> Das <seg id="20" type="speaker">Bayreuther Tagblatt</seg> 
+               <seg id="20" type="intExpr">berichtet</seg> folgendes
+                     schöne Stückchen von Beamten=Pedanterie.</said>
+                  Die Expedition dieses Blattes erhielt vom <seg id="21" type="speaker">Gerichte</seg> in Erlangen <said id="21" mode="reported" content="writing" level="1">eine
+                     <seg id="21" type="intExpr">Anzeige</seg>, betreffend den Nachlaß eines Fuhrknechtes.</said>
+                  Die Anzeige kostete 1 fl. 6 kr., da aber aus dem ganzen Nachlaß
+                     nicht so viel gelöst wurde, so sandte das <seg id="16" type="speaker">Gericht</seg> nur17 1 / 2 kr., natürlich
+                     unfrankirt und in Münze ein, was 12 kr. Porto verursachte, <said id="16" mode="reported" content="writing" level="1">und <seg id="16" type="intExpr">erbat</seg> sich
+                     Quittung.</said> Wäre dazu Stempelpapier erforderlich gewesen, so hätte das Blatt das
+                     Vergnügen gehabt, 1 / 2 kr. darauf zu zahlen und Papier und Mühe gratis zu
+                     liefern.
+               
+            
+            
+               
+                  
+                     * Napoleonische Wirthschaft.
+                  Jn der letzten Sitzung des gesetzgebenden Körpers in Paris, in der
+                     die sog. <seg id="2" type="speaker">Mameluken Bonapart's</seg>, <said id="2" mode="reported" content="speech" level="1">welche die Opposition sonst immer
+                     <seg id="2" type="intExpr">niedergeschrieen</seg>
+            </said>, zum Schweigen gebracht wurden, <seg id="3" type="frame" pos="start">soll <seg id="3 17" type="speaker">Buffet</seg> als Grund weshalb er das Finanzministerium so rasch wieder
+                     verlassen, <seg id="3" type="intExpr">angegeben</seg> haben:</seg>
+            <said id="3" mode="indirect" content="speech" level="1">er habe entdeckt, daß die Finanzminister Fould und
+                     Mayne dem Kaiser Napoleon jährlich eine Summe von 60 Millionen zugesteckt
+                     hätten, die meist vom Kriegsbudget gestohlen worden sei.</said>
+            <said id="17" mode="indirect freeIndirect" content="speech" level="1">Ob man diese Herren, die nicht unvermögend sind, nun dafür am Ohr
+                     packt?
+                  -- <said id="22" mode="reported" content="speech" level="2">Bei der Prinzessin Mathilde, welche als
+                     die Unschuldigste zuletzt floh, soll <seg id="22" type="speaker">man</seg> die Kleinigkeit von nicht weniger als
+                     61 Millionen <seg id="22" type="intExpr">gefunden</seg> haben.</said>
+            </said>
+               
+            
+            
+               
+                  
+                     * Schulbildung in Frankreich.
+                  <said id="6" mode="reported" content="writing" level="1">Unter dem vielen, höchst klassischen Unsinn, den die französischen
+                     <seg id="6 7" type="speaker">Zeitungen</seg> eben <seg id="6" type="intExpr">vom Stapel lassen</seg>
+            </said>, befindet sich folgendes Körnchen Wahrheit,
+                     das der Charivari bringt, eine Selbstkritik, wie sie besser nicht geliefert
+                     werden kann. <said id="7" mode="direct" content="writing" level="1">Ein französischer Bauer sitzt allein zu Haus und blickt betrübt
+                     auf eine Zeitung, die auf dem Tische liegt. <said id="8" mode="direct" content="speech" level="2">Pourquoi
+                        l'instruction n' at-elle pas été obligatoire</said>
+               <seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">ruft</seg> 
+                  <seg id="8" type="speaker">er</seg>:</seg> 
+               <said id="8" mode="direct" content="speech" level="2">ich könnte jetzt
+                     dieses Journal lesen, <said id="9"
+                        mode="reported"
+                        content="writing"
+                        level="3"
+                        nonfact="yes">das vielleicht <seg id="9" type="intExpr">Nachrichten</seg> von meinem <seg id="9" type="speaker">Sohne</seg> enthält.</said>
+               </said>
+            </said>
+               
+            
+            
+               
+                  
+                     * <said id="10" mode="reported" content="writing" level="1">
+               <seg id="10" type="speaker">Faucher's</seg> 
+               <seg id="10" type="intExpr">Vierteljahrsschrift</seg> enthält im 29. Band
+                     eine Reihe sehr anziehender Aufsätze zunächst von Prince=Smith über die neueste englische Münzfrage und das Ziel der
+                     Arbeiterbewegung, von L. Bamberger über die Aufhebung
+                     der indirekten GemeindeAbgaben in Belgien, Holland und Frankreich, von K. Braun über die Wirschafts= und Rechts=Kulturgeschichte,
+                     von O. Michaelis zur Selbstkritik des Patentschutzes,
+                     von J. Faucher über die Herkunft der Sprache.</said>
+               
+            
+            
+               
+                  
+                     * Die Franzosen in Deutschland.
+                  Unter diesem Titel ist im <seg id="11" type="speaker">Verlag</seg> von C. Fritsch in München <said id="11" mode="reported" content="writing" level="1">eine
+                     <seg id="11" type="intExpr">Schrift</seg> erschienen, welche sehr zeitgemäß an die Zeiten erinnert, in welcher
+                     die Franzosen unter Napoleon I.
+                  Deutschland mit ihrer Gegenwart beglückt haben, und an die Schmach,
+                     welche damals dem deutschen Namen zugefügt worden.</said> Manche interessante
+                     Parallele ist mit der Gegenwart gezogen, <seg id="12" type="frame" pos="start">wie z. B. in einzelnen Ländern <seg id="12" type="speaker">man</seg>
+                     sich hartnäckig <seg id="12" type="intExpr">weigerte</seg>,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">andere als die eigenen Verwundeten aufzunehmen.</said>
+                  Wie sticht dagegen die Gegenwart ab.
+                  Sehr lehrreich ist auch die Erinnerung an den Wiener Kongreß, wie
+                     das Volk um die Früchte seiner Siege betrogen und <said id="18" mode="reported" content="speech" level="1">alle <seg id="18" type="intExpr">Versprechungen</seg>
+            </said> nicht
+                     gehalten wurden.
+                  Möge das Volk heute sich besser umsehen, und das viele vergossene
+                     edle Blut nicht in dynastischem Jnteresse vergossen sein!
+                  -- Nicht unzweckmäßig wäre es gewesen, <said id="13"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">wenn die <seg id="13 19" type="speaker">Schrift</seg> noch weiter
+                     zurückgegriffen und mit <said id="19" mode="reported" content="writing" level="2">der Geschichte der Verwüstung der Pfalz, die nur kurz
+                     <seg id="19" type="intExpr">angeführt</seg> ist</said>, <seg id="13" type="intExpr">begonnen</seg> hätte.</said>
+               
+            
+            
+               
+                  
+                     * Zeitschrift des königl. bayrischen statistischen Bureau's. Redigirt von Dr. Georg Mayr. Das Heft April--Juni enthält: Statistik des
+                     bayerischen Staatshaushaltes, die Staatseinnahmen; erster Artikel: Die direkten
+                     Steuern von W. Vocke, k. Regierungsrath. Münzprägungen im Königreich Bayern
+                     während der Jahre 1837 -1869 incl.; Münzfälschungen in den fünf Jahren 1865 --
+                     1869, <said id="15" mode="reported" content="speech writing" level="1">
+               <seg id="15" type="intExpr">mitgetheilt</seg> vom <seg id="15" type="speaker">k. Staatsministerium der Finanzen</seg>.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

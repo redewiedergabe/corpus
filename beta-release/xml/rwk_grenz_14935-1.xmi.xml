@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bilder aus dem Universitätsleben: 2. Die Wahlschlacht</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">Bilder aus dem Universitätsleben: 2. Die Wahlschlacht</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Ganz hinten schien noch
+                        ein Platz frei zu sein. Er durchschritt und musterte die Reihen der Tische
+                        mit der Ruhe und Sicherheit eines Großstädters, und richtig, hinten in einer
+                        Ecke saß an einem Tische ein einziger Gast, der ein paar zerdrückte, weiße
+                        Handschuhe vor sich liegen hatte und sie kopfschüttelnd betrachtete.
+            Als der Fremde an den Tisch trat, schaute der Sitzende zerstreut auf.
+                        Er stutzte einen Augenblick, <seg id="1" type="frame" pos="start">dann sprang <seg id="1" type="speaker">er</seg> auf und <seg id="1" type="intExpr">rief</seg> mit der lauten Freude
+                        eines gesunden Naturkindes:</seg>
+            <said id="1" mode="direct" content="speech" level="1">Fritz Flügger! Donner und Doria! Mensch, wie
+                        kommst du hierher?</said>
+                         
+            Sie sahen sich beide eine Weile unverwandt an und schüttelten sich fröhlich
+                        und kräftig die Hände.
+            <said id="2" mode="direct" content="speech" level="1">Nil admirari!</said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">rief</seg> 
+               <seg id="2 3" type="speaker">Flügger</seg> lachend.</seg>
+            <said id="3" mode="direct" content="speech" level="1">
+               <said id="4"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">Aber dich alten Türken hier wiederzusehn, <seg id="5" type="frame" pos="start">von dem <seg id="5" type="speaker">ich</seg> 
+                     <seg id="5" type="intExpr">glaubte</seg>, </seg>
+                  <said id="5" mode="indirect" content="thought" level="3">er sei auf Ostpreußens grogbetauten Fluren als
+                        Schulassessor oder wohlbestallter Amtsordinarius von Quarta</said>
+               </said>
+               <seg id="4" type="frame" pos="end">, das hätte <seg id="4" type="speaker">ich</seg>
+                        mir in meinem Berliner Redaktionszimmer nicht <seg id="4" type="intExpr">träumen</seg> lassen.</seg> Und die
+                        weißen Handschuhe hier? Welch ein Zeichen! <said id="6"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">Ah, nun <seg id="6" type="intExpr">weiß</seg> 
+                  <seg id="6" type="speaker">ich</seg> alles!</said> Karl
+                        Wichtel, Unglücksrabe — so müssen wir uns wiedersehn!</said>
+            <said id="7" mode="direct" content="speech" level="1">Also auch du?</said>
+            <seg id="7" type="frame" pos="end">
+               <seg id="7" type="intExpr">rief</seg> 
+               <seg id="7" type="speaker">Wichtel</seg> schnell</seg> und sah ihn erwartungsvoll an.
+            <seg id="8" type="speaker">Fritz Flügger</seg> hatte den Überzieher abgelegt und sich hingesetzt.
+            <said id="8" mode="direct" content="speech" level="1">Natürlich. Hier, Citation zum Rigorosum! Ja, <seg id="26" type="frame" pos="start">
+                  <seg id="26" type="intExpr">weißt</seg> 
+                  <seg id="26" type="speaker">du</seg>,</seg> 
+               <said id="26"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">ich habe
+                        lange geschwankt</said>, aber in diesem titelsüchtigen Deutschland ist man als akademisch gebildeter Mann verraten und verkauft, <said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">wenn <seg id="10" type="speaker">man</seg> sich nicht Doktor
+                        <seg id="10" type="intExpr">nennen</seg> darf.</said> Und nun gar wir Menschen vom verfehlten Beruf! Es ging
+                        nicht mehr, und da habe ich mich denn trutziglich in die Kulturgeschichte des
+                        vorigen Jahrhunderts gestürzt und <said id="11" mode="reported" content="writing" level="2">eine gelehrte <seg id="11" type="speaker">Dissertation</seg> über die wirtschaftliche Lage Ostfrieslands im Jahre 1744 zusammengelesen.</said> Mit genauer
+                         
+            
+            Not habe ich sie dem Lammert, diesem alten Manegereiter der Haupt- und
+                        Staatsaktionen, aufgeteufelt. <seg id="12" type="frame" pos="start">
+                  <seg id="12" type="speaker">Ich</seg> 
+                  <seg id="12" type="intExpr">sage</seg> dir,</seg> 
+               <said id="12" mode="indirect" content="speech" level="2">der Mensch wird geradezu toll,
+                        wenn man ihm mit Kulturgeschichte kommt.</said> Mein Opus wanderte hin und her.
+                        <seg id="13" type="frame" pos="start">Endlich nahm <seg id="13" type="speaker">ers</seg> zähneknirschend an, fügte aber die niederträchtige <seg id="13" type="intExpr">Bemerkung</seg> hinzu,</seg> 
+               <said id="13" mode="indirect" content="speech" level="2">daß bei ihm alles von der mündlichen Prüfung abhinge, die sich
+                        nicht mit kulturgeschichtlichen Faxen, sondern mit der wirklichen Geschichtswissenschaft, nämlich der politischen Geschichte, beschäftigen würde.</said>
+            </said>
+            <said id="14" mode="direct" content="speech" level="1"> Ja</said>
+            <seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">sagte</seg> 
+               <seg id="14" type="speaker">Karl</seg> traurig,</seg>
+            <said id="14" mode="direct" content="speech" level="1">ich habe seine letzten Schriften über das sechzehnte
+                        Jahrhundert gelesen. Es ist zum Sterben.
+            J, <seg id="27" type="frame" pos="end">der <seg id="27" type="speaker">Kerl</seg> 
+                  <seg id="27" type="intExpr">weiß</seg> überhaupt nicht mehr,</seg> 
+               <said id="27"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">was er thut, wenigstens nicht
+                        mehr, <said id="17" mode="reported" content="writing" level="3">was <seg id="17" type="speaker">er</seg> alles <seg id="17" type="intExpr">unterschreibt</seg>.</said>
+               </said> 
+               <said id="18" mode="reported" content="writing" level="2">Es giebt kaum einen Aufruf, den dieser alte
+                        <seg id="18" type="speaker">Stockfisch</seg> nicht <seg id="18" type="intExpr">unterzeichnet</seg> hätte.</said> Bald steht sein Name unter einem konservativ-antisemitischen Notschrei, bald unter einer Sammelliste für ausgewiesene russische
+                        Juden. Hier sieht man ihn als Mitglied des deutschen Sprachvereins, <said id="19" mode="reported" content="speech" level="2">dort
+                        <seg id="19" type="intExpr">erklärt</seg> 
+                  <seg id="19" type="speaker">er</seg> sich gegen den Eifer der Puristen.</said> Nun ist ja heutzutage leider Gottes
+                        nichts wohlfeiler, als <said id="20" mode="reported" content="writing" level="2">die <seg id="20" type="intExpr">Unterschrift</seg> eines <seg id="20" type="speaker">Universitätsprofessors</seg>
+               </said> unter irgend
+                        einem Schnickschnack; <said id="21" mode="reported" content="writing" level="2">aber daß dieser ausgesprochne <seg id="21" type="speaker">Gegner</seg> aller parlamentarischen Regierungsform seinen Namen unter einen liberalen Wahlaufruf <seg id="21" type="intExpr">setzen</seg>
+                        konnte</said>, das ist denn doch zum Tollwerden. Na, gnade uns Gott! <said id="22"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes"
+                     prag="yes">Nun <seg id="22" type="intExpr">sag</seg>
+                        mal</said>, <seg id="22" type="speaker">Kerlchen</seg>, <seg id="23" type="frame" pos="start">
+                  <seg id="23" type="speaker">ich</seg> 
+                  <seg id="23" type="intExpr">verstehe</seg> nicht recht,</seg> 
+               <said id="23"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">du hast doch dein Staatsexamen gemacht,
+                        promoviren willst du nicht, was treibt dich noch einmal in diese Marterhöhle?</said>
+            </said>
+            <said id="24" mode="direct" content="speech" level="1">Gemacht habe ichs</said>
+            <seg id="24" type="frame" pos="mid">, <seg id="24" type="intExpr">sagte</seg> 
+               <seg id="24" type="speaker">Karl</seg> bitter,</seg>
+            <said id="24" mode="direct" content="speech" level="1">
+               <said id="25" mode="reported" content="writing" level="2">aber die Urkunde, die mir <seg id="25" type="speaker">Lammert</seg>
+                        darüber <seg id="25" type="intExpr">ausgestellt</seg> hat</said>, ist kein Zeugnis, sondern ein Steckbrief gemeinster
+                        Sorte.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Schachtelmann</title>
+             <author>Cornelius</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1844</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Schachtelmann</f>
+         <f name="author">Cornelius</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <said id="2" mode="direct" content="speech" level="1">
+               <said id="1" mode="indirect" content="speech" level="2">Alle Geisternacht</said>
+               <seg id="1" type="frame" pos="mid">, wie
+                        uns ja die besten <seg id="1" type="speaker">Kenner</seg> 
+                  <seg id="1" type="intExpr">versichern</seg>,</seg> 
+               <said id="1" mode="indirect" content="speech" level="2">soll nur eine gewisse Zeit dauern.</said>
+            </said>
+                        — <said id="3" mode="direct" content="speech" level="1">Die Schachtel, welche Sie mir gütigst sandten, muß, wenn es
+                        wirklich die geraubte war, durch den unterlassenen Gebrauch merklich
+                        zusammengeschrumpft sein, und meinem Peiniger zum Trotz ging ich
+                        dennoch aus. Sollte mir ein Unfall begegnen, so verlasse ich mich
+                        auf Ihren Beistand, <seg id="2" type="speaker">Herr Doctor</seg>!</said>
+                         
+               — <said id="4" mode="direct" content="speech" level="1">Das können Sie mit Zuversicht! Muth nöthigt ja auch
+                        selbst den Unsterblichen Achtung ab, während träge Feigheit des Bösen Kraft zum Uebermuth steigert. <seg id="5" type="frame" pos="start">
+                  <seg id="5 4" type="speaker">Ich</seg> 
+                  <seg id="5" type="intExpr">denke</seg>,</seg> 
+               <said id="5" mode="indirect" content="thought" level="2">wir wollen vereint
+                        keinem Gegner weichen!</said>
+            </said> Dabei faßte ich des Schachtelmannes Arm
+                        und führte ihn zum Thor hinaus, damit wir nur recht bald die Fluren erreichten, <said id="6" mode="indirect" content="thought" level="1">denn auf der Landstraße</said>
+            <seg id="6" type="frame" pos="mid">, so <seg id="6" type="intExpr">fürchtete</seg> 
+               <seg id="6" type="speaker">ich</seg>,</seg>
+            <said id="6" mode="indirect" content="thought" level="1">möchte mein
+                        Patient leichter einen Rückfall bekommen.</said> Dagegen lebte er in den
+                        blumigen Wiesen vollends auf, sein göttlicher Genius wurde immer
+                        kräftiger und sog mit vollen Zügen die langentbehrte Pracht der
+                        Schöpfung ein.
+               — <said id="7" mode="direct" content="speech" level="1">Herr Doctor</said>
+            <seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">sagte</seg> 
+               <seg id="7 9" type="speaker">er</seg> endlich zu mir;</seg>
+            <said id="7" mode="direct" content="speech" level="1">ich machte am Ende
+                        doch einen dummen Streich, daß ich meine Frau verließ?</said>
+                         
+               — <said id="8" mode="direct" content="speech" level="1">Sie verließen Ihre Frau?</said>
+            <seg id="8" type="frame" pos="end">
+               <seg id="8" type="intExpr">fragte</seg> 
+               <seg id="8" type="speaker">ich</seg> verwundert.</seg>
+               — <said id="9" mode="direct" content="speech" level="1">Ja wohl that ich das. Ich konnte es nicht länger mehr
+                        abhalten. Auf dem abgelegenen Winkel, in welchen ich mich, <said id="10" mode="reported" content="speech" level="2">wie
+                        <seg id="10" type="speaker">ich</seg> Ihnen <seg id="10" type="intExpr">erzählte</seg>
+               </said>, zurückgezogen hatte, <said id="11"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">konnte <seg id="11" type="speaker">ich</seg> zu keinem vernünftigen <seg id="11" type="intExpr">Gedanken</seg> kommen.</said> War auch einmal eine ruhige Stunde, so
+                        erhob sich neben mir und hinter mir ein unheimliches Flüstern, jener
+                        geisterhafte Tanz der Atome begann und die ganze Schaar der Staubtheilchen flirrte und flimmerte mir so lange vor den Augen herum,
+                        bis ich Pinsel und Palette ermüdet niederlegte. Besah ich dann am
+                        anderen Morgen meine Arbeit, so hatte das schadenfrohe Geistervolk
+                         
+               
+               mir dermaßen die Farben besudelt und mit Staub übertüncht, daß
+                        ich wie ein Kind hätte weinen mögen und im Grimme das Bild
+                        gegen die Wand warf. <said id="12" mode="reported" content="speech" level="2">Meine <seg id="12" type="speaker">Frau</seg>, die mich hätte trösten sollen,
+                        oder auch meine <seg id="12" type="speaker">Bekannten</seg>, <seg id="12" type="intExpr">schalten</seg> mich einen Narren</said>, und so hatte
+                        ich denn Niemanden, <said id="13"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">dem <seg id="13" type="speaker">ich</seg> meinen Schmerz <seg id="13" type="intExpr">erzählen</seg> konnte</said>, oder
+                        der <said id="14"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="14" type="speaker">meine</seg> 
+                  <seg id="14" type="intExpr">Klage</seg>
+               </said> verstanden hätte. Nach einigen Jahren, wo sich
+                        täglich und stündlich meine Plage erneute, war <seg id="19" type="speaker">ich</seg> abgemagert wie
+                        ein Schatten und <said id="19" mode="reported" content="thought" level="2">
+                  <seg id="19" type="intExpr">gedachte</seg> mit Wehmuth der glänzenden Plane und
+                        Hoffnungen</said>, wozu mich der Ueberfluß an zeitlichen Gütern und meine
+                        Unabhängigkeit berechtigte. Wie oft war ich beneidet worden von
+                        anderen Kunstgenossen, welche minder reich, wie ich, um's tägliche
+                        Brod arbeiten mußten und in Werken ermüdeten, die weder ihrer
+                        Laune zusagten, noch ihren Fähigkeiten angemessen waren. Ach und
+                        wie köstlich war ihr Zustand im Vergleich mit meiner Lage! <said id="20" mode="reported" content="thought" level="2">Denn
+                        mit einer an Wahnsinn gränzenden Verzweiflung <seg id="20" type="intExpr">sah</seg> 
+                  <seg id="20" type="speaker">ich</seg> meinen Tod
+                        immer mehr herannahen, sah mit Entsetzen die höllische Freude meines Peinigers, mich nun bald gänzlich zu Staub zu mahlen</said>, denn
+                        gedörrt und geröstet war ich schon bei lebendigem Leibe.
+               Eines Tages, wo ich in dumpfem Hinbrüten auf meinem Kämmerlein saß, hörte ich an der Thüre ein klägliches Weinen und ein
+                        leises Klopfen. Schon war ich auf einen neuen Spuk gefaßt und
+                        einzelne Staubtheilchen tanzten vor meinen Augen nach dem Tacte
+                        dieser elenden Melodie, daß mir die Sinne fast vergingen, <seg id="17" type="frame" pos="start">da <seg id="17" type="intExpr">glaubte</seg>
+                        <seg id="17" type="speaker">ich</seg>
+               </seg> 
+               <said id="17" mode="indirect" content="thought" level="2">in dem Weinenden meines Friedrichs Stimme zu erkennen</said> und
+                        mich ermannend, <seg id="18" type="frame" pos="start">
+                  <seg id="18" type="intExpr">fragte</seg> 
+                  <seg id="18" type="speaker">ich</seg>,</seg> 
+               <said id="18" mode="indirect" content="speech" level="2">was er vorhabe?</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,233 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Agave</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Agave</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="3" mode="direct" content="speech" level="1">Geht nach San
+                                                  Clemente und <seg id="1" type="frame" pos="start">holt <seg id="1" type="speaker">Euch</seg> dort einen <seg id="1" type="intExpr">Begriff</seg> davon,</seg>
+                                                  <said id="1"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">was malen heißt.</said>
+                                                  Masolino da Panicale gibt ihn Euch
+                                                  und sein junger Schüler Tommaso Guidi, <said id="4"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">den <seg id="4" type="speaker">sie</seg>
+                                                  Masaccio <seg id="4" type="intExpr">nennen</seg>.</said>«</said>
+            <said id="5" mode="direct" content="speech" level="1">»Kann ihn freuen, das Schwänzlein
+                                                  an seinem Namen!
+                                                  Paßt es auch?
+                                                  Ist er schmutzig und ekelhaft?«</said>
+            <seg id="5" type="frame" pos="end">
+               <seg id="5" type="intExpr">fragte</seg> die <seg id="5" type="speaker">Weißhaarige</seg>.</seg>
+            <said id="6" mode="direct" content="speech" level="1">»Besonders gepflegt freilich
+                                                  nicht«</said>
+            <seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">erwiderte</seg> der <seg id="6 3 8 10 12" type="speaker">Bader</seg>
+            </seg> und führte
+                                                  unwillkürlich die Hände über seine Wangen.
+                                                  
+                                                  
+                                                  <said id="7" mode="direct" content="speech" level="1">»Hättet Euch seiner erbarmen und
+                                                  ihm den Bart scheren sollen«</said>
+            <seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg>
+                                                  <seg id="7 9 11" type="speaker">Vinutelli</seg>.</seg>
+            <said id="8" mode="direct" content="speech" level="1">»Es wächst ihm keiner.
+                                                  Gerade nur ein bißchen am Kinn.«</said>
+            <said id="9" mode="direct" content="speech" level="1">»Am Kinn – wie einer Ziege?«</said>
+            <said id="10" mode="direct" content="speech" level="1">»Nein, nein, ganz kurz, und auf der
+                                                  Oberlippe ein Bärtlein wie ein Schatten.
+                                                  Aber sein Gesicht ist männlich und
+                                                  ernst und hat viele Ecken und Hügel.«</said>
+            <said id="11" mode="direct" content="speech" level="1">»Ecken und Hügel?«</said>
+            <said id="12" mode="direct" content="speech" level="1">»Über den Augenbrauen zwei große
+                                                  und auch oben auf der Stirn, und alles voll Genie
+                                                  ... Und wenn er malt, da hätten die Engel des
+                                                  Gerichtes gut blasen, er würde sie nicht
+                                                  hören.
+                                                  Bei der Arbeit stört ihn nichts und
+                                                  nichts!
+                                                  Und wenn ihn noch so viele
+                                                  umdrängen, Lernbegierige oder bloßes Gaffervolk
+                                                  ...«</said>
+            <said id="13" mode="direct" content="speech" level="1">»Zu welcher Sorte gehörtet Ihr?«</said>
+            <seg id="13" type="frame" pos="end">
+               <seg id="13" type="intExpr">fragte</seg> 
+               <seg id="13 16" type="speaker">Julia</seg>
+            </seg>, und wieder lachten alle.
+                                                  
+                                                  
+                                                  
+                                                  <said id="14" mode="direct" content="speech" level="1">»<said id="40"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     border="yes">Es gibt auch Leute, die <seg id="40" type="speaker">man</seg>
+                                                  Kunstfreunde <seg id="40" type="intExpr">nennt</seg>
+               </said>«</said>
+            <seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">erwiderte</seg> der <seg id="14" type="speaker">Bader</seg>,</seg>
+            <said id="14" mode="direct" content="speech" level="1">»und es
+                                                  gibt, Gott sei Lob und Dank, noch jugendliche
+                                                  Begeisterung.«</said>
+            <said id="16" mode="direct" content="speech" level="1">»Bei Euch doch nicht?«</said>
+            <said id="17" mode="direct" content="speech" level="1">»Warum nicht?
+                                                  – Zum Beispiel die meine für Euch,
+                                                  Schönste, will nicht altern«</said>
+            <seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">sagte</seg> 
+               <seg id="17 18" type="speaker">Fenderigo</seg>
+                                                  galant.</seg>
+            <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="thought" level="2">Übrigens <seg id="19" type="intExpr">dachte</seg> 
+                  <seg id="19" type="speaker">ich</seg> jetzt nicht an
+                                                  mich, sondern ...</said>«</said>
+            <seg id="20" type="frame" pos="start">
+               <seg id="20" type="speaker">Er</seg> machte eine Pause, blickte
+                                                  sich mit seinen klugen Augen im Kreise um und
+                                                  <seg id="20" type="intExpr">sprach</seg>:</seg>
+            <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="frame" pos="start">Hat <seg id="21" type="speaker">keiner</seg> von euch <seg id="21" type="intExpr">bemerkt</seg>,</seg> 
+               <said id="21"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">daß wir den
+                                                  Antonio am Sonntag nicht mehr zu sehen bekommen?</said>«</said>
+            <seg id="22" type="frame" pos="start">
+               <seg id="22" type="speaker">Julia</seg> 
+               <seg id="22" type="intExpr">besann</seg> 
+               <seg id="22" type="intExpr">sich</seg>,</seg>
+            <said id="22" mode="indirect" content="thought" level="1">
+               <said id="24"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">daß ihre Tochter
+                                                  <seg id="24" type="speaker">Cencetta</seg> es allerdings <seg id="24" type="intExpr">bemerkt</seg> habe</said> und <seg id="23" type="frame" pos="start">daß die
+                                                  <seg id="23" type="speaker">Kleine</seg> 
+                  <seg id="23" type="intExpr">sich</seg> 
+                  <seg id="23" type="intExpr">einbilde</seg>,</seg> 
+               <said id="23" mode="indirect" content="thought" level="2">der Tonklumpen müsse am Ende
+                                                  doch Feuer gefangen und irgendwo in der Nähe ein
+                                                  Liebchen haben, bei dem er seine Sonntagsfeier
+                                                  halte.</said>
+            </said>
+            <said id="25" mode="direct" content="speech" level="1">»Ist richtig – bis auf die Nähe«</said>
+            <seg id="25" type="frame" pos="end">,
+                                                  <seg id="25" type="intExpr">versetzte</seg> 
+               <seg id="25 26" type="speaker">Fenderigo</seg>.</seg>
+            <said id="26" mode="direct" content="speech" level="1">»Er hat eine Geliebte, aber sie
+                                                  wohnt in Rom, und zwei Nächte muß er mit Hin- und
+                                                  Hergehen verbringen, um ein paar süße Stunden
+                                                  hindurch ihren Anblick genießen zu können.«</said>
+            <said id="27" mode="direct" content="speech" level="1">»Ihren Anblick?
+                                                  – Ach geht – nur ihren
+                                                  Anblick?
+                                                  – Sähe ihm fast ähnlich!«</said>
+            <seg id="27" type="frame" pos="end">
+               <seg id="27" type="intExpr">riefen</seg>
+                                                  die <seg id="27 28" type="speaker">Männer</seg> und die <seg id="27 28" type="speaker">Frauen</seg> durcheinander</seg>, <said id="28" mode="reported" content="speech" level="1">und es
+                                                  hagelte zweideutige Reden und derbe Witze.</said>
+                                                  
+                                                  
+                                                  Eine Weile verging, bevor der <seg id="29 35" type="speaker">Bader</seg>
+                                                  sich wieder verständlich machen konnte.
+                                                  <said id="29" mode="direct" content="speech" level="1">»<said id="30"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     prag="yes">Anblick <seg id="30" type="intExpr">sage</seg> 
+                  <seg id="30" type="speaker">ich</seg>!</said>
+                                                  <said id="31"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     prag="yes">Anblick <seg id="31" type="intExpr">meine</seg> 
+                  <seg id="31" type="speaker">ich</seg>!</said>
+                                                  Und mehr vermöchte auch der Kühnste
+                                                  nicht von ihr zu erlangen, denn die Angebetete ist
+                                                  die heilige Katharina selbst und von Masaccio an
+                                                  die Wand der ihr geweihten Kapelle gemalt.«</said> 
+                                                  
+                                                  
+                                                  Eine gemalte Geliebte!
+                                                  – Die Enttäuschung war groß.
+                                                  
+                                                  
+                                                  <said id="32" mode="direct" content="speech" level="1">»Lauter Unsinn!«</said>
+            <seg id="32" type="frame" pos="end">
+               <seg id="38" type="intExpr">sagte</seg> 
+               <seg id="38 32 33" type="speaker">Julia</seg>.</seg>
+            <said id="33" mode="direct" content="speech" level="1">»<said id="34"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">
+                  <seg id="34" type="speaker">Ihr</seg> könnt den Unsinn doch selbst
+                                                  nicht <seg id="34" type="intExpr">glauben</seg>.</said>«</said>
+            <said id="35" mode="direct" content="speech" level="1">»<said id="36"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">Was <seg id="36" type="speaker">man</seg> mit seinen Augen gesehen
+                                                  hat, braucht man nicht zu <seg id="36" type="intExpr">glauben</seg>
+               </said>, <said id="37"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     border="yes">
+                  <seg id="37" type="speaker">man</seg> 
+                  <seg id="37" type="intExpr">weiß</seg>
+                                                  es.</said>
+                                                  Ich habe die Verzückung gesehen, in
+                                                  die der Jüngling vor diesen Bildern versinkt.
+                                                  So merkwürdig ist
+                                                  sie, so schön, daß es sogar dem Maler, dem nichts
+                                                  auffällt, auffiel und <seg id="38" type="frame" pos="start">daß <seg id="38" type="speaker">er</seg> neulich, nachdem
+                                                  Antonio sich losgerissen und die Kapelle verlassen
+                                                  hatte, <seg id="38" type="intExpr">gefragt</seg> hat,</seg> 
+               <said id="38" mode="indirect" content="speech" level="2">wer der Jüngling sei, <said id="39"
+                        mode="reported"
+                        content="speech"
+                        level="3"
+                        border="yes">
+                     <seg id="39" type="speaker">der</seg> so
+                                                  bescheiden und inbrünstig zur Heiligen <seg id="39" type="intExpr">bete</seg>.</said>
+               </said>
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

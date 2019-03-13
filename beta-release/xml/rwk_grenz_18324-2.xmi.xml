@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Kampf um Rom 1849</title>
+             <author>Kaemmel, Otto </author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Kampf um Rom 1849</f>
+         <f name="author">Kaemmel, Otto </f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Die
+                        Wiener Oktoberrevolution und die Erhebung Ungarns gaben ihnen vollends
+                        das Übergewicht. Siegreich über die Österreicher trat Bologna mit der Romagna unter die Herrschaft der Radikalen; in Toskana mußte sich der Großherzog Leopold das radikale Ministerium Guerazzi-Montanelli gefallen lassen.
+                        In Rom selbst machte Graf Pellegrino Rossi, seit dem 16. September Minister,
+                        den letzten Versuch, die neue liberale Verfassung ehrlich durchzuführen, um
+                        den Republikanern das Heft aus der Hand zu winden und das weltliche
+                        Papsttum zu retten, aber er erlag ihrem wilden Hasse am 15. November; als
+                        er die Kammern im Palast der Cancellaria eröffnen wollte, streckte ihn auf der
+                        Treppe ein Dolchstoß zu Boden, und am 16. November zwang das tobende
+                        Volk dem Papst, ihn im Quirinal belagernd, das radikale Ministerium
+                        Mamiani ab. <said id="1" mode="reported" content="speech" level="1">Alle Konzessionen im voraus für null und nichtig <seg id="1" type="intExpr">erklärend</seg>
+            </said>,
+                        flüchtete darauf <seg id="1 2" type="speaker">Pius der Neunte</seg> am 24. November aus Rom nach Gaeta
+                        und <said id="2" mode="reported" content="speech" level="1">
+               <seg id="2" type="intExpr">rief</seg> die Intervention der katholischen Mächte <seg id="2" type="intExpr">an</seg>.</said>
+            Mitten in diese Verwirrung hinein geriet Garibaldi.*) Er hatte, aus
+                        Südamerika zurückgekehrt, mit seiner Freiwilligenlegion den Sommerfeldzug
+                        1848 mitgemacht, war dann aber in die Schweiz gedrängt worden. Von hier
+                        aus erreichte er nach dem Waffenstillstande Genua; Ende Oktober erschien er
+                        mit einer Handvoll schlechtausgerüsteter Leute in Livorno und stellte sich hier
+                        dem demokratischen Ministerium Guerrazzi zur Verfügung. Doch hatte dieses
+                         
+            <note>*) <said id="3" mode="reported" content="writing" level="1">Über diesen Feldzug handelt mit quellenmäßiger Gründlichkeit in ruhiger, sachlicher
+                        Darstellung ein <seg id="3" type="intExpr">Band</seg> der vortrefflichen Biblioteca storica del risorgimento italiano: Giuseppe
+                        Garibaldi e la sua legione mnello stato romano 1848—49 von<seg id="3" type="speaker"> E. Lövinson</seg>, Roma, Società
+                        editrice Dante Alighieri, 1902.</said> Zwei weitere Bände mit den Dokumenten sollen folgen. <said id="4" mode="reported" content="writing" level="1">Eine
+                        Ergänzung nach der politischen Seite hin bieten die <seg id="4" type="intExpr">Aufzeichnungen</seg> des Justizministers der
+                        römischen Republik <seg id="4" type="speaker">Giovita Lazzarini</seg> (aus Forli, 1813 bis 1849): Diario epistolare di Giovita
+                        Lazzarini dal 10 Febbrajo al 7 Luglio 1849</said>, in derselben Sammlung herausgegeben und <said id="5" mode="reported" content="writing" level="1">mit
+                        erläuternden <seg id="5" type="intExpr">Anmerkungen</seg> versehen von <seg id="5" type="speaker">G. Mazzatini</seg> (1899).</said> Beigefügt sind noch <said id="8" mode="reported" content="writing" level="1">Stücke aus
+                        dem <seg id="8" type="intExpr">Tagebuch</seg> eines <seg id="8" type="speaker">Offiziers</seg> des zweiten römischen Infanterieregiments Giovanni Casali aus der
+                        Zeit vom 26. Januar bis zum 12. Juli 1849.</said> Lazzarini erscheint überall als ein begeisterter politischer Idealist von ursprünglich neoguelfischer Färbung, aber als eine weiche, gemütvolle, keineswegs revolutionäre Natur. Er erlag am 31. August 1849 nach argen Irrfahrten in Nizza der
+                        Cholera, ohne seine inniggeliebte Familie wiederzusehen.
+                        </note>
+            
+            keine Verwendung für ihn, <said id="9" mode="reported" content="speech writing" level="1">
+               <seg id="9" type="speaker">es</seg> 
+               <seg id="9" type="intExpr">bemühte</seg> sich deshalb bei Rossi in Rom um die
+                        Erlaubnis zum Durchmarsch für Garibaldi</said>, der auf diesem Wege dem schon
+                        hart bedrängten Venedig zu Hilfe kommen konnte und sich in der That, ohne
+                        noch <said id="10" mode="reported" content="speech writing" level="1">die <seg id="10" type="intExpr">Erlaubnis</seg> dazu erhalten zu haben</said>, über den Apennin auf der Straße
+                        nach Bologna in Bewegung setzte. Nicht ohne Zögern ließ ihm Rossi, dn ihm
+                        die Anwesenheit des radikalen Freischarenführers auf römischem Gebiet unbequem war, die Greuze öffnen, und an Bologna vorüber erreichten die Garibaldiner, bis Faenza der Via Emilia folgend, dann nordwärts abbiegend am
+                        18. November Ravenna, von wo schon eure kleine Neiterschar unter Masini
+                        den Marsch nach Comaechio angetreten hatte, um von dort zur See uach
+                        Venedig zu kommen. <said id="7" mode="reported" content="writing" level="1">Da traf am 19. die <seg id="7" type="speaker">Nachricht</seg> von der Ermordung
+                        Rossis, vom Siege der Radikalen in Rom ein.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

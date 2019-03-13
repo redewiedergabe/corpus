@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Toupetkünstler</title>
+             <author>Leskov, Semënovič Nikolaj</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Der Toupetkünstler</f>
+         <f name="author">Leskov, Semënovič Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="1" type="frame" pos="start">Der <seg id="1" type="speaker">Graf</seg> 
+               <seg id="1" type="intExpr">fragte</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">»Was hast du denn?«</said>
+            <seg id="2" type="frame" pos="start">
+               <seg id="2" type="speaker">Arkadij</seg> aber <seg id="2" type="intExpr">antwortete</seg>:</seg>
+            <said id="2" mode="direct" content="speech" level="1">»Verzeihung, ich bin auf dem Teppich ausgeglitten.«</said>
+            <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Graf</seg> 
+               <seg id="3" type="intExpr">witterte</seg> wohl etwas:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Paß auf, daß es kein Unglück gibt!«</said> 
+                     Arkadij war es ober schon so zumute, <said id="4"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß <seg id="4" type="speaker">er</seg> nicht mehr an Glück und Unglück <seg id="4" type="intExpr">dachte</seg>.</said>
+            <seg id="29" type="frame" pos="start">Als er den <seg id="29" type="intExpr">Befehl</seg> hörte,</seg>
+            <said id="29"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  border="yes">mich als heilige Cäcilie einzukleiden</said>, verging ihm Hören und Sehen. Er nahm das Lederfutteral mit dem Rasierbesteck und ging hinaus. 
+                  
+               
+            
+            
+               
+                  
+                     Achtes Kapitel
+                     Er kommt zum Bruder des Grafen. Vor dem Spiegel brennen schon die Kerzen, und auf dem Tische liegen wieder zwei Pistolen und daneben Dukaten, aber nicht zwei, sondern zehn, und die Pistolen sind diesmal mit tscherkessischen Kugeln geladen. 
+                     <seg id="6" type="frame" pos="start">Der <seg id="6 7" type="speaker">Bruder</seg> des Graten <seg id="6" type="intExpr">sagt</seg>:</seg>
+            <said id="6" mode="direct" content="speech" level="1">»Ich habe gar keinen Pudel, <seg id="7" type="frame" pos="start">
+                  <seg id="7" type="intExpr">verlange</seg> von dir aber folgendes:</seg> 
+               <said id="7"
+                     mode="direct"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">richte mich so her, daß ich ein mutiges Aussehen bekomme.</said> Du kriegst dafür zehn Dukaten; wenn du mich aber schneidest, bist du auf der Stelle tot.«</said>
+            <said id="8" mode="reported" content="thought" level="1">
+               <seg id="8" type="speaker">Arkadij</seg> 
+               <seg id="8" type="intExpr">überlegte</seg> sich die Sache</said> und machte sich plötzlich daran, – <seg id="9" type="frame" pos="start">
+               <seg id="9" type="speaker">Gott</seg> allein <seg id="9" type="intExpr">weiß</seg>,</seg>
+            <said id="9"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes"
+                  prag="yes">was über ihn gekommen war</said>, – den Bruder des Grafen zu frisieren und zu rasieren. <seg id="10" type="frame" pos="start">Im Nu war <seg id="10" type="speaker">er</seg> mit seiner Arbeit fertig, steckte das Geld in seine Tasche und <seg id="10" type="intExpr">sagte</seg>:</seg>
+            <said id="10" mode="direct" content="speech" level="1">»Leben Sie wohl.«</said>
+            <seg id="11" type="frame" pos="start">
+               <seg id="11 15 18" type="speaker">Jener</seg> 
+               <seg id="11" type="intExpr">antwortet</seg>:</seg>
+            <said id="11" mode="direct" content="speech" level="1">»Geh! <seg id="12" type="frame" pos="start">
+                  <seg id="12" type="speaker">Ich</seg> möchte aber nur das eine <seg id="12" type="intExpr">wissen</seg>:</seg> 
+               <said id="12" mode="direct" content="speech" level="2">wie hast du dich dazu entschließen können?</said>«</said>
+            <seg id="13" type="frame" pos="start">
+               <seg id="13 16" type="speaker">Arkadij</seg> aber <seg id="13" type="intExpr">sagt</seg>:</seg>
+            <said id="13" mode="direct" content="speech" level="1">»<said id="14"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes"
+                     metaph="yes">
+                  <said id="30" mode="reported" content="thought" level="3">Warum <seg id="30" type="speaker">ich</seg> mich dazu <seg id="30" type="intExpr">entschlossen</seg> habe</said>
+               </said>
+               <seg id="14" type="frame" pos="end">, das <seg id="14" type="intExpr">weiß</seg> nur mein <seg id="14" type="speaker">Herz</seg> in der Brust.</seg>«</said>
+            <said id="15" mode="direct" content="speech" level="1">»Oder bist du vielleicht kugelfest oder kennst irgend einen Zauber, so daß du selbst die Pistolen nicht fürchtest?«</said>
+            <said id="16" mode="direct" content="speech" level="1">»<said id="17"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">Die Pistolen sind das wenigste, an die habe <seg id="17" type="speaker">ich</seg> gar nicht <seg id="17" type="intExpr">gedacht</seg>.</said>«</said>
+            <said id="18" mode="direct" content="speech" level="1">»Was? <seg id="19" type="frame" pos="start">Wagtest <seg id="19" type="speaker">du</seg> denn zu <seg id="19" type="intExpr">denken</seg>,</seg> 
+               <said id="19"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß <said id="20" mode="reported" content="speech" level="3">das <seg id="20" type="intExpr">Wort</seg> deines <seg id="20" type="speaker">Grafen</seg>
+                  </said> mehr gilt als das meinige und daß ich dich, wenn du mich schneidest, nicht erschieße?</said> Wenn du nicht kugelfest bist, so wärest du auf der Stelle tot.«</said>
+            <said id="21"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">Als <seg id="21 23" type="speaker">Arkedij</seg> den Namen seines Herrn <seg id="21" type="intExpr">hörte</seg>
+            </said>, <seg id="22" type="frame" pos="start">fuhr <seg id="22" type="speaker">er</seg> zusammen und <seg id="22" type="intExpr">sagte</seg> wie aus dem Schlafe:</seg>
+            <said id="22" mode="direct" content="speech" level="1">»Ich bin nicht kugelfest, Gott hat mir aber Vernunft verliehen: noch eh du die Hand nach der Pistole ausstrecktest, hätte ich dir mit dem Rasiermesser die Gurgel durchschnitten.«</said>
+            <said id="23" mode="reported" content="speech" level="1">Mit diesen <seg id="23" type="intExpr">Worten</seg> stürzt er hinaus</said> und kommt ins Theater noch gerade zur rechten Zeit, um mich herzurichten. Er zittert am ganzen Leibe, und wie er sich über mich beugt, um eine Locke zu wickeln,<seg id="24" type="frame" pos="start"> 
+               <seg id="24" type="intExpr">flüstert</seg> 
+               <seg id="24" type="speaker">er</seg> mir zu:</seg>
+            <said id="24" mode="direct" content="speech" level="1">»Hab nur keine Angst, ich werde dich entführen.«</said> 
+                  
+               
+            
+            
+               
+                  
+                     Neuntes Kapitel
+                     Die Aufführung gelang vortrefflich, denn wir alle waren gut abgerichtet und alle Ängste und alle Marter gewohnt. Wir machten unsere Sache so gut, wie wenn wir aus Stein wären, so daß niemand sehen konnte, wie uns dabei zumute war. 
+                     Wir sahen von der Bühne aus den Grafen und seinen Bruder: sie waren einander sehr ähnlich. Selbst als sie hinter die Kulissen kamen, konnte man sie schwer voneinander unterscheiden. Der unsrige war aber auf einmal ganz still und sanft geworden. So war er immer vor seinen grausamsten Wutausbrüchen. 
+                     <seg id="25" type="frame" pos="start">
+               <seg id="25" type="speaker">Wir</seg> zittern alle und <seg id="25" type="intExpr">bekreuzigen</seg> uns:</seg>
+            <said id="25" mode="direct" content="speech" level="1">»Herr, errette uns und sei uns gnädig! Wen wird diesmal sein Zorn treffen?«</said>
+            <said id="26"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">
+               <seg id="26" type="speaker">Wir</seg> 
+               <seg id="26" type="intExpr">wußten</seg> noch nichts von der verzweifelten Tat Arkaschas</said>; <seg id="27" type="frame" pos="start">
+               <seg id="27" type="speaker">er</seg> selbst aber <seg id="27" type="intExpr">wußte</seg> natürlich,</seg>
+            <said id="27"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß er keine Gnade zu erwarten hatte</said> und erbleichte, als der <seg id="31" type="speaker">Bruder</seg> des Grafen ihn anblickte und <said id="31" mode="reported" content="speech" level="1">unserm Grafen etwas <seg id="31" type="intExpr">zuflüsterte</seg>
+            </said>: Ich hatte aber scharfe Ohren und hörte, <seg id="0" type="frame" pos="start">was <seg id="0" type="speaker">er</seg> ihm <seg id="0" type="intExpr">sagte</seg>:</seg>
+         </p>
+      </body>
+   </text>
+</TEI>

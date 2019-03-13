@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>X.</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Undefined</f>
+         <f name="author">X.</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.badener</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">
+               <seg id="1" type="speaker">Man</seg> kann dieses Programm ohne Bedenken
+                        im Großen und Ganzen <seg id="1" type="intExpr">unterschreiben</seg>.</said> Es deckt
+                        sich mit den von der deutschliberalen Partei und
+                        der deutschen Linken des Reichsrathes zu verschiedenen Zeiten als Programm veröffentlichten
+                        Kundgebungen. Seit einer Reihe von Jahren
+                        schon bilden die „wirthschaftlichen und socialen
+                        Reformen“ einen stehenden Programmpunkt dieser
+                        Partei, und im Sinne desselben hat die Partei
+                        schon wesentliche Actionen durchgeführt. Die bisherige Losung der deutschliberalen Partei war
+                        Deutschthum, Freiheit, Fortschritt und Staatseinheit — auch die Staatseinheit wird in dem
+                        neuen Programme an mehreren Stellen betont.
+                        <seg id="2" type="frame" pos="start">Es wird auch von den <seg id="2" type="speaker">Wortführern</seg> der deutschfortschrittlichen Partei <seg id="2" type="intExpr">zugegeben</seg>,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">daß es ihnen
+                        gar nicht darum zu thun war, ein neues Programm aufzustellen.</said>
+            <seg id="3" type="frame" pos="start">Umsomehr darf die Erwartung <seg id="3" type="intExpr">ausgesprochen</seg> werden,</seg>
+            <said id="3"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">daß, wenn schon bei
+                        den Neuwahlen für den Reichsrath zwei Parteigruppen mit ein und demselben Programme in
+                        die Wahl gehen werden, die Gemeinsamkeit des
+                        Programmes in der neuen Volksvertretung auch
+                        zu einem gemeinsamen Vorgehen führen wird —
+                        zum Frommen des deutschen Volkes in Oesterreich.</said> Von größtem Belange für die nächste Zukunft unserer inneren Politik und für das
+                        Deutschthum in der künftigen Reichsvertretung
+                        ist es, daß der große Stock der deutschen Wählerschaft demselben Programme huldigt, und daß
+                        nicht das eintritt, was die gewöhnliche Folge
+                        von Parteispaltungen ist, daß etwa tactische
+                        Differenzen auch zu Programmdifferenzen führen.
+                        Wir haben gesehen, wie ein Theil des ehemaligen
+                        „deutschen Clubs“, welcher sich von dem anderen
+                        aus bloß persönlichen Gründen getrennt hatte,
+                        nach und nach seinen ursprünglichen Programmboden so weit verließ, daß er antisemitische und
+                        christlich-sociale Lehrsätze in sein neues Programm aufnahm Das soeben veröffentliche Programm der deutschen Fortschrittspartei ist eine
+                        Gewähr dafür, daß eine grundsätzliche Entfremdung dieser Partei mit der deutschliberalen nicht
+                        zu befürchten ist, wenn auch die tactischen Anschauungen beider Gruppen augenblicklich nicht
+                        übereinstimmen. Das kann nur zur Beruhigung
+                        und Genugthuung aller Jener dienen, denen die
+                        Wohlfahrt des deutschen Volkes in Oesterreich
+                        am Herzen liegt.
+               
+                  X.
+                        
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

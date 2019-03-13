@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der versiegelte Engel</title>
+             <author>Leskov, Semënovič Nikolaj</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Der versiegelte Engel</f>
+         <f name="author">Leskov, Semënovič Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">Eine Säule des Dünkels, schmeichle dir nicht mit deiner Rechtschaffenheit, sonst verläßt dich dein Engel.«</said>
+            <seg id="2" type="frame" pos="start"> 
+               <seg id="2" type="speaker">Ich</seg> 
+               <seg id="2" type="intExpr">sage</seg>:</seg>
+            <said id="2" mode="direct" content="speech" level="1">»<seg id="1" type="speaker">Vater</seg>, <seg id="29" type="frame" pos="start">
+                  <seg id="29" type="intExpr">weißt</seg> 
+                  <seg id="29" type="speaker">du</seg> denn,</seg> 
+               <said id="29"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">weshalb ich wandere?</said>«</said>
+            <said id="4" mode="reported" content="speech" level="1">Und <seg id="4" type="speaker">ich</seg> 
+               <seg id="4" type="intExpr">erzähle</seg> ihm unser ganzes Leid.</said>
+            <seg id="5" type="frame" pos="start">Und <seg id="5" type="speaker">er</seg> hört alles an, hört und <seg id="5" type="intExpr">antwortet</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">»Der Engel ist geduldig, der Engel ist mild; <said id="6" mode="reported" content="speech" level="2">wie es der <seg id="6" type="speaker">Herr</seg> ihm <seg id="6" type="intExpr">befiehlt</seg>
+               </said>, so kleidet er sich, <said id="7" mode="reported" content="speech" level="2">was <seg id="7" type="speaker">er</seg> ihm <seg id="7" type="intExpr">befiehlt</seg>
+               </said>, 
+das wirkt er. Also ist der Engel! Er lebt in der Seele des Menschen, die Unwissenheit hat ihn versiegelt, aber die Liebe wird das Siegel zerbrechen.«</said> 
+                     Damit entfernt er sich von mir, aber ich kann die Augen nicht von ihm wenden, kann mich nicht bezwingen, falle nieder und verneige mich vor ihm bis zur Erde. Als ich das Gesicht erhebe, ist er nicht mehr da, ob ihn nun die Bäume verdeckten, oder ... <seg id="30" type="frame" pos="start">
+               <seg id="30" type="speaker">Gott</seg> 
+               <seg id="30" type="intExpr">weiß</seg>,</seg>
+            <said id="30"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes"
+                  prag="yes">wohin er verschwunden ist.</said>
+            <seg id="8" type="frame" pos="start">
+               <seg id="8 33" type="speaker">Ich</seg> begann über <said id="31" mode="reported" content="speech" level="1">
+                  <seg id="31" type="speaker">seine</seg> 
+                  <seg id="31" type="intExpr">Worte</seg>
+               </said> 
+               <seg id="8" type="intExpr">nachzudenken</seg>:</seg>
+            <said id="8" mode="direct" content="thought" level="1">der Engel lebt in der Seele des Menschen und ist versiegelt, aber die Liebe wird ihn befreien</said>, <seg id="9" type="frame" pos="start">und plötzlich <seg id="9" type="intExpr">kommt</seg> 
+               <seg id="9" type="speaker">mir</seg> in den <seg id="9" type="intExpr">Sinn</seg>:</seg>
+            <said id="9" mode="direct" content="thought" level="1">»Wenn er selbst der Engel war, <seg id="32" type="frame" pos="start">und <seg id="32" type="speaker">Gott</seg> ihm <seg id="32" type="intExpr">befohlen</seg> hat,</seg> 
+               <said id="32" mode="indirect" content="speech" level="2">mir in dieser Gestalt zu erscheinen</said>, – so werde ich nun wie Lewontij sterben!«</said>
+            <said id="33" mode="reported" content="thought" level="1">Von diesem <seg id="33" type="intExpr">Gedanken</seg> erfaßt</said>, <seg id="34" type="frame" pos="start">
+               <seg id="34" type="intExpr">entsinne</seg> 
+               <seg id="34 35" type="speaker">ich</seg> mich kaum mehr,</seg>
+            <said id="34" mode="indirect" content="thought" level="1">wie ich auf einem Baumstamm über den Bach komme und zu laufen beginne:</said> sechzig Werst ohne Rast, immer in der Angst und <seg id="35" type="frame" pos="start">der <seg id="35" type="intExpr">Vorstellung</seg>,</seg>
+            <said id="35" mode="indirect" content="thought" level="1">den Engel gesehen zu haben</said>, bis ich auf einmal ein Dorf erreiche und dort den Ikonenmaler Ssewastjan finde. <seg id="13" type="frame" pos="start">
+               <said id="12" mode="reported" content="speech" level="1">
+                  <seg id="13 12" type="speaker">Wir</seg> verständigten uns bald, <seg id="12" type="intExpr">besprachen</seg> alles</said> und <seg id="13" type="intExpr">beschlossen</seg>,</seg>
+            <said id="13" mode="indirect" content="speech" level="1">uns schon am nächsten Tag auf den Weg zu machen.</said> Aber unsere Vereinbarung war ohne jede Wärme, und unsere Reise noch weniger, einmal weil der Ikonenmaler Ssewastjan ein nachdenklicher Mensch war, und dann wohl noch mehr, weil ich nicht mehr derselbe war, wie zuvor. Vor meiner Seele stand der Einsiedler Pamwa, <seg id="14" type="frame" pos="start">und <seg id="14" type="speaker">meine</seg> Lippen <seg id="14" type="intExpr">flüsterten</seg> die Worte des Propheten Jesajas:</seg>
+            <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="speech" level="2">Der <seg id="15" type="speaker">Geist Gottes</seg> 
+                  <seg id="15" type="intExpr">spricht</seg> aus dem Munde dieses Menschen.</said>«</said> 
+                  
+               
+            
+            
+               
+                  
+                     
+                        
+Zwölftes Kapitel
+                     Der Ikonenmaler Ssewastjan und ich legten den Rückweg rasch zurück und fanden, nachts bei unserer Baustelle angelangt, alles wohlbehalten vor. <said id="16" mode="reported" content="speech" level="1">Nachdem <seg id="16" type="speaker">wir</seg> die Unsrigen <seg id="16" type="intExpr">begrüßt</seg> hatten</said>, gingen wir gleich zu Jakow Jakowlewitsch. <seg id="36" type="frame" pos="start">
+               <seg id="36" type="speaker">Der</seg> 
+               <seg id="36" type="intExpr">verlangte</seg> voll Neugierde</seg>
+            <said id="36" mode="indirect" content="speech" level="1">gleich den Ikonenmaler zu sehen</said>; <seg id="19" type="speaker">er</seg> betrachtete dann in einem fort dessen Hände und zuckte nur mit den Achseln, weil seine Hände übergroß, wie Harken waren und ganz schwarz, wie auch Ssewastjan selbst schwarz wie ein Zigeuner aussah. <seg id="18" type="frame" pos="start">
+               <seg id="18" type="speaker">Jakow Jakowlewitsch</seg> 
+               <seg id="18" type="intExpr">sagte</seg> ihm:</seg>
+            <said id="18" mode="direct" content="speech" level="1">»<seg id="37" type="frame" pos="start">
+                  <seg id="37" type="speaker">Ich</seg> 
+                  <seg id="37" type="intExpr">wundere</seg> mich, Bruder,</seg> 
+               <said id="37" mode="indirect" content="thought" level="2">wie du mit diesen Riesenhänden zeichnen kannst!</said>«</said>
+            <said id="19" mode="direct" content="speech" level="1">»Warum denn? Warum sollen meine Hände nicht dazu taugen?«</said>
+            <said id="20" mode="direct" content="speech" level="1">»Du kannst doch,«</said>
+            <seg id="20" type="frame" pos="mid"> 
+               <seg id="20" type="intExpr">sagt</seg> 
+               <seg id="20 22" type="speaker">er</seg>,</seg>
+            <said id="20" mode="direct" content="speech" level="1">»etwas Kleines mit ihnen gar nicht ausführen?«</said>
+            <seg id="21" type="frame" pos="start">
+               <seg id="21" type="speaker">Jener</seg> 
+               <seg id="21" type="intExpr">fragt</seg>
+            </seg>: <said id="21" mode="direct" content="speech" level="1">»Warum?«</said>
+            <said id="22" mode="direct" content="speech" level="1">»Ja, weil deinen Gelenken die Geschmeidigkeit fehlt.«</said>
+            <seg id="23" type="frame" pos="start">Aber <seg id="23" type="speaker">Ssewastjan</seg> 
+               <seg id="23" type="intExpr">erwidert</seg>:</seg>
+            <said id="23" mode="direct" content="speech" level="1">»Das ist Unsinn! <said id="24"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes"
+                     metaph="yes">Können mir denn meine <seg id="24" type="speaker">Finger</seg> etwas <seg id="24" type="intExpr">erlauben</seg> oder nicht erlauben?</said> Ich bin ihr Herr, und sie sind meine Diener, die mir gehorchen.«</said>
+            <seg id="25" type="frame" pos="start">Der <seg id="25" type="speaker">Engländer</seg> 
+               <seg id="25" type="intExpr">lächelt</seg>:</seg>
+            <said id="25" mode="direct" content="speech" level="1">»Also wirst du unseren versiegelten Engel nachbilden?«</said>
+            <said id="26" mode="direct" content="speech" level="1">»Warum denn nicht?«</said>
+            <seg id="26" type="frame" pos="mid">
+               <seg id="26" type="intExpr">antwortete</seg> 
+               <seg id="26" type="speaker">jener</seg>.</seg>
+            <said id="26" mode="direct" content="speech" level="1">»Ich gehöre nicht zu den Meistern, die ihr Werk fürchten, sondern mich fürchtet das Werk.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

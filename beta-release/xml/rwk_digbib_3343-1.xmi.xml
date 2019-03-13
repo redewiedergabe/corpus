@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>*Die zwölf Brüder</title>
+             <author>Wolf, Johann Wilhelm</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1851</f>
+         <f name="decade">1850</f>
+         <f name="title">*Die zwölf Brüder</f>
+         <f name="author">Wolf, Johann Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="20" type="frame" pos="start">
+               <seg id="20" type="speaker">Er</seg> 
+               <seg id="20" type="intExpr">sagte</seg>,</seg>
+            <said id="20" mode="indirect" content="speech" level="1">er wolle lieber dableiben</said> und verdingte sich dem Wirth als Aufwärter. Die andern Eilfe zogen nach allen Weltgegenden auseinander, immer zwei oder drei zusammen; nach Jahr und Tag wollten sie wieder Alle im Wirthshaus zusammen kommen. 
+                  Der Jüngste that seinen Dienst so gut, daß er von Allen wohlgelitten wurde und der Wirth, der keine Kinder hatte, ihn endlich an Sohnes Statt annahm. Als die Zeit um war, kamen auch die Brüder wieder, Einer nach dem Andern und immer Einer schmutziger und zerlumpter als der Andre; ihre Falschheit hatte ihnen keinen Segen gebracht. Wie sie nun wieder Alle beisammen waren, <said id="2" mode="reported" content="speech" level="1">pflegten <seg id="2 3" type="speaker">sie</seg> 
+               <seg id="2" type="intExpr">Rathes</seg> mit einander</said> und <seg id="3" type="frame" pos="start">
+               <seg id="3" type="intExpr">beschlossen</seg> einstimmig,</seg>
+            <said id="3" mode="indirect" content="speech" level="1">wieder in das Schloß zu gehen und ihr Glück noch einmal mit der schwarzen Dame zu versuchen.</said>
+            <said id="4" mode="reported" content="speech" level="1">Der <seg id="4" type="speaker">Jüngste</seg> wollte sie davon <seg id="4" type="intExpr">abbringen</seg>
+            </said>, sie ließen ihm aber keine Ruhe, bis er mit ihnen fortzog. Sie kamen wieder durch den Wald und an das 
+Schloß, und die Zugbrücke war wieder niedergelassen. An dem Thor stand die schwarze <seg id="5 6" type="speaker">Dame</seg>, <said id="5"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="5" type="intExpr">sprach</seg> aber kein Wort</said> und sah Keinen mit einem Auge an. Sie ging ihnen voran in den Speisesaal, wo wieder für zwölf Mann gedeckt war, und trug ihnen alles Gute und Köstliche auf, immer aber, <said id="6"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">ohne den <seg id="6" type="intExpr">Mund auf zu thun</seg>
+            </said> oder einen der Brüder anzusehen. Anfangs war ihnen unheimlich zu Muthe, bald aber fingen sie an zu trinken und guter Dinge zu sein und waren fröhlich bis in die Nacht hinein. Wie sie nun schliefen, <seg id="21" type="frame" pos="start">kam die schwarze <seg id="21" type="speaker">Dame</seg> und weckte den Aeltesten und <seg id="21" type="intExpr">hieß</seg> ihn</seg>
+            <said id="21" mode="indirect" content="speech" level="1">mit vor die Thür gehen, <said id="22"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="22" type="speaker">sie</seg> habe ihm was zu <seg id="22" type="intExpr">sagen</seg>.</said>
+            </said>
+            <said id="9" mode="reported" content="speech" level="1">Und hernach <seg id="9" type="intExpr">rief</seg> 
+               <seg id="9" type="speaker">sie</seg> den Zweitältesten hinaus und so fort</said>, bis sie an den Jüngsten kam. Den führte <seg id="10" type="speaker">sie</seg> mit sich in die Küche und zeigte ihm am Gossenstein ein Loch, <said id="10" mode="indirect freeIndirect" content="speech" level="1">da solle er hinabschauen.</said> Da lagen in einem schwarzen Abgrund die eilf Brüder, Einer über dem Andern, und war Allen das Genick gebrochen. <seg id="11" type="frame" pos="start">Die schwarze <seg id="11" type="speaker">Dame</seg> 
+               <seg id="11" type="intExpr">fragte</seg> ihn,</seg>
+            <said id="11" mode="indirect" content="speech" level="1">ob er jetzt noch einmal drei Jahre dableiben, oder auch hinuntergestürzt sein wolle zu den Andern?</said>
+            <seg id="12" type="frame" pos="start">Die todten <seg id="12" type="speaker">Brüder</seg> aber hoben ihre blutigen Köpfe in die Höhe und <seg id="12" type="intExpr">riefen</seg> unten herauf aus dem Loch,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">es wäre nicht wahr, daß sie todt wären, er solle sich Nichts daran kehren, <said id="13" mode="reported" content="speech" level="2">was das schwarze <seg id="13" type="speaker">Weib</seg> zu ihm <seg id="13" type="intExpr">spreche</seg>.</said>
+            </said>
+            <said id="23" mode="reported" content="speech" level="1">
+               <seg id="23" type="speaker">Er</seg> ließ sich jedoch nicht irre machen und <seg id="23" type="intExpr">sagte zu</seg>.</said> Die Dame führte ihn wieder zurück in das Bett, <said id="15" mode="reported" content="speech" level="1">und von dem folgenden Tage an <seg id="15" type="intExpr">sprach</seg> 
+               <seg id="15" type="speaker">sie</seg> wieder mit ihm</said> und bediente ihn noch besser als zuvor. 
+                  Als nun die drei Jahre beinahe um waren, <seg id="24" type="frame" pos="start">kam <seg id="24 25" type="speaker">sie</seg> eines Abends zu ihm und <seg id="24" type="intExpr">sprach</seg>,</seg>
+            <said id="24" mode="indirect" content="speech" level="1">jetzt habe er noch drei Tage auszuhalten, 
+die seien schlimmer als die drei Jahre.</said>
+            <said id="25" mode="indirect freeIndirect" content="speech" level="1">Was aber auch in den drei Nächten geschehe, er solle fest bleiben und sich durch Nichts irre machen lassen, <said id="17"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">denn wenn <seg id="17" type="speaker">er</seg> ein Wort <seg id="17" type="intExpr">spreche</seg>
+               </said>, so sei Alles verloren.</said> 
+                  In der ersten Nacht, als es zehen Uhr schlug, <seg id="18" type="frame" pos="start">ging die Thür auf und die eilf <seg id="18" type="speaker">Brüder</seg> kamen in die Schlafkammer zu ihm und lachten und <seg id="18" type="intExpr">sprachen</seg>,</seg>
+            <said id="18" mode="indirect" content="speech" level="1">jetzt sehe er wohl, daß sie noch lebendig wären und <said id="19" mode="reported" content="speech" level="2">daß die schwarze <seg id="19" type="speaker">Dame</seg> ihn nur <seg id="19" type="intExpr">angelogen</seg> habe</said>, und er solle mitkommen und sich lustig mit ihnen machen.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

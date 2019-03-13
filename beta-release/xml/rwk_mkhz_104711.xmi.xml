@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Vicebürgermeisterwahlin Wien.Blutiger Zusammenstoßzwischen Arbeiternund Geudarmen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Vicebürgermeisterwahlin Wien.Blutiger Zusammenstoßzwischen Arbeiternund Geudarmen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Telephonische Nachrichten des „Mähr.
+                        Tagblattes“.
+                        
+            
+            
+               
+                  Die Vicebürgermeisterwahl in Wien.
+                        
+               
+               
+                  Wien, 22. Mai. date
+               Heute Vormittags fand
+                        die Wahl der beiden Wiener Vicebürgermeister
+                        statt, bei der Dr. Carl Lueger zum ersten
+                        und Dr. Josef Neumayer zum zweiten
+                        Vicebürgermeister, und zwar beide mit 95 Stimmen gewählt wurden. Die übrigen 41 Stimmen erhielt der Candidat der Liberalen,
+                         Dr. Vogler. <said id="2" mode="reported" content="speech" level="1">
+               <seg id="2" type="speaker">Dr. Lueger</seg> 
+               <seg id="2" type="intExpr">dankte</seg> für die
+                        auf ihn gefallene Wahl und <seg id="2" type="intExpr">erklärte</seg> dieselbe anzunehmen</said>; <said id="3" mode="indirect" content="speech" level="1">er werde</said>
+            <seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">sagte</seg> 
+               <seg id="3" type="speaker">er</seg>,</seg>
+            <said id="3" mode="indirect" content="speech" level="1">seine ganze
+                        Kraft dem Amte zur Verfügung stellen
+                        und seinen Freund und Collegen Strobach mit Kraft unterstützen.</said>
+            <seg id="4" type="frame" pos="start">
+               <seg id="4" type="speaker">Er</seg> 
+               <seg id="4" type="intExpr">sagt</seg> weiter, indem er auf einen Passus
+                        der gestrigen Rede des Abg. Dr. Sueß anspielt:</seg>
+            <said id="4" mode="direct" content="speech" level="1">„Es ist eine tiefe Kränkung, welche unser Bürgermeister gestern erfahren und <said id="22" mode="reported" content="speech" level="2">welche <seg id="22" type="speaker">ich</seg> 
+                  <seg id="22" type="intExpr">zurückweisen</seg> muß</said> und <seg id="5" type="frame" pos="start">
+                  <seg id="5" type="speaker">ich</seg> 
+                  <seg id="5" type="intExpr">erkläre</seg> hiemit,</seg> 
+               <said id="5" mode="indirect" content="speech" level="2">daß wir
+                        unseren Bürgermeister nicht zum Strohmann, sondern zum Bürgermeister,
+                        dem wir Ehrfurcht entgegenbringen,
+                        gewählt haben.</said>
+                        
+                
+               <seg id="7" type="speaker">Ich</seg> habe dem Programm des neuen Bürgermeisters nichts hinzuzufügen, sondern bin mit
+                        demselben einverstanden und <seg id="7" type="frame" pos="start">
+                  <seg id="7" type="intExpr">hoffe</seg>,</seg> 
+               <said id="7" mode="indirect" content="thought" level="2">daß wir es, wenn
+                        wir zusammenwirken, verwirklichen werden.</said> Wir werden uns bemühen speciell die Finanzen Wiens zu unterstützen und anderer
+                        Stelle uns dafür einsetzen, nicht so, <said id="8" mode="reported" content="speech" level="2">wie manche
+                        <seg id="8" type="speaker">Andere</seg> gethan er die hier im Gemeinderathe waren,
+                        hier so und an anderer Stelle anders <seg id="8" type="intExpr">geredet</seg>
+                        haben.</said>
+            </said> (Beifall bei den Antisemiten. — <seg id="9" type="frame" pos="start">Bei den
+                        <seg id="9 11" type="speaker">Liberalen</seg> 
+               <seg id="9" type="intExpr">Rufe</seg>:</seg>
+            <said id="9" mode="direct" content="speech" level="1">Wer?</said> ) <seg id="10" type="frame" pos="start">
+               <seg id="10" type="speaker">Dr. Lueger</seg>
+                         <seg id="10" type="intExpr">fortfahrend</seg>:</seg>
+            <said id="10" mode="direct" content="speech" level="1">
+               <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Es ist die <seg id="11" type="intExpr">Frage</seg> an mich gerichtet
+                        Wer?</said> Der Fragesteller möge es nur im Reichsrathsprotocolle herauslesen.</said> (Gelächter links.)
+                        <seg id="12" type="frame" pos="start">Weiters <seg id="12" type="intExpr">erklärt</seg> 
+               <seg id="12" type="speaker">Lueger</seg>
+            </seg>
+            <said id="12" mode="indirect" content="speech" level="1">ein Feind des Stadtrathes
+                        zu sein, und daß er trachten werde, denselben zu
+                        beseitigen.</said>
+               Er wird auch den Beamtenstand unterstützen
+                        und streben, daß der Magistrat nicht ein Scheinmagistrat sei. <said id="14" mode="indirect freeIndirect" content="speech" level="1">
+               <seg id="14" type="speaker">Er</seg> werde immer objectiv vorgehen.</said> (Stürmischer Beifall bei den Antiliberalen.)
+                         
+               <said id="15" mode="reported" content="speech" level="1">Der zweite <seg id="15" type="speaker">Vicebürgermeister Dr. Josef
+                        Neumayer</seg> 
+               <seg id="15" type="intExpr">dankt</seg> zunächst für die Wahl und
+                        <seg id="15" type="intExpr">erklärt</seg> dieselbe anzunehmen.</said>
+            <seg id="16" type="frame" pos="start">
+               <seg id="16" type="speaker">Er</seg> 
+               <seg id="16" type="intExpr">sagt</seg>:</seg>
+            <said id="16" mode="indirect" content="speech" level="1">In dem
+                        Ergebnisse der Wahl drückt die einheimische
+                        Wählerschaft Wiens ihren deutschen Character
+                        aus, die altehrwürdige Kaiserstadt werde künftighin gegen jeden Versuch der Verfälschung, mag
+                        derselbe von wo immer gemacht werden, mit
+                        aller Kraft und Entschiedenheit auftreten, damit
+                        auch die altgeschichtliche erhabene staatliche Stellung
+                        der deutschen Reichshauptstadt in allen Theilen
+                        der Monarchie bei jeder Gelegenheit mit voller
+                        Ueberzeugung zur Geltung gebracht werde.</said>
+            <said id="17" mode="reported" content="speech" level="1">
+               <seg id="17" type="speaker">Er</seg>
+                        <seg id="17" type="intExpr">weist</seg> auf das traurige Schauspiel hin, daß in
+                        jüngster Zeit wiederholt deutsche Abgeordnete sich
+                        wie bei Cilli ihrem Volksstamme entfremdeten.</said>
+            <seg id="19" type="speaker">Er</seg> tritt für die freie Schule und Freiheit
+                        des Lehrerstandes ein und <seg id="19" type="frame" pos="start">
+               <seg id="19" type="intExpr">erklärt</seg> auch</seg>
+            <said id="19" mode="indirect" content="speech" level="1">dafür zu
+                        wirken, daß die deutsche Erziehung der christlichen Jugend vor dem schädlichen jüdischen Einfluß bewahrt werde.</said> Wir stehen bei diesem
+                        Bestreben auf dem sicheren Boden der
+                        Staatsgrundgesetze, <seg id="20" type="frame" pos="start">
+               <seg id="20" type="speaker">welche</seg> nirgends <seg id="20" type="intExpr">aussprechen</seg>,</seg>
+            <said id="20"
+                  mode="indirect"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  metaph="yes">daß man sich eine solche Einflußnahme gefallen
+                        lassen müsse.</said>
+            <said id="21" mode="reported" content="speech" level="1">Hierauf <seg id="21" type="intExpr">beeidigte</seg> 
+               <seg id="21" type="speaker">Statthaltereirath Dr. v.
+                        Friebeis</seg> die beiden Vicebürgermeister.</said>
+               
+            
+            
+               
+                  Blutiger Zusammenstoß zwischen
+                        Arbeitern und Geudarmen.
+                        
+               
+               
+                  Reichenberg, 22. Mai. date
+               In Dörfel bei
+                        Reichenberg kam es infolge der wegen Betheiligung an der Maiseier veranlaßten Aussperrung
+                        von Arbeitern zu einem blutigen Zusammenstoße
+                        der Arbeiter mit der Gendarmerie, wobei letztere
+                        von der Schießwaffe Gebrauch machen mußte.
+                        Zwei Arbeiter blieben todt auf der Stelle, einer
+                        verstarb infolge der erhaltenen Wunden. Zahlreiche
+                        Arbeiter und Arbeiterinnen wurden verwundet.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

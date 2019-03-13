@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Großbritannien. 
+            
+            
+               London 9. October.
+               Heute Nachmittag um 2 Uhr ist wiederum im Ministerium des Aeußern ein
+                  Cabinetsrath abgehalten worden.
+               <seg id="1" type="frame" pos="start">Dem <seg id="1" type="intExpr">Vernehmen</seg> nach</seg>
+            <said id="1" mode="indirect" content="speech" level="1">bleiben alle Minister in London, bis ein Courier von unserem
+                  Gesandten bei der Pforte, Sir Stratford Canning, angekommen seyn wird.</said>
+               -- Fürst Metternich wird morgen von hier nach Brüssel
+                  abreisen, wo er sich längere Zeit aufzuhalten gedenkt.
+               Er empfing gestern Abschiedsbesuche von dem Herzoge von Cambridge und dem Herzoge
+                  von Wellington.
+               -- Dem vor einigen Tagen in der Sitzung des geheimen Rathes zu Osborne gefaßten
+                  Beschlusse gemäß ward heute das Parlament im Hause des Lords bis zum 20. November
+                  prorogirt.
+               Die Ceremonie, welche durch eine königliche Commission, an deren Spitze der
+                  Lordkanzler stand, vollzogen wurde, bot wenig Jnteresse dar.
+               Nur wenige Mitglieder des Oberbauses hatten sich eingefunden.
+               Unter den Zuschauern befanden sich ziemlich viele Damen und ein „Türke,“ dessen
+                  Kleidung die allgemeine Aufmerksamkeit auf sich zog.
+               -- Die türkische Frage berührt die „Times“ heute nur
+                  gelegentlich, und war in Verbindung mit Cobden's und D. Stuart's Declamationen
+                  gegen die österreichische Anleihe, <said id="4" mode="reported" content="writing" level="1">über welche <seg id="4" type="speaker">sie</seg> natürlich ihren Spott
+                  <seg id="4" type="intExpr">ausgießt</seg>.</said>
+            <said id="5" mode="reported" content="writing" level="1">Der „<seg id="5" type="speaker">Globe</seg>“ <seg id="5" type="intExpr">bespricht</seg> statt der türkischen Verwickelungen diesmal wieder den
+                  Kampf Oesterreichs und Preußens um die Suprematie in Deutschland</said>, wobei sich das
+                  ministerielle Blatt, eben so wie früher, entschieden auf Seite der letzteren Macht
+                  neigt.
+               <seg id="6" type="frame" pos="start">Der <seg id="6 12" type="speaker">„Globe“</seg> 
+               <seg id="6" type="intExpr">meint</seg>,</seg>
+            <said id="6" mode="indirect" content="writing" level="1">in <said id="7" mode="reported" content="speech writing" level="2">den <seg id="7" type="intExpr">Erklärungen</seg>, die <seg id="7" type="speaker">Preußen</seg> bezüglich der deutschen Frage
+                  abgegeben habe</said>, liege eine Offenheit und ein Beweis von Kraft, welcher ein gutes
+                  Zeichen für einen sicheren und nicht schwierigen Erfolg sey.</said>
+            <said id="12"
+                  mode="indirect freeIndirect"
+                  content="writing"
+                  level="1">Jm stärksten Gegensatze dazu stehe der zaudernde Ton der österreichischen Partei
+                  und <said id="8" mode="reported" content="speech writing" level="2">
+                  <seg id="8" type="speaker">ihre</seg> negativen <seg id="8" type="intExpr">Erklärungen</seg>.</said>
+               Für den Beruf Preußens, Schwert und Schild Deutschlands und damit die deutsche
+                  Krone zu tragen, spreche die militärische Organisation des Königreichs, der
+                  Vorrang, den Berlin in literarischer und philosophischer
+                     Beziehung einnehme, und die gesunde Kraft des
+                     preußischen Familienlebens.</said>
+            <said id="13"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">Wahrscheinlich hat der <seg id="13" type="speaker">Ritter Bunsen</seg>, dessen Stern in Berlin im Verbleichen ist, seitdem
+                  er im vorigen Jahren schwarz=roth=goldene Hemdeknöpfchen getragen, dem „Globe“
+                  diesen geistreichen Artikel <seg id="13" type="intExpr">geschrieben</seg>!</said>
+               -- Vom 14. Juni bis zum 6. October 1849 sind zu London an der Cholera 13,305
+                  Personen gestorben; vom 17. September 1848 bis zum 6. October 1849 beträgt die
+                  Zahl der Todesfälle 14,396.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

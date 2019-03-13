@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Doch entsetzliche Ueberraschung! Es war ein saurer, verrätherischer Bissen! Sein Gesicht
+                        zuckte plötzlich zusammen und schnitt die wunderlichsten Grimassen;
+                        kaum vermochte er noch, die in seinen Händen befindlichen Jnstrumente zu erhalten, um nicht mit den Fingern das höllische Kraut
+                        von sich zu werfen. Vergeblich würgte er, um dasselbe zu verschlucken,
+                        allein es schien unmöglich. Sein ganzer Körper schüttelte sich, und
+                        seine Augen schwammen in Wasser, bis es endlich einer letzten Anstrengung gelang, mit etwas Kumis das fürchterliche Gras hinter
+                        zu spülen.
+            <said id="1" mode="direct" content="speech" level="1">„O welch ein entsetzliches Gras! Und das esset Jhr und die Leute
+                        in Eurem Lande?“</said>
+            <seg id="1" type="frame" pos="end">
+               <seg id="1" type="intExpr">seufzte</seg> 
+               <seg id="1" type="speaker">er</seg>.</seg>
+            <said id="2" mode="direct" content="speech" level="1">„Ja, und sie lieben es mehr, als den süßesten Honig!“</said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">erwiderte</seg> 
+               <seg id="2" type="speaker">ich</seg>.</seg>
+            Er schüttelte sich nochmals.
+            <said id="3" mode="direct" content="speech" level="1">„Seltsames Volk! Es scheint gut zu sein, und ich könnte es lieben;
+                        aber dennoch möchte ich dort nicht wohnen, wo die Menschen so etwas
+                        genießen können!“</said>
+            <seg id="3" type="frame" pos="end">
+               <seg id="3" type="intExpr">sagte</seg> 
+               <seg id="3" type="speaker">er</seg>.</seg>
+            <said id="8"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Sollte <seg id="8" type="speaker">ich</seg> noch eine andere Schwäche <seg id="8" type="intExpr">nennen</seg>, die den Baschkiren
+                        und andere Bewohner der Steppe eben so sehr auszeichnet, wie
+                        seine leidenschaftliche Vorliebe für einzelne Nährstoffe, so wäre es <said id="9"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">das
+                        mangelhafte <seg id="9" type="intExpr">Verständniß</seg> für die Begriffe von <seg id="9" type="speaker">Mein</seg> und <seg id="9" type="speaker">Dein</seg>
+               </said>
+            </said>; allein
+                        die Verwechslung derselben begegnet ihm nur dem Ungläubigen gegenüber, <said id="19"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">dessen Eigenthum <seg id="19" type="speaker">ihm</seg> für nichts weniger als heilig <seg id="19" type="intExpr">gilt</seg>
+            </said>, <said id="20" mode="reported" content="thought" level="1">weßhalb <seg id="20" type="speaker">er</seg> auch kein Vergehen darin <seg id="20" type="intExpr">findet</seg>
+            </said>, dasselbe auf jede mögliche
+                        Weise an sich zu bringen. Viel seltener dagegen zeigt sich diese Begriffsverwirrung seinen eigenen Glaubens= und Stammesgenossen gegenüber. Jnsofern aber schon das Gesetz einen an den Christen verübten Diebstahl entschuldigt, um so mehr mahnt dies den Richter
+                        zur Milde, um so strafloser bleibt der harmlose Uebelthäter.
+            Es ist daher natürlich und erklärlich, <said id="6" mode="reported" content="speech" level="1">daß <seg id="6" type="speaker">sie</seg> bei solchen Begriffen über Recht und Unrecht sich frei und offen und auf die
+                        drolligste Weise zu den verschiedenartigsten Diebstählen <seg id="6" type="intExpr">bekennen</seg>
+            </said>,
+                        auf die naivste Manier sich gegenseitig und Andere damit unterhalten und in die lebendigste Freude ausbrechen, <said id="10" mode="reported" content="speech" level="1">wenn <seg id="10" type="speaker">sie</seg> die
+                        dabei entwickelte Schlauheit <seg id="10" type="intExpr">zum Besten geben</seg>.</said> Es ist daher auch
+                        selbstverständlich, daß es dem <seg id="21" type="speaker">Baschkiren</seg> keine Unruhe und Skrupel
+                        verursacht, <said id="7" mode="reported" content="speech" level="1">ein Dieb <seg id="7" type="intExpr">gescholten</seg> zu werden</said>, und weit davon entfernt,
+                        <said id="21"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">darin eine Beleidigung zu <seg id="21" type="intExpr">finden</seg>
+            </said> oder zu einer Kriminal=Untersuchung
+                        Veranlassung zu geben, nimmt <seg id="22" type="speaker">er</seg> es vielmehr mit Ergötzen hin <said id="22" mode="reported" content="thought" level="1">und
+                        <seg id="22" type="intExpr">erblickt</seg> darin eine schmeichelhafte Anerkennung seiner Talente.</said>
+            Jch selbst bin sehr oft Zeuge gewesen, daß sich sogar hochgestellte
+                        Russen der Baschkiren bedienten, um sich in Besitz von Sachen und
+                        Dingen zu setzen, die nicht anders als mit Hülfe jener zu erreichen
+                        waren, von denen dann die gewünschten Gegenstände gekauft werden.
+                        <said id="23" mode="reported" content="thought" level="1">
+               <seg id="23" type="speaker">Jch</seg> 
+               <seg id="23" type="intExpr">erinnere</seg> mich hier noch an einen Handel, der zwischen einem
+                        hochgestellten russischen General und einem Baschkiren stattfand</said>, <said id="24" mode="reported" content="speech" level="1">und
+                        bei welchem <seg id="24" type="speaker">Letzterer</seg> mit glühenden Worten und hinreißender Begeisterung alle die Schwierigkeiten <seg id="24" type="intExpr">schilderte</seg>
+            </said>, die er bestanden, und die
+                        Klugheit, die er habe entwickeln müssen, um den listigen und wachsamen Gegner zu täuschen, daher der geforderte Preis wohl als gerechtfertigt und nicht zu hoch gegriffen erscheinen möchte. <seg id="16" type="frame" pos="start">
+               <said id="25" mode="reported" content="speech" level="1">Der <seg id="16 25" type="speaker">Käufer</seg>
+                        resp. der General dennoch handelnd, <seg id="25" type="intExpr">tadelte</seg> die Beschaffenheit der Waare</said>
+                        und <seg id="16" type="intExpr">hielt</seg> es nicht <seg id="16" type="intExpr">für</seg> unmöglich,</seg>
+            <said id="16" mode="indirect" content="thought" level="1">daß dieselben Sachen, die er jetzt
+                        zu kaufen im Begriff stehe, auf seinem eigenen Revier gestohlen seien.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

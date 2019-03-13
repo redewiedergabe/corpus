@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Faustina. „Faustina,“ Drama in fünf Acten von Ada Christen. Wien 1871. Verlag von J. Dirnböcks Buchhandlung. Moritz v. Schwind.III(Schluß.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1871</f>
+         <f name="decade">1870</f>
+         <f name="title">Faustina. „Faustina,“ Drama in fünf Acten von Ada Christen. Wien 1871. Verlag von J. Dirnböcks Buchhandlung. Moritz v. Schwind.III(Schluß.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">mkhz.augsburg</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Trotz der Milderung des ersten Entwurfs ist es kein
+                        schwaches Drama geworden, sondern bietet noch immer starke Effecte und
+                        einige wahrhaft ergreifende Stellen.
+               Obwohl ein Erstlingswerk, weist „Faustina“ nur wenige Schwächen
+                        eines solchen auf. Es kam der Dichterin wohl zu statten daß sie Schauspielerin war, und somit die Bedürfnisse des Theaters kennt. Von jener
+                        dramatischen Unbeholfenheit die so leicht einem ersten Versuch anklebt, ist
+                        bei Ada Christen kaum eine Spur zu entdecken. Auch die Charakterzeichnung ist gut, und hat etwas von männlicher Bestimmtheit an sich. Vorzüglich sind Faustina und der harte in seinen Standesvorurtheilen befangene Kaufherr Warren, auch der gute alte Major Kulmer ist eine naturwahre, aus dem Leben gegriffene Figur. <said id="7"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  prag="yes">Der Schuft <seg id="7" type="speaker">Norrent</seg>, obwohl
+                        individuell gezeichnet, kann den herkömmlichen Theaterbösewicht nicht <seg id="7" type="intExpr">verläugnen</seg>
+            </said>; auch ist seine Liebe für Faustina nicht recht verständlich. Platonische Sentimentalität paßt nicht zu seinem cynischen Wesen. <said id="1"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">
+               <seg id="1" type="intExpr">Denken</seg>
+                        <seg id="1" type="speaker">wir</seg> uns aber andere Beziehungen zwischen ihm und Faustina</said>, so fällt die
+                        Heldin stark in unserer Achtung. Heinrich ist mit Geschick von Anfang an
+                        als eine so reizbare, überspannte Natur angelegt, daß die Katastrophe wenigstens möglich erscheint. Die schwächste Gestalt des Stückes ist die 16jährige
+                        Marianne. Jhre Unschuld ist mit einer Dosis Albernheit versetzt, deren
+                        Nothwendigkeit uns nicht einleuchten will. <seg id="2" type="frame" pos="start">Aber <seg id="2" type="speaker">man</seg> 
+               <seg id="2" type="intExpr">begreift</seg>
+            </seg>
+            <said id="2" mode="indirect" content="thought" level="1">warum
+                        Ada Christen ein solches Gänschen aus der „ Jng é nue “ macht.</said>
+            <said id="3" mode="reported" content="thought" level="1">
+               <seg id="3" type="speaker">Frauen</seg>
+                        von Geist und Talent <seg id="3" type="intExpr">halten</seg> den Backfisch immer für einfältiger als er in
+                        Wirklichkeit ist</said>; das Unfertige, Unreife einer halberschlossenen Mädchenknospe widerstrebt dem klaren Sinne des Weibes.
+               <seg id="4" type="frame" pos="start">
+               <seg id="4" type="speaker">Man</seg> mag es aufrichtig <seg id="4" type="intExpr">bedauern</seg>
+            </seg>
+            <said id="4"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß Ada Christen von der Kühnheit
+                        mit der sie in ihren ersten Liedern aufgetreten, bei ihrem Drama keinen
+                        Gebrauch machen wollte.</said> Gerade sie hatte das Zeug das Furchtbare des
+                        Oedipusstoffes in moderner Gestalt voll und unverkümmert durchzuführen.
+                        Es hätte freilich viel Kopfschütteln und Händezusammenschlagen darüber
+                        gegeben. Daß die Verfasserin sich davor scheute, daß sie lieber anständig
+                        als gewaltig sein wollte, macht ihr als Frau alle Ehre. „Faustina“ ist
+                        nicht nur ein neues Zeugniß ihres Talents, sondern auch ein Beweis dafür
+                        daß <seg id="5" type="speaker">jene</seg> sich geirrt haben die in den „Liedern einer Verlorenen“ nur die
+                        Geständnisse einer Emancipirten sahen, und <seg id="5" type="frame" pos="start">
+               <seg id="5" type="intExpr">glaubten</seg>
+            </seg>
+            <said id="5" mode="indirect" content="thought" level="1">Ada Christen werde
+                        auf diesem Wege fortfahren und ihre Dichtungen stets mit Pfeffer beizen.</said>
+                        Je weniger dieß bei ihrem Drama der Fall ist, desto freundlicher kann es
+                        die Bühne aufnehmen. Es ist für die Bretter geschrieben, und wo die
+                        Titelrolle eine bedeutende Darstellerin findet, wird es kaum an einem
+                        guten Erfolg fehlen.
+            
+            
+               
+                  Moritz v. Schwind.
+                        III
+                         ( Schluß. )
+                        
+               
+               
+                  *** Wie überaus herrlich dieser obendrein mit Farbenzauber ausgeführte
+                        ( in den Besitz des Baron v. Frankenstein gekommene, von Jul. Thäter in
+                        Kupfer gestochene ) Bildercyclus auch war: -- Schwind übertraf sich selbst
+                        mit einem zweiten, zu dem Märchen von den „Sieben Raben,“ das den
+                        Glanzpunkt der allgemeinen deutschen Kunstausstellung in München im
+                        Jahr 1858 bildete. Die einzelnen Vorgänge der Erzählung scheidet er
+                        durch Arcaden, vor denen eine Vorhalle sich befindet, in welcher eine Gesellschaft Kinder und Menschen kindlichen Gemüths vereinigt sind, <said id="8" mode="reported" content="thought" level="1">wie <seg id="8" type="speaker">er</seg>
+                        sie sich zur rechten Freude an der Märchenwelt befähigt <seg id="8" type="intExpr">denkt</seg>:</said> es ist seine
+                        eigene um ihn versammelte Familie, ein Bild des rührendsten und entzückendsten häuslichen Glücks!
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

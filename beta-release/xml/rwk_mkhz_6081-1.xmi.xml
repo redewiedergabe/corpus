@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.social</f>
+      </fs>
+      <body>
+         <p>         
+
+Je nach ihren Standquartieren oder nach der Hauptmasse, welche die Haufen bildeten, führten sie ihre Namen; so
+                        der oberallgäuische Haufen, welcher alle Bauernschaften des obern
+                        Allgäus umfaßte, der Seehaufen am Bodensee, der unterallgäuer
+                        im untern Allgän, der Baltringer Haufen im Ried bei Baltringen, der Gaildorfer Haufen, nach Gaildorf, der kleinen Residenz
+                        der Schenken von Limpurg benannt, der helle ( ganze, vereinigte )
+                        Haufen Odenwalds und Neckarthals, der Altdorfer, Fuldaische,
+                        Orenbacher Haufen u. a. m. Der letztgenannte war, zweitausend
+                        Mann stark, Ende März 1525 aus dem Lager von Reichardsrode seitwärts nach dem Taubergrund gezogen, hatte sich hier
+                        mit den Odenwäldern vereinigt, verschiedene andere Haufen an
+                        sich gezogen, und führte fortan den Namen des evangelischen
+                        Heeres.
+            Als die Orenbacher Bauernhaufen nach dem Schüpfer
+                        Grunde, einem Thale des Oodenwaldes, zogen, fanden sie unterwegs einen tüchtigen Anführer. Sie kamen nicht weit von der
+                        starken Burg Giebelstadt vorüber, die dem alten Geschlechte der
+                        Geyer von Geyersberg gehörte. Einer dieses Geschlechts legte,
+                        wie einst Graf Rudolph von Werdenberg unter den Appenzellern,
+                        den Rittermantel ab und trat zu den Bauern, freiwillig, als ihr
+                        Bruder. Es warFlorian Geyer,der schönste Held des
+                        ganzen Kampfes.
+            Sein Schicksal hat nur wenige Züge von ihm in die Geschichte übergehen lassen; aber diese wenigen reichen zu, seine Gestalt zu beleuchten. Es war viel von dem Geiste des edlen
+                        Ulrich von Hutten in ihm, die neue Zeit hatte ihn ergriffen mit
+                        ihren socialen und politischen Trieben, er gehörte nicht mehr
+                        seinem Stand, er gehörte dem Volke, der Freiheit an. Was er
+                        vorher war und trieb, liegt im Dunkeln. Daß er in Kriegsdiensten seine Jugend verlebt hatte, erfahren wir daraus, daß er
+                        einer von denen war, welche Götz von Berlichingen in den
+                        Diensten des schwäbischen Bundes zu Möckmühl gefangen nahmen.
+                        War Florian eine Zeit lang vielleicht Hauptmann von Landsknechtssähnlein? Sein Haufen unterscheidet sich wesentlich von
+                        den andern durch kriegerische Haltung und Uebung; man sieht,
+                        es ist eine Kriegsschaar, dieser „schwarze Haufe“ unter Florian,
+                        <said id="1" mode="reported" content="speech" level="1">wie <seg id="1" type="speaker">er</seg> sich selbst <seg id="1" type="intExpr">nannte</seg>
+            </said>, und <seg id="2" type="speaker">Herr Florian</seg> war auch stolz auf
+                        seine schwarze Schaar und <said id="2" mode="reported" content="speech" level="1">
+               <seg id="2" type="intExpr">sprach</seg> von den Odenwäldern als
+                        „einem abenteuerlichen Volk.“</said> Daß er bei der Sickingen'schen
+                        Unternehmung war, und unter den geächteten fränkischen Rittern,
+                        ist fast gewiß.
+            Der Graf von Helfenstein, Obervogt auf dem alten
+                        Welfenschlosse Weinsberg, <seg id="5" type="frame" pos="start">hatte von <seg id="5" type="speaker">Stuttgart</seg> und den <seg id="5" type="speaker">Räthen</seg> des schwäbischen Bundes <seg id="5" type="intExpr">Auftrag</seg> und Mannschaften <seg id="5" type="intExpr">erhalten</seg>,</seg>
+            <said id="5" mode="indirect" content="speech" level="1">dem Eindringen der Odenwälder Bauern sich entgegen zu
+                        stellen.</said> Kaum auf Weinsberg wieder angekommen, <seg id="3" type="frame" pos="start">
+               <seg id="3" type="intExpr">schrieb</seg> 
+               <seg id="3" type="speaker">er</seg>
+                        aber an die Regierung zurück,</seg>
+            <said id="3" mode="indirect" content="writing" level="1">daß er mit seinen wenigen Leuten dem mit etwa sechstausend Mann eindringenden Bauernhaufen aus dem Odenwald und Hohenlohischen in die Länge
+                        nicht werde widerstehen können.</said>
+            
+            Schon als Graf von Helfenstein mit seinen anderen Rittern
+                        von Stuttgart nach Weinsberg hinabritt, hatten sie alle Bauern,
+                        die ihnen unterwegs begegneten, aufgegriffen und erwürgt. Bei
+                        seiner Ankunft im Weinsberger Thale fand der Graf, daß bereits, mit Ausnahme von Eberstadt, alle Dörfer des Amtes dem
+                        hellen Haufen zugefallen waren. Als die Bauern von Lichtenstern auf Neckarsulm zogen, am Charfreitag, 14. April ( 1525 ) ,
+                        <seg id="4" type="frame" pos="start">
+               <seg id="4" type="intExpr">forderten</seg> 
+               <seg id="4" type="speaker">sie</seg> Weinsberg und die Ritter darin <seg id="4" type="intExpr">auf</seg>,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">in ihre christliche Brüderschaft zu treten.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

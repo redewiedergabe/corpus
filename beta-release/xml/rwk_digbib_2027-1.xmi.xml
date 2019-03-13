@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zu spät</title>
+             <author>Meysenbug, Malwida Freiin von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1907</f>
+         <f name="decade">1900</f>
+         <f name="title">Zu spät</f>
+         <f name="author">Meysenbug, Malwida Freiin von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="2" mode="direct" content="speech" level="1">
+               <seg id="32" type="frame" pos="start">
+                  <seg id="32" type="speaker">Deine</seg> schrecklichen <seg id="32" type="intExpr">Worte</seg> dort im Schlafzimmer,</seg> 
+               <said id="32" mode="indirect" content="speech" level="2">daß du fort wolltest</said>, ließen mir keine Ruhe. Wenn du gehst, gehe ich mit; an das Ende der Welt will ich dir folgen. Was soll ich bei diesem jungen Mädchen, unter den lästigen Blicken meiner Mutter und der Fürstin, die mich verhandeln wollen wie einen unmündigen Knaben? Ich mußte hierher, mußte dich sehen oder sterben. Habe Erbarmen mit mir!« </said>
+            <said id="4" mode="direct" content="speech" level="1">»Unglücklicher,«</said>
+            <seg id="4" type="frame" pos="mid">
+               <seg id="4" type="intExpr">versetzte</seg>
+               <seg id="4" type="speaker"> Ludmilla</seg> sanfter,</seg>
+            <said id="4" mode="direct" content="speech" level="1">»und wenn irgend jemand Sie gesehen hat? Freilich, ich achte das Urteil der Welt gering! <said id="5"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">Aber mich, die Schutzlose, die Alleinstehende, wird <seg id="5" type="speaker">jeder</seg> gern unverdient <seg id="5" type="intExpr">beleidigen</seg>
+               </said>, während jene stolzen Frauen sich im Gefühl ihrer nie angegriffenen Unschuld über mich stellen.«</said>
+            <said id="6" mode="direct" content="speech" level="1"> »Ha, und werde ich dich nicht schützen gegen jeden Angriff?«</said>
+            <seg id="6" type="frame" pos="end">
+               <seg id="6" type="intExpr">rief</seg> 
+               <seg id="6 2 35" type="speaker">Iwan</seg>. </seg>
+            <said id="35" mode="direct" content="speech" level="1">»Mein Weib sollst du werden trotz jenen. Was kümmert uns das schnöde Gesetz, das Ehen heiligt im Angesicht der Gesellschaft? Sei mein, Ludmilla, und morgen folge ich dir, wohin du willst, trotz der Anwesenheit der Fürstin und ihrer Tochter.«</said> 
+                  Noch vor dem ersten Hahnenschrei schloß sich das Fensterwieder in der Kammer des Dienstmädchens, ohne daß diese aufgewacht wäre und die Gestalt bemerkt hätte, die sich leise durch die Kammer zur Türe hinausstahl. Als sie aufstand, <seg id="34" type="frame" pos="start">
+               <seg id="34" type="intExpr">wunderte</seg> 
+               <seg id="34" type="speaker">sie</seg> 
+               <seg id="34" type="intExpr">sich</seg> nur,</seg>
+            <said id="34" mode="indirect" content="thought" level="1">woher das Paar schöner Handschuhe komme</said>, das sie beim Fenster auf dem Boden fand. <said id="36" mode="reported" content="speech" level="1">
+               <seg id="36" type="speaker">Sie</seg> 
+               <seg id="36" type="intExpr">fragte</seg> im Hause umher</said>, <said id="37"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">da sich aber <seg id="37" type="speaker">niemand</seg> dazu bekennen <seg id="37" type="intExpr">wollte</seg>
+            </said>, <said id="11"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">
+               <seg id="11" type="intExpr">dachte</seg> 
+               <seg id="11" type="speaker">sie</seg> weiter nicht darüber nach</said> und behielt sie, um am nächsten Sonntag beim Kirchengehen Staat damit zu machen. 
+                  Am folgenden Morgen erhielt Frau v. Sch... beim Frühstück ein <seg id="13" type="speaker">Billett</seg>; <seg id="12" type="frame" pos="start">
+               <seg id="12" type="speaker">sie</seg> 
+               <seg id="12" type="intExpr">las</seg> es laut:</seg>
+            <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="direct" content="writing" level="2">Teure Christiane Alexandrowna! 
+                  <seg id="46" type="frame" pos="start">Ich habe gestern abend die <seg id="46" type="intExpr">Nachricht</seg> erhalten,</seg> 
+                  <said id="46" mode="indirect" content="speech writing" level="3">daß <seg id="46" type="speaker">jemand</seg>, <said id="38"
+                           mode="reported"
+                           content="speech"
+                           level="4"
+                           nonfact="yes">
+                        <seg id="38" type="speaker">der</seg> mich in wichtigen Familienangelegenheiten zu <seg id="38" type="intExpr">sprechen</seg> hat</said>, mich in Stuttgart erwartet.</said> Die Sache ist eilig und ich reise ohne Verzug dahin ab. <seg id="16" type="frame" pos="start">
+                     <seg id="16" type="intExpr">Entschuldigen</seg> 
+                     <seg id="16" type="speaker">Sie</seg> daher,</seg> 
+                  <said id="16"
+                        mode="indirect"
+                        content="speech"
+                        level="3"
+                        nonfact="yes">daß ich nicht erst noch bei Ihnen vorkam.</said> 
+                  <said id="17"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        border="yes">
+                     <seg id="17" type="speaker">Ich</seg> 
+                     <seg id="17" type="intExpr">weiß</seg> Sie ja jetzt glücklich mit Ihren Freundinnen.</said> Da brauchen Sie doch nicht Ihre Sie über alles liebende 
+                  Ludmilla.</said>«
+ </said>
+            <seg id="45" type="frame" pos="start">
+               <seg id="45" type="speaker">Frau v. Sch...</seg> sah auf Iwan und<seg id="45" type="intExpr"> bemerkte</seg>,</seg>
+            <said id="45"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß er heftig die Farbe wechselte.</said>
+            <said id="19" mode="reported" content="thought" level="1"> 
+               <seg id="19" type="speaker">Sie</seg> 
+               <seg id="19" type="intExpr">hielt</seg> das <seg id="19" type="intExpr">für</seg> die Wirkung der überraschenden Nachricht</said>, aber im Grunde des Herzens freute sie sich über diese, <seg id="40" type="frame" pos="start">denn <seg id="40 41" type="speaker">sie</seg> schmeichelte sich nun mit der<seg id="40" type="intExpr"> Hoffnung</seg>,</seg>
+            <said id="40" mode="indirect" content="thought" level="1">daß Iwan sich mit Irene beschäftigen und von ihr angezogen werden könne. </said>Der Verstellung unfähig und daran gewöhnt, <said id="41" mode="reported" content="speech" level="1">ihren Söhnen alles zu <seg id="41" type="intExpr">sagen</seg>
+            </said>, gab sie sich auch jetzt wieder unvorsichtig dem Drange ihres Herzens hin. <seg id="22" type="frame" pos="start">
+               <seg id="22" type="speaker">Sie</seg> ergriff Iwans Hand und <seg id="22" type="intExpr">sagte</seg> zärtlich:</seg>
+            <said id="22" mode="direct" content="speech" level="1">»Mein liebes Kind, das scheint wie eine Fügung! Ludmilla geht in dem Augenblick, wo Irene kommt; <seg id="23" type="frame" pos="start">nun <seg id="23" type="intExpr">fordere</seg> 
+                  <seg id="23" type="speaker">ich</seg> nichts von dir, mein geliebter Iwan, </seg>
+               <said id="23"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">als daß <seg id="24" type="speaker">du</seg> dich <said id="24"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        nonfact="yes">ohne <seg id="24" type="intExpr">Nebengedanken</seg>
+                  </said> in diesen Tagen dem Umgang mit der Fürstin und Irene hingibst.</said> 
+               <seg id="25" type="frame" pos="start">
+                  <seg id="25" type="speaker">Du</seg> 
+                  <seg id="25" type="intExpr">weißt</seg>,</seg> 
+               <said id="25" mode="indirect" content="thought" level="2">daß ich dich zu nichts zwingen will</said>, <seg id="26" type="frame" pos="start">aber <seg id="26" type="speaker">du</seg>
+                  <seg id="26" type="intExpr"> weißt</seg> auch,</seg> 
+               <said id="26" mode="indirect" content="thought" level="2">daß mich nichts glücklicher machen könnte, als wenn du undIrene euch einander nähertet.</said> 
+               <said id="47" mode="indirect" content="thought" level="2">Daß Ludmilla einen Zauber auf deine Phantasie geübt hat</said>
+               <seg id="47" type="frame" pos="end">, <seg id="47" type="intExpr">finde</seg> 
+                  <seg id="47" type="speaker">ich</seg> begreiflich</seg>, aber dein Herz, <seg id="42" type="speaker">Iwan</seg>, <said id="42"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     prag="yes">
+                  <seg id="42" type="intExpr">glaub</seg> es mir</said>, deiner Mutter, ist noch frei und die unschuldige, jungfräuliche Irene paßt besser für dich als die erfahrene und verzeih es mir, Iwan – die kokette Frau.«</said>
+            <said id="29" mode="direct" content="speech" level="1"> »Mutter,«</said>
+            <seg id="29" type="frame" pos="mid">
+               <seg id="29" type="intExpr">rief</seg> 
+               <seg id="29" type="speaker">Iwan</seg> aufspringend,</seg>
+            <said id="29" mode="direct" content="speech" level="1">»<said id="43" mode="reported" content="speech" level="2">ein jedes Wort, das <seg id="43" type="speaker">sie</seg> 
+                  <seg id="43" type="intExpr">verleumdet</seg>
+               </said>, trifft mein Herz.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

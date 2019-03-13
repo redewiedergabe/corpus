@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+
+-- Der Unterrichtsminister Falloux ist nach Paris zurückgekehrt.
+            <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Man</seg> 
+               <seg id="1" type="intExpr">versichert</seg>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">daß die hiesige Besatzung auf 100,000 Mann
+                        gebracht werden solle</said>; auch will man die Citadellen in eine Art
+                        Art von Vertheidigungszustand setzen und sie namentlich mit einer
+                        entsprechenden Anzahl von Artilleristen und Pionieren versehen.
+            Wir können es uns nicht versagen eine Stelle aus der letzten
+                        Rede Montalemberts über die römische Frage hier noch
+                        nachzutragen, die in derselben ausgesprochenen Wahrheiten gelten
+                        für alle Länder. <said id="3" mode="direct" content="speech" level="1">„Wenn die Freiheit in Jtalien nicht Wurzel geschlagen hat</said>
+            <seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">sprach</seg> 
+               <seg id="3" type="speaker">er</seg>,</seg>
+            <said id="3" mode="direct" content="speech" level="1">wenn das einzige Parlament, welches
+                        noch auf der Halbinsel besteht, täglich seine Unreife bekundet, so.
+                        ist das nicht die Schuld des Befreiers, sondern der Befreiten
+                        Pius IX. hat sich nicht geändert; er glaubt nicht an den Cultus
+                        der Gewalt; er glaubt noch an die Freiheit. Er ist durch die Ereignisse nur aufgeklärt worden. Und wenn er sich geändert hätte,
+                        <said id="4"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">was <seg id="4" type="speaker">ich</seg> nicht <seg id="4" type="intExpr">glaube</seg>
+               </said>, wäre er etwa der Einzige, welcher sich in
+                        Europa geändert hätte? <said id="5" mode="reported" content="speech" level="2">
+                  <seg id="5" type="speaker">Man</seg> hat gestern von der Abtrünnigkeit der großen liberalen Partei <seg id="5" type="intExpr">gesprochen</seg>.</said> Wohlan,
+                        meine Herren, was ist seit einigen Jahren in der Welt vorgegangen? <seg id="6" type="frame" pos="start">
+                  <seg id="6" type="intExpr">Glauben</seg> 
+                  <seg id="6" type="speaker">Sie</seg> wirklich,</seg> 
+               <said id="6"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß die <seg id="16" type="speaker">Männer</seg> von Einsicht, Herz
+                        und Gewissen heute noch die Freiheit so lieben, <said id="16"
+                        mode="reported"
+                        content="thought"
+                        level="3"
+                        nonfact="yes"
+                        border="yes">an die Freiheit,
+                        an den Fortschritt des Menschengeschlechtes so <seg id="16" type="intExpr">glauben</seg>, wie sie es
+                        vor zwei Jahren thaten?</said>
+               </said> 
+               <seg id="7" type="frame" pos="start">
+                  <seg id="7" type="intExpr">Glauben</seg> 
+                  <seg id="7" type="speaker">Sie</seg> nicht,</seg> 
+               <said id="7"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß die kühnsten
+                        Herzen und Jntelligenzen erschüttert worden sind?</said> 
+               <seg id="8" type="frame" pos="start">
+                  <seg id="8" type="intExpr">Glauben</seg> 
+                  <seg id="8" type="speaker">Sie</seg>
+                        nicht,</seg> 
+               <said id="8"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß in vielen Gewissen, in vielen Herzen ein blutiges Licht
+                        aufgegangen ist?</said> Und mißtrauet ihr unserem Urtheile, uns alten
+                        alten und überdrüssigen Politikern, so gehet hinab zu den Tiefen
+                        der Nationen, gehet an den bescheidenen Heerd unbekannter, aber
+                        edler und verständiger Patrioten, die stets fern geblieben sind vom
+                        Lärme, vom Ueberdrusse des politischen Kampfes, klopfet an ihre
+                        Pforte und <seg id="9" type="frame" pos="start">
+                  <seg id="9" type="intExpr">fraget</seg> 
+                  <seg id="9" type="speaker">sie</seg>,</seg> 
+               <said id="9"
+                     mode="indirect"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">ob sie die Freiheit, den Fortschritt noch mit
+                        
+               
+               derselben Liebe, mit derselben Jnbrunst lieben wie vor drei Jahren,
+                        oder ob ihr Glaube, ihr Vertrauen noch dasselbe ist.</said> Unter tausend
+                        ehemaligen Liberalen findet ihr nicht Einen, <said id="17"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="17" type="speaker">der</seg> Ja <seg id="17" type="intExpr">sagt</seg>.</said> Woher diese
+                        allgemeine Erscheinung? Woher dieser Umschwung? Er kommt
+                        daher, daß überall der Mantel des Liberalismus von unsauberen und unverbesserlichen Demagogenusurpirt worden ist. Er kommt daher, daß überall, am Fuße des Capitols wie
+                        an der Barri è re Fontaineblau, vor den Thoren von Frankfurt wie
+                        auf der Brücke von Pesth der demokratische Dolch....</said> [ Unterbrechung. ] <said id="3" mode="direct" content="speech" level="1">Das ist's m. H. Das hat manche Begeisterung kalt gemacht. <seg id="11" type="frame" pos="start">
+                  <seg id="11" type="intExpr">Wissen</seg> 
+                  <seg id="11" type="speaker">Sie</seg>
+               </seg> 
+               <said id="11"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">was in den Herzen die strahlende Flamme der
+                        Freiheit erstickt?</said> Es ist nicht die Hand der Tyrannei. Blicken Sie
+                        auf Polen. Nein, sie sind es, sie, die gehässigen Demagogen,
+                        <said id="12" mode="reported" content="speech" level="2">von denen <seg id="12" type="speaker">ich</seg> eben <seg id="12" type="intExpr">sprach</seg>.</said> 
+               <said id="13" mode="reported" content="speech" level="2">Jene <seg id="13" type="speaker">Menschen</seg> sind es, welche überall
+                        der menschlichen Natur, den wesentlichen Bedingungen der Gesellschaft, den Grundlagen der Gerechtigkeit einen ruchlosen Krieg
+                        <seg id="13" type="intExpr">erklären</seg>.</said> Das sind die wahren Feinde der Freiheit! Vor drei
+                        Jahren breitete die Freiheit ihr Reich in Europa friedlich aus;
+                        zu ihren Füßen legte ein <seg id="14" type="speaker">Fürst</seg> nach dem andern, wenn auch
+                        widerstrebend, seine Krone nieder und <said id="14" mode="reported" content="speech" level="2">
+                  <seg id="14" type="intExpr">forderte</seg> von ihr eine neue
+                        Salbung.</said> 
+               <seg id="15" type="frame" pos="start">Der <seg id="15" type="speaker">Papst</seg> selbst, dies lebendige Symbol der Autorität, die hehrste Verkörperung der Autorität auf Erden, <seg id="15" type="intExpr">glaubte</seg>
+               </seg>
+                        <said id="15" mode="indirect" content="thought" level="2">von der Freiheit, von der Demokratie, von dem modernen
+                        Geiste einen neuen Strah für seine Tiara entlehnen zu können.</said>
+
+            </said>
+         </p>
+      </body>
+   </text>
+</TEI>

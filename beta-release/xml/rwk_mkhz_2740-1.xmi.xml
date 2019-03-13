@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+
+Zu <said id="12" mode="reported" content="speech" level="1">den aus der Praxis geschöpften <seg id="12" type="intExpr">Einwendungen</seg> des <seg id="12 3" type="speaker">Herrn Kanitz=Berg</seg>
+                        gegen <said id="13" mode="reported" content="writing" level="2">die Ausführungen <seg id="13" type="speaker">meines</seg> 
+                  <seg id="13" type="intExpr">Artikels</seg> „Der moderne Fabrikmensch“</said>
+            </said>
+            <seg id="1" type="frame" pos="start">habe <seg id="1" type="speaker">ich</seg> zunächst zu <seg id="1" type="intExpr">bemerken</seg>,</seg>
+            <said id="1" mode="indirect" content="speech" level="1">daß ich nicht zu denjenigen gehöre, <said id="3" mode="direct" content="speech writing" level="2">„die sich einige Wochen oder
+                        einige Monate in der Fabrik umgesehen haben.“</said>
+            </said> Nach einer dreijährigen Lehrzeit
+                        in einer mechanischen Werkstatt verdiente ich mir als Mechaniker=Gehilfe drei Jahre
+                        lang mein Brot. <seg id="4" type="frame" pos="start">
+               <seg id="4" type="speaker">Jch</seg> tat das in der ausdrücklichen <seg id="4" type="intExpr">Erkenntnis</seg>,</seg>
+            <said id="4" mode="indirect" content="thought" level="1">daß ich nur so die
+                        tatsächlichen Verhältnisse der praktischen Arbeit gründlich kennen und würdigen lernen
+                        konnte, und daß es nicht einerlei ist für die Auffassung der Arbeit, ob man während
+                        einer solchen Arbeitszeit von einem wohlhabenden Vater Zuschuß zum Lebensunterhalt
+                        erhält oder nicht.</said>
+            <said id="14" mode="reported" content="writing" level="1">Die Ausführungen <seg id="14" type="speaker">meines</seg> 
+               <seg id="14" type="intExpr">Artikels</seg> „Der moderne Fabrikmensch“</said> beruhen
+                        daher auf eigenen praktischen Erfahrungen und eigener praktischer Kenntnis der
+                        Arbeitsverhältnisse; aber gegenüber meinen sechsjährigen Erfahrungen kann Herr Kanitz=Berg anscheinend auf vieljährige Fabriktätigkeit hinweisen, und dadurch gewinnen <said id="15" mode="reported" content="speech writing" level="1">
+               <seg id="15" type="speaker">seine</seg> 
+               <seg id="15" type="intExpr">Ausführungen</seg>
+            </said> an Bedeutung. Jch gebe ihm ohne weiteres darin Recht,
+                        daß es geisttötend sein kann, jahraus, jahrein alltäglich vieltausendmal dieselben
+                        Handgriffe zu wiederholen. Aber es wird nur dann im allgemeinen der Fall sein,
+                        wenn die Verhältnisse so liegen, <seg id="16" type="frame" pos="start">
+               <said id="8" mode="reported" content="speech writing" level="1">wie <seg id="16 8" type="speaker">Herr Kanitz=Berg</seg> sie <seg id="16 8" type="intExpr">schildert</seg>
+               </said>, nämlich so, </seg>
+            <said id="16" mode="indirect" content="speech writing" level="1">daß
+                        <said id="17"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">alles <seg id="17" type="intExpr">Denken</seg> des <seg id="17" type="speaker">Arbeiters</seg>
+               </said> mit der Zeit überflüssig geworden ist</said>; er führt sämtliche
+                        Handgriffe infolge der Gewöhnung mechanisch aus, <said id="18"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">
+               <seg id="18" type="speaker">jedes</seg> 
+               <seg id="18" type="intExpr">Denken</seg>
+            </said> ist überflüssig geworden -- die ganze Muskulatur des Körpers arbeitet automatisch. Vernimmt das
+                        Ohr ein bestimmtes Geräusch, so führt der Arm unwillkürlich eine bestimmte
+                        Bewegung aus.
+            Wo die Verhältnisse so liegen, haben wir indessen eine noch recht unvollkommene Maschine vor uns. <seg id="9" type="frame" pos="start">
+               <seg id="9" type="speaker">Jch</seg> habe in meinem Artikel besonders <seg id="9" type="intExpr">betont</seg>,</seg>
+            <said id="9" mode="indirect" content="writing" level="1">daß wir
+                        bemüht sind, unsere modernen Maschinen für Massenfabrikation so zu bauen, daß sie
+                        uns alle monotonen Handgriffe, d. h. alle Handgriffe, die keine Aufmerksamkeit
+                        und <said id="19"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">kein <seg id="19" type="intExpr">Nachdenken</seg>
+               </said> erfordern, abnehmen.</said> Wo keine Aufmerksamkeit und <said id="20"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">kein
+                        <seg id="20" type="intExpr">Nachdenken</seg>
+            </said> erforderlich ist, kann der Handgriff ebenso gut von einer Maschine ausgeführt werden.
+            Dort, wo es noch nicht gelungen ist, dem Arbeiter alle monotonen Handgriffe
+                        abzunehmen, dort haben wir noch keinen vollkommenen Fabrikbetrieb im modernen
+                        Sinne vor uns, und ich gebe ohne weiteres zu, daß wir auf den meisten Gebieten
+                        der Technik in dieser Hinsicht von dem Erreichbaren mehr oder weniger entfernt sind.
+                        Wir befinden uns eben in dem Übergangsstadium vom Handwerk zum Fabrikbetrieb,
+                        und dieser Übergang bringt, wie jeder andere, unliebsame Zustände, die indessen
+                        mehr und mehr verschwinden, je weiter die Entwicklung vorwärts schreitet.
+            <seg id="11" type="frame" pos="start">
+               <seg id="11" type="speaker">Jch</seg> 
+               <seg id="11" type="intExpr">glaube</seg> daher auch,</seg>
+            <said id="11"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">daß <said id="21" mode="reported" content="writing" level="2">
+                  <seg id="21" type="speaker">meine</seg> 
+                  <seg id="21" type="intExpr">Darlegungen</seg>
+               </said>, wenn man die Verhältnisse
+                        allgemein ansieht, richtig sind.</said> Das schließt natürlich nicht aus, daß <said id="22" mode="reported" content="speech writing" level="1">die <seg id="22" type="intExpr">Einwendungen</seg> des<seg id="22" type="speaker"> Herrn Kanitz=Berg</seg>
+            </said> in vielen einzelnen Fällen berechtigt sind. Wenn
+                        ein Arbeiter Jahrzehnte hindurch dieselbe Bewegung alltäglich vieltausendmal wiederholen muß, so wirkt das schließlich doch ermüdend auf den Geist, genau so wie es
+                        auf unsere Verdauungsorgane leicht störend einwirken würde, wenn wir uns längere
+                        Zeit hindurch mit einem und demselben Nahrungsmittel ernähren sollten. Gegen
+                        diese Eigentümlichkeit der Arbeit können wir zielbewußt ankämpfen, indem wir es
+                        planmäßig vermeiden, den Arbeiter zeitlebens nur einen und denselben Handgriff
+                        ausführen zu lassen, und das läßt sich ohne nennenswerten Geldverlust ohne weiteres
+                        erreichen. Jul.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

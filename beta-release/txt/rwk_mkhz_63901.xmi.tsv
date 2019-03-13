@@ -1,0 +1,478 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+Lose	Lose	lose	NN	ADJA.Pos.Nom.Pl.Neut	yes	-	-	-	-	-
+Blätter	Blätter	Blatt	NN	N.Reg.Nom.Pl.Neut	no	-	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	yes	-	-	-	-	-
+F	F	F	XY	SYM.Other.XY	yes	-	frame.1	-	-	-
+ranzösische	ranzösische	ranzösisch	NE	ADJA.Pos.Nom.Pl.Masc	yes	-	frame.1	-	-	-
+Journalisten	Journalisten	Journalist	NN	N.Reg.Nom.Pl.Masc	no	-	frame.1	speaker.1_2	-	-
+behaupten	behaupten	behaupten	VVFIN	VFIN.Full.3.Pl.Pres.Ind	no	-	frame.1	-	intexpr.1	-
+allen	allen	aller	PIAT	PRO.Indef.Attr.-.Acc.Sg.Masc	no	-	frame.1	-	-	-
+Ernstes	Ernstes	Ernst	NN	N.Reg.Gen.Sg.Masc	no	-	frame.1	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	frame.1	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	indirect.writing.1	-	-	-	-
+das	das	der	ART	ART.Def.Nom.Sg.Neut	no	indirect.writing.1	-	-	-	-
+Zündnadelgewehr	Zündnadelgewehr	Zündnadelgewehr	NN	N.Reg.Nom.Sg.Neut	no	indirect.writing.1	-	-	-	-
+eine	eine	ein	ART	ART.Indef.Nom.Sg.Fem	no	indirect.writing.1	-	-	-	-
+französische	französische	französisch	ADJA	ADJA.Pos.Nom.Sg.Fem	no	indirect.writing.1	-	-	-	-
+Erfindung	Erfindung	Erfindung	NN	N.Reg.Nom.Sg.Fem	no	indirect.writing.1	-	-	-	-
+sei	sei	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect.writing.1	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+erzählen	erzählen	erzählen	VVINF	VINF.Full.-	no	-	frame.2	-	intexpr.2	-
+,	,	--	$,	SYM.Pun.Comma	no	-	frame.2	-	-	-
+um	um	um	KOUI	CONJ.SubInf.-	no	-	frame.2	-	-	-
+diese	diese	dieser	PDAT	PRO.Dem.Attr.-.Acc.Sg.Fem	no	-	frame.2	-	-	-
+Anmaßung	Anmaßung	Anmaßung	NN	N.Reg.Acc.Sg.Fem	no	-	frame.2	-	-	-
+glaubwürdig	glaubwürdig	glaubwürdig	ADJD	ADJD.Pos	no	-	frame.2	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	-	frame.2	-	-	-
+machen	machen	machen	VVINF	VINF.Full.-	no	-	frame.2	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	frame.2	-	-	-
+folgende	folgende	folgend	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	frame.2	-	-	-
+Geschichte	Geschichte	Geschichte	NN	N.Reg.Nom.Sg.Fem	no	-	frame.2	-	-	-
+:	:	--	$.	SYM.Pun.Colon	no	-	frame.2	-	-	-
+Jm	Im	in	APPRART	APPRART.Dat.Sg.Neut	yes	direct.writing.2	frame.3	-	-	-
+Jahre	Jahre	Jahr	NN	N.Reg.Dat.Sg.Neut	no	direct.writing.2	frame.3	-	-	-
+1813	1813	1813	CARD	CARD	no	direct.writing.2	frame.3	-	-	-
+hörte	hörte	hören	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	frame.3	-	intexpr.3	-
+der	der	der	ART	ART.Def.Nom.Sg.Masc	no	direct.writing.2	frame.3	-	-	-
+Herzog	Herzog	Herzog	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2	frame.3	speaker.3	-	-
+von	von	von	APPR	APPR.Dat	no	direct.writing.2	frame.3	speaker.3	-	-
+Rovigo	Rovigo	Rovigo	NE	N.Name.Dat.Sg.Neut	no	direct.writing.2	frame.3	speaker.3	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	frame.3	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+ein	ein	ein	ART	ART.Indef.Nom.Sg.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Pariser	Pariser	Pariser	ADJA	ADJA.Pos.*.*.*	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Waffenhändler	Waffenhändler	Waffenhändler	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+ein	ein	ein	ART	ART.Indef.Acc.Sg.Neut	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+neues	neues	neu	ADJA	ADJA.Pos.Acc.Sg.Neut	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Gewehr	Gewehr	Gewehr	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+erfunden	erfunden	erfinden	VVPP	VPP.Full.Psp	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+habe	habe	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+welches	welches	welcher	PRELS	PRO.Rel.Subst.-.Nom.Sg.Neut	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+ohne	ohne	ohne	KOUI	APPR.Acc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Stein	Stein	Stein	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+oder	oder	oder	KON	CONJ.Coord.-	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Zündhütchen	Zündhütchen	Zündhütchen	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+der	der	der	ART	ART.Def.Dat.Sg.Fem	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Minute	Minute	Minute	NN	N.Reg.Dat.Sg.Fem	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+acht	acht	acht	CARD	CARD	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+bis	bis	bis	APPR	CONJ.Coord.Bis	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+zehn	zehn	zehn	CARD	CARD	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Schüsse	Schüsse	Schuß	NN	N.Reg.Acc.Pl.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+abzugeben	abzugeben	abgeben	VVIZU	ADJD.Pos	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+im	im	in	APPRART	APPRART.Dat.Sg.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Stande	Stande	Stande	NN	N.Reg.Dat.Sg.Masc	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+sei	sei	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.writing.2|indirect.speech.3.border=unspec	-	-	-	-
+Er	Er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	yes	direct.writing.2	-	-	-	-
+ließ	ließ	lassen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+den	den	der	ART	ART.Def.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+Verfertiger	Verfertiger	Verfertiger	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+kommen	kommen	kommen	VVFIN	VINF.Full.-	no	direct.writing.2	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+untersuchte	untersuchte	untersuchen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+die	die	der	ART	ART.Def.Nom.Sg.Fem	no	direct.writing.2	-	-	-	-
+Waffe	Waffe	Waffe	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.2	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.writing.2	-	-	-	-
+schickte	schickte	schicken	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Acc.Pl.*	no	direct.writing.2	-	-	-	-
+dann	dann	dann	ADV	ADV	no	direct.writing.2	-	-	-	-
+an	an	an	APPR	APPR.An	no	direct.writing.2	-	-	-	-
+den	den	der	ART	ART.Def.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+Kaiser	Kaiser	Kaiser	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+Napoleon	Napoleon	Napoleon	NE	N.Reg.Nom.Sg.Masc	no	direct.writing.2	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	direct.writing.2	-	-	-	-
+einem	einem	ein	ART	ART.Indef.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+Briefe	Briefe	Brief	NN	N.Reg.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct.writing.2	frame.4	-	-	-
+welchem	welchem	welcher	PRELS	PRO.Rel.Subst.-.Dat.Sg.Masc	no	direct.writing.2	frame.4	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct.writing.2	frame.4	speaker.4	-	-
+versichert	versichert	versichern	VVPP	VFIN.Full.3.Sg.Pres.Ind	no	direct.writing.2	frame.4	-	intexpr.4	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	frame.4	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct.writing.2|indirect.writing.4	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct.writing.2|indirect.writing.4	-	-	-	-
+seiner	seiner	sein	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Gegenwart	Gegenwart	Gegenwart	NN	N.Reg.Dat.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+das	das	der	ART	ART.Def.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Gewehr	Gewehr	Gewehr	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+zweiundzwanzig	zweiundzwanzig	zweiundzwanzig	CARD	CARD	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Schüsse	Schüsse	Schuß	NN	N.Reg.Nom.Pl.Masc	no	direct.writing.2|indirect.writing.4	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct.writing.2|indirect.writing.4	-	-	-	-
+zwei	zwei	zwei	CARD	CARD	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Minuten	Minuten	Minute	NN	N.Reg.Dat.Pl.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+abgegeben	abgegeben	abgeben	VVPP	VPP.Full.Psp	no	direct.writing.2|indirect.writing.4	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.writing.4	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct.writing.2|indirect.writing.4	-	-	-	-
+die	die	der	ART	ART.Def.Nom.Pl.*	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Herstellungskosten	Herstellungskosten	Herstellungskosten	NN	N.Reg.Nom.Pl.*	no	direct.writing.2|indirect.writing.4	-	-	-	-
+nicht	nicht	nicht	PTKNEG	PART.Neg	no	direct.writing.2|indirect.writing.4	-	-	-	-
+höher	höher	hoch	ADJD	ADJD.Comp	no	direct.writing.2|indirect.writing.4	-	-	-	-
+wären	wären	sein	VAFIN	VFIN.Sein.3.Pl.Past.Subj	no	direct.writing.2|indirect.writing.4	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.writing.4	-	-	-	-
+das	das	der	ART	ART.Def.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Gewicht	Gewicht	Gewicht	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+dagegen	dagegen	dagegen	PAV	PROADV.Dem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+um	um	um	APPR	APPR.Acc	no	direct.writing.2|indirect.writing.4	-	-	-	-
+ein	ein	ein	ART	ART.Indef.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Viertel	Viertel	Viertel	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+geringer	geringer	gering	ADJD	ADJD.Comp	no	direct.writing.2|indirect.writing.4	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.writing.4	-	-	-	-
+als	als	als	KOKOM	CONJ.Comp.-	no	direct.writing.2|indirect.writing.4	-	-	-	-
+das	das	der	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+der	der	der	ART	ART.Def.Gen.Pl.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+damals	damals	damals	ADV	ADV	no	direct.writing.2|indirect.writing.4	-	-	-	-
+gebräuchlichen	gebräuchlichen	gebräuchlich	ADJA	ADJA.Pos.Gen.Pl.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Flinten	Flinten	Flinte	NN	N.Reg.Gen.Pl.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|indirect.writing.4	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.writing.2|indirect.writing.4	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct.writing.2|indirect.writing.4	-	-	-	-
+die	die	der	ART	ART.Def.Nom.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Patrone	Patrone	Patrone	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+sogar	sogar	sogar	ADV	ADV	no	direct.writing.2|indirect.writing.4	-	-	-	-
+nur	nur	nur	ADV	ADV	no	direct.writing.2|indirect.writing.4	-	-	-	-
+2	2	2	CARD	CARD	no	direct.writing.2|indirect.writing.4	-	-	-	-
+/	/	--	$(	SYM.Pun.Slash	no	direct.writing.2|indirect.writing.4	-	-	-	-
+5	5	5	CARD	CARD	no	direct.writing.2|indirect.writing.4	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	direct.writing.2|indirect.writing.4	-	-	-	-
+dem	dem	der	ART	ART.Def.Dat.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Gewicht	Gewicht	Gewicht	NN	N.Reg.Dat.Sg.Neut	no	direct.writing.2|indirect.writing.4	-	-	-	-
+der	der	der	ART	ART.Def.Gen.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+gewöhnlichen	gewöhnlichen	gewöhnlich	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Patrone	Patrone	Patrone	NN	N.Reg.Gen.Sg.Fem	no	direct.writing.2|indirect.writing.4	-	-	-	-
+besitze	besitze	besitzen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	direct.writing.2|indirect.writing.4	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.writing.2|indirect.writing.4	-	-	-	-
+Der	Der	der	ART	ART.Def.Nom.Sg.Masc	yes	direct.writing.2	frame.5	-	-	-
+Kaiser	Kaiser	Kaiser	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2	frame.5	speaker.5	-	-
+schrieb	schrieb	schreiben	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	frame.5	-	intexpr.5	-
+unter	unter	unter	APPR	APPR.Unter	no	direct.writing.2	frame.5	-	-	-
+den	den	der	ART	ART.Def.Acc.Sg.Masc	no	direct.writing.2	frame.5	-	-	-
+Schluß	Schluß	Schluß	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2	frame.5	-	-	-
+des	des	der	ART	ART.Def.Gen.Sg.Masc	no	direct.writing.2	frame.5	-	-	-
+Briefes	Briefes	Brief	NN	N.Reg.Gen.Sg.Masc	no	direct.writing.2	frame.5	-	-	-
+folgende	folgende	folgend	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct.writing.2	frame.5	-	-	-
+Anmerkung	Anmerkung	Anmerkung	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.2	frame.5	-	intexpr.5	-
+:	:	--	$.	SYM.Pun.Colon	no	direct.writing.2	frame.5	-	-	-
+„	&quot;	&quot;	$(	N.Reg.Nom.Sg.Fem	yes	direct.writing.2|direct.writing.5	-	-	-	-
+Dem	Dem	der	ART	ART.Def.Dat.Sg.Masc	no	direct.writing.2|direct.writing.5	frame.6	-	-	-
+Herzog	Herzog	Herzog	NN	N.Reg.Dat.Sg.Masc	no	direct.writing.2|direct.writing.5	frame.6	-	-	-
+von	von	von	APPR	APPR.Dat	no	direct.writing.2|direct.writing.5	frame.6	-	-	-
+Friaul	Friaul	Friaul	NE	N.Name.Dat.Sg.Neut	no	direct.writing.2|direct.writing.5	frame.6	-	-	-
+anbefohlen	anbefohlen	anbefohlen	VVPP	VPP.Full.Psp	no	direct.writing.2|direct.writing.5	frame.6	-	intexpr.6	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|direct.writing.5	frame.6	-	-	-
+den	den	der	ART	ART.Def.Acc.Sg.Masc	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Erfinder	Erfinder	Erfinder	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	speaker.7_8	-	-
+kommen	kommen	kommen	VVINF	VINF.Full.-	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+lassen	lassen	lassen	VVINF	VINF.Full.-	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+die	die	der	ART	ART.Def.Acc.Sg.Fem	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Büchse	Büchse	Büchse	NN	N.Reg.Acc.Sg.Fem	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+einem	einem	ein	ART	ART.Indef.Dat.Sg.Masc	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Comit	Comit	Comit	FM	FM	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+é	é	É	FM	FM	yes	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+der	der	der	ART	ART.Def.Gen.Sg.Fem	yes	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Garde=	Garde	Garde	NN	N.Reg.Gen.Sg.Fem	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Artillerie=	Artillerie	Artillerie	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+Offiziere	Offiziere	Offizier	NN	N.Reg.Acc.Pl.Masc	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+prüfen	prüfen	prüfen	VVINF	VINF.Full.-	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.writing.2|direct.writing.5|indirect.speech writing.6	-	-	-	-
+darüber	darüber	darüber	PAV	PROADV.Dem	no	direct.writing.2|direct.writing.5|indirect.speech writing.6|reported.speech.7.nonfact	-	-	-	-
+Bericht	Bericht	Bericht	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2|direct.writing.5|indirect.speech writing.6|reported.speech.7.nonfact	-	-	intexpr.7	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct.writing.2|direct.writing.5|indirect.speech writing.6|reported.speech.7.nonfact	-	-	-	-
+erstatten	erstatten	erstatten	VVINF	VINF.Full.-	no	direct.writing.2|direct.writing.5|indirect.speech writing.6|reported.speech.7.nonfact	-	-	-	-
+!	!	--	$.	SYM.Pun.Sent	no	direct.writing.2|direct.writing.5|indirect.speech writing.6|reported.speech.7.nonfact	-	-	-	-
+“	&quot;	&quot;	$(	N.Reg.Nom.Sg.Fem	no	direct.writing.2|direct.writing.5	-	-	-	-
+Der	Der	der	ART	ART.Def.Nom.Sg.Masc	yes	direct.writing.2	-	-	-	-
+Befehl	Befehl	Befehl	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2	-	-	-	-
+wurde	wurde	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+ausgeführt	ausgeführt	ausführen	VVPP	VPP.Full.Psp	no	direct.writing.2	-	-	-	-
+;	;	--	$.	SYM.Pun.Sent	no	direct.writing.2	-	-	-	-
+der	der	der	ART	ART.Def.Nom.Sg.Masc	no	direct.writing.2|reported.speech.8	-	-	-	-
+Bericht	Bericht	Bericht	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2|reported.speech.8	-	-	intexpr.8	-
+in	in	in	APPR	APPR.In	no	direct.writing.2|reported.speech.8	-	-	-	-
+so	so	so	ADV	ADV	no	direct.writing.2|reported.speech.8	-	-	-	-
+günstigem	günstigem	günstig	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct.writing.2|reported.speech.8	-	-	-	-
+Sinne	Sinne	Sinn	NN	N.Reg.Dat.Sg.Masc	no	direct.writing.2|reported.speech.8	-	-	-	-
+erstattet	erstattet	erstatten	VVPP	VPP.Full.Psp	no	direct.writing.2|reported.speech.8	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct.writing.2	-	-	-	-
+der	der	der	ART	ART.Def.Nom.Sg.Masc	no	direct.writing.2	-	-	-	-
+Kaiser	Kaiser	Kaiser	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2	-	-	-	-
+sofort	sofort	sofort	ADV	ADV	no	direct.writing.2	-	-	-	-
+dem	dem	der	ART	ART.Def.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+Pauly	Pauly	Pauly	NE	N.Reg.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+10,000	10,000	10,000	CARD	CARD	no	direct.writing.2	-	-	-	-
+Francs	Francs	Franc	NN	N.Reg.*.Pl.Masc	no	direct.writing.2	-	-	-	-
+auszahlen	auszahlen	auszahlen	VVINF	VINF.Full.-	no	direct.writing.2	-	-	-	-
+ließ	ließ	lassen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.writing.2	-	-	-	-
+Jn	In	in	APPR	APPR.In	yes	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+der	der	der	ART	ART.Def.Dat.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+nun	nun	nun	ADV	ADV	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+folgenden	folgenden	folgend	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+ereignißreichen	Ereignisreichen	ereignisreich	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+Zeit	Zeit	Zeit	NN	N.Reg.Dat.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+wurde	wurde	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+die	die	der	ART	ART.Def.Nom.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+Büchse	Büchse	Büchse	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+wie	wie	wie	PWAV	CONJ.Comp.-	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+ihr	ihr	ihr	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Masc	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+Erfinder	Erfinder	Erfinder	NN	N.Reg.Nom.Sg.Masc	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	-	-
+vergessen	vergessen	vergessen	VVPP	VPP.Full.Psp	no	direct.writing.2|reported.thought.9.nonfact.border=state	-	-	intexpr.9	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.writing.2	-	-	-	-
+erst	erst	erst	ADV	ADV	no	direct.writing.2	-	-	-	-
+im	im	in	APPRART	APPRART.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+verflossenen	verflossenen	verflossen	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+Monat	Monat	Monat	NN	N.Reg.Dat.Sg.Masc	no	direct.writing.2	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+nachdem	nachdem	nachdem	KOUS	CONJ.SubFin.-	no	direct.writing.2	-	-	-	-
+man	man	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	direct.writing.2	-	-	-	-
+den	den	der	ART	ART.Def.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+Brief	Brief	Brief	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.2	-	-	-	-
+des	des	der	ART	ART.Def.Gen.Sg.Masc	no	direct.writing.2	-	-	-	-
+Herzogs	Herzogs	Herzog	NN	N.Reg.Gen.Sg.Masc	no	direct.writing.2	-	-	-	-
+an's	ans	an	APPRART	APPRART.Acc.Sg.Neut	no	direct.writing.2	-	-	-	-
+Licht	Licht	Licht	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2	-	-	-	-
+gezogen	gezogen	ziehen	VVPP	VPP.Full.Psp	no	direct.writing.2	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+suchte	suchte	suchen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+man	man	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	direct.writing.2	-	-	-	-
+im	im	in	APPRART	APPRART.Dat.Sg.*	no	direct.writing.2	-	-	-	-
+Artillerie=	Artillerie	Artillerie	NN	N.Reg.Dat.Sg.Fem	no	direct.writing.2	-	-	-	-
+Museum	Museum	Museum	NN	N.Reg.Nom.Sg.Neut	no	direct.writing.2	-	-	-	-
+nach	nach	nach	PTKVZ	PART.Verb	no	direct.writing.2	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.writing.2	-	-	-	-
+fand	fand	finden	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.2	-	-	-	-
+dort	dort	dort	ADV	ADV	no	direct.writing.2	-	-	-	-
+das	das	der	ART	ART.Def.Acc.Sg.Neut	no	direct.writing.2	-	-	-	-
+Gewehr	Gewehr	Gewehr	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.2	-	-	-	-
+Pauly's	Pauly's	Pauly's	NE	N.Name.Gen.Sg.*	no	direct.writing.2	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.writing.2	-	-	-	-
+welches	welches	welcher	PRELS	PRO.Rel.Subst.-.Nom.Sg.Neut	yes	direct.writing.2	-	-	-	-
+genau	genau	genau	ADJD	ADJD.Pos	no	direct.writing.2	-	-	-	-
+dem	dem	der	ART	ART.Def.Dat.Sg.Neut	no	direct.writing.2	-	-	-	-
+preußischen	preußischen	preußisch	ADJA	ADJA.Pos.Dat.Sg.Neut	no	direct.writing.2	-	-	-	-
+Zündnadelgewehr	Zündnadelgewehr	Zündnadelgewehr	NN	N.Reg.Dat.Sg.Neut	no	direct.writing.2	-	-	-	-
+entspricht	entspricht	entsprechen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct.writing.2	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.writing.2	-	-	-	-
+Nach	Nach	nach	APPR	APPR.Dat	yes	-	frame.10	-	-	-
+dieser	dieser	dieser	PDAT	PRO.Dem.Attr.-.Dat.Sg.Fem	no	-	frame.10	-	-	-
+vollständig	vollständig	vollständig	ADJD	ADJD.Pos	no	-	frame.10	-	-	-
+verbürgten	verbürgten	verbürgt	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	frame.10	-	-	-
+Geschichte	Geschichte	Geschichte	NN	N.Reg.Dat.Sg.Fem	no	-	frame.10	-	-	-
+sollte	sollte	sollen	VMFIN	VFIN.Mod.3.Sg.Past.Ind	no	-	frame.10	-	-	-
+man	man	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	-	frame.10	speaker.10	-	-
+in	in	in	APPR	APPR.In	no	-	frame.10	-	-	-
+der	der	der	ART	ART.Def.Dat.Sg.Fem	no	-	frame.10	-	-	-
+That	Tat	Tat	NN	N.Reg.Dat.Sg.Fem	no	-	frame.10	-	-	-
+glauben	glauben	glauben	VVFIN	VINF.Full.-	no	-	frame.10	-	intexpr.10	-
+,	,	--	$,	SYM.Pun.Comma	no	-	frame.10	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	indirect.thought.10.nonfact	-	-	-	-
+das	das	der	ART	ART.Def.Nom.Sg.Neut	no	indirect.thought.10.nonfact	-	-	-	-
+Zündnadelgewehr	Zündnadelgewehr	Zündnadelgewehr	NN	N.Reg.Nom.Sg.Neut	no	indirect.thought.10.nonfact	-	-	-	-
+eine	eine	ein	ART	ART.Indef.Nom.Sg.Fem	no	indirect.thought.10.nonfact	-	-	-	-
+französische	französische	französisch	ADJA	ADJA.Pos.Nom.Sg.Fem	no	indirect.thought.10.nonfact	-	-	-	-
+Erfindung	Erfindung	Erfindung	NN	N.Reg.Nom.Sg.Fem	no	indirect.thought.10.nonfact	-	-	-	-
+sei	sei	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect.thought.10.nonfact	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+wenn	wenn	wenn	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+nicht	nicht	nicht	PTKNEG	PART.Neg	no	-	-	-	-	-
+ebenso	ebenso	ebenso	ADV	ADV	no	-	-	-	-	-
+bestimmt	bestimmt	bestimmen	ADJD	ADJD.Pos	no	-	-	-	-	-
+nachgewiesen	nachgewiesen	nachweisen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+werden	werden	werden	VAINF	VINF.Aux.-	no	-	-	-	-	-
+könnte	könnte	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+einer	einer	ein	ART	PRO.Indef.Subst.-.Nom.Sg.Masc	no	-	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	-	-	-	-	-
+Pauly's	Pauly's	Pauly's	NE	N.Name.Gen.Sg.*	no	-	-	-	-	-
+Arbeitern	Arbeitern	Arbeiter	NN	N.Reg.Dat.Pl.Masc	no	-	-	-	-	-
+ein	ein	ein	ART	ART.Indef.Nom.Sg.Masc	no	-	-	-	-	-
+Deutscher	Deutscher	deutsche	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	-	-	-	-	-
+Namen	Namen	Name	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+--	--	-	$(	N.Name.*.*.*	no	-	-	-	-	-
+Nicolaus	Nicolaus	Nicolaus	NE	N.Name.Nom.Sg.Masc	yes	-	-	-	-	-
+Dreyse	Dreyse	Dreyse	NE	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+gewesen	gewesen	sein	VAPP	VPP.Sein.Psp	yes	-	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+M	M.	M.	NE	N.Name.*.*.*	yes	-	-	-	-	-
+.		_		N.Name.*.*.*	yes	-	-	-	-	-
+E	E	E	NN	N.Name.*.*.*	yes	-	-	-	-	-
+in	in	in	APPR	APPR.In	yes	-	-	-	-	-
+Bierhaus	Bierhaus	Bierhaus	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+aus	aus	aus	APPR	APPR.Dat	no	-	-	-	-	-
+Berlins	Berlins	Berlin	NE	N.Name.Gen.Sg.Neut	no	-	-	-	-	-
+Vergangenheit	Vergangenheit	Vergangenheit	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Als	Als	als	KOUS	CONJ.SubFin.-	yes	-	-	-	-	-
+die	die	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+Umgebung	Umgebung	Umgebung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+der	der	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Louisen	Louise	Louise	NE	N.Name.Nom.Sg.Fem	no	-	-	-	-	-
+=		_	XY	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+(	(	--	$(	SYM.Paren.Left	no	-	-	-	-	-
+damals	damals	damals	ADV	ADV	no	-	-	-	-	-
+Sebastians	Sebastians	Sebastian	NE	N.Name.Gen.Sg.Masc	no	-	-	-	-	-
+=		_	XY	ADJA.Pos.Nom.Sg.Fem	no	-	-	-	-	-
+)	)	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Kirche	Kirche	Kirche	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+größtentheils	größtenteils	größtenteils	ADV	ADV	no	-	-	-	-	-
+noch	noch	noch	ADV	ADV	no	-	-	-	-	-
+aus	aus	aus	APPR	APPR.Dat	no	-	-	-	-	-
+Gärten	Gärten	Garten	NN	N.Reg.Dat.Pl.Masc	no	-	-	-	-	-
+bestand	bestand	bestehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+erblühte	erblühte	erblühen	ADJA	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+Anno	Anno	Anno	NN	ADV	no	-	-	-	-	-
+1713	1713	1713	CARD	CARD	no	-	-	-	-	-
+in	in	in	APPR	APPR.In	no	-	-	-	-	-
+einem	einem	ein	ART	PRO.Indef.Subst.-.Dat.Sg.Masc	no	-	-	-	-	-
+derselben	derselben	derselbe	PDAT	PRO.Dem.Subst.-.Dat.Sg.Fem	no	-	-	-	-	-
+eine	eine	ein	ART	ART.Indef.Acc.Sg.Fem	no	-	-	-	-	-
+„	&quot;	&quot;	$(	N.Reg.Acc.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+sonderliche	sonderliche	sonderlich	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+weiße	weiße	weiß	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+Lilie	Lilie	Lilie	NN	N.Reg.Nom.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.speech writing.14.border=unspec	-	-	-	-
+deren	deren	der	PRELAT	PRO.Rel.Attr.-.Gen.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+einer	einer	ein	ART	PRO.Indef.Subst.-.Gen.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+Stamm	Stamm	Stamm	NN	N.Reg.Nom.Sg.Masc	no	direct.speech writing.14.border=unspec	-	-	-	-
+eine	eine	ein	ART	ART.Indef.Acc.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+weiße	weiße	weiß	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	direct.speech writing.14.border=unspec	-	-	-	-
+deren	deren	der	PRELAT	PRO.Rel.Attr.-.Gen.Sg.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+anderer	anderer	anderer	ADJA	ADJA.Pos.Gen.Pl.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+aber	aber	aber	KON	ADV	no	direct.speech writing.14.border=unspec	-	-	-	-
+rothe	rote	rot	ADJA	ADJA.Pos.Acc.Pl.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+Blumen	Blumen	Blume	NN	N.Reg.Acc.Pl.Fem	no	direct.speech writing.14.border=unspec	-	-	-	-
+trug	trug	tragen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.speech writing.14.border=unspec	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.speech writing.14.border=unspec	-	-	-	-
+“	&quot;	&quot;	$(	CARD	no	direct.speech writing.14.border=unspec	-	-	-	-
+Dies	Dies	dieser	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	yes	-	-	-	-	-
+merkwürdige	merkwürdige	merkwürdig	ADJA	ADJA.Pos.Nom.Sg.Neut	no	-	-	-	-	-
+Naturerzeugniß	Naturerzeugnis	Naturerzeugnis	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+wurde	wurde	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+der	der	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Königin	Königin	Königin	NN	N.Reg.Gen.Sg.Fem	no	-	-	-	-	-
+Sophie	Sophie	Sophie	NE	N.Name.Nom.Sg.Fem	no	-	-	-	-	-
+Louise	Louise	Louise	NE	N.Name.Nom.Sg.Fem	no	-	-	-	-	-
+zum	zum	zu	APPRART	APPRART.Dat.Sg.Neut	no	-	-	-	-	-
+Geschenk	Geschenk	Geschenk	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+überreicht	überreicht	überreichen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+welche	welche	welcher	PRELS	PRO.Rel.Subst.-.Nom.Sg.Fem	no	-	-	-	-	-
+als	als	als	KOKOM	APPR.Als	no	-	-	-	-	-
+Gegengeschenk	Gegengeschenk	Gegengeschenk	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+dem	dem	der	ART	ART.Def.Dat.Sg.Masc	no	-	-	-	-	-
+Besitzer	Besitzer	Besitzer	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+des	des	der	ART	ART.Def.Gen.Sg.Masc	no	-	-	-	-	-
+Gartens	Gartens	Gartens	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+das	das	der	ART	ART.Def.Acc.Sg.Neut	no	-	-	-	-	-
+Privilegium	Privilegium	Privilegium	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+ertheilte	erteilte	erteilen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+„	&quot;	&quot;	$(	CARD	no	direct.speech writing.15	-	-	-	-
+allerhand	allerhand	allerhand	PIAT	PRO.Indef.Attr.-.*.*.*	no	direct.speech writing.15	-	-	-	-
+fremde	fremde	fremd	ADJA	ADJA.Pos.Acc.Pl.Neut	no	direct.speech writing.15	-	-	-	-
+Biere	Biere	Bier	NN	N.Reg.Acc.Pl.Neut	no	direct.speech writing.15	-	-	-	-
+ausschänken	Ausschänken	Ausschänken	NN	VINF.Full.-	no	direct.speech writing.15	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct.speech writing.15	-	-	-	-
+dürfen	dürfen	dürfen	VMINF	VINF.Mod.-	no	direct.speech writing.15	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	direct.speech writing.15	-	-	-	-
+“	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	no	direct.speech writing.15	-	-	-	-
+Das	Das	der	ART	ART.Def.Nom.Sg.Neut	yes	-	-	-	-	-
+Haus	Haus	Haus	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+aber	aber	aber	ADV	ADV	no	-	-	-	-	-
+ward	wurde	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+„	&quot;	&quot;	$(	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+Zur	Zur	zu	APPRART	APPRART.Dat.Sg.Fem	no	-	-	-	-	-
+weißen	weißen	weiß	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	-	-	-	-
+Wunderlilie	Wunderlilie	Wunderlilie	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+“	&quot;	&quot;	$(	N.Name.Nom.Sg.*	no	-	-	-	-	-
+genannt	genannt	nennen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+hat	hat	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Ind	no	-	-	-	-	-
+sich	sich	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+seitdem	seitdem	seitdem	PAV	PROADV.Dem	no	-	-	-	-	-
+als	als	als	KOKOM	APPR.Als	no	-	-	-	-	-
+Lokal	Lokal	Lokal	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+erhalten	erhalten	erhalten	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+nur	nur	nur	ADV	ADV	no	-	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+der	der	der	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Berliner	Berliner	Berliner	ADJA	ADJA.Pos.*.*.*	no	-	-	-	-	-
+Volkswitz	Volkswitz	Volkswitz	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+ihm	ihm	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	-	-	-	-	-
+einen	einen	ein	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+weniger	weniger	weniger	PIAT	ADV	no	-	-	-	-	-
+idyllischen	idyllischen	idyllisch	ADJA	ADJA.Pos.Acc.Sg.Masc	no	-	-	-	-	-
+Namen	Namen	Name	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+beigelegt	beigelegt	beilegen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+hat	hat	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Ind	no	-	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+☞	☞	☞	NN	N.Name.Dat.Sg.*	yes	-	-	-	-	-
+Die	Die	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+Besprechung	Besprechung	Besprechung	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.12.nonfact	-	-	intexpr.12	-
+von	von	von	APPR	APPR.Dat	no	reported.speech.12.nonfact	-	-	-	-
+Angelegenheiten	Angelegenheiten	Angelegenheit	NN	N.Reg.Dat.Pl.Fem	no	reported.speech.12.nonfact	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	reported.speech.12.nonfact	-	-	-	-
+welche	welche	welcher	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech.12.nonfact	-	-	-	-
+die	die	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+Redaction	Redaktion	Redaktion	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+betreffen	betreffen	betreffen	VVFIN	VFIN.Full.3.Pl.Pres.Ind	no	reported.speech.12.nonfact	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	reported.speech.12.nonfact	-	-	-	-
+kann	kann	können	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	reported.speech.12.nonfact	-	-	-	-
+täglich	täglich	täglich	ADJD	ADJD.Pos	no	reported.speech.12.nonfact	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	reported.speech.12.nonfact	-	-	-	-
+1	1	1	CARD	CARD	no	reported.speech.12.nonfact	-	-	-	-
+bis	bis	bis	APPR	APPR.Bis	no	reported.speech.12.nonfact	-	-	-	-
+3	3	3	CARD	CARD	no	reported.speech.12.nonfact	-	-	-	-
+Uhr	Uhr	Uhr	NN	N.Reg.*.*.Fem	no	reported.speech.12.nonfact	-	-	-	-
+im	im	in	APPRART	APPRART.Dat.Sg.*	no	reported.speech.12.nonfact	-	-	-	-
+Redactions=	Redaktion	Redaktion	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+Büreau	Büro	Büro	NN	N.Reg.Nom.Sg.Neut	no	reported.speech.12.nonfact	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	reported.speech.12.nonfact	-	-	-	-
+Potsdamer	Potsdamer	Potsdamer	ADJA	ADJA.Pos.*.*.*	no	reported.speech.12.nonfact	-	-	-	-
+Straße	Straße	Straße	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+Nr.	Nr.	Nr.	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.12.nonfact	-	-	-	-
+20	20	20	CARD	CARD	no	reported.speech.12.nonfact	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	reported.speech.12.nonfact	-	-	-	-
+stattfinden	stattfinden	stattfinden	VVINF	VINF.Full.-	no	reported.speech.12.nonfact	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	reported.speech.12.nonfact	-	-	-	-
+Alle	Alle	aller	PIAT	PRO.Indef.Attr.-.Nom.Pl.Fem	yes	-	-	-	-	-
+Zusendungen	Zusendungen	Zusendung	NN	N.Reg.Nom.Pl.Fem	no	-	-	-	-	-
+werden	werden	werden	VAFIN	VFIN.Aux.3.Pl.Pres.Ind	no	-	-	-	-	-
+erbeten	erbeten	erbeten	VVPP	ADJD.Pos	no	-	-	-	-	-
+unter	unter	unter	APPR	APPR.Unter	no	-	-	-	-	-
+der	der	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Adresse	Adresse	Adresse	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+:	:	--	$.	SYM.Pun.Colon	no	-	-	-	-	-
+„	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	yes	-	-	-	-	-
+An	An	an	APPR	APPR.An	no	-	-	-	-	-
+die	die	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Redaction	Redaktion	Redaktion	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+des	des	der	ART	ART.Def.Gen.Sg.Neut	no	-	-	-	-	-
+Sonntags=	Sonntags	Sonntag	NN	ADV	no	-	-	-	-	-
+Blattes	Blattes	Blatt	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+in	in	in	APPR	APPR.In	no	-	-	-	-	-
+Berlin	Berlin	Berlin	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+,	,	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+Potsdamer	Potsdamer	Potsdamer	ADJA	ADJA.Pos.*.*.*	no	-	-	-	-	-
+Straße	Straße	Straße	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+Nr.	Nr.	Nr.	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+20	20	20	CARD	CARD	no	-	-	-	-	-
+.	.	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+“	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-

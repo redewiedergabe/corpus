@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Beate und Mareile</title>
+             <author>Keyserling, Eduard von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Beate und Mareile</f>
+         <f name="author">Keyserling, Eduard von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Ziepe</seg> 
+               <seg id="1" type="intExpr">fuhr</seg> sie <seg id="1" type="intExpr">an</seg>:</seg>
+            <said id="1" mode="direct" content="speech" level="1">»Was, heute wieder das Scheuerweib gespielt? Ich will das nicht. Ich hab' kein Scheuerweib geheiratet. Wozu is das Mädchen da – Teufel auch!«</said> 
+                     Frau Ziepe hörte ihn nicht. <said id="2" mode="direct" content="speech" level="1">»Wie das glänzt!«</said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">sagte</seg> 
+               <seg id="2" type="speaker">sie</seg>
+            </seg> und strich über den Diamant in Mareilens Ohr. Ziepe erhob sich, ging, froh, seiner vornehmen Tochter aus den Augen zu kommen. 
+                     Mareile lehnte sich in die Sofaecke zurück. Die Fliegen summten an den Fensterscheiben; die Suppe nebenan roch immer stärker. <seg id="3" type="speaker">Frau Ziepe</seg> ging leise hin und her und diente ihrer Tochter, <said id="3" mode="reported" content="speech" level="1">
+               <seg id="3" type="intExpr">erzählte</seg> dabei von der Wirtschaft, den Herrschaften, dem Dienstmädchen.</said> Die fünfzehnjährige Lene kam, kauerte zu Mareilens Füßen nieder und schaute andächtig zu der herrlichen Schwester auf. Das alles war rührend und lieb. <said id="4" mode="direct" content="thought" level="1">Das findet man draußen in der Welt nicht. Und doch, warum ist all das so zum Weinen traurig?</said>
+            <seg id="4" type="frame" pos="end">
+               <seg id="4" type="intExpr">dachte</seg> 
+               <seg id="4" type="speaker">Mareile</seg>.</seg> 
+                  
+               
+            
+            
+               
+                  
+                     
+                        Fünftes Kapitel
+                     Günther wollte wirtschaften. Er ging auf das Feld hinaus. Es wurde gemäht. Brusttief regten sich die Leute in den Halmen, wie in knisternder, gelber Seide. <seg id="5" type="frame" pos="start">
+               <seg id="5" type="speaker">Ziepe</seg> stand dabei und <seg id="5" type="intExpr">schimpfte</seg>:</seg>
+            <said id="5" mode="direct" content="speech" level="1">»Du kleines, schwarzes Aas, heißt das Setzen? Du brauchst nur mit deiner Rotznase anzustoßen, dann purzelt die Bude um.«</said> Günther war sehr würdig und leutselig. <said id="6" mode="direct" content="speech" level="1">»Hier ist ungleich gemäht«</said>
+            <seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">bemerkte</seg> 
+               <seg id="6 7" type="speaker">er</seg>. </seg>
+            <said id="7" mode="direct" content="speech" level="1">»Haben die Leute auch zu trinken? Ich will, daß nichts versäumt wird.«</said> Er schritt an den Garben entlang, durch die Atmosphäre der heißen Ähren und heißen Menschen. Von einer Garbennehmerin, die hübsche Augen hatte, ließ er sich die Ackerwinden geben, die das Mädchen auf dem Strohhut hatte. Als er jedoch weiter dem Ellernbruch zuging, war er unzufrieden. <said id="8" mode="freeIndirect" content="thought" level="1">Das müßte anders sein. <seg id="8" type="speaker">Er</seg> müßte anders auf seine Leute wirken. Diese gleichgültigen Augen wollte er nicht. Teufel! Wenn man auf seine eigenen Arbeiter nicht wirkt, wo will man denn Effekt machen!</said> 
+                     Im Ellernbruch fand <seg id="9" type="speaker">Günther</seg> eine lange, bunte Gestalt im Grase liegen. <said id="9" mode="freeIndirect" content="thought" level="1">Wie kam all das hierher? Der blau und weiß gestreifte Sommerflanell, das blauseidene Hemd, der rot und blau gestreifte Gürtel?</said>
+            <said id="10" mode="direct" content="speech" level="1">»Hans Berkow«</said>
+            <seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> 
+               <seg id="10 13" type="speaker">Günther</seg>.</seg>
+            <said id="11" mode="direct" content="speech" level="1">»Morjen, Tarniff«</said>
+            <seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">meinte</seg> 
+               <seg id="11 12 14" type="speaker">Berkow</seg>
+            </seg> und gähnte. <said id="12" mode="direct" content="speech" level="1">»Wie geht's?«</said>
+            <said id="13" mode="direct" content="speech" level="1">»Was machst du hier?«</said>
+            <said id="14" mode="direct" content="speech" level="1">»Siesta. Nimm doch Platz.«</said>
+            <seg id="15 18" type="speaker">Günther</seg> setzte sich auf das Moos. <said id="15" mode="freeIndirect" content="thought" level="1">Was der Anblick von Hans Berkow nicht alles an Berliner Luft mitbrachte!</said>
+            <said id="16" mode="direct" content="speech" level="1">»Studien«</said>
+            <seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">berichtete</seg> 
+               <seg id="16 17 19" type="speaker">Hans</seg>.</seg>
+            <said id="17" mode="direct" content="speech" level="1">»Ich wollte euer brutales Licht studieren, dicke Bauernmädchen.Das ewige Malen von Berlinerinnen macht den Pinsel flau.«</said>
+            <said id="18" mode="direct" content="speech" level="1">»Wo wohnst du? Warum bist du nicht bei uns?«</said>
+            <said id="19" mode="direct" content="speech" level="1">»Es ist nicht angenehm, der unvermeidliche <seg id="20" type="speaker">Berkow</seg> zu sein. In Berlin ist er – in Kaltin wieder.«</said> Das Gesicht hatte so regelmäßige Züge, daß es zuerst leer und starr erschien. Rotes Haar in kurzen Locken bedeckte wie eine Kappe den Kopf. Die enzianblauen Augen mit den roten Wimpern aber waren es, die dem Gesicht seine überraschende Schönheit gaben. <said id="20" mode="direct" content="speech" level="1">»Ich wohne in einem Waldkruge. Schöne Bäume. Auch die Familie Mankow ist malerisch. Die Tochter Eva – eine gute Studie in Rot.«</said>
+            <said id="21" mode="direct" content="speech" level="1">»Dort kannst du nicht bleiben«</said>
+            <seg id="21" type="frame" pos="end">, <seg id="21" type="intExpr">meinte</seg> 
+               <seg id="21" type="speaker">Günther</seg>.</seg>
+            <said id="22" mode="direct" content="speech" level="1">»Ja – wenn du was für mich tun willst –«</said>
+            <seg id="22 23" type="speaker">Hans</seg> blinzelte mit den roten Wimpern nachdenklich zur Sonne auf. <said id="23" mode="direct" content="speech" level="1">»Du hast da so 'n altes Schloß.
+
+</said>
+         </p>
+      </body>
+   </text>
+</TEI>

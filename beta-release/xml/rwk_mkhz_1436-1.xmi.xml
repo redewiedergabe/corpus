@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Landtagsverhandlungen. Deutschland. Italien.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Landtagsverhandlungen. Deutschland. Italien.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.bayerische</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     Preußens Geschichte seit 1848 ist weder für
+                        die Demokraten, noch für die Constitutionellen, noch für die Absolutisten
+                        eine erhebende, eine vertrauenerregende.
+                     Oesterreich hat das fast Unmögliche geleistet; man mag einer
+                        Partei angehören, welcher man will, <said id="1"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes"
+                  prag="yes">so wird <seg id="1" type="speaker">man</seg> Oesterreichs jüngster
+                        Vergangenheit und seiner Gegenwart doch das Großartige nicht <seg id="1" type="intExpr">absprechen</seg>
+                        können.</said>
+                     Aber es ist nicht nur großartig gewesen in der Besiegung der
+                        Revolution, sondern noch viel großartiger in seiner Selbstüberwindung.
+                     <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes"
+                  metaph="yes">Dieser Metternich'sche <seg id="2" type="speaker">Staat</seg> hat die Winke des Jahres 1848 nicht
+                        nur <seg id="2" type="intExpr">verstanden</seg>
+            </said>, er hat sie auch befolgt.
+                     Jn keinem Staat Deutschlands finden wir so umfassende und
+                        durchgreifende Reformen, wie hier.
+                     Keine politischen Steuermänner hatten gefährlichere Klippen zu
+                        durchschiffen, und keine haben das Staatsschiff so schnell und zu einem so
+                           
+                        schönen Ziele zu lenken gewußt, wie die österreichischen.
+                     Wir wollen mit diesem Niemand zu nahe treten; aber wenn es sich
+                        darum handelt, zu wem das arme, zersplitterte und geschwächte Deutschland
+                        mehr Vertrauen haben soll, ob zu Preußens oder zu Oesterreichs Politik, <said id="3" mode="reported" content="thought" level="1">so
+                        <seg id="3" type="intExpr">dünkt</seg> 
+               <seg id="3" type="speaker">uns</seg> die Frage bald entschieden.</said>
+                     Oesterreich will auf den bestehenden Verträgen fortbauen.
+                     Das nehmen ihm die politischen Doctrinärs freilich sehr übel,
+                        weil sie gewöhnt sind, in die Luft zu bauen. Preußen hingegen verletzt diese
+                        Verträge in demselben Augenblicke, in welchem es sie als seinen Schild vor
+                        sich herträgt.
+                     Oesterreich zeigt an seiner erstaunlich schnellen und sichern
+                        Reorganisation, daß es -- ohne Kleinstaaterei zu treiben -- doch die
+                        Nationalität zu schonen weiß, wo es in deren wirklichem Jnteresse ist.
+                     Oesterreich ist in seinen Plänen viel großartiger, als
+                        Preußen.
+                     Preußen ist kleinlich; Oesterreich ist practisch, Preußen ist
+                        wesentlich doctrinär, seine Politik trägt das Gepräge des „jebildeten“
+                        Berlinerthums.
+                     Die Münchener Uebereinkunft ist einer weiteren Entwickelung
+                        fähig. Ex parvis initiis magnae res crescent.
+                     Und das neugeborne Kindlein wird an Oesterreich einen sichern,
+                        einen geistig und materiell stärkeren Beschützer finden, als an Preußen.
+                        Gerade die große Selbstständigkeit, die die von Oesterreich unterstützte
+                        Münchener Uebereinkunft den einzelnen Staaten beläßt, rechtfertigt ersteres
+                        am Deutlichsten gegen <seg id="4" type="frame" pos="start">den <seg id="4" type="intExpr">Vorwurf</seg>,</seg>
+            <said id="4" mode="indirect" content="speech" level="1">als wolle es sich auf Kosten der Andern
+                        vergrößern</said> -- ein Vorwurf, den Preußen sich jetzt sogar von seinen bisher
+                        eifrigsten Freunden muß machen lassen! 
+                  
+               
+               
+                  
+                     München, 11. April.
+                     <seg id="5" type="frame" pos="start">Ein glaubwürdiger <seg id="5" type="speaker">Reisender</seg>, der gestern aus Tirol hier eintraf,
+                        <seg id="5" type="intExpr">erzählt</seg>,</seg>
+            <said id="5" mode="indirect" content="speech" level="1">
+               <said id="6" mode="reported" content="speech" level="2">daß das in und um Reute stehende österreichische
+                           Armeecorps <seg id="6" type="intExpr">Marschordre</seg> erhalten habe</said> und der Aufbruch desselben
+                        gegen die württembergische Grenze nächster Tage zu erwarten stehe.</said>
+                     -- Die Zusammenstellung des Armeebefehls, mit der bereits begonnen ward, wird nunmehr bis nach
+                        der Berathung des Budgets ausgesetzt.
+                  
+               
+               
+                  
+                     München, 13. April.
+                     Der k. <seg id="8 9" type="speaker">Kassationshof</seg>, <said id="8" mode="reported" content="speech" level="1">welcher heute über die
+                        Nichtigkeitsbeschwerde von Stopfer und Dantinger <seg id="8" type="intExpr">verhandelte</seg>
+            </said>, <said id="9" mode="reported" content="speech" level="1">hat nach <said id="10" mode="reported" content="speech" level="2">einer
+                        ausgezeichneten <seg id="10" type="intExpr">Rede</seg> des <seg id="10" type="speaker">Staatsanwalts Dr. 
+                        d'Allarmi</seg>
+               </said> selbige <seg id="9" type="intExpr">zurückgewiesen</seg> und das Todesurtheil <seg id="9" type="intExpr">bestätigt</seg>.</said>
+            <said id="11"
+                  mode="reported"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">Stopfer's Vertheidiger, <seg id="11" type="speaker">Dr.
+                     Schneider</seg>, hat aus dem Grunde keine auf das Kassationsgesuch
+                        bezügliche <seg id="11" type="intExpr">Denkschrift</seg> eingereicht</said>, weil er aus eigener Anschauung keinen
+                        Nichtigkeitsgrund in der Verhandlung gefunden hat.
+                     <seg id="12" type="frame" pos="start">
+               <seg id="12" type="speaker">Er</seg> machte jedoch darauf <seg id="12" type="intExpr">aufmerksam</seg>,</seg>
+            <said id="12" mode="indirect" content="speech" level="1">daß die Oeffentlichkeit auf
+                        ungesetzliche Weise durch Ertheilung von Billeten beschränkt worden
+                        sei.</said>
+            <seg id="13" type="frame" pos="start">
+               <seg id="13" type="speaker">Concipient Maier</seg> hingegen <seg id="13" type="intExpr">erklärte</seg>:</seg>
+            <said id="13" mode="indirect" content="speech" level="1">Dantinger
+                        habe die Nichtigkeitsbeschwerde deshalb nicht ergriffen, weil er sich
+                        schuldig fühle, sondern weil er nicht mehr leben wolle.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

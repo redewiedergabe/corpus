@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Aus Ungarn.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Aus Ungarn.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="reported" content="speech writing" level="1">
+               <seg id="1" type="speaker">Andere</seg> 
+               <seg id="1" type="intExpr">citiren</seg>
+                        die Bücherweisheit Europas und die Erfahrungen des letzten Jahrhunderts</said>;
+                        aber grau ist alle Theorie der Politik und blutigroth ihre Durchführung. —
+                        Wir ächzen nicht, wir weinen nicht, <said id="2"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">
+               <seg id="2" type="speaker">wir</seg> 
+               <seg id="2" type="intExpr">klagen</seg> nicht</said> — und wir verzweifeln
+                        nicht. Wenn man Millionen Brüder hat, <said id="23" mode="reported" content="thought" level="1">
+               <seg id="23" type="speaker">die</seg> dasselbe fühlen und <seg id="23" type="intExpr">denken</seg>
+            </said>,
+                        so befindet man sich mitten im Sturmgeheul und unter zerschmetternden Blitzen
+                        wie in einem Tempel, <said id="24"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">wo der Gott der Heerschaaren gemeinsam <seg id="24" type="intExpr">angebetet</seg>
+            </said>, auf
+                        ihn gebaut und vertraut wird. Wie die Freimaurer in den Staaten, wo dieser
+                        Orden verboten ist, oder wie die ersten verfolgten Christen, betrachtet ein Magyar
+                        den andern, <said id="16" mode="reported" content="speech" level="1">ein <seg id="16" type="intExpr">Wort</seg>
+            </said>, ein Handdruck, ein Blick, und man hat sich verständigt.
+                        Inniger, brüderlicher drängt man sich aneinander, <said id="4" mode="reported" content="thought" level="1">denn nur Ein <seg id="4" type="intExpr">Gedanke</seg> durchzieht alle Seelen Ungarns!</said>
+                         
+            Wie kleinlich und wie kurzsichtig erscheint bei dieser offenkundiger Stimmung
+                        die Unterdrückung eines Zeitungsblattes, des „Figyelmezö," worin einige Hochtories und vormärzliche Hofbeamte Trauerweiden um die gemordete Verfassung
+                        pflanzten! <seg id="5" type="frame" pos="start">
+               <seg id="5 17" type="speaker">Herr Paul v. Svmstch</seg> (syr. Schomschitsch), früher Hofrath, Führer
+                        der conservativen Partei in der untern Kammer des Preßburger Reichstags, einer
+                        der heftigsten Gegner Kossuth's, <seg id="5" type="intExpr">glaubte</seg>
+            </seg>
+            <said id="5" mode="indirect" content="thought" level="1">das Recht und die Erlaubniß zu haben,
+                       <said id="17"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes"> seine Ansichten, so loyal für den König, <seg id="17" type="intExpr">äußern</seg> zu dürfen.</said>
+            </said> Hapnau schickte einen
+                        Korporal, und dieser bewies dem Hofrath, <said id="7"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">daß <seg id="7" type="speaker">er</seg> nicht <seg id="7" type="intExpr">sprechen</seg> dürfe.</said> Solchen
+                        Argumenten gegenüber gibt sich Jedermann gefangen. <said id="25" mode="reported" content="speech" level="1">
+               <seg id="25" type="speaker">Somsich's</seg> 
+               <seg id="25" type="intExpr">Reden</seg>
+            </said> sind aber
+                        nur der Brei, wie er für Windelkinder zugerichtet wird, damit ihr zarter Magen
+                        die ungewohnte Speise vertrage; das Land ist geschnürt im Belagerungszustände,
+                        und die Standrechtsamme verweigert jede consistente Nahrung. Doppelt, dreifach,
+                        zehnfach würde das Martialgesetz verschärft werden, <said id="20"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">hörte man die <seg id="20" type="intExpr">Reden</seg> der
+                        echten <seg id="20" type="speaker">Magyaren</seg>
+            </said>, und das ganze Reich, von den Karpathen bis zum Hasen von
+                        Fiume besteht jetzt nrr aus Magyarischgesinnten, denn die Herren in Wien haben
+                        die Sprachverschiedenheit vergessen gemacht.
+            Leider! <seg id="10" type="frame" pos="start">leider muß <seg id="10" type="speaker">man</seg> es <seg id="10" type="intExpr">sagen</seg>,</seg>
+            <said id="10" mode="indirect" content="speech" level="1">daß die <seg id="26" type="speaker">Deutschen</seg> als die Allerersten sich
+                         
+            
+            herandrängen, um den Bedrängern Ungarns <said id="26"
+                     mode="reported"
+                     content="speech writing"
+                     level="2"
+                     nonfact="yes">ihre Mitwirkung <seg id="26" type="intExpr">anzubieten</seg>
+               </said> oder ihnen
+                        rückengekrümmt zu huldigen.</said> Die Deutschen Ungarns haben in früheren Zeiten
+                        ihre Ebenbürtigkeit gegenüber den stolzen Magyaren nicht zu wahren gewußt; sie
+                        wissen jetzt nicht die Rolle der Vermittler zu übernehmen. Die Deutschen Ungarns
+                        und Siebenbürgens haben die Verachtung wohl verdient, welche die Magyaren
+                        der vorigen Jahrhunderte den für Gewerbsprivilegien alle politische Selbstständigkeit hinopfernden Städtern zeigten; und ein großer Theil verdient die Verachtung, welche gegenwärtig den wedelnden Bürgern gezeigt wird. Nicht etwa die
+                        politischen Tendenzen der „Rebellen" oder des octroyirenden Ministeriums in Wien
+                        geben den Grund zur Parteiung, sondern ihr Benehmen im bürgerlichen Leben.
+                        Wenn 300 Pesther Bürger, und zwar nur deutsche Bürger, dem Obercommandanten Haynau ein Album überreichen, <said id="21"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  border="yes">wenn in Pesth und Preßburg Gassen mit
+                        den Namen von Generälen <seg id="21" type="intExpr">getauft</seg> werden</said>, z. B. Jellachich-Straße, wobei der
+                        Zufall so witzig ist, daß der Barmherzigenplatz in Preßburg den Namen Haynauplatz erhält; wenn die Pamphlete auf die ungarische Nation, nicht etwa auf die
+                        Führer der Revolution, blos in deutscher Sprache von deutschen Autoren erscheinen, dann gibt es hinlänglichen Grund, <said id="22" mode="reported" content="thought" level="1">an Kopf und Herz der deutschen Bürger
+                        Ungarns zu <seg id="22" type="intExpr">zweifeln</seg>
+            </said>, und ihren Schritten selbstische Zwecke unterzuschieben. Man
+                        weist mit Fingern nach ihnen, und wenn jemals wieder das Volk zu den Waffen
+                        greift, sind diese Deutschen ein Gegenstand der Rache.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

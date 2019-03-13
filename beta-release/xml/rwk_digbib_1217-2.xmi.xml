@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Andrea Delfin</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Andrea Delfin</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Ein <seg id="4" type="speaker">vierter</seg>, unmaskiert, saß an einem Tisch und <said id="4" mode="reported" content="writing" level="1">
+               <seg id="4" type="intExpr">schrieb</seg> beim Schein einer einzelnen Kerze.</said> 
+                  Er sah auf, als Samuele mit Andrea auf der Schwelle erschien. Die drei anderen schienen die Hereintretenden nicht zu beachten, <said id="1" mode="reported" content="speech" level="1">sondern <seg id="1" type="speaker">ihr</seg> 
+               <seg id="1" type="intExpr">Gespräch</seg> eifrig <seg id="1" type="intExpr">fortzusetzen</seg>. </said>
+            <said id="2" mode="direct" content="speech" level="1">Ihr bringt den Fremden, <said id="3" mode="reported" content="speech" level="2">den <seg id="3" type="speaker">Ihr</seg> uns <seg id="3" type="intExpr">angekündigt</seg> habt?</said>
+            </said>
+            <seg id="2" type="frame" pos="end">
+               <seg id="2" type="intExpr">fragte</seg> der <seg id="2 6" type="speaker">Sekretär</seg>.</seg>
+            <said id="5" mode="direct" content="speech" level="1">Ja, Euer Gnaden.</said>
+            <said id="6" mode="direct" content="speech" level="1">Ihr könnt abtreten, Samuele.</said> 
+                  Der <seg id="5" type="speaker">Jude</seg> verneigte sich gehorsam und verließ das Zimmer. 
+                  Nach einer Pause, in welcher der <seg id="13 9 17" type="speaker">Sekretär</seg> des Tribunals einige Papiere, die vor ihm lagen, überflogen und dann mit einem langen Blick die Gestalt des Fremden geprüft hatte, <seg id="7" type="frame" pos="start">
+               <seg id="7" type="intExpr">sagte</seg> 
+               <seg id="7 " type="speaker">er</seg>:</seg>
+            <said id="7" mode="direct" content="speech" level="1">Euer Name ist <seg id="11 8" type="speaker">Andrea Delfin</seg>; seid Ihr mit den venezianischen Nobili gleichen Namens verwandt?</said>
+            <said id="8" mode="direct" content="speech" level="1">
+               <said id="34"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes"
+                     prag="yes">Nicht daß <seg id="34" type="speaker">ich</seg> 
+                  <seg id="34" type="intExpr">wüßte</seg>.</said> Meine Familie ist seit Urzeiten in Brescia ansässig.</said>
+            <said id="9" mode="direct" content="speech" level="1">Ihr wohnt in der Calle della Cortesia bei Giovanna Danieli; <seg id="10" type="frame" pos="start">
+                  <seg id="10" type="speaker">Ihr</seg> 
+                  <seg id="10" type="intExpr">wünscht</seg>
+               </seg> 
+               <said id="10" mode="indirect" content="thought" level="2">in den Dienst des erlauchten Rates der Zehn zu treten.</said>
+            </said>
+            <said id="11" mode="direct" content="speech" level="1">
+               <seg id="12" type="frame" pos="start">
+                  <seg id="12" type="speaker">Ich</seg> 
+                  <seg id="12" type="intExpr">wünsche</seg>
+               </seg> 
+               <said id="12" mode="indirect" content="thought" level="2">der Republik meine Dienste zu widmen.</said>
+            </said>
+            <said id="13" mode="direct" content="speech" level="1">Eure Papiere aus Brescia sind in Ordnung. <said id="35" mode="reported" content="speech writing" level="2">Der <seg id="35" type="speaker">Advokat</seg>, bei dem Ihr fünf Jahre gearbeitet habt, <seg id="35" type="intExpr">gibt</seg> Euch das <seg id="35" type="intExpr">Zeugnis</seg> eines verständigen und zuverlässigen Mannes.</said> Nur über die sechs oder sieben Jahre, bevor Ihr zu ihm kamt, fehlt ein jeder Ausweis. Was habt Ihr, nachdem Eure Eltern gestorben waren, in der langen Zeit getrieben? Ihr habt sie nicht in Brescia zugebracht?</said>
+            <said id="15" mode="direct" content="speech" level="1">Nein, Euer Gnaden</said>
+            <seg id="15" type="frame" pos="end">, <seg id="15" type="intExpr">erwiderte</seg> 
+               <seg id="15 16 18" type="speaker">Andrea</seg> ruhig.</seg>
+            <said id="16" mode="direct" content="speech" level="1">Ich war in fremden Ländern, in Frankreich, Holland und Spanien. Nachdem ich mein geringes Erbe aufgezehrt hatte, mußte ich mich bequemen, Bedienter zu werden.</said>
+            <said id="17" mode="direct" content="speech" level="1">Eure Zeugnisse?</said>
+            <said id="18" mode="direct" content="speech" level="1">Sie sind mir entwendet worden in einem Koffer, der meine ganze Habe enthielt. Ich war dann des unsicheren Reiselebens müde und ging nach Brescia zurück. Meine Herrschaften hatten mich zu mancherlei Sekretärdiensten brauchbar gefunden. Ich versuchte es bei einem Advocaten, und Euer Gnaden haben das Zeugnis selbst vor sich, daß ich zu arbeiten gelernt habe.</said>
+            <said id="36" mode="reported" content="speech" level="1">Während <seg id="36" type="speaker">er</seg> dies <seg id="36" type="intExpr">sagte</seg>
+            </said>, in einer stillen, unterwürfigen Haltung, den Kopf etwas vorgebeugt und den Hut in beiden Händen, trat plötzlich einer der drei Herren in der Maske näher an den Tisch heran, und <seg id="20" type="speaker">Andrea</seg> fühlte einen durchdringenden Blick auf sich gerichtet. 
+                  <said id="19" mode="direct" content="speech" level="1">Wie heißt Ihr?</said>
+            <seg id="19" type="frame" pos="end">
+               <seg id="19" type="intExpr">fragte</seg> der <seg id="19 22" type="speaker">Inquisitor</seg>
+            </seg> mit einer Stimme, die ein hohes Alter verriet. 
+                  <said id="20" mode="direct" content="speech" level="1">Andrea Delfin. <said id="21" mode="reported" content="writing" level="2">Meine <seg id="21" type="speaker">Papiere</seg> 
+                  <seg id="21" type="intExpr">weisen</seg> es <seg id="21" type="intExpr">aus</seg>.</said>
+            </said>
+            <said id="22" mode="direct" content="speech" level="1">
+               <seg id="23" type="frame" pos="start">
+                  <seg id="23" type="intExpr">Bedenkt</seg>,</seg> 
+               <said id="23"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">daß es Euer Tod ist, wenn Ihr das erlauchte Tribunal hintergeht.</said> 
+               <said id="24"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">
+                  <seg id="24" type="intExpr">Erwägt</seg> die Antwort noch einmal.</said> 
+               <seg id="25" type="frame" pos="start">Wenn <seg id="25" type="speaker">ich</seg> nun <seg id="25" type="intExpr">sage</seg>,</seg> 
+               <said id="25" mode="indirect" content="speech" level="2">daß Euer Name Candiano sei?</said>
+            </said> 
+                  Eine kurze Pause folgte auf dieses Wort, man hörte den Totenwurm im Gebälk des Zimmers bohren. Acht forschende Augen waren auf den Fremden geheftet. 
+                  <said id="26" mode="direct" content="speech" level="1">Candiano?</said>
+            <seg id="26" type="frame" pos="end">
+               <seg id="26" type="intExpr">sagte</seg> 
+               <seg id="26 27" type="speaker">er</seg> langsam, doch mit fester Stimme.</seg>
+            <said id="27" mode="direct" content="speech" level="1">Warum soll ich Candiano heißen? Ich wollt' es wahrlich selbst; <seg id="29" type="frame" pos="start">denn soviel <seg id="29" type="speaker">ich</seg> 
+                  <seg id="29" type="intExpr">weiß</seg>,</seg> 
+               <said id="29"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     border="yes">ist das Haus Candiano reich und vornehm, und wer diesen Namen trägt, braucht nicht sein Brot mühsam mit der Feder zu verdienen.</said>
+            </said>
+            <said id="30" mode="direct" content="speech" level="1">Ihr habt das Gesicht eines Candiano. Euer Betragen überdies verrät eine bessere Herkunft, <said id="31" mode="reported" content="writing" level="2">als diese <seg id="31" type="speaker">Papiere</seg> 
+                  <seg id="31" type="intExpr">anzeigen</seg>.</said>
+            </said>
+            <said id="32" mode="direct" content="speech" level="1">Ich kann nichts für mein Gesicht, erlauchte Herren</said>
+            <seg id="32" type="frame" pos="end">, <seg id="32" type="intExpr">erwiderte</seg> 
+               <seg id="32 33" type="speaker">Andrea</seg> mit anständiger Unbefangenheit.</seg>
+            <said id="33" mode="direct" content="speech" level="1">Was mein Betragen angeht, so habe ich auf Reisen allerlei Sitten gesehen und die meinigen, soviel ich konnte, verbessert, auch meine Zeit in Brescia nicht verloren, sondern aus Büchern die Versäumnisse meiner Jugend nachgeholt.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

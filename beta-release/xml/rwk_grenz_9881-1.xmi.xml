@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Herrlichkeit Kniphausen und die gräflich Bentincksche Burgmilice.I.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: "Die Grenzboten" (http://brema.suub.uni-bremen.de/grenzboten, http://www.deutschestextarchiv.de/doku/textquellen#grenzboten)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Herrlichkeit Kniphausen und die gräflich Bentincksche Burgmilice.I.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>
+            <note>
+               <seg id="1" type="frame" pos="start">Ein kaiserliches <seg id="1" type="speaker">Münzprivilegium</seg> vom
+                        21. Februar 1654 <seg id="1" type="intExpr">ertheilte</seg> dem Grafen Anton I. und allen seinen Nachfolgern das <seg id="1" type="intExpr">Recht</seg>:</seg>
+                        <said id="1" mode="direct" content="writing" level="1">„Eine oder mehrere Münzstätten anordnen, bauen und aufrichten zu lassen und darin durch
+                        ihre ehrbaren Münzmeister allerlei güldene und silberne Münzsorten, klein und groß zu
+                        münzen, mit Umschriften, Bildnissen, Wappen und Geprägen auf beiden Seiten münzen
+                        und schlagen zu lassen.</said>
+                        </note>
+            
+            sich sicher unter dem Schutze nicht nur ihrer eigenen daheim gebliebenen Armee,
+                        sondern auch eines dänischen Hilfs-Korps.
+            Zu dieser Zeit residirte der regierende Graf Bentinck in Brüssel, und sein
+                        Regierungsbevollmächtigter Justizrath Wardenburg hatte sein Domicil in Oldenburg, während auf Burg Kniphausen eine Regierungs-Kanzlei, eine Finanz-Kammer, ein Landgericht und, als höchste Justizinstanz, ein Revisionsgericht
+                        ihren Sitz hatten. Von der jetzigen Arbeitsteilung hatte man damals natürlich
+                        noch keinen Begriff, Verwaltung und Justiz gingen einträchtiglich mit einander,
+                        und das Kollegium des Revisionsgerichtes dürfte wohl mit dem des Landgerichtes identisch gewesen sein.
+            Da die Burg Kniphausen als Festung galt, so durfte bei den unruhigen
+                        Kriegsläuften die Besatzung um so weniger fehlen, als sich der Graf, wie bereits oben angedeutet, von seiner geschiedenen Gemahlin, die in unbequemer
+                        Nachbarschaft zu Jever residirte, nichts Gutes versah. Zu diesem Zwecke hielt
+                        man auf Kniphausen eine eigene Truppe, die sogenannte Burg-Milice, welche
+                        seit dem Jahre 1756 durch ein dänisches Kommando, 1 Offizier, 1 Unteroffizier und 12 Mann, verstärkt worden war.
+            <said id="9" mode="reported" content="writing" level="1">Was es zunächst mit dieser dänischen Besatzung für eine Bewandniß hatte,
+                        geht aus einem <seg id="9" type="intExpr">Schreiben</seg> des <seg id="9 2" type="speaker">Justizraths Wardenburg</seg> an den regierenden
+                        Grafen Bentinck vom 18. Februar 1763 hervor.</said>
+            <seg id="2" type="frame" pos="start">Darin <seg id="2" type="intExpr">heißt</seg> es wörtlich:</seg>
+            <said id="2" mode="direct" content="writing" level="1">„So lange die Frau Gräfin sich zu Jever aufhalten, welches wie es scheint
+                        bis zum Absterben Ihrer Hochgräflichen Durchlaucht (jedenfalls Prinzessin von
+                        Anhalt-Zerbst) zum wenigsten dauern wird, müssen Euer Hochgräfliche Exellenz
+                        das Königlich Dänische Kommando zu Kniephausen, wegen eines etwa zu besorgenden Ueberfalls, mit großen, jährlich an die 1500 Thaler steigenden Kosten,
+                        unterhalten. Es könnte aber diese jährliche Ausgabe erspart werden, wenn
+                        Mittel und Wege ausfindig zu machen wären, welche die Frau Gräfin determiniren müßten, Ihren dasigen Aufenthalt zu verändern, und falls dies auf
+                        irgend eine Art zuverlässig bewerkstelligt werden könnte, müßte meines unter thänigen Ermessens 100 Pistolen und allenfalls mehr, gar nicht geachtet
+                        werden. Solchergestalt könnte das ganze zu Kniephausen liegende Kommando
+                        abgehen, und es brauchte nur an dessen statt, wenn ja alsdann noch etwas zu
+                        besorgen wäre, etwa einige Gemeine zur Kniphausenschen Burgmilice angeworben werden, welches sodann mit geringeren Kosten geschehen könnte. Zu
+                        geschweigen, daß man durch die Entfernung der Frau Gräfin vielerlei Chikanen
+                        und Intriguen überhoben sein würde!"</said>
+                         
+            Nach <said id="10" mode="reported" content="writing" level="1">einem <seg id="10" type="intExpr">Memoire</seg> der <seg id="10 4 11 6 8" type="speaker">Kanzleiverordneten zu Kniphausen</seg>
+            </said>
+            <said id="4" mode="reported" content="thought" level="1">wird <said id="11" mode="reported" content="writing" level="2">die
+                        vorstehend in Anregung gebrachte <seg id="11" type="intExpr">Frage</seg> wegen Entlassung des dänischen
+                        Kommandos</said> nochmals eingehend und unter Berücksichtigung aller politischen
+                         
+            
+            Eventualitäten in Erwägung gezogen.</said>
+            <seg id="6" type="frame" pos="start">Zunächst wird <seg id="6" type="intExpr">hervorgehoben</seg>,</seg>
+            <said id="6" mode="indirect" content="writing" level="1">
+               <said id="7" mode="indirect" content="writing" level="2">daß zwar</said>
+                        <seg id="7" type="frame" pos="mid">nach den öffentlichen <seg id="7" type="intExpr">Nachrichten</seg>
+               </seg> 
+               <said id="7" mode="indirect" content="writing" level="2">der allgemeine Friede wieder hergestellt und
+                        daher ein Ueberfall von fremden Truppen kaum zu besorgen sei</said>, dagegen
+                        biete die Nähe der Gräfin bei ihrem bekannten unruhigen Charakter doch
+                        immerhin noch einige Sorgen.</said>
+            <said id="8" mode="indirect freeIndirect" content="writing" level="1">Ein Mal liege doch die Möglichkeit, wenn
+                        auch keine Wahrscheinlichkeit vor, daß die Frau Gräfin ohne Mitwirkung
+                        eines benachbarten Hofes aus eigener Initiative eine Truppe leichtsinniger
+                        Leute zusammenraffe und die Burg angreife.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

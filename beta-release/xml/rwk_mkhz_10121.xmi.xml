@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Colonisationsprojekt von Santa Cruz in der Provinz Rio Grande do Sul in Brasilien</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Colonisationsprojekt von Santa Cruz in der Provinz Rio Grande do Sul in Brasilien</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Colonisationsprojekt von Santa Cruz in der Provinz
+                        Rio Grande do Sul in Brasilien.
+                        
+            
+            
+               
+                  
+                     *
+                  <said id="2"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">Die <seg id="2" type="speaker">Leser</seg> werden unter den „Anzeigen“ der heutigen Nummer eine
+                        auf obigen Gegenstand bezügliche <seg id="2" type="intExpr">bemerken</seg>.</said>
+            <seg id="9" type="speaker">Wir</seg> sind noch nicht in den
+                        Stand gesetzt, <said id="9" mode="reported" content="speech" level="1">ein motivirtes Urtheil über das Colonisationsprojekt von
+                        Santa Cruz zu <seg id="9" type="intExpr">geben</seg>
+            </said>, und sehen zu dem Ende mit Ungeduld der von
+                        dem Unternehmer, P. Kleudgen, in Aussicht gestellten Broschüre über
+                        die nähern Verhältnisse entgegen. <seg id="3" type="frame" pos="start">Für heute müssen <seg id="3" type="speaker">wir</seg> uns darauf
+                        beschränken, <seg id="3" type="intExpr">mitzutheilen</seg>,</seg>
+            <said id="3" mode="indirect" content="writing" level="1">
+               <said id="4" mode="reported" content="writing" level="2">daß bereits in <seg id="4" type="speaker">Nr. 25. unseres Blattes</seg> in einer
+                        Correspondenz aus Rio de Janeiro dieses Projektes <seg id="4" type="intExpr">Erwähnung</seg> gethan
+                        wurde</said>, daß wir in der „ Revista Commercial“ von Santos vom 9. Febr.
+                        einen Abdruck des zwischen der Provinzialregierung von Rio Grande do
+                        Sul und Herrn Kleudgen abgeschlossenen Vertrags gefunden haben, daß
+                        diesem zufolge die Legitimation des Hrn. Kleudgen unzweifelhaft erscheint,
+                        daß das ganze Project einmal auf Bewilligung von Land= und Einrichtungsgegenständen Seitens der Provinzialregierung an die deutschen Einwanderer, von denen binnen 2 Jahren 2000 hinübergebracht sein müssen,
+                        und andererseits auf Gratificationen beruht, die dem Unternehmer für jede
+                        Person ausgezahlt werden.</said> Wie hoch die letzten sind, ist nicht ersichtlich.
+                        <seg id="5" type="frame" pos="start">Ebenso sind <seg id="5" type="speaker">wir</seg> über die klimatischen und landwirthschaftlichen Verhältnisse
+                        von Santa Cruz noch durchaus im Dunkeln und können darüber nur im
+                        Allgemeinen <seg id="5" type="intExpr">andeuten</seg>,</seg>
+            <said id="5" mode="indirect" content="writing" level="1">daß die Provinz Rio Grande die südlichst gelegene
+                        Brasiliens ist, und daß Santa Cruz in dem nach dem atlantischen Ocean,
+                        oder richtiger nach dem Dos Patos see ausmündenden Gebiete des Jacuy
+                         und Pardo flusses liegt.</said>
+            <said id="10"
+                  mode="indirect"
+                  content="writing"
+                  level="1"
+                  nonfact="yes">Was etwa weiter noch aus dem gedruckten Prospekte des Hrn. Kleudgen ersichtlich ist</said>
+            <seg id="10" type="frame" pos="end">, unterlassen <seg id="10" type="speaker">wir</seg> lieber <seg id="10" type="intExpr">anzugeben</seg>
+            </seg>,
+                        <seg id="6" type="frame" pos="start">bis <seg id="6" type="speaker">uns</seg> über die einzelnen Verhältnisse näherer Aufschluß geworden, und
+                        <seg id="6" type="intExpr">bemerken</seg> noch,</seg>
+            <said id="6" mode="indirect" content="writing" level="1">daß wenn in sofern zwischen diesem Unternehmen und
+                        dem vielfach besprochenen des Hrn. Rodulfo von Lima einige Verwandtschaft ist, als beide Herren ein unmittelbares pekuniäres Jnteresse bei
+                        der Anwerbung der Auswanderungslustigen haben, doch darin ein wesentlicher Unterschied begründet sein dürfte, daß es in Peru nur auf Anwerbung von Arbeitern abgesehen war, während den nach Santa Cruz
+                         Anzuwerbenden eine Schenkung von Land ( 60,000 rheinländische
+                        Quadratruthen für jeden Familienvater, jeden ledigen Mann, der sich verheirathen will, und jede Wittwe mit arbeitsfähigen Söhnen und Töchtern )
+                        Seitens der Regierung zugesichert ist.</said>
+            <said id="11" mode="reported" content="writing" level="1">
+               <seg id="11" type="intExpr">Warnen</seg> müssen <seg id="11" type="speaker">wir</seg> schließlich
+                        noch alle Unbemittelten vor einer Auswanderung nach Rio
+                        Grande ohne Attest des Hrn. Kleudgen</said>, da sie entweder gar
+                        nicht angenommen, <said id="8"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">oder Caution für sie <seg id="8" type="intExpr">gefordert</seg> werden würde.
+ </said>
+         </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Landtagsverhandlungen. Deutschland. England.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Landtagsverhandlungen. Deutschland. England.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.bayerische</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+(CXXVII.Sitzung
+                        der Kammer der Abgeordneten.) Die
+                        Gallerien sind dicht besetzt. Am Ministertische:
+                        Staatsminister v. d. Pfordten, v. Lüder, v. Ringelmann. <said id="1" mode="reported" content="speech" level="1">Der erste <seg id="1 2 3" type="speaker">Präsident</seg> 
+               <seg id="1" type="intExpr">eröffnet</seg> um halb 10
+                        Uhr die Sitzung.</said>
+            <said id="2" mode="reported" content="speech" level="1">Nach <seg id="2" type="intExpr">Bekanntgabe</seg> des letzten
+                        Sitzungsprotokolls</said>
+            <said id="3" mode="reported" content="speech" level="1">wird der Gesammtbeschluß über
+                        den Gesetzentwurf, den Wildschaden = Ersatz betr.,
+                        <seg id="3" type="intExpr">verlesen</seg>.</said>
+            <said id="4" mode="reported" content="speech" level="1">Nachdem Referent<seg id="4" type="speaker">Hirschberger</seg>über
+                        den Gesetzentwurf: die Einrichtung der Kunststraßen im Königreich Bayern befahrenden Fuhrwerkes
+                        betreffend, Vortrag <seg id="4" type="intExpr">erstattet</seg>
+            </said>, <said id="5" mode="reported" content="speech" level="1">wird die <seg id="5" type="intExpr">Berathung</seg>
+                        über den Vortrag des Ausschusses für die deutsche
+                        Frage sortgesetzt.</said>
+            <seg id="6" type="speaker">Lassaulx</seg>betritt die Rednerbühne und <said id="6" mode="reported" content="speech" level="1">bearbeitet den, <seg id="47" type="frame" pos="start">wie <seg id="47 53" type="speaker">Redner</seg> 
+                  <seg id="47" type="intExpr">sich</seg> 
+                  <seg id="47" type="intExpr">ausdrückt</seg>,</seg> 
+               <said id="47" mode="indirect" content="speech" level="2">
+                  <said id="48" mode="reported" content="speech" level="3">verkehrten <seg id="48" type="intExpr">Antrag</seg> der <seg id="48 35" type="speaker">Linken</seg>.</said>
+               </said>
+            </said>
+            <said id="53" mode="indirect freeIndirect" content="speech" level="1">
+               <said id="35" mode="reported" content="speech" level="2">Dieser <seg id="35" type="intExpr">Antrag</seg>
+               </said> sei ein Akt der Rache, wie in einer frühern
+                        Sitzung ein ähnlicher sei durchgeführt worden.
+                        <seg id="8" type="frame" pos="start">Abgeordnete <seg id="8" type="speaker">Stöcker</seg> habe dabe damals in seiner
+                        gewohnten Gradheit <seg id="8" type="intExpr">gesagt</seg>:</seg> 
+               <said id="8" mode="direct" content="speech" level="2">„weil Jhr <said id="37" mode="reported" content="speech" level="3">
+                     <seg id="37" type="speaker">unsere</seg>
+                        <seg id="37" type="intExpr">Abänderungsvorschläge</seg>
+                  </said> nicht angenommen habt,
+                        
+                     so nehmen wir Euere Lehensabänderungen auch
+                        nicht an.“</said>
+            </said>
+            <said id="9" mode="reported" content="speech" level="1">Jn bewunderungswürdiger Naivität
+                        hat auf feindiplomatische Weise <seg id="9" type="speaker">Herr Fürst Wallerstein</seg> diese Sache <seg id="9" type="intExpr">vertreten</seg>.</said>
+            <said id="55" mode="indirect freeIndirect" content="speech" level="1">
+               <said id="10"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">
+                  <said id="40" mode="reported" content="speech" level="3">Dem <seg id="40" type="intExpr">Antrage</seg> 
+                     <seg id="40" type="speaker">Heine</seg>'s</said>
+                        würde <seg id="55 10 11" type="speaker">Redner</seg> am ehesten beizustimmen <seg id="10" type="intExpr">gesonnen</seg> sein</said>, wenn es nicht Beleidigung für Oesterreich wäre, <said id="11"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">das zu <seg id="11" type="intExpr">wiederholen</seg>, <said id="12" mode="reported" content="speech" level="3">was <seg id="12" type="speaker">Oesterreich</seg>
+                        schon lange <seg id="12" type="intExpr">versprochen</seg> hat.</said>
+               </said>
+            </said>
+            <said id="13" mode="reported" content="speech" level="1">
+               <seg id="13 51" type="speaker">Redner</seg> 
+               <seg id="13" type="intExpr">beleuchtet</seg>
+                        nun Deutschland, wie es seit der Verpflanzung
+                        der politischen Kartoffelkrankheit von Frankreich
+                        nach Deutschland aussähe</said>, <said id="51" mode="reported" content="speech" level="1">und hält eine ungeheure <seg id="51" type="intExpr">Lodrede</seg> auf den edlen und ritterlichen Sinn
+                        des Beherrschers aller Reußen.</said>
+            <said id="15" mode="indirect" content="speech" level="1">Wer habe Oesterreich gerettet,</said>
+            <seg id="15" type="frame" pos="mid">
+               <seg id="15" type="intExpr">fragt</seg> 
+               <seg id="15" type="speaker">Redner</seg>,</seg>
+            <said id="15" mode="indirect" content="speech" level="1"> als es in Jtalien
+                        einem empörerischen Könige gegenüber stand, als
+                        sich die ungarischen Magnaten gegen ihren rechtmäßigen Herrscher aufgelehnt und als die Revolutionen in den Thoren Wiens wütheten?</said> Wer
+                        anders alt der edle biedere Sinn eines Reußen?
+                        <said id="16"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Kein <seg id="16" type="speaker">Deutscher</seg> 
+               <seg id="16" type="intExpr">sprach</seg> ein Wort für die harte
+                        Bedrängniß des jungen Kaisers.</said>
+            <seg id="18" type="frame" pos="start">
+               <said id="17" mode="indirect" content="speech" level="1">
+                  <seg id="18" type="speaker">Man</seg> 
+                  <seg id="18" type="intExpr">sage</seg>
+               </said>
+            </seg>
+            <seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">bemerkt</seg> der <seg id="17" type="speaker">Redner</seg>,</seg>
+            <said id="17" mode="indirect" content="speech" level="1">
+               <said id="18" mode="indirect" content="speech" level="2">wir brauchen keine Slaven,
+                        keine Ungarn, keine Tschechen, deshalb könne man
+                        sich auch nicht an Oesterrelch anschließen.</said>
+            </said> Wenn
+                        dies politische Klugheit ist, dann gibt es keine
+                        politische Thorheit. Wenn die Engländer oder
+                        Franzosen ihre Macht durch Gewinnung einer andern, wenn auch kleinern, Macht vergrößern können und <seg id="19" type="frame" pos="start">
+               <seg id="19" type="speaker">man</seg> würde ihnen <seg id="19" type="intExpr">bemerken</seg>,</seg>
+            <said id="19" mode="indirect" content="speech" level="1">diese Macht
+                        sei ja nicht engländisch, nicht französisch</said>, so würde
+                        der Engländer dem Bemerkenden ins Gesicht lachen -- nein! er würde ihn durch seinen Bedienten auslachen lassen, ( ungeheures Gelächter im
+                        Saale und den Gallerien ) , er würde noch mehr
+                        thun, er würde es machen wie der Löwe in Don
+                        Quixote, der dem Junker seine verkehrte Fronte
+                        zeigte. ( Ungeheures Gelächter, untermengt mit
+                        dem Rufe <said id="20" mode="direct" content="speech" level="1">„Pfui! Pfui!“</said> ) --<seg id="21" type="frame" pos="start">I. <seg id="21" type="speaker">Präsident</seg> 
+               <seg id="21" type="intExpr">bemerkt</seg>,</seg>
+            <said id="21" mode="indirect" content="speech" level="1">daß <said id="41"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">die <seg id="41" type="intExpr">Rede</seg> in diesem Saale</said> frei sei;
+                        je größer die Jdee, desto größer diese Freiheit;
+                        <said id="46"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">die Grenze zwischen Jdee u. Rohheit müsse übrigens die politische <seg id="46" type="speaker">Vernunft</seg> 
+                  <seg id="46" type="intExpr">scheiden</seg>.</said>
+            </said> ( <said id="42" mode="reported" content="speech" level="1">
+               <seg id="42" type="speaker">Mehrseitiges</seg>
+                        <seg id="42" type="intExpr">Bravo</seg>.</said> ) -- <said id="23" mode="reported" content="speech" level="1">
+               <seg id="23" type="speaker">Lassaulx</seg> 
+               <seg id="23" type="intExpr">erklärt</seg> es für übelangewendete
+                        Zimperlichkeit, <said id="24"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">etwas in einer Versammlung von Männernnicht zu <seg id="24" type="intExpr">sagen</seg>, <said id="25" mode="reported" content="speech" level="3">was der große Dichter <seg id="25" type="speaker">Cervantes</seg>
+                        <seg id="25" type="intExpr">sagte</seg>.</said>
+               </said>
+            </said>
+            <said id="26" mode="reported" content="speech" level="1">Nach noch einigen <seg id="26" type="intExpr">Bemerkungen</seg>
+            </said> verläßt
+                        der <seg id="26" type="speaker">Redner</seg> die Rednerbühne, <said id="27" mode="reported" content="speech" level="1">und<seg id="27 54" type="speaker">Reinhart</seg>
+                        ergreift das <seg id="27" type="intExpr">Wort</seg>.</said>
+            <said id="54" mode="indirect freeIndirect" content="speech" level="1">
+               <said id="45" mode="reported" content="thought" level="2">
+                  <seg id="45" type="speaker">Dieser</seg> 
+                  <seg id="45" type="intExpr">glaubt</seg> freilich durch
+                        <said id="52" mode="reported" content="speech" level="3">
+                     <seg id="52" type="speaker">seine</seg> 
+                     <seg id="52" type="intExpr">Rede</seg>
+                  </said> die Einheit Deutschlands und dessen
+                        Glück nicht herbeiführen zu können</said>, <said id="44"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">allein doch
+                        habe <seg id="44" type="speaker">er</seg> Mehreres <seg id="44" type="intExpr">anzuführen</seg>.</said>
+            </said>
+            <said id="30"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">Als <seg id="30" type="speaker">derselbe</seg> nun
+                        von Eidbruch eines Regenten <seg id="30" type="intExpr">sprechen</seg> wollte</said>, <seg id="31" type="frame" pos="start">
+               <seg id="31" type="intExpr">bemerkt</seg> 
+               <seg id="31" type="speaker">Staatsminister v. d.Pfordten</seg>,</seg>
+            <said id="31" mode="indirect" content="speech" level="1">daß die
+                        Regierung <said id="32" mode="reported" content="speech" level="2">allen <seg id="32" type="intExpr">Discussionen</seg> der <seg id="32" type="speaker">hohen Kammer</seg>
+               </said>
+                        beiwohne; wenn aber die Rücksichten, die der
+                        Staat dem Staate, die Kammer der Kammer
+                        schuldig sei, nicht mehr eingehalten würden, so
+                        könnte sie der Verhandlung nicht mehr beiwohnen.</said>
+         </p>
+      </body>
+   </text>
+</TEI>

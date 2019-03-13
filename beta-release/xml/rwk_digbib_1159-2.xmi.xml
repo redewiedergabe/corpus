@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Glücksritter</title>
+             <author>Eichendorff, Joseph von</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Die Glücksritter</f>
+         <f name="author">Eichendorff, Joseph von</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  – <seg id="2" type="frame" pos="start">
+               <seg id="2 1 3" type="speaker">Klarinett</seg>, <said id="1" mode="reported" content="speech" level="1">mit
+                                                  zierlichen <seg id="1" type="intExpr">Reden</seg> den verursachten Schreck
+                                                  entschuldigend</said>, <seg id="2" type="intExpr">erzählte</seg> nun,</seg>
+            <said id="2" mode="indirect" content="speech" level="1">sie seien fremde
+                                                  Kavaliere, die vom Westfälischen Frieden nach
+                                                  ihren Herrschaften reisend, in jenem Wald von
+                                                  Räubern überfallen worden, Haushofmeister,
+                                                  Kutscher, Leibhusar, alles sei erschossen; und da
+                                                  das Fräulein auf <seg id="3" type="frame" pos="start">die <seg id="3" type="intExpr">Frage</seg>:</seg> 
+               <said id="3" mode="indirect" content="speech" level="2">ob sie in Tztschneß
+                                                  hinter Tzquali in Mingrelim bekannt?</said>
+                                                  mit dem Kopf schüttelte, bedauerte
+                                                  er das sehr, denn gerade von dort seien sie
+                                                  her.</said>
+                                                  
+                                                  
+                                                  Suppius stürzte ein Glas Ungarwein
+                                                  so eilig aus, daß er sich den gestickten Zipfel
+                                                  seiner Halsbinde begoß; es war, als hätte
+                                                  Klarinett mit <said id="4" mode="reported" content="speech" level="1">
+               <seg id="4" type="speaker">seinen</seg> 
+               <seg id="4" type="intExpr">Lügen</seg>
+            </said> ihn plötzlich in einen
+                                                  Strom gestoßen, nun mußte er mit durch, oder
+                                                  schmählich vor den Augen der Dame untergehn.
+                                                  Dabei sah er oft das Fräulein
+                                                  bedenklich von der Seite an, <said id="8" mode="reported" content="thought" level="1">sie <seg id="8" type="intExpr">kam</seg> 
+               <seg id="8" type="speaker">ihm</seg> schon
+                                                  wieder auf ein Haar wie seine entführte Geliebte
+                                                  <seg id="8" type="intExpr">vor</seg>
+            </said>, aber er traute sich doch nicht recht, er
+                                                  hatte seine Liebste so selten und immer nur
+                                                  flüchtig am Fenster hinter den Blumen gesehen; so
+                                                  wurde <seg id="9" type="speaker">er</seg> ganz konfus und wagte es nicht, <said id="9"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">von der
+                                                  Entführung zu <seg id="9" type="intExpr">reden</seg>.</said>
+            <said id="10" mode="reported" content="speech" level="1">Und als <seg id="10" type="speaker">er</seg> darauf dennoch mit
+                                                  großer Feinheit die Sommerkühle der vergangenen
+                                                  Nacht <seg id="10" type="intExpr">pries</seg>
+            </said>, gelegentlich einen Seitenblick über
+                                                  jenes mondbeschienene Städtchen warf, und endlich
+                                                  leise über den Marktplatz am steinernen Brunnen
+                                                  vorbei zu dem Wirtshaus kam, auf das Fenster
+                                                  zielend, wo ihnen damals der lieblichste Stern
+                                                  erschienen: <seg id="6" type="frame" pos="start">sah die <seg id="6" type="speaker">Dame</seg> ihn befremdet an und
+                                                  <seg id="6" type="intExpr">wußte</seg> durchaus nicht,</seg>
+            <said id="6"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was er wollte.</said>
+                                                  Aber Suppius war einmal im Zuge
+                                                  ausbündiger Galanterie.
+                                                  <said id="7" mode="direct" content="speech" level="1">»Was frag ich noch nach Sternen!«</said>
+            <seg id="7" type="frame" pos="mid">
+               <seg id="7" type="intExpr">rief</seg> 
+               <seg id="7" type="speaker">er</seg> 
+               <seg id="7" type="intExpr">aus</seg>,</seg>
+            <said id="7" mode="direct" content="speech" level="1">»flogen wir doch auf vergoldeten
+                                                  Rädern Fortunas aus Nacht zu Aurora, daß ich vor
+                                                  Blendung noch nicht aufzublicken vermag.«</said> – Da
+                                                  schlug das Fräulein mit einem angenehmen Lächeln
+                                                  die schönen Augen nieder, Suppius, entzückt, griff
+                                                  hastig nach ihren Fingerspitzen um sie zu küssen,
+                                                  warf aber dabei mit dem breiten Aufschlag seines
+                                                  Ärmels dem silbernen Cupido die Pomeranze aus der
+                                                  Hand, und wie er sie haschen wollte, verwickelte
+                                                  er sich mit Sporen und Degenspitze unversehens ins
+                                                  Tischtuch, alle Gläser stießen auf einmal klirrend
+                                                  an, als wollten sie seine Gesundheit ausbringen,
+                                                  der Cupido stürzte und riß einen Weinkrug mit, das
+                                                  Hündchen bellte, der Pfau draußen schrie.
+                                                  Euphrosine aber mit flüchtigem
+                                                  Erröten stand rasch auf, die Tafel aufhebend,
+                                                  indem sie dem Klarinett ihren Arm reichte.
+                                                  
+                                                  
+                                                  Sie traten vor die Saaltür auf die
+                                                  Terrasse, von der eine breite Marmortreppe nach
+                                                  dem Garten führte.
+                                                  Eine Eidechse, als sie herauskamen,
+                                                  fuhr erschrocken zwischen die Ritzen der Stufen,
+                                                  aus denen überall das Gras hervordrang, seitwärts
+                                                  stand ein alter Feldstuhl, eine Zither lehnte
+                                                  daran.
+                                                  Als <seg id="11" type="speaker">Suppius</seg>, <said id="11" mode="reported" content="speech" level="1">der noch immer den
+                                                  Aufruhr an der Tafel mit seinen weiten
+                                                  Alamodeärmeln ausführlich zu <seg id="11" type="intExpr">entschuldigen</seg>
+                                                  beflissen war</said>, das Instrument erblickte, stockt'
+                                                  er auf einmal und entfernte sich schnell wie
+                                                  einer, der plötzlich einen guten Einfall hat.
+                                                  Das Fräulein aber ließ sich in der
+                                                  Tür auf dem Feldstuhl nieder, Klarinett, die
+                                                  Zither auf den Knien prüfend und stimmend, setzte
+                                                  sich auf die Stufen zu ihren Füßen, daß der Pfau
+                                                  von dem steinernen Geländer ihm mit seinem
+                                                  schlanken Hals über die Schulter sah.
+                                                  Draußen aber war es
+                                                  unterdes kühl geworden, der ganze Garten stand
+                                                  tief in Abendrot, während die Täler schon
+                                                  dunkelten, auch der Pfau steckte jetzt den Kopf
+                                                  unter die Flügel zum Schlaf, die Luft kam über den
+                                                  Garten und brachte den Schall einer Abendglocke
+                                                  aus weiter Ferne.
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                          </p>
+      </body>
+   </text>
+</TEI>

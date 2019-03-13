@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Wer hat unsern botanischen Garten zu einer Zierde Melbourne's geschaffen? Ein Deutscher.
+            Wem übergeben jetzt die wohlhabenden englischen Kolonisten ihre
+                        Töchter zur Erziehung und wissenschaftlichen Ausbildung? Einem deutschen
+                        Lehrer und Seelsorger. ( Hiermit ist jedenfalls das Jnstitut des Professors
+                        Damm und seiner Frau gemeint. )
+                         
+            Der Handel, welchen die Deutschen betreiben, ist zwar nicht bedeutend,
+                        jedoch genießen mehrere deutsche Handelsfirmen, z. B. Otto Neuhauß,
+                        Gebrüder Frank, Amsberg und noch einige Andere, das Vertrauen der
+                        englischen Banken in eben solchem Maß, wie die ersten Handelshäuser
+                        Englands.
+            Deutsche waren ferner die Ersten in unserer Provinz, <said id="6" mode="reported" content="speech" level="1">
+               <seg id="6" type="speaker">welche</seg> die freiwillige Aufstellung einer Landmacht <seg id="6" type="intExpr">anregten</seg>
+            </said> und mit den militärischen
+                        Kenntnissen, welche die Meisten besaßen, auch dieser Sache einen baldigen
+                        Aufschwung gaben.
+            Kann man es den gebildeten englischen Kolonisten verdenken, wenn sie
+                        ihre freie Zeit in dem Kreise der <seg id="2" type="speaker">Männer</seg> zubringen, welche den deutschen
+                        Verein bilden, respektive repräsentiren? <said id="2" mode="reported" content="speech" level="1">Vorherrschend ist in demselben eine
+                        geistreiche <seg id="2" type="intExpr">Unterhaltung</seg> in deutscher und englischer Sprache</said>, <said id="3" mode="reported" content="speech" level="1">welche durch
+                        die <seg id="3" type="intExpr">Vorträge</seg> wissenschaftlich gebildeter <seg id="3" type="speaker">Mitglieder</seg> gewürzt wird.</said>
+            Wir dürfen es den Deutschen zugestehen, und der gebildete Engländer
+                        erkennt es auch an, daß die Deutschen zum Aufblühen der Kolonie in allen
+                        Zweigen nicht allein thätig mitgeholfen haben, sondern uns häufig mit
+                        guten Beispielen zur Nacheiferung vorangegangen sind.
+            <said id="7" mode="indirect" content="speech" level="1">Daß uns Deutschland auch Kolonisten geliefert hat, welche gegen die
+                        bestehenden Gesetze gefehlt und deßhalb Strafen zu verbüßen haben</said>
+            <seg id="7" type="frame" pos="end">, ist
+                        nicht zu <seg id="7" type="intExpr">leugnen</seg>.</seg> Wir müssen aber dabei die Vortheile nicht aus den
+                        Augen lassen, welche uns diese Nation gebracht hat. Allein werfen wir
+                        nur einen Blick auf die statistischen Tabellen der Strafanstalten, so sehen
+                        wir leider, daß im Verhältniß zu der Volkszahl unseres Kontingents die
+                        Zahl unserer Verbrecher die der Deutschen um das Sechsfache übersteigt.
+             
+            Die Deutschen in ihrem Vaterlande können in Wahrheit stolz sein auf
+                        ihre Landsleute jenseits des stillen Meeres, um so mehr, <seg id="5" type="frame" pos="start">wenn <seg id="5" type="speaker">sie</seg> 
+               <seg id="5" type="intExpr">bedenken</seg>,</seg>
+            <said id="5"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß diese Anerkennung von einem Engländer ausgeht, also von einer
+                        Nation, welche bekanntlich soust alles Gute für sich allein in Anspruch nimmt.</said>
+            Mehrere von den Mitgliedern des Vereins haben aber, ehe sie zu der
+                        Stufe gelangten, das kolonielle Leben mit all' seinen trüben Erfahrungen
+                        bis auf die Hefe kennen gelernt, und Keiner gründlicher als der geachtete
+                        Professor und frühere katholische Geistliche, Damm aus Baden. Derselbe
+                        gehörte zu den Flüchtlingen, welche Baden der Revolution halber verlassen
+                        mußten.
+            Von der Schweiz ging er zuerst durch Frankreich nach England, da es
+                        ihm aber dort nicht gelingen wollte des bedeutenden Andrangs von politischen Flüchtlingen halber, eine dauernde, passende Stellung zu erhalten,
+                        so schiffte er sich mit seinen wenigen Mitteln nach Australien ein. Aber
+                        zu jener Zeit konnten daselbst nur physische Kräfte verwerthet werden;
+                        deßhalb blieb diesem Gelehrten nichts weiter übrig, nachdem seine Mittel
+                        verzehrt waren, als die lohnendste Arbeit, Steine klopfen am Wege, zu
+                        betreiben. Jedoch nur so lange setzte er die Arbeit fort, <seg id="8" type="frame" pos="start">bis <seg id="8" type="speaker">er</seg> mit seinen
+                        kleinen Ersparnissen die Wanderung nach den Goldfeldern antreten konnte,
+                        erhielt aber unterwegs das <seg id="8" type="intExpr">Anerbieten</seg>, </seg>
+            <said id="8" mode="indirect" content="speech" level="1">als Koch auf einer bedeutenden
+                        Schafstation placirt zu werden.</said> Die Arbeit war allerdings bequem,
+                        aber nicht so lohnend; er hatte die Küche für vier Schäfer zu besorgen, und gegen Abend mußte er die Hürden für die Schafe aufschlagen.
+                        Er nahm aber dennoch die Stelle an und avancirte sogar zum wirklichen
+                        Schäfer.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Mannheimer Korpus Historischer Zeitungen und Zeitschriften (https://repos.ids-mannheim.de/mkhz-beschreibung.html, http://www.deutschestextarchiv.de/doku/textquellen#mkhz) </bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Frankreich.
+                        
+            
+            
+               MParis 7. December. <seg id="1" type="frame" pos="start">
+               <seg id="1" type="speaker">Sie</seg> werden sich noch <seg id="1" type="intExpr">erinnern</seg>,</seg>
+            <said id="1"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">daß
+                        am 1. März <said id="28" mode="reported" content="writing" level="2">durch <seg id="28" type="intExpr">Verordnung</seg> der provisorischen <seg id="28" type="speaker">Regierung</seg>
+               </said> eine
+                        Commission zur Vertheilung von Nationalbelohnungen eingesetzt
+                        wurde.</said> Diese <seg id="29" type="speaker">Commission</seg>, die sich erst am 5. Mai definitiv organisirte, hatte die vielen bei ihr eingelaufenen Bittschriften verarbeitet und<said id="29" mode="reported" content="speech" level="1"> von 7804 eingereichten Gesuchen 5018 am 1. September für der Berücksichtigung werth <seg id="29" type="intExpr">erklärt</seg>.</said> Auf die allgemeinen
+                        Nachweisungen der Commission hin legte nun der damalige Minister des JnnernSenardder Kammer am 19. September
+                        einen Gesetzentwurf über die Nationalbelohnungen vor und <said id="30" mode="reported" content="speech writing" level="1">das
+                        <seg id="30" type="speaker">Comitéder Kammer</seg> 
+               <seg id="30" type="intExpr">verlangte</seg> behufs der Prüfung dieses Projectes die Vorlage aller Vorarbeiten</said>, besonders die Namensverzeichnisse, welche sich noch in den Händen der am 1. März niedergesetzten Commission befanden. <said id="14" mode="reported" content="speech" level="1">Die Actenstücke wurden dem Comitévon dem Minister des Jnnern Dufaure <seg id="14" type="intExpr">mitgetheilt</seg>.</said>
+            So weit war Alles in der Ordnung, von nun an aber beginnt der Scandal und zwar ein unerhörter Scandal. <seg id="31" type="frame" pos="start">
+               <seg id="31" type="intExpr">Wissen</seg>
+                        <seg id="31" type="speaker">Sie</seg>,</seg>
+            <said id="31"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">wer von dieser Commission ganz besonders mit Pensionen
+                        bedacht worden ist?</said> -- Die Verwandten Fieschi's, die Wittwe
+                        und die Kinder Pepins, die Verwandten Morey's, die Schwester
+                        Alibauds, die Schwester Lecomte's, die Verwandten und Mitschuldigen von Darmés und noch einige andere Jndividuen desselben Schlages, deren ganzes Verdienst darin besteht, daß sie auf
+                        Louis Philipp, auf die Herzoge von Orleans, Nemours und
+                        Aumale Mordversuche machten, außerdem erhält noch eine Menge
+                        anderer Kerle, die wegen Diebstahls, verbrecherischer ( nicht politischer ) Verbindungen und Angriffe auf die Sittlichkeit<said id="16" mode="reported" content="speech" level="1"> zu infamirenden Strafen <seg id="16" type="intExpr">verurtheilt</seg> worden waren</said>, Pensionen und
+                        Nationalbelohnungen! Neben diesem Gesindel paradiren, ebenfalls als Empfänger von Nationalbelohnungen, die Herren Marrast, Flocon, Recurt, Altaroche u. s. w. Die Sensation, welche
+                        <said id="17" mode="reported" content="speech" level="1">diese <seg id="17" type="intExpr">Kunde</seg>
+            </said> bei der Nationalversammlung und unter dem Publicum
+                        hervorbrachte, war eine ungeheure, und <said id="18" mode="reported" content="speech" level="1">die <seg id="18" type="speaker">Regierung</seg> versuchte es
+                        in aller Eile <said id="32"
+                     mode="reported"
+                     content="speech"
+                     level="2"
+                     nonfact="yes">etwaige <seg id="32" type="intExpr">Vorwürfe</seg>
+               </said> von sich <seg id="18" type="intExpr">abzulenken</seg>.</said>
+            <seg id="33" type="frame" pos="start">
+               <said id="19" mode="reported" content="speech" level="1">
+                  <seg id="33" type="speaker">Senard</seg>, <seg id="33" type="speaker">Cavaignac</seg> und <seg id="33" type="speaker">Dufaure</seg> gaben nach einander <seg id="33" type="intExpr">Explicationen</seg>
+               </said>, aus denen
+                        so viel hervorgeht,</seg>
+            <said id="33" mode="indirect" content="speech" level="1">
+               <seg id="34" type="frame" pos="start">daß <seg id="34" type="speaker">Keiner</seg> von ihnen <seg id="34" type="intExpr">wußte</seg>,</seg> 
+               <said id="34"
+                     mode="indirect"
+                     content="thought"
+                     level="2"
+                     nonfact="yes"
+                     border="yes">wer pensionirt
+                        werden sollte, wenn sie gefehlt</said>, so geschah es blos aus Leichtsinn,
+                        indem sie sich um das Thatsächliche und die Personalien durchaus
+                        nicht bekümmert, sondern, wie es bei Ministern oft zu gehen pflegt,
+                        die Sache Anderen überlassen haben.</said>
+            <seg id="35" type="frame" pos="start">
+               <seg id="35 36" type="speaker">Sie</seg> haben mit einem Worte
+                        nicht <seg id="35" type="intExpr">gewußt</seg>,</seg>
+            <said id="35"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  nonfact="yes"
+                  border="yes">was sie gethan</said> und wir müssen uns mit <said id="36" mode="reported" content="speech" level="1">dieser <seg id="36" type="intExpr">Erklärung</seg>
+            </said> wohl begnügen, <said id="37"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">denn was sollten <seg id="37" type="speaker">wir</seg> sonst von Männern <seg id="37" type="intExpr">halten</seg>
+            </said>, <seg id="38" type="frame" pos="start">
+               <seg id="38" type="speaker">die</seg> den Repräsentanten Frankreichs den <seg id="38" type="intExpr">Vorschlag</seg>
+                        machen,</seg>
+            <said id="38" mode="indirect" content="speech" level="1">Mördern und Dieben eine Leibrente zu geben?</said> Die <seg id="39" type="speaker">Nationalversammlung</seg> ging <said id="39" mode="reported" content="speech" level="1">nach einer langen <seg id="39" type="intExpr">Debatte</seg>
+            </said> zur einfachen
+                        Tagesordnung über und gewährte der Regierung dadurch eine
+                        Jndemnitäts=Bill, -- das Einzige, was sie thun konnte. Jn welchem Lichte die öffentliche Meinung den Mann oder die Männer
+                        betrachtet, welche die Regierung in diese böse Geschichte verwickelt,
+                        <said id="26"
+                  mode="reported"
+                  content="speech"
+                  level="1"
+                  nonfact="yes">brauche <seg id="26" type="speaker">ich</seg> Jhnen nicht erst zu <seg id="26" type="intExpr">melden</seg>.</said> Es ist dieses eine der
+                        schmählichsten Episoden der Februarrevolution und es muß weit
+                        gekommen seyn, wenn die Staatsgelder zur Bezahlung von
+                        Meuchelmördern verwendet werden! Es wird nun allerdings nicht
+                        geschehen, allein ohne einen Zufall, ohne die Neugierde des
+                        Comité's, wäre es ganz gewiß geschehen.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

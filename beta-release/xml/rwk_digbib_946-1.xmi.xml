@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Dichter</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp/>
+               <name/>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl>Part of the "Redewiedergabe" corpus (www.redewiedergabe.de) - Beta release March 2019
+           Annotation of speech/thought/writing representation created by project "Redewiedergabe"
+           Source of this text excerpt: Digitale Bibliothek (https://textgrid.de/digitale-bibliothek)</bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="year">1878</f>
+         <f name="decade">1870</f>
+         <f name="title">Ein Dichter</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>
+            <said id="1" mode="direct" content="speech" level="1">Der Dritte, ein schlanker, schöner Mensch, ging ein wenig hinterdrein. Wir führten sie, weil es näher ist, durch den Schloßgarten, unter den hohen Bäumen war es ziemlich dunkel, auf einmal blitzt und knallt es, und im nächsten Augenblick fällt mir Einer von ihnen wie sterbend in den Arm«.</said> 
+                     Ein lauter Schrei scholl von den Lippen der Kinder, die bisher in athemloser Spannung an den Lippen des Erzählenden gehangen hatten. Aus Ludwig's Brust quoll ein dumpfer Seufzer, indem er Gustchen's Hand ergriff, während sich ihre Augen mit Thränen füllten. 
+                     <said id="2" mode="direct" content="speech" level="1">»Das ist ja eine entsetzliche Geschichte«</said>
+            <seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">sagte</seg> die <seg id="2" type="speaker">Mutter</seg> leise</seg>, <seg id="3" type="frame" pos="start">und der <seg id="3" type="speaker">Vater</seg> 
+               <seg id="3" type="intExpr">fragte</seg>:</seg>
+            <said id="3" mode="direct" content="speech" level="1">»Ist der Unglückliche todt?«</said>
+            <said id="4" mode="direct" content="speech" level="1">»Es scheint nicht so«</said>
+            <seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">fuhr</seg> der <seg id="4" type="speaker">Angeredete</seg> unerschüttert <seg id="4" type="intExpr">fort</seg>,</seg>
+            <said id="4" mode="direct" content="speech" level="1">»er hat sich in die Brust geschossen, und ein Blutstrom schoß aus der Wunde. Einen Augenblick noch schlug er wie wüthend um sich, als ich ihn festhalten wollte, dann sank er nieder. Wir legten ihn auf den Rasen, und ein Theil unsrer Leute lief auf die Schloßwache nach einer Bahre, auf die wir den Ohnmächtigen legten. Dann trugen sie ihn nach dem Hospital, wo er jetzt schon sein wird, und ich lief hierher, um Sie zu holen. Kommen Sie nur schnell mit und <said id="5"
+                     mode="reported"
+                     content="thought"
+                     level="2"
+                     nonfact="yes">vergessen Sie Ihre Instrumente nicht</said>, denn er athmete noch leise, als wir ihn auf die Bahre hoben.«</said>
+            <said id="7" mode="direct" content="speech" level="1">»Und was thaten die beiden Andern?«</said>
+            <seg id="7" type="frame" pos="end">
+               <seg id="7" type="intExpr">fragte</seg> der <seg id="7" type="speaker">Doctor</seg>
+            </seg>, ganz erschüttert von dem Gehörten. 
+                     <said id="8" mode="direct" content="speech" level="1">»Sie geberdeten sich wie unsinnig; sie hatten den Kopf ganz verloren und hätten uns während des Schreckens und der Verwirrung ganz gut durchgehen können, <said id="9" mode="reported" content="speech" level="2">aber sie jammerten nur laut um den Kameraden.</said> 
+               <seg id="24" type="frame" pos="start">
+                  <seg id="24" type="speaker">Einer</seg> von unseren Leuten <seg id="24" type="intExpr">meint</seg>,</seg> 
+               <said id="24" mode="indirect" content="speech" level="2">es müßten Söhne eines Herrn von H. aus W. sein</said>; er hat Verwandte dort und kennt fast alle Leute, sie sehen sehr vornehm aus«.</said>
+            <said id="11" mode="direct" content="speech" level="1">»Es ist entsetzlich«</said>
+            <seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> der <seg id="11" type="speaker">Doctor</seg>,</seg>
+            <said id="11" mode="direct" content="speech" level="1">»aber nun kommt,Baumann, ich bin fertig«.</said>
+            <said id="12" mode="reported" content="speech" level="1">Während des Gespräches</said> hatte er sich mit Hülfe der Gattin angekleidet; während er jetzt den Hut aus ihren Händen nahm, <seg id="13" type="frame" pos="start">
+               <seg id="13" type="intExpr">sagte</seg> 
+               <seg id="13" type="speaker">er</seg>:</seg>
+            <said id="13" mode="direct" content="speech" level="1">»Bleibst Du auf, Luise, bis ich wieder komme?«</said>
+            <said id="14" mode="direct" content="speech" level="1">»Gewiß«</said>
+            <seg id="14" type="frame" pos="end">, <seg id="14" type="intExpr">antwortete</seg> 
+               <seg id="14" type="speaker">sie</seg>
+            </seg>, <seg id="15" type="frame" pos="start">denn <seg id="15" type="speaker">sie</seg> 
+               <seg id="15" type="intExpr">wußte</seg>,</seg>
+            <said id="15"
+                  mode="indirect"
+                  content="thought"
+                  level="1"
+                  border="yes">es war dem lebhaften Manne Bedürfniß, <said id="16" mode="reported" content="speech" level="2">sich noch über das Erlebte auszusprechen</said>, ehe er zur Ruhe ging.</said> 
+                     Er entfernte sich, und eine Viertelstunde lang währte es wenigstens, bis die Mutter die Kinder bewegen konnte, sich zur Ruhe zu begeben. Was sie gehört, hatte sie in die lebhafteste Aufregung versetzt, <said id="17"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  border="yes">wenn sie es auch nur halb begriffen.</said> Was sie bis jetzt von derartigen Vorgängen gehört, bezog sich auf Leute niederen Standes, auf gemeine Verbrecher – <said id="25"
+                  mode="reported"
+                  content="thought"
+                  level="1"
+                  nonfact="yes">Arretirung, Selbstmord, diese fürchterliche Vorstellung wußten sie sich nicht mit Studenten, d.h. mit Leuten ihres Standes, zusammenzureimen.</said>
+            <seg id="19" type="frame" pos="start">
+               <seg id="19" type="speaker">Fritz</seg> weinte und <seg id="19" type="intExpr">sagte</seg>,</seg>
+            <said id="19" mode="indirect" content="speech" level="1">er wolle die zwei gefangenen Brüder befreien</said>, <said id="22" mode="reported" content="speech" level="1">ein Verlangen, in welches die beiden kleinen Schwestern lebhaft einstimmten.</said> Die Mutter hatte ihre liebe Noth, bis sie sie Alle ruhig in den Betten hatte; dann kehrte sie in das Wohnzimmer zurück. Dort saßen Ludwig und Gustchen dicht nebeneinander, Beide bleich und zitternd und erst ruhiger werdend, <said id="21" mode="reported" content="speech" level="1">nachdem sie noch einmal mit der Mutter das ganze Ereigniß durchgesprochen hatten.</said>
+         </p>
+      </body>
+   </text>
+</TEI>
