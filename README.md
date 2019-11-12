@@ -35,7 +35,7 @@ The "Redewiedergabe" corpus is a historical corpus of fictional and non-fictiona
 
 The corpus does not consist of complete texts but of text samples. The sample length is at least 500 tokens for texts from the Digitale Bibliothek and at least 200 tokens for newspaper/magazine texts. The samples are drawn randomly from the available material with following additional rules: For the texts from the Digitale Bibliothek, it was enforced that material by each author was considered evenly within a decade. Accordingly, for the texts from MKHZ it was enforced that the different newspapers/magazines were considered evenly. Thus we prevented authors or newspapers with little material from dropping out entirely during the sampling process.
  
-Each sample contains metadata with information about the publication time, text type, fictionality status and author and title if available (more information: [Metadata](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/metadata.md).  
+Each sample contains metadata with information about the publication time, text type, fictionality status and author and title if available (more information: [Metadata](resources/docs/metadata.md).  
 
 # Annotation
 The corpus contains detailed annotation of instances of speech, thought and writing representation (STWR). We distiguish four main types: direct STWR (_Er sagte: "Ich bin hungrig."_), indirect STWR (_Er sagte, er sei hungrig._), free indirect STWR (_Wo sollte er jetzt etwas zu Essen herbekommen?_) and reported STWR (_Er sprach über Restaurants._), as well as the main media speech, thought and writing. In addition to that, we annotate attributes like embedding level, non-factual STWR, borderline cases, pragmatic and metaphoric use, as well as frames, introductory expressions and speakers. 
@@ -47,19 +47,19 @@ The detailed annotation guidelines are available at [redewiedergabe.de/richtlini
 
 
 
-An overview over the structure of the annotations is available at [Annotation structure](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md).
+An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
 
 # Size
 At the moment, the beta release of the corpus is available. At the end of the project (spring 2020), the corpus will be extended and additional annotated material will be made available.
 
 The beta release includes 619 samples and 360,974 tokens. 9,451 STWR instances have been annotated, as well as additional information like frames, introductory expressions and speakers. 
 
-[Detailed statistical data](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/beta_release_statistics.md)
+[Detailed statistical data](resources/docs/beta_release_statistics.md)
 
 # Format
 The corpus is available in two different formats:
-* [Column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md)
-* [XML format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
+* [Column-based text format](resources/docs/column_based_text_format.md)
+* [XML format](resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
   <img src="https://www.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png" alt="We use TEI"/>
 </a>
 
