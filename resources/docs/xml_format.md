@@ -1,3 +1,5 @@
+# XML
+
 Folder: [data/xml](https://github.com/redewiedergabe/corpus/tree/master/data/xml)
 
 This version of the corpus consists of TEI compliant XML files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
