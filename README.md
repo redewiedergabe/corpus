@@ -46,7 +46,7 @@ Each corpus sample was annotated independently by two different people. The fina
 
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German).
 
-An overview over the structure of the annotations is available at [Annotation structure](https://github.com/redewiedergabe/corpus/wiki/Annotation-structure).
+An overview over the structure of the annotations is available at [Annotation structure](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md).
 
 # Size
 At the moment, the beta release of the corpus is available. At the end of the project (spring 2020), the corpus will be extended and additional annotated material will be made available.
