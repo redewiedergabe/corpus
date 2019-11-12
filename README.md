@@ -9,8 +9,6 @@ A corpus annotated for speech, thought and writing representation by the DFG-fun
 
 Homepage: www.redewiedergabe.de
 
-Detailed information about the corpus can be found in the [Wiki](https://github.com/redewiedergabe/corpus/wiki/The-%22Redewiedergabe%22-corpus).
-
 **Note**: The corpus is currently on its beta release and will be extended in the future. If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
 
 
