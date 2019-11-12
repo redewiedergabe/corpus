@@ -42,7 +42,10 @@ The corpus contains detailed annotation of instances of speech, thought and writ
 
 Each corpus sample was annotated independently by two different people. The final annotation was created by a third person on the basis of those annotations. 
 
-The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German).
+The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
+
+
+
 
 An overview over the structure of the annotations is available at [Annotation structure](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md).
 
