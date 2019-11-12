@@ -53,10 +53,10 @@ At the moment, the beta release of the corpus is available. At the end of the pr
 
 The beta release includes 619 samples and 360,974 tokens. 9,451 STWR instances have been annotated, as well as additional information like frames, introductory expressions and speakers. 
 
-[Detailed statistical data](https://github.com/redewiedergabe/corpus/wiki/Beta-release-statistics)
+[Detailed statistical data](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/beta_release_statistics.md)
 
 # Format
 The corpus is available in two different formats:
-* [Column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format)
-* [XML format](https://github.com/redewiedergabe/corpus/wiki/XML)
+* [Column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md)
+* [XML format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md)
 
