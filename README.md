@@ -59,5 +59,7 @@ The beta release includes 619 samples and 360,974 tokens. 9,451 STWR instances h
 # Format
 The corpus is available in two different formats:
 * [Column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md)
-* [XML format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md)
+* [XML format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
+  <img src="https://www.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png" alt="We use TEI"/>
+</a>
 
