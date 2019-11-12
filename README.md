@@ -3,6 +3,7 @@
 # Corpus "Rᴇᴅᴇᴡɪᴇᴅᴇʀɢᴀʙᴇ" <img src="resources/docs/redewiedergabe_logo.png" width="40" height="40"/>
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)
+ [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ## A corpus annotated for speech, thought and writing representation
 
