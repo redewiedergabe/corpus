@@ -1,6 +1,9 @@
 
 
-# Corpus "Redewiedergabe" <img src="resources/docs/redewiedergabe_logo.png" width="40" height="40"/>
+# Corpus "Rᴇᴅᴇᴡɪᴇᴅᴇʀɢᴀʙᴇ" <img src="resources/docs/redewiedergabe_logo.png" width="40" height="40"/>
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)
+
 ## A corpus annotated for speech, thought and writing representation
 
 This corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). 
