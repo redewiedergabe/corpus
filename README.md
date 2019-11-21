@@ -2,14 +2,20 @@
 
 # Corpus "Rᴇᴅᴇᴡɪᴇᴅᴇʀɢᴀʙᴇ" <img src="resources/docs/redewiedergabe_logo.png" width="40" height="40"/>
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)
+
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-A corpus annotated for speech, thought and writing representation by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). 
+A historical German-language corpus (1840-1920) of fictional and non-fictional texts, annotated for speech, thought and writing representation 
+
+The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). 
 
 Homepage: www.redewiedergabe.de
 
-**Note**: The corpus is currently on its beta release and will be extended in the future. If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
+* [Main corpus](https://github.com/redewiedergabe/corpus/tree/master/data/main) **Note:** The main corpus is on its pre-release and may contain 
+* [Beta release](https://github.com/redewiedergabe/corpus/tree/master/data/beta-release), also archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192) 
+  * Differences between the beta and final release
+
+If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
 
 
 # Project
