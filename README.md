@@ -51,17 +51,12 @@ Each corpus sample was annotated independently by two different people. The fina
 
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
 
-
-
-
 An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
 
 # Size
-At the moment, the beta release of the corpus is available. At the end of the project (spring 2020), the corpus will be extended and additional annotated material will be made available.
-
-The beta release includes 619 samples and 360,974 tokens. 9,451 STWR instances have been annotated, as well as additional information like frames, introductory expressions and speakers. 
-
-[Detailed statistical data](resources/docs/beta_release_statistics.md)
+* Main corpus
+  * Final release: 839 samples; 489,608 tokens; 12.123 STWR instances
+  * Beta-release: 619 samples; 360,974 tokens; 9,451 STWR instances; [Detailed statistical data](resources/docs/beta_release_statistics.md)
 
 # Format
 The corpus is available in two different formats:
