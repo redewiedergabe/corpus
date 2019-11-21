@@ -11,7 +11,7 @@ The corpus was created by the DFG-funded project "Redewiedergabe - eine literatu
 
 Homepage: www.redewiedergabe.de
 
-* [Main corpus](https://github.com/redewiedergabe/corpus/tree/master/data/main) **Note:** The main corpus is on its pre-release and may contain 
+* [Main corpus](https://github.com/redewiedergabe/corpus/tree/master/data/main) **Note:** The main corpus is on its pre-release; please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues) if you encounter problems
 * [Beta release](https://github.com/redewiedergabe/corpus/tree/master/data/beta-release), also archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192) 
   * Differences between the beta and final release
 
