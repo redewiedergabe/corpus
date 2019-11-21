@@ -7,16 +7,29 @@
 
 A historical German-language corpus (1840-1920) of fictional and non-fictional texts, annotated for speech, thought and writing representation 
 
-The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). 
+The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). Homepage: www.redewiedergabe.de
 
-Homepage: www.redewiedergabe.de
+If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
+
+## Available Data
 
 * [Main corpus](data/main) **Note:** The main corpus is on its pre-release; please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues) if you encounter problems
 * [Beta release](data/beta-release), also archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192) 
   * [Differences between the beta and final release](resources/docs/differences-main-beta.md)
 * Additional material: *will be added in the future*
 
-If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
+## Size
+* Main corpus
+  * Final release: 839 samples; 489,608 tokens; 12.123 STWR instances
+  * Beta-release: 619 samples; 360,974 tokens; 9,451 STWR instances; [Detailed statistical data](resources/docs/beta_release_statistics.md)
+
+## Format
+The corpus is available in two different formats:
+* [Column-based text format](resources/docs/column_based_text_format.md)
+* [XML format](resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
+  <img src="https://www.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png" alt="We use TEI"/>
+</a>
+
 
 
 # Project
@@ -53,15 +66,4 @@ The detailed annotation guidelines are available at [redewiedergabe.de/richtlini
 
 An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
 
-# Size
-* Main corpus
-  * Final release: 839 samples; 489,608 tokens; 12.123 STWR instances
-  * Beta-release: 619 samples; 360,974 tokens; 9,451 STWR instances; [Detailed statistical data](resources/docs/beta_release_statistics.md)
-
-# Format
-The corpus is available in two different formats:
-* [Column-based text format](resources/docs/column_based_text_format.md)
-* [XML format](resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
-  <img src="https://www.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png" alt="We use TEI"/>
-</a>
 
