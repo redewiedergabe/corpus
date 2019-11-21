@@ -1,6 +1,6 @@
 ## Differences between the main corpus and the beta release
 
-The [beta version](https://github.com/redewiedergabe/corpus/tree/master/data/beta-release) of the main corpus was first released in February 2019. In November 2019, the final [main corpus](https://github.com/redewiedergabe/corpus/tree/master/data/main) was added.
+The [beta version](../../data/beta-release) of the main corpus was first released in February 2019. In November 2019, the final [main corpus](../../data/main) was released.
 
 We keep the beta version for anyone who already started working with this data.
 
