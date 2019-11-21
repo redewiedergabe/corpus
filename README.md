@@ -13,15 +13,12 @@ If you encounter any issues or have any questions, please use [Github's Issues t
 
 ## Available Data
 
-* [Main corpus](data/main) **Note:** The main corpus is on its pre-release; please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues) if you encounter problems
-* [Beta release](data/beta-release), also archived on Zenodo [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192) 
-  * [Differences between the beta and final release](resources/docs/differences-main-beta.md)
-* Additional material: *will be added in the future*
+|                            | Samples | Tokens  | STWR instances | Notes                                                   |
+|----------------------------|---------|---------|----------------|---------------------------------------------------------|
+| [Main corpus](data/main)                | 839     | 489,608 | 12.123         |  **Note:** The main corpus is on its pre-release; please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues) if you encounter problems                                                       |
+| [Main corpus (Beta release)](data/beta-release) | 619     | 360,974 | 9,451          |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)  [Detailed statistical data](resources/docs/beta_release_statistics.md); [Differences to the final release](resources/docs/differences-main-beta.md)|
 
-## Size
-* Main corpus
-  * Final release: 839 samples; 489,608 tokens; 12.123 STWR instances
-  * Beta-release: 619 samples; 360,974 tokens; 9,451 STWR instances; [Detailed statistical data](resources/docs/beta_release_statistics.md)
+Additional material will be added in the future.
 
 ## Format
 The corpus is available in two different formats:
