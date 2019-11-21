@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Feigling!</title>
+             <author>Geller, Oscar</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1892_10_24.txt_2.xml</f>
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">Feigling!</f>
+         <f name="author">Geller, Oscar</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Die Mitglieder des Clubs der „Sansculotten des Geistes“ waren nicht wenig erstaunt,
+                        als sie <said id="1" mode="reported" content="writing" level="1">durch die <seg id="1" type="intExpr">Einladung</seg> des <seg id="1 2" type="speaker">Präsidenten</seg> zu
+                        einer außerordentlichen Sitzung einberufen wurden.</said>
+                        <said id="2" mode="reported" content="writing" level="1" nonfact="yes">Der Gegenstand der Verhandlung war nicht <seg id="2" type="intExpr">bekannt gegeben</seg></said>; <said id="3" mode="reported" content="thought" level="1"><seg id="3" type="speaker">man</seg> erging sich in verschiedenen
+                        <seg id="3" type="intExpr">Vermuthungen</seg></said>, <said id="22" mode="reported" content="speech thought" level="1"><seg id="22" type="speaker">man</seg> <seg id="22" type="intExpr">rieth</seg> auf galante Abenteuer
+                        und <said id="23" mode="reported" content="speech" level="2" nonfact="yes">kritische <seg id="23" type="intExpr">Besprechungen</seg></said> irgend einer neuen
+                        Erscheinung auf diesem oder jenem Gebiete der
+                        Literatur</said>; <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">man</seg> <seg id="25" type="intExpr">glaubte</seg>,</seg> <said id="25" mode="indirect" content="thought" level="1">es handle sich um die
+                        endlich gefundene Lenkbarkeit des Luftballons
+                        oder um Adela ï des Trotzköpfigkeit</said> (so hieß der
+                        verhätschelte Liebling eines vorstädtischen Operettentheaters)<said id="25" mode="indirect" content="thought" level="1">, in Henry d’Herville’s Boulevardposse „die Tigerin“, nicht mitwirken zu wollen.</said>
+                        Alle schüttelten die Köpfe, vom jüngsten Bohémien angefangen bis zum weißhaarigen, greisenhaften Périnet, der mit seinem einzigen linken
+                        Arme seine hellenischen Götter meißelte, — Alle
+                        waren sie neugierig und folgten der Einladung.
+               <said id="5" mode="reported" content="speech" level="1">Um neun Uhr Abends <seg id="5" type="intExpr">eröffnete</seg> der <seg id="5" type="speaker">Präsident</seg></said>, der holländische Thiermaler van der
+                        Haassen, der sich zwei Jahre später an einer
+                        Straßenlaterne in der Rue du Temple aufknüpfte, da er just vom Balle der rothhaarigen
+                        Petite maman heimkehrte, und nichts besaß
+                        außer dem Fracke am Leibe und das seidene
+                        Tuch mit dem er sich erdrosselt hatte, — <said id="5" mode="reported" content="speech" level="1">die
+                        Versammlung.</said> Die Thüren des Clubsalons
+                        waren geschlossen, die Portiéren niedergelassen, —
+                        es herrschte eine tiefe Stille, fast unheimlich bange.
+               <said id="6" mode="direct" content="speech" level="1">„Meine Herren,“</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">hub</seg> der <seg id="6" type="speaker">Holländer</seg> <seg id="6" type="intExpr">an</seg>,</seg>
+                        seine Stimme feierlich dämpfend und einen tiefen
+                        Ton dabei anschlagend, der nicht wenig geheimnißvoll klang, so daß die Erwartung der Hörer
+                        um ein Bedeutendes stieg, <said id="6" mode="direct" content="speech" level="1">„<said id="7" mode="reported" content="writing" level="2"><seg id="7" type="speaker">ich</seg> habe Sie in einer
+                        höchst wichtigen Angelegenheit <seg id="7" type="intExpr">hergebeten</seg></said>, in der
+                        Sie über die Ehre, vielleicht über das Leben
+                        eines Mitgliedes aus unserer Mitte zu entscheiden
+                        haben. <said id="9" mode="reported" content="speech" level="2" nonfact="yes">Bevor <seg id="9" type="speaker">ich</seg> Ihnen die Sache <seg id="9" type="intExpr">vorlege</seg></said>, <seg id="10" type="frame" pos="start">muß
+                        <seg id="10" type="speaker">ich</seg> <seg id="11" type="speaker">Sie</seg> <seg id="10" type="intExpr">bitten</seg>,</seg> <said id="10" mode="indirect" content="speech" level="2"><seg id="11" type="frame" pos="start">mir die feierliche <seg id="11" type="intExpr">Erklärung</seg> <seg id="11" type="intExpr">abzugeben</seg>,</seg> <said id="11" mode="indirect" content="speech" level="3" nonfact="yes">daß Sie diese uns allein betreffende
+                        Angelegenheit, bei der so viel auf dem Spiele
+                        steht, als strenges Geheimniß bewahren zu wollen.</said></said> Es genügt mir selbstverständlich, wenn Sie,
+                        meine lieben Freunde, mir dies mit Handschlag
+                        versprechen.“</said>
+                         
+               Der alte <seg id="12" type="speaker">Périnet</seg> war der Erste, der sich
+                        erhob, und <said id="12" mode="reported" content="speech" level="1">mit feierlichen Worten strengste
+                        Discretion <seg id="12" type="intExpr">gelobte</seg></said>; <said id="26" mode="reported" content="speech" level="1">die <seg id="26" type="speaker">Anderen</seg> <seg id="26" type="intExpr">folgten</seg> seinem
+                        Beispiele.</said>
+               <said id="13" mode="direct" content="speech" level="1">„Ich danke Ihnen meine Herren“</said><seg id="13" type="frame" pos="end">, <seg id="13" type="intExpr">begann</seg>
+                        der <seg id="13 14" type="speaker">Präsident</seg> von Neuem.</seg> <said id="14" mode="direct" content="speech" level="1">„<said id="15" mode="reported" content="speech" level="2" nonfact="yes"><seg id="15" type="speaker">Wir</seg> können somit
+                        den Fall <seg id="15" type="intExpr">erörtern</seg></said>; doch zuvor mögen der Sicherheit wegen die zwei jüngsten Herren Mitglieder
+                        sich überzeugen, daß wir vollkommen sicher sind,
+                        daß im Vorzimmer sich Niemand befindet, der
+                        lauschen könnte.“</said> Am Ende des langen Tisches
+                        entstand eine kleine Bewegung; der <seg id="16" type="speaker">Journalist
+                        Everett Frank O’Morra</seg> und der CarricaturenZeichner des „Journal Amusant“, <seg id="16" type="speaker">Gasparin der
+                        Jüngere</seg> erhoben sich, traten ins Vorzimmer,
+                        untersuchten dasselbe, <seg id="16" type="frame" pos="start">und <seg id="16" type="intExpr">meldeten</seg> dann dem
+                        <seg id="17" type="speaker">Präsidenten</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">daß nichts zu besorgen sei.</said>
+               <said id="17" mode="direct" content="speech" level="1">„Meinen verbindlichsten Dank.“</said> <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Er</seg> reichte
+                        Beiden seine Hand, <seg id="18" type="intExpr">bat</seg> sie,</seg> <said id="18" mode="indirect" content="speech" level="1">ihre Plätze wieder
+                        einzunehmen</said>, gab endlich das Glockenzeichen und
+                        zog aus der Brusttasche ein großes, weißes
+                        Couvert hervor, auf dessen Rückseite ein zierliches
+                        eirundes Wappen in Blau, Roth und Gold angebracht war.
+               <said id="19" mode="direct" content="speech" level="1">„Ich habe gestern,“</said> <seg id="19" type="frame" pos="mid">begann <seg id="19" type="speaker">er</seg> sein: <seg id="19" type="intExpr">Rede</seg>,</seg>
+                        <said id="19" mode="direct" content="speech" level="1">„folgenden Brief erhalten, <seg id="20" type="frame" pos="start">den <seg id="20" type="speaker">ich</seg> Ihnen <seg id="20" type="intExpr">vorzulesen</seg> mir die Ehre gebe:</seg>
+                         
+               
+                  <said id="20" mode="direct" content="writing" level="2">„Trouville, den 18
+                        Hochverehrtester Herr Präsident!
+                        
+                
+               Ich habe Ihre sehr geschätzte Zuschrift von
+                        voriger Woche erhalten, <seg id="21" type="frame" pos="start">und <seg id="21" type="speaker">ich</seg> muß Ihnen <seg id="21" type="intExpr">gestehen</seg>,</seg> <said id="21" mode="indirect" content="speech" level="3">daß ich nicht wenig außer mir bin.</said></said></said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

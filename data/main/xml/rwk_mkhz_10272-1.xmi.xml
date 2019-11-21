@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">BZ_1898_02_16.txt_5.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.badener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Der ansprechendste Brief und die besten Zeugnisse
+                        waren von Fräulein <seg id="3 4" type="speaker">Mary Lammont</seg> eingereicht
+                        worden. <said id="2" mode="reported" content="speech" level="1" nonfact="yes"><said id="1" mode="reported" content="thought" level="2" nonfact="yes"><said id="3" mode="reported" content="thought" level="3">Die <seg id="3" type="intExpr">Hoffnungen</seg> und <seg id="3" type="intExpr">Befürchtungen</seg></said>, <said id="4" mode="reported" content="writing" level="3">unter
+                        denen dieser Brief <seg id="4" type="intExpr">geschrieben</seg> worden war</said>, können
+                        wohl <seg id="1" type="intExpr">errathen</seg></said>, nicht <seg id="2" type="intExpr">geschildert</seg> werden</said>; es hing für
+                        sie ja zuviel ab von dem Erfolg dieser Bewerbung.
+                        Das Geld, das die Eltern für ihre Ausbildung
+                        geben konnten, war gänzlich verbraucht, mehr konnten
+                        sie nicht schicken. Fand Mary nicht sogleich eine
+                        Stellung, so musste sie auf ihr einsames Dorf
+                        zurückkehren und von dort aus würde es so schwer
+                        sein, einen Posten zu finden. Gewiss, daheim würde
+                        sie willkommen geheißen, aber doch blieb ihr dann
+                        das Gefühl, dass sie eine Last sei, <seg id="5" type="frame" pos="start">wo <seg id="5" type="speaker">sie</seg> <seg id="5" type="intExpr">gehofft</seg>
+                        hatte,</seg> <said id="5" mode="indirect" content="thought" level="1">eine Hilfe zu werden.</said>
+               Sie stellte sich pünktlich auf die Minute in
+                        dem Geschäftslocale ein. Herr Braun war nicht ganz
+                        so pünktlich. Sie wartete im Vorzimmer, <seg id="6" type="frame" pos="start">bis ein
+                        freundliches:</seg> <said id="6" mode="direct" content="speech" level="1">„Da kommt der <seg id="7" type="speaker">Chef</seg>, <said id="7" mode="reported" content="speech" level="2" nonfact="yes">um Sie zu
+                        <seg id="7" type="intExpr">sprechen</seg></said>“</said>, von dem <seg id="6" type="speaker">Laufjungen</seg> sie veranlasste, ihre
+                        Blicke der Thür zuzuwenden. In ihrer zitternden
+                        Hand hielt sie ein Empfehlungsschreiben von dem
+                        Director der Handelsschule, <said id="8" mode="reported" content="speech thought" level="1">wie hart <seg id="8" type="speaker">sie</seg> auch mit
+                        sich selbst <seg id="8" type="intExpr">sprach</seg></said>, Thränen traten ihr in die Augen,
+                        denn es hing ja zuviel von dem Erfolge dieser
+                        Vorstellung ab.
+               Da sah sie, dass er kein Fremder war und
+                        plötzliche Hoffnung, ja Vertrauen zog in ihr Herz
+                        ein. Er erkannte sie ebenso schnell und eine dunkle
+                        Wolke des Unmuthes legte sich auf seine Stirn beim
+                        Anblick des lieblichen Gesichtes, das so ängstlich aus
+                        der Umrahmung einer billigen schwarzen Pelzboa
+                        hervorsah.
+               Ohne seine Cigarre aus dem Munde zu nehmen,
+                        <seg id="9" type="frame" pos="start">eilte <seg id="9" type="speaker">er</seg> an ihr vorüber mit der kurzen <seg id="9" type="intExpr">Versicherung</seg>,</seg>
+                        <said id="9" mode="indirect" content="speech" level="1">dass er augenblicklich zu ihren Diensten stehen werde.</said>
+               Mary sank auf ihren Stuhl zurück; sie empfand
+                        Mitleid mit ihm, da ihn doch augenscheinlich Geschäftssorgen drückten.
+               <said id="11" mode="direct" content="speech" level="1">„Himmel,“</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11 17 19 20" type="speaker">er</seg> gerade zu dem älteren
+                        Chef des Geschäftes,</seg> <said id="11" mode="direct" content="speech" level="1">„das fehlte auch noch; Fräulein
+                        Lammont ist jene kleine Straßenpoussade, <said id="12" mode="reported" content="speech" level="2">von der
+                        <seg id="12" type="speaker">ich</seg> Ihnen neulich <seg id="12" type="intExpr">erzählte</seg>.</said> Nun kann man all die
+                        Mühe des Durchsehens der Bewerbungen noch einmal
+                        haben — oder nein, <said id="13" mode="reported" content="speech" level="2"><seg id="13" type="speaker">ich</seg> habe ja eine andere Bewerberin eine Stunde später <seg id="13" type="intExpr">bestellt</seg></said>, nehmen wir die.“</said>
+                         
+               
+               <said id="14" mode="direct" content="speech" level="1">„Aber warum?“</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fragte</seg> der <seg id="14 15" type="speaker">Compagnon</seg> mit
+                        der Freiheit seines väterlichen Freundes.</seg> <said id="15" mode="direct" content="speech" level="1">„Fräulein
+                        Lammont’s Empfehlungen sind ausgezeichnet und <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">wir</seg>
+                        <seg id="16" type="intExpr">hören</seg>,</seg> <said id="16" mode="indirect" content="speech" level="2" border="yes">dass sie einer guten Stellung sehr bedarf</said>,
+                        auch scheint sie sich ausgezeichnet für unseren Posten
+                        zu eignen und sie ist eine Dame.“</said>
+                         
+               <said id="17" mode="direct" content="speech" level="1">„Zum Henker mit den Empfehlungen! Ich will
+                        in meinem Geschäfte keine Dame, die auf der
+                        Straße mit mir kokettiert.“</said>
+                         
+               <seg id="18" type="frame" pos="start">Der alte <seg id="18" type="speaker">Herr</seg> <seg id="18" type="intExpr">lächelte</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">„Sollten Sie gerade
+                        darum den Stab über sie brechen?“</said>
+                         
+               <said id="19" mode="direct" content="speech" level="1">„Schulmeistern Sie nicht! Geschäft ist Geschäft,
+                        und ich liebe gemischte Getränke nicht. Nette Ordnung könnte ich in meinem Bureau halten, wenn ich
+                        mich damit abgäbe, meiner Stenographin Veilchensträuße zu überreichen. Außerdem will ich auch hier
+                        im Geschäfte vor meiner Frau nicht erröthen müssen,
+                        wenn sie mich abholt. Sollte ich den süßen braunen
+                        Augen auf der Straße wieder begegnen, dann
+                        freilich —“</said> ein Lachen schloss den Satz. <said id="20" mode="direct" content="speech" level="1">„Jetzt aber
+                        müssen Sie mit ihr fertig werden. Sie sah aus, als
+                        ob sie weinen wollte, als sie mich oben sah und ich
+                        kann weinerliche Frauenzimmer nicht leiden.“</said>
+                         
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Prediger in der Wüste.</title>
+             <author>Rosegger, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Rosegger,_Peter_Waldheimat__Erzaehlungen_aus_der_Jugendzeit.tg27_1_82.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Prediger in der Wüste.</f>
+         <f name="author">Rosegger, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+– <said id="1" mode="direct" content="speech" level="1">»<seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Wir</seg> <seg id="2" type="intExpr">wissen</seg>'s ja schon,</seg> <said id="2" mode="indirect" content="thought" level="2" border="yes"><said id="8" mode="reported" content="speech" level="3">was <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">sagt</seg></said></said>,«</said> <seg id="1" type="frame" pos="mid"><seg id="2" type="intExpr">meinte</seg> einer der <seg id="2 1" type="speaker">Ältesten</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">»und täten in der engen Stube anderen nur den Platz wegstehlen; den jungen Leuten tut es 'leicht nöter, als uns, daß sie fleißig in die Predigt gehen.«</said> 
+                  <seg id="9" type="frame" pos="start">So sind <seg id="10" type="speaker">wir</seg> junge Leute denn weiter <seg id="9" type="intExpr">verhalten</seg> worden,</seg> <said id="9" mode="indirect" content="speech" level="1">an den stillen Feierabenden ins Schneiderhäuschen zu wandern, <said id="10" mode="reported" content="speech" level="2" nonfact="yes">um dort das <seg id="10" type="intExpr">Gotteswort</seg> zu vernehmen.</said></said> <seg id="3" type="frame" pos="start">Als der <seg id="3" type="speaker">Prediger</seg> <seg id="3" type="intExpr">wußte</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">seine Zuhörerschaft bestünde zumeist aus jungem Volke, dem das Blut erst warm zu werden beginne</said>, da zog er andere Saiten auf. <said id="11" mode="reported" content="speech" level="1" border="yes"><seg id="11" type="speaker">Wir</seg> <seg id="11" type="intExpr">hörten</seg> manch Erfreuliches von heiligen Jünglingen und Jungfrauen, aber auch allerlei Seltsames von den Begierden und Anfechtungen des Fleisches, von den höllischen Werkzeugen, womit die Gefallenen gezwickt, gekratzt, geschunden, geschmort, zerstückt und auf alle erdenkliche Weise gepeinigt werden.</said> 
+                  Doch der Mensch wird alles gewohnt; bald verloren die Vorträge jegliche Wirkung. Wir ergötzten uns im stillen nach unserem eigenen Geschmacke. 
+                  Die Predigt begann stets um sechs Uhr. 
+                  Es war dem <seg id="12" type="speaker">Schneider</seg> ein Gesetz, die Lehre mußte eine Stunde währen, <said id="4" mode="reported" content="speech" level="1">denn so lange hatten auch die <seg id="4" type="speaker">Missionäre</seg> <seg id="4" type="intExpr">gesprochen</seg>.</said> <said id="12" mode="reported" content="speech" level="1">Zum Stundenschlag sieben aber wurde der <seg id="12" type="intExpr">Vortrag</seg> plötzlich mit einem kräftigen Amen abgehackt.</said> 
+                  Und eines fröhlichen Samstagabends im Frühherbste gingen wir wieder ins Haus des blinden Schneiders zum Unterrichte. Da traf es sich, daß wir Zuhörer aus lauter jungen Leuten bestanden, aus Burschen und Mädchen von zwölf bis fünfundzwanzig Jahren, wovon nur das Bachreutermaidle mit ihren dreiundfünfzig Jahresringen um die Augen eine schöne Ausnahme machte. 
+                  Das Bachreutermaidle hinderte uns aber gar nicht, im Gegenteile, wir waren froh, daß wir es unter uns hatten, denn, wo das dabei war, <said id="13" mode="reported" content="speech" level="1">da gab es unterschiedliche <seg id="13" type="intExpr">Schwänke</seg> und <seg id="13" type="intExpr">Possen</seg> allerwege.</said> Wenn den tollsten Jungen nichts übermütiges mehr einfiel, so war gewiß noch das Bachreutermaidle die Anstifterin irgendeiner Schalkheit, eines ausgelassenen Stückchens. Wie ein Bub konnte es springen und johlen und balgen, das Maidle; wenn es aber still war und seinen kurzen Hals einzog zwischen die hohen, spitzigen Schultern – <said id="5" mode="reported" content="thought" level="1">da gab's gar noch das Ärgste zu <seg id="5" type="intExpr">fürchten</seg> oder zu <seg id="5" type="intExpr">hoffen</seg></said> – da kam sicher bald ein rechtes Schelmenstück heraus. 
+                  Es war bislang ohne Mann geblieben, das Maidle, und <seg id="6" type="frame" pos="start">die <seg id="6" type="speaker">Talbewohner</seg> <seg id="6" type="intExpr">rieten</seg> schier,</seg> <said id="6" mode="indirect" content="speech thought" level="1">es sei bei der Taufe desselben eine Irrung geschehen und das ganze Tal um ein Bachreuterbüble betrogen worden.</said> Das Maidle hielt sich so brav, daß niemand von der Haltlosigkeit obiger Annahme überzeugt war. Nun freilich hatte es schon die Runzelchen und etliche graue Haare, aber der Possenreißer in ihm war jung geblieben. 
+                  Dieses Maidle hatten wir Jungen unter uns, <said id="7" mode="reported" content="speech" level="1">als an jenem Samstagabend der <seg id="7" type="speaker">Schneider</seg> zu predigen <seg id="7" type="intExpr">anhub</seg>.</said> Ich, als einer der zuletzt Erscheinenden, hatte meine barfüßige Pförtnerin mit in die Stube genommen und mich mit ihr auf ein Bänklein gesetzt, unter welchem die Hühnersteige war. Die Hühner saßen schon geruhsam auf ihren Stangen, nur der Hahn schlug bisweilen noch eins mit den Flügeln. Auf der Ofenbank, auf dem Gesiedel und in anderen Winkeln saßen andere, wie sie sich eben beliebig gesellt hatten. Etliche Jungen dampften aus Tabakspfeifen; andere strichen sich mit Kohlen Schnurrbärte an; wieder andere schnitten allerlei Gesichter und drehten dem Schneider Nasen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Literarischer Wert</title>
+             <author>Büchner, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341887_309728.txt_90.xml</f>
+         <f name="year">1908</f>
+         <f name="decade">1900</f>
+         <f name="title">Literarischer Wert</f>
+         <f name="author">Büchner, Paul</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Darin liegt
+                        der dauernde Wert einer richtigen Charakteristik, denn die äußern Verhältnisse
+                        ändern sich, nicht aber der Charakter der Menschen. Auf solche Weise vermittelt die Dichtung Menschenkenntnis und trägt zur Bildung bei. Wenn die
+                        geheimsten Beweggründe enthüllt werden, so vermag jedermann im wirklichen
+                        Leben ähnliche Charaktere an ihren Äußerungen zu erkennen. <seg id="1" type="frame" pos="start">Von <seg id="1" type="speaker">Bismarck</seg>
+                        wird uns ein <seg id="1" type="intExpr">Ausspruch</seg> überliefert,</seg> <said id="1" mode="indirect" content="speech" level="1">wonach er den für den klügsten hielt, der
+                        die Erfahrungen andrer für sich benutzt.</said>
+            
+            <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Man</seg> kann hier <seg id="2" type="intExpr">einwenden</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1" nonfact="yes">daß viele Stoffe nicht schön seien und deshalb
+                        dichterisch nicht bearbeitet werden dürfen.</said> <seg id="3" type="frame" pos="start">Dem ist <seg id="3" type="intExpr">entgegenzuhalten</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes">daß kein
+                        Stoff an sich schön ist, sondern es erst durch künstlerische Gestaltung wird.</said> Man
+                        trifft naive Leute, die eine Dichtung für schön halten, wenn alle darin auftretenden Personen einen „guten" Charakter haben und der Ausgang glücklich
+                        ist. Andre machen schon ein Zugeständnis und lassen auch ein „schlechtes"
+                        Ende zu, wenn nur die „Schlechtigkeit" den Lohn ihrer Taten enthält. In
+                        diesem Rahmen ungefähr bewegen sich die Konflikte und ihre Lösung in unsrer
+                        Unterhaltungsliteratur.<seg id="4" type="frame" pos="start"> Noch andre <seg id="4" type="speaker">Ästhetiker</seg> <seg id="4" type="intExpr">erklären</seg>,</seg><said id="4" mode="indirect" content="speech" level="1"> als unschön seien die
+                        Stoffe zu verwerfen, die einem niedrigen Milieu entnommen sind oder Dinge
+                        behandeln, die man mit dem Mantel der Liebe zudecken möchte, da die Berührung mit ihnen auch in der Dichtung unangenehm und peinlich sei.</said> <seg id="5" type="frame" pos="start">Unsre
+                        nachklassische <seg id="5" type="speaker">Zeit</seg> war der <seg id="5" type="intExpr">Meinung</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes" metaph="yes">die politischen, wirtschaftlichen und sittlichen Zustände hätten mit der Literatur nichts zu schaffen.</said> <seg id="6" type="frame" pos="start"><seg id="6 7" type="speaker">Gustav Freytag</seg>
+                        <seg id="6" type="intExpr">schrieb</seg> in seiner „Technik des Dramas" (Leipzig 1894, S. 59),</seg> <said id="6" mode="indirect" content="writing" level="1">es sei eine Entwürdigung der Kunst, wenn ein Dichter gesellschaftliche Verbildungen des wirklichen Lebens, Gewaltherrschaft der Reichen, die gequälte Lage Gedrückter, die
+                        Stellung der Armen, die von der Gesellschaft fast nur Leiden empfangen, streitlustig und tendenzvoll zur Handlung eines Dramas verwerten wolle.</said> <said id="7" mode="indirect freeIndirect" content="writing" level="1">Die
+                        Sorge um die Besserung der armen und gedrückten Klassen solle ein wichtiger
+                        Teil unsrer Arbeit im wirklichen Leben sein, die Muse der Kunst sei keine
+                        barmherzige Schwester.</said>
+            Unsre größten Dichter haben jedoch diese von Gustav Freytag verworfnen
+                        Stoffe zum Gegenstand unsterblicher Werke gemacht. <said id="8" mode="reported" content="writing" level="1"><seg id="8" type="speaker">Schiller</seg> hat in „Kabale
+                        und Liebe" und im „Wilhelm Tell" die Unterdrückung des niedern Volkes
+                        durch Fürstenmacht <seg id="8" type="intExpr">gezeichnet</seg></said> — ein zu seiner Zeit ganz modernes politisches
+                        Problem. <said id="9" mode="reported" content="writing" level="1">Auch die <seg id="9" type="speaker">Alten</seg> haben die <seg id="9" type="intExpr">Dichtung</seg> benutzt</said>, die Verbildungen ihrer
+                        Zeit ans Licht zu ziehen; die Werke ihrer Dichter sind die wertvollste Fundgrube
+                        für die Kultur- und Sittengeschichte der Griechen und Römer. <said id="10" mode="reported" content="speech" level="1" border="yes"><seg id="10" type="speaker">Wir</seg> beschränken
+                        uns darauf, Namen wie Aristophanes, Juvenal und Martial zu <seg id="10" type="intExpr">nennen</seg>.</said>
+            Praktische Vorschläge zur Beseitigung sozialer und sittlicher Mißstände kann
+                        die Dichtung natürlich nicht machen — das ist die Aufgabe der Sozialpolitik —,
+                        aber die Darstellung der daraus entstehenden Konflikte darf man der schönen
+                        Literatur nicht vorenthalten, wenn man ihr einen höhern als einen Unterhaltungswert beimißt. Erst die Dichtung verbreitet, wenn sie sich mit solchen Stoffen
+                        befaßt, eine allgemeine Kenntnis dieser Verbildungen. Die dargestellten Konflikte erregen das Gefühl, indem man Mitleid, Verachtung, Haß empfindet, <said id="11" mode="reported" content="thought" level="1">der
+                        <seg id="11" type="speaker">Verstand</seg> <seg id="11" type="intExpr">beschäftigt</seg> sich lebhaft mit ihnen und <seg id="11" type="intExpr">sinnt</seg> auf Mittel, die Mißstände
+                        zu beseitigen.</said> Haben wir jene gefunden, so ist unser Wille bestrebt, diese unschädlich zu machen. Mit Rücksicht auf diese Wirkungen haben unsre Regierungen das Theater, das von allen Kunsteinrichtungen den stärksten Einfluß
+                        ausübt, unter die Aufsicht der Zensur gestellt, denn sie verdichten sich manchmal zu Taten, und es ist schon vorgekommen, daß begeisterte Zuschauer oder Zuhörer die Pferde der Künstler ausgespannt und ihren Wagen selbst gezogen haben.
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

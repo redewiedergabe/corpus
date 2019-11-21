@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Dame mit dem Hündchen</title>
+             <author>Čechov, Anton Pavlovič</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Die_Dame_mit_dem_Huendchen.tg5_1.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Dame mit dem Hündchen</f>
+         <f name="author">Čechov, Anton Pavlovič</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Sie gingen ziellos über die Korridore, treppauf und treppab, sie sahen viele Leute in Gerichts-, Lehrer-und Domänenverwaltungsuniformen, sämtliche mit Abzeichen; sie sahen Damen, Pelze in den Garderoben; der Zugwind hauchte sie mit Zigarettendunst an. <seg id="1" type="frame" pos="start">Und <seg id="1" type="speaker">Gurow</seg>, der heftiges Herzklopfen hatte, <seg id="1" type="intExpr">dachte</seg>:</seg> 
+                     <said id="1" mode="direct" content="thought" level="1">»Mein Gott! Wozu diese Menschen, wozu dieses Orchester ...«</said> 
+                     <seg id="2" type="frame" pos="start">In diesem Augenblick <seg id="2" type="intExpr">fiel</seg> <seg id="2" type="speaker">ihm</seg> plötzlich <seg id="2" type="intExpr">ein</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1"><seg id="3" type="frame" pos="start">wie <seg id="3" type="speaker">er</seg> <seg id="3" type="intExpr">sich</seg> damals auf dem Perron, nachdem der Schnellzug abgefahren war, <seg id="3" type="intExpr">gesagt</seg> hatte,</seg> <said id="3" mode="indirect" content="speech thought" level="2">daß alles zu Ende sei und daß er sie nie wiedersehen würde.</said></said> Es war aber noch lange nicht das Ende! 
+                     Sie blieb plötzlich auf einer engen, finsteren Treppe mit der Aufschrift »Aufgang zum Amphitheater« stehen. 
+                     <said id="4" mode="direct" content="speech" level="1">»Mein Gott, wie Sie mich erschreckt haben!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> <seg id="4 5" type="speaker">sie</seg></seg>, um Atem ringend, noch immer blaß und bestürzt. <said id="5" mode="direct" content="speech" level="1">»Wie Sie mich erschreckt haben! Ich bin halbtot. Warum sind Sie hergekommen? Warum?«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="26" type="intExpr">Begreifen</seg> Sie doch, <seg id="26" type="speaker">Anna</seg></said>, <said id="27" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="27" type="intExpr">begreifen</seg> <seg id="27" type="speaker">Sie</seg> ...</said>«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">begann</seg> <seg id="6 8" type="speaker">er</seg> leise und hastig.</seg> <said id="8" mode="direct" content="speech" level="1">»<said id="28" mode="reported" content="speech" level="2"><seg id="28" type="speaker">Ich</seg> <seg id="28" type="intExpr">beschwöre</seg> Sie</said>, <said id="18" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="18" type="intExpr">begreifen</seg> <seg id="18" type="speaker">Sie</seg> doch...</said>«</said> 
+                     Sie sah ihn voller Angst, Flehen und Liebe an; sie 
+ starrte ihn an, als wollte sie sich seine Gesichtszüge für immer einprägen. 
+                     <said id="10" mode="direct" content="speech" level="1">»Ich leide so furchtbar!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">fuhr</seg> <seg id="10 12" type="speaker">sie</seg> <seg id="10" type="intExpr">fort</seg></seg>, ohne auf <said id="29" mode="reported" content="speech" level="1"><seg id="29" type="speaker">seine</seg> <seg id="29" type="intExpr">Worte</seg></said> zu hören. <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="thought" level="2"><seg id="13" type="speaker">Ich</seg> habe die ganze Zeit nur an Sie <seg id="13" type="intExpr">gedacht</seg> und in diesem Gedanken gelebt.</said> <said id="30" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="30" type="speaker">Ich</seg> wollte Sie <seg id="30" type="intExpr">vergessen</seg>, ganz <seg id="30" type="intExpr">vergessen</seg> ...</said> Doch warum, warum sind Sie hergekommen?«</said> 
+                     Auf dem nächsten Treppenabsatz standen zwei Gymnasiasten; sie rauchten und sahen auf sie hinab; aber Gurow war jetzt alles gleich; er zog Anna Ssergejewna in seine Arme und bedeckte ihr Gesicht, ihre Wangen und Hände mit Küssen. 
+                     <said id="15" mode="direct" content="speech" level="1">»Was tun Sie, was tun Sie!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagte</seg> <seg id="15 16" type="speaker">sie</seg>, ihn entsetzt wegstoßend.</seg> <said id="16" mode="direct" content="speech" level="1">»Wir sind ja beide wahnsinnig. Reisen Sie weg, noch heute, sofort ... <said id="19" mode="reported" content="speech" level="2"><seg id="19" type="speaker">Ich</seg> <seg id="19" type="intExpr">beschwöre</seg> Sie bei bei allem, was heilig ist.</said> <said id="31" mode="reported" content="speech" level="2"><seg id="31" type="speaker">Ich</seg> <seg id="31" type="intExpr">flehe</seg> Sie <seg id="31" type="intExpr">an</seg> ...</said> Man kommt her!«</said> 
+                     Jemand ging wirklich die Treppe hinauf. 
+                     <said id="21" mode="direct" content="speech" level="1">»Sie müssen abreisen ...«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">fuhr</seg> <seg id="21 22" type="speaker">Anna Ssergejewna</seg> leise <seg id="21" type="intExpr">fort</seg>.</seg> <said id="22" mode="direct" content="speech" level="1">»Hören Sie, Dmitrij Dmitrijewitsch? Ich will zu Ihnen nach Moskau kommen. Ich war nie glücklich, bin auch jetzt nicht glücklich und werde niemals glücklich sein, niemals! Quälen Sie mich nicht länger! <seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Ich</seg> <seg id="23" type="intExpr">schwöre</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2">daß ich nach Moskau kommen werde.</said> Und jetzt müssen wir uns trennen! Mein Lieber, Guter, mein Geliebter, trennen wir uns!«</said> 
+                     
+                        
+Sie drückte ihm die Hand und eilte die Treppe hinunter. Sie blickte einigemal nach ihm zurück, und er konnte in ihren Augen lesen, daß sie wirklich nicht glücklich war. Gurow stand noch eine Weile lauschend da, und als alles still wurde, nahm er seinen Mantel aus der Garderobe und verließ das Theater. 
+                  
+               
+            
+            
+               
+                  
+                     IV. 
+                     Anna Ssergejewna kam jetzt öfters zu ihm nach Moskau. <seg id="25" type="frame" pos="start">Alle zwei, drei Monate verließ <seg id="25" type="speaker">sie</seg> S. unter dem <seg id="25" type="intExpr">Vorwande</seg>,</seg> <said id="25" mode="indirect" content="speech" level="1"><seg id="24" type="speaker">sie</seg> müsse nach Moskau, <said id="24" mode="reported" content="speech" level="2" nonfact="yes">um einen Professor wegen ihres Frauenleidens zu <seg id="24" type="intExpr">konsultieren</seg></said></said>: <said id="32" mode="reported" content="thought" level="1" border="yes">der <seg id="32" type="speaker">Mann</seg> <seg id="32" type="intExpr">glaubte</seg> ihr nur halb.</said> In Moskau stieg <seg id="33" type="speaker">sie</seg> jedesmal im »Slavischen Bazar« ab und <said id="33" mode="reported" content="speech" level="1"><seg id="33" type="intExpr">schickte</seg> sofort nach ihrer Ankunft einen Mann mit roter Mütze zu Gurow.</said> Gurow besuchte sie im Hotel, und kein Mensch erfuhr etwas davon. 
+                     So ging er an einem Wintermorgen zu ihr; der Dienstmann war schon gestern abend dagewesen, hatte ihn aber nicht zu Hause getroffen.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

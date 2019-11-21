@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Andrea Delfin</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyse,_Paul_Andrea_Delfin.tg565_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Andrea Delfin</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<seg id="1" type="frame" pos="start">Da <seg id="1" type="intExpr">fiel</seg> <seg id="1" type="speaker">ihm</seg> <seg id="1" type="intExpr">ein</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">daß der alte Malapiero ohne Zweifel sich von Dienern werde geleiten lassen</said>, <seg id="10" type="frame" pos="start">und augenblicklich <seg id="10" type="intExpr">begriff</seg> <seg id="10" type="speaker">er</seg> die Unmöglichkeit,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">in diesem Fall den Schlag zu führen.</said> Fast war es ihm lieb, einen Vorwand zu sehen, weshalb er heute unverrichteter Sache nach Hause gehen müsse. Aber indem er schon mit einem Fuß aus der Höhlung der Türnische heraustrat, öffnete sich drüben das Portal des Palastes, und in der grauen Nacht sah er die stattliche Figur, in den Mantel gehüllt, einsam über die Schwelle treten und auf ihn zukommen. Das weiße Haar wallte deutlich genug unter dem Hute vor, der rasche Schritt erklang über den Steinplatten, und sorgfältig hielt sich der späte Wanderer an den Häusern. Jetzt näherte er sich dem Hause, in dessen Schatten der Rächer stand; <said id="3" mode="reported" content="thought" level="1" nonfact="yes">als <seg id="3" type="intExpr">ahne</seg> <seg id="3" type="speaker">er</seg> die Nähe einer Gefahr</said>, schlug er den Mantel vor das Gesicht und hielt die Linke fest am Griff seines Degens, den er trotz des Waffenverbotes an der Seite trug. Er ging an seinem Feinde vorüber, ohne ihn zu gewahren; zehn, zwanzig Schritte weit ließ ihn jener Vorsprung gewinnen. Schon näherte sich der Einsame der Brücke. Auf einmal hört er einen Fußtritt hinter sich, er wendet sich um, die Hand läßt den Mantel sinken, aber in demselben Augenblick bricht seine hohe Gestalt zusammen; der Stahl war ihm tief ins Leben gefahren. 
+                  
+                     <said id="4" mode="direct" content="speech" level="1">Meine Mutter, meine arme Mutter!</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">stöhnte</seg> der <seg id="4" type="speaker">Ermordete</seg>.</seg> Dann sank <seg id="11" type="speaker">sein</seg> Haupt auf das Pflaster. Die Augen schlossen sich für immer. 
+                  Eine Stille von mehreren Minuten folgte auf <said id="11" mode="reported" content="speech" level="1">diese <seg id="11" type="intExpr">Abschiedsworte</seg>.</said> Der Tote lag quer über die Straße ausgestreckt, mit ausgebreiteten Armen, als wollte er das treulose Leben inbrünstig umfangen. Der Hut war ihm von der Stirn gefallen, unter der Verkleidung der weißen Locken drängte sich das natürliche braune Haar hervor, das jugendliche Gesicht erschien wie schlafend in der falben Dämmerung der Nacht. Und einen Schritt von ihm entfernt an der Wand des nächsten Hauses, starr wie eine angelehnte Bildsäule, stand der <seg id="5 6 12" type="speaker">Mörder</seg>, und seine Augen stierten in die regungslosen Züge des Jünglings und mühten sich in verzweifelter Angst vergebens ab, <said id="5" mode="reported" content="thought" level="1">die entsetzliche Gewißheit <seg id="5" type="intExpr">sich</seg> zu <seg id="5" type="intExpr">verleugnen</seg></said>, <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">sich</seg> <seg id="6" type="intExpr">einzureden</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">daß ein Spuk ihn verblende, daß unter dieser jungen Larve, die ihm die Hölle vorhalte, sich die Züge jenes Alten versteckten, der kurz zuvor im Saal Leonorens dem Freund Andreas einen Hinterhalt bestellt hatte.</said> <said id="12" mode="freeIndirect" content="thought" level="1">Hatte er nicht dieses Freundes wegen sich geeilt, den Streich zu führen? Wollte er nicht der Mutter ihren Sohn wohlbehalten zurücksenden? <said id="13" mode="reported" content="speech" level="2">Und was hatte der <seg id="13" type="speaker">Mann</seg>, der dort am Boden lag, von seiner armen Mutter <seg id="13" type="intExpr">gelallt</seg>?</said> Warum stand nun der Richter und Rächer wie ein Verurteilter und vermochte kein Glied zu regen, obwohl seine Zähne wie in Todesangst klapperten und Frost seinen Körper schüttelte?</said> 
+                  Das Blut, das ihm gegen die Augen tobte, trat zurück und stürzte nach den Herzkammern. Seine Blicke erkannten deutlich den Dolch in der Brust des Toten. <said id="7" mode="reported" content="writing" level="1" border="yes" metaph="yes"><seg id="7" type="speaker">Er</seg> <seg id="7" type="intExpr">las</seg> in dem trüben Zwielicht, die Worte auf dem Heft</said>, die er mit eigener Hand mühsam eingegraben hatte: <said id="8" mode="direct" content="writing" level="1" metaph="yes">»Tod allen Staatsinquisitoren«.</said> <said id="9" mode="reported" content="speech" level="1"><seg id="9" type="speaker">Er</seg> <seg id="9" type="intExpr">sprach</seg> sie unwillkürlich laut <seg id="9" type="intExpr">aus</seg></said>, und ließ seine Augen zwischen der verhängnisvollen Waffe und dem Gesicht des armen Opfers hin und her gehen, sich sättigend mit dem vernichtenden Widerspruch zwischen diesen Worten und diesen Zügen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

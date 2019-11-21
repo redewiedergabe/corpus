@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Steinklopfer</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Die_Steinklopfer.tg197_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Steinklopfer</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Aber wie stell ich es an, bis Samstag zu leben«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> <seg id="1 2" type="speaker">er</seg> kleinlaut.</seg> <said id="2" mode="direct" content="speech" level="1">»Heut ist erst Mittwoch. Wenn ich nichts von ihm auf Borg nehmen darf, so muß ich verhungern.«</said> 
+                     Sie hatte sich schon früher am Saume ihres Rockes zu schaffen gemacht und einen kleinen Teil der Naht aufgetrennt. Jetzt zog sie ein zusammengewickeltes Stückchen Papier daraus hervor und entfaltete es langsam. Es war eines jener Banknotenfragmente, welche damals in Österreich unter dem Namen »Viertel« im Umlaufe waren und die mangelnde Scheidemünze ersetzen mußten. Sie reichte es Georg hin. <said id="4" mode="direct" content="speech" level="1">»Nimm«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">sie</seg>;</seg> <said id="4" mode="direct" content="speech" level="1">»das langt bis Samstag, wenn du recht sparsam bist. Du kannst es mir allwöchentlich kleinweise von deinem Lohn zurückgeben.«</said> 
+                     Er blickte sprachlos auf das abgegriffene Zettelchen in ihrer Hand. Überraschung, Rührung und verschämte Freude malten sich wundersam in seinem Antlitz. Er war wie betäubt und regte sich nicht. 
+                     <said id="5" mode="direct" content="speech" level="1">»Es ist mein einziges«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">fuhr</seg> <seg id="5 6 10" type="speaker">sie</seg> treuherzig <seg id="5" type="intExpr">fort</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">»Unser Ingenieur hat mir's geschenkt, als er im vorigen Monate hier war. Er hatte seinen Mantel in der nächsten Hütte liegen lassen, und den mußt' ich ihm holen. Aber <seg id="20" type="speaker">du</seg> tust mir einen Gefallen, wenn du das Geld nimmst. Ich fürcht immer, ich könnt' es verlieren; derhalb hab' ich's auch in meinen Rock eingenäht. <said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Wenn der <seg id="8" type="speaker">Aufseher</seg> darum <seg id="8" type="intExpr">wüßte</seg></said>, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">hätt' <seg id="9" type="speaker">er</seg> mir's längst <seg id="9" type="intExpr">abgefordert</seg>.</said>«</said> Und damit legte sie es in seine Hand. <said id="10" mode="direct" content="speech" level="1">»Aber jetzt komm und laß uns zum Essen gehen. <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">Vergiß</seg> nicht,</seg> <said id="20" mode="indirect" content="thought" level="2"><said id="11" mode="reported" content="speech" level="3">was <seg id="11" type="speaker">ich</seg> dir wegen des Fleisches <seg id="11" type="intExpr">gesagt</seg> habe</said></said>, und begnüg dich mit dem übrigen. Das Mehl ist zwar auch meistens dumpfig; aber gestern haben sie frische Kartoffeln gebracht. Und abends kannst du dir ein Glas Branntwein gönnen; das wird dir gut tun.«</said> Er stand auf und folgte ihr schweigend. Nach einigen Schritten blieb er stehen und blickte ihr tief in die sanften braunen Augen. <said id="12" mode="direct" content="speech" level="1">»Wie soll ich dir's vergelten, Tertschka«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">sprach</seg> <seg id="12 13" type="speaker">er</seg> mit zitternder Stimme.</seg> <said id="13" mode="direct" content="speech" level="1">»So gut und lieb wie du war noch kein Mensch mit mir.«</said> 
+                     
+                        <said id="14" mode="direct" content="speech" level="1">»Ach was«</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">erwiderte</seg> <seg id="14" type="speaker">sie</seg>;</seg> <said id="14" mode="direct" content="speech" level="1">»man muß sich gegenseitig helfen in der Welt. Und dann – du bist ja auch gut. Das hab' ich dir gleich gestern angesehen, als du kamst.«</said> 
+                     Sie hatten die Hütte erreicht. Drinnen umlagerten die andern, aus schadhaften Näpfen essend, bereits den Herd, an welchem der Aufseher stand, die Ärmel aufgekrempelt und mit vorgebundener Schürze. Er war eben im Begriffe, ein mächtiges Bratenstück anzuschneiden, dessen brenzlicher Duft den Eintreten den entgegenschlug und Georg einen unwillkürlichen Seufzer entlockte. Auch die übrigen blickten gierig nach dem fetttriefenden Fleische und nahmen der Reihe nach ein Stück davon in Empfang, das sie von der Faust weg verzehrten. Einige legten Geld dafür nieder; bei den meisten jedoch machte der Aufseher ein Zeichen in ein kleines Büchlein. <seg id="17 19" type="speaker">Georg</seg> hatte von Tertschka einen Napf erhalten; damit näherte er sich nun dem Herde. Der Aufseher sah ihn befremdet an. Endlich entsann er sich. <said id="15" mode="direct" content="speech" level="1">»Aha, der Knirps von gestern!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> <seg id="15 16 18" type="speaker">er</seg>.</seg> <said id="16" mode="direct" content="speech" level="1">»Nun, hast du etwas gearbeitet?«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Ja; Steine hab' ich zerschlagen.«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Und nun hast du Lust, zu essen. Was willst du?«</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»Ich möcht euch um Grütze und Kartoffeln bitten.«</said> 
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt05_1868_12.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Biographie</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Dies war etwas Außerordentliches, da der Kardinal nicht gewohnt war, dem König eine
+                        solche Aufmerksamkeit zu erweisen. <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Der <seg id="1" type="speaker">König</seg> <seg id="1" type="intExpr">antwortete</seg> nicht.</said>
+                        <said id="2" mode="reported" content="thought" level="1"><seg id="2 3" type="speaker">Chamarante</seg>, über dieses Schweigen sehr <seg id="2" type="intExpr">verwundert</seg></said>, betrachtete, <said id="3" mode="reported" content="thought" level="1">um
+                        
+               
+               <seg id="3" type="intExpr">sich</seg> dasselbe zu <seg id="3" type="intExpr">erklären</seg></said>, bald Dumont, den Unterhofmeister, bald Laporte und einen Zimmerjungen, der gegenwärtig war. <said id="4" mode="reported" content="speech" level="1"><seg id="4 9" type="speaker">Laporte</seg>, <seg id="5" type="frame" pos="start"><said id="6" mode="reported" content="thought" level="2"><seg id="5 6" type="speaker">der</seg>
+                        Chamarante für einen Spion <seg id="6" type="intExpr">hielt</seg></said> und <seg id="5" type="intExpr">fürchtete</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2"><seg id="7" type="frame" pos="start">daß <seg id="7" type="speaker">man</seg> <seg id="7" type="intExpr">glauben</seg>
+                        möchte,</seg> <said id="7" mode="indirect" content="thought" level="3">daß er es sei, der dem König solche Dinge gegen den Kardinal in den Kopf setze</said></said>, <seg id="4" type="intExpr">wiederholte</seg>, <said id="8" mode="reported" content="speech" level="2">was <seg id="8" type="speaker">Chamarante</seg> eintretend <seg id="8" type="intExpr">gesagt</seg> hatte</said></said>, <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">bemerkte</seg> Seiner Majestät,</seg> <said id="9" mode="indirect" content="speech" level="1">daß Sie schlafen gehen
+                        müßten, um Jhro Eminenz nicht länger warten zu lassen.</said> <said id="31" mode="reported" content="speech" level="1" nonfact="yes">Der
+                        <seg id="31" type="speaker">König</seg> spielte aber den Tauben und blieb <seg id="31" type="intExpr">stumm</seg></said> und unbeweglich, so
+                        daß der Kardinal, nachdem er beinahe eine halbe Stunde gewartet
+                        hatte, sich langweilte und die kleine Treppe hinabstieg, die auf den
+                        Korridor führte. Als er wegging, machten die Degen und Sporen
+                        der Leute, die in seiner Begleitung waren, einen solchen Lärm, <said id="10" mode="reported" content="thought" level="1">daß
+                        der <seg id="10" type="speaker">König</seg> sich endlich zu reden <seg id="10" type="intExpr">entschloß</seg>.</said>
+            <said id="11" mode="direct" content="speech" level="1">„Der Herr Kardinal“</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">er</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">„macht einen entsetzlichen Lärm;
+                        er muß wenigstens fünfhundert Personen in seinem Gefolge haben.“</said>
+                         
+            <said id="12" mode="reported" content="speech" level="1" border="yes">Mit dem vierzehnten Jahre wurde der König „mündig“ <seg id="12" type="intExpr">erklärt</seg></said>, und sollte nunmehr selbstständig und allein regieren; allein er
+                        blieb nach wie vor und hinsichtlich der bedeutendsten Dinge von dem
+                        Kardinal abhängig, was folgende Geschichtchen beweisen.
+            <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Birragues</seg>, der erste Garderobier des Königs, hatte den <seg id="14" type="speaker">Herrn
+                        von Cr é qui</seg>, den dienstthuenden Kammerherrn, <seg id="13" type="intExpr">gebeten</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1"><said id="14" mode="reported" content="speech" level="2" nonfact="yes">ein gutes <seg id="14" type="intExpr">Wort</seg>
+                        für seinen <seg id="15" type="speaker">Vetter</seg> einzulegen</said></said>, der, Fähndrich bei einem Regiment der
+                        Picardie, in dem Gefecht von Etampes blessirt war und <said id="15" mode="reported" content="speech" level="1">um die
+                        Stelle seines Lieutenants <seg id="15" type="intExpr">bat</seg></said>, welcher in demselben Treffen gefallen
+                        war. <seg id="16" type="frame" pos="start"><said id="32" mode="reported" content="thought" level="1">Der <seg id="16 17 32" type="speaker">König</seg> <seg id="32" type="intExpr">fand</seg> die Gewährung dieser Bitte gerecht</said> und <seg id="16" type="intExpr">versprach</seg> sehr freundlich,</seg> <said id="16" mode="indirect" content="speech" level="1"><said id="17" mode="reported" content="speech" level="2" nonfact="yes">mit der Königin und dem Kardinal darüber zu
+                        <seg id="17" type="intExpr">sprechen</seg></said></said>; <said id="18" mode="reported" content="speech" level="1" nonfact="yes">aber fünf oder sechs Tage darauf hatte <seg id="18" type="speaker">er</seg> noch keine <seg id="18" type="intExpr">Antwort</seg> gegeben</said>, und <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Herr von Cr é qui</seg>, der zugegen war, als Laporte
+                        ihn ankleidete, <seg id="19" type="intExpr">fragte</seg> ihn,</seg> <said id="19" mode="indirect" content="speech" level="1">ob <seg id="20" type="speaker">er</seg> die Gnade gehabt, <said id="20" mode="reported" content="thought" level="2" nonfact="yes">sich des Anliegens von Herrn Birragues zu <seg id="20" type="intExpr">erinnern</seg>?</said></said> <said id="21" mode="reported" content="speech" level="1" nonfact="yes">Der <seg id="21" type="speaker">König</seg> <seg id="21" type="intExpr">antwortete</seg>
+                        nicht</said> und stellte sich, als habe er Nichts gehört.
+            <said id="22" mode="direct" content="speech" level="1">„Sire“</said><seg id="22" type="frame" pos="mid">, <seg id="22" type="intExpr">sagte</seg> nun <seg id="22" type="speaker">Laporte</seg>, der, die Schleifen an den Beinkleidern
+                        des Königs zubindend, neben ihm kniete,</seg> <said id="22" mode="direct" content="speech" level="1">„Sire, die, welche die Ehre
+                        haben, Ew. Majestät anzugehören, sind sehr unglücklich, <seg id="33" type="frame" pos="start">weil <seg id="33 34" type="speaker">sie</seg> nicht
+                        einmal <seg id="33" type="intExpr">hoffen</seg> dürfen,</seg> <said id="33" mode="indirect" content="thought" level="2" nonfact="yes"><said id="34" mode="reported" content="thought" level="3">die gerechtesten Wünsche</said> erfüllt zu sehen.</said>“</said>
+                         
+            <seg id="24" type="frame" pos="start">Nun näherte der <seg id="24" type="speaker">König</seg> seinen Mund dem Ohr des Kammerdieners
+                        und <seg id="24" type="intExpr">sagte</seg> leise und klagend:</seg>
+                         
+            <said id="24" mode="direct" content="speech" level="1">„Es ist nicht meine Schuld, mein lieber Laporte; <said id="25" mode="reported" content="speech" level="2"><seg id="25" type="speaker">ich</seg> habe mit
+                        ihm davon <seg id="25" type="intExpr">gesprochen</seg></said>, aber es hat Nichts geholfen.“</said>
+                         
+            <said id="26" mode="direct" content="speech" level="1">„Sieh, Laporte“</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">sagte</seg> der <seg id="26" type="speaker">König</seg> eines Morgens zu seinem
+                        <seg id="27" type="speaker">Kammerdiener</seg>, indem er eine Hand voll Goldstücke aus seiner Tasche
+                        nahm,</seg> <said id="26" mode="direct" content="speech" level="1">„hier sind hundert Louis, die der Herr Direktor der Finanzen
+                        mir schickt, theils um sie zu meinem Vergnügen zu verwenden, theils
+                        um freigebig gegen die Soldaten sein zu können. Verwahre
+                        sie mir.“</said>
+                         
+            <said id="27" mode="direct" content="speech" level="1">„Und warum will Ew. Majestät sie nicht selbst verwahren?“</said>
+                         
+            <said id="28" mode="direct" content="speech" level="1">„Ach“</said><seg id="28" type="frame" pos="mid">, <seg id="28" type="intExpr">sagte</seg> der <seg id="28" type="speaker">König</seg>,</seg> <said id="28" mode="direct" content="speech" level="1">„<seg id="29" type="frame" pos="start">weil <seg id="29" type="speaker">ich</seg> <seg id="29" type="intExpr">fürchte</seg>,</seg> <said id="29" mode="indirect" content="thought" level="2">daß bei den langen
+                        Stiefeln, die ich trage, dieses Geld mich belästigen würde.</said>“</said>
+                         
+            <said id="30" mode="direct" content="speech" level="1">„Ja, wenn es in den Taschen der Beinkleider bliebe“</said><seg id="30" type="frame" pos="mid">, <seg id="30" type="intExpr">antwortete</seg>
+                        <seg id="30" type="speaker">Laporte</seg>,</seg> <said id="30" mode="direct" content="speech" level="1">„aber warum wollen Ew. Majestät es nicht in die Tasche
+                        Jhres Wammses stecken?“</said>
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

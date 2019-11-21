@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt32_1869_1.xml</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Es giebt <said id="1" mode="reported" content="thought" level="1">plötzliche <seg id="1" type="intExpr">Gedanken</seg>, die wie ein Blitz einschlagen und
+                        ebenso elektrisch fortwirken</said>, und als ein solcher bewies sich für die gesammte <seg id="1 4" type="speaker">Abendgesellschaft</seg> des Bodenhauses <seg id="3" type="frame" pos="start">der <seg id="3" type="intExpr">Einfall</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1"><said id="2" mode="reported" content="speech" level="2" border="yes">die gemeiniglich
+                        „Zur Burg“ <seg id="2" type="intExpr">benannte</seg> Ruine</said> in der Nähe des Dorfes noch in der
+                        Nacht mit Fackeln zu besuchen.</said> <said id="4" mode="reported" content="speech" level="1">Eine allgemeine <seg id="4" type="intExpr">Zustimmung</seg> erfolgte</said>,
+                        von der sich nur wenige der anwesenden Herren und von den fackelbeleuchteter Romantik selten abgeneigten Damen nur einige, besonders
+                        ältliche, ausschlossen, und der Art improvisirter Unternehmungen gemäß, waren die nöthigen Vorbereitungen schneller getroffen, <said id="5" mode="reported" content="thought" level="1" nonfact="yes">als wenn
+                        <seg id="5" type="speaker">man</seg> sich tagelang <seg id="5" type="intExpr">vorbedacht</seg></said>, für diesen Moment gerüstet hätte. Kaum
+                        eine Viertelstunde war <said id="6" mode="reported" content="speech" level="1">nach der ersten <seg id="6" type="intExpr">Anregung</seg> <said id="7" mode="reported" content="thought" level="2">der <seg id="7" type="intExpr">Jdee</seg></said></said> verflossen,
+                        als sich schon die aus dreißig Theilnehmern bestehende Cavalcade
+                        unter dem rothglühenden Licht eines halben Dutzend von Fackeln und
+                        unter Führung eines seit längerer Zeit der Gegend genau kundigen,
+                        alten Herrn, ihrem Ziel entgegenbewegte. Nisida eröffnete, an Lindhorst 's Arm, den Vortrab, an ihrer andern Seite tänzelte Herr von
+                        Goldapfel so elegant am Rande eines im Dunkel verschwindenden Absturzes, <seg id="8" type="frame" pos="start">daß die <seg id="8" type="speaker">Sängerin</seg>, zwar ohne besondere Gemüthsaffektion, aber
+                        doch ein über das andere Mal <seg id="8" type="intExpr">wiederholte</seg>,</seg><said id="8" mode="indirect" content="speech" level="1"> <seg id="9" type="speaker">er</seg> werde noch der Narrenburg und seinem Faible zu Liebe den Hals brechen.</said>
+           <said id="9" mode="direct" content="speech" level="1"> „Wenn Sie darüber weinen wollten, meine Gnädige, würde mir
+                        zur Ehre anrechnen. Zwar plebejische Todesart, Genick brechen, <said id="10" mode="reported" content="thought" level="2"><seg id="10" type="intExpr">erinnert</seg>
+                        an gehängt werden</said> <said id="11" mode="reported" content="thought" level="2">Aber wie <seg id="11" type="intExpr">sagt</seg> von <seg id="11" type="speaker">Schiller</seg>?</said> Ein Augenblick von
+                        Jhnen auf solcher Wiese, wird nicht zu theuer mit dem Genick bezahlt.
+                        Bin so bezaubert von Jhrer Nähe, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="12 13" type="speaker">ich</seg> nur mit Dichtern <seg id="12" type="intExpr">reden</seg>
+                        möchte, sogar mit Juden.</said> <said id="13" mode="reported" content="thought" level="2">Werde immer an Loreley von Cohn oder
+                        Heine <seg id="13" type="intExpr">erinnert</seg></said>, wenn <seg id="15" type="speaker">ich</seg> Sie ansehe.AproposLoreley, <said id="14" mode="reported" content="thought" level="2">genialer <seg id="14" type="intExpr">Gedanke</seg></said>, Sie müssen auf Ruine sitzen und singen. Wahrhaftig, <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">versichere</seg> Sie</seg>, <said id="15" mode="indirect" content="speech" level="2"><seg id="16" type="frame" pos="start">stürze <seg id="16" type="speaker">mich</seg> sonst vor Jhren Augen von alter Mauer herunter und <seg id="15" type="intExpr">rufe</seg>:</seg><said id="16" mode="direct" content="speech" level="3" nonfact="yes"> Das hat mit ihrem Nichtsingen die göttliche Nisida
+                        gethan!</said></said>“
+ </said>                        
+          <said id="18" mode="direct" content="speech" level="1">  „Das wäre schade für ihre Toilette“</said><seg id="18" type="frame" pos="mid">,<seg id="18" type="intExpr"> lachte</seg> die <seg id="18" type="speaker">Sängerin</seg>,</seg><said id="18" mode="direct" content="speech" level="1"> „<seg id="19" type="frame" pos="start">aber
+                       <seg id="19" type="speaker"> ich</seg> <seg id="19" type="intExpr">wiederhole</seg> Jhnen,</seg> <said id="19" mode="indirect" content="speech" level="2">sehen Sie vor die Füße und nicht in meine
+                        Augen, sonst könnte das Malheur zu früh eintreten</said>; es wird glatt hier.“
+ </said>                        
+            Den Nachtrab bildete das Kemptener Gymnasium. Es hatte sich
+                        in corporebetheiligt, marschirte aber, in dem Gefühl, auch geistig
+                        in die Arrieregarde zurückgedrängt zu sein, stumm und verdrossen.
+                        Der lange Fritz kaute unausgesetzt an den Nägeln; <said id="21" mode="reported" content="speech" level="1"><seg id="21" type="speaker">Windflucht</seg> <seg id="21" type="intExpr">murmelte</seg> etwas von „Nachtfeier der Venus“.</said> <seg id="22" type="frame" pos="start">Das veranlaßte <seg id="22" type="speaker">Tritschler</seg>
+                        zu <seg id="22" type="intExpr">summen</seg>:
+ </seg>                        
+         <said id="22" mode="direct" content="speech" level="1">   „Heute liebe, wer noch nimmer
+                        Hat geliebet je zuvor;
+                        Wer geliebet sonst und immer,
+                        Liebe heute nach wie vor - 
+            Gedicht an Molly“</said><seg id="22" type="frame" pos="end">, <seg id="22" type="intExpr">setzte</seg> <seg id="22" type="speaker">er</seg>, literar=historisch kommentirend, <seg id="22" type="intExpr">hinzu</seg>.</seg>
+           <said id="23" mode="direct" content="speech" level="1"> „Ja, ihr Gesicht istjoli“</said><seg id="23" type="frame" pos="end">, <seg id="23" type="intExpr">nickte</seg> <seg id="23" type="speaker">Briesack</seg>.
+ </seg>         <said id="24" mode="direct" content="speech" level="1">  „Und ihr seid Allejaloux“</said><seg id="24" type="frame" pos="mid">, <seg id="24" type="intExpr">platzte</seg> <seg id="24" type="speaker">Otto Busse</seg> <seg id="24" type="intExpr">heraus</seg>,</seg><said id="24" mode="direct" content="speech" level="1"> „bis auf
+                        Kleist, <seg id="25" type="frame" pos="start">und wenn <seg id="25" type="speaker">Kleist</seg> <seg id="25" type="intExpr">wüßte</seg>,</seg> <said id="25" mode="indirect" content="thought" level="2" nonfact="yes"><said id="26" mode="reported" content="thought" level="3">was <seg id="26" type="speaker">ich</seg> <seg id="26" type="intExpr">weiß</seg></said></said>, wäre er es erst recht.“</said>
+                         
+            <seg id="27" type="speaker">Kleist</seg> schien indeß auch so auf <said id="27" mode="reported" content="speech" level="1">das <seg id="27" type="intExpr">bezeichnete</seg> Epitheton</said> Anspruch
+                        machen zu wollen, <seg id="28" type="frame" pos="start">denn <seg id="28" type="speaker">er</seg><seg id="28" type="intExpr"> sagte</seg> in demselben Augenblick zu Hilmar,
+                        mit dem er wieder Arm in Arm ging:
+ </seg>                        
+           <said id="28" mode="direct" content="speech" level="1"> „Du bist manchmal recht wunderlich, Ernst. <seg id="29" type="frame" pos="start"><seg id="29" type="speaker">Jch</seg> <seg id="29" type="intExpr">begreife</seg> nicht,</seg>
+                       <said id="29" mode="indirect" content="thought" level="2" nonfact="yes"> wie Du allein zu dem Zimmer gekommen bist, <seg id="30" type="frame" pos="start">da<seg id="30" type="speaker"> man</seg> uns Allen
+                       <seg id="30" type="intExpr"> erklärt</seg> hat,</seg> <said id="30" mode="indirect" content="speech" level="3">daß keins mehr vorhanden sei.</said></said> <seg id="31" type="frame" pos="start">Was <seg id="31" type="speaker">ich</seg> aber noch weniger <seg id="31" type="intExpr">begreife</seg>,</seg><said id="31" mode="indirect" content="thought" level="2" nonfact="yes"> ist --</said>“
+ </said>                        
+            Der Sprecher sah sich abbrechend um, denn Otto Busse zupfte
+                        ihn am Aermel.
+           <said id="32" mode="direct" content="speech" level="1"> „Was willst Du, Kleiner?“ </said><seg id="32" type="frame" pos="end"><seg id="32" type="intExpr">fragte</seg> <seg id="32" type="speaker">er</seg>.</seg>
+            <seg id="33" type="frame" pos="start">Der <seg id="33" type="speaker">Sekundaner </seg><seg id="33" type="intExpr">machte</seg></seg><said id="33" mode="direct" content="speech" level="1"> „Pst!“</said> und legte den Finger auf den Mund.
+                        <seg id="38" type="frame" pos="start"><seg id="38" type="speaker">Kleist </seg>blickte sich um, was das Zeichen bedeuten solle, gewahrte indeß
+                        nichts und <seg id="38" type="intExpr">erwiderte</seg>:
+ </seg>                        
+           <said id="38" mode="direct" content="speech" level="1"> „Sei nicht so albern, Otto. <seg id="37" type="frame" pos="start"><seg id="37" type="speaker">Jch</seg> <seg id="37" type="intExpr">weiß</seg> wenigstens</seg>“</said><seg id="38" type="frame" pos="mid">, <seg id="38" type="intExpr">fuhr</seg> <seg id="38" type="speaker">er</seg>, gegen
+                        Hilmar gewendet, <seg id="38" type="intExpr">fort</seg>,</seg> <said id="38" mode="direct" content="speech" level="1">„<said id="37" mode="indirect" content="thought" level="2" border="yes">daß, wenn ich wirklich Freundschaft für einen
+                        Andern empfände, ich anders gehandelt hätte.</said></said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

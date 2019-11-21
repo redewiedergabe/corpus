@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Shakespeare-Jubiläum zu Stratford.</title>
+             <author>Hiltl, George</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt20_1868_9.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Shakespeare-Jubiläum zu Stratford.</f>
+         <f name="author">Hiltl, George</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1"><said id="2" mode="reported" content="speech" level="2" nonfact="yes">Uebrigens will ich
+                        mir nicht in meine Befugnisse <seg id="2" type="intExpr">hineinschwatzen</seg> lassen.</said> Also Gott befohlen,
+                        meine Herren!“</said> Damit ging <seg id="1" type="speaker">er</seg> in ein anderes Zimmer und ließ die Magistratsbeamten verdutzt stehen. Mr. Brummel ging langsam durch das
+                        Zimmer, die Stiege hinab und durch den Garten. Seine Kollegen folgten
+                        ihm. Sie warfen noch einen wehmüthigen Blick auf den Baum. Da
+                        stand er und breitete seine noch kraftvollen, mit den saftigen grünen
+                        Blättern bedeckten Zweige über das Dach des Hauses hin; die Abendsonne
+                        spielte auf dem Laubwerk, welches wie mit feinem Silber bezogen glänzte.
+                        Kleine Vögel flatterten umher und zwitscherten. Malerisch trat das Haus
+                        zwischen den Bäumen hervor, die es förmlich zu umarmen schienen, und
+                        der Maulbeerbaum Shakespeare's war der nächste an dem alten Gemäuer;
+                        es mußte einen häßlichen Fleck, eine abscheuliche Lücke, ein garstiges Loch
+                        in diesem reizenden Bilde geben, wenn die freche Hand des Holzfällers den
+                        schönen Baum niedergestreckt hatte. Mr. Brummel und seine Kollegen
+                        befanden sich in einem Zustande höchster Erregung, und deßhalb schien
+                        es sehr natürlich, daß sie sich keinen Zwang anzuthun im Stande
+                        waren. <said id="20" mode="reported" content="speech" level="1"><seg id="21" type="frame" pos="start"><seg id="21 20 22" type="speaker">Sie</seg> <seg id="21 20" type="intExpr">erzählten</seg></seg> Abends im Wirthshaus „Zum brittischen Wappen“
+                        von ihrer verunglückten Mission</said>, und <said id="21" mode="indirect" content="speech" level="1" border="yes"><seg id="22" type="frame" pos="start">wie es keinem <seg id="22" type="intExpr">Zweifel</seg> unterliege,</seg>
+                        <said id="22" mode="indirect" content="thought" level="2">daß Mr. Fitz=Patrick den Maulbeerbaum Williams umhauen lassen werde.</said></said>
+                        Die Magistratsbeamten handelten nun zwar, wie es Männern von Gefühl
+                        nicht verargt werden konnte, die ihrer Entrüstung über einen solchen Vandalismus freien Lauf ließen; allein als Väter der Stadt begingen sie
+                        immerhin eine Unvorsichtigkeit. <seg id="7" type="frame" pos="start">Noch an demselben Abend wurde nämlich
+                        die schreckliche Gewißheit <seg id="7" type="intExpr">kolportirt</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">daß der Baum des heiligen William
+                        durch die Axt fallen solle, <said id="23" mode="reported" content="speech" level="2">und zwar auf <seg id="23" type="intExpr">Geheiß</seg> eines <seg id="23" type="speaker">Pfarrers</seg>.</said></said> Die
+                        Amtsgenossen des Mr. Fitz=Patrick waren selbst sehr ungehalten darüber;
+                        aber sie hatten auf den störrischen Mann keinen Einfluß, und mieden
+                        seinen Umgang. Die Bevölkerung Stratfords aber verhielt sich nicht so
+                        passiv. <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Sie</seg> rottete sich an verschiedenen Orten zusammen und <seg id="9" type="intExpr">beschloß</seg>,</seg>
+                        <said id="9" mode="indirect" content="speech" level="1">dem Pfarrer Fitz=Patrick eine Sturmpetition zuzusenden.</said> <said id="10" mode="reported" content="speech" level="1">Unter lauten
+                        <seg id="10" type="intExpr">Hochs</seg> auf Shakespeare trennte <seg id="10" type="speaker">man</seg> sich.</said> Mr. Fitz=Patrick achtete jedoch
+                        nicht dieser drohenden Anzeichen. Noch spät in der Nacht kam der Tischler
+                        Bill Borry aus dem Alehause zurück. Da begegnet ihm Joe Smith. Joe
+                        war Gartengehülfe bei dem Pfarrer. <said id="11" mode="direct" content="speech" level="1">„Morgen giebt es großen Spektakel“</said><seg id="11" type="frame" pos="end">,
+                        <seg id="11" type="intExpr">sagte</seg> <seg id="11 12" type="speaker">Joe</seg> zu Bill.</seg> <said id="12" mode="direct" content="speech" level="1">„Jch haue um sieben Uhr früh den Maulbeerbaum
+                        Shakespeare's um“.</said> Bill Borry fuhr heftig auf. <said id="13" mode="direct" content="speech" level="1">„Was? Der Pfarrer
+                        hat den Teufel im Leibe!“</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">rief</seg> <seg id="13 14" type="speaker">er</seg>.</seg> <said id="14" mode="direct" content="speech" level="1">„Er will sich wirklich die Stadt auf
+                        den Hals laden?“</said> <seg id="15 18" type="speaker">Joe</seg> zuckte die Achseln. <said id="15" mode="direct" content="speech" level="1">„Wer kann's hindern? Er ist
+                        ja doch Herr seines Gutes“.</said> <said id="16" mode="direct" content="speech" level="1">„Jch legte nicht Hand an den Baum“</said><seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">sagte</seg>
+                        <seg id="16 17" type="speaker">Bill</seg>.</seg> <said id="17" mode="direct" content="speech" level="1">„Man hat Beispiele, daß den Baumschändern die Hände verdorren“.</said>
+                        <said id="18" mode="direct" content="speech" level="1">„Hm! Der Pfarrer kann's ausmachen. Jch bin ein armer Teufel, ich diene
+                        für Tagelohn, <said id="19" mode="reported" content="speech" level="2">und obenein hat mir der <seg id="19" type="speaker">Pfarrer</seg> das ganze Holz des gefällten Baumes <seg id="19" type="intExpr">versprochen</seg></said> -- das giebt ein tüchtig Häuflein für die
+                        Küche und den Heerd“.</said> Bill Borry stand einige Sekunden still. <said id="24" mode="reported" content="thought" level="1" nonfact="yes">Ein
+                        <seg id="24" type="intExpr">Gedanke</seg> schien <seg id="24" type="speaker">ihm</seg> zu kommen.</said> Er war selbst nur ein kleiner Arbeiter,
+                        der sich und die Seinigen mühsam ernährte; wenn er nur einmal einen
+                        guten Zug thun konnte, dann war ihm geholfen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

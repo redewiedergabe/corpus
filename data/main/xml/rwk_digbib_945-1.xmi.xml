@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Fee von Argouges</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_Die_Fee_von_Argouges.tg105_1.xml</f>
+         <f name="year">1878</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Fee von Argouges</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<seg id="1" type="frame" pos="start"><seg id="1 3" type="speaker">Sie</seg> <seg id="1" type="intExpr">beschloß</seg> daher,</seg> <said id="1" mode="indirect" content="thought" level="1">auf ihre Toilette eine Mühe zu verwenden, wie nie zuvor.</said> <seg id="16" type="frame" pos="start">Schon seit Wochen bewegte <seg id="16" type="speaker">ihr</seg> überirdisches Herz die inhaltschwere <seg id="16" type="intExpr">Frage</seg>:</seg> <said id="16" mode="direct" content="thought" level="1">»Welches Kleid werde ich anziehen? Das weiße, das die Elfen aus Mondesstrahlen gewoben, oder das himmelblaue aus Aetherduft gebildete, oder das duftige Rosengewand von Nebeln, welche die Abendröthe angehaucht, oder das seegrüne Kleid, gewirkt aus der spiegelglatten Fläche des Oceans?«</said> <said id="3" mode="freeIndirect" content="thought" level="1">Weiß – das ging nicht! diese Farbe trug die Braut! Blau – keine rechte Abendfarbe! Rosa – zu mädchenhaft! Seegrün – dies paßte und war zugleich das Neueste!</said> 
+                  Der verhängnißvolle Tag erschien, und schon frühzeitig zog sich die schöne Frau in ihr Gemach zurück, ihre Toilette zu beginnen. <seg id="4" type="frame" pos="start">Der <seg id="4" type="speaker">Gemahl</seg> begleitete sie bis an die Thüre und <seg id="4" type="intExpr">sagte</seg>, nach einem zärtlichen Abschiedskuß, in etwas gedrücktem Tone:</seg><said id="4" mode="direct" content="speech" level="1"> »Nicht wahr, mein Liebchen, Du läßt mich nicht zu lange warten?«</said> <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Man</seg> konnte <seg id="5" type="intExpr">merken</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">daß hier ein wunder Fleck war, den er mit demüthiger Scheu berührte.</said> <said id="6" mode="direct" content="speech" level="1">»Sei ohne Sorgen«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">antwortete</seg> <seg id="6" type="speaker">sie</seg>,</seg><said id="6" mode="direct" content="speech" level="1"> »ich bin in einer Viertelstunde fertig!«</said> 
+                  Der Ritter mochte der Viertelstunde nicht ganz trauen, <seg id="7" type="frame" pos="start">denn <seg id="7" type="speaker">er</seg> <seg id="7" type="intExpr">befahl</seg> seinem Knappen, </seg><said id="7" mode="indirect" content="speech" level="1">die Pferde nach zwei Stunden bereit zu halten. </said>
+                  Im Toilettenzimmer begann die Arbeit. Die Kammerzofen der Frau von Argouges kämmten ihr die langen, braunen Locken und durchflochten sie auf die kunstreichste Weise mit köstlichen Perlen. Aber sie war nicht damit zufrieden; kaum waren sie fertig,<seg id="8" type="frame" pos="start"> als <seg id="8" type="speaker">sie</seg> <seg id="8" type="intExpr">erklärte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">dieser Kopfputz sei unerträglich steif, sie wolle weiße Rosen haben, und mit diesen müsse auch das grüne Kleid geschmückt werden.</said> Die Zofen flogen hinab in den Garten, kamen mit prachtvollen Rosen zurück und vollbrachten neue Wunder der Geschicklichkeit. Als sie eben fertig 
+waren, wurden die prächtig geschmückten Pferde des edlen Paares vor die Schloßtreppe geführt; denn die zwei Stunden waren verflossen,<seg id="9" type="frame" pos="start"> und der <seg id="9" type="speaker">Ritter</seg> pochte an die Thüre und <seg id="9" type="intExpr">fragte</seg> bescheiden, </seg><said id="9" mode="indirect" content="speech" level="1">ob seine Gemahlin bereit sei. </said>
+                  <said id="10" mode="direct" content="speech" level="1">»Keineswegs!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">lautete</seg> etwas ärgerlich die Antwort der schönen <seg id="10" type="speaker">Frau</seg></seg>, indem sie die weißen Rosen wieder aus den Locken riß. Zu ihren Kammerfrauen gewendet, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">fuhr</seg> <seg id="11" type="speaker">sie</seg> <seg id="11" type="intExpr">fort</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»Ich kann mich so nicht sehen; ich bin wie eine geschmückte Leiche; geschwind das rothe Kleid herbei, grün steht mir heute gar nicht!«</said> 
+                  Während der Ritter ungeduldig im Nebensaale auf-und niederschritt, wurde das grüne Kleid ausgezogen und das rothe geholt. Es stand ihr herrlich; <seg id="12" type="frame" pos="start">aber nun konnte die <seg id="12" type="speaker">Frau von Argouges</seg> sich nicht <seg id="12" type="intExpr">entscheiden</seg>, </seg><said id="12" mode="indirect" content="thought" level="1">ob sie eine weiße oder rothe Schärpe um ihre schlanke Taille binden solle.</said> Der Ritter ging, um nach der Uhr zu sehen. Welche Vortheile bot doch die alte Zeit! Jetzt reißt ein ungeduldiger Gatte die Uhr in einer Stunde zehnmal aus der Westentasche; der Ritter mußte erst hinunter in den Garten gehen und die Sonnenuhr aufsuchen. Ihre Zeiger warfen lange Schatten; <seg id="14" type="frame" pos="start">die Hände geballt, stieg <seg id="14" type="speaker">er</seg> wieder hinauf an die verhängnißvolle Thüre:</seg> <said id="14" mode="direct" content="speech" level="1">»Bist Du noch nicht fertig? wir müssen fort«.</said> 
+                  Zähneknirschend trat der Ritter an das Fenster, die Pferde scharrten den Boden und bäumten sich, in seinem Herzen bäumte sich gleichfalls ein wilder Zorn; die schöne Frau aber stand ruhig vor ihrem Spiegel, hielt sich prüfend blitzende Demantschnüre an die Locken und <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">befahl</seg> endlich <seg id="15" type="speaker">ihren</seg> Zofen,</seg> <said id="15" mode="indirect" content="speech" level="1">sie damit zu schmücken.
+
+</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

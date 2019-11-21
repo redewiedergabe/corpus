@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der kleine Vagabund</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_Der_kleine_Vagabund.tg104_1.xml</f>
+         <f name="year">1878</f>
+         <f name="decade">1870</f>
+         <f name="title">Der kleine Vagabund</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="7" mode="direct" content="speech" level="1"><said id="1" mode="direct" content="speech" level="2">Nun, <seg id="1 7" type="speaker">Philipp</seg>, fange noch einmal von vorn an!‹</said> <seg id="1" type="frame" pos="end">so <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">ich</seg> mir selbst mit aufrichtigem Muthe</seg>, als ich ein englisches Schiff betrat, das einen Theil der Schiffbrüchigen nach New-York bringen wollte. Am meisten leid that es mir um Gretchen, <said id="2" mode="reported" content="thought" level="2"><seg id="2" type="speaker">ich</seg> hatte mir schon so lebhaft ihre Freude und ihren Dank <seg id="2" type="intExpr">vorgestellt</seg>!</said> 
+                  Ich besaß nichts mehr als eine alte Brieftasche, welche ich mir um den Leib gebunden hatte, und die meinen Tauf-, meinen Heimathsschein, ein paar Goldstücke und die kleine, schlechte Photographie, die Sie kannten, enthielt; <said id="3" mode="indirect" content="thought" level="2">aber auf welches Ziel ich nun loszuarbeiten hatte</said><seg id="3" type="frame" pos="end">, dies <seg id="3" type="intExpr">ward</seg> <seg id="3" type="speaker">mir</seg> schnell <seg id="3" type="intExpr">klar</seg></seg>, als ich in New-York mit Staunen sah, welche Fortschritte inzwischen die Lichtmalerei gemacht hatte, und zu wie vielen Dingen sie verwendet werden konnte. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> <seg id="4" type="intExpr">bemerkte</seg> aber auch,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes">wie sehr die Bilder noch durch entsprechende Anordnung vervollkommnet werden konnten, wie ihnen mehr Leben und größerer Ausdruck zu geben sei</said>; diesen Scharfblick verdankte ich doch wohl meinem Vagabundenthum in Italien, und damit zum Theil die großen Erfolge, die ich hier habe. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Mein</seg> <seg id="5" type="intExpr">Entschluß</seg> stand fest,</seg> <said id="5" mode="indirect" content="thought" level="2">doch noch um jeden Preis ein tüchtiger Photograph zu werden</said>, und nachdem meine Bemühungen, in einem Atelier aufgenommen zu werden, erfolglos geblieben, verrichtete ich die schwersten und niedrigsten Arbeiten, vor nichts zurückscheuend, bis ich genug erspart hatte, um mir einen Apparat aus zweiter Hand zu kaufen. 
+                  Mein Instrument war gering, um so größer mein Muth 
+und meine Ausdauer, und die liebe Sonne leuchtete dieses Mal keinem Undankbaren. Mein erstes Atelier bestand in einer Bretterbude, mein Publikum zunächst nur aus Matrosen, Negern, Waschfrauen und Kindermädchen, die um billigsten Preis abconterfeit wurden. Aber ich arbeitete unverdrossen fort und fort, lernte durch die Erfahrung, ließ mir nichts Neues entgehen, was auf dem Gebiete der Lichtmalerei geleistet wurde, und bildete endlich meine Specialität heraus, die einestheils in der Anordnung der Bilder, anderntheils in der gewissenhaftesten Vertheilung von Licht und Schatten besteht, wodurch meine Bilder so lebendig und plastisch hervortreten. Als ich es so weit gebracht, hatte ich natürlich schon längst die Bretterbude verlassen, war von Stufe zu Stufe höher gestiegen, hatte mir die vorzüglichsten und kostbarsten Apparate aus München und Wien kommen lassen und siedelte dann endlich nach Washington über, ein, <seg id="8" type="frame" pos="start">wie die <seg id="8" type="speaker">Amerikaner</seg> <seg id="8" type="intExpr">sagen</seg>:</seg> <said id="8" mode="direct" content="speech" level="2" prag="yes">›self-made man‹</said> – und bezeichnend genug ist dieses Wort in der That. <seg id="9" type="frame" pos="start">Hier zu Lande <seg id="9" type="intExpr">heißt</seg> es:</seg> <said id="9" mode="direct" content="speech" level="2" prag="yes">Schwimmen oder untergehen!</said> und wollte man drüben in Europa so arbeiten wie hier, Alles anfassen, vor Nichts zurückschrecken, man könnte auch im alten Vaterlande sich derart in die Höhe arbeiten, wie es mir im neuen gelungen«.</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»<said id="18" mode="reported" content="speech" level="2"><seg id="18" type="speaker">Ich</seg> <seg id="18" type="intExpr">wünsche</seg> Ihnen nochmals Glück dazu</said>«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> der <seg id="11" type="speaker">Gelehrte</seg> sich jetzt erhebend</seg>; <said id="11" mode="direct" content="speech" level="1">»aber haben Sie denn keine Sehnsucht, sich wieder einmal nach der alten Heimath und den alten Bekannten umzusehen?«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»<said id="14" mode="reported" content="thought" level="2" nonfact="yes"><seg id="14" type="speaker">Ich</seg> <seg id="14" type="intExpr">dachte</seg> bis jetzt nicht daran</said>«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">erwiederte</seg> <seg id="13" type="speaker">Philipp</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»ich habe ja eigentlich drüben Niemanden mehr, der sich nach mir sehnte; indessen, <said id="19" mode="reported" content="thought" level="2">seit <seg id="19" type="speaker">ich</seg> die früheren <seg id="19" type="intExpr">Erinnerungen aufgefrischt</seg></said>, regt sich doch so etwas wie Heimweh in der Herzgrube, <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">wer</seg> <seg id="17" type="intExpr">weiß</seg> darum,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes" border="yes" prag="yes">was geschieht!</said>«</said> 
+                  So trennten sich Beide, der Professor setzte seine Reise weiter fort, Philipp arbeitete nach wie vor, aber das Gefühl, das an jenem Morgen seine Brust bewegte, ward immer lebhafter.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

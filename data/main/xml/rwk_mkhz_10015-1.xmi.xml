@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Proceß Stellmacher: I. Verhandlungstag.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1884_06_10.txt_12.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Proceß Stellmacher: I. Verhandlungstag.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+— <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Angekl.</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">Von
+                        diesem Hugo Schenk ...</said>
+               
+                  <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Präs.</seg>:</seg><said id="2" mode="direct" content="speech" level="1"> <said id="44" mode="reported" content="speech" level="2" nonfact="yes">Bezüglich des Hugo Schenk lasse
+                        ich <seg id="44" type="speaker">Sie</seg> nicht <seg id="44" type="intExpr">sprechen</seg>.</said></said> — <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Angekl.</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">Es betrifft
+                        das doch mich.</said>
+               
+                  <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Präs.</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">Es hängt mit Hugo Schenk zusammen, <said id="45" mode="reported" content="speech" level="2" nonfact="yes">und ich lasse <seg id="45" type="speaker">Sie</seg> darüber nicht <seg id="45" type="intExpr">sprechen</seg>.</said></said>
+                        — <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Angekl.</seg>:</seg> <said id="7" mode="direct" content="speech" level="1"><seg id="8" type="frame" pos="start">Dann muß <seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">erklären</seg>,</seg> <said id="8" mode="indirect" content="speech" level="2">daß <seg id="9" type="speaker">ich</seg>
+                        in der Verhandlung <said id="9" mode="reported" content="speech" level="3" nonfact="yes">überhaupt kein Wort <seg id="9" type="intExpr">sprechen</seg>
+                        werde.</said></said></said>
+               
+                  <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Präs.</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">Dann setzen Sie sich nieder, und
+                        ich werde mit dem Beweisverfahren beginnen.</said>
+                        — Stellmacher setzt sich. Sein bleiches Gesicht
+                        ist ein wenig geröthet. Er blickt erregt vor sich
+                        hin. <said id="47" mode="indirect" content="thought" level="1" border="yes">Der Angeklagte beabsichtigt</said><seg id="47" type="frame" pos="mid">, wie <seg id="47" type="speaker">man</seg> <seg id="47" type="intExpr">weiß</seg>,</seg>
+                       <said id="47" mode="indirect" content="thought" level="1" border="yes"> im Auftrage Hugo Schenk’s die Beschuldigung
+                        gegen den Staatsanwalt zu erheben, daß er im
+                        Namen von dessen Frau ohne Vollmacht auf
+                        den Ertrag von dessen Memoiren verzichtete.</said>
+               <said id="13" mode="reported" content="speech" level="1">Zunächst gelangen nun die Local-Augenscheinbefunde nach der Ermordung Blöch’s, sodann
+                        der Obductions-Befund des Ermordeten zur <seg id="13" type="intExpr">Verlesung</seg>.</said> Den Sachverständigen wird hierauf die
+                        Schädeldecke Blöch’s zur Besichtigung übergeben.
+               <said id="14" mode="reported" content="speech" level="1">Der <seg id="14" type="speaker">Vertheidiger</seg> <seg id="14" type="intExpr">spricht</seg> während der
+                        Verlesungen lebhaft mit dem Angeklagten.</said> Dieser
+                        übergiebt seinem Vertheidiger das Blatt Papier,
+                        <said id="48" mode="reported" content="speech" level="1" nonfact="yes">von welchem <seg id="48" type="speaker">Stellmacher</seg> einige auf Hugo Schenk
+                        bezügliche Stellen <seg id="48" type="intExpr">herablesen</seg> wollte.</said> Der Verthei diger begibt sich zum Präsidenten, der das Papier übernimmt.
+               <seg id="16" type="frame" pos="start">Der <seg id="16" type="speaker">Vertheidiger</seg> <seg id="16" type="intExpr">sagt</seg> sodann zu Stellmacher:</seg> <said id="16" mode="direct" content="speech" level="1"><seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Ich</seg> habe Ihnen <seg id="17" type="intExpr">vorgehalten</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2">daß das,
+                        <said id="18" mode="reported" content="speech" level="3" nonfact="yes">was <seg id="18" type="speaker">Sie</seg> <seg id="18" type="intExpr">vorbringen</seg> wollten</said>, nicht zur Sache
+                        gehört.</said> <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Ich</seg> habe Ihnen <seg id="19" type="intExpr">vorgestellt</seg>,</seg> <said id="19" mode="indirect" content="speech" level="2">daß es in
+                        Ihrem eigenen Interesse ist, <said id="20" mode="reported" content="speech" level="3">da <seg id="20 21" type="speaker">Sie</seg> den Raubmord an Eisert begangen zu habeu <seg id="20" type="intExpr">bestreiten</seg></said>,
+                        <said id="21" mode="reported" content="speech" level="3" nonfact="yes"><seg id="21" type="intExpr">Rede und Antwort</seg> zu <seg id="21" type="intExpr">stehen</seg>.</said></said> <said id="49" mode="reported" content="speech" level="2"><seg id="49" type="speaker">Ich</seg> <seg id="49" type="intExpr">rathe</seg> Ihnen
+                        nochmals dazu.</said></said> <said id="50" mode="reported" content="speech" level="1" nonfact="yes"><seg id="50" type="speaker">Stellmacher</seg> erhebt sich und
+                        <seg id="50" type="intExpr">antwortet</seg> nicht.</said> Er scheint zu zögern.
+               
+                  <seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Präs.</seg>:</seg> <said id="23" mode="direct" content="speech" level="1"><seg id="24" type="speaker">Sie</seg> haben das Recht, der Anklage
+                        <said id="24" mode="reported" content="speech" level="2" nonfact="yes">eine zusammenhängende <seg id="24" type="intExpr">Darstellung</seg> des Sachverhaltes entgegenzustellen.</said> <seg id="25" type="speaker">Sie</seg> haben das Recht,
+                        <said id="25" mode="reported" content="speech" level="2" nonfact="yes">zu <seg id="25" type="intExpr">antworten</seg></said>, aber nicht die Pflicht; ich kann
+                        Sie nicht dazu zwingen und werde es natürlich
+                        auch nicht. Zunächst werden wir das Beweisverfahren fortsetzen.</said>
+               
+                  <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Vertheidiger</seg>:</seg> <said id="26" mode="direct" content="speech" level="1"><said id="51" mode="reported" content="speech" level="2" nonfact="yes">Vielleicht haben <seg id="51" type="speaker">Sie</seg> bezüglich dieses Factums (Blöch) noch etwas <seg id="51" type="intExpr">vorzubringen</seg>?</said></said>
+                         
+               
+                  <seg id="27" type="frame" pos="start"><seg id="27" type="speaker">Präs.</seg>:</seg> <said id="27" mode="direct" content="speech" level="1"><seg id="28" type="frame" pos="start"><seg id="28" type="speaker">Ich</seg> <seg id="28" type="intExpr">glaube</seg>,</seg> <said id="28" mode="indirect" content="thought" level="2">wir lassen bezüglich
+                        dieses Factums vorläufig erst das Beweisverfahren
+                        durchführen.</said></said> — <said id="29" mode="reported" content="speech" level="1" nonfact="yes"><seg id="29" type="speaker">Stellmacher</seg> will hierauf <seg id="29" type="intExpr">antworten</seg></said>, <seg id="30" type="frame" pos="start">der <seg id="30" type="speaker">Präsident</seg> unterbricht ihn jedoch mit
+                        der <seg id="30" type="intExpr">Bemerkung</seg>:</seg> <said id="30" mode="direct" content="speech" level="1" nonfact="yes"><seg id="31" type="frame" pos="start"><seg id="31" type="speaker">Ich</seg> <seg id="31" type="intExpr">sage</seg> Ihnen nochmals,</seg> <said id="31" mode="indirect" content="speech" level="2">die
+                        andere Geschichte lassen wir</said>; Ihr Schriftstück
+                        befindet sich nunmehr bei den Acten, ich werde
+                        es dem Staatsanwalte zeigen, aber <said id="33" mode="reported" content="speech" level="2">eine <seg id="33" type="intExpr">Debatte</seg>
+                        über diese längst abgethane Sache</said> lasse ich nicht zu.</said>
+               <said id="34" mode="reported" content="speech" level="1">Es wird Professor Hoffmann <seg id="34" type="intExpr">vernommen</seg></said>,
+                        welcher mit dem Schädel des ermordeten Blöch
+                        in der Hand, die Verletzungen an demselben
+                        demonstrirt. <said id="52" mode="reported" content="speech" level="1">Hierauf beginnt das <seg id="52" type="intExpr">Zeugenverhör</seg>.</said>
+                        Dasselbe beschränkt sich zunächst auf die Ergreifnng
+                        Stellmacher ’s nach der Ermordung Blöchs.
+               Joseph Swoboda, Taglöhner, war ebenfalls unter den Ergreifern Stellmacher’s. Er will
+                        gehört haben, <said id="36" mode="reported" content="speech" level="1" nonfact="yes" border="yes"><seg id="37" type="frame" pos="start">wie <seg id="37 36" type="speaker">dieser</seg> nach dem ersten gegen
+                        seine Verfolger gerichteten Schusse <seg id="36 37" type="intExpr">rief</seg>:</seg> <said id="37" mode="direct" content="speech" level="2">„Das
+                        macht nichts, das ist blind.“</said></said>
+                         
+               
+                  <seg id="38" type="frame" pos="start"><seg id="38" type="speaker">Stellmacher</seg> erhebt sich nun und <seg id="38" type="intExpr">bemerkt</seg> lächeld:</seg><said id="38" mode="direct" content="speech" level="1"> <seg id="39" type="frame" pos="start"><seg id="39" type="speaker">Ich</seg> habe <seg id="39" type="intExpr">gesagt</seg>:</seg><said id="39" mode="direct" content="speech" level="2"> „Geht weg, ich
+                        könnte euch erschießen!“</said> <seg id="40" type="speaker">Ich</seg> wollte ihnen nur
+                        zeigen, daß ich schießen kann, <seg id="40" type="frame" pos="start">und <seg id="40" type="intExpr">meinte</seg>,</seg> <said id="40" mode="indirect" content="thought" level="2">sie
+                        werden mir vielleicht Platz machen zum Entrinnen.</said></said>
+               
+                  <seg id="41" type="frame" pos="start"><seg id="41" type="speaker">Präs.</seg> (zum Zeugen):</seg> <said id="41" mode="direct" content="speech" level="1"><seg id="42" type="frame" pos="start"><seg id="42" type="speaker">Er</seg> soll ja auch <seg id="42" type="intExpr">gesagt</seg> haben:</seg> <said id="42" mode="direct" content="speech" level="2" nonfact="yes">„Dumme Arbeiter, laßt mich gehen,
+                        ich bin auch so ein Arbeiter wie Ihr.“</said></said> — <seg id="53" type="frame" pos="start"><seg id="53" type="speaker">Zeuge</seg>:</seg>
+                        <said id="53" mode="direct" content="speech" level="1">Ja, <said id="54" mode="reported" content="speech" level="2">das hat <seg id="54" type="speaker">er</seg> <seg id="54" type="intExpr">gesagt</seg>.</said>
+               Sicherheitswach-Inspector Josef Benedict
+                        erschien in Begleitung des Bezirksarztes auf dem
+                        Thatorte und sah die Leiche Blöch’s liegen.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

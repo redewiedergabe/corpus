@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0113_1905_8.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Und in der Tat ist mancher
+                        Unsinn auf dem Gebiete der Weltanschauung daraus entsprungen, daß Leichtgläubigkeit sich durch Herzensbedürfnisse zu Phantasterei hinreißen ließ. Aber
+                        solche Ausartung wird nur da möglich, wo kritische Selbstbeschränkung fehlt.
+                        Das Gemüt sollte den Verstand ebensowenig mißachten, wie dieser das Gemüt.
+                        Als zwei Sinne haben die beiden sich zu betrachten, zu gegenseitiger Ergänzung
+                        berufen, ähnlich wie Auge und Ohr, von denen immer das eine etwas leistet,
+                        was das andere nicht vermag.
+            <seg id="5" type="frame" pos="start">Warum willst <seg id="5" type="speaker">du</seg>, Fanatiker des Verstandes, dem Gemüte unter keinen
+                        Umständen das <seg id="5" type="intExpr">Recht</seg> <seg id="5" type="intExpr">einräumen</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1" nonfact="yes">an der Gestaltung des Weltbildes mitzuwirken?</said> Muß denn <said id="6" mode="reported" content="thought" level="1" nonfact="yes">ein <seg id="6" type="intExpr">Gedanke</seg>, dessen Vater der Wunsch ist</said>, notwendigerweise
+                        falsch sein? Können Bedürfnisse des Gemütes uns nicht auch zur Wahrheit
+                        leiten? Und darf man nicht dem Herzen ebenfalls eine Logik zuschreiben?
+                        Sehen wir uns die Logik des Verstandes näher an! Sie schließt übereinstimmende Erlebnisse zu Einheiten oder Allgemeinheiten zusammen, <said id="1" mode="reported" content="speech" level="1" border="yes">die <seg id="1" type="speaker">wir</seg>
+                        Begriffe und Gesetze <seg id="1" type="intExpr">nennen</seg>.</said> Diese Begriffe und Gesetze wendet sie auf besondere Fälle in der Weise an, daß vom Besonderen alles gilt, <said id="7" mode="reported" content="speech" level="1" metaph="yes">was vom <seg id="7" type="speaker">Allgemeinen</seg> <seg id="7" type="intExpr">ausgesagt</seg> wird.</said>
+            Vergleichen wir nun mit dieser Verstandeslogik die Tätigkeit des Gemütes. Es ist ebenfalls imstande, Einheiten oder Allgemeinheiten zu bilden.
+                        Aus Gefühlen, die zusammen stimmen, bildet es die sogenannte Stimmung.
+                        Und wie der Verstand aus seinen Begriffen und Gesetzen die natürlichen Folgerungen herausholt, so pflegt das Gemüt seinen Stimmungen vorwiegend solche
+                        Gefühle und Phantasien anzugliedern, die dazu passen. Allerdings ist die
+                        Folgerung, die der Verstand bei strengster Logik aus seinen Begriffen und
+                        Gesetzen zieht, <said id="8" mode="reported" content="thought" level="1" nonfact="yes">eine Notwendigkeit des <seg id="8" type="intExpr">Denkens</seg></said>, während die aus bloßer Stimmung sich ergebenden Deutungen der Welt keine allgemein verbindlichen, denknotwendigen Konsequenzen sind, sondern Annahmen, zu denen lediglich derjenige aufgelegt sein kann, der die Stimmung empfindet, sie haben also eine
+                        mehr oder minder subjektive Gültigkeit, so daß sie nicht verständig bewiesen,
+                        <seg id="2" type="frame" pos="start"><said id="9" mode="reported" content="speech" level="1" nonfact="yes">sondern als <seg id="9" type="speaker">persönliches</seg> <seg id="2" type="speaker"><seg id="9" type="intExpr">Bekenntnis</seg></seg> ausgesprochen werden</said>, etwa in folgender
+                        Form:</seg> <said id="2" mode="direct" content="speech" level="1" nonfact="yes">„Mir ist zu Mute, als ob das und das der Fall sein müßte.“</said>
+                         
+            Zur Erläuterung führe ich eine Probe der Verstandeslogik vor. <seg id="3" type="frame" pos="start">Der
+                        <seg id="3" type="speaker">Naturforscher</seg> hat <seg id="3" type="intExpr">beobachtet</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß eine Flamme, die durch ein dreikantig geschliffenes Glas hindurchscheint, die Farben des Regenbogens an die Wand
+                        malt, und daß an ganz bestimmten Stellen dieser Farben=Skala dunkle Linien
+                        jedesmal dann auftreten, wenn bestimmte Minerale in der Flamme brennen.</said>
+                        <seg id="10" type="frame" pos="start">Solche Wissenschaft befähigt den <seg id="10" type="speaker">Naturforscher</seg>, aus den dunkeln Linien des
+                        Regenbogens, den die Sonne mittels des dreikantigen Glases hervorbringt, zu
+                        <seg id="10" type="intExpr">schließen</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">welche Minerale in der Sonne brennen</said> -- ein Schluß, der zwar
+                        nicht, wie ein mathematischer, denknotwendig ist, aber jedem Verständigen mit
+                        mehr oder minder Wahrscheinlichkeit einleuchtet. -- Vergleichen wir nun hiermit
+                        eine Probe der Herzenslogik. Als wir Kinder waren, haben wir die Wohltaten der
+                        Mutterliebe besonders lebhaft empfunden, und an diese Empfindung hat sich unsere
+                        Gegenliebe angeschlossen. Wenn nun nach winterlicher Kälte und Dunkelheit
+                        die Frühlingssonne uns wieder licht und warm lächelt, wird etwas wie kindliche
+                        Liebe in unserem Herzen wach; <seg id="4" type="frame" pos="start">und dann <seg id="4" type="intExpr">kommt</seg> es <seg id="4" type="speaker">uns</seg> <seg id="4" type="intExpr">so vor</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">als sei unsere
+                        kindliche Liebe nur eine gebürende Antwort auf die großartige Mutterliebe,
+                        mit der die Sonne ihre Kinder, Menschen, Tiere und Pflanzen, umfaßt.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

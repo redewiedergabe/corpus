@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>19. Der Nåberskrooch</title>
+             <author>Kuhn, Adalbert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Kuhn,_Adalbert_19__Der_N_berskrooch.tg25_1.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">19. Der Nåberskrooch</f>
+         <f name="author">Kuhn, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes_DS</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+19. Der Nåberskrooch. 
+                  
+                     Mündlich.
+                        
+                   
+                  An der nördlichsten Spitze des Drömling, der noch vor hundert Jahren ein so dichtes und unwegsames Elsbruch war, daß man ihn meistens nur im Sommer durchschreiten konnte, liegt ein Dorf, welches Neu-Ferchau heißt, <said id="1" mode="reported" content="speech" level="1" border="yes">von den <seg id="1" type="speaker">Leuten</seg> der ganzen umliegenden Gegend aber Nåberskrooch <seg id="1" type="intExpr">genannt</seg> wird.</said> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Warum es diesen zweiten Namen erhalten</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">weiß</seg> <seg id="2" type="speaker">man</seg> nicht mehr recht</seg>, <said id="3" mode="reported" content="speech" level="1">allein es werden doch verschiedene Gründe dafür <seg id="3" type="intExpr">angegeben</seg>.</said> 
+                  <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Einige</seg> <seg id="4" type="intExpr">erzählen</seg> so:</seg> <said id="4" mode="direct" content="speech" level="1">Vor Zeiten war das Dorf Neu-Ferchau noch nicht so groß wie jetzt, und erstreckte sich etwa auf die halbe Länge, da baute sich nur in ganz geringer Entfernung davon ein Krüger an, der hieß Nåber, <said id="19" mode="reported" content="speech" level="2" border="yes">und danach <seg id="19" type="intExpr">nannte</seg> <seg id="19" type="speaker">man</seg> seinen Krug Nåberskrooch</said>; allmählig erweiterte sich nun das Dorf bis zu diesem Orte, und seitdem hat es jenen Namen erhalten. Daß aber der Krüger wirklich Nåber geheißen, kann man daraus ersehen, daß ein Mann des Namens noch bis auf den heutigen Tag im Dorfe ist; zwar heißt dieser eigentlich Hannover, <said id="20" mode="reported" content="speech" level="2" border="yes">allein so schlechthin <seg id="20" type="intExpr">nennt</seg> <seg id="20" type="speaker">man</seg> ihn doch meistens Nåber.</said> – <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Andere</seg> <seg id="21" type="intExpr">sagen</seg>,</seg> <said id="21" mode="indirect" content="speech" level="2">der Krüger habe nicht Nåber mit Vatersnamen geheißen, sondern, weil er so dicht beim alten Dorfe gewohnt, <said id="7" mode="reported" content="speech" level="3" border="yes">habe <seg id="7" type="speaker">man</seg> ihn gemeinhin den Nåber oder Nachbar <seg id="7" type="intExpr">genannt</seg></said>, und wenn man zu ihm gehn wollen, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">gesagt</seg></seg><said id="8" mode="direct" content="speech" level="3"> »wi willen nå Nåbers Krooch gån«</said>; daher sei denn der Name entstanden.</said></said>
+                  <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Andere</seg> <seg id="9" type="intExpr">erzählen</seg> wieder anders:</seg> <said id="9" mode="direct" content="speech" level="1">Ein Postbote Namens Nåber nämlich nahm seinen Weg von Gardelegen nach dem Hannöverschen gewöhnlich hier entlang, als das Dorf Neu-Ferchau noch gar nicht da war; nun war dieser ein etwas geiziger Mensch und trank statt Bier lieber Wasser, daher ließ er denn alle Krüge auf seinem Wege links liegen, verweilte jedoch stets bei einer Quelle, die an der Stelle lag, wo später das Dorf gebaut wurde, und trank sich hier recht satt. <said id="10" mode="reported" content="speech" level="2" border="yes">Daher ist denn Neu-Ferchau spottweis später Nåberskrooch <seg id="10" type="intExpr">genannt</seg> worden.</said></said> – <seg id="22" type="frame" pos="start">Endlich <seg id="22" type="intExpr">erzählt</seg> <seg id="22" type="speaker">man</seg>,</seg> <said id="22" mode="indirect" content="speech" level="1">daß die <seg id="12" type="speaker">Frachtfuhrleute</seg>, die gewöhnlich bei ihrer Reise von Magdeburg nach Hamburg hier eingekehrt seien,<said id="12" mode="reported" content="speech" level="2" border="yes"> dem Dorfe jenen <seg id="12" type="intExpr">Namen</seg> ebenfalls spöttischer Weise <seg id="12" type="intExpr">gegeben</seg> hätten</said>, <said id="23" mode="reported" content="speech" level="2" border="yes">wie <seg id="23" type="speaker">sie</seg> überhaupt verschiedenen Orten der Umgegend solche <seg id="23" type="intExpr">Bezeichnungen beigelegt</seg></said></said>; <said id="24" mode="reported" content="speech" level="1" border="yes">so haben <seg id="24" type="speaker">sie</seg> das Dorf Lubitz, wo sie gewöhnlich die Pferde auszuspannen pflegten, Sorgen, und einen Theil der Straße zwischen N. Ferchau und Quarnebeck den schwarzen Damm <seg id="24" type="intExpr">genannt</seg></said>, und dergleichen mehr. 
+                  Nach diesem Nåberskrooch kommen nun, <said id="15" mode="reported" content="speech" level="1">wie <seg id="15" type="speaker">man</seg> sich im ganzen westlichen Theile der Altmark <seg id="15" type="intExpr">erzählt</seg></said>, die Todten, denn hier müssen sie ihren letzten Sechser verzehren, welchen man ihnen zu dem Behuf mit in den Sarg giebt, besonders aber müssen diejenigen, welche im Hans-Jochen-Winkel 
+                        
+                        
+                        1
+                      wohnen, nothwendig dahin, und werden nicht eher ins Himmelreich eingelassen, als sie da gewesen sind; <seg id="16" type="frame" pos="start">darum <seg id="16" type="intExpr">sagt</seg> <seg id="16 17" type="speaker">man</seg> auch oft, wenn einer schon lange verstorben ist,</seg> <said id="16" mode="direct" content="speech" level="1">»de is all lange in Nåberskrooch«</said>, oder, sobald einer geschieden ist,<seg id="17" type="frame" pos="start"> <seg id="17" type="intExpr">heißt</seg> es,</seg> <said id="17" mode="direct" content="speech" level="1">»nu is hee all hen nå Nåberskrooch«</said>, <seg id="18" type="frame" pos="start">und <seg id="18" type="speaker">man</seg> <seg id="18" type="intExpr">erzählt</seg> sich zugleich,</seg> <said id="18" mode="indirect" content="speech" level="1">daß sich die Todten hier einander besuchen.</said> 
+               
+               
+                  Fußnoten
+                  <note>
+                     
+                        
+                        1 Diesen Spottnamen führt der Theil der Altmark, welcher der Linie von Salzwedel bis zum Drömling westlich liegt, weil die meisten der hier wohnenden Bauern die Vornamen Hans Joachim führen.
+
+</note>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

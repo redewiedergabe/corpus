@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal029_1848_1.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.mainzerjournal</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+<said id="3" mode="direct" content="writing" level="1">
+Die Bundesversammlung war es, die Sie, erlauchter Prinz,
+                        an dem denkwürdigen Tage Jhrer Wahl auch im Namen der
+                        deutschen Regierungen als Reichsverweser freudig begrüßte. Sie
+                        sah ihre Wünsche erfüllt, <said id="1" mode="reported" content="speech" level="2">indem Eure k. <seg id="1 6" type="speaker">Hoheit</seg> das Amt eines
+                        Reichsverwesers anzunehmen <seg id="1" type="intExpr">erklärt</seg> haben</said>, <seg id="6" type="frame" pos="start">und mit großer Befriedigung hat sie es <seg id="6" type="intExpr">vernommen</seg>,</seg> <said id="6" mode="indirect" content="speech" level="2" border="yes">daß Sie, hoher Fürst, auf
+                        den Ausdruck des Vertrauens, womit sämmtliche deutsche Regierungen Jhnen entgegen kamen, den entschiedensten Werth legten.</said>
+            Ew. kaiserl. Hoheit treten an die Spitze der provisorischen
+                        Centralgewalt, jener Gewalt, geschaffen <said id="2" mode="reported" content="speech thought" level="2">auf den <seg id="2" type="intExpr">Wunsch</seg> des
+                        deutschen <seg id="2" type="speaker">Volkes</seg></said>, um für die allgemeine Sicherheit und Wohlfahrt des deutschen Bundesstaates zu sorgen, seine bewaffnete
+                        Macht zu leiten und seine völkerrechtliche Vertretung auszuüben.
+            <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">Nach</seg> der <seg id="7" type="speaker">Verfassung</seg> Deutschlands</seg> <said id="7" mode="indirect" content="writing" level="2">war die Bundesversammlung berufen und verpflichtet, die Sicherheit und Unabhängigkeit
+                        unseres Vaterlandes zu wahren, den Bund in seiner Gesammtheit vorzustellen und das beständige Organ seines Willens und
+                        Handelns zu seyn; sie war berechtigt, für die Aufrechthaltung
+                        friedlicher und freundschaftlicher Verhältnisse mit den auswärtigen Staaten Sorge zu tragen, Gesandte von fremden Mächten anzunehmen und an <seg id="8" type="speaker">sie</seg> im Namen des Bundes Gesandte abzuordnen, <said id="8" mode="reported" content="speech" level="3" nonfact="yes"><seg id="8" type="intExpr">Unterhandlungen</seg> für den Bund zu führen</said>
+                        und Verträge für denselben abzuschließen.</said> Der Bundesversammlung war es übertragen, die auf das Militärwesen des Bundes
+                        Bezug habenden militärischen Einrichtungen und die zur Sicherstellung seines Gebiets erforderlichen Vertheidigungsanstalten zu
+                        beschließen und zu überwachen, über Krieg und Frieden zu entscheiden.
+            Die Bundesversammlung überträgt Namens der deutschen
+                        Regierungen die Ausübung dieser ihrer verfassungsmäßigen Befugnisse und Verpflichtungen an die provisorische Centralgewalt;
+                        sie legt sie insbesondere mit dem Vertrauen in die Hände Eurer
+                        kaiserlichen Hoheit, als des deutschen Reichsverwesers, daß für die
+                        Einheit, die Macht und die Freiheit Deutschlands Großes und Erfolgreiches erzielt werde, daß Ordnung und Gesetzlichkeit bei allen
+                        deutschen Stämmen wiederkehre, und daß das deutsche Volk der
+                        Segnungen des Friedens und der Eintracht dauernd sich erfreue.
+                        Die deutschen Regierungen, die nur das wohlverstandene Jnteresse
+                        des Volkes kennen und beachten, sie bieten freudig die Mitwirkung
+                        zu allen Verfügungen der Centralgewalt, die Deutschlands Macht
+                        nach Außen und im Jnnern begründen und befestigen sollen.
+            <said id="9" mode="reported" content="writing" level="2">Mit diesen <seg id="9" type="intExpr">Erklärungen</seg></said> sieht die <seg id="9 11" type="speaker">Bundesversammlung</seg> ihre
+                        bisherige Thätigkeit als beendet an, und die Gesandten erneuern
+                        den Ausdruck ihrer persönlichen Huldigung für Eure kaiserl. Hoheit den deutschen Reichsverweser. Frankfurt 12. Juli 1848.“
+</said>                         
+            <said id="10" mode="reported" content="speech" level="1"><said id="11" mode="reported" content="writing" level="2">Diese <seg id="11" type="intExpr">Adresse</seg></said> wurde seitens Sr. kaiserl. <seg id="10" type="speaker">Hoheit</seg> des Erzherherzog=Reichsverwesers mit folgender <seg id="10" type="intExpr">Gegenrede</seg> erwiedert</said>, <seg id="4" type="frame" pos="start">die
+                        <seg id="4" type="speaker">Höchstderselbe</seg> nachher dem Bundespräsidenten schriftlich <seg id="4" type="intExpr">überreichte</seg>:</seg>
+                         
+            <said id="4" mode="direct" content="writing" level="1">„Hochgeehrteste Versammlung! Jndem ich heute das wichtige
+                        Amt eines Reichsverwesers antrete, kann ich nicht umhin, <said id="5" mode="reported" content="speech" level="2">in
+                        Gegenwart dieser hohen Versammlung <seg id="5" type="speaker">meinen</seg> <seg id="5" type="intExpr">Dank</seg> auszudrücken
+                        für das Vertrauen, welches mir sämmtliche deutsche Regierungen
+                        durch ihr Organ bei dem Anlasse meiner Wahl zu diesem wichtigen Amte zu erkennen gegeben haben.</said>
+            <said id="12" mode="reported" content="speech" level="2">Die Art und Weise, mit welcher die hohe <seg id="12" type="speaker">Bundesversammlung</seg> mich an dem denkwürdigen Tage meiner Wahl im Namen
+                        der deutschen Regierungen als Reichsverweser zu <seg id="12" type="intExpr">begrüßen</seg> sich
+                        beeilt hat</said>, verdient meine besondere dankbare Anerkennung.
+            Jch übernehme nunmehr die von der Bundesversammlung
+                        Namens der deutschen Regierungen an die provisorische Centralgewalt übertragene Ausübung ihrer bisherigen verfassungsmäßigen Befugnisse und Verpflichtungen mit dem Vertrauen auf die
+                        thätige Mitwirkung der Regierungen zu allen Verfügungen der
+                        Centralgewalt, die Deutschlands Macht nach Außen und im Jnnern stark befestigen soll.
+</said>
+
+</p>
+      </body>
+   </text>
+</TEI>

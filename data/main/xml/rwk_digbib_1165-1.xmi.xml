@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vater und Sohn im Examen</title>
+             <author>Federer, Heinrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Federer,_Heinrich_Vater_und_Sohn_im_Examen.tg27_1.xml</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Vater und Sohn im Examen</f>
+         <f name="author">Federer, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="15" mode="reported" content="speech" level="1">Aber die <seg id="15" type="speaker">Kinder</seg> <seg id="15" type="intExpr">zählen</seg> ruhig weiter.</said> Sie lachendazu. Für sie sind die Zahlen nichts weiter als Zahlen. Kinder und Zahlen sind noch gleich unschuldig. <seg id="1" type="frame" pos="start">Diese <seg id="1" type="speaker">Rechner</seg> <seg id="1" type="intExpr">wissen</seg> noch gar nicht,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was für ein gefährliches Subjekt diese so einfältige Eins ist, welche Tücken die Zwei bereits versteht, – und wie der Dreier schon eigentliche Untaten verübt.</said> Gottlob, <said id="2" mode="reported" content="thought" level="1" nonfact="yes" border="yes">daß <seg id="2" type="speaker">sie</seg> es noch nicht <seg id="2" type="intExpr">wissen</seg></said>, sie würden wahrlich nicht lachen! – 
+                  Das Tafelrechnen fängt jetzt an. <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Schulweibel</seg> hätte nie <seg id="3" type="intExpr">gedacht</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes">daß man mit so wenig Kreide so große Aufgaben löst.</said> <said id="16" mode="reported" content="thought" level="1"><seg id="16" type="speaker">Man</seg> <seg id="16" type="intExpr">rechnet</seg> von Jahren und Jahrzehnten, von Ziegeln auf dem steilsten Dache, von Blumenstöcken am Gesimse, von Soldaten, Vögeln, Rossen</said>, <said id="17" mode="reported" content="writing" level="1">und alles wird mit den gleichen Zahlen <seg id="17" type="intExpr">geschrieben</seg>.</said> Da muß man nicht erst die Ziegel vom Dache holen oder die Vögel abfangen, nein, hier an der Tafel mit ganz wenig Kreide und diesen verdammten Zahlen wird alles Nötige besorgt. Und handelte es sich um einen Löwen, <said id="18" mode="reported" content="writing" level="1"><seg id="18" type="speaker">man</seg> <seg id="18" type="intExpr">schrieb</seg> eine Eins.</said> Und er steckte in der Eins. Und wäre es ein Walfisch, zwanzig Walfische, einerlei, nur ein wenig Kreide und nur eine kleine Zahl. Wenn wir nur Zahlen und Kreide haben, wir zerdrücken die Welt zwischen Daumen und Zeigefinger. 
+                  Die Ratsherren dürfen wohl staunen. In der Tat, das ist großartig. Aber beängstigend ist es doch auch! 
+                  Dennoch, <said id="19" mode="reported" content="writing" level="1">die <seg id="19" type="speaker">Mädchen</seg> mit ihren dünnen Handgelenken und ihren kleinen, roten Fingern <seg id="19" type="intExpr">schreiben</seg> dieZahlen lustig her.</said> <said id="20" mode="reported" content="writing" level="1">Und die <seg id="20" type="speaker">Buben</seg>, das kleine Pack, wie gleichgültig <seg id="20" type="intExpr">malen</seg> sie die dickste Ziffer auf</said>, als wäre es nur eine Erbse. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Die</seg> spielen sozusagen mit dem Schießgewehr und <seg id="4" type="intExpr">wissen</seg> nicht,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß es geladen ist.</said> 
+                  Der <seg id="21" type="speaker">Pfarrer</seg> allein fürchtet sich nicht im mindesten vor diesem Spielzeug der Kinder. In seiner Jugend hat er nichts lieber getan, <said id="21" mode="reported" content="thought" level="1">als <seg id="21" type="intExpr">gerechnet</seg>.</said> <said id="6" mode="indirect" content="speech" level="1" prag="yes">Ja</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="speaker">man</seg> darf <seg id="6" type="intExpr">sagen</seg>, </seg><said id="6" mode="indirect" content="speech" level="1" prag="yes">er hatte das Zeug zu einem großen Rechner.</said> <seg id="7" type="frame" pos="start">Oft hat <seg id="7 8" type="speaker">er</seg> dem Professor <seg id="7 8" type="intExpr">zugerufen</seg>:</seg> <said id="7" mode="direct" content="speech" level="1">»Herr Doktor, das würde ich noch einfacher so – – –«</said> oder: <said id="8" mode="direct" content="speech" level="1">»Sollte man nicht kürzer – – –« </said>usw.; ja, <said id="22" mode="reported" content="thought" level="1">lange Zeit trug <seg id="22" type="speaker">er</seg> sich wirklich in <seg id="22" type="intExpr">Heiratsgedanken</seg> mit der schönen, kalten Dame Mathematik herum.</said> Damals war sein Angesicht noch blaß und von jugendlicher Sehnsucht nach dem Ideal verzehrt, daher mager und leidend. So wie er jetzt da saß, behäbig, mit dem roten, gemütlichen Gesicht, der tiefen Zufriedenheit in jeder Miene, der genügsamen Freude am kleinsten Späßchen, an der geringsten Prise Schnupf, <said id="10" mode="reported" content="speech" level="1">am schwächlichsten <seg id="10" type="intExpr">Antworten</seg> der <seg id="10" type="speaker">Kinder</seg></said>, hätte ihn niemand von seinen alten Kameraden, hätte er sich selber nicht mehr gekannt. 
+                  Denn da begab es sich, daß er im zweiten Kursus der Philosophie <said id="23" mode="reported" content="speech" level="1">einen fremden, berühmten <seg id="23" type="speaker">Prediger</seg> von der Gotteskunde <seg id="23" type="intExpr">reden</seg> hörte.</said> – Es war eine Abendandacht, in die er nicht freiwillig, sondern mehr durch eine Reihe von Zufällen geraten war. Dämmerung hüllte schon das Volk, die bemalten Kirchenwände und selbst die Kanzel ein. Auch das helle, verklärte Antlitz des Predigersversank im zunehmenden Schatten. Dafür waren <said id="12" mode="reported" content="speech" level="1"><seg id="12" type="speaker">seine</seg> <seg id="12" type="intExpr">Worte</seg></said> wie Lichter, die in die Dunkelheit hinausgeschleudert wurden. 
+                  <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Er</seg> <seg id="13" type="intExpr">sagte</seg>, <said id="14" mode="reported" content="speech" level="1" nonfact="yes">wie es noch <seg id="14" type="speaker">keiner</seg> so beweglich <seg id="14" type="intExpr">gesagt</seg> hatte</said>,</seg> <said id="13" mode="indirect" content="speech" level="1">was das für eine Kunst sei, die Vergangenheit der Völker aufzudecken, gleichsam die Toten lebendig zu machen.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

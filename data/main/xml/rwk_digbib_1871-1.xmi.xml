@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Cafe Klößchen</title>
+             <author>Lichtenstein, Alfred</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Lichtenstein,_Alfred_Cafe_Kloesschen.tg125_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Cafe Klößchen</f>
+         <f name="author">Lichtenstein, Alfred</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die blutleeren roten Augen lagen tränend in schmierigen Schatten. Die Stimme hatte nur einen Singsangton, der klang maniriert melancholisch. <said id="1" mode="reported" content="speech" level="1"><seg id="1 19" type="speaker">Schulz</seg> <seg id="1" type="intExpr">sprach</seg> kläglich schwärmend von Verzweiflung, Hurerei, Zerrissensein.</said> <said id="19" mode="indirect freeIndirect" content="speech" level="1">Daß er der Lebensfreude überdrüssig sei. Daß er seinen Tod bald eingeholt haben werde.</said> Er vermied Zärtlichkeiten, aber er seufzte oft schmerzlich. Kokettierte theatralisch mit einer Sehnsucht nach dem Sterben. Führte die Freundin in leichenreiche Trauerspiele, in düstere Kinodramen, in ernste Konzerte in verdunkelten Sälen. 
+                  Eine Woche war vielleicht vergangen. Eine Dame hatte gesungen. Die Hände der Zuhörer knallten laut und lange. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Gottschalk Schulz</seg> faßte leidenschaftlich einige Finger Lisel Liblichleins, legte sie gütig auf einen Schenkel seiner Beine, <seg id="6" type="intExpr">sagte</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Ist es nicht eigenartig, wie der Gesang einer Dame einem an die Seele greift!«</said> <said id="7" mode="reported" content="speech" level="1">Dann <seg id="7" type="intExpr">fing</seg> <seg id="7" type="speaker">er</seg> wieder <seg id="7" type="intExpr">an</seg>, bittend und weinerlich von Liebe und Hingebung zu reden.</said> <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Lisel Liblichlein</seg> <seg id="8" type="intExpr">sagte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">dies sei ihr langweilig oder ekelhaft.</said> <seg id="9" type="frame" pos="start">Aus Mitleid</seg> – und weil sie hinaufgehen wollte – <seg id="9" type="frame" pos="start"><seg id="9" type="intExpr">erklärte</seg> <seg id="9" type="speaker">sie</seg> schließlich in der Haustür,</seg> <said id="9" mode="indirect" content="speech" level="1">mit der Liebe sei sie einverstanden, wenn er auf die Hingebung verzichte.</said> Schulz drückte sie glücklich an sich. Er stand noch lange träumend da. <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Er</seg> <seg id="10" type="intExpr">sang</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">»O Tränen. O Güte. O Gott. O Schönheit. O Liebe. O Liebe. O Liebe ...«</said> Er stürzte durch die Straßen. In dem Klößchen war er verschwunden. 
+                  
+                     Lisel Liblichlein aber saß in ihrem kleinen Zimmer unbeholfen lächelnd bei einem rötlichen Talglicht. <said id="11" mode="reported" content="thought" level="1"><seg id="11" type="speaker">Sie</seg> <seg id="11" type="intExpr">begriff</seg> diese Menschen der Stadt nicht, die schienen ihr seltsame, gefährliche Tiere.</said> Sie fühlte sich verlassen und einsamer als früher. <said id="13" mode="reported" content="thought" level="1"><seg id="13" type="speaker">Sie</seg> <seg id="13" type="intExpr">dachte</seg> sehnsüchtig an die harmlose Heimat: an den luftigen Himmel, an die lächerlichen jungen Herren, an die Tennisturniere, an die wehmütigen Sonntagnachmittage</said> ... sie knöpfte die Strumpfhalter ab, legte das Leibchen auf einen Stuhl. Sie war trostlos. 
+               
+               
+                  II
+                  In einem durchsichtigen Sommerabend war das leuchtende Café Klößchen. Stadthimmel aus dunkelblauer Seide, auf dem weißer Mond und viele kleine Sterne lagen, umhüllte es. In einem Hintergrund saß, lange Zeit, bevor er plötzlich starb, einsam und rauchend bei einem winzigen Tisch, auf dem etwas stand, der bucklige Dichter Kuno Kohn. Um andere Tische hockten Leute. Dazwischen bewegten sich Männer mit gelben und roten Schädeln; Weiber; Literaten; Schauspieler. Überall huschten schattige Kellner. 
+                  Kuno Kohn war ohne viel Gedanken. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Er</seg> <seg id="14" type="intExpr">summte</seg> für sich:</seg> <said id="14" mode="direct" content="speech" level="1">»Ein Nebel hat die Welt so weich zerstört.«</said> – <said id="15" mode="reported" content="speech" level="1">Da <seg id="15" type="intExpr">begrüßte</seg> ihn der Dichter <seg id="15" type="speaker">Gottschalk Schulz</seg></said>, ein Jurist, der durch alle Examina, denen er sich unterzogen hatte, mühevoll gefallen war. Mit ihm kam ein schönes Fräulein. Die beiden setzten sich zu Kohn. Schulz und Kohn waren Mitarbeiter der von dem kleinen begeisterten Lutz Laus für die Hebung der Unsittlichkeit angefertigten Monatsschrift: »Der Dackel«. <seg id="16" type="frame" pos="start"><seg id="16 17" type="speaker">Schulz</seg> <seg id="16" type="intExpr">erzählte</seg> dem Kohn,</seg> <said id="16" mode="indirect" content="speech" level="1">daß der Dackel-Laus demnächst eine gottlose Religion auf neojuristischer Grundlage erfinden werde, <said id="17" mode="reported" content="speech writing" level="2" nonfact="yes">zwecks Organisation eine konstituierende Versammlung in einem nahen Kintopp <seg id="17" type="intExpr">einberufen</seg> wolle.</said></said> Kohn hörte kopfschüttelnd zu. Das schöne Fräulein aß Kuchen. <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Kohn</seg> <seg id="18" type="intExpr">sagte</seg> traurig:</seg> <said id="18" mode="direct" content="speech" level="1">»Laus ist ein Großer und Rührender. Aber gläubig kann uns kein Jesus mehr machen. Wir sterben mit jedem Tage tiefer in den öden ewigen Tod ein. Wir sind hoffnungslos zerrüttet. Unser Leben wird ein sinnloses Schau-Spiel bleiben.«</said> Das essende Fräulein sah mit fröhlichem, deutlichem Gesicht aus rotbraunen Augen verständnislos hinüber.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

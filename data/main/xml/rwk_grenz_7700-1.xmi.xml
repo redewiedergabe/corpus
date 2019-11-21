@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Immermann's Leben.</title>
+             <author>Puttliz, E. zu </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341811_124705.txt_52.xml</f>
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Immermann's Leben.</f>
+         <f name="author">Puttliz, E. zu </f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="8" mode="direct" content="speech" level="1">Einzelnen Specialleseproben, aus denen sich die allgemeine Leseprobe erbaute,
+                        wobei die schadhaften Rollen so lange nachgebessert wurden, bis das Ganze
+                        in der Recitation als fertig gelten konnte. Die Action stellte er dann zuerst
+                        in Zimmerproben fest, damit die Darstellenden in nackten, nüchternen Wänden
+                        ihre Phantasie um so mehr spannen lernten und die Dämonen des Gespreizten, Rhetorischen oder der hohlen Handwerksmäßigkeit nicht verwirrend
+                        auf sie einwirkten. Stand das Gedicht ohne alle illusorische Nothkrücke fertig
+                        da, dann erst ging Immermann mit den Leuten auf das Theater. Gegeben
+                        wurde ein Stück nicht eher als bis jeder, bis zum anmeldenden Bedienten
+                        hinab, seine Rolle wenigstens so gut machte, als Naturell und Fleiß es ihm
+                        nur irgend verstatteten."</said> (2. S. 4.)
+                         
+            Es mag sein, <said id="14" mode="indirect" content="speech" level="1">daß er in der Beschränkung der Einzelnen zu weit ging</said><seg id="14" type="frame" pos="end">,
+                        wie <seg id="14" type="speaker">Devrient</seg> <seg id="14" type="intExpr">sagt</seg></seg>, und daß er seiner Natur nach Stücken, in denen eine
+                        phantasievolle Verknüpfung und poetische Rede vorherrschen, zu sehr den Vorrang gab, aber Niemand wird verkennen, wie heilsam eine solche Zucht der Zerfahrenheit der deutschen Bühne gegenüber wirken mußte und ein Großes, mit verhältnißmäßig mittelmäßigen Talenten, geleistet ward; das Düsseldorfer Theater bot
+                        zum erstenmale seit langer Zeit eine kunstgemäß geleitete Bühne, die der
+                        deutschen Dramaturgie und Schauspielkunst zur fruchtbarsten Anregung gereichte.
+                        Lediglich aus Mangel an materiellen Mitteln mußte man die Aufgabe fallen
+                        lassen, nachdem die schwersten Anfänge glücklich überwunden waren und
+                        Immermann mit großen Opfern die Leitung des Theaters noch ein zweites
+                        Jahr neben seinen Amtsgeschäften fortgesetzt hatte. Und nicht ganz ohne
+                        bittere Beimischung abweisen läßt sich <seg id="15" type="frame" pos="start">der <seg id="15" type="intExpr">Gedanke</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1">was eine solche Kraft
+                        hätte leisten können, wäre ihr ein Platz wie die Intendantur des Berliner
+                        Schauspieles geboten!</said>
+                         
+           <said id="4" mode="reported" content="writing" level="1"> Mitten in diesen dramaturgischen Arbeiten und Nöthen fand <seg id="4" type="speaker">Immermann</seg>
+                        Zeit und Kraft seinen ersten Roman im größeren Style, die Epigonen, zu
+                        <seg id="4" type="intExpr">vollenden</seg>.</said> <said id="5" mode="reported" content="speech writing" level="1">Die Schwächen desselben sollen nicht <seg id="5" type="intExpr">verschwiegen</seg> werden</said>, sie liegen
+                        nicht blos in den zu starken Schatten, mit denen einzelne Partien, wie z. B.
+                        die Demagogen ausgestattet sind, sondern vor allem in dem Zwiespalt der
+                        Weltansicht des Dichters. Wohl war er berechtigt, der Zeit den Spiegel
+                        hinzuhalten und die Epigonen waren eben überwiegend halbe und laue Menschen, aber in der Führung des Dichters sollen wir dabei nie die feste Hand
+                        vermissen und das thun wir in diesem Romane gar oft, die Verwicklung
+                        z. B., welche den Helden eine Zeitlang irrsinnig werden läßt, <said id="6" mode="reported" content="thought" level="1">weil <seg id="6" type="speaker">er</seg> ein
+                        unnatürliches Verbrechen begangen zu haben <seg id="6" type="intExpr">meint</seg></said>, wirkt nur beängstigend.
+                        Medon, der geheimnißvolle, welcher als kalter Pessimist die Staatsmänner
+                        benutzt, um eine Revolution hervorzurufen, bricht unmännlich zusammen, und
+                        vollends die burleske Welt, welche sich um Flämmchen — <said id="16" mode="indirect" content="speech writing" level="1">eine Zusammen- 
+            
+            Setzung aus Philine und Mignon</said><seg id="16" type="frame" pos="end">, wie<seg id="16" type="speaker"> I. Schmidt</seg> richtig <seg id="16" type="intExpr">sagt</seg></seg>, — gruppirt, ist
+                        so phantastisch launenhaft, daß wir ihr nicht zu folgen vermögen und auch keine
+                        Berechtigung solcher Gestalten in den wunderlichen Blasen finden können, welche
+                        die Ausartungen der Romantik aufwerfen. Aber dessen ungeachtet bleibt das
+                        Werk von dauerndem poetischen und culturhistorischen Werthe, der Charakter
+                        der Zeit tritt uns mit so realer Lebendigkeit entgegen, daß Niemand, der die
+                        Geschichte der zwanziger Jahre kennen lernen will, die Epigonen ungelesen
+                        lassen kann. Die Existenz auf dem herzoglichen Schlosse, die uns das
+                        Zwitterwesen der Mediatisirten vorführt, welche ihre Duodezselbständigkeit
+                        verloren und doch keine Stellung in dem Staate gefunden, in den sie aufge-
+                        gangen, im Gegensatz dazu die wachsende Bedeutung der großen Industrie,
+                        das ästhetisirende Treiben des Berliner Kreises, das Bild der philologischen
+                        Rectorsfamilie, sind mit vollster Naturwahrheit gezeichnet, die Gestalten der
+                        Herzogin, Johannes und vor allem Cornelius sind lebensvoll und schön
+                        durchgeführt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

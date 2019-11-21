@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0108_1905_15.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="reported" content="writing" level="1" nonfact="yes">Jch habe mit Ausnahme der „Frankfurter Zeitung“ das
+                        Buch bis jetzt auch noch nirgends in der <seg id="1" type="speaker">Presse</seg> eingehend <seg id="1" type="intExpr">besprochen</seg> gefunden.</said>
+                        Und in der „Frankfurter Zeitung“ rief schon <said id="3" mode="reported" content="writing" level="1"><seg id="3" type="speaker">seine</seg> erste kurze <seg id="3" type="intExpr">Erwähnung</seg></said> <said id="39" mode="reported" content="writing" level="1">eine
+                        wenig wohlmeinende <seg id="39" type="intExpr">Kritik</seg> eines <seg id="39" type="speaker">Fachgelehrten</seg></said> hervor. <seg id="5" type="frame" pos="start">Nun <seg id="5" type="intExpr">gestehe</seg> <seg id="5" type="speaker">ich</seg> offen,</seg>
+                        <said id="5" mode="indirect" content="speech" level="1"><said id="6" mode="reported" content="writing" level="2" nonfact="yes">daß <seg id="6" type="speaker">ich</seg> hier nicht als Fachgelehrter, sondern als ganz einfacher Laie <said id="25" mode="reported" content="thought" level="3" border="yes"><seg id="25" type="speaker">meinen</seg>
+                        <seg id="25" type="intExpr">Eindruck</seg> über den Jnhalt des Buches</said> <seg id="6" type="intExpr">wiedergeben</seg> will</said></said>, <said id="26" mode="reported" content="writing" level="1" nonfact="yes">aber <seg id="26 11" type="speaker">ich</seg> kann nicht
+                        umhin, einige Bemerkungen über die Vorurteile der zünftigen Fachgelehrten,
+                        <said id="10" mode="reported" content="speech" level="2">die gerade aus Anlaß der <seg id="10" type="intExpr">Polemik</seg> eines akademischen <seg id="10" type="speaker">Professors</seg> der Philosophie
+                        gegen <said id="9" mode="reported" content="writing" level="3">das erwähnte <seg id="9" type="intExpr">Buch</seg> von <seg id="9" type="speaker">Allostis</seg></said> wieder so deutlich sich geäußert haben</said>,
+                        <said id="11" mode="reported" content="writing" level="2" nonfact="yes">der <seg id="11" type="intExpr">Besprechung</seg> des Buches</said> <seg id="26" type="intExpr">vorauszuschicken</seg>.</said>
+            <said id="12" mode="reported" content="writing" level="1"><seg id="12" type="speaker">Allostis</seg> unternimmt in seinem <seg id="12" type="intExpr">Buche</seg> einen entscheidenden Angriff auf
+                        Kants kategorischen Jmperativ.</said> Ob man Allostis nun folgt oder nicht, jedenfalls sollte man billigerweise seine Ausführungen lesen, bevor man sie mit
+                        einer leichten Handbewegung von oben herab als unwissenschaftlich abtut. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Jch</seg>
+                        <seg id="14" type="intExpr">verstehe</seg> wohl,</seg> <said id="14" mode="indirect" content="thought" level="1">daß der zünftige Fachgelehrte, der die Schätze <said id="28" mode="reported" content="thought" level="2">philosophischen
+                        <seg id="28" type="intExpr">Denkens</seg></said> verwaltet und pflegt, <seg id="15" type="intExpr"><said id="15" mode="reported" content="thought" level="2">Gedanken</said></seg> und Bücher unbeachtet liegen läßt,
+                        die nicht schon rein äußerlich den Stempel fachwissenschaftlicher Gelehrsamkeit
+                        tragen.</said> <seg id="16" type="frame" pos="start">Was <seg id="16" type="speaker">ich</seg> aber nicht <seg id="16" type="intExpr">begreifen</seg> kann,</seg> <said id="16" mode="indirect" content="thought" level="1" nonfact="yes">ist <seg id="40" type="frame" pos="start">das <seg id="40" type="intExpr">Bedürfnis</seg> der <seg id="40 41" type="speaker">Fachgelehrten</seg>,</seg>
+                        <said id="40" mode="indirect" content="thought" level="2"><said id="41" mode="reported" content="speech" level="3" nonfact="yes">solche Bücher, <said id="17" mode="reported" content="thought" level="4">die nach <seg id="17" type="speaker">ihrer</seg> <seg id="17" type="intExpr">Ansicht</seg> für den Betrieb der Wissenschaft doch
+                        wert= und zwecklos sind</said>, gewissermaßen zu <seg id="41" type="intExpr">ächten</seg></said> und dadurch erst recht das
+                        Jnteresse wenigstens eines kleinen Teils des gebildeten Publikums auf sie zu</said></said>
+                        <note>
+                  
+                     * ) Allostis, Die Tugend des Genusses, Jena bei Costenoble 1904.</note><note>
+               </note>
+               <said id="16" mode="indirect" content="thought" level="1" nonfact="yes"><said id="40" mode="indirect" content="thought" level="2">lenken.</said></said> <seg id="18" type="frame" pos="start">Und wenn diese <seg id="18" type="speaker">wenigen</seg> dann noch <seg id="18" type="intExpr">bemerken</seg> müssen,</seg> <said id="18" mode="indirect" content="speech writing" level="1" border="yes">daß der <seg id="19 20" type="speaker">Herr
+                        Professor</seg>, <said id="19" mode="reported" content="speech" level="2">der ex cathedra <seg id="19" type="intExpr">verurteilt</seg> hat</said>, <said id="20" mode="reported" content="thought" level="2" nonfact="yes">den Autor eines Buches nicht <seg id="20" type="intExpr">verstanden</seg> hat oder nicht hat <seg id="20" type="intExpr">verstehen</seg> wollen</said> oder vielleicht das Buch des betreffenden Autors nicht einmal gelesen hat</said>, <seg id="21" type="frame" pos="start">dann kommt <seg id="21" type="speaker">man</seg> zu dem trüben
+                        <seg id="21" type="intExpr">Schluß</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1">daß die Pächter der Wissenschaft von dem Streben nach Wahrheit nur
+                        wenig beherrscht sein können.</said> Mag das Buch von Allostis an noch so vielen
+                        Fehlern leiden, <said id="42" mode="reported" content="speech writing" level="1">die ihm die <seg id="42" type="speaker">Fachgelehrten</seg> <seg id="42" type="intExpr">vorhalten</seg> mögen</said>, soviel sie wollen,
+                        <said id="43" mode="reported" content="speech" level="1" metaph="yes">der philosophische Drang, der aus dem <seg id="43" type="speaker">Buche</seg> <seg id="43" type="intExpr">spricht</seg></said> und der sich in der
+                        Bildung einer in sich geschlossenen Weltanschauung äußert, <said id="24" mode="reported" content="speech" level="1" metaph="yes"><seg id="24" type="intExpr">spricht</seg> so mächtig
+                        aus jeder <seg id="24" type="speaker">Seite</seg> des Buches</said>, daß allein schon dadurch noch der trockenste und
+                        ledernste Professor der Philosophie sich angeregt und erfrischt fühlen müßte.
+            <note>
+               
+                  * ) Allostis, Die Tugend des Genusses, Jena bei Costenoble 1904.
+            </note>
+            Aber vielleicht verlange ich zuviel: <said id="31" mode="reported" content="thought" level="1">Allostis hat <seg id="31" type="intExpr">in den Augen</seg> der
+                        zünftigen <seg id="31" type="speaker">Gelehrten</seg> eine Todsünde begangen</said>: <said id="37" mode="reported" content="writing" level="1"><seg id="37" type="speaker">er</seg> hat in seinem <seg id="37" type="intExpr">Erstlingswerk</seg>
+                        im Gebiet der Philosophie eine Bekämpfung Kants gewagt.</said> Dies Unterfangen
+                        ist um so weniger zu verwerfen, wenn fast zur selben Zeit ein Mann der
+                        Wissenschaft ein langes, arbeitsames Leben in den Dienst der Lösung der
+                        schwierigsten und fundamentalsten Probleme der Philosophie gestellt hat und
+                        dann endlich dazu übergeht, <said id="32" mode="reported" content="speech writing" level="1">die Resultate, zu denen <seg id="32 33" type="speaker">er</seg> gelangt ist, <said id="33" mode="reported" content="speech writing" level="2" nonfact="yes">den Mitforschern zur sachlich=wissenschaftlichen <seg id="33" type="intExpr">Kritik</seg></said> zu <seg id="32" type="intExpr">unterbreiten</seg>.</said> Wie kann es da
+                        ein philosophischer <seg id="44" type="speaker">Anhänger</seg> wagen, <said id="44" mode="reported" content="writing" level="1">auf verhältnismäßig wenigen Seiten Kant
+                        <seg id="44" type="intExpr">widerlegen</seg> zu wollen?</said> Armer <seg id="35" type="speaker">Allostis</seg>! wie kannst du es verantworten, <said id="35" mode="reported" content="speech" level="1">zu
+                        <seg id="35" type="intExpr">fragen</seg></said> und zu forschen und deinen eigenen Weg zu gehen, ohne auf die heute
+                        maßgebenden Autoritäten zu achten, die immer die Welt mit anderen Augen
+                        angesehen haben und durch deren Augen die Fachgelehrten ausschließlich noch
+                        zu sehen gewohnt sind.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

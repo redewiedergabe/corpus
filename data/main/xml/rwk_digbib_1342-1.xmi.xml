@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Romeo und Julia auf dem Dorfe</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Romeo_und_Julia_auf_dem_Dorfe.tg803_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Romeo und Julia auf dem Dorfe</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Tränen stürzten aus ihren Augen, während sie unter seinen Blicken vollends dunkelrot wurde, und<seg id="1" type="frame" pos="start"> <seg id="1" type="speaker">sie</seg> <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Was willst du hier?«</said> – <said id="2" mode="direct" content="speech" level="1">»Nur dich sehen!«</said><seg id="2" type="frame" pos="mid"> <seg id="2" type="intExpr">erwiderte</seg> <seg id="2" type="speaker">er</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»wollen wir nicht wieder gute Freunde sein?«</said> – <said id="4" mode="direct" content="speech" level="1">»Und unsere Eltern?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fragte</seg><seg id="4" type="speaker"> Vrenchen</seg>,</seg> sein weinendes Gesicht zur Seite neigend, da es die Hände nicht frei hatte, um es zu bedecken. <said id="5" mode="direct" content="speech" level="1">»Sind wir schuld an dem, was sie getan und geworden sind?«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">sagte</seg><seg id="5" type="speaker"> Sali</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»vielleicht können wir das Elend nur gutmachen,wenn wir zwei zusammenhalten und uns recht lieb sind!«</said> – <said id="6" mode="direct" content="speech" level="1">»Es wird nie gut kommen«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">antwortete</seg> <seg id="6 8" type="speaker">Vrenchen</seg> mit einem tiefen Seufzer,</seg> <said id="6" mode="direct" content="speech" level="1">»geh in Gottes Namen deiner Wege, Sali!«</said> – <said id="7" mode="direct" content="speech" level="1">»Bist du allein?«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">fragte</seg> <seg id="7 11" type="speaker">dieser</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»kann ich einen Augenblick hineinkommen?«</said> – <said id="8" mode="direct" content="speech" level="1">»Der Vater ist zur Stadt,<seg id="9" type="frame" pos="start"> wie <seg id="9" type="speaker">er</seg><seg id="9" type="intExpr"> sagte</seg>,</seg><said id="9" mode="indirect" content="speech" level="2"> um deinem Vater irgend etwas anzuhängen</said>; aber hereinkommen kannst du nicht, weil du später vielleicht nicht so ungesehen weggehen kannst wie jetzt. Noch ist alles still und niemand um den Weg, <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">bitte</seg> dich,</seg> <said id="10" mode="indirect" content="speech" level="2">geh jetzt!</said>«</said> – <said id="11" mode="direct" content="speech" level="1">»Nein, so geh ich nicht! <said id="12" mode="reported" content="thought" level="2"><seg id="12" type="speaker">Ich</seg> mußte seit gestern immer an dich <seg id="12" type="intExpr">denken</seg></said>, und ich geh nicht so fort, <said id="13" mode="reported" content="speech" level="2" nonfact="yes"><seg id="13" type="speaker">wir</seg> müssen miteinander <seg id="13" type="intExpr">reden</seg></said>, wenigstens eine halbe Stunde lang oder eine Stunde, das wird uns guttun!«</said> <seg id="14" type="frame" pos="start"><said id="29" mode="reported" content="thought" level="1"><seg id="14 29" type="speaker">Vrenchen</seg> <seg id="29" type="intExpr">besann</seg> sich ein Weilchen</said> und<seg id="14" type="intExpr"> sagte</seg> dann: </seg><said id="14" mode="direct" content="speech" level="1">»Ich geh gegen Abend auf unsern Acker hinaus, <said id="15" mode="reported" content="thought" level="2" border="yes"><seg id="15" type="speaker">du</seg> <seg id="15" type="intExpr">weißt</seg> welchen</said>, wir haben nur noch den, und hole etwas Gemüse. <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Ich</seg> <seg id="16" type="intExpr">weiß</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2">daß niemand weiter dort sein wird, weil die Leute anderswo schneiden</said>; wenn du willst, so komm dorthin, aber jetzt geh und nimm dich in acht, daß dich niemand sieht! Wenn auch kein Mensch hier mehr mit uns umgeht, <said id="17" mode="reported" content="speech" level="2" nonfact="yes">so würden <seg id="17" type="speaker">sie</seg> doch ein solches <seg id="17" type="intExpr">Gerede</seg> machen</said>, daß es der Vater sogleich vernähme!«</said> Sie ließen sich jetzt die Hände frei, ergriffen sie aber auf der Stelle wieder, und <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">beide</seg><seg id="18" type="intExpr"> sagten </seg>gleichzeitig:</seg> <said id="18" mode="direct" content="speech" level="1">»Und wie geht es dir auch?«</said> <said id="31" mode="reported" content="speech" level="1">Aber statt <seg id="31" type="speaker">sich</seg> zu <seg id="31" type="intExpr">antworten</seg></said>, <said id="30" mode="reported" content="speech" level="1"><seg id="30" type="intExpr">fragten</seg> <seg id="30" type="speaker">sie</seg> das gleiche aufs neue</said>, und die Antwort lag nur in den beredten Augen, <said id="21" mode="reported" content="thought" level="1" nonfact="yes" border="yes">da <seg id="21" type="speaker">sie</seg> nach Art der Verliebten die Worte nicht mehr <seg id="21" type="intExpr">zu lenken wußten</seg></said> und, <said id="22" mode="reported" content="speech" level="1" nonfact="yes">ohne <seg id="22" type="speaker">sich</seg> weiter etwas zu <seg id="22" type="intExpr">sagen</seg></said>, endlich halb selig und halb traurig auseinanderhuschten. <said id="23" mode="direct" content="speech" level="1">»Ich komme recht bald hinaus, geh nur gleich hin!«</said> <seg id="23" type="frame" pos="end"><seg id="23" type="intExpr">rief</seg> <seg id="23" type="speaker">Vrenchen</seg> noch <seg id="23" type="intExpr">nach</seg>.</seg> 
+                  Sali ging auch alsobald auf die stille schöne Anhöhe hinaus, über welche die zwei Äcker sich erstreckten, und die prächtige stille Julisonne, die fahrenden weißen Wolken, welche über das reife wallende Kornfeld wegzogen, der glänzende blaue Fluß, der unten vorüberwallte, alles dies erfüllte ihn zum ersten Male seit langen Jahren wieder mit Glück und Zufriedenheit stattmit Kummer, und er warf sich der Länge nach in den durchsichtigen Halbschatten des Kornes, wo dasselbe Martis wilden Acker begrenzte, und guckte glückselig in den Himmel. 
+                  Obgleich es kaum eine Viertelstunde währte, bis Vrenchen nachkam, und <said id="32" mode="reported" content="thought" level="1"><seg id="32" type="speaker">er</seg> an nichts anderes <seg id="32" type="intExpr">dachte</seg> als an sein Glück und dessen Namen</said>, stand es doch plötzlich und unverhofft vor ihm, auf ihn niederlächelnd, und froh erschreckt sprang er auf. <said id="25" mode="direct" content="speech" level="1">»Vreeli!«</said> <seg id="25" type="frame" pos="end"><seg id="25" type="intExpr">rief</seg> <seg id="25" type="speaker">er</seg>,</seg> und dieses gab ihm still und lächelnd beide Hände, und Hand in Hand gingen <seg id="27" type="speaker">sie</seg> nun <said id="26" mode="reported" content="speech" level="1" metaph="yes">das <seg id="26" type="intExpr">flüsternde</seg> <seg id="26" type="speaker">Korn</seg></said> entlang bis gegen den Fluß hinunter und wieder zurück, <said id="27" mode="reported" content="speech" level="1">ohne viel zu <seg id="27" type="intExpr">reden</seg></said>; sie legten zwei-und dreimal den Hin- und Herweg zurück, still, glückselig und ruhig, so daß dieses einige Paar nun auch einem Sterntilde glich, welches über die sonnige Rundung der Anhöhe und hinter derselben niederging, wie einst die sicher gehenden Pflugzüge ihrer Väter. Als sie aber einsmals die Augen von den blauen Kornblumen aufschlugen, an denen sie gehaftet, sahen sie plötzlich einen andern dunklen Stern vor sich her gehen, einen schwärzlichen Kerl, von dem <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">sie</seg> nicht <seg id="28" type="intExpr">wußten</seg>, </seg><said id="28" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">woher er so unversehens gekommen.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

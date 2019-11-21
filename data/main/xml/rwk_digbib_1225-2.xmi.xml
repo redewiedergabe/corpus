@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Tod</title>
+             <author>Holz, Arno</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Holz,_Arno_Ein_Tod.tg457_1.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Ein Tod</f>
+         <f name="author">Holz, Arno</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die Blätter knitterten unter seinen Händen. Den Ellbogen aufgestützt, <said id="32" mode="reported" content="speech" level="1"><seg id="32" type="intExpr">las</seg> <seg id="1 2 4 6 32" type="speaker">er</seg> jetzt halblaut vor sich hin.</said>
+                  
+                    <said id="1" mode="direct" content="speech" level="1"> »Wie schön die Sonne lacht! Wie freundlich
+                     Von Zweig zu Zweigen ...«</said>
+                        
+                  
+                  Wieder knitterten die Blätter. Die Furche zwischen seinen dichten, buschigen Augenbrauen hatte sich noch tiefer gegraben. 
+                  
+                     <seg id="3 5" type="speaker">Jens</seg>, der jetzt auf dem Bauch liegend über das Seitenkissen des Sofas weg zwischen den Arabesken der Gardinen hindurch den kleinen, grünen Stern drüben über dem Schornstein beobachtete, langweilte sich scheußlich. 
+                  <said id="2" mode="direct" content="speech" level="1">»Willst du nicht lieber 'n bißchen schlafen?«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Nein!«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Aber Kind! ... Warum nicht? Ich löse dich ab!«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Laß nur! ... Kann nicht schlafen!«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Ae! Eigentlich! Ich auch nicht mehr!«</said> 
+                  <said id="31" mode="reported" content="speech" level="1" nonfact="yes">Ein langes <seg id="31" type="intExpr">Schweigen</seg> war eingetreten.</said> Stumpf und müde starrten die beiden vor sich hin. 
+                  <said id="7" mode="direct" content="speech" level="1">»Du!«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Ja?«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Nichts!«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Was denn?«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Still! Hörst du nichts?!«</said> 
+                  Unten im Flur krackelte jetzt etwas an der Haustür herum. <said id="12" mode="direct" content="speech" level="1">»Aha!«</said> 
+                  Schläfrig blinzelte jetzt <seg id="13" type="speaker">Jens</seg> wieder nach seinem Stern hinüber. <said id="13" mode="direct" content="speech" level="1">»Hm!«</said> 
+                  Olaf blätterte wieder weiter. 
+                  Unten hatte es unterdessen das Schlüsselloch gefunden und drehte nun mühsam auf. Es torkelte herein. 
+                  <said id="14" mode="direct" content="speech" level="1">»Du! Hör mal den!«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Na? Ei, du Donnerwetter!«</said> 
+                  Schwer kam es jetzt die Treppe in die Höhe gestapft. Am Geländer hielt es sich. Manchmal polterte es wieder ein paar Stufen zurück. Es schnaufte und prustete. Eine tiefe, heisere Baßstimme brummte. Jetzt, endlich kam <seg id="16" type="speaker">es</seg> schwerfällig über den Flur. Ein dicker Körper war dumpf gegen eine Tür geschlagen. <said id="16" mode="reported" content="speech" level="1">Ein abgebrochener <seg id="16" type="intExpr">Fluch</seg></said>, dann half es sich wieder weiter. 
+                  <said id="17" mode="direct" content="speech" level="1">»Heiliger Bimbam!«</said> 
+                  Jens lachte leise. 
+                  Jetzt hatte es sich sogar gegen die Wand gestemmt und schurrte sich daran entlang. Ein paar Kalkstücke waren abgebröckelt und prasselten unten auf die Dielen. 
+                  <said id="18" mode="direct" content="speech" level="1">»Was?! Famose Kröte!«</said> 
+                  <said id="19" mode="direct" content="speech" level="1">»Still mal!!«</said> 
+                  Es kam ... ja! ... es kam sogar ... auf die Tür zu? 
+                  Jetzt ... Schwer war es dagegen gekracht! Der dumpfe Schlag war durch das ganze Zimmer gegangen. 
+                  <said id="20" mode="direct" content="speech" level="1">»Herrgott! Was ist denn das für ein Knote?!!«</said> 
+                  <seg id="20" type="speaker">Olaf</seg> war steil in die Höhe gefahren. 
+                  Auch Jens war die Sache etwas bunt geworden ...
+                  Sie standen jetzt beide mitten im Zimmer, die Augen aufmerksam auf die Tür gerichtet. 
+                  Es tastete nach der Klinke. 
+                  <said id="21" mode="direct" content="speech" level="1">»Das heißt ...«</said> 
+                  Schnell, auf den Zehen, war jetzt Olaf auf die Tür zugegangen. 
+                  Aber in demselben Augenblicke war sie auch bereits aufgeprallt und ein unförmiger, schwarzer Klumpen über die Schwelle weg prustend ins Zimmer gekugelt. 
+                  Der kühle Luftzug hatte die kleine Lampe neben dem Bett hoch aufflackern lassen. 
+                  Jens war sofort zugesprungen. 
+                  Mit <seg id="22 24 26 29" type="speaker">Olafs</seg> Hilfe gelang es ihm endlich, den <seg id="25 27 28" type="speaker">Betrunkenen</seg> aufzurichten. 
+                  In dem matten Schein der Lampe jetzt ein blaurotes, gedunsenes Gesicht, das mit seinen kleinen, verschwommenen Augen blöde im Zimmer umherglotzte. Unter dem eingedrückten Hut vor dünne, flachsblonde Haare in die rote, fette, schweißtriefende Stirn. 
+                  <said id="22" mode="direct" content="speech" level="1">»Mein Herr! Bitte!«</said> 
+                  Ein Schlucken und Schnieben war die einzige Antwort. 
+                  <said id="24" mode="direct" content="speech" level="1">»Sie sind fehlgegangen!«</said> 
+                  <said id="25" mode="direct" content="speech" level="1">»Wa ... hbf ... wa ... waas? Hbf! ...«</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Sie sind fehlgegangen!«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»Ah! ... En ... en ... hbf! ... schul ... jen ... i ... hbf! ...
+                  ich ...«</said> 
+                  <said id="29" mode="direct" content="speech" level="1">»Bitte!«</said> 
+                  <said id="28" mode="direct" content="speech" level="1">»Hb! Hbf! ...«</said> 
+                  Hinterrücks war jetzt der <seg id="30" type="speaker">Dicke</seg> mit seiner Verbeugung auf den Flur zurückgetaumelt. Olaf drückte die Tür fest an und drehte den Schlüssel um ...
+                  <said id="30" mode="direct" content="speech" level="1">»Nette Wirtschaft hier!«</said>
+                         
+                  Endlich hatten sie sich wieder beruhigt. 
+                  Olaf blätterte wieder zerstreut in seinem Tegnér herum, Jens hatte sich auf das Sofa zurückgeworfen und blinzelte wieder schläfrig vor sich hin durch die Gardine.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

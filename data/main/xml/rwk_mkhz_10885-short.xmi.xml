@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Kaiser. Erdstöße. Die verwandtschaftlichen Beziehungen der englischen Königsfamilie.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">CAZ_1905_11_28.txt_6.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Kaiser. Erdstöße. Die verwandtschaftlichen Beziehungen der englischen Königsfamilie.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.czernowitzer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Bunte Chronik.
+                        
+               
+            
+            
+               Czernowitz, 27. November.
+                         date
+            
+               
+                  Der Kaiser.
+               
+               
+                  Wien, 27. November. date
+               (Tel. der „Cz. Allg. Ztg.“)
+               Der
+                        Kaiser wohnte vormittags der ersten Messe in der neuerrichteten Notkirche Zwischenbrücken bei, wozu er die gesamten Kosten gespendet hatte. Bei der Ankunft und Abfahrt
+                        wurde er von einem zahlreichen Publikum mit begeisterten
+                        Ovationen begrüßt.
+            
+            
+            
+               
+                  Erdstöße.
+               
+               
+                  Roin, 27. November. date
+               (Tel. der „Cz. Allg. Ztg.“)
+                        
+               Gestern früh waren Erdstöße in Benevent, Faggia, Avellino,
+                        Ariano, Neapel und Apice-Benevent bemerkbar. Es entstand
+                        eine große Panik. In Apice wurden mehrere Gebäude,
+                        darunter die Kaserne, derart beschädigt, daß sie geräumt
+                        werden mußten. — In Ariano wurden auch mehrere Kirchen,
+                        darunter die Kathedrale, beschädigt.
+            
+            
+            
+               
+                  Die verwandtschaftlichen Beziehungen der
+                        englischen Königsfamilie.
+               
+               <seg id="1" type="frame" pos="start">Aus London, 23. November
+                        wird uns <seg id="1" type="intExpr">geschrieben</seg>:</seg> <said id="1" mode="direct" content="writing" level="1">Die Königswahl der Norweger hat aus
+                        der jüngsten Tochter des Königs Eduard, der seit dem 22. Juli
+                        1896 mit dem Prinzen Karl von Dänemark, jetzigem König
+                        Haakon VII. vermählten Prinzessin Moud, eine Königin gemacht und dadurch die zahlreichen verwandtschaftlichen Beziehungen der englischen Herrscherfamilie um eine wichtige Verbindung vermehrt.</said> Welchen Einfluß müßte nicht der Londoner
+                        Hof auf die Geschicke Europas ausüben, wenn solchen dynastischen Verhältnissen noch eine Bedeutung wie in vergangenen
+                        Zeiten zukäme, sie nicht vielmehr fast belangslos in politischer Hinsicht geworden wären! Der Kaiser von Rußland
+                        ist der Neffe der Königen Alexandra, der deutsche Kaiser der
+                        Neffe König Eduards; der König von Griechenland ist der
+                        Bruder der Königin Alexandra, der König von Dänemark ihr
+                        Vater; die Königin von Norwegen ihre Tochter und der König von Norwegen ihr Neffe; die künftige Königin von Schweden ist eine Nichte König Eduards, die Königin von Holland die Nichte seiner Schwägerin, der Herzog von Sachsen-Coburg-Gotha sein Neffe; der König von Portugal ist ein Vetter König Eduards, als Nachkomme des Herzogs Franz von Sachsen-Coburg, des Onkels von König Viktoria, und ein gleiches Verwandtschaftsverhältnis besteht zwischen dem König der Belgier (Sohn eines Onkels von Königin Viktoria, Leopold's I.) und dem König Eduard.
+                         
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

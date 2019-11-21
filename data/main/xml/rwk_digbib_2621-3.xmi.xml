@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Odfeld</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Das_Odfeld.tg256_1.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Odfeld</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Er saß, an allen Gliedern zitternd, nieder auf dem Stuhl neben dem Tische, auf dem gestern abend Knecht Heinrich mit seiner Kreide den Lauf der Weser und die Stellung der kriegführenden Parteien hingemalt hatte. <seg id="1" type="speaker">Er</seg> saß hin in seinem nur durch ein Wunder unangetastet verbliebenen Altenteil: 
+                    <said id="1" mode="direct" content="speech" level="1"> »Ist es denn die Möglichkeit? Rundum auf Meilen und Meilen Weges alles ruinieret und mir – mir – o mir allein solche Gnade und Barmherzigkeit! Herr, womit habe ich armer unnützer Sünder diese Ausnehmung und Verschonung verdienet?«</said> 
+                     Er erhob sich wieder vom Stuhl, stand inmitten seines Gemachs und schlug die Hände zusammen wie ein sich verwunderndes Kind. Doch nun traf im letzten Tageslicht sein Auge auf Zeichen, daß doch jemand, trotz verschlossen gebliebener Tür im Museo anwesend gewesen sei und nicht ganz so bescheiden und zierlich gehauset habe, wie es sich für einen höflichen und frommen Gast gezieme. Es lag der Suppennapf aus der Küche der Frau Klosteramtmännin in Scherben am Boden, ebenso der Teller, auf dem der letzte Hering aus der Speisekammer von Amelungsborn gelegen hatte. Ein Buch lag in Fetzen zerrissen unter dem Tische, und einzelne Blätter daraus waren durch die ganze Zelle verstreuet. 
+                     Magister Buchius bückte sich natürlich zuerst nach dem Buche; <said id="8" mode="reported" content="thought" level="1">und mit jeder Einzelnheit stand <seg id="8" type="speaker">ihm</seg> nunmehr der vergangene 
+Abend, der Abend des vierten Novembers 1761 vor der Seele und im <seg id="8" type="intExpr">Gedächtnis</seg>.</said> 
+                     Auch das Titelblatt war ausgerissen worden; <seg id="2" type="frame" pos="start">aber <seg id="2 3" type="speaker">Magister Buchius</seg> <seg id="2" type="intExpr">wußte</seg> doch,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">was er wieder in den zitternden Händen hielt: nämlich den Wunderbaren Todesboten oder schrift- und vernunftsmäßige Untersuchung, was zu halten sei von usw. – ans Licht gegeben von Theodoro Kampf, Schloßpredigern zu Iburg.</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»O mein Sohn Diedericus! Mein Thedel! Mein armer Thedel von Münchhausen! So bin ich alter unnützer Knecht unverdientermaßen erhalten in meinem Eigentum und du liegest draußen auf dem Odfelde in deinem erstarreten jungen Blut, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">und wenn <seg id="9" type="speaker">ich</seg> morgen <seg id="9" type="intExpr">reden</seg> will von dir</said>, <seg id="7" type="frame" pos="start"><said id="10" mode="reported" content="speech" level="2" nonfact="yes">werden <seg id="7 10" type="speaker">sie</seg> mir den Mund <seg id="10" type="intExpr">verbieten</seg></said> und <seg id="7" type="intExpr">sprechen</seg>:</seg> <said id="7" mode="indirect" content="speech" level="2" nonfact="yes">Du habest dein Teil nur verdientermaßen empfangen, habest nur das erhalten, was du gewollt habest!</said>« </said>
+                     Er hielt ein Blatt aus dem zerrissenen Scherzbuch des Kollegen <seg id="4" type="speaker">Zinserling</seg> und <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">entzifferte</seg> schwimmenden Auges, noch eine Zeile beim letzten Abendgrauen:</seg> 
+                     <said id="4" mode="direct" content="writing" level="1">» Bringet mir diesen zur Ruhe!«</said> 
+                     In diesem Augenblick fuhr er heftig erschrocken zusammen, er, der den halben Tag über das Krachen des Kleingewehrs und den Donner des groben Geschützes aus der Schlacht am Ith im Ohr gehabt hatte. Und es zupfte ihn doch nur <seg id="5" type="speaker">jemand</seg> unten am Rock, und hackte in seine Schuhschnallen und <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">sagte</seg>:</seg> 
+                    <said id="5" mode="direct" content="speech" level="1" border="yes"> »Krah!«</said> .....
+                     Da stand er, der den ganzen Tag über den einzigen sicheren Platz in Kloster Amelungsborn und weit rundum für sich allein gehabt hatte und doch nicht darin mit seinem Schicksal zufrieden gewesen war. Inmitten der von ihm angerichteten Verwüstung stand zwischen den Beinen des Magisters Buchius der schwarze Kämpfer aus der Schlacht auf dem Wodansfelde, Wodans – Odins Vogel, geisterhaft, gespenstig frech und unbefangen, aber dessenungeachtet so wenig mit Triumphatorgefühlen 
+wie die zwei großen Feldherren von Braunschweig und von Broglio in ihren Hauptquartieren zu Wickensen und zu Einbeck am heutigen Abend. 
+                     Er war grimmig hungrig, ob er von Hugin oder ob er von Munin stammte, der dunkle Bote Wodans, und <seg id="6" type="speaker">er</seg> sperrte den Schnabel danach auf und<said id="6" mode="reported" content="speech" level="1" border="yes"> <seg id="6" type="intExpr">schrie</seg> empor zum guten alten Magister Buchius.
+
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

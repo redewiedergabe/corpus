@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Ehrentag</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Der_Ehrentag.tg272_1.xml</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Ehrentag</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Dann bin ich in das Wirtshaus, wo er manchmal hinzugehen pflegt; – da war er auch nicht. <seg id="2" type="frame" pos="start">Und <seg id="2" type="intExpr">weißt</seg> <seg id="2" type="speaker">du</seg>,</seg> <said id="2" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">warum ich jetzt bei mir zu Haus war?</said> <seg id="3" type="frame" pos="start">Weil <seg id="3" type="speaker">ich</seg> überall, bei ihm und auch im Wirtshaus den <seg id="3" type="intExpr">Auftrag gegeben</seg> habe,</seg> <said id="3" mode="indirect" content="speech" level="2">man soll ihn sofort zu mir schicken.</said> Und jetzt fahren wir wieder ins Theater, weil ich keine Ruh' hab', bevor ich ihn find', – verstehst du?«</said> 
+                     <said id="4" mode="reported" content="speech" level="1" nonfact="yes"><seg id="4" type="speaker">August</seg> <seg id="4" type="intExpr">sprach</seg> kein Wort</said>; aber er hätte sie gern erwürgt. 
+                     Der Wagen rollte über die Donaubrücke, noch ein paar Minuten und er hielt in einer schmalen Gasse, an der kleinen Hintertür des Theatergebäudes, die zur Bühne führt. Die <seg id="1" type="speaker">Blandini</seg> sprang aus dem Wagen; August ihr nach. Die Tür war längst geschlossen. Ein Gewölbewächter, der eben vorbeiging, sah neugierig die junge Dame an, die um Mitternacht hier an der Glocke zog. Nach ein paar Sekunden wurde die kleine Tür geöffnet, und der <seg id="5" type="speaker">Portier</seg> erschien mit einer Laterne in der Hand ... <said id="5" mode="direct" content="speech" level="1">»Jessas, Fräulein Blandini, was ist denn? Was ist denn gescheh'n? Haben S' was da vergessen?«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Leuchten Sie mir nur.«</said> 
+                     August stand hinter ihr. 
+                     <said id="7" mode="direct" content="speech" level="1">»Der Herr hat nichts da zu tun,«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">sagte</seg> die <seg id="7 6" type="speaker">Blandini</seg>;</seg> <said id="7" mode="direct" content="speech" level="1">»sperren Sie zu.«</said> 
+                     Sie stieß August zurück, schloß selbst die Tür, und der Portier versperrte sie. Während sie mit dem Portier durch den schmalen, niederen Gang eilte, der zur Bühne führte, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">fragte</seg> <seg id="8" type="speaker">sie</seg> ihn:</seg> <said id="8" mode="direct" content="speech" level="1">»Haben Sie den Roland weggehen sehen?«</said> 
+                     <said id="10" mode="reported" content="thought" level="1">Der <seg id="10 9" type="speaker">Portier</seg> <seg id="10" type="intExpr">dachte</seg> nach.</said> <said id="9" mode="direct" content="speech" level="1">»Ja, Fräulein, jetzt ist sicher niemand mehr in der Garderobe. Vor zwei Stunden hab' ich schon zugesperrt.«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Haben Sie ihn weggehen gesehen?«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">wiederholte</seg> <seg id="11" type="speaker">sie</seg> beinahe flehend.</seg> 
+                     Sie standen nun auf der großen, dunklen Bühne. Von der Laterne, die der Portier in der Hand hielt, fiel ein Lichtkegel auf den weißen Souffleurkasten. Die Kulissen, zu beiden Seiten im Dunkel, schienen ins Unermeßliche hinaufzuwachsen. Der eiserne Vorhang stand da wie eine Riesenwand. 
+                     <said id="12" mode="direct" content="speech" level="1">»Ja .... gesehen«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">sagte</seg> der <seg id="12 13" type="speaker">Portier</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">» ...<said id="24" mode="reported" content="thought" level="2" nonfact="yes"><seg id="24" type="speaker">ich</seg> weiß mich wirklich nicht zu <seg id="24" type="intExpr">erinnern</seg></said>, <said id="14" mode="reported" content="speech" level="2" prag="yes"><seg id="14" type="speaker">ich</seg> <seg id="14" type="intExpr">bitt'</seg> schön</said>, Fräulein, es gehen da 
+so viel Leut' an einem vorbei, man schaut doch nicht einen jeden an; nicht wahr?«</said> 
+                     <said id="15" mode="reported" content="thought" level="1">Die <seg id="15" type="speaker">Blandini</seg> blieb noch einen Moment <seg id="15" type="intExpr">nachsinnend</seg> stehen</said>, dann eilte sie rasch über die Bühne bis hinter die Kulissen, zu der kleinen Stiege. Sie setzte den Fuß auf die ersten Stufen. 
+                     <said id="16" mode="direct" content="speech" level="1">»Aber Fräulein,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">rief</seg> der <seg id="16" type="speaker">Portier</seg>, der ihr mit der Laterne nacheilte,</seg> <said id="16" mode="direct" content="speech" level="1">»da ist ja die Herrengarderobe.«</said> 
+                     <said id="17" mode="reported" content="speech" level="1" nonfact="yes"><seg id="17" type="speaker">Sie</seg> <seg id="17" type="intExpr">antwortete</seg> nicht</said>; sie eilte so rasch hinauf, daß sie oben plötzlich im Dunkel stand und auf den nachstolpernden Mann mit der Laterne warten mußte. Sie holte tief Atem. Als der <seg id="19 22" type="speaker">Portier</seg> wieder bei ihr war, und ein schwacher Lichtschimmer den Gang erhellte, <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">fragte</seg> <seg id="18" type="speaker">sie</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Wo ist die Garderob' vom Roland?«</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»Ja Fräulein, <said id="20" mode="reported" content="thought" level="2" nonfact="yes" border="yes">das <seg id="20" type="intExpr">weiß</seg> <seg id="20" type="speaker">ich</seg> selber nicht</said>, ich komme ja nie da herauf. <said id="21" mode="reported" content="writing" level="2">Aber da oben sind die Namen <seg id="21" type="intExpr">angeschrieben</seg>.</said>«</said> 
+                     Sie nahm ihm die Laterne aus der Hand und versuchte aufs Geratewohl, die erste Tür zu öffnen. 
+                     <said id="22" mode="direct" content="speech" level="1">»Fräulein, das geht nicht, s' ist ja zugesperrt. Die Herren sperren meistens zu beim Fortgehen. Und das ist ja gar nicht die von Herrn Roland.«</said> 
+                     Fräulein Blandini eilte weiter; bei einer Tür nach der andern hob sie die Laterne höher, um die Namen zu lesen.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

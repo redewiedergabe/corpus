@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Fragmente aus Briefen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswanderer24_1847.txt_2.xml</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Fragmente aus Briefen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">mkhz.auswanderer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+Vorerst habe ich mir zugelegt: 1 FaßWhisky
+                        ca. 40 Gallonen haltend ( die Gallone gibt 5 Flaschen, die Flasche
+                        
+               kostet mich hier nicht ganz 5 Cents und wird im Jnnern mit 40 bis
+                        50 C. verkauft ) , 2 Dutzend Flaschen rothen Wein, 2 Dutzend weißen
+                        Wein, 2 DutzendBroodyoder starken Branntwein, 1 DutzendCognac,
+                        3 Fässer Mehl, 1 Ballen Caffee, 1 Faß Zucker, 1 Kiste feinen und
+                        1 Kiste ord. Kautabak, 1 Kiste Seife, 1 Kiste Stärke, 1 Kiste Thee,
+                        1 Kiste ganzen Jngber und 1 FaßMalarsoder Syrup, beide Artikel
+                        zur Bereitung des Jngber = Bier, Zimmet, Pfeffer, Piement, Nelken,
+                        Pottasche, 2 Säcke Salz, 1boxKäs, 1grosRauchtabak, 5 Gallonen Spiritus zur Bereitung der feinen Liqueure, wozu ich mir die
+                        verschiedenen Oele gekauft, 1 Assortiment Wein=, Bier= und Liqueur=Gläser, 1 Wage. Dies ist vorerst mein Lager, das mich im Ganzen hier
+                        150 D. kostet, wozu nochca. 50 D. Fracht bis Lagrange kommen,
+                        im Ganzen also 200 Dollar. Das Einzige, was mir fehlt, ist genaue Kenntniß der Sprache, da besonders in Lagrange nur wenig
+                        Deutsche leben; <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="speaker">ich</seg> kann mich zwar schon ziemlich <seg id="1" type="intExpr">verständlich</seg> machen</said>,
+                        und ebenso auch wieder verstehen, <seg id="2" type="frame" pos="start">doch <seg id="2" type="intExpr">denke</seg> <seg id="2" type="speaker">ich</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1"><said id="3" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="3" type="speaker">ich</seg> in wenigen
+                        Monaten ziemlich fertig durch den häufigen Umgang mit Amerikanern
+                        <seg id="3" type="intExpr">rede</seg>.</said></said> Wenn ich später der Sprache besser mächtig, beabsichtige ich,
+                        mit mehr Fonds in Händen, größere Tauschgeschäfte in Häuten und
+                        Baumwolle, wobei auch verdient werden kann, zu machen. Will Franz
+                        <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">meinem</seg> <seg id="4" type="intExpr">Rathe</seg></said> folgen, so kauft er sich bei Lagrange einige Acres
+                        Gartenland und baut Gemüse, die den ganzen Winter gezogen werden
+                        und wofür viel Geld zu machen ist. Eine Hand voll grüner Erbsen
+                        oder Bohnen kostet 1 Picts oder 1 / 8 Dollar, eine Wassermelone, die
+                        wild wachsen und nur bei der geringsten Behandlung zu 100 zu erzeugen sind, 2--3 Picts; Pfirsiche, womit auf dem Lande die Schweine
+                        gefüttert werden, kosten in den Städten der Bushel 2 -- 3 Dollar
+                        und können auf dem Acker 100 und mehr Bushel gewonnen werden.
+            Nun zu einer Hauptfrage! -- Was ist Teras? ist es wirklich
+                        das Eldorado, <said id="5" mode="reported" content="writing" level="1">wie man es in allen <seg id="5" type="speaker">Büchern</seg> <seg id="5" type="intExpr">beschrieben</seg> findet?</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Jch</seg>
+                        <seg id="6" type="intExpr">antworte</seg></seg> <said id="6" mode="direct" content="speech" level="1">Nein!</said> Gehet her und sehet all das Elend an, wie ich es
+                        gesehen, <seg id="7" type="frame" pos="start">und <seg id="7" type="speaker">Viele</seg> würden gleich andern Vielen <seg id="7" type="intExpr">sagen</seg>:</seg><said id="7" mode="direct" content="speech" level="1" nonfact="yes">Terasist
+                        das schlechteste Land von Amerika.</said> Der vierte Theil von allen bis
+                        jetzt nach Teras <seg id="9" type="speaker">Gekommenen</seg> ist todt, ein anderes Viertheil, und mehr
+                        noch, sind weder todt noch lebendig, sie schleichen sich mit dem KlimaFieber umher und <said id="9" mode="reported" content="thought" level="1"><seg id="9" type="intExpr">wünschen</seg> sich den Tod, oder zurück nach Deutschland.</said> Das dritte Viertel geht von Texas nachNew=Orleansoder
+                        in die nördlichen Staaten und nur 1 Viertel von allen denen, die
+                        mit großen Hoffnungen nach Texas gegangen, um Gluck und Reichthum zu ernten, fühlen sich glücklich und reich und sind es auch.
+                        <seg id="10" type="frame" pos="start">Und dennoch <seg id="10" type="intExpr">sage</seg> <seg id="10" type="speaker">ich</seg> nach Allem, was ich bisher gehört, gesehen und
+                        erfahren habe:</seg> <said id="10" mode="direct" content="speech" level="1">in Texas ist es gut sein und bei wenig Arbeit besser
+                        zu leben als in Deutschland; <said id="11" mode="reported" content="thought" level="2" nonfact="yes" border="yes">nur muß <seg id="11" type="speaker">man</seg> das feine Leben, wie es
+                        dort in, nicht darunter <seg id="11" type="intExpr">verstehen</seg>.</said></said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

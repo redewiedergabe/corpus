@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wiener Zeitungen und Zeitungshelden.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341563_279547.txt_86.xml</f>
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Wiener Zeitungen und Zeitungshelden.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Mir kam keines davon zu Gesichte, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">auch würde <seg id="1" type="speaker">ich</seg> sie in diesem Falle kaum <seg id="1" type="intExpr">besprechen</seg></said>, da sie nicht
+                        der Oeffentlichkeit angehören.
+               Sehen Sie sich noch einmal die starken biedern Züge des Mannes an. Das
+                        ist Vater Melden, der Botaniker, Journalist und Gouverneur; der <seg id=" 3 4" type="speaker">Mann</seg>, <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">wel 
+               
+               cher</seg> uns <seg id="2" type="intExpr">vorschreibt</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">was für Bücher und Zeitschriften wir im Interesse unserer
+                        politischen Bildung lesen oder nicht lesen sollen</said>, der uns Stockprügel gibt oder
+                        Ruthenstreiche, der uns einsperrt, freiläßt, <seg id="3" type="intExpr"><said id="3" mode="reported" content="speech" level="1">begnadigt</said></seg>, <seg id="4" type="intExpr"><said id="4" mode="reported" content="speech" level="1">verurtheilt</said></seg>, und — belustigt.
+            
+            
+               2. Heine.
+                        
+               Wir kommen jejzt zu deu Fischweibern der Reaction, mit <said id="5" mode="reported" content="writing" level="1">deren <seg id="5" type="intExpr">Beschreibung</seg></said>
+                        <seg id="5" type="speaker">ich</seg> mich nicht befassen würde, wenn sie nicht glücklicher Weise neben ihrer widerlichen,
+                        auch eine starke komische Seite hätten. Diese ehrenwerthen Basen und
+                        Gevattern sind: Fremdenblatt, Geißel, Courier, Zuschauer, Hans Jörgel. <said id="6" mode="reported" content="speech" level="1" border="yes"><seg id="6 7" type="speaker">Man</seg>
+                        hat diese Blätter Milchschwestern der Berliner „Kreuzzeitung" <seg id="6" type="intExpr">genannt</seg></said>; <said id="7" mode="reported" content="speech" level="1">das ist
+                        eine <seg id="7" type="intExpr">Verleumdung</seg> der letztern.</said> Die Kreuzzeitung weiß einen gewissen äußerlichen
+                        Anstand zu bewahren, <said id="8" mode="reported" content="writing" level="1">ist für gebildete Reactionäre <seg id="8" type="intExpr">geschrieben</seg></said> und kann in ihrer
+                        Art witzig sein. Die Wiener Galgenblättlein sind localer als das Berlinerische,
+                        ein specifisch Wienerisches Unkraut; die Möglichkeit ihrer Existenz ist kein Kompliment für die gepriesene Kaiserstadt, <said id="9" mode="reported" content="thought" level="1" nonfact="yes" border="yes">wo die gemüthlichen Augen demokratischer
+                        sowohl wie conservativer <seg id="9" type="speaker">Enthusiasten</seg> gar keinen Pöbel <seg id="9" type="intExpr">bemerkt</seg> haben wollen</said>;
+                        <seg id="10" type="frame" pos="start">denn es ist kaum <seg id="10" type="intExpr">anzunehmen</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes">daß das Lesepublikum dieser Art Publizistik aus
+                        lauter Beamten, Offizieren, Börsenmäklern und Geheimpolizisten bestehe</said>; manche
+                        dieser Journale aber hatten in ihrer Blüthezeit 2 bis 3000 Abonnenten in Wien
+                        und blos ein Paar Hundert in den Provinzen.
+               <seg id="11" type="frame" pos="start">Zur allgemeinen Charakteristik dieser Journale muß <seg id="11" type="speaker">ich</seg> den merkwürdigen
+                        Umstand <seg id="11" type="intExpr">erwähnen</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">daß unser Gouverneur Melden sich im vorigen Winter veranlaßt sah, <said id="12" mode="reported" content="writing" level="2">mehrere derselben in einem öffentlichen <seg id="12" type="speaker">Erlaß</seg> wegen ihres gemeinen
+                        Servilismus und ihrer plump reactionären Tendenzen zu verwarnen und mit
+                        Suspension zu bedrohen!!!</said></said> <seg id="13" type="frame" pos="start"><seg id="13 16" type="speaker">Er</seg> <seg id="13" type="intExpr">hob</seg> dabei <seg id="13" type="intExpr">hervor</seg>,</seg> <said id="13" mode="indirect" content="writing" level="1">daß <said id="14" mode="reported" content="speech" level="2">die blutdürstigen <seg id="14" type="intExpr">Schimpfereien</seg> des <seg id="14" type="speaker">Couriers</seg> und der <seg id="14" type="speaker">Geißel</seg></said> geeignet wären, die Gemüther bis zu einem
+                        so hohen Grade zu erbittern, daß ernsthafte Ruhestörungen daraus hervorgehn
+                        müßten.</said> — Voran steht
+                         
+               Heine, der Redacteur des Fremdenblattes, nicht <said id="15" mode="direct" content="writing" level="1">„der ungezogene Liebling
+                        der Grazien,"</said> sondern ein unsauberer Liebling der Geheimpolizei. <said id="16" mode="reported" content="speech" level="1">Er soll ein
+                        Stiefbruder des Dichters Heinrich Heine sein</said> und hat als Journalist den Pseudonym: Gustav Norden, angenommen. Früher Lieutnant in k. k. östreichischen
+                        Diensten, wurde er vor Jahren „veranlaßt," in den Ruhestand zu treten. Jm
+                        November 1848 erschien er plötzlich in der Uniform eines Kürassierlieutenants -
+                        auf der Post. Hatte er wieder zum Schwert gegriffen, wollte er die Magyaren
+                        bekämpfen? Behüte, er stolzirte in der Uniform nur zu Zeiten, bei feierlichen
+                        Gelegenheiten oder wenn ihn die Lust dazu anwandelte. Nicht die Magyaren zu
+                        bekämpfen, hatte er den Pallasch umgegürtet und sich mit klirrenden Sporen gerüstet, sondern um auf die auswärtigen Zeitungen gleich bei ihrer Ankunft im
+                         
+               
+               Postgebäude zu vigiliren, die verbotenen gefangen zu nehmen und die verbietenswerthen anzumerken. <said id="17" mode="indirect" content="speech" level="1">Die Uniform aber</said><seg id="17" type="frame" pos="mid">, — so <seg id="17" type="intExpr">erklärte</seg> <seg id="17" type="speaker">man</seg> sich damals den
+                        seltsamen Auftritt, —</seg> <said id="17" mode="indirect" content="speech" level="1">sollte andeuten, daß Heine, in seiner Eigenschaft als gewesener Offizier, von der Militärbehörde mit jenem ehrenvollen Amt betraut war!</said> —
+                         
+               Mit dem Neujahr, wenn mir recht ist, erschien <said id="18" mode="reported" content="writing" level="1">sein <seg id="18" type="speaker">Fremdenblatt</seg>, welches
+                        auf zwei Seiten täglich die laufende Welt- und Wiener Lokalgeschichte in kurzen
+                        anmuthigen Notizen <seg id="18" type="intExpr">beleuchtet</seg>.
+</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

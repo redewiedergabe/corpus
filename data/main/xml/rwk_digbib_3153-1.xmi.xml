@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eine Malerarbeit</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Eine_Malerarbeit.tg231_1.xml</f>
+         <f name="year">1867</f>
+         <f name="decade">1860</f>
+         <f name="title">Eine Malerarbeit</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Eine Weile zupfte er schweigend an seinen Fingern; <seg id="2" type="frame" pos="start">dann <seg id="2" type="intExpr">sagte</seg> <seg id="2" type="speaker">er</seg>:</seg> <said id="2" mode="direct" content="speech" level="2">›Ich werde ein Bauer, wie mein Vater.‹</said> 
+                  <said id="3" mode="direct" content="speech" level="2">›Und doch, Paul‹</said><seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">begann</seg> <seg id="3" type="speaker">ich</seg> noch einmal,</seg> <said id="3" mode="direct" content="speech" level="2">›hast du nicht leben wollen, weil du nicht malen durftest.‹</said> 
+                  
+                     Eine jähe Röte schoß über das blasse Antlitz. <said id="4" mode="direct" content="speech" level="2">›<said id="5" mode="reported" content="speech" level="3" nonfact="yes">Weshalb <seg id="5" type="intExpr">sagen</seg> <seg id="5" type="speaker">Sie</seg> mir das?</said>‹</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">er</seg> zitternd.</seg> 
+                  <said id="6" mode="direct" content="speech" level="2">›Weil ich dir helfen möchte, Paul‹</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">erwiderte</seg> <seg id="6" type="speaker">ich</seg>;</seg> <said id="6" mode="direct" content="speech" level="2">›denn bei den Toten ist nun einmal keine Hülfe.‹</said> 
+                  Er schlug langsam die Augen zu mir auf und blickte mich fast angstvoll an. <said id="7" mode="direct" content="speech" level="2">›Ich suche einen tüchtigen Schüler‹</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">fuhr</seg> <seg id="7 8" type="speaker">ich</seg> <seg id="7" type="intExpr">fort</seg>.</seg> <said id="8" mode="direct" content="speech" level="2">›<said id="27" mode="reported" content="thought" level="3" prag="yes">Was <seg id="27" type="intExpr">meinst</seg> <seg id="27" type="speaker">du</seg></said>, willst du es mit mir versuchen?‹</said> Dabei gab ich ihm das Skizzenbüchlein aufgeschlagen in die Hand. 
+                  Es war doch, als wenn es plötzlich in den dunkeln Augen blitzte; wie auf eine Offenbarung schaute er auf die kleine Aquarellskizze. – Und doch, <said id="10" mode="reported" content="speech" level="2" prag="yes"><seg id="10" type="intExpr">sage</seg> <seg id="10" type="speaker">ich</seg> dir</said>, ist die Zeit nicht fern, daß meine Augen ebenso an seinen Blättern haften werden; denn er ist einer von jenen, nach deren Tode man noch die Papierschnitzel aus dem Kehricht sammelt, auf welchen ihre Hand einmal gekritzelt hat.«</said> 
+                  Mein <seg id="1" type="speaker">Freund</seg> war aufgestanden und stützte sich mit beiden Händen auf den vor uns stehenden Gartentisch; auch in seinen Augen blitzte es jetzt von Liebe und Begeisterung. 
+                  <said id="11" mode="direct" content="speech" level="1">»Doch«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">fuhr</seg> <seg id="11" type="speaker">er</seg> <seg id="11" type="intExpr">fort</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»damals war er noch ein Bauerbursche und konnte sich nicht satt staunen an meinem Machwerk. – <said id="12" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">Was soll <seg id="12" type="speaker">ich</seg> dir das lange noch <seg id="12" type="intExpr">erzählen</seg>!</said> <said id="13" mode="reported" content="speech" level="2">Als <seg id="13" type="speaker">ich</seg> ihm alles, was ich beabsichtigte und <said id="15" mode="reported" content="speech" level="3">was <seg id="15" type="speaker">ich</seg> tags zuvor mit seinem <seg id="15" type="speaker">Vater</seg> <seg id="15" type="intExpr">verhandelt</seg></said>, <seg id="13" type="intExpr">mitgeteilt</seg> hatte</said>, da habe ich ihn wie einen Trunkenen heimgeführt; denn wir gingen gradeswegs zum alten Werner. Und nachdem ich diesem noch einmal eine Stunde lang tüchtig standgehalten, war endlich alles, <said id="17" mode="reported" content="thought" level="2">so wie <seg id="17" type="speaker">ich</seg> es <seg id="17" type="intExpr">wünschte</seg></said>, abgemacht. 
+                  Mein alter Schulmeister staunte nicht schlecht, als ich nach dem Frühstück Farben und Palette auspackte und nun mit beiden Beinen als ein fix und fertiger Maler vor ihn hinsprang, und gar, als er von der Bekehrung seines Widersachers hörte. <said id="18" mode="direct" content="speech" level="2">›Da käme ich ja auch wohl wieder zu Ehren!‹</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">rief</seg> <seg id="18" type="speaker">er</seg> lachend.</seg> – Und wirklich, die Versöhnung der beiden langjährigen Nachbarn war denn noch die Krone meines Werkes. Freilich, <said id="19" mode="reported" content="speech" level="2">als dabei der <seg id="19 21" type="speaker">Schulmeister</seg> so etwas wie einen Triumphton <seg id="19" type="intExpr">anstimmen</seg> wollte</said>, <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">fuhr</seg> der <seg id="20" type="speaker">Bauer</seg> <seg id="20" type="intExpr">auf</seg>:</seg> <said id="20" mode="direct" content="speech" level="2">›<said id="21" mode="reported" content="speech" level="3" nonfact="yes"><seg id="21" type="speaker">Red</seg>'t nicht so viel</said>, Schulmeister! Es könnt mir leid werden!‹</said> Und seitdem genossen wir weislich unseren Sieg im stillen. 
+                  <seg id="22" type="frame" pos="start">Schon am ersten Morgen hatte <seg id="22" type="speaker">ich</seg> <seg id="22" type="intExpr">beschlossen</seg>,</seg> <said id="22" mode="indirect" content="thought" level="2">der Verfolgung des Dämon Amor durch rasche Flucht ein Ziel zu setzen.</said> <said id="23" mode="reported" content="writing" level="2">Nun <seg id="23" type="intExpr">schrieb</seg> <seg id="23 24" type="speaker">ich</seg> meiner Schwester</said>, die seit kurzem Witwe war, <seg id="24" type="frame" pos="start">und <seg id="24" type="intExpr">schlug</seg> ihr <seg id="24" type="intExpr">vor</seg>,</seg> <said id="24" mode="indirect" content="writing" level="2">mit mir hieher zu ziehen</said>; <said id="25" mode="reported" content="writing" level="2">und als <seg id="25" type="speaker">ihre</seg> <seg id="25" type="intExpr">Zustimmung</seg> nach einigen Tagen erfolgte</said>, so war das Fundament dieses wackeren Hauses damit gelegt. 
+                  Noch acht Tage blieb ich in dem Dorfe und streifte mit meinem neuen <seg id="26" type="speaker">Schüler</seg>, der nun plötzlich in reiner Lebensluft atmete, <seg id="26" type="intExpr"><said id="26" mode="reported" content="speech" level="2">plaudernd</said></seg> und arbeitend durch Berg und Wald. Ich wurde mit jedem Tag gesunder, die freie Luft, das derbe praktische Leben um mich her taten mir wohl. Hier war einmal eine Welt ohne jene betörende Liebe; die Mädchen heirateten, je nachdem, eine ganze, halbe oder viertel Hufe; die respektiven Besitzer gingen mit in den Kauf – scheußliche Kerle, <said id="28" mode="reported" content="speech" level="2" prag="yes"><seg id="28" type="intExpr">sag</seg> <seg id="28" type="speaker">ich</seg> dir</said>, mitunter.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

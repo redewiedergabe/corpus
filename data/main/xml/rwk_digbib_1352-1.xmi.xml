@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Bär</title>
+             <author>Klabund</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Klabund_Der_Baer.tg446_1.xml</f>
+         <f name="year">1918</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Bär</f>
+         <f name="author">Klabund</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Diese Geschichte beginnt wie ein Märchen der Brüder Grimm. Es ist aber kein Märchen. Es ist auch keine rechte Geschichte mit dem nötigen Schlußpunkt: eine runde Geschichte etwa, rund und durchsichtig wie eine Glaskugel, mit einer schillernden Moral. Diese Geschichte ist nämlich (beinahe) wahr und hat sich zugetragen in der kleinen Stadt, in der ich kürzlich zu Besuch weilte. Sie ist nichts als eine traurige und lächerliche Arabeske zu dem erhabenen Ereignis des Krieges, das sich draußen (weit von hier, die kleine Stadt <said id="1" mode="reported" content="thought" level="1" nonfact="yes"><seg id="1" type="intExpr">weißt</seg> nicht wo</said> ...) abspielt. 
+                  An dem Tage, an dem <said id="13" mode="reported" content="speech writing" level="1"><seg id="13" type="speaker">Deutschland</seg> an Rußland den Krieg <seg id="13" type="intExpr">erklärte</seg></said>, traf in der kleinen Stadt der weit- und weltberühmte Zauberer Francesco Salandrini ein, welcher dort eine Vorstellung seiner großen und geheimen Künste zu geben gedachte. Er vermochte Wasser in Wein und Wein in Wasser zu verwandeln. Er zog den Bauernburschen auf dem Lande und den verblüfften Jünglingen und den kichernden Fräuleins der kleinen Städte nur so die Taler aus Nase und Ohren und ließ sie klappernd in 
+seinen schwarz polierten Zylinder springen, obgleich offensichtlich zutage trat, daß er selber nicht im Besitze eines einzigen dieser silbernen Dinger war. Er zerschlug in seinem bereits er wähnten Zylinder, <said id="3" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">dem <seg id="3" type="speaker">man</seg> gewisse magische Kräfte nicht <seg id="3" type="intExpr">absprechen</seg> durfte</said>, ein halbes Dutzend roher Eier und buk ohne Feuer und ohne Pfanne in nichts als eben diesem Zylinder einen veritablen wohlschmeckenden Eierkuchen. 
+                  Herrn Salandrinis Gefährt, das mit einigen kleinen Fenstern versehen und ziegelrot angestrichen war, rollte, von einem schwermütigen und betagten Pferde gezogen, über die Oberbrücke rumpelnd in die Stadt ein. In seiner Begleitung befanden sich noch seine Frau: Bella, die Schlangendame, die schwebende Jungfrau, das überirdische Medium und eine Person, welche den prosaischen Namen Hugo führte. 
+                 <seg id="11" type="speaker"> Herr Salandrini</seg>, der sich mit Weltgeschichte und Politik noch nie in seinem Leben befaßt hatte (<said id="11" mode="reported" content="thought" level="1" nonfact="yes">und es auch fürder nicht zu tun <seg id="11" type="intExpr">gedachte</seg></said>, da er Steuern zu zahlen weder willens noch fähig war),<seg id="12" type="frame" pos="start"> <seg id="12" type="intExpr">verwunderte</seg> <seg id="12" type="speaker">sich</seg> nicht wenig,</seg> <said id="12" mode="indirect" content="thought" level="1" border="yes">die kleine Stadt in heller Aufregung zu finden.</said> Alle Leute liefen durcheinander, die Kinder schrien und sangen, und die Frauen sahen besorgt aus den Fenstern. 
+                  Nichtsdestoweniger lenkte Herr Salandrini seinen Wagen ruhig und besonnen nach dem Salzplatz, wo an 
+Jahrmärkten die Würfelbuden prunken und die Karussels sich munter drehen, um dort sein »Interessantes Wundertheater« aufzuschlagen. 
+                  Er hatte mit Hilfe der schwebenden Jungfrau gerade den ersten Pflock in die Erde getrieben, einen Strick darum geschlungen und Hugo daran gebunden, als sich federnden Schrittes der dicke Polizist Neumann nahte,<seg id="16" type="frame" pos="start"> <seg id="16 17" type="speaker">der</seg> ihn ebenso bestimmt wie freundlich darauf <seg id="16" type="intExpr">aufmerksam machte</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">daß er sich die weitere Mühe der Errichtung seines »Interessanten Wundertheaters« sparen könne.</said> <said id="17" mode="indirect freeIndirect" content="speech" level="1"><said id="14" mode="reported" content="speech writing" level="2">Der Krieg sei <seg id="14" type="intExpr">erklärt</seg>.</said> <said id="7" mode="reported" content="speech" level="2"><said id="6" mode="reported" content="speech" level="3">Die für heute abend <seg id="6" type="intExpr">angesagte</seg> Vorstellung</said> könne vom <seg id="7" type="speaker">Bürgermeister</seg> in Anbetracht der ernsten Zeitumstände nicht mehr <seg id="7" type="intExpr">gestattet</seg> werden.</said> Es gehe jetzt um andere Dinge als um den Eierkuchen im Zylinder oder um den Gedanken lesenden Bären Hugo. Kein Mensch habe Lust, sich derlei abenteuerlichen Unsinn jetzt anzusehen. Er möge sein »Interessantes Wundertheater« bis auf günstigere Zeiten suspendieren.</said> Damit entfernte sich der Polizist Neumann, freundlich und bestimmt, wie er gekommen war. 
+                  Herr Salandrini war wie vor den Kopf geschlagen. <said id="8" mode="reported" content="thought" level="1" nonfact="yes">Die Möglichkeit eines internationalen Konfliktes, der ihn um Beruf und Brot bringen konnte, hatte <seg id="8" type="speaker">er</seg> nie im entferntesten <seg id="8" type="intExpr">in Berechnung gezogen</seg>.</said> <said id="15" mode="reported" content="speech" level="1" nonfact="yes">Auch <seg id="15" type="speaker">Hugo</seg>, der gedankenlesende und wahrsagende Bär, hatte ihn davon <seg id="15" type="intExpr">in 
+Kenntnis zu setzen</seg> verabsäumt</said>, ja, <said id="10" mode="reported" content="thought" level="1" nonfact="yes"><seg id="10" type="speaker">er</seg> schien selber noch nichts von dem drohenden Unheil, das sich auch über seinem Haupte in dunklen Wolken zusammenballte, zu <seg id="10" type="intExpr">ahnen</seg>.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

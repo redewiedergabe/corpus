@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Schlechtes Wetter.</title>
+             <author>W.A.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">CAZ_1912_06_04.txt_2.xml</f>
+         <f name="year">1912</f>
+         <f name="decade">1910</f>
+         <f name="title">Schlechtes Wetter.</f>
+         <f name="author">W.A.</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.czernowitzer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Und wie sieht es damit aus? <said id="1" mode="reported" content="speech" level="1">Von einem
+                        Arbeitsplan ist keine <seg id="1" type="intExpr">Rede</seg>, wohl aber von einem Nichtarbeitsplan.</said> Die Dienstprag m atik ist von einer latenten
+                        südslavischen und einer lärmenden ruthenischen Obstruktion
+                        bedroht, an der auch das Budgetprovisorium scheitern
+                        kann, der Finanzplan muß angesichts der Haltung der
+                        Czechen schon beinahe als abgetan betrachtet werden,
+                        gegen die Wehrreform mobilisieren offen die Sozialdemokraten, geheim die Tschechen, die aus der Wehrreform gern ein Politikum machen und sie zur Durchdrückung gewisser spezieller Wünsche mißbrauchen möchten.
+                        Das sind Widerstände, zu deren Beseitigung, wenn nicht
+                        ein Wunder geschieht, drei bis vier Wochen auf keinen
+                        Fall genügen und wir werden wohl froh sein müssen,
+                        wenn <said id="7" mode="reported" content="speech" level="1">eine der in <seg id="7" type="intExpr">Beratung</seg> stehenden Vorlagen</said> erledigt
+                        wird. Das aber ist zu wenig, um den drohenden, in
+                        diesem Falle notwendigen Paragraph 14 abzuwenden ...
+                        Wie kritisch die Lage ist, geht schon daraus hervor, daß
+                        die <seg id="7" type="speaker">Regierung</seg> sich entschlossen hat, gewissen Begehrlichkeiten der Parteien entgegenzukommen und eine Novelle
+                        zum Wasserstraßengesetz einzubringen, die einen Betrag
+                        von 35 Millionen Kronen zum größten Teil für Nieder österreich, Böhmen und die Alpenländer beansprucht.
+                        Die Christlichsozialen und die Czechen sollen damit
+                        versöhnt, die Deutschen enger an die Regierung gekettet
+                        werden. <said id="8" mode="reported" content="speech" level="1" metaph="yes">Aber auch damit wurden Geister <seg id="8" type="intExpr">gerufen</seg>, die
+                        <seg id="8" type="speaker">man</seg> nicht leicht wieder los wird</said>: den beteiligten Parteien
+                        ist auch das zu wenig, sie wollen mehr, und wenn schon
+                        für diverse Abstimmungen Preise gezahlt werden sollen,
+                        dann wollen sie eben möglichst hohe Preise erzielen ...
+               Es herrscht schlechtes Wetter im Abgeordnetenhaus,
+                        und die Wolken, die sich am Horizont zusammenziehen,
+                        verheißen heftige Niederschläge. <seg id="4" type="frame" pos="start">Es gibt heute wohl
+                        <seg id="4" type="speaker">niemanden</seg> mehr, der den Optimismus aufbrächte, zu
+                        <seg id="4" type="intExpr">glauben</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">daß das Abgeordnetenhaus in seiner Sommersession auch die Wehrreform oder ein Wehrprovisorium
+                        zu erledigen vermöchte</said>; es wird eine relative Glanzleistung vollbringen, wenn es das Budgetprovisorium
+                        und die Dienstpragmatik unter Dach und Fach bringt,
+                        weiter aber wird es nicht gehen, und das Ende wird
+                        deshalb sein — der Paragraph 14, mit dem das Rekrutenkontingent bewilligt werden wird; das erhöhte Rekrutenkontingent, denn die hochoffiziösen Kundgebungen,
+                        die in der letzten Zeit erflossen sind, lassen keinen Zweifel
+                        mehr offen, daß es nichts ist mit dem alten Rekrutenkontingent von 106.000 Mann, daß die Heeresleitung,
+                        was angesichts der internationalen Lage und des bekannten Zustandes der Armee nur als berechtigt anerkannt werden kann, unbedingt auf dem erhöhten Kontingent von 136.000 Mann für das laufende Jahr beharrt. In Ungarn braucht man sich darüber keine
+                        Sorgen zu machen, denn gelingt die Niederrringung
+                        der Opposition oder der Friedensschluß, dann wird dort
+                        binnen wenigen Tagen die Wehrreform durchgepeitscht,
+                        und gelingt das nicht, dann ist ein Wehrreformprovisorium, für das ja die Opposition gern zu haben ist, bis
+                        Ende Juni leicht durchzudrücken. Aber bei uns? Es
+                        müßte ein wahres Wunder geschehen, wenn es gelänge,
+                        bis zur letzten Juniwoche die Wehrreform oder das erhöhte Rekrutenkontingent als Provisorium unter Dach
+                        und Fach zu bringen. Ende Juni aber ist der äußerste
+                        Termin, denn im Laufe des Juli müssen die Assentierungen vorgenommen werden, eine weitere Hinausschiebung ist unmöglich. So wird uns denn voraussichtlich die letzte Juniwoche die kaiserliche <seg id="6" type="speaker">Verordnung</seg>
+                        bringen, <said id="6" mode="reported" content="writing" level="1" nonfact="yes">welche die Einhebung des erhöhten Rekrutenkontingentes <seg id="6" type="intExpr">anbefehlen</seg> wird.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

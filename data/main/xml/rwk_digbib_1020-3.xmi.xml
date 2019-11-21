@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gram</title>
+             <author>Čechov, Anton Pavlovič</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Gram.tg4_1.xml</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Gram</f>
+         <f name="author">Čechov, Anton Pavlovič</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  <said id="1" mode="direct" content="speech" level="1">»Bist wohl
+                                                  verrückt geworden, alter Hund?
+                                                  Wo hast du deine Augen?!«</said> 
+                                                  
+                                                  
+                                                  <said id="2" mode="direct" content="speech" level="1">»Fahr zu ...«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">sagt</seg> der
+                                                  <seg id="2 3" type="speaker">Fahrgast</seg>.</seg>
+                                                  <said id="3" mode="direct" content="speech" level="1">»So kommen wir bis morgen nicht
+                                                  hin.
+                                                  Gib mal dem Pferd die Peitsche!«</said>
+                                                  
+                                                  
+                                                  
+                                                  Der Kutscher reckt wieder den Hals,
+                                                  erhebt sich vom Bock und schwingt mit
+                                                  schwerfälliger Grazie die Peitsche.
+                                                  Dann sieht er sich einigemal nach
+                                                  dem Fahrgast um, aber jener hält die Augen
+                                                  geschlossen und scheint gar nicht geneigt, ihm
+                                                  zuzuhören.
+                                                  Nachdem er den Fahrgast in die
+                                                  Wyborgsche Straße gebracht hat, bleibt er vor
+                                                  einem Wirtshause stehen, krümmt sich zusammen und
+                                                  erstarrt auf seinem Bock ... Nasser Schnee färbt
+                                                  wieder ihn und sein Pferdchen weiß.
+                                                  So vergeht eine Stunde und noch
+                                                  eine Stunde ...
+                                                  
+                                                  
+                                                  Auf dem Bürgersteige gehen,
+                                                  <seg id="4" type="intExpr"><said id="4" mode="reported" content="speech" level="1">fluchend</said></seg> und laut mit den Galoschen klopfend, drei
+                                                 <seg id="4" type="speaker"> junge Leute</seg>; zwei von ihnen sind groß und schlank,
+                                                  der Dritte klein und bucklig.
+                                                  
+                                                  
+                                                  <said id="5" mode="direct" content="speech" level="1">»Kutscher, zur Polizeibrücke!«</said>
+                                                  <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">schreit</seg> mit zittriger Stimme der <seg id="5 6" type="speaker">Bucklige</seg>.</seg>
+                                                  <said id="6" mode="direct" content="speech" level="1">»Zwanzig Kopeken für uns drei!«</said>
+                                                  
+                                                  
+                                                  
+                                                  Jona zupft an den Zügeln und
+                                                  schmatzt mit den Lippen.
+                                                  Zwanzig Kopeken sind zwar viel zu
+                                                  wenig, <said id="34" mode="reported" content="thought" level="1">aber <seg id="34" type="speaker">er</seg> <seg id="34" type="intExpr">denkt</seg> jetzt  nicht an Geld ...</said> Ihm ist es
+                                                  ganz gleich, ob er einen Rubel oder fünf Kopeken
+                                                  bekommt, wenn er nur Fahrgäste hat.
+                                                  Die <seg id="7 8" type="speaker">jungen Leute</seg> treten, einander
+                                                  stoßend und <said id="7" mode="reported" content="speech" level="1">unflätig <seg id="7" type="intExpr">schimpfend</seg></said>, vor den Schlitten
+                                                  und wollen sich alle drei auf einmal
+                                                  hineinsetzen.
+                                                  <seg id="35" type="frame" pos="start">Nun ist die <seg id="35" type="intExpr">Frage</seg>,</seg> <said id="35" mode="indirect" content="speech" level="1">wer von den
+                                                  Dreien stehen soll.</said>
+                                                  <said id="8" mode="reported" content="speech" level="1">Nach langem Schimpfen und Streiten</said>
+                                                  <seg id="9" type="frame" pos="start">kommen <seg id="9" type="speaker">sie</seg> zur <seg id="9" type="intExpr">Entscheidung</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">daß der Bucklige
+                                                  stehen muß, da er der kleinste ist.</said>
+                                                  
+                                                  
+                                                  <said id="10" mode="direct" content="speech" level="1">»Nun, fahr zu!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">gellt</seg> der <seg id="10 11 14" type="speaker">Bucklige</seg></seg>,
+                                                  sich hinter Jona stellend und ihm in den Nacken
+                                                  atmend.
+                                                  <said id="11" mode="direct" content="speech" level="1">»Hau zu!
+                                                  Was du doch für eine Mütze hast,
+                                                  Bruder!
+                                                  Eine ärgere gibt es wohl in ganz
+                                                  Petersburg nicht ...«</said> 
+                                                  
+                                                  
+                                                  <said id="12" mode="direct" content="speech" level="1">»Hihi, hi!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">lacht</seg> <seg id="12 13" type="speaker">Jona</seg>.</seg>
+                                                  <said id="13" mode="direct" content="speech" level="1">»Es ist halt so eine!«</said> 
+                                                  
+                                                  
+                                                  <said id="14" mode="direct" content="speech" level="1">»Du, es ist halt so eine, fahr
+                                                  zu!
+                                                  Wirst du den ganzen Weg so
+                                                  fahren?
+                                                  Ja?
+                                                  Und wenn ich dir eine
+                                                  herunterhaue?
+                                                  ...«</said> 
+                                                  
+                                                  
+                                                  <said id="15" mode="direct" content="speech" level="1">»Der Kopf will mir zerspringen ...«</said>
+                                                  <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagt</seg> <seg id="15 16" type="speaker">einer</seg> von den beiden Langen.</seg>
+                                                  <said id="16" mode="direct" content="speech" level="1">»Gestern bei den Dukmassows habe
+                                                  ich mit Waßjka zu zweit vier Flaschen Kognak
+                                                  ausgetrunken.«</said> 
+                                                  
+                                                  
+                                                  <said id="17" mode="direct" content="speech" level="1">»<seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Ich</seg> <seg id="18" type="intExpr">begreife</seg> nicht,</seg> <said id="18" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="19" mode="reported" content="speech" level="3">wozu <seg id="19" type="speaker">du</seg>
+                                                  <seg id="19" type="intExpr">lügst</seg>!</said></said>«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">regt sich</seg> der andere <seg id="17" type="speaker">Lange</seg> <seg id="17" type="intExpr">auf</seg>.</seg>
+                                                  <said id="20" mode="direct" content="speech" level="1">»<said id="21" mode="reported" content="speech" level="2"><seg id="21" type="speaker">Er</seg> <seg id="21" type="intExpr">lügt</seg> wie ein Vieh.</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="22" mode="direct" content="speech" level="1">»Gott strafe mich, es ist wahr ...«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="23" mode="direct" content="speech" level="1">»Es ist ebenso wahr, wie daß die
+                                                  Laus hustet.«</said> 
+                                                  
+                                                  
+                                                  <said id="24" mode="direct" content="speech" level="1">»Hi, hi!«</said> <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">grinst</seg> <seg id="24 25" type="speaker">Jona</seg>.</seg>
+                                                  <said id="25" mode="direct" content="speech" level="1">»Das sind mir lustige Herren!«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="26" mode="direct" content="speech" level="1">»Daß dich der Teufel!
+                                                  ...«</said> <seg id="26" type="frame" pos="end"><seg id="26" type="intExpr">empört sich</seg> der <seg id="26 27" type="speaker">Bucklige</seg>.</seg>
+                                                  <said id="27" mode="direct" content="speech" level="1">»Wirst du einmal fahren, du alte
+                                                  Cholera, oder nicht?
+                                                  Ist das ein Fahren?
+                                                  Gib doch mal deinem Gaul die
+                                                  Peitsche!
+                                                  Ordentlich!«</said> 
+                                                  
+                                                  
+                                                  Jona fühlt hinter seinem Rücken den
+                                                  zappelnden Körper und die zittrige Stimme des
+                                                  Buckligen.
+                                                  <said id="28" mode="reported" content="speech" level="1"><seg id="28" type="speaker">Er</seg> <seg id="28" type="intExpr">hört</seg> die an ihn gerichteten
+                                                  Schimpfworte</said>, sieht die Menschen, und das Gefühl
+                                                   der Einsamkeit
+                                                  wird weniger drückend.
+                                                  <said id="29" mode="reported" content="speech" level="1">Der <seg id="29" type="speaker">Bucklige</seg> <seg id="29" type="intExpr">flucht</seg>, bis ihm ein
+                                                  besonders kompliziertes, sechsstöckiges
+                                                  Schimpfwort im Halse stecken bleibt</said> und er einen
+                                                  Hustenanfall bekommt.
+                                                  <said id="30" mode="reported" content="speech" level="1">Die beiden <seg id="30" type="speaker">Langen</seg> beginnen über
+                                                  irgendeine Nadeschda Petrowna zu <seg id="30" type="intExpr">sprechen</seg>.</said>
+                                                  Jona sieht sich nach ihnen um.
+                                                  <seg id="31" type="frame" pos="start"><seg id="31" type="speaker">Er</seg> wartet eine kurze Pause ab,
+                                                  sieht sich noch einmal um und <seg id="31" type="intExpr">stammelt</seg>:</seg> 
+                                                  
+                                                  
+                                                  <said id="31" mode="direct" content="speech" level="1">»Mir ist aber in der vergangenen
+                                                  Woche ... <said id="32" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">was wollt <seg id="32" type="speaker">ich</seg> noch <seg id="32" type="intExpr">sagen</seg>?</said>
+                                                  ... mein Sohn gestorben!«</said> 
+                                                  
+                                                  
+                                                  <said id="33" mode="direct" content="speech" level="1">»Wir alle werden
+                                                  sterben ...«</said> <seg id="33" type="frame" pos="end"><seg id="33" type="intExpr">bemerkt</seg> der <seg id="33" type="speaker">Bucklige</seg> seufzend</seg> und
+                                                  wischt sich nach dem Hustenanfall den Mund
+                                                  ab.
+                                                  
+                                                  
+                                                  
+                                                  
+                                    </p>
+      </body>
+   </text>
+</TEI>

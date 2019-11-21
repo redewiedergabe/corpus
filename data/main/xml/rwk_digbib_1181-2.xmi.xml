@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Katzenjunker</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Der_Katzenjunker.tg58_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Katzenjunker</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     
+                        <said id="1" mode="direct" content="speech" level="1">»Und das Ende vom Liede: eine grämliche alte Jungfer an der Seite eines noch älteren und noch grämlicheren Junggesellen, anstatt eines fröhlichen Mütterchens in der Kinder-, und will's Gott! dermaleinst in der Enkelstube.
+                        Das ist ihre Welt!
+                        Eine Wiege schaukeln und Ringelrundtanzen, dazu ist das
+                           herzige Waldkind geboren.
+                        Tut der Natur nicht Gewalt an, heiratet Euer Herzblättchen
+                           lieber heute als morgen.«</said> 
+                     
+                     
+                        In mir wirbelte ein Fieber.
+                        <seg id="2" type="speaker">Ich</seg> zitterte.
+                       <said id="2" mode="freeIndirect" content="thought" level="1"> Was war es denn anders als mein eigenstes brennendes
+                           Verlangen, Tag und Nacht wie ein Frevel zurückgedrängt und jeden
+                           Augenblick mit Lerchenschlag wieder in die Höhe wirbelnd, <said id="3" mode="reported" content="speech" level="2">was hier von
+                           einem braven, menschenkundigen Freunde mir vorgehalten ward nicht nur als
+                           mein gutes Recht, sondern als Pflicht und Schuldigkeit, wie Natur und
+                           Vernunft sie heischten?</said></said>
+                     
+                     
+                       <said id="4" mode="direct" content="speech" level="1"> »Ja,«</said> <seg id="4" type="frame" pos="mid">stammelte ich,</seg> <said id="4" mode="direct" content="speech" level="1">»ja, wenn es sich um mich handelte, um
+                           mein Glück allein – wenn – –«</said> 
+                     
+                     
+                        
+                            Der Alte ließ mich den Satz nicht
+                           vollenden.
+                        Wir hatten unseren Garten erreicht, Lori ordnete in der Laube
+                           bereits die gesammelten Schätze.
+                       <said id="5" mode="direct" content="speech" level="1"> »<seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">Wißt</seg> <seg id="6" type="speaker">Ihr</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was ein Kalmäuser ist</said>, Kalmäuser?«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">fragte</seg> der
+                           <seg id="5" type="speaker">Doktor</seg>,</seg> indem er am Eingange stehenblieb.
+                     
+                     
+                        Ich zwang mich zum Lachen.
+                       <said id="7" mode="direct" content="speech" level="1"> »Nun,«</said><seg id="7" type="frame" pos="mid"> <seg id="7" type="intExpr">erwiderte</seg> <seg id="7" type="speaker">ich</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»wie Ihr, Physikus, die Spezies
+                           begutachten mögt, so eine Art von intellektuellem Mondkalb und
+                           gefühlvollem Wasserkopf; oder auch nur ein armer milzsüchtiger Schächer,
+                           der zum Leben nicht das Zeug hat und zum Sterben keinen Mut.«</said> 
+                     
+                     
+                       <said id="9" mode="direct" content="speech" level="1"> »Umgedreht würde allenfalls ein Schuh daraus, Psychikus,«</said>
+                          <seg id="9" type="frame" pos="mid"> <seg id="9" type="intExpr">versetzte</seg> der <seg id="9" type="speaker">Alte</seg> gleichfalls lachend, aber äußerst ungezwungen:</seg> <said id="9" mode="direct" content="speech" level="1">»Zum
+                           Leben keinen Mut und zum Sterben nicht das Zeug, denn diese
+                           Bedenklichkeitskommissarien sind eine zähe Sorte.
+                        Vergleichen wir ihn dahero, anstatt einem Mondkalb, lieber so
+                           einem graufelligen Gutfreund, der das süßduftende Heubündel beschnuppert
+                           und – mit einem Mordhunger im Leibe – nicht hineinzubeißen wagt, weil er
+                           schwarz auf weiß nicht belegen kann, daß das Heu auch just für ihn auf
+                           unseres Herrgotts Wiese gewachsen sei.
+                        Zum Segen für seinen Appetit ist nun aber ein gutmütiges
+                           Hexchen bei der Hand, das ihm den legalen Beweis ad oculos zu
+                           demonstrieren vermag.« 
+</said>                     
+                     
+                       <said id="10" mode="direct" content="speech" level="1"> »Kommen Sie einmal her, kleines Fräulein,«</said><seg id="10" type="frame" pos="end"> <seg id="10" type="intExpr">rief</seg> <seg id="10 11" type="speaker">er</seg> nach der
+                           Laube hinüber.</seg>
+                       <said id="11" mode="direct" content="speech" level="1"> »Ich will Ihnen rasch den Puls einmal fühlen.«</said> 
+                     
+                     
+                       <said id="12" mode="direct" content="speech" level="1"> »Ums Himmels willen, seid Ihr toll geworden, Weise?«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">schrie</seg>
+                           <seg id="12" type="speaker">ich</seg></seg>, ihn bei den Schultern packend.
+                     
+                     
+                        Schon jedoch war das flinke Kind herbeigesprungen und hielt
+                           verwundert dem <seg id="13" type="speaker">Alten</seg> das Händchen hin.
+                        Der faßte  sie, statt an
+                           den Puls, unter das Kinn, richtete es in die Höh, daß unsere Augen sich
+                           begegnen mußten, <seg id="13" type="frame" pos="start">und <seg id="13" type="intExpr">sagte</seg> mit einem Tone, dessen Feierlichkeit mich in
+                           anderer Stimmung zum Lachen gebracht haben würde:</seg><said id="13" mode="direct" content="speech" level="1"> »Sehen Sie sich einmal
+                           gegenwärtiges Väterchen recht genau von oben nach unten darauf an,
+                           Fräulchen; möchten Sie es wohl zum Manne haben?
+                        Halt, halt!
+                        nicht so fix mit dem Nicken!
+                        Ich meine, würden Sie ihm als Ihrem richtigen Ehemann so gut
+                           sein können, wie bisher als Ihrem Lehrer und Freund?«</said> 
+                     
+                     
+                       <said id="14" mode="direct" content="speech" level="1"> »O, so gut, über alles gut!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">Lori</seg></seg>, indem sie freudig,
+                           aber auch nicht mit einer Schattierung höheren Rotes auf den Wangen zu
+                           mir aufblickte.
+                     
+                     
+                       <said id="15" mode="direct" content="speech" level="1"> »Prosit, es gedeihe!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagte</seg> der <seg id="15" type="intExpr">Alte</seg></seg>, legte unsere Hände
+                           ineinander und wendete sich stracks zum Gehen.
+                      <said id="16" mode="direct" content="speech" level="1">  »<seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">Vergeßt</seg> nicht,</seg><said id="17" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"> daß ich mir einen Kuppelpelz verdient habe!</said>«</said>
+                          <seg id="16" type="frame" pos="end"> <seg id="16" type="intExpr">rief</seg> <seg id="16" type="speaker">er</seg> noch zurück</seg>, dann stapfte er weiter in die Heide hinein.
+                     
+                     
+                        Ich stand wie vernichtet.
+                        Scham und Seligkeit stritten widereinander in
+                           meiner Brust.
+                     
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

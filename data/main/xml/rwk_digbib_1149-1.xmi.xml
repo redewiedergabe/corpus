@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Kreisphysikus</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Kreisphysikus.tg114_1.xml</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Der Kreisphysikus</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Der Tochter. Ja, der Tochter. Ich habe sie ihr zur Aussteuer geschenkt.«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Ein Schürzenvermögen also!«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">spöttelte</seg> der <seg id="2 3 7" type="speaker">Doktor</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">»Und jetzt jagt sie dich aus dem Haus, das du ihr geschenkt hast?«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»Mein Gott, was soll sie tun? Der Schwiegersohn prügelt sie ohnehin, weil ich so lang lebe. <seg id="5" type="frame" pos="start">Der <seg id="5" type="speaker">Schwiegersohn</seg> <seg id="5" type="intExpr">sagt</seg> zu den Kindern:</seg> <said id="5" mode="direct" content="speech" level="2">›<seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Kinder</seg>, <seg id="6" type="intExpr">betet</seg>,</seg> <said id="6" mode="indirect" content="speech" level="3" nonfact="yes" border="yes">daß der Großvater bald stirbt.</said>‹</said> – Ja!«</said> 
+                     <said id="7" mode="direct" content="speech" level="1">»Du hast da einen saubern Schwiegersohn.«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Mein Gott, Herr, die Leute sind schon so. <seg id="9" type="frame" pos="start">Solche <seg id="9" type="speaker">Herren</seg> wie du <seg id="9" type="intExpr">wissen</seg> nicht,</seg> <said id="9" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie die Leute sind.</said> Es gibt noch viel, viel Ärgere im Dorf. Besonders jetzt in dieser Zeit.«</said> <seg id="8 4 1 10" type="speaker">Er</seg> senkte die keuchende Stimme. <said id="10" mode="direct" content="speech" level="1">»Weh allen Panowies und Panies, die das nächste Jahr erleben!«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Warum denn? <said id="12" mode="reported" content="thought" level="2">Was <seg id="12" type="intExpr">meinst</seg> <seg id="12" type="speaker">du</seg> damit?</said>«</said> 
+                     <said id="13" mode="direct" content="speech" level="1">»Oh, die armen Herrschaften! Die armen, armen!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">wimmerte</seg> der <seg id="13 14" type="speaker">Greis</seg></seg> und begann bitterlich zu weinen. <said id="14" mode="direct" content="speech" level="1">»Alles wird man ihnen wegnehmen, und erschlagen wird man sie auch.«</said> 
+                     <seg id="15" type="frame" pos="start">Der <seg id="15" type="speaker">Doktor</seg> <seg id="15" type="intExpr">fuhr auf</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Du bist nicht bei Trost!«</said> 
+                     Nun begann der <seg id="24" type="speaker">andere</seg> die Hände zu ringen: <said id="24" mode="direct" content="speech" level="1">»<said id="17" mode="reported" content="speech" level="2">Auch <seg id="17" type="speaker">du</seg> <seg id="17" type="intExpr">antwortest</seg> mir so?</said> Das ist ein Unglück! Ach, das ist ein Unglück! ... <said id="48" mode="reported" content="speech" level="2">So hat der <seg id="48" type="speaker">Herr Pfarrer</seg> mir <seg id="48" type="intExpr">geantwortet</seg></said>, <seg id="19" type="frame" pos="start">wie <seg id="19" type="speaker">ich</seg> in der Beichte <seg id="19" type="intExpr">ausgesagt</seg> habe,</seg> <said id="19" mode="indirect" content="speech" level="2"><said id="20" mode="reported" content="thought" level="3" border="yes">was <seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">weiß</seg></said></said>, <said id="21" mode="reported" content="speech" level="2">so hat der <seg id="21" type="speaker">Herr Mandatar</seg> mir <seg id="21" type="intExpr">geantwortet</seg></said>, <seg id="22" type="frame" pos="start">und der Herr <seg id="22" type="speaker">Verwalter</seg> hat gar <seg id="22" type="intExpr">gedroht</seg>,</seg> <said id="22" mode="indirect" content="speech" level="2">mich auf die Bank legen zu lassen, <said id="23" mode="reported" content="speech" level="3">wenn <seg id="23" type="speaker">ich</seg> solche Sachen <seg id="23" type="intExpr">rede</seg>...</said></said>«</said> <seg id="25 29" type="speaker">Er</seg> richtete seinen unsicher suchenden Blick auf den Doktor: <said id="25" mode="direct" content="speech" level="1">»Bist auch du mit ihnen einverstanden?«</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Einverstanden – ich? Mit wem? ... <said id="27" mode="reported" content="speech" level="2" nonfact="yes"><seg id="27" type="intExpr">Sag</seg> alles!</said>«</said> <seg id="26" type="frame" pos="end"><seg id="26" type="intExpr">befahl</seg> <seg id="26 28 33" type="speaker">Rosenzweig</seg>.</seg> <said id="28" mode="direct" content="speech" level="1">»Was wird ums neue Jahr geschehen?«</said> 
+                     
+                        <said id="29" mode="direct" content="speech" level="1">»Männer von jenseits des Meeres werden kommen und werden alle adeligen Besitzungen unter die Bauern verteilen.«</said> 
+                     <said id="30" mode="direct" content="thought" level="1">Auch die des Pan Teophil Kamatzki? – Wartet, Kanaillen!</said> <seg id="30" type="frame" pos="end"><seg id="30" type="intExpr">dachte</seg> der <seg id="30 31" type="speaker">Doktor</seg></seg> und <seg id="31" type="frame" pos="start"><seg id="31" type="intExpr">sprach</seg>:</seg> <said id="31" mode="direct" content="speech" level="1">»<said id="32" mode="reported" content="speech" level="2" nonfact="yes">Was wird denn die <seg id="32" type="speaker">Regierung</seg> dazu <seg id="32" type="intExpr">sagen</seg>?</said>«</said> 
+                     <said id="33" mode="direct" content="speech" level="1">»Die Regierung? Ach Jesus! Von der Regierung aus ist im vorigen Frühjahr schon alles Land vermessen worden, <seg id="34" type="frame" pos="start">damit die fremden <seg id="34" type="speaker">Männer</seg> <seg id="34" type="intExpr">wissen</seg>,</seg> <said id="34" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie geteilt werden soll.</said>«</said> 
+                     <seg id="35" type="speaker">Rosenzweig</seg> brach in ein schallendes Gelächter aus: <said id="35" mode="direct" content="speech" level="1">»O dieses Volk! ... Seit fünfzig Jahren verkehre ich mit diesem Volk, aber die Wege seiner Dummheit habe ich noch nicht erforscht... Alter! die Vermessungen hat der Kaiser vornehmen lassen, <seg id="36" type="frame" pos="start">weil <seg id="36" type="speaker">er</seg> <seg id="36" type="intExpr">wissen</seg> will,</seg> <said id="36" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie groß sein Galizien ist und wieviel Steuern es ihm zahlen kann.</said>«</said> 
+                     Ungläubig wackelte der <seg id="37" type="speaker">Greis</seg> mit dem Kopfe: <said id="37" mode="direct" content="speech" level="1">»<said id="38" mode="reported" content="thought" level="2" border="yes">Das <seg id="38" type="intExpr">wissen</seg> <seg id="38" type="speaker">wir</seg> besser</said>, verzeih. Der Kaiser nimmt den Herren, die gegen ihn sind, das Land und schenkt es den Bauern, die für ihn sind. <said id="39" mode="indirect" content="thought" level="2">Dann wird es gut sein</said><seg id="39" type="frame" pos="end">, <seg id="39" type="intExpr">glauben</seg> die <seg id="39" type="speaker">meisten</seg>...</seg> <seg id="40" type="frame" pos="start"><seg id="40" type="speaker">Ich</seg> <seg id="40" type="intExpr">glaube</seg>,</seg> <said id="40" mode="indirect" content="thought" level="2">daß es schlecht sein wird.</said> Jeder Tag wird Sonntag sein, und was tun die Bauern am Sonntag als raufen und sich betrinken? ... Oh, mein gnädiger Herr, könnt man's doch verhüten!«</said> 
+                     <said id="41" mode="direct" content="speech" level="1">»Sei du ganz ruhig, das wird gewiß verhütet werden«</said><seg id="41" type="frame" pos="end">, <seg id="41" type="intExpr">entgegnete</seg> <seg id="41 44" type="speaker">Rosenzweig</seg></seg> und lachte wieder. 
+                     Da wurde der <seg id="42 46" type="speaker">Alte</seg> plötzlich aufgebracht: <said id="42" mode="direct" content="speech" level="1">»Wenn du gestern abend im Wirtshaus gewesen wärest und <said id="50" mode="reported" content="speech" level="2">den Kommissär hättest <seg id="50" type="intExpr">predigen</seg> gehört</said>, du würdest nicht lachen.«</said> 
+                     <said id="44" mode="direct" content="speech" level="1">»Den Kommissär? <said id="45" mode="reported" content="speech" level="2" nonfact="yes">Den Emissär, willst <seg id="45" type="speaker">du</seg> wohl <seg id="45" type="intExpr">sagen</seg>!</said> Ein Emissär, wie sie jetzt zu Dutzenden herumziehen.«</said> 
+                     <said id="46" mode="direct" content="speech" level="1">»Nein, nein, kein solcher. <seg id="47" type="frame" pos="start"><seg id="47" type="speaker">Einer</seg>, der einmal ein Herr war und jetzt <seg id="47" type="intExpr">sagt</seg>,</seg> <said id="47" mode="indirect" content="speech" level="2">daß es keine Herren mehr geben soll.</said></said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

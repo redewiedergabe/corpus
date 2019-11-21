@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social0702_1874_2.xml</f>
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">dash german none</f>
+      </fs>
+      <body>
+         <p>         
+
+Sie lief über viele
+                        Flüsse und Kanäle mit stattlichen Brücken; alles so trefflich anzuschauen wie eine Straße zum Spazierengehen, wie eine Lustallee
+                        in einem großen Park. <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="speaker">Jch</seg> hatte bald mit dem jungen <seg id="1" type="speaker">Jkarier</seg>
+                        mich in interessantes <seg id="1" type="intExpr">Gespräch</seg> eingelassen</said>; <seg id="2" type="speaker">er</seg> war sehr aufmerksam auf Jedes, was nur irgend mir ungewohnt sein konnte, <said id="2" mode="reported" content="speech" level="1">und
+                        <seg id="2" type="intExpr">erklärte</seg> mir es.</said> Als ich z. B. die Einrichtung des Wagens
+                        bewunderte, <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">bemerkte</seg> <seg id="4" type="speaker">er</seg> mir,</seg> <said id="4" mode="indirect" content="speech" level="1">die Regierung des Staats, seit der
+                        Verwaltung des edlen Jkar, habe fortwährend das Nothwendige
+                        zuerst erstrebt, dann aber sogleich damit das Nützliche und das
+                        Angenehme zu verschmelzen gesucht.</said>
+            
+            -- <said id="5" mode="direct" content="speech" level="1">Da sind die Jkarier ja ein wahres Volk von Männern,
+                        wie sie allenthalben sein sollten</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">rief</seg> <seg id="5" type="speaker">ich</seg>.</seg>
+            <said id="6" mode="direct" content="speech" level="1">Wir wünschen es wenigstens zu sein</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">entgegnete</seg> <seg id="6" type="speaker">er</seg>.</seg>
+            <seg id="8" type="frame" pos="start">Nach einer kleinen Pause <seg id="8" type="intExpr">frug</seg> <seg id="8" type="speaker">ich</seg> ihn:</seg> <said id="8" mode="indirect" content="speech" level="1">wie wohl, da Gebrauch des Geldes im Staat nicht erlaubt sei, die Plätze auf
+                        den Reisewagen bezahlt würden?</said> <seg id="9" type="frame" pos="start">worauf <seg id="9" type="speaker">er</seg> lachend <seg id="9" type="intExpr">erwiderte</seg>:</seg>
+                        <said id="9" mode="direct" content="speech" level="1">„Kein Platz wird bezahlt.“</said>
+                         
+            Jch war sehr verwundert. <said id="10" mode="reported" content="speech" level="1"><seg id="10" type="speaker">Jch</seg> stellte fernere <seg id="10" type="intExpr">Fragen</seg> über
+                        den Eigenthümer dieses und ähnlicher öffentlicher Wagen und
+                        Gespanne</said>; und mein Erstaunen stieg, <seg id="11" type="frame" pos="start">als <seg id="11" type="speaker">er</seg> mir <seg id="11" type="intExpr">sagte</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">allgemeine Eigenthümerin sei die allergnädigste Herrscherin des
+                        Staats.</said> -- Jnzwischen stiegen zwei Damen, auf deren Winken
+                        die Pferde angehalten worden, ein, und ich freute mich über die
+                        Zuvorkommenheit, womit alle männlichen Passagiere ihnen wetteifernd die besten Sitze anboten. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Jch</seg> <seg id="12" type="intExpr">meinte</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">sie wären wohl
+                        von hohem Rang</said> -- <seg id="13" type="frame" pos="start">erhielt jedoch den <seg id="13" type="intExpr">Bescheid</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">sie schienen zwei
+                        Landfrauen der Umgegend, doch sei es innerhalb Jkaria's Grenzen einmal geheiligte Sitte, gegen das weibliche Geschlecht artig
+                        zu sein.</said>
+            -- <said id="14" mode="direct" content="speech" level="1">Jst Jhnen, lieber Lord, diese unsere Manier etwa „ unangenehm?“</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">frug</seg> der naive <seg id="14" type="speaker">Jkarier</seg> mich.</seg>
+            <said id="15" mode="reported" content="speech" level="1">So <seg id="15" type="intExpr">plauderten</seg> <seg id="15" type="speaker">wir</seg> Ernsthaftes und Scherzhaftes gemischt.</said>
+                        <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Jch</seg> <seg id="16" type="intExpr">erfuhr</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">er sei zweiundzwanzis Jahr alt und wohne, den
+                        Studien der Philosophie und Theologie obliegend, bei seinen
+                        Eltern in der Hauptstadt.</said> <said id="17" mode="indirect" content="speech" level="1">Seine Familie, aus sechsundzwanzig
+                        Köpfen bestehend, war</said><seg id="17" type="frame" pos="mid">, wie <seg id="17" type="speaker">er</seg> mir nach und nach auf <said id="18" mode="reported" content="speech" level="1"><seg id="18" type="speaker">mein</seg> genaueres <seg id="18" type="intExpr">Nachforschen</seg></said> <seg id="17" type="intExpr">sagte</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">eine der bekanntesten, bestangesehenen
+                        in der Hauptstadt; sein Vater bekleide ein bedeutendes Amt und
+                        seine ältere Schwester erfreue sich einer seltenen Körperschönheit,
+                        die nur noch von der Grazie und dem Feuer ihres Geistes und
+                        Herzens überstrahlt werde.</said>
+            Die Nacht brach jetzt an. Doch ließ uns der Vollmond ein
+                        prächtiges Gebilde ringsum sehen, theils von Natur und theils
+                        von Menschenhand ausgearbeitet; wir kamen durch ein kleines
+                        Bergstück, wo wir die lieblichsten und romantischsten Aussichten
+                        genossen und zuweilen über Bäche und Waldströme rollten.
+                        Ueberall die meisterhaftesten Vorkehrnngen gegen alle und jede Unfälle. So z. B. ging es sehr schnell bergab neben einem brausenden Gebirgswasser und bald nachher wieder eben so schnell
+                        bergauf; die Wegeseiten waren fest und sicher ummauert.
+            -- <said id="20" mode="direct" content="speech" level="1">Sehen Sie, Herr Britte</said><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">rief</seg> <seg id="20" type="speaker">Walmor</seg>, mein junger
+                        Jkarier, mir triumphirend zu, </seg><said id="20" mode="direct" content="speech" level="1">sehen Sie, wie unsere allerdurchlauchtigste Herrin und Gebieterin für ihre Unterthanen gesorgt
+                        hat! Sehen Sie diese landesmütterlichen Vorkehrungen gegen etwaige
+                        Unfälle! Sind Jhre europäischen Regierungen auch so bedacht
+                        auf die Arme und Beine der Staatseinwohner? Entschuldigen
+                        Sie diese Frage.</said>
+            Wir passirten unter sehr raschem Pferdewechseln, durch fünf
+                        bis sechs Dörfer. Gegen 11 Uhr hielten wir in einem Fremdenhause zum Abendessen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

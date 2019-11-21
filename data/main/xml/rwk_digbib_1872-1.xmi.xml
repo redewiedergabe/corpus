@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Freund</title>
+             <author>Lichtenstein, Alfred</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Lichtenstein,_Alfred_Der_Freund.tg118_1.xml</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Freund</f>
+         <f name="author">Lichtenstein, Alfred</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Ich liebe die toten Tage. Die haben kein Leuchten, sie sind ohne Farben und ganz sehnsüchtig. Die Häuser stehen wie Kulissen vor der grauen Wolke, die Menschen gehen wie in dem Lichtspiel: wenn der Abend wird, nicht anders, als sie in der Frühe gingen. Alle Dinge sind wuchtiger. Und meine Kammer sieht aus, wie wenn eben einer darin gestorben wäre. 
+                  Sooft diese Tage sind, wächst in mir unwillkürlich eine sinnlose Lust an der Arbeit. Ich tue die alltäglichen Verrichtungen, als wäre Gottesdienst, was ich tue. Und ich verliere mich dabei. Fast wie die Träumenden sich verloren haben. <seg id="1" type="frame" pos="start">Aber einmal <seg id="1" type="intExpr">merke</seg> <seg id="1" type="speaker">ich</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß ich reglos geworden bin und nach innen starre.</said> 
+                  Ich werde sehr wach davon, und ich kann mich nicht mehr hingeben. <seg id="2" type="speaker">Ich</seg> gehe zu dem Fenster, <said id="2" mode="reported" content="thought" level="1" border="yes">da sind wunderliche <seg id="2" type="intExpr">Gedanken</seg>.</said> Die waren sonst nur in Nächten. 
+                  Ich fühle mich fremd bei allen Dingen. Sie drängen auf mich ein, als kennten sie mich nicht: die Straße und die Menschen und die Türen in den Häusern und die tausend Bewegungen. Wo ich hinschaue, werde ich verwirrt. 
+                  Mein kleiner Tod quält mich, es war doch schon viel Sterben und größeres. Und daß ich einsam bin. Und daß überall ein Unbegreifliches droht. Und daß ich mich nicht zurechtfinde. Und alle die übrigen Traurigkeiten, für die kein Arzt ist, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">und die <seg id="8" type="speaker">man</seg> nicht <seg id="8" type="intExpr">mitteilen</seg> soll.</said> Jeder muß ihnen allein unterliegen und auf seine Weise. In der Rede sind sie lächerlich, aber mancher geht an ihnen zugrunde. <seg id="3" type="frame" pos="start"><seg id="3 9" type="speaker">Ich</seg> habe <seg id="3" type="intExpr">Grauen</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">daß ich so fremd mit mir bin und so ohnmächtig.</said> <said id="9" mode="reported" content="thought" level="1">Bis <seg id="9" type="intExpr">Erinnerungen</seg> kommen.</said> Ungerufen. Aber lieb. Irgendwoher. Sie betäuben mich. 
+                  
+                     Ich lächle, wenn ich das Weinen des Kindes finde oder den Tod der Mutter, der gräßlich war und <said id="4" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">nicht zu <seg id="4" type="intExpr">sagen</seg> ist</said>, oder die anderen blutigen Köstlichkeiten. Ich lächle, wenn die Augen meines Freundes plötzlich leben werden und in den seidigen Schatten sind, daß sie wie aus Schleiern glänzen und ihr Geheimstes preisgeben. <said id="5" mode="reported" content="speech" level="1" nonfact="yes"><seg id="5" type="speaker">Niemand</seg> hat es mir <seg id="5" type="intExpr">gesagt</seg></said>, <said id="6" mode="reported" content="speech" level="1" nonfact="yes" border="yes">und <seg id="6" type="speaker">ihr</seg> werdet mich einen Narren <seg id="6" type="intExpr">nennen</seg></said> ... <seg id="7" type="frame" pos="start">aber <seg id="7" type="speaker">ich</seg> <seg id="7" type="intExpr">weiß</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß sein Tod schon immer in den Augen gewesen ist wie der eines andern in den Lungen oder in dem Rückenmark ...</said>
+                  Seine Augen waren elend und vergangen und heillos schmerzlich, daß die Leute lachten, wenn er zu ihnen sah. Er schämte sich seiner Augen, als verrieten sie von sündsamen Abenteuern, und verbarg sie viel hinter den vergilbten Lidern. Aber er fühlte, wie man hinstarrte, wenn er eintrat, wo er unerwartet kam. Oder sich setzte, wo er nicht selbstverständlich war. Er schaute übertrieben wie ein Suchender. Hüstelte und hielt die Hand vor den Mund, zog die Backen nach innen oder wölbte die eine mit der Zunge. War verlegen. Unglücklich. Wäre gern allein gewesen ... in dem Dunkel. 
+                  Kinder neigten den Kopf, wenn sein Blick auf ihre Augen kam. Und wurden rot. Und grinsten scheu und dumm. Frauen kicherten, sie schauten wie harmlos und klatschten einander auf die Schenkel oder auf die nackten Schultern und küßten ihre verwüsteten Männer. In der Nacht lagen sie wach und sannen sich heiß. Aber die jungen Mädchen wichen ihm aus.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

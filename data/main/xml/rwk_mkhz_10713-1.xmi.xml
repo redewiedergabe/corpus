@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">BZ_1908_01_15.txt_5.xml</f>
+         <f name="year">1908</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.badener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Seit Leo
+                        ihr Gatte war, hatte seine sorgende Liebe sie nicht
+                        mehr in die weiße Einsamkeit hinausgelassen, da war
+                        sie auf abgezirkelten, wohlbehüteten Bahnen geblieben
+                        und hatte nur zuweilen wie ein gefangener Vogel
+                        mit sehnsüchtigem Flügelschlag hinausgeschaut. Noras
+                        anmutige Gestalt schwebte wieder drüben am Waldrand entlang.
+               <said id="1" mode="reported" content="thought" level="1"><seg id="1" type="speaker">Helenens</seg> <seg id="1" type="intExpr">Gedanken</seg> wanderten weiter. </said><said id="2" mode="reported" content="thought" level="1"><seg id="2" type="speaker">Sie</seg> <seg id="2" type="intExpr">dachte</seg>
+                        an jene Zeit, als sie selbst so jung, so rosig im
+                        schwarzen Pelzkäppchen auf dem Neuen See gelaufen
+                        war.</said> <said id="3" mode="freeIndirect" content="thought" level="1">Ach, so eben erwachsen sein, so eben die Flügel
+                        regen! Und all das junge, knospende Fühlen, der
+                        warme Herzschlag über dem Eise. Auch <seg id="3" type="speaker">sie</seg> hatte
+                        solchen Lehrmeister einst gehabt im Seewinkel, da
+                        hatten sie geprobt bis zum Dunkelwerden, bis die
+                        Abgrenzschnüre dichter und dichter um sie drängten.
+                        Und dann waren sie heimgewandert, die beiden jungen
+                        Menschenkinder — so jung, so froh, so harmlos.
+                        Aber wie ein stilles Leben unter der Eisdecke des
+                        Sees, so hatte auch unten tief in ihren Herzen eine
+                        pochende Zärtlichkeit gelebt.<said id="4" mode="reported" content="speech" level="2" nonfact="yes"> Und doch das Wort, das
+                        erlösende Wort war nie <seg id="4" type="intExpr">gesprochen</seg> worden.</said> Nie. Sie
+                        hatte es nicht gewollt. Nein — trotz mancher stillen
+                        Träne daheim. Nein.</said> <said id="5" mode="direct" content="speech" level="1">„Er war der einzige Sohn
+                        seiner Mutter, und sie war eine Witwe“.</said>
+               <said id="6" mode="reported" content="speech" level="1" metaph="yes">Das <seg id="6" type="intExpr">Wort</seg> klang in <seg id="11" type="speaker">ihrem</seg> jungen Herzen nach.</said>
+                        <said id="11" mode="freeIndirect" content="thought" level="1">Wie bitter hatte sie es nicht empfunden, daß diese
+                        Mutter alles tat, diese beiden jungen Herzen zu
+                        trennen. Nein, seine Mutter wollte es nicht, und sie
+                        war zu stolz und selbstlos, um ihn ihr abzutrotzen.
+                        So wich sie ihm aus, und die jungen Herzen hörten
+                        auf, für einander zu schlagen, all das junge unausgeklungene Sehnen kam zur Ruhe.
+               Und Leo trat in ihr Leben. Schön und leuchtend.
+                        Stolz wie ein Schwanenpaar waren sie beide über
+                        das Eis geglitten. So manchen Winter. Des Abends,
+                        im Märchenscheine der Bogenlampen. Und im Sturm
+                        des Ostwindes hatte er seinen Arm um ihre Taille
+                        gelegt, daß es heiß über sie hinflutete. Und mit
+                        leuchtenden Augen waren sie durch die Menge und
+                        stolz umschlungen den Eisberg hinab durch leuchtende
+                        Grotten gesaust. O, das Leben! Das junge, blühende
+                        Leben! Und aus der frohen, stolzen Freude ihrer
+                        Brautstandsjahre war sie in die Ehe mit ihm eingezogen. Nun lernte bald das letzte ihrer Kinder seine
+                        eigenen Spuren ziehen — noch auf dem glatten Eise
+                        wie einst im Leben, und stark und schön und froh
+                        stand sie auf der Sonnenhöhe ihres Lebens. Oder
+                        ging ihre Sonne bald unter?</said>
+                         
+              <said id="7" mode="reported" content="thought" level="1"> Immer wenn sie Nora sah, mußte <seg id="7" type="speaker">sie</seg> heute an
+                        die eigene Jugend <seg id="7" type="intExpr">denken</seg>.</said>
+               Grethe und Käthe hatten inzwischen einen kleinen
+                        Weg weiter versucht. Aber die Beinchen gingen noch
+                        andere Wege als die Körperchen, und es war nur
+                        gut, daß sich dort ein Herr fand, das Knäuel, das
+                        die beiden Rotkäppchen auf dem Eise bildeten, zu
+                        entwirren. <said id="8" mode="direct" content="thought" level="1">„Ein älterer Herr“</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">dachte</seg> <seg id="8" type="speaker">Helene</seg></seg> mit dem
+                        angenehmen Gefühl, das es ihr immer bereitete, wenn
+                        sie sah, daß sie nicht das einzige „schwere Geschütz“
+                        auf dem Eise war. Sie ertappte sich oft darauf, daß
+                        sie eifrig nach älteren Damen und Herren, gleichsam
+                        zur Legitimation ihrer eigenen Bewegung ausspähte.
+               Sie machte nun schnell, in die Nähe ihrer
+                        Kinder zu kommen.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

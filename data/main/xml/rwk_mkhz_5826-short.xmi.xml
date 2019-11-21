@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Polenflüchtling.</title>
+             <author>Lenau, Nicolaus</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social02_1873_10.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Polenflüchtling.</f>
+         <f name="author">Lenau, Nicolaus</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Im quellenarmen Wüstenland
+                        Arabischer Nomaden
+                        Irrt, ohne Ziel und Vaterland,
+                        Auf windverwehten Pfaden,
+                        <seg id="6" type="frame" pos="start">Ein <seg id="6" type="speaker">Polenheld</seg> und <seg id="6" type="intExpr">grollet</seg> still,</seg>
+                        <said id="6" mode="indirect" content="thought" level="1">Daß noch sein Herz nicht brechen will.</said> Die Sonn' auf ihn heruntersprüht
+                        Die heißen Mittagsbrände,
+                        Von ihrem Flammenkusse glüht
+                        Das Schwert an seiner Lende;
+                        Will wecken ihm den tapfern Stahl
+                        Zur Rachegluth der Sonnenstrahl? Sein Leib neigt sich dem Boden zu
+                        Mit dürstendem Ermatten;
+                        Der sänke gern zu kühler Ruh'
+                        In seinen eignen Schatten,
+                        Der tränke gern vor dürrer Gluth
+                        Schier seine eigne Thränenfluth. Doch solche Qual sein Herz nicht merkt,
+                        Weil's trägt ein tief'res Kränken.
+                        <seg id="1 2" type="speaker">Er</seg> schreitet fort, von Schmerz gestärkt,
+                        <said id="1" mode="reported" content="thought" level="1">Vom <seg id="1" type="intExpr">Schlachtenangedenken</seg>.</said>
+                        <said id="2" mode="reported" content="speech" level="1">Manchmal sein Mund Kosziusko! <seg id="2" type="intExpr">ruft</seg></said>,
+                        Und träumend hau't er in die Luft. Als nun der Abend Kühlung bringt,
+                        Steht er an grüner Stelle;
+                        Ein süßes Lied des Mitleids singt
+                        Entgegen ihm die Quelle,
+                        <seg id="4" type="frame" pos="start">Und <seg id="4" type="intExpr">säuselnd</seg> weht das <seg id="4" type="speaker">Gras</seg> ihn an:</seg>
+                        <said id="4" mode="direct" content="speech" level="1" metaph="yes">O schlumm're hier, du armer Mann!</said> Er sinkt, er schläft. <said id="7" mode="reported" content="speech" level="1" metaph="yes">Der fremde <seg id="7" type="speaker">Baum</seg>
+                        <seg id="7" type="intExpr">Einflüstert</seg> ihn gelinde
+                        In einen schönen Heldentraum</said>;
+                        Die Wellen und die Winde
+                        Umrauschen ihn wie Schlachtengang,
+                        Umrauschen ihn wie Sieg'sgesang.Dort kommt im Osten voll und klar
+                        Herauf des Mondes Schimmern;
+                        Von einer Beduinenschaar
+                        Die blanken Säbel flimmern
+                        Weithin im öden Mondrevier,
+                        Der Wildniß nächtlich helle Zier.
+                        
+         
+      </p>
+      </body>
+   </text>
+</TEI>

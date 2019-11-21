@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Hand der Jezerte</title>
+             <author>Mörike, Eduard</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Moerike,_Eduard_Die_Hand_der_Jezerte.tg267_1.xml</f>
+         <f name="year">1853</f>
+         <f name="decade">1850</f>
+         <f name="title">Die Hand der Jezerte</f>
+         <f name="author">Mörike, Eduard</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Nicht Salböl hat mein Kind, nicht Öl der Rose; es tunkt sein Haar in meine lichte Schwärze, mit seinen Händen schöpft es mich. Stille! ich höre das Liebchen.«</said> 
+                  Da kam des Gärtners Tochter zum Born, wusch sich und kämmte sich und flocht ihre Zöpfe. 
+                  Und sieh, es traf sich, daß Athmas, der König, aus dem Palaste ging, der Morgenkühle zu genießen, bevor der Tag anbrach; und wandelte den breiten Weg daher auf gelbem Sand und wurde der Dirne gewahr, trat nahe zu und stand betroffen über ihre Schönheit, begrüßte die Erschrockene und küßt' ihr die Stirn. 
+                  Seit diesem war sie Athmas lieb und kam nicht mehr von seiner Seite Tag und Nacht; trug köstliche Gewänder von Byssus und Seide und war geehrt von den Vettern des Königs, weil sie sich hold und demütig erwies gegen Große und Kleine und gab den Armen viel. 
+                  Übers Jahr aber wurde Jezerte krank, und half ihr nichts, sie starb in ihrer Jugend. 
+                  Da ließ der König ihr am Garten des Palasts ein Grabgewölbe bauen, wo der Quell entsprang, darüber einen kleinen Tempel, und ließ ihr Bildnis drin aufstellen aus weißem Marmor, ihre ganze Gestalt, wie sie lebte, ein Wunderwerk der Kunst. Den Quell aber hielt das Volk heilig. 
+                  Alle Monden einmal ging der König dahin, um Jezerte zu weinen. <said id="2" mode="reported" content="speech" level="1" nonfact="yes"><seg id="2" type="speaker">Er</seg> <seg id="2" type="intExpr">redete</seg> mit niemand jenen Tag</said>, man durfte nicht Speise noch Trank vor ihn bringen. 
+                  Er hatte aber eine andere Buhle, <seg id="15" type="speaker">Naïra</seg>; die ward ihm gram 
+darob und eiferte im stillen mit der Toten;<seg id="15" type="frame" pos="start"> gedachte,</seg><said id="15" mode="indirect" content="thought" level="1"> wie sie ihrem Herrn das Andenken an sie verkümmere und ihm das Bild verderbe. </said>
+                  Sie beschied insgeheim Jedanja zu sich, einen Jüngling, so dem König diente; der trug eine heimliche Liebe zu ihr, das war ihr nicht verborgen. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Sie</seg> <seg id="4" type="intExpr">sprach</seg> zu ihm:</seg> <said id="4" mode="direct" content="speech" level="1">»Du sollst mir einen Dienst erzeigen, dran ich erkennen will, was ich an dir habe. Vernimm. <seg id="16" type="frame" pos="start">Ich <seg id="16" type="intExpr">höre</seg> von <seg id="16" type="speaker">Jezerten</seg> immerdar,</seg> <said id="16" mode="indirect" content="speech" level="2" border="yes">wie schön sie gewesen</said>, so daß ich viel drum gäbe, nur ihr Bildnis zu sehn, und ob ich zwar das nicht vermag, weil mein Herr es verschworen, will ich doch eines von ihr sehen, ihre Hand, <seg id="17" type="frame" pos="start">davon die <seg id="17" type="speaker">Leute</seg> <seg id="17" type="intExpr">rühmen</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2">es sei ihresgleichen nicht mehr zu finden.</said> So sollst du mir nun dieses Wunder schaffen und mir vor Augen bringen, <said id="7" mode="reported" content="thought" level="2" nonfact="yes" border="yes">damit <seg id="7" type="speaker">ich</seg> es <seg id="7" type="intExpr">glaube</seg>.</said>«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Ach, Herrin«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">er</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»ich will dich selbst hinführen, daß du Jezerte beschauest, bei Nacht.«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Mitnichten!«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">antwortete</seg> <seg id="11" type="speaker">sie</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»wie könnte ich aus dem Palaste gehen? <said id="12" mode="reported" content="speech" level="2">Tu, wie <seg id="12" type="speaker">ich</seg> <seg id="12" type="intExpr">sagte</seg></said>, Lieber, und stille mein Gelüst. –«</said> 
+                  <said id="13" mode="reported" content="speech" level="1">Und <seg id="13" type="speaker">sie</seg> <seg id="13" type="intExpr">verhieß</seg> ihm große Gunst</said>, <said id="14" mode="reported" content="speech" level="1">da <seg id="14" type="intExpr">versprach</seg> es der <seg id="14" type="speaker">Knabe</seg>.</said> 
+                  Auf eine Nacht ersah er die Gelegenheit durch Pforten und Gänge und kam zum Grabmal unbeschrien, denn die Wache stand in den Höfen. Er hatte aber einen künstlichen Haken, der öffnete das Schloß, und wie er eintrat, sah er das Bildnis stehn im Schein der Lampen; die brannten Tag und Nacht. 
+                  Er trat herzu, faßte die eine Hand und brach sie ab, hart über dem Gelenke, barg sie in seinen Busen, eilte und zog die Tür hinter sich zu.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

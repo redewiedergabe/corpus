@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>10. Vom Mädchen, das seine Brüder sucht</title>
+             <author>Kuhn, Adalbert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Kuhn,_Adalbert_10__Vom_Maedchen__das_seine_Brueder_sucht.tg268_1.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">10. Vom Mädchen, das seine Brüder sucht</f>
+         <f name="author">Kuhn, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Das dauerte den Riesen und er behielt sie bei sich, und <seg id="1" type="frame" pos="start">als <seg id="1" type="speaker">er</seg> sich nun zum Abendessen setzte, ließ er sie mitessen, und <seg id="1" type="intExpr">sagte</seg> ihr auch,</seg> <said id="1" mode="indirect" content="speech" level="1">sie solle die Hahnenknochen in ihr Tüchlein wickeln, denn sie würde sie 
+brauchen.</said> Die Brüder aber hatte er nicht gesehen, <seg id="2" type="frame" pos="start">doch <seg id="2" type="intExpr">rieth</seg> <seg id="2" type="speaker">er</seg> ihr,</seg> <said id="2" mode="indirect" content="speech" level="1"><seg id="3" type="speaker">sie</seg> solle einmal zum Monde gehen, <said id="3" mode="reported" content="speech" level="2" nonfact="yes">und den <seg id="3" type="intExpr">fragen</seg>.</said></said> <seg id="4" type="frame" pos="start">Drauf gab <seg id="4" type="speaker">er</seg> ihr auch seine Siebenmeilenschuh und <seg id="4" type="intExpr">sagte</seg> ihr,</seg> <said id="4" mode="indirect" content="speech" level="1">wenn sie zum Monde käme, solle sie dieselben nur mit den Spitzen nach seiner Hütte zugekehrt stellen, dann kämen sie ganz von selbst zurück.</said> 
+                  Darauf brach die <seg id="7" type="speaker">Kleine</seg> auf und that alles, <said id="16" mode="reported" content="speech" level="1">was ihr der <seg id="16" type="speaker">Riese</seg> <seg id="16" type="intExpr">geheißen</seg> hatte</said>; als sie nun zum Monde kam, fand sie auch da eine Hütte, in der saß eine alte Frau, die war des Mondes Mutter, und freute sich über die Maaßen sie zu sehen, denn es war nun zwanzig Jahre her, daß sie keinen Menschen gesehen hatte. <seg id="6" type="frame" pos="start">Als <seg id="6" type="speaker">sie</seg> aber <seg id="6" type="intExpr">erfuhr</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">weshalb sie käme</said>, wollte sie sie auch anfänglich nicht beherbergen, <said id="7" mode="indirect freeIndirect" content="speech" level="1">weil ihr Sohn, der ein gar schlimmer und gewaltiger Riese wäre, sie fressen werde, wenn er zu Hause käme.</said> Aber zuletzt erbarmte sie sich doch des armen verlassenen Wesens, und verbarg sie, wie des Windes Mutter es auch gethan hatte, in einer Tonne. Sogleich kochte sie darauf einen Hahn und <seg id="8" type="frame" pos="start">nicht lange danach kam der <seg id="8" type="speaker">Mond</seg> zu Hause und <seg id="8" type="intExpr">sagte</seg> bald:</seg> <said id="8" mode="direct" content="speech" level="1">»Ich riech', ich rieche Menschenfleisch!«</said> <said id="9" mode="reported" content="speech" level="1">Die <seg id="9" type="speaker">Alte</seg> wollte es ihm zwar <seg id="9" type="intExpr">ausreden</seg></said>, aber er blieb dabei, <seg id="10" type="frame" pos="start">und da kam denn endlich die <seg id="10" type="speaker">Kleine</seg> weinend hervor, und <seg id="10" type="intExpr">sagte</seg> ihm,</seg> <said id="10" mode="indirect" content="speech" level="1">weshalb sie gekommen sei.</said> Da ließ auch er sich erbarmen, sie aß mit ihm und mußte die Hahnenknochen in ihr Tüchlein binden, und blieb die Nacht in seiner Hütte. <seg id="11" type="frame" pos="start">Andern Morgens gab <seg id="11" type="speaker">er</seg> ihr seine Siebenmeilenschuh und <seg id="11" type="intExpr">sagte</seg> ihr,</seg> <said id="11" mode="indirect" content="speech" level="1">sie solle zur Sonne gehn, denn er habe ihre Brüder nicht gesehn, vielleicht könnte 
+sie's aber bei der Sonne erfahren; doch solle sie, wenn sie da ankäme, seine Schuh mit den Spitzen nach seiner Hütte gekehrt stellen, dann würden sie von selbst zurückkehren.</said> Nun ging die Kleine zur Sonne und fand auch da in der Hütte eine Alte, die saß und spann, und freute sich über die Maaßen sie zu sehen, denn sie hatte seit dreißig Jahren keinen Menschen gesehen; aber sie mochte die <seg id="12" type="speaker">Kleine</seg> auch nicht behalten, <said id="12" mode="indirect freeIndirect" content="speech" level="1">weil ihr Sohn ein schlimmer und gewaltiger Riese sei, der sie fressen würde.</said> Doch verbarg sie sie endlich in einer Tonne, kochte einen Hahn, und als der Riese nach Hause kam, erbarmte er sich endlich auch des armen Mädchens und <said id="13" mode="reported" content="speech" level="1">konnte <seg id="13" type="speaker">ihr</seg> auch <seg id="13" type="intExpr">Auskunft</seg> über ihre Brüder <seg id="13" type="intExpr">geben</seg>.</said> <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Er</seg> <seg id="14" type="intExpr">sagte</seg> ihr nämlich,</seg> <said id="14" mode="indirect" content="speech" level="1">daß sie auf dem Glasberg wohnten, aber da könne sie nicht hinauf kommen, denn er sei gar hoch; deshalb solle sie sich eine Leiter bauen und dazu wolle er ihr die Hahnenknochen geben, doch seien das nicht genug.</said> <seg id="15" type="frame" pos="start">Da <seg id="15" type="intExpr">sagte</seg> ihm die <seg id="15" type="speaker">Kleine</seg> freudig,</seg> <said id="15" mode="indirect" content="speech" level="1">sie hätte auch schon solche vom Winde und vom Monde erhalten und die würden wohl ausreichen.</said> Darauf aß sie mit ihm, band die Knöchlein in ihr Tuch und nahm freudig von der Sonne Abschied, denn sie sollte ja nun ihre Brüder wiedersehn.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

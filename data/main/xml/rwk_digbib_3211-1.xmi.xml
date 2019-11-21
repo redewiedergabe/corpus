@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Ein_Drama_in_den_Lueften.tg1896_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">dash chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+– <said id="1" mode="direct" content="speech" level="1">Herabsteigen?</said> <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg> überrascht...</seg> <said id="1" mode="direct" content="speech" level="1">Herabsteigen? Zunächst wollen wir doch höher hinaus.«</said> 
+                  Und bevor ich dazwischen treten konnte, hatte er zwei Sandsäcke ergriffen und sie über den Gondelrand hinaus geschleudert, noch ehe sie ausgeleert waren. 
+                  <said id="2" mode="direct" content="speech" level="1">»Herr!</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">rief</seg> <seg id="2" type="speaker">ich</seg> zornig aus.</seg> 
+                  – <said id="3" mode="direct" content="speech" level="1">Ihre Geschicklichkeit ist mir sehr wohl bekannt</said>, <seg id="3" type="frame" pos="mid"><seg id="3" type="intExpr">sagte</seg> langsam und bedächtig der <seg id="3" type="speaker">Unbekannte</seg>;</seg> <said id="3" mode="direct" content="speech" level="1">Ihre schönen Ballonfahrten haben allgemeines Aufsehen gemacht. <said id="7" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Wenn <seg id="7" type="speaker">man</seg> aber das Experiment die Schwester der Praxis <seg id="7" type="intExpr">nennt</seg></said>, so ist es auch einigermaßen mit der Theorie verwandt, und ich habe lange Studien über die Kunst der Aërostatik gemacht. <said id="9" mode="reported" content="thought" level="2" border="yes">Das ist <seg id="9" type="speaker">mir</seg> in den <seg id="9" type="intExpr">Kopf gestiegen</seg>!</said>«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">fügte</seg> <seg id="3 34" type="speaker">er</seg> traurig <seg id="3" type="intExpr">hinzu</seg></seg> und <said id="34" mode="reported" content="thought" level="1">verfiel in tiefes <seg id="34" type="intExpr">Sinnen</seg>.</said> 
+                  Nachdem der Ballon noch ein Mal gestiegen war, blieb er jetzt stationär. 
+                  <seg id="11" type="frame" pos="start">Der <seg id="11" type="speaker">Unbekannte</seg> sah nach dem Barometer und <seg id="11" type="intExpr">sagte</seg>:</seg> 
+                  <said id="11" mode="direct" content="speech" level="1">»Wir sind achthundert Meter hoch! die Menschen sehen von hier oben aus wie Insecten. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Ich</seg> <seg id="12" type="intExpr">glaube</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2">man müßte sie immer aus dieser Höhe betrachten, <said id="13" mode="reported" content="speech" level="3" nonfact="yes">wenn <seg id="13" type="speaker">man</seg> vernünftig über ihre Verhältnisse <seg id="13" type="intExpr">urtheilen</seg> will!</said></said> Der Theaterplatz gleicht jetzt einem ungeheuren Ameisenhaufen; sehen Sie, wie die Menge sich nach den Kais zieht und auf der Zeil vermindert. Jetzt sind wir über dem Dom. Der Main erscheint nur noch wie eine weißliche Linie, und jene Brücke, die Main-Brücke, sieht aus wie ein Faden, der über den Fluß gespannt ist.«</said> 
+                  Die Atmosphäre hatte sich etwas abgekühlt. 
+                  <said id="15" mode="direct" content="speech" level="1">»Es giebt wirklich nichts, was ich für Sie, meinen Herrn Wirth, nicht thun möchte</said>, <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">fuhr</seg> mein <seg id="15 16" type="speaker">Begleiter</seg> <seg id="15" type="intExpr">fort</seg>;</seg> <said id="15" mode="direct" content="speech" level="1">wenn Sie friert, bin ich bereit, meine Kleider auszuziehen und sie Ihnen zu leihen.</said>
+                  
+                     <said id="16" mode="direct" content="speech" level="1">»Genehmigen Sie <said id="18" mode="reported" content="speech" level="2"><seg id="18" type="speaker">meinen</seg> höflichsten <seg id="18" type="intExpr">Gruß</seg>....</said>«</said> (S. 141.)
+                     
+                  
+                  – <said id="19" mode="direct" content="speech" level="1">Danke!</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">antwortete</seg> <seg id="19 21" type="speaker">ich</seg> trocken.</seg> 
+                  – <said id="20" mode="direct" content="speech" level="1">Bah! wir wollen jetzt aus der Noth eine Tugend machen; reichen Sie mir die Hand; ich bin ein Landsmann von Ihnen <seg id="21" type="frame" pos="start">und <seg id="21" type="intExpr">gedenke</seg>,</seg> <said id="21" mode="indirect" content="thought" level="2">Sie mit meiner Unterhaltung für den Aerger, den ich Ihnen verursacht habe, zu entschädigen!</said>«</said>
+                         
+                  
+                     <seg id="20" type="speaker">Er</seg> entlastete den Ballon um zwei Säcke. (S. 142.)
+                     
+                  
+                  <seg id="22" type="speaker">Ich</seg> setzte mich, <said id="22" mode="reported" content="speech" level="1" nonfact="yes">ohne irgend etwas auf <said id="23" mode="reported" content="speech" level="2"><seg id="23" type="speaker">seine</seg> <seg id="23" type="intExpr">Worte</seg></said> zu <seg id="22" type="intExpr">erwidern</seg></said>, am andern Ende der Gondel nieder. 
+                  Der junge Mann hatte inzwischen aus den weiten Taschen seines Ueberrocks ein umfangreiches Heft geholt; es war eine Arbeit über die Aërostatik. 
+                  
+                     <said id="24" mode="direct" content="speech" level="1">»Ich besitze eine interessante Sammlung von Stahlstichen und Carricaturen, die in Bezug auf unsere lustige Liebhaberei gefertigt sind</said>, <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">hub</seg> <seg id="24 25" type="speaker">er</seg> <seg id="24" type="intExpr">an</seg>.</seg> <said id="25" mode="direct" content="speech" level="1"><said id="26" mode="reported" content="speech" level="2">Wie ist diese werthvolle Entdeckung zugleich <seg id="26" type="intExpr">bewundert</seg> und <seg id="26" type="intExpr">verhöhnt</seg> worden!</said> Glücklicherweise stehen wir nicht mehr in der Zeit, wo Männer wie Montgolfier mit Wasserdampf künstliche Wolken herstellten und Gas aus der Verbrennung feuchten Strohs und zersetzter Wolle zu erzeugen suchten.</said> 
+                  
+                     – <said id="28" mode="direct" content="speech" level="1">Wollen Sie vielleicht das Verdienst der Erfinder verringern?</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">fragte</seg> <seg id="28" type="speaker">ich</seg>,</seg> <seg id="29" type="frame" pos="start">denn <seg id="29 30" type="speaker">ich</seg> hatte unterdessen <seg id="29" type="intExpr">beschlossen</seg>,</seg> <said id="29" mode="indirect" content="thought" level="1" border="yes">mir das Abenteuer zu Nutze zu machen.</said> <said id="30" mode="direct" content="speech" level="1">Es war doch immerhin Großes, die Möglichkeit, sich in die Lüfte zu schwingen, mit einem Versuch darzuthun?</said> 
+                  – <said id="31" mode="direct" content="speech" level="1"><said id="32" mode="reported" content="speech" level="2" nonfact="yes"><seg id="32" type="speaker">Wer</seg> wollte denn den Ruhm der ersten Luftschiffer in <seg id="32" type="intExpr">Abrede</seg> stellen</said>, mein Herr? Es documentirte sich ein ungeheurer Muth darin, mittels so gebrechlicher Hüllen, die nur erwärmte Luft enthielten, emporzusteigen! <seg id="33" type="frame" pos="start">Aber <seg id="33" type="speaker">ich</seg> <seg id="33" type="intExpr">frage</seg> Sie,</seg> <said id="33" mode="direct" content="speech" level="2">hat die Aërostatik seit den Aufsteigungen Blanchards, d.h. seit beinahe einem Jahrhundert, große Fortschritte gemacht?</said> Sehen Sie, mein Herr!«</said> 
+                  Und der <seg id="31" type="speaker">Unbekannte</seg> zog einen Kupferstich aus seiner Sammlung hervor.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

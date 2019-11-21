@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bern. Schwyz. Obwalden. Glarus. Freiburg. Solothurn. Graubünden. Aargan.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1891_05_02.txt_3.xml</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Bern. Schwyz. Obwalden. Glarus. Freiburg. Solothurn. Graubünden. Aargan.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Stockmar, Direktor der kantonalen, und Scherz
+                        Direktor der städtischen Polizei, sind nach Paris abgereist, um
+                        ein dort neu eingeführtes Verfahren zur Feststellung der Identität
+                        eines Menschen zu studiren. Das Verfahren besteht darin, daß
+                        man den Menschen in seinen einzelnen Theilen (Länge und
+                        Breite des Kopfes, Länge des Mittel- und des kleinen Fingers
+                        an der linken Hand, Länge des linken Fußes, des linken Ellenbogens und des rechten Ohres, Höhe des Wuchses u. s. w.) mißt.
+                        Dazu braucht man besondere Instrumente, mit denen man die
+                        Operation in wenigen Minuten ganz genau ausführen kann.
+                       <said id="1" mode="reported" content="writing" level="1" nonfact="yes"> Wenn zu diesen Zahlenangaben noch die Farbe der Haare, der
+                        Augen, die Gestalt der Nase und etwaige besondere Merkzeichen
+                        <seg id="1" type="intExpr">notirt</seg> werden</said>, so hat man eine absolut sichere Beschreibung
+                        jedes beliebigen Menschen.
+               
+               
+                  — Die Volksabstimmung über die Vorlage betreffend Betheiligung des Staates am Bau von Eisenbahnlienien ist auf den
+                        5. Juli, also gleichzeitig mit der eidgen. Abstimmung über die
+                        Initiative, festgesetzt.
+               
+            
+            
+               
+                  Schwyz.
+                        
+               
+               
+                  
+                     Arth-Rigibahn. 
+                  Die noch in jüngster
+                        Zeit stattgehabten beträchtlichen Schneefälle auf dem Rigi gestatten voraussichtlich dieses Jahr die Eröffnung der Bergbahnstrecke Arth-Goldau-Rigi-Kulm erst auf den 6. Mai.
+               
+               
+                  — <said id="2" mode="indirect" content="writing" level="1" border="yes">Letzte Woche</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">lesen</seg> wir in der <seg id="2" type="speaker">„Allg. Schweiz. Ztg.“</seg>,</seg>
+                        <said id="2" mode="indirect" content="writing" level="1" border="yes">wurden die Arbeiten für den Oberbau der Südostbahn in Angriff genommen.</said> <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Man</seg> <seg id="12" type="intExpr">zweifelt</seg> aber daran, </seg><said id="12" mode="indirect" content="thought" level="1">daß die Bahn auf
+                        die Zeit der Bundesfeier dem Betrieb übergeben werden kann</said>,
+                        da die Arbeiten infolge schlechter Witterung noch sehr im Rückstande sind.
+               
+               
+                  — Kürzlich wurde im obern Bisisthal ein riesiger Steinadler erlegt; derselbe mißt mit ausgespannten Flügeln präzis
+                        zwei Meter. Ein zweiter solcher wurde schwer verwundet, wie
+                        die Blutspur zeigte; derselbe wurde aber nicht aufgefunden,
+                        indem die Spur durch fortwährendes Schneegestöber bald verloren wurde.
+               
+               
+                  —<seg id="9" type="frame" pos="start"> Nach dem<seg id="9" type="speaker"> „Einsiedler Anzeiger“</seg></seg> <said id="9" mode="indirect" content="writing" level="1">steht in den dortigen
+                        Klosterstallungen seit letzter Woche wieder ein eidgen. Zuchthengst
+                        zum Züchten bereit.</said> Derselbe, <said id="13" mode="reported" content="speech" level="1" border="yes">Serapis <seg id="13" type="intExpr">benannt</seg></said>, ist englischer
+                        Vollblut, 5 Jahre alt und von guter Abstammung; er soll aber
+                        in Bezug auf Schönheit seinem Vorgänger Masque de fer,
+                        von dem einige schöne Fohlen vorhanden sind, nachstehen. Der
+                        Ankaufspreis ist uns nicht bekannt; <said id="10" mode="reported" content="speech" level="1"><seg id="10" type="speaker">man</seg> <seg id="10" type="intExpr">spricht</seg> von 20,000 Fr.</said>
+               
+            
+            
+               — Schwyz, 30. April. date
+               Der Prozeß gegen Neminar
+                        wurde vor dem Kriminalgericht heute eröffnet. <said id="14" mode="reported" content="speech writing" level="1">Der <seg id="14" type="speaker">Staatsanwalt</seg> <seg id="14" type="intExpr">beantragt</seg> zwei Jahre Zuchthaus.</said> Neminar wird von
+                        Dr. Bueler, seine Frau von Altnationalrath Suter in St. Gallen
+                        vertheidigt. Neminar hat sich ebenfalls zur persönlichen Vertheidigung angemeldet.
+               
+               
+            
+            
+               
+                  Obwalden.
+                        
+               
+               
+                  (Korresp.)
+                  Die schon längst mit Spannung
+                        erwartete Landsgemeinde verlief ziemlich harmlos.<said id="5" mode="reported" content="speech" level="1"> In ruhigem
+                        meisterhaftem <seg id="5" type="intExpr">Vortrage</seg> setzte der abtretende Landammann Ständerath <seg id="5" type="speaker">Theodor Wirz</seg> seinen lieben Mitlandleuten die politische
+                        Lage auseinander. </said>Baudirektor Durrer erfreute die Versammlung
+                        mit seiner erwünschten Gegenwart. Er zündete etwas schmollend
+                        ins Volk hinein; <said id="15" mode="reported" content="speech" level="1"><seg id="15" type="speaker">seine</seg> öffentliche <seg id="15" type="intExpr">Beicht</seg></said> erregte Heiterkeit.<said id="11" mode="reported" content="speech" level="1"> Ihm
+                        gegenüber spielte Ständerath <seg id="11" type="speaker">Wirz</seg> mit Geschick die Volksrechte
+                        aus und <seg id="11" type="intExpr">vertheidigte</seg> seinen Standpunkt im Nationalrathsstreit
+                        eben so sicher als charakterfest.</said> <seg id="7" type="speaker">Freunde</seg> des Herrn Durrer
+                        machten in Versöhnung und<said id="7" mode="reported" content="speech" level="1"> <seg id="7" type="intExpr">priesen</seg> wieder seine Verdienste über
+                        alle Maßen.</said> Das schlichte Bäuerlein machte dazu ein gar verwundertes Gesicht. Die hohe Politik hat eben ihre eigenen
+                        Wege,<said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes"> die freilich ein gewöhnliches <seg id="8" type="speaker">Menschenkind</seg> nicht <seg id="8" type="intExpr">begreift</seg></said>
+                        und so wurde dann auch Hr. Durrer nach dem Kommando zum
+                        Landesoberhaupt und Hr. Wirz mit Einmuth zum Statthalter
+                        erkoren.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

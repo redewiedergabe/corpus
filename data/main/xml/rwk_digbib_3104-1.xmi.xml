@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>4. Der Grindhansel</title>
+             <author>Spiegel, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Spiegel,_Karl_4__Der_Grindhansel.tg9_1.xml</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">4. Der Grindhansel</f>
+         <f name="author">Spiegel, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="writing" level="1"><seg id="1" type="speaker">Sie</seg> <seg id="1" type="intExpr">unterschrieben</seg></said>, <seg id="2" type="frame" pos="start">weil <seg id="2" type="speaker">sie</seg> noch nicht <seg id="2" type="intExpr">wußten</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes"><said id="28" mode="reported" content="speech thought" level="2">was der <seg id="28" type="speaker">Teufel</seg> <seg id="28" type="intExpr">meine</seg>.</said></said> Die Zeit ging um und die Frau bekam einen Buben. Als er etwas herangewachsen war, holte sich der Teufel den Buben und brachte ihn in ein verwünschtes Schloß oder an einen ähnlichen Platz. Da mußte der Knabe etwas lernen. (<said id="25" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Wohin er kam und was er dort treiben mußte</said><seg id="25" type="frame" pos="end"> – hat der <seg id="25" type="speaker">Erzähler</seg> <seg id="25" type="intExpr">vergessen</seg>.</seg>) Alle Jahre einmal aber durfte der Knabe seine Eltern besuchen. Als er wieder einmal daheim war, und gerade ein Vögelchen auf einem Baum am Hause pfiff, <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">fragte</seg> <seg id="4" type="speaker">er</seg> seinen Vater:</seg> <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">Wißt</seg> <seg id="5" type="speaker">Ihr</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was das Vögelchen pfeift?</said>«</said> <seg id="6" type="frame" pos="start"><seg id="6 7" type="speaker">Der</seg> <seg id="6" type="intExpr">antwortete</seg> natürlich:</seg> <said id="6" mode="direct" content="speech" level="1">»Nein«</said>, <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">dachte</seg> aber bei sich,</seg> <said id="7" mode="direct" content="thought" level="1">du mußt doch schon viel gelernt haben, <said id="8" mode="reported" content="thought" level="2" border="yes">wenn <seg id="8" type="speaker">du</seg> das <seg id="8" type="intExpr">weißt</seg>.</said></said> <seg id="9" type="frame" pos="start">Der <seg id="9" type="speaker">Sohn</seg> <seg id="9" type="intExpr">sagte</seg> jetzt:</seg> <said id="9" mode="direct" content="speech" level="1">»<seg id="26" type="frame" pos="start">Das <seg id="26" type="speaker">Vögelchen</seg> <seg id="26" type="intExpr">pfeift</seg>:</seg> <said id="26" mode="direct" content="speech" level="2">Ihr müßt mich noch einmal mit eigener Hand bedienen</said>«.</said> 
+                  Der Sohn kam in dem Schloß, wo er war, auch in den Stall. Da standen drei Esel. Der eine von ihnen stand jederzeit verkehrt, mit dem Hinterteil am Barren. Drehte er den Esel herum, so stand der am andern Tag doch wieder so. Und als er ihn so dreimal herumgedreht hatte, <seg id="12" type="frame" pos="start"><said id="11" mode="reported" content="speech" level="1">fing der <seg id="12 11" type="speaker">Esel</seg> an zu <seg id="11" type="intExpr">plaudern</seg></said> und <seg id="12" type="intExpr">sagte</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">der Bursche solle in den Hof gehen und dort seinen Kopf in den Brunnen eintunken, seine Haare würden davon goldig; er solle das aber nicht sehen lassen und seinen Kopf verbinden.</said> <seg id="13" type="frame" pos="start">Nachher <seg id="13" type="intExpr">gab</seg> ihm der <seg id="13 14" type="speaker">Esel</seg> auch den Ort <seg id="13" type="intExpr">an</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">wo sieben Kugel lägen</said>, <seg id="14" type="frame" pos="start">und <seg id="14" type="intExpr">trug</seg> ihm <seg id="14" type="intExpr">auf</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">diese zu holen und zu sich zu stecken; denn, wenn er die habe, könne sie der Teufel auf ihrer Flucht nicht einholen.</said> Als der Bursche die Kugeln hatte, setzte er sich auf den Esel, und der sprengte davon. Aber der Teufel eilte nach. Die Flüchtlinge kamen an einen See und der Bursche warf <said id="27" mode="reported" content="speech" level="1">auf das <seg id="27" type="intExpr">Geheiß</seg> des <seg id="27" type="speaker">Esels</seg></said> eine Kugel hinein. Der Teufel mußte erst die Kugel suchen und verweilte sich dabei. Die Flüchtlinge erreichten einen zweiten See und die zweite Kugel hielt den Teufelwieder auf. So warfen sie die sieben Kugeln aus und erreichten die Grenze, wo ihnen der Teufel nichts mehr anhaben konnte. <seg id="16" type="frame" pos="start">Nun <seg id="16" type="intExpr">sagte</seg> der <seg id="16 18" type="speaker">Esel</seg> zum Burschen:</seg> <said id="16" mode="indirect" content="speech" level="1">er solle ihm den Kopf abhacken; ein Ring falle dann heraus; drehe er den Ring, so erscheine ein schöner Jüngling, der ihm gäbe, <said id="17" mode="reported" content="speech" level="2">was <seg id="17" type="speaker">er</seg> <seg id="17" type="intExpr">verlange</seg>.</said></said> Der Bursche machte es so, <said id="18" mode="reported" content="speech" level="1">wie ihm <seg id="18" type="intExpr">geheißen</seg> war</said> und hob den Ring auf. 
+                  Jetzt zog der Bursche weiter, kam zu einem Königsschloß und verdingte sich da. <seg id="19" type="frame" pos="start">Weil <seg id="19" type="speaker">er</seg> den Kopf immer zugebunden trug und sich <seg id="19" type="intExpr">ausredete</seg>,</seg> <said id="19" mode="indirect" content="speech thought" level="1">er habe einen Grindkopf</said>, <said id="20" mode="reported" content="speech" level="1">so wurde er nur der Grindhansel <seg id="20" type="intExpr">geheißen</seg>.</said> 
+                  Auf einmal bekam des Königs Tochter ein Kind <seg id="21" type="frame" pos="start">und <seg id="21" type="intExpr">wußte</seg> <seg id="21" type="speaker">niemand</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wer Vater dazu sei.</said> Es wurden nun viele vorgeladen, auf die ein Verdacht fiel, und das Kind bekam einen Strauß in die Hand; <said id="22" mode="indirect" content="thought" level="1">den würde es dem geben</said><seg id="22" type="frame" pos="mid">, so <seg id="22" type="intExpr">glaubte</seg> <seg id="22" type="speaker">man</seg>,</seg> <said id="22" mode="indirect" content="thought" level="1">der sein Vater sei.</said> Aber keiner erhielt den Strauß. Die ganze Dienerschaft war schon abgefertigt, aber ohne Erfolg. <seg id="23" type="frame" pos="start">Der <seg id="23" type="speaker">König</seg> <seg id="23" type="intExpr">fragte</seg> jetzt,</seg> <said id="23" mode="indirect" content="speech" level="1">ob niemand mehr im Schlosse sei</said>, <seg id="24" type="frame" pos="start">und als <seg id="24" type="speaker">man</seg> ihm <seg id="24" type="intExpr">sagte</seg>,</seg> <said id="24" mode="indirect" content="speech" level="1">nur Grindhansel fehle noch</said>, ließ er auch diesen holen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

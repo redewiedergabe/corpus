@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Reitergeschichte</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Reitergeschichte.tg361_1.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Reitergeschichte</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Neugierde bewog ihn, sich im Sattel umzuwenden, <seg id="9" type="frame" pos="start">und da <seg id="9" type="speaker">er</seg> gleichzeitig aus einigen steifen Tritten seines Pferdes <seg id="9" type="intExpr">vermutete</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">es hätte in eines der vorderen Eisen einen Straßenstein eingetreten</said>, er auch an der Queue der Eskadron ritt und ohne Störung aus dem Gliede konnte, so bewog ihn alles dies zusammen, abzusitzen, und zwar nachdem er gerade das Vorderteil seines Pferdes in den Flur des betreffenden Hauses gelenkt hatte. Kaum hatte er hier den zweiten weißgestiefelten Vorderfuß seines Braunen in die Höhe gehoben, um den Huf zu prüfen, als wirklich eine aus dem Innern des Hauses ganz vorne in den Flur mündende Zimmertür aufging und in einem etwas zerstörten Morgenanzug eine üppige, beinahe noch junge Frau sichtbar wurde, hinter ihr aber ein helles Zimmer mit Gartenfenstern, worauf ein paar Töpfchen Basilika und rote Pelargonien, ferner mit einem Mahagonischrank und einer mythologischen Gruppe aus Biskuit dem Wachtmeister sich zeigte, während seinem scharfen Blick noch gleichzeitig in einem Pfeilerspiegel die Gegenwand des Zimmers sich verriet, ausgefüllt von einem großen weißen Bette und einer Tapetentür, durch welche sich ein beleibter, vollständig rasierter älterer Mann im Augenblicke zurückzog. 
+                  <seg id="11" type="frame" pos="start"><said id="10" mode="reported" content="thought" level="1">Indem aber dem <seg id="11 10" type="speaker">Wachtmeister</seg> der Name der Frau <seg id="11 10" type="intExpr">einfiel</seg> und 
+gleichzeitig eine Menge anderes:</said></seg> <said id="11" mode="indirect" content="thought" level="1">daß es die Witwe oder geschiedene Frau eines kroatischen Rechnungsunteroffiziers war, daß er mit ihr vor neun oder zehn Jahren in Wien in Gesellschaft eines anderen, ihres damaligen eigentlichen Liebhabers, einige Abende und halbe Nächte verbracht hatte</said>, suchte er nun mit den Augen unter ihrer jetzigen Fülle die damalige üppig-magere Gestalt wieder hervorzuziehen. Die Dastehende aber lächelte ihn in einer halb geschmeichelten slawischen Weise an, die ihm das Blut in den starken Hals und unter die Augen trieb, während eine gewisse gezierte Manier, <said id="12" mode="reported" content="speech" level="1">mit der <seg id="12" type="speaker">sie</seg> ihn <seg id="12" type="intExpr">anredete</seg></said>, sowie auch der Morgenanzug und die Zimmereinrichtung ihn einschüchterten. Im Augenblick aber, während er mit etwas schwerfälligem Blick einer großen Fliege nachsah, die über den Haarkamm der Frau lief, und äußerlich auf nichts achtete, als wie er seine Hand, diese Fliege zu scheuchen, sogleich auf den weißen, warm und kühlen Nacken legen würde, <said id="5" mode="reported" content="thought" level="1" border="yes">erfüllte <seg id="5" type="speaker">ihn</seg> das <seg id="5" type="intExpr">Bewußtsein</seg> der heute bestandenen Gefechte und anderer Glücksfälle von oben bis unten</said>, <seg id="6" type="frame" pos="start">so daß <seg id="6" type="speaker">er</seg> ihren Kopf mit schwerer Hand nach vorwärts drückte und dazu <seg id="6" type="intExpr">sagte</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Vuic«</said> – <said id="7" mode="reported" content="speech" level="1" nonfact="yes">diesen ihren Namen hatte <seg id="7 13" type="speaker">er</seg> gewiß seit zehn Jahren nicht wieder <seg id="7" type="intExpr">in den Mund genommen</seg></said> und <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes">ihren Taufnamen vollständig <seg id="13" type="intExpr">vergessen</seg></said> –,<said id="6" mode="direct" content="speech" level="1"> »in acht Tagen rücken wir ein, und dann wird das da mein Quartier«</said>, auf die halboffene Zimmertür deutend. Unter dem hörte er im Hause mehrfach Türen zuschlagen, fühlte sich von seinem Pferde, zuerst durch stummes Zerren am Zaum, dann, indem es laut den anderen nachwieherte, fortgedrängt, saß auf und trabte der Schwadron nach, ohne von der Vuic eine andere Antwort als ein verlegenes Lachen mit in den Nacken gezogenem Kopf mitzunehmen. <said id="14" mode="reported" content="speech" level="1">Das ausgesprochene <seg id="14" type="intExpr">Wort</seg></said> aber machte seine Gewalt geltend. Seitwärts der Rottenkolonne, einen nicht mehr frischen Schritt reitend, unter der schweren metallischen Glut des Himmels, den Blick in der mitwandernden Staubwolke verfangen, lebte sich der Wachtmeister immer mehr in das Zimmer mit den Mahagonimöbeln und den Basilikumtöpfen hinein und zugleich in eine Zivilatmosphäre, durch welche doch das Kriegsmäßige durchschimmerte, eine Atmosphäre von Behaglichkeit und 
+angenehmer Gewalttätigkeit ohne Dienstverhältnis, eine Existenz in Hausschuhen, den Korb des Säbels durch die linke Tasche des Schlafrockes durchgesteckt.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

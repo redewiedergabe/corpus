@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frritt-Flacc!</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Frritt_Flacc_.tg1973_1.xml</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Frritt-Flacc!</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">dash chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">– Hier sind sie, und Gott vermehre sie Ihnen hundertfältig!</said> 
+                     <said id="2" mode="direct" content="speech" level="1">– Gott! Geld von Gott! Hat schon je Einer gesehen, wie das aussieht?«</said> 
+                     Der <seg id="1" type="speaker">Doctor</seg> pfiff nach dem Hurzof, gab ihm eine kleine Laterne in's Maul und schlug den Weg nach dem Meere zu ein. 
+                     Die <seg id="2" type="speaker">Alte</seg> trippelte ihm nach. 
+                  
+               
+            
+            
+               
+                  
+                     V.
+                     Das war ein Wetter voll Frritts und Flaccs! Die Glocken der Sainte-Phisilene-Kirche werden von dem Sturme in Schwung versetzt. Schlechtes Zeichen, doch, Doctor Trifulgas ist nicht abergläubisch. Er glaubt an Nichts, nicht einmal an seine Wissenschaft – wenigstens nur insofern, als sie ihm etwas einbringt. 
+                     
+                         Ein abscheuliches Wetter und ein greulicher Weg! Strandkiesel und Schlacken; die Strandkiesel schlüpfrig von Varecgezweig und die Schlacken unter dem Fuße knirschend, wie Hammerschlag; nirgends ein Licht außer dem unbestimmten, zitternden Scheine von Hurzofs Laterne. Manchmal schießt nur aus dem Vanglor eine Flammengarbe auf, in deren Mitte ungeheure fratzenhafte Schattenbilder zu schaukeln scheinen. 
+                     <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Man</seg> <seg id="7" type="intExpr">weiß</seg> in der That nicht,</seg> <said id="7" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was sich in der Tiefe dieser unergründlichen Krater eigentlich befindet.</said> Vielleicht die Seelen einer anderen Welt, welche beim Austreten verdunsten. 
+                     Der Doctor und die Alte folgen den Krümmungen der kleinen Buchten des Ufers. Das Meer schimmert weiß, so weißbleich, wie das Weiß der Trauer. Es erglänzt, wenn es Kämme bildet, in der phosphorescirenden Linie der Brandung, welche leuchtende zitternde Funken auf den Strand zu werfen scheint. 
+                     So wandern Beide hin bis zu einer scharfen Biegung des Weges zwischen den wellige Thäler bildenden Dünen, deren Kiesel und Binsen sich untereinander reiben und stoßen, als klirrten Bajonnette aneinander. 
+                     Der Hund hat sich seinem Herrn genähert, <seg id="9" type="frame" pos="start">als wollte <seg id="9" type="speaker">er</seg> zu ihm <seg id="9" type="intExpr">sagen</seg>:</seg> 
+                     <said id="9" mode="direct" content="speech" level="1" nonfact="yes" metaph="yes">»He, wieder hundertzwanzig Fretzers in den Kasten zu stecken! So rafft man Schätze zusammen. Das giebt wieder eine Flasche Wein mehr; eine weitere Schüssel beim Abendessen und auch eine Pastete mehr für den treuen Hurzof. Immer zu, und reiche Leute behandelt und ihre Börse geschröpft!«</said> 
+                     Hier angelangt, blieb die alte Frau stehen. Mit zitterndem Finger zeigte sie durch das Dunkel nach einem röthlichen Licht; das schimmerte aus dem Hause Vort Kartif's des Kringelbäckers. 
+                     <said id="10" mode="direct" content="speech" level="1">»Dort?...</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">erkundigte</seg> sich der <seg id="10" type="speaker">Doctor</seg> noch einmal.</seg> 
+                    <said id="11" mode="direct" content="speech" level="1"> – Ja</said>, <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">erwiderte</seg> die <seg id="11" type="speaker">Alte</seg>.</seg> 
+                     <said id="12" mode="direct" content="speech" level="1" border="yes">– Harranah!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">heulte</seg> der <seg id="12" type="speaker">Hund Hurzof</seg>.</seg> 
+                     Plötzlich kracht ein Donnerschlag aus dem bis in seine Grundfesten erschütterten Vanglor. Ein Bündel rauchiger Flammen züngelt, die Wolkendecke durchbrechend, bis zum Zenith empor. Der Doctor Trifulgas ist von dem Krachen zu Boden geworfen worden. 
+                     <said id="13" mode="reported" content="speech" level="1"><seg id="13" type="speaker">Er</seg> <seg id="13" type="intExpr">flucht</seg> wie ein Rasender</said>, steht mühsam auf und blickt umher. 
+                     Die <seg id="14" type="speaker">Alte</seg> ist nicht mehr hinter ihm. <said id="14" mode="direct" content="thought" level="1">Ist sie in einer Oeffnung des Bodens versanken oder durch die in dichten Wolken sich durcheinanderwälzenden Dunstmassen entflohen?</said> 
+                     
+                         Der Hund befindet sich noch an der Stelle; er steht auf den Hinterpfoten mit offenem Maule – die Laterne ist erloschen. 
+                     <said id="15" mode="direct" content="speech" level="1">»Immer vorwärts,«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">brummt</seg> <seg id="15" type="speaker">Doctor Trifulgas</seg>.</seg> 
+                     Der ehrliche Mann hat seine hundertzwanzig Fretzers erhalten; er muß sie auch verdienen. 
+                  
+               
+            
+            
+               
+                  
+                     VI. 
+                     Auf die Entfernung einer halben Kertse nur ein leuchtender Punkt. Das ist die Lampe des Sterbenden – vielleicht des Todten. Ja, dort erhebt sich das Haus des Kringelbäckers; die Alte hat mit dem Finger danach hingewiesen; ein Irrthum ist nicht möglich.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

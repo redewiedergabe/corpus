@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Herr Hofrat</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Herr_Hofrat.tg132_1.xml</f>
+         <f name="year">1915</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Herr Hofrat</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     Noch eines von den lieben, guten, schönen mit
+                        dicken Mauern, gehörigen Fenstervertiefungen, schweren Doppeltüren, hohen
+                        Zimmern, ein famoses Haus, <said id="16" mode="reported" content="speech" level="1" nonfact="yes">in dem <seg id="16 1" type="speaker">niemand</seg> <said id="1" mode="direct" content="speech" level="2" nonfact="yes">»Helf Gott!«</said> zu <seg id="16" type="intExpr">sagen</seg> brauchte</said>,
+                        wenn der Wandnachbar nieste.
+                  
+                  
+                     Seinem gediegenen Charakter entsprach die Wohnung des Herrn
+                        Hofrats Hügel und deren Einrichtung im reinsten Biedermeierstil.
+                     Da gab es nicht ein beim Antiquar gekauftes Stück; Schränke,
+                        Tische, Konsolen, Sofas, Sessel und Stühle waren Familienerbe und verkündeten den Ruhm ihrer
+                        Verfertiger sowie die Ordnungsliebe und den Schönheitssinn ihrer Benützer
+                        und Erhalter.
+                  
+                  
+                     Wenn Frau Riesel ihr Wischtuch über die Hochpolitur des hellen,
+                        gefladerten Holzwerks mit den feinen Mahagoni-Intarsien gleiten ließ, <said id="17" mode="reported" content="thought" level="1"><seg id="17" type="intExpr">meinte</seg>
+                        <seg id="17" type="speaker">sie</seg> sich sanft gestreichelt zu fühlen von zarten, unsichtbaren Händen</said>, die
+                        durch Generationen des Amtes, das sie jetzt versah, gewaltet hatten und ihr
+                        für die Sorgfalt dankten, mit der sie ihr Werk fortsetzte.
+                  
+                  
+                     Kamilla Riesel war in diesen Räumen gelandet wie in einem
+                        Friedensport nach schweren, drangvollen Zeiten, die ihrer sehr glücklichen
+                        Jugend folgten: dem Zusammenbruch des angesehenen Kaufmannshauses, dem <seg id="3 4" type="speaker">sie</seg>
+                        entstammte, dem Tode ihrer Eltern, nur zu bald darauf auch des geliebten
+                        Gatten, und dann das immer näher heranschleichende, häßliche, ganz gemeine
+                        Elend.
+                     <said id="3" mode="reported" content="speech" level="1" border="yes">Umsonst das <seg id="3" type="intExpr">Gebet</seg> ums tägliche Brot, um die Möglichkeit, es zu
+                        erwerben.</said>
+                  
+                  
+                     Wenn es nicht Sünde wäre, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">von einem Schicksal <seg id="4" type="intExpr">zu reden</seg> statt von
+                        Gottes Fügungen</said>, <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Frau Riesel</seg> hätte <seg id="5" type="intExpr">gesagt</seg>:</seg> <said id="5" mode="direct" content="speech" level="1" nonfact="yes">Das Schicksal hat sich über mich
+                        gestürzt wie ein Geier über eine Taube und mich Stück für Stück
+                        zerrissen.</said>
+                     <said id="18" mode="reported" content="speech" level="1" nonfact="yes">Aber <seg id="18" type="speaker">sie</seg> <seg id="18" type="intExpr">sagte</seg> es nicht</said>, <said id="19" mode="reported" content="speech" level="1" nonfact="yes"><seg id="19" type="speaker">sie</seg> <seg id="19" type="intExpr">sprach</seg> überhaupt wenig und von
+                        ihrer Vergangenheit nie.</said>
+                  
+                  
+                     <said id="7" mode="reported" content="thought" level="1">Um so mehr <seg id="7" type="intExpr">dachte</seg> <seg id="7" type="speaker">sie</seg> daran</said> und auch mit einem aus Dankbarkeit
+                        und nachträglich noch leiser Beschämung gemischten Gefühl des Augenblicks,
+                        in dem die Wendung ihrer kläglichen Lebenslage sich vollzog.
+                  
+                  
+                     Vor acht Jahren war's, an einem frostigen
+                        Winternachmittage.
+                     <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Sie</seg> hatte den Erlös einer kleinen Bestellung aus einem
+                        Weißwarenlager in der Mariahilfer Straße abgeholt und dabei <seg id="8" type="intExpr">erfahren</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß
+                        ein neuer Auftrag nicht in Aussicht genommen sei.</said>
+                     Mit stummem Kopfnicken, ohne etwas von ihrer Bestürzung zu
+                        verraten, verließ sie den Laden, aber der Schlag war zu hart und unerwartet
+                        gewesen, und sie blieb wie betäubt eine Weile auf der Straße stehen.
+                     <said id="9" mode="freeIndirect" content="thought" level="1">Was tun?
+                     Zurückkehren in <seg id="9" type="speaker">ihr</seg> armseliges Heim – wie lang noch das
+                        ihre?
+                     <said id="10" mode="reported" content="speech writing" level="2">der jämmerliche Unterschlupf war ihr ja schon <seg id="10" type="intExpr">gekündigt</seg> worden</said> –
+                        oder auf der Suche nach Arbeit neue, gewiß vergebliche Wege machen?</said>
+                  
+                  
+                     <seg id="11 12" type="speaker">Sie</seg> stand mitten auf dem Trottoir, wurde von den Passanten
+                        unwillig zur Seite gestoßen, <said id="11" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="11" type="intExpr">bemerkte</seg> es nicht</said>, stand und <seg id="12" type="intExpr"><said id="12" mode="reported" content="thought" level="1">sann</said></seg> und blickte
+                        starr vor sich hin und blickte plötzlich in ein Paar blaue, gütige Augen,
+                        <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">die</seg> sich auf sie gerichtet hatten, sie voll mitleidiger Überraschung
+                        anstaunten und <seg id="13" type="intExpr">fragten</seg>:</seg> <said id="13" mode="direct" content="speech" level="1" metaph="yes">Bist du's?</said>
+                  
+                  
+                     
+                        Es waren die lichtblauen Augen der Frau
+                        Rosa Hügel, einer ehemaligen guten Bekannten, einer von den vielen, denen
+                        <seg id="14" type="speaker">Kamilla Riesel</seg>, seitdem sie ins Elend geraten war, ängstlich aus dem Wege
+                        ging.
+                     <said id="14" mode="freeIndirect" content="thought" level="1">O Gott, nur keine Begegnung mit ihnen, die in Tagen des
+                        Wohlstandes ihren Verkehr gebildet, zu ihr emporgeschaut, sie oft beneidet
+                        hatten.</said>
+                     Erschrocken wollte sie sich abwenden, <seg id="15" type="frame" pos="start">aber die
+                        kleine <seg id="15" type="speaker">Dame</seg> hatte sich die <seg id="15" type="intExpr">Frage</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">Bist du's?</said>
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Papa Hamlet</title>
+             <author>Holz, Arno</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Holz,_Arno_Papa_Hamlet.tg455_1.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Papa Hamlet</f>
+         <f name="author">Holz, Arno</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Ich werde selbst hingehn müssen und fürliebnehmen mit dem, was man mir anzubieten wagt! Das Leben ist brutal, Amalie! Verflucht! Wenn man wenigstens einen Rock zum Ausgehen hätte!«</said> 
+                  Sein Tenor war jetzt übergeschnappt, <seg id="1" type="speaker">er</seg> hatte sich wieder lang über das Sofa zurückgeeselt. 
+                  Große Pause ...
+                  Die Dächer draußen hatten sich allmählich braun gefärbt. 
+                  Die Sonne an dem großen, runden Schornstein drüben war verblichen. 
+                  <seg id="2" type="speaker">Frau Thienwiebel</seg> fing jetzt hinten in ihrer Ecke zu husten an. 
+                  <said id="2" mode="direct" content="speech" level="1">»Herr Gott, <seg id="3 4" type="speaker">Niels</seg>! Ich muß ja inhalieren! Da, nimm doch mal das Kind!«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Natürlich! Auch noch Kinderfrau! Oh, ich reiße Possen wie kein anderer! Was kann ein Mensch auch andres tun als lustig sein? Still, Krabbe!!«</said> 
+                  Der kleine Krebsrote schwieg wieder. Er war noch nie so verblüfft gewesen. 
+                  <said id="4" mode="direct" content="speech" level="1">»Da! Nimm's! Kau's! Friß! Verschluck's!«</said> 
+                  Der große Thienwiebel hatte es jetzt sogar über sich gewonnen, seinem ungeratnen Sprößling auch den Schnuller in den Mund zu stopfen. Mehr war unmöglich zu verlangen! 
+                  Amalie hatte unterdessen die Ofenröhre aufgemacht und entnahm ihr jetzt einen kleinen, grünglasierten Kochtopf. Ein nach Salbei duftender Brodem entstieg ihm. Nachdem sie dann noch das kleine Geschirr neben den Ofen auf einen Stuhl und sich selbst auf die Fußbank davor gesetzt hatte, machte sie jetzt ihren Mund auf und atmete das heiße Zeug langsam ein. 
+                  Der große <seg id="5 8 11 13 15 17 19 21 23" type="speaker">Thienwiebel</seg>, der sich unterdeß mit seinem impertinenten kleinen Krebsroten auf die Tischkante plaziert hatte, sah ihr nachdenklich zu. 
+                  <said id="5" mode="direct" content="speech" level="1">»Hm! <said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes" prag="yes"><seg id="6" type="intExpr">Weißt</seg> du, <seg id="6 7 10 12 14 16 18 20 22" type="speaker">Amalie</seg>?</said>«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Hm??«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="thought" level="2" nonfact="yes" border="yes" prag="yes"><seg id="9" type="intExpr">Weißt</seg> <seg id="9" type="speaker">du</seg>?</said> Wir haben eigentlich eine ganz falsche Methode, das Kind zu nähren, Amalie!«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Ach was!«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»<seg id="34" type="frame" pos="start"><seg id="34" type="speaker">Ich</seg> <seg id="34" type="intExpr">sage</seg>,</seg> <said id="34" mode="indirect" content="speech" level="2" prag="yes">eine Methode!</said> Eine verkehrte Methode, Amalie!«</said> <said id="12" mode="direct" content="speech" level="1">»Aber ...«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Verlaß dich drauf! Eine unnatürliche, Amalie!«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ja, du lieber Gott ...«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Eine unnatürliche ... Wir sollten das Kind nicht mit der Flasche tränken!«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Nich? Na, womit denn sonst?«</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»Du selbst solltest es eben tränken!«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Ich?«</said> 
+                  <said id="19" mode="direct" content="speech" level="1">»Gewiß, Amalie!«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Ach, lieber Gott! Ich! Selbst!«</said> 
+                  <said id="21" mode="direct" content="speech" level="1">»Nun! Warum nicht?«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Ich?? Bei meiner schwachen, kranken Brust jetzt?«</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Ach was! <said id="24" mode="reported" content="thought" level="2">Das <seg id="24" type="intExpr">bildest</seg> du dir ja nur <seg id="24" type="intExpr">ein</seg>, <seg id="24" type="speaker">Amalie</seg>!</said> <seg id="35" type="frame" pos="start"><seg id="35" type="speaker">Ich</seg> <seg id="35" type="intExpr">sage</seg> dir,</seg> <said id="35" mode="indirect" content="speech" level="2" prag="yes">du bist völlig gesund.</said> <said id="36" mode="indirect" content="speech" level="2" prag="yes">Du bist völlig gesund</said><seg id="36" type="frame" pos="end">, <seg id="36" type="intExpr">sage</seg> <seg id="36" type="speaker">ich</seg>!</seg> ... Übrigens: ein Kind kann ein für allemal nur dann gedeihen, wenn es die Mutter selbst säugt.«</said> 
+                  <seg id="27" type="speaker">Herr Thienwiebel</seg> war jetzt ganz eifrig geworden. <said id="25" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Seine Langeweile von vorhin schien <seg id="25" type="speaker">er</seg> völlig <seg id="25" type="intExpr">vergessen</seg> zu haben.</said> <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Er</seg> schien es sogar nicht <seg id="26" type="intExpr">bemerkt</seg> zu haben,</seg> <said id="26" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß dem kleinen zappelnden Wurm auf seinen Knien der Schnuller wieder heruntergekullert war.</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»Verlaß dich drauf, <seg id="28 29" type="speaker">Amalie</seg>! <seg id="37" type="frame" pos="start"><seg id="37" type="speaker">Ich</seg> <seg id="37" type="intExpr">sage</seg>,</seg> <said id="37" mode="indirect" content="speech" level="2" prag="yes">die natürlichste Methode ist immer die beste!</said> <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">Denk'</seg> doch mal:</seg> <said id="28" mode="direct" content="thought" level="2" nonfact="yes">was sollten denn sonst die Negerweiber anfangen!</said> Sie haben keine Flaschen! Sie nähren eben ihre Kinder selbst, siehst du ... und, und – nun ja! Und sie gedeihen dabei! Gedeihen! Na?«</said> 
+                  <said id="29" mode="direct" content="speech" level="1">»Ja, Niels, aber ich bin doch kein Negerweib!«</said> 
+                  Der große <seg id="30 33" type="speaker">Thienwiebel</seg> lächelte überlegen. 
+                  <said id="30" mode="direct" content="speech" level="1">»Ja nun, du mußt ... hehe! <said id="31" mode="reported" content="thought" level="2" nonfact="yes">Du mußt mich eben <seg id="31" type="intExpr">verstehn</seg>, <seg id="31" type="speaker">Amalie</seg>!</said> He!«</said> 
+                  <seg id="32" type="speaker">Amalie</seg> hatte sich wieder tief über ihren Salbeitopf gebückt. 
+                  <said id="32" mode="direct" content="speech" level="1">»<seg id="39" type="speaker">Ich</seg> wollte dir damit eben nur durch ein ... ein ... nun! <said id="38" mode="reported" content="speech" level="2" prag="yes"><seg id="38" type="intExpr">sagen</seg> <seg id="38" type="speaker">wir</seg> durch ein Beispiel</said>, <seg id="39" type="frame" pos="start"><seg id="39" type="intExpr">andeuten</seg>,</seg> <said id="39" mode="indirect" content="speech" level="2">daß das Natürlichste immer das Vernünftigste ist.</said> Ich sehe eben durchaus nicht ein, warum die Negerweiber etwas vor uns voraushaben sollten!«</said> <said id="33" mode="direct" content="speech" level="1">»Aber sie sind gesund!«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

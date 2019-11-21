@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>49. Der gelehrige Dieb</title>
+             <author>Pröhle, Heinrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Proehle,_Heinrich_49__Der_gelehrige_Dieb.tg61_1.xml</f>
+         <f name="year">1853</f>
+         <f name="decade">1850</f>
+         <f name="title">49. Der gelehrige Dieb</f>
+         <f name="author">Pröhle, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">ascii none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Als aber der Reisekoffer gefüllt war, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">fragte</seg> der <seg id="1" type="speaker">Räuber</seg> den König von Marocco,</seg> <said id="1" mode="indirect" content="speech" level="1">ob er diese Waaren nun in den Gasthof bringen solle, wo sie übernachtet hätten.</said> 
+                  <said id="2" mode="direct" content="speech" level="1">J-a</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">sagt</seg> der <seg id="2" type="speaker">König von Marocco</seg>.</seg> 
+                  <said id="3" mode="indirect" content="speech" level="1">Ob er denn auch das Geld mitbringen solle</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">setzt</seg> <seg id="3" type="speaker">er</seg> <seg id="3" type="intExpr">hinzu</seg>.</seg> 
+                  <said id="4" mode="direct" content="speech" level="1">J-a</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">antwortet</seg> <seg id="4" type="speaker">der</seg> wieder.</seg> 
+                  Wie der Reisekoffer auf den Wagen gehoben wird, greifen alle Diener des Handelshauses mit an, und der Handelsherr selbst schnallt die Riemen zu, mit denen er hinten am Wagen des Räubers befestigt wird. <seg id="5" type="frame" pos="start">Dabei <seg id="5" type="intExpr">flüstert</seg> ihm der <seg id="5" type="speaker">Räuber</seg> zu:</seg> <said id="5" mode="indirect" content="speech" level="1">er möge den König von Marocco in seine Stube führen und gut bewirthen, bis er wieder käme, denn der bezahle gut.</said> Damit steigt er ein und die vier Hengste jagen im Galopp zum Thore hinaus nach der Räuberhöhle zu. 
+                  Als die Kutsche wieder vor dem Buschwerk anlangte, das die Räuberhöhle umgab, standen dort zwei Räuber bereits auf Wache, nahmen den Koffer in Empfang und trugen ihn in die Höhle. Dort aber machte der Räuberhauptmann, weil er, <said id="17" mode="reported" content="speech" level="1" prag="yes">wie <seg id="17" type="intExpr">gesagt</seg></said>, schon etwas bei Jahren war, ihn gleichfalls zum Räuberhauptmann, und übertrug ihm das 
+ganze Commando über die Bande. Und von jetzt an spazierte er selbst mit der langen Pfeife unter den aufgespeicherten Schätzen in der Räuberhöhle umher, lebte wie ein großer Herr und that nichts weiter, <said id="7" mode="reported" content="speech" level="1">als daß <seg id="7" type="speaker">er</seg> den Räubern <seg id="7" type="intExpr">Befehle ertheilte</seg> wie ein General.</said> 
+                  Dem Kaufmann in Hamburg aber wurde die Zeit zu lang, bis der Geschäftsführer des Königs von Marocco zurück kam. Er ging auf der Straße auf und nieder, allein die Kutsche mit den vier Hengsten, worin der junge Räuber saß, kam nicht zurück. Da ging <seg id="8" type="speaker">er</seg> in die Stube, wo der König von Marocco mit Austern und Champagnerwein bewirthet ward, <seg id="8" type="frame" pos="start">und <seg id="8" type="intExpr">drohte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß er ihn vor den Richter führen würde, wenn sein Geschäftsführer nicht bald zurückkehre.</said> <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Der</seg> aber <seg id="9" type="intExpr">schrie</seg> wie wüthend, <said id="10" mode="reported" content="speech" level="1" border="yes">als <seg id="10" type="speaker">er</seg> vom Richter <seg id="10" type="intExpr">hörte</seg></said>:</seg> <said id="9" mode="direct" content="speech" level="1">"Ich bin der König von Maroccoco."</said> 
+                  Der mit dem Strohkranze und der Papierkrone weigerte sich am andern Morgen, gutwillig mit vor den Richter zu gehen. Deshalb mußte der Kaufherr auf die Polizei schicken, die ihn mit Gewalt hinbringen sollte. <seg id="11" type="frame" pos="start">Als <seg id="11" type="speaker">er</seg> aber <seg id="11" type="intExpr">merkte</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">daß die Polizei ihm Gewalt anthun wolle</said>, <seg id="12" type="frame" pos="start">warf <seg id="12" type="speaker">er</seg> ihr grimmige Blicke zu und <seg id="12" type="intExpr">rief</seg> immerfort:</seg> <said id="12" mode="direct" content="speech" level="1">"Ich bin der König von Maroccoco."</said> Sie traute sich darum anfangs gar nicht, ihn anzugreifen; endlich aber faßte sie sich ein Herz, und wie sie ihn über die Straße vor den Richter führte, <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">rief</seg> <seg id="13" type="speaker">er</seg> noch immerfort:</seg> <said id="13" mode="direct" content="speech" level="1">"Ich bin der König von Maroccoco."</said> Da rissen einige andere reiche <seg id="14" type="speaker">Handelsherren</seg> das Fenster auf und <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">riefen</seg> dem Kaufmann, der den König von Marocco vor den Richter führen ließ, <seg id="14" type="intExpr">zu</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">"Ei, ei, einem solchen Manne solltet Ihr doch wol ein paar Jahre Credit geben, was soll denn aus unsern Handelsbeziehungen mit Marocco werden, wenn der König von Marocco hier so vor den Kopf gestoßen wird?"</said> 
+                  So kam der Gefangene vor den Richter, <said id="15" mode="reported" content="speech" level="1">da <seg id="15" type="intExpr">antwortete</seg> 
+<seg id="15" type="speaker">er</seg> auf alle Fragen nur J-a.</said> Und wenn sie ihn in Hamburg noch nicht frei gelassen haben, <said id="16" mode="reported" content="speech" level="1" nonfact="yes">so <seg id="16" type="intExpr">sagt</seg> <seg id="16" type="speaker">er</seg> vor Gericht noch immer J-a.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

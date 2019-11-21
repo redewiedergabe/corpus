@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Mandanenwaise</title>
+             <author>Möllhausen, Balduin</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Moellhausen,_Balduin_Die_Mandanenwaise.tg4_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Mandanenwaise</f>
+         <f name="author">Möllhausen, Balduin</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Ja, Herr Oberstlieutenant, es ist der arme Anton.«</said> 
+                        <said id="2" mode="direct" content="speech" level="1">»Um Gottes willen, Freund, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">sage</seg> mir,</seg> <said id="3" mode="indirect" content="speech" level="2" nonfact="yes"><seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">weißt</seg> <seg id="4 3" type="speaker">Du</seg> etwa,</seg> <said id="4" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">wo Herr Wandel sich zur Zeit aufhält?</said></said>«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">fragte</seg> der <seg id="2" type="speaker">Oberstlieutenant</seg> heimlich</seg>, sein Pferd dicht zu <seg id="1 5" type="speaker">Anton</seg> heranlenkend. 
+                        
+                           <said id="5" mode="direct" content="speech" level="1">»Ja, Herr Oberstlieutenant, <said id="6" mode="reported" content="thought" level="2" border="yes"><seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">weiß</seg> es?</said>«</said> 
+                        <said id="7" mode="direct" content="speech" level="1">»Dich sendet der Himmel selber, und es soll Dir nicht unbelohnt bleiben,«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">fuhr</seg> mein <seg id="7" type="speaker">Vormund</seg> dringend <seg id="7" type="intExpr">fort</seg>, </seg><said id="7" mode="direct" content="speech" level="1">»<said id="27" mode="reported" content="speech" level="2" nonfact="yes">wenn <seg id="27" type="speaker">Du</seg> ihm eine <seg id="27" type="intExpr">Botschaft</seg> von mir überbringst</said>, das heißt, ganz genau so, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">wie <seg id="9" type="speaker">ich</seg> sie Dir <seg id="9" type="intExpr">vorsagen</seg> werde</said>; denn es handelt sich um Leben und Tod, Schlingel, <seg id="10" type="frame" pos="start">und <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">weiß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2">Du hast eine treue Seele und läßt Dich für meinen armen Jungen in Stücke hacken.</said>«</said> 
+                       <said id="11" mode="direct" content="speech" level="1"> »Ja – ja – ja –«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">stotterte</seg> <seg id="11" type="speaker">Anton</seg></seg>, <said id="12" mode="reported" content="speech" level="1" nonfact="yes">mehr <seg id="12" type="intExpr">brachte</seg> <seg id="12" type="speaker">er</seg> nicht <seg id="12" type="intExpr">hervor</seg></said>, denn im nächsten Augenblick legte ich meine Hand aus meines Vormundes Knie. 
+                        <said id="13" mode="direct" content="speech" level="1">»Ich bin selbst hier, <said id="28" mode="reported" content="speech" level="2" nonfact="yes">um <seg id="28" type="speaker">Ihre</seg> <seg id="28" type="intExpr">Botschaft</seg> in Empfang zu nehmen</said>,«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">jagte</seg> <seg id="13" type="speaker">ich</seg></seg>, innigst gerührt über meines treuen väterlichen Freundes wahrhaft zärtliche Zuneigung, die in demselben Grade zu wachsen schien, in welchem die Ungewitter sich drohend über mir zusammenzogen. 
+                        <said id="16" mode="direct" content="speech" level="1">»<seg id="15" type="frame" pos="start">Habe <seg id="15" type="speaker">ich</seg> es doch <seg id="15" type="intExpr">geahnt</seg>,</seg> <said id="15" mode="indirect" content="thought" level="2">daß ich Dich vor Deiner Abreise noch sehen würde</said>,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">versetzte</seg> der <seg id="16" type="speaker">Oberstlieutenant</seg> sich zu mir niederneigend</seg> und seinen Arm um meinen Hals legend; <said id="16" mode="direct" content="speech" level="1">»hättest mir viel Angst und Sorge ersparen können, wenn Du gleich aufgebrochen wärest,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">fuhr</seg> <seg id="16" type="speaker">er</seg> mit weicher Stimme <seg id="16" type="intExpr">fort</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»aber laß nur gut sein, Junge ich zürne Dir deshalb nicht. <said id="17" mode="indirect" content="speech" level="2">So wie ich Dich kenne</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">sagte</seg> <seg id="17" type="speaker">ich</seg> mir vorher,</seg> <said id="17" mode="indirect" content="speech" level="2">Du würdest die Heimath nicht verlassen, ohne das Grab unserer braven Johanna besucht zu haben.</said> Hast ganz recht gehabt, mein Sohn; hätt' es an Deiner Stelle ebenso gemacht, und wenn mir eine Schwadron Chasseure auf den Pelz gerückt wäre. Mordelement! Junge, jetzt aber hält Dich nichts mehr zurück; Du mußt, und mußt und mußt fort, <said id="18" mode="reported" content="speech" level="2">es ist der letzte <seg id="18" type="intExpr">Befehl</seg>, den <seg id="18" type="speaker">ich</seg> Dir in diesem Leben <seg id="18" type="intExpr">ertheile</seg></said>, und im Himmel? hahaha! <said id="19" mode="reported" content="thought" level="2" nonfact="yes" prag="yes"><seg id="19" type="speaker">wer</seg> <seg id="19" type="intExpr">weiß</seg></said>, wenn wir uns dort wiedersehen, hast Du Dich vielleicht zu einer Stellung emporgeschwungen, <said id="29" mode="reported" content="speech" level="2" nonfact="yes">die <seg id="29" type="speaker">mir</seg> das <seg id="29" type="intExpr">Befehlen</seg> schon ganz von selbst verbietet</said>, hahaha!«</said> 
+                        Der alte Herr versuchte einen heiteren Ton anzunehmen, aber sein Lachen klang harsch und erzwungen, und auf meine Hand, die er fest in der seinigen hielt, fiel ein warmer Thautropfen, der nur in seinem einzigen guten, treuen Auge seinen Ursprung gehabt haben konnte. Ach, <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">er</seg> <seg id="21" type="intExpr">wußte</seg>, <seg id="21" type="speaker">er</seg> <seg id="21" type="intExpr">ahnte</seg> nicht,</seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">welche Wohlthat die Beweise seiner väterlichen Liebe für mich waren, wie sie mich aufrichteten und mich zuerst wieder ans Leben zu fesseln begannen.</said> 
+                        <said id="22" mode="direct" content="speech" level="1">»Ich bin bereits auf der Flucht,«</said> <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">antwortete</seg> <seg id="22" type="speaker">ich</seg> dem <seg id="25" type="speaker">Oberstlieutenant</seg> auf <said id="30" mode="reported" content="speech" level="1"><seg id="30" type="speaker">seine</seg> herzliche <seg id="30" type="intExpr">Anrede</seg></said>,</seg> <said id="22" mode="direct" content="speech" level="1">»und wenn das Glück mir günstig ist, <seg id="24" type="frame" pos="start"><seg id="24" type="intExpr">hoffe</seg> <seg id="24" type="speaker">ich</seg></seg> <said id="24" mode="indirect" content="thought" level="2">morgen um diese Zeit weit, weit fort von hier zu sein.</said>«</said> 
+                        <said id="25" mode="direct" content="speech" level="1">»Es ist Dir günstig gewesen, oder Du ständest jetzt nicht frei vor mir, es ist Dir günstig gewesen, Mordelement! oder es wäre mir nicht gelungen, heute Abend noch ein Boot und zwei sichere Leute zu miethen, die Dich innerhalb weniger Stunden bis nach Cöln hinunterschaffen, wo Du dann Dein Heil auf eigene Hand weiter versuchen mußt. Ja, mein Junge, ich habe heute für Dich gezittert und zwar aus Furcht, was mir wählend meiner ganzen Dienstzeit nicht passirte, ausgenommen, wenn der Magen leer war und zehn Grad Kälte und noch mehr uns des Nachts zudeckten.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

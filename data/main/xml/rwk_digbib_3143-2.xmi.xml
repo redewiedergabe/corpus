@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Märchen von den drei Spinnfrauen</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Das_Maerchen_von_den_drei_Spinnfrauen.tg261_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Das Märchen von den drei Spinnfrauen</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Als nun die Hochzeit heranrückte, so kam er eines Sonntags zu ihr und ließ sich zehn Pfund Flachs nachtragen. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Er</seg> umarmte sie und <seg id="1" type="intExpr">sprach</seg>: </seg><said id="1" mode="direct" content="speech" level="1">»Kannst du diesen Flachs zum feinen Faden verspinnen, dein goldenes Haar würde mir noch einmal so lieb sein. Hast du's fertig zum Sonnabend, so soll die Hochzeit sein.«</said> Dann ging er fort; <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">sie</seg> aber <seg id="2" type="intExpr">wußte</seg> sich keinen Rat,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wer ihr die große Menge Flachs in so kurzer Zeit verspinnen sollte</said>, und ging hinaus auf den Weg und weinte. Wie sie so eine Strecke gegangen war, kam sie an eine Hütte; als sie die Tür aufgemacht hatte, sah sie drinnen eine Frau am Spinnrad sitzen, die hatte Lippen, die waren so – lang. Das Mädchen erschrak gar heftig vor dieser Gestalt; <seg id="3" type="frame" pos="start">denn die <seg id="3" type="speaker">Alte</seg> <seg id="3" type="intExpr">brummte</seg> böse vor sich weg,</seg> <said id="3" mode="indirect" content="speech" level="1">was sie bei ihr zu suchen habe.</said> <seg id="4" type="frame" pos="start">Bald aber faßte <seg id="4" type="speaker">sie</seg> sich einen Mut und <seg id="4" type="intExpr">sprach</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Ach! liebe Frau, ich sehe, daß Ihr gar tätig und kunstvoll seid; wolltet Ihr mir diesen Flachs nicht verspinnen bis zum Sonnabend der Woche? Ich will Euch gerne das Pfund mit einer baren Mark bezahlen.«</said> <seg id="6" type="frame" pos="start">Die <seg id="6" type="speaker">Alte</seg> besah den Flachs und <seg id="6" type="intExpr">sagte</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">das sei unmöglich, soviel Flachs in einer Woche.</said> <said id="20" mode="reported" content="speech" level="1"><seg id="8" type="frame" pos="start">Da fiel das <seg id="8 7" type="speaker">Mädchen</seg> vor ihr auf die Knie und <seg id="8 7" type="intExpr">erzählte</seg></seg> ihr alles </said>und <said id="8" mode="indirect" content="speech" level="1">daß sie sonst keinen Mann bekommen würde.</said> Als die Alte das hörte, <seg id="9" type="frame" pos="start">schlug <seg id="9" type="speaker">sie</seg> in sich und <seg id="9" type="intExpr">sagte</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»Steh nur auf, Töchterchen, der Flachs soll versponnen werden; aber da muß ich deinen Ehrentag doch mitmachen.«</said> Das Mädchen ward so froh, <said id="10" mode="reported" content="speech" level="1">daß <seg id="10" type="speaker">sie</seg> alles <seg id="10" type="intExpr">versprach</seg></said>, und ging dann ihren Weg wieder nach Haus. 
+                  Am Sonnabend hatte sie das schönste Garn im Hause, und als am Sonntage der Bräutigam kam, da freuete er sich über den Faden, der fast so fein war und so golden war als das Haar seiner Braut; aber er ward durch das saubre Gespinste nur immer begieriger und konnte sein Herz nicht zufriedengeben. <seg id="11" type="frame" pos="start">Daher küßte <seg id="11" type="speaker">er</seg> seine Braut und <seg id="11" type="intExpr">sprach</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»Noch diese sechzehn Pfund zum nächsten Sonnabend, dann soll die Hochzeit sein.«</said> Damit ging er fort; die Braut aber ging in Traurigkeit den alten Weg hinaus und ging die erste Hütte vorbei und kam zu einer zweiten. Sie stieß die Tür auf und trat hinein; da saß drinnen eine alte Frau am Spinnrad, die hatte eine Nase, die war wohl eine Elle lang. Marie aber hatte sie mit der Tür an ihre große schöne Nase gestoßen; <said id="12" mode="reported" content="speech" level="1">darüber <seg id="12" type="intExpr">schrie</seg> und <seg id="12" type="intExpr">schalt</seg> die <seg id="12" type="speaker">Frau</seg></said> und war ganz braunrot im Gesicht, und die Nase schwoll ihr wie eine Blutwurst. <said id="19" mode="reported" content="speech" level="1"><seg id="18" type="frame" pos="start">Das <seg id="18 17 15" type="speaker">Mädchen</seg> aber faßte sich einen Mut und <seg id="18 17" type="intExpr">erzählte</seg> ihr</seg> alles,</said> <said id="18" mode="indirect" content="speech" level="1">wie es war, und daß sie keinen Mann bekäme, wenn das Garn nicht gesponnen wäre zum Sonnabend der Woche</said>, <said id="15" mode="reported" content="speech" level="1">und <seg id="15" type="intExpr">bot</seg> ihr zwanzig Schilling Spinnerlohn das Pfund.</said> <seg id="16" type="frame" pos="start">Die <seg id="16" type="speaker">Frau</seg> besah den Flachs und <seg id="16" type="intExpr">sagte</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">es sei unmöglich; aber wenn sie mit auf ihrer Hochzeit tanzen dürfe, so wolle sie es versuchen.</said> Da ward das Mädchen froh und ging heim, und am Sonnabend hatte sie das schönste Garn im Hause, noch ebener, als das erste war.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

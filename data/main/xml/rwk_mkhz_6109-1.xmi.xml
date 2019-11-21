@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Präsident Andrew Johnson und General Philipp H.Sheridan. (Schluß.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt04_1868_10.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Präsident Andrew Johnson und General Philipp H.Sheridan. (Schluß.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Biographie</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Der Bruder, John L. Sheridan, ist Advokat in Columbus, der Hauptstadt des
+                        Staates Ohio, und der jüngste Bruder, Michael V. Sheridan, ist Offizier
+                        in der regulären Armee und steht in New=Orleans. Die Aeltern Sheridans stammen Beide aus Jrland; sein ältester Bruder wurde daselbst
+                        geboren. Philipp kam im Februar 1831 zur Welt, nachdem seine Aeltern
+                        im Jahre 1829 nach Amerika eingewandert waren; <said id="1" mode="reported" content="speech writing" level="1">über seinen Gebursort
+                        lauten die <seg id="1" type="intExpr">Nachrichten</seg> verschieden, indem er nach Einigen in Massachusetts,
+                        nach Anderen im Staate New=York, noch nach Anderen im Staate Ohio
+                        geboren sein soll.</said> Die ersten Jugendjahre Philipps gingen in gleicher
+                        Weise vorüber, wie bei anderen Knaben in ähnlichen Umständen. Ein
+                        Eisenwaarenhändler Namens Talbot nahm ihn frühzeitig in sein Geschäft,
+                        und Sheridan verblieb daselbst etwa zwei Jahre. Alsdann trat er in das
+                        Ellenwaarengeschäft des Herrn D. Whitehead zu Somerset, der Hauptstadt
+                        von Perry County, und erwarb sich durch Fleiß und Ordnungsliebe den
+                        Beifall und das Vertrauen seines Prinzipals. Hier lenkte er die Aufmerksamkeit eines fünf englische Meilen von Somerset wohnenden Farmers
+                        auf sich, der früher Soldat gewesen war und später Perry County als
+                        Abgeordneter im Kongreß vertrat. <seg id="2" type="frame" pos="start">Dieser <seg id="2" type="speaker">Kongreßmann</seg> <seg id="2" type="intExpr">glaubte</seg></seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">in dem
+                        jungen Sheridan soldatische Anlagen zu entdecken</said>, und verschaffte demselben im Jahre 1848 eine Stelle in der bekannten Kadettenschule zu
+                        West Point. Sheridan war damals noch so klein, <seg id="3" type="frame" pos="start">daß der <seg id="3" type="speaker">Advokat</seg>,
+                        welcher die betreffenden Papiere ausfertigte, <seg id="3" type="intExpr">erklärte</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1"><seg id="4" type="frame" pos="start"><seg id="4" type="speaker">er</seg> <seg id="4" type="intExpr">glaube</seg> kaum,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes">daß
+                        man einen so winzigen Burschen in die genannte Kadettenschule aufnehmen
+                        werde.</said></said> Es geschah aber glücklicherweise dennoch, und Sheridan gab sich
+                        dem Studium der militärischen Wissenschaften mit einem solchen Eifer
+                        hin, daß er im Jahre 1853 ein glänzendes Offizier=Examen machte und
+                        nach kurzer Zeit eine Lieutenantsstelle in einem westlich von den Felsengebirgen stationirten Regiment erhielt. Verschiedene Kämpfe mit den Jndianern gaben ihm wiederholt Gelegenheit, sich auszuzeichnen, und als im
+                        Jahre 1861 der Bürgerkrieg ausbrach und viele Offiziere der regulären
+                        Armee zu den Rebellen übergingen, da blieb Sheridan <said id="11" mode="reported" content="speech" level="1"><seg id="11" type="speaker">seinem</seg> <seg id="11" type="intExpr">Eid</seg></said> und
+                        der Union getreu und betrat die Laufbahn, welche ihm für alle Zeiten
+                        einen Platz unter den fähigsten Reiter=Generalen, von denen die Geschichte
+                        weiß, sichern sollte. <said id="5" mode="reported" content="writing" level="1" nonfact="yes">Es ist hier nicht der Ort, seine Heldenthaten auf den
+                        Schlachtfeldern von Missouri, Tennessee und Virginien <seg id="5" type="intExpr">aufzuzählen</seg></said>, <seg id="6" type="frame" pos="start">nur
+                        das wollen <seg id="6" type="speaker">wir</seg> <seg id="6" type="intExpr">erwähnen</seg>,</seg> <said id="6" mode="indirect" content="speech writing" level="1">daß er wesentlich zu der Uebergabe des RebellenGenerals Robert E. Lee an U. S. Grant beitrug und stets das vollste
+                        Vertrauen des größten Feldherrn der Union genoß.</said>
+            Nach seiner Amtsentsetzung durch Andrew Johnson besuchte Sheridan
+                        verschiedene große Städte der Union. Als er nach St. Louis in Missouri,
+                        woselbst er lange Zeit ruhmvoll gewirkt, kam, wurde er von einer ungeheuren Volksmenge mit ungeheurem Jubel begrüßt, <said id="7" mode="reported" content="speech" level="1">und <seg id="7" type="speaker">Karl Schurz</seg>,
+                        der Befreier Gottfried Kinkels, hielt eine englische <seg id="7" type="intExpr">Anrede</seg> an den Helden</said>,
+                        <said id="8" mode="reported" content="writing" level="1">aus der <seg id="8" type="speaker">wir</seg> in der Uebersetzung einige Stellen hier <seg id="8" type="intExpr">mittheilen</seg> wollen.</said>
+                        <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Schurz</seg> <seg id="9" type="intExpr">sagte</seg> unter Anderem:</seg> <said id="9" mode="direct" content="speech" level="1">„In Ihnen, Herr General, erkennt das Volk
+                        mehr als einen Mann, der nur das Schwert zu führen, feindliche Bataillone niederzureiten und Heeresmassen in der Schlacht zu lenken versteht; in Jhnen ehrt das amerikanische Volk das glorreiche Muster eines
+                        amerikanischen Soldaten, des Soldaten, der nicht eine gedankenlose Maschine eines höheren Willens ist, <seg id="10" type="frame" pos="start">sondern <seg id="10" type="speaker">der</seg> <seg id="10" type="intExpr">weiß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2">für was er kämpft</said>,
+                        und dessen tapfere Seele nicht rastet, bis der Sieg seiner Waffen auch
+                        seinen wahren Werth in dem gesicherten Triumph einer großen Jdee
+                        empfangen hat.“</said>
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

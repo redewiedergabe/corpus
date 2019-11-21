@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Maßgebliches und Unmaßgebliches</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341879_295218.txt_43.xml</f>
+         <f name="year">1904</f>
+         <f name="decade">1900</f>
+         <f name="title">Maßgebliches und Unmaßgebliches</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Schmutzarbeit mögen die »verdammten Ausländer« verrichten.<seg id="1" type="frame" pos="start"> <seg id="1" type="speaker">Man</seg><seg id="1" type="intExpr"> fragt</seg> sich,</seg> <said id="1" mode="indirect" content="thought" level="1">wohin das führen soll.</said> Rom konnte die Erde
+                        ausplündern, weil es den orbis terrarum mit seinen Legionen zur Lieferung von
+                        Sklaven zwang. England will die Tribute des Planeten, auf denen der Luxus
+                        seiner Lebensführung beruht, durch seinen Kapitalismus erzwingen. Wie lange
+                        werden sich diesen die übrigen Völker gefallen lassen?"
+                         
+               <said id="2" mode="reported" content="speech" level="1" border="yes"><seg id="2" type="speaker">Peters</seg> <seg id="2" type="intExpr">nennt</seg> es nämlich, abweichend vom gewöhnlichen Sprachgebrauch,
+                        Kapitalismus</said>, daß das englische Nationaleinkommen jetzt nicht mehr aus dem Überschuß des Exports über den Import, also aus der heimischen Arbeit, sondern aus
+                        den im Auslande angelegten Kapitalien fließt; wozu dann noch der Reedereigewinn
+                        kommt und die Ausbeutung Indiens. An dieser Klippe droht das stolze Schiff der
+                        englischen Staats- und Volkswirtschaft zu zerschellen. <seg id="3" type="frame" pos="start">Oder kann <seg id="3" type="speaker">man</seg> auch <seg id="3" type="intExpr">sagen</seg>,</seg>
+                       <said id="3" mode="indirect" content="speech" level="1"> hier hat die Autarkie ein großes Loch, das nur durch Wiedereinführung der Negersklaverei zugestopft werden könnte.</said> Den Negern würden sich dann wohl noch
+                        chinesische Kulis zugesellen. Wir könnten uns also damit trösten, es sei auf diese
+                        Weise dafür gesorgt, daß der angelsächsische Baum nicht in den Himmel wachse,
+                        wenn wir viel Ärmern uns nicht schon ganz in derselben Richtung entwickelten.
+                        Sie wird am deutlichsten dadurch gekennzeichnet, daß die Landwirtschaft der östlichen Provinzen bloß noch durch die Zulassung polnischer Wanderarbeiter aus
+                        Rußland im Gange erhalten werden kann.
+            
+            
+               Krauskopf. 
+               Von diesem Roman, <said id="4" mode="reported" content="writing" level="1">dessen ersten Teil <seg id="4" type="speaker">wir</seg> im vorjährigen
+                        44. Heft als ein köstliches Buch und als eine ausgezeichnete kinderpsychologische
+                        Studie <seg id="4" type="intExpr">charakterisiert</seg> haben</said>, ist nun im Verlage von Fr. Wilh. Grunow in Leipzig
+                        ein „zweites Buch" erschienen. Der Verfasser läßt Detmar in die Rektoratsschule
+                        seines Wohnorts eintreten, deren Leiter Terflot zwar katholischer Priester, aber kein
+                        Ultramontaner ist. Da bei ihm die wissenschaftlichen und die ästhetischen Interessen
+                        vorwiegen, berühren ihn die religiösen Kämpfe der Zeit nur wenig. Er erschließt
+                        Detmars entzückten Blicken die Wunder der Natur und der Geisteswelt, und seine
+                        kühle Art ist verbunden mit der strammen Arbeit,<said id="5" mode="reported" content="speech" level="1"> die <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">fordert</seg></said>, heilender Balsam
+                        für Detmars Herz, das durch eine zwar reine und ideale, aber doch allzu frühe
+                        Liebe an Sentimentalität zu erkranken droht, während ihn zugleich der Zelot
+                        <seg id="6 7" type="speaker">Sauvage</seg> durch <said id="6" mode="reported" content="speech" level="1">die <seg id="6" type="intExpr">Beichtfolter</seg></said> und <said id="7" mode="reported" content="speech" level="1" nonfact="yes">die <seg id="7" type="intExpr">Verweigerung</seg> der Absolution</said> zur Verzweiflung bringt. <said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Denn der <seg id="8" type="speaker">Knabe</seg> <seg id="8" type="intExpr">weiß</seg> nichts von all den Nichtswürdigkeiten,
+                        die des Kaplans Liguoriphantasie hinter der unschuldigen Zärtlichkeit für das engel- und elfenhafte Zigeunerkind im Walde wittert</said>, und <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Detmar</seg> hat, ehrlich wie immer,
+                        <seg id="9" type="intExpr">erklärt</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">daß er von seiner Liebe nicht lassen könne noch wolle.</said> <seg id="10" type="frame" pos="start">Aber <seg id="10" type="speaker">er</seg> hält das
+                        dem Vater gegebne<seg id="10" type="intExpr"> Wort</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1">seine Traute nicht mehr zu besuchen.</said> Die Übersiedlung
+                        in die Erziehungsanstalt Gaisfurt, deren Lehrer wiederum Geistliche, aber ebenfalls
+                        verständige und tüchtige Pädagogen sind, erlöst ihn aus allen heimischen Nöten.
+                        Er macht nun nicht allein in den Wissenschaften gute Fortschritte, sondern wird
+                        auch so kirchlich fromm,<said id="11" mode="reported" content="speech" level="1" nonfact="yes"> daß <seg id="11" type="speaker">er</seg> mit fünfzehn Jahren schon die Klostergelübde <seg id="11" type="intExpr">ablegen</seg> will</said>, wird jedoch von seinen Lehrern ausgelacht. Der edle Rektor hat den
+                        Grundsatz: ganz katholisch oder gar nicht katholisch. Er achtet die Menschen, die
+                        aus ehrlicher Überzeugung der Kirche den Rücken kehren, und verachtet die Kompromißkatholiken. <seg id="12" type="frame" pos="start">Da <seg id="12" type="speaker">ihn </seg>nun <said id="14" mode="reported" content="speech" level="1">die <seg id="14" type="intExpr">Bekenntnisse</seg> des wie immer vollkommen offenherzigen und wahren <seg id="14" type="speaker">Detmar</seg></said><seg id="12" type="intExpr"> überzeugen</seg>,</seg><said id="12" mode="indirect" content="thought" level="1"> daß dieser geniale Knabe nicht in den
+                        Schafstall paßt, sondern einmal mit seinem selbstdenkenden Kopfe seinen eignen Weg
+                        gehn wird</said>, <seg id="13" type="frame" pos="start">so<seg id="13" type="intExpr"> bittet</seg> <seg id="13" type="speaker">er</seg> den Vater,</seg> <said id="13" mode="indirect" content="speech" level="1">seinen Sohn von der Anstalt wegzunehmen, aus
+                        der nur strenggläubige Katholiken hervorgehn sollen.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

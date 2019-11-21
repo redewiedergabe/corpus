@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Fähnlein der sieben Aufrechten</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Faehnlein_der_sieben_Aufrechten.tg823_1.xml</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Fähnlein der sieben Aufrechten</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Also sei es!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">riefen</seg> <seg id="1" type="speaker">alle</seg></seg> und stießen mit Karl an; der leerte etwas unbesonnen sein volles Glas, was ihm jedoch die Alten in Betracht der aufgeregten Stunde hingehen ließen, ohne zu murren. 
+                  Nachdem die Gesellschaft sich durch das Frühstück hinlänglich von ihrem Abenteuer erholt, zerstreute sie sich. Die einen gingen, ein paar Schüsse zu probieren, die andern, den Gabensaal und die übrigen Einrichtungen zu besehen, und Frymann ging, seine Tochter und die Frauen zu holen, bei denen sie zu Gast war; denn zum Mittagessen wollten sich alle wieder an dem Tische finden, der ziemlich in der Mitte der Halle und im Bereich der Tribüne gelegen war. <said id="2" mode="reported" content="thought" level="1" border="yes"><seg id="2" type="speaker">Sie</seg> <seg id="2" type="intExpr">merkten</seg> sich die Nummer</said> und gingen höchst wohlgemut und aller Sorgen ledig auseinander. 
+                  
+                     
+Genau um zwölf Uhr saß die Tischgesellschaft von einigen tausend Köpfen, welche jeden Tag andere waren, am gedeckten Tische. Landleute und Städter, Männer und Weiber, Alte und Junge, Gelehrte und Ungelehrte, alle saßen fröhlich durcheinander und harrten auf die Suppe, indem sie die Flaschen entkorkten und das Brot anschnitten. Nirgends blickte ein hämisches Gesicht, nirgends ließ sich ein Aufschrei oder ein kreischendes Gelächter hören, sondern nur gleichmäßig verbreitet das hundertfach verstärkte Gesumme einer frohen Hochzeit, der gemäßigte Wellenschlag einer in sich vergnügten See. Hier ein langer Tisch voll Schützen, dort eine blühende Doppelreihe von Landmädchen, am dritten Tisch eine Zusammenkunft sogenannter alter Häuser aus allen Teilen des Landes, die das Examen endlich überstanden hatten, und am vierten ein ganzes ausgewandertes Städtlein, Männer und Frauen durcheinander. Doch diese sitzenden Heerscharen bildeten nur die Hälfte der Versammlung; ein ununterbrochener Menschenzug, ebenso zahlreich, strömte als Zuschauer durch die Gänge und Zwischenräume und umkränzte, ewig wandelnd, die Essenden. Es waren, Gott sei Preis und Dank, die <seg id="3" type="speaker">Vorsichtigen</seg> und <seg id="3" type="speaker">Sparsamen</seg>, <said id="3" mode="reported" content="thought" level="1">die sich die Sache <seg id="3" type="intExpr">berechnet</seg></said> und anderswo für noch weniger Geld gesättigt hatten, die Nationalhälfte, welche alles billiger und enthaltsamer bewerkstelligt, während die andere so schrecklich über die Schnur haut; ferner die Allzuvornehmen, die der Küche nicht trauten und denen die Gabeln zu schlecht waren, und endlich die Armen und die Kinder, welche unfreiwillig zuschauten. <said id="4" mode="reported" content="speech" level="1" nonfact="yes">Aber <seg id="4" type="speaker">jene</seg> machten keine schlechten <seg id="4" type="intExpr">Bemerkungen</seg></said>, und diese zeigten weder zerrissene Kleider noch böse Blicke; sondern die Vorsichtigen freuten sich über die Unvorsichtigen, der Vornehmling, welchem die Schüsseln voll grüner Erbsen im Juli zu lächerlich waren, ging ebenso wohlgesinnt einher wie der Arme, dem sie verführerisch in die Nase dufteten. Hie und da freilich zeigte sich ein sträflicher Eigennutz, indem es etwa einem filzigen Bäuerlein gelang, unbesehens einen verlassenen 
+Platz einzunehmen und frischweg mit zu essen, ohne bezahlt zu haben; und was noch schlimmer war für ordnungsliebende Augen, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">es entstand deswegen nicht einmal ein <seg id="5" type="intExpr">Wortwechsel</seg></said> und ein Hinauswerfen. 
+                  Der oberste Festwirt stand vor dem weiten Küchentor und blies auf einem Jägerhörnchen das Zeichen zum Auftragen eines Gerichtes, worauf eine Kompanie Aufwärter hervorbrach und sich mit künstlich eingeübter Schwenkung rechts, links und gradaus zerstreute. Einer derselben fand seinen Weg zu dem Tische, an welchem die Aufrechten und Festen saßen, unter ihnen Karl, Hermine und ihre Freundinnen, Basen oder was sie sein mochten.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

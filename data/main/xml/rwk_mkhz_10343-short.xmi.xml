@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Cholerain Oesterreich.Die Cholerain Budapest.Die Cholerain Hamburg.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1892_10_24.txt_17.xml</f>
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Cholerain Oesterreich.Die Cholerain Budapest.Die Cholerain Hamburg.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Telegramme
+                        des „Mährischen Tagblattes“.
+                        
+            
+            
+               (Vom Correspondenz-Bureau.)
+                        
+            
+            
+               
+                  Die Cholera in Oesterreich.
+                        
+               
+               
+                  Wien, 23. October. date
+               In Piaski wielkie
+                        kamen neuerdings 3 Erkrankungen an Cholera
+                        vor. Die Gesammtzahl der Krankheitsfälle daselbst
+                        beträgt daher 19. In Rusočice, Bezirk Krakau,
+                        weichselaufwärts starb ein aus Thorn in Preußen
+                        krank heimgekehrter Weichselflösser an Cholera.
+                        In Vrabsko, Bezirk Pisek, hat sich kein neuer
+                        Cholerafall ereignet.
+            
+            
+               
+                  Die Cholera in Budapest.
+                        
+               
+               
+                  Budapest, 23. October. date
+               <seg id="1" type="frame" pos="start">Das <seg id="1" type="speaker">Amtsblatt</seg>
+                        <seg id="1" type="intExpr">veröffentlicht</seg> folgenden Cholerabericht:</seg> <said id="1" mode="direct" content="writing" level="1">In Budapest sind am 21. October 24 Neuerkrankungen
+                        und 15 Todesfälle vorgekommen, in Török-Besse
+                        5 Erkrankungen, 1 Todesfall, in Mohol, Tolna
+                        und Szegezard je eine Erkrankung, in Farkasterek 1 Erkrankung, 1 Todesfall. Der in PetrovoSzellö vorgekommene Fall erwies sich als Nichtcholerafall.</said>
+            
+            
+               
+                  Die Cholera in Hamburg.
+                        
+               
+               
+                  Hamburg, 23. October. date
+               (Cholerabericht.)
+                        <said id="2" mode="reported" content="writing" level="1">Gestern kamen 7 Erkrankungen und kein Todesfall zur <seg id="2" type="intExpr">Anzeige</seg>.</said> <said id="3" mode="reported" content="writing" level="1">Hievon entfallen 2 Erkrankungen
+                        auf <seg id="3" type="intExpr">Nachmeldungen</seg></said>; transportirt wurden fünf
+                        Erkrankte und ein Todter.
+            
+            
+            
+               
+               
+                  
+                     Berlin, 23. October. date
+                  Der Kaiser empfing
+                        heute den österr.-ung. Botschafter Grafen Szechenyi
+                        im Beisein des Staatssecretärs Freiherrn von
+                        Marschall sowie des Einführers des diplomatischen Corps, Kammerherrn von Usedom. Nach der
+                        Abschiedsaudienz begab sich der Botschafter <said id="4" mode="reported" content="speech writing" level="1">über
+                        <seg id="4" type="intExpr">Einladung</seg> der <seg id="4" type="speaker">Majestäten</seg></said> zu einer größeren
+                        Tafel, an der der Kaiser, die Kaiserin, die in
+                        Berlin weilenden fürstlichen Gäste, die Mitglieder
+                        der österr.-ung. Botschaft, ferner Frh. v. Marschall
+                        und v. Usedom theilnahmen.
+               
+               
+                  
+                     Kehlheim, 23. October. date
+                  Bei der Wahl
+                        für den Reichstag wurde Rauchenecker mit 4218
+                        Stimmen gewählt; Sigl blieb mit 4094 Stimmen
+                        in der Minorität.
+               
+               
+                  
+                     Hamburg, 23. October. date
+                  Branddirector
+                        Kipping ist in Folge der beim gestrigen Brande
+                        erlittenen Verletzungen heute Nachts gestorben.
+               
+               
+                  
+                     Carmaux, 23. October. date
+                  Der Maire Calvignac ist über <said id="5" mode="reported" content="speech writing" level="1"><seg id="5" type="intExpr">Ersuchen</seg> des <seg id="5" type="speaker">Ministers Loubet</seg></said>
+                        nach Paris abgereist.
+               
+               
+                  
+                     Paris, 23. October. date
+                  <seg id="6" type="frame" pos="start">Wie das <seg id="6" type="speaker">„PetitJournal“</seg> <seg id="6" type="intExpr">meldet</seg>,</seg> <said id="6" mode="indirect" content="writing" level="1">soll gegen das Hauptlebensmitteldepot der Dahomiten einerseits von der
+                        Colonne des Obersten Dodds und andererseits
+                        von den, vom Senegal auf einer neuen Route
+                        heranrückenden Truppen ein Doppelangriff erfolgen.</said>
+               
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

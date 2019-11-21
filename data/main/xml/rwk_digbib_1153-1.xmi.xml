@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Spätgeborner</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Ein_Spaetgeborner.tg95_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Ein Spätgeborner</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Ah! Ah! ... Sie wohnen hier recht hübsch. Aussicht ein Dach, ein paar Schornsteine, zwischendurch ein bißchen Himmel.«</said> 
+                     <seg id="1" type="speaker">Er</seg> nahm den Hut ab und setzte sich in den Lehnstuhl, <seg id="2" type="frame" pos="start">den ihm <seg id="2" type="speaker">Andreas</seg> mit den <seg id="2" type="intExpr">Worten</seg> zurechtrückte:</seg> <said id="2" mode="direct" content="speech" level="1">»<seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Ich</seg> <seg id="3" type="intExpr">weiß</seg> nicht,</seg><said id="3" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"> was mir die Ehre verschafft ...</said>«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start">Der <seg id="5" type="intExpr">Wunsch</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2">Ihnen nützlich zu sein.</said> – Eine Art von Reue!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> <seg id="4 5" type="speaker">Salmeyer</seg>.</seg> <seg id="6 10 14" type="speaker">Er</seg> schlug ein Bein über das andere, stützte den Ellbogen auf die Sessellehne, das Gesicht auf die Hand und sah den <seg id="9 12" type="speaker">Poeten</seg> mit gescheiten Augen an, in denen ein Strahl von wirklichem Wohlwollen glänzte. 
+                     <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2" nonfact="yes"><seg id="7 8" type="speaker">Ich</seg> will Ihnen einen <seg id="7" type="intExpr">Rat</seg> geben</said> und <said id="8" mode="reported" content="speech" level="2" nonfact="yes">einen <seg id="8" type="intExpr">Vorschlag</seg> machen.</said> Ich interessiere mich für Sie und bin bereit, Ihre Bestrebungen zu fördern.«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»Sie, mein Herr?«</said> 
+                     <said id="10" mode="direct" content="speech" level="1">»Zur Sache! – Haben Sie alle Rezensionen gelesen, <said id="11" mode="reported" content="writing" level="2">die über Ihr Stück <seg id="11" type="intExpr">geschrieben</seg> wurden?</said>«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Nein, <seg id="13" type="frame" pos="start">doch höre ich, </seg><said id="13" mode="indirect" content="speech" level="2" border="yes">daß sie fast ausnahmslos abfällig lauteten.</said>«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Nun denn! Daraus mögen Sie ersehen, daß sich heutzutage in der Literatur nichts machen läßt, wenn man nicht wenigstens einen Teil der Kritik für sich hat. Ein Buch, ein Stück hinausschicken in die Welt und denen, die ihm die Wege bahnen, einen Ruf machen sollen, <seg id="15" type="frame" pos="start">nicht <seg id="15" type="intExpr">sagen</seg>:</seg> <said id="15" mode="direct" content="speech" level="2" nonfact="yes">Nehmt euch meiner Arbeit an</said>, das ist so kühn, <said id="16" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="16" type="speaker">man</seg> es schwerlich klug <seg id="16" type="intExpr">nennen</seg> darf.</said>«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Aber ...«</said> <seg id="17" type="frame" pos="end">wollte <seg id="17" type="speaker">Andreas</seg> <seg id="17" type="intExpr">einwenden</seg>.</seg> 
+                     <said id="18" mode="direct" content="speech" level="1">»Erlauben Sie!«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">fiel</seg> ihm <seg id="18 19" type="speaker">Salmeyer</seg> <seg id="18" type="intExpr">ins Wort</seg>.</seg> <said id="19" mode="direct" content="speech" level="1">»Jeder Schaffende bedarf der Gunst der Kritik. Ein Tor, der sie verschmähte, wenn sie ihm angeboten wird.«</said> <seg id="20" type="speaker">Er</seg> machte eine kleine Pause und <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">sprach</seg> dann mit einer komisch huldvollen Bewegung:</seg> <said id="20" mode="direct" content="speech" level="1">»Sie bietet sich Ihnen an. Noch mehr, die Kritik nimmt Sie auf in ihre Genossenschaft ... Erlauben Sie!«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">wiederholte</seg> <seg id="20 22 24" type="speaker">er</seg></seg>, <said id="21" mode="reported" content="speech" level="1" nonfact="yes">da sich <seg id="21" type="speaker">Andreas</seg> von neuem anschickte, ihn zu <seg id="21" type="intExpr">unterbrechen</seg>.</said> <said id="22" mode="direct" content="speech" level="1">»Ich bin Redakteur des Feuilletons der Staatszeitung, ich öffne Ihnen die Spalten unseres Blattes.«</said> 
+                     <said id="23" mode="direct" content="speech" level="1">»Mir?!«</said> <seg id="23" type="frame" pos="end"><seg id="23" type="intExpr">rief</seg> <seg id="23 25" type="speaker">Andreas</seg>.</seg> 
+                     <said id="24" mode="direct" content="speech" level="1">»Warum nicht?«</said> 
+                     <said id="25" mode="direct" content="speech" level="1">»Weil ich ein langsamer Arbeiter, weil ich nicht schlagfertig bin.«</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Das ist im Anfange keiner – und dann, ich dränge Sie nicht. Liefern Sie mir nur jeden Monat einen Aufsatz über dies und das ... Historische Essays, ästhetische Aperçus, verwerten Sie Ihre Lesefrüchte. Sie können auch Kritiken bringen über neue Erscheinungen in der Literatur. Versuchen Sie sich einmal als Humorist; <seg id="27" type="frame" pos="start"><seg id="27" type="speaker">wer</seg> <seg id="27" type="intExpr">weiß</seg>,</seg> <said id="27" mode="indirect" content="thought" level="2" border="yes" prag="yes">ob Sie nicht, Ihnen selbst unbewußt, Talent zur Satire haben?</said> Es findet sich oft bei solchen zurückgezogenen, melancholischen Naturen wie die Ihre.«</said> 
+                     <said id="28" mode="direct" content="speech" level="1">»Spotten Sie meiner?«</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">fragte</seg> <seg id="28" type="speaker">Andreas</seg>.</seg> 
+                     <said id="29" mode="direct" content="speech" level="1">»Fällt mir nicht ein!«</said><seg id="29" type="frame" pos="end"> <seg id="29" type="intExpr">erwiderte</seg> <seg id="26 29 30" type="speaker">Salmeyer</seg> ungeduldig.</seg> <said id="30" mode="direct" content="speech" level="1">»<seg id="31" type="frame" pos="start"><seg id="31" type="speaker">Ich</seg> <seg id="31" type="intExpr">sagte</seg> schon,</seg> <said id="31" mode="indirect" content="speech" level="2">daß ich mich Ihnen hilfreich erweisen will ... </said>Mein Handwerk ist, die Leute zu unterhalten oder zu plagen ... Ihnen will ich Gutes tun. Schlagen Sie Kapital aus dieser Velleität. – Ein rascher Entschluß! Nehmen Sie meinen Antrag an. Wenn Sie Fuß fassen in der Kritik, ist Ihre Schriftstellerlaufbahn gesichert. <said id="32" mode="reported" content="writing" level="2" nonfact="yes">Ihr Drama wird in allen Zeitschriften, die mit uns in Verbindung stehen, <seg id="32" type="intExpr">besprochen</seg></said>, an vielen Bühnen angenommen werden und auf einigen vielleicht Erfolg haben.«</said> 
+                     <said id="33" mode="direct" content="speech" level="1">»Und dann?«</said> <seg id="33" type="frame" pos="end"><seg id="33" type="intExpr">fragte</seg> <seg id="33 34" type="speaker">Andreas</seg>.</seg> <said id="34" mode="direct" content="speech" level="1">»Daß mein Stück keinen Erfolg hatte, das ist es ja nicht, was mich niederdrückt. Was – Erfolg!... Den machen die anderen. Aber die Leistung ist mein, für die habe ich einzustehen; die habe ich gerichtet und den Stab gebrochen über mein Talent.«</said> 
+                     <said id="35" mode="direct" content="speech" level="1">»Lächerlich«</said><seg id="35" type="frame" pos="end">, <seg id="35" type="intExpr">entgegnete</seg> <seg id="35 36" type="speaker">Salmeyer</seg>. </seg><said id="36" mode="direct" content="speech" level="1">»Sie haben soviel und mehr Talent als hundert andere, die damit Glück machen ... Bei Ihnen ist nur ein Umstand bedenklich ...«</said> <seg id="37" type="speaker">Er</seg> hielt inne, zwinkerte mit den Augen und <seg id="37" type="frame" pos="start">fuhr dann lebhaft fort:</seg> <said id="37" mode="direct" content="speech" level="1">»Sie sind zu spät geboren!</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eine Teufelsaustreibung</title>
+             <author>Leskov, Semënovič Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Eine_Teufelsaustreibung.tg4_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Eine Teufelsaustreibung</f>
+         <f name="author">Leskov, Semënovič Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Die Löwen rasten dahin, so daß das Hinterteil des Wagens nur so zitterte; als wir aber außerhalb der Stadt waren, fingen sie an, noch schneller zu rennen. 
+                     <seg id="1" type="speaker">Wir</seg> sitzen im Wagen, <said id="1" mode="reported" content="speech" level="1" nonfact="yes"><seg id="1" type="intExpr">sprechen</seg> kein Wort</said>, und ich sehe nur, wie sich der Onkel seinen Zylinderhut immer tiefer in die Stirne drückt und wie sein Gesicht, wohl vor Langweile, immer griesgrämiger wird. 
+                     Er schaut immer nach den Seiten;<seg id="2" type="frame" pos="start"> einmal wirft <seg id="2" type="speaker">er</seg> aber den Blick auf mich und <seg id="2" type="intExpr">sagt</seg> ganz unvermittelt:</seg> 
+                     
+                        
+<said id="2" mode="direct" content="speech" level="1">»Es ist gar kein Leben!«</said> 
+                    <seg id="5" type="frame" pos="start"> <seg id="5 41 6" type="speaker">Ich</seg> <seg id="5" type="intExpr">wußte</seg> nicht,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes" border="yes"><said id="41" mode="reported" content="speech" level="2" nonfact="yes">was darauf zu <seg id="41" type="intExpr">antworten</seg></said></said> <said id="6" mode="reported" content="speech" level="1" nonfact="yes">und <seg id="6" type="intExpr">schwieg</seg>.</said> 
+                     Und wir fahren immer weiter;<seg id="4" type="frame" pos="start"> <seg id="4" type="speaker">ich</seg> <seg id="4" type="intExpr">denke</seg> mir:</seg> <said id="4" mode="direct" content="thought" level="1">wo will er mich nur hinbringen?</said> <seg id="7" type="frame" pos="start">Und es <seg id="7" type="intExpr">scheint</seg> <seg id="7" type="speaker">mir</seg> schon,</seg> <said id="7" mode="indirect" content="thought" level="1">daß ich in eine dumme Geschichte hineingeraten bin.</said> 
+                     <said id="8" mode="reported" content="thought" level="1">Der <seg id="8 9" type="speaker">Onkel</seg> hatte aber wohl inzwischen irgendeinen<seg id="8" type="intExpr"> Beschluß gefaßt</seg></said> <seg id="9" type="frame" pos="start">und begann den Kutscher zu <seg id="9" type="intExpr">kommandieren</seg>:</seg> 
+                     <said id="9" mode="direct" content="speech" level="1">»Rechts! Links! Zum ›Jar‹!«</said> 
+                     Aus dem Restaurant stürzt die ganze Dienerschaft heraus, und alle verneigen sich vor ihm fast bis zur Erde. Der Onkel sitzt aber im Wagen, rührt sich nicht und <said id="42" mode="reported" content="speech" level="1">läßt den Besitzer <seg id="42" type="intExpr">rufen</seg>.</said> Man läuft sofort hin. Nun erscheint der Franzose und verbeugt sich mit großem Respekt. <seg id="11" type="frame" pos="start">Der <seg id="11 13" type="speaker">Onkel</seg> rührt sich noch immer nicht, klappert mit dem Elfenbeingriff seines Stockes gegen die Zähne und <seg id="11" type="intExpr">fragt</seg>:</seg> 
+                     <said id="11" mode="direct" content="speech" level="1">»Wieviel Fremde habt ihr im Haus?«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»An die dreißig Personen in den Sälen,«</said> <seg id="12" type="frame" pos="mid"><seg id="12" type="intExpr">antwortet</seg> der <seg id="12 14" type="speaker">Franzose</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»und drei Séparés sind besetzt.«</said> 
+                     <said id="13" mode="direct" content="speech" level="1">»Alle sollen hinaus!«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Sehr gut.«</said> 
+                     <said id="15" mode="direct" content="speech" level="1">»Jetzt ist es sieben,«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">sagt</seg> <seg id="15 17 19 21 23 25 27 29 31" type="speaker">Onkel</seg> nach einem Blick auf die Uhr,</seg> <said id="15" mode="direct" content="speech" level="1">»um acht komm ich wieder. Wird alles fertig sein?«</said> 
+                     <said id="16" mode="direct" content="speech" level="1">»Nein,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">antwortet</seg> <seg id="16 18 20 22 24 26 28 30" type="speaker">jener</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»um acht wird es nicht gehen ... <said id="43" mode="reported" content="speech" level="2"><seg id="43" type="speaker">Viele</seg> haben sich ihre Sachen <seg id="43" type="intExpr">vorausbestellt</seg> ...</said> Aber so gegen neun wird im ganzen Restaurant keine fremde Seele sein.«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Gut.«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Was soll ich vorbereiten?«</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»Selbstverständlich einen Zigeunerchor.«</said> 
+                     
+                        
+<said id="20" mode="direct" content="speech" level="1">»Und noch was?«</said> 
+                     <said id="21" mode="direct" content="speech" level="1">»Ein Orchester.«</said> 
+                     <said id="22" mode="direct" content="speech" level="1">»Nur eines?«</said> 
+                     <said id="23" mode="direct" content="speech" level="1">»Nein, lieber zwei.«</said> 
+                     <said id="24" mode="direct" content="speech" level="1">»Soll ich den Rjabyka holen lassen?«</said> 
+                     <said id="25" mode="direct" content="speech" level="1">»Selbstverständlich.«</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Französische Damen?«</said> 
+                     <said id="27" mode="direct" content="speech" level="1">»Nein, die will ich nicht!«</said> 
+                     <said id="28" mode="direct" content="speech" level="1">»Weine?«</said> 
+                     <said id="29" mode="direct" content="speech" level="1">»Den ganzen Keller.«</said> 
+                     <said id="30" mode="direct" content="speech" level="1">»Speisen?«</said> 
+                     <said id="31" mode="direct" content="speech" level="1">»Die Karte!«</said> 
+                     Man reicht ihm die Tageskarte. 
+                     <seg id="32" type="frame" pos="start">Der <seg id="32 34 36" type="speaker">Onkel</seg> wirft einen Blick auf die Karte, liest sie wohl gar nicht, klopft mit dem Stock auf das Papier und <seg id="32" type="intExpr">sagt</seg>:</seg> 
+                     <said id="32" mode="direct" content="speech" level="1">»Dies alles für hundert Personen.«</said> 
+                     Und er rollt die Karte zusammen und steckt sie sich in die Tasche. 
+                     Der Franzose ist erfreut, zugleich aber auch etwas verlegen. 
+                     <said id="33" mode="direct" content="speech" level="1">»Für hundert Personen kann ich es unmöglich herrichten«</said> <seg id="33" type="frame" pos="mid"><seg id="33" type="intExpr">sagt</seg> <seg id="33 35" type="speaker">er</seg>,</seg> <said id="33" mode="direct" content="speech" level="1">»denn es sind auch sehr teure Sachen dabei, von denen ich nur fünf oder sechs Portionen im Hause habe.«</said> 
+                     <said id="34" mode="direct" content="speech" level="1">»Wie soll ich meine Gäste sortieren? Ein jeder soll alles haben, was er will. Verstanden?«</said> 
+                     <said id="35" mode="direct" content="speech" level="1">»Sehr wohl.«</said> 
+                     <said id="36" mode="direct" content="speech" level="1">»Sonst wird dir auch der Rjabyka nicht helfen, mein Lieber! Kutscher, pascholl!«</said> 
+                     Wir ließen den Restaurateur mit seinen Lakaien stehen und fuhren davon. 
+                     
+                        
+<seg id="37" type="frame" pos="start">Nun war es <seg id="37" type="speaker">mir</seg> vollkommen <seg id="37" type="intExpr">klar</seg>,</seg> <said id="37" mode="indirect" content="thought" level="1" border="yes">daß ich auf ein falsches Geleise geraten war.</said> <said id="44" mode="reported" content="speech" level="1"><seg id="44" type="speaker">Ich</seg> versuchte, mich zu <seg id="44" type="intExpr">verabschieden</seg></said>, der Onkel hörte aber nicht auf mich. Er schien sehr besorgt. Wir fahren durch den Park, <said id="39" mode="reported" content="speech" level="1">und <seg id="39" type="speaker">er</seg> <seg id="39" type="intExpr">ruft</seg> bald den einen, und bald den andern an.</said> 
+                     <said id="40" mode="direct" content="speech" level="1">»Um neun Uhr zum ›Jar‹!«</said> <seg id="40" type="frame" pos="end"><seg id="40" type="intExpr">sagt</seg> <seg id="40" type="speaker">Onkel</seg> einem jeden kurz.</seg> 
+                     Die Leute, an die er sich wendet, sind lauter ehrwürdige Greise.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

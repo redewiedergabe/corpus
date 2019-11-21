@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Glücksritter</title>
+             <author>Eichendorff, Joseph von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Eichendorff,_Joseph_von_Die_Gluecksritter.tg598_1.xml</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Die Glücksritter</f>
+         <f name="author">Eichendorff, Joseph von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes_DS</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Und ein Ellbogen aus dem Ärmel«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">meinte</seg> <seg id="1" type="speaker">Klarinett</seg>.</seg> 
+                     Indem aber schwang sich die ganze Figur plötzlich von der Mauer in den Hof hinab, eine zweite folgte, lange, bärtige, soldatische Gesellen. 
+                     Beide, erst nach allen Seiten umherspähend, schlichen an die Haustür und versuchten vorsichtig zu öffnen, fanden aber alles fest verschlossen. Suppius und Klarinett verwandten kein Auge von ihnen. <seg id="2" type="frame" pos="start">Jetzt <seg id="2" type="intExpr">bemerkten</seg> <seg id="2" type="speaker">sie</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">wie die <seg id="3" type="speaker">Fremden</seg>, an der Stalltür vorbei, quer über den Hof gingen und <said id="3" mode="reported" content="speech" level="2">in der Gaunersprache miteinander <seg id="3" type="intExpr">redeten</seg>.</said></said> <said id="4" mode="direct" content="speech" level="1">»Schau«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> der <seg id="4" type="speaker">eine</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»haben schöne Klebis«</said> (Pferde), <said id="4" mode="direct" content="speech" level="1">»werden Santzen«</said> (Edelleute) <said id="4" mode="direct" content="speech" level="1">»sein, oder vornehme Kummerer«</said> (Kaufleute), <said id="4" mode="direct" content="speech" level="1">»die nach Leipzig schwänzen«</said> (reisen). – <said id="5" mode="direct" content="speech" level="1">»Eine gute Schwärze«</said> (Nacht)<seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">versetzte</seg> der <seg id="5" type="speaker">andre</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»es schlunt«</said> (schläft) <said id="5" mode="direct" content="speech" level="1">»noch alles im Schöcherbeth«</said> (Wirtshaus), <said id="5" mode="direct" content="speech" level="1">»kein Quin«</said> (Hund) <said id="5" mode="direct" content="speech" level="1">»bellt und kein Strohbohrer«</said> (Gans) <said id="5" mode="direct" content="speech" level="1">»raschelt. Alch«</said> (troll dich) <said id="5" mode="direct" content="speech" level="1">»wollen die Karosse zerlegen, hat vielleicht Messen«</said> (Gelder) <said id="5" mode="direct" content="speech" level="1">»in den Eingeweiden.«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Das sind verlaufne Lenninger«</said> (Soldaten)<seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">flüsterte</seg> <seg id="6 22" type="speaker">Klarinett</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">»die kommen bracken«</said> (stehlen), <said id="6" mode="direct" content="speech" level="1">»<seg id="8" type="frame" pos="start"><seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">wollt</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2" border="yes">ich könnt den Mausköpfen grandige Kuffen stecken</said>«</said> (schwere Schläge geben!) – <said id="7" mode="direct" content="speech" level="1">»Was Teufel, verstehst du denn auch das Rotwelsch?«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">fragte</seg> <seg id="7" type="speaker">Suppius</seg> erstaunt.</seg> 
+                     <said id="22" mode="reported" content="speech" level="1" nonfact="yes">Aber da war keine Zeit mehr zu <seg id="22" type="intExpr">Erklärungen</seg></said>, denn die Lenninger kamen jetzt gerade auf den Wagen los; der eine schnupperte ringsherum, ob er nicht einen Koffer oder Mantelsack fände, der andere aber griff geschwind, damit es sein Gesell nicht merken sollte, nach der Wagentür. Suppius und Klarinett hielten sie von innen fest, <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">er</seg> konnte sie mühsam nur ein wenig öffnen, <seg id="11" type="intExpr">wunderte</seg> sich,</seg> <said id="11" mode="indirect" content="thought" level="1">daß es so schwer ging</said>, und tappte sogleich mit der Hand hinein. <said id="12" mode="direct" content="speech" level="1">»Aha, ein Paar Stiefeln!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">er</seg> vergnügt in sich</seg>, des überraschten Suppius Füße fassend. 
+                     
+                        Indem aber schnappt Klarinett die Tür, wie eine Auster, rasch wieder zu, der Dieb hatte kaum so viel Zeit, die gequetschte Hand zurückzuziehn, <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">er</seg> <seg id="13" type="intExpr">meinte</seg> in der Finsternis nicht anders,</seg> <said id="13" mode="indirect" content="thought" level="1">sein Kamerad hätt ihn geklemmt, weil er ihm den ersten Griff nicht gönnte.</said> <said id="14" mode="direct" content="speech" level="1">»Was ist das!«</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">er</seg> zornig und böse diesem <seg id="14" type="intExpr">zu</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»bist ein Hautz«</said> (Bauer), <said id="14" mode="direct" content="speech" level="1">»und kein ehrlicher Gleicher«</said> (Mitgesell), <said id="14" mode="direct" content="speech" level="1">»möchtest alles allein schöchern«</said> (trinken) <said id="14" mode="direct" content="speech" level="1">»und mir den leeren Glestrich«</said> (Glas) <said id="14" mode="direct" content="speech" level="1">»lassen!«</said> – <seg id="16" type="frame" pos="start">Der <seg id="16" type="speaker">andre</seg>, <said id="23" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="23" type="speaker">der</seg> gar nicht <seg id="23" type="intExpr">wußte</seg> was es gab</said>, <seg id="16" type="intExpr">erwiderte</seg> ebenso:</seg> <said id="16" mode="direct" content="speech" level="1">»<said id="17" mode="reported" content="speech" level="2">Was <seg id="17" type="intExpr">barlest</seg></said>«</said> (sprichst) <said id="16" mode="direct" content="speech" level="1">»<said id="17" mode="reported" content="speech" level="2"><seg id="17" type="speaker">du</seg> so viel</said>, wenn wir eben was auf dem Madium«</said> (Ort) <said id="16" mode="direct" content="speech" level="1">»haben, komm nur her, sollst mir den Hautz wie gefunkelten Johann«</said> (Branntwein) <said id="16" mode="direct" content="speech" level="1">»hinunterschlingen!«</said> Da trat plötzlich der Mond aus den Wolken und der Kutscher in die Stalltür, und die erschrockenen Schnapphähne flogen, wie Eidechsen, unter dem Schatten des Hauses zwischen Steinen und Ritzen durch den Hof und über die Mauer wieder in die alte Freiheit hinaus. 
+                     <said id="18" mode="direct" content="speech" level="1">»Nun, die bleiben auch noch draußen am Galgen hängen«</said><seg id="18" type="frame" pos="end">, <seg id="18" type="intExpr">meinte</seg> <seg id="18" type="speaker">Suppius</seg> aufatmend.</seg> Der schlaftrunkene <seg id="19" type="speaker">Kutscher</seg> aber, der von allem nichts bemerkt hatte, siebte im Mondschein den Hafer für seine Pferde, gähnte laut und<seg id="19" type="frame" pos="start"> <seg id="19" type="intExpr">sang</seg>:</seg>
+                         
+                     
+                        <said id="19" mode="direct" content="speech" level="1">»Wann der Hahn kräht auf dem Dache,
+                        Putzt der Mond die Lampe aus
+                        Und die Stern ziehn von der Wache,
+                        Gott behüte Land und Haus.«
+ </said>                       
+                     
+                     Darauf ging der Knecht an den Brunnen im Hofe, plumpte Wasser in den Eimer und kämmte und wusch sich, umständlich mit vielem Gegurgel und Geräusch, zu großem Ärger des <seg id="21" type="speaker">Suppius</seg>, <said id="21" mode="reported" content="speech" level="1" nonfact="yes">der gerne <seg id="21" type="intExpr">gesprochen</seg> hätte.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wochenbericht.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341573_94440.txt_5.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Wochenbericht.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Die eigentlich
+                        wissenschaftliche Welt hat die Hauptnotizen bereits aus den früheren Berichten entnommen, wie sie namentlich in der der preußischen Staatszeitung veröffentlich wurden.
+                        Dieses Buch ist recht eigentlich für das größere Publicum berechnet, welches auf die
+                        anmuthigste Weise unterhalten wird, und dabei spielend seinen wissenschaftlichen Horizont
+                        erweitert.
+               <said id="1" mode="reported" content="writing" level="1">Eine sehr ernste Frage <seg id="1" type="intExpr">behandelt</seg> die <seg id="1" type="speaker">Schrift</seg>: Die Erziehung zur Arbeit,
+                        eine Forderung des Lebens an die Schule, von Karl Friedrich.</said> Leipzig,
+                        Avenarius und Mendelssohn. — Der Verfasser hat für seinen Zweck ziemlich umfassende
+                        Studien gemacht, so weit sie ein Gelehrter, der sich nicht in der Sphäre des praktischen Schullebens bewegt, überhaupt machen kann. <said id="2" mode="reported" content="writing" level="1"><seg id="2" type="speaker">Er</seg> hat einzelne Uebelstände des
+                        gegenwärtigen Schulwesens, <said id="3" mode="reported" content="thought" level="2" nonfact="yes">über die kein <seg id="3" type="intExpr">Zweifel</seg> sein kann</said>, scharfsinnig <seg id="2" type="intExpr">hervorgehoben</seg></said>;
+                        <said id="4" mode="reported" content="writing" level="1"><seg id="4" type="speaker">er</seg> hat in Beziehung auf seine Verbesserungsvorschläge die verschiedenen Momente, die
+                        dabei in Rechnung kommen, nicht <seg id="4" type="intExpr">unerörtet</seg> gelassen</said>, und sein Werk kann daher <said id="5" mode="reported" content="thought" level="1" nonfact="yes">zu
+                        fruchtbarem <seg id="5" type="intExpr">Nachdenken</seg></said> anregen. In das Einzelne näher einzugehen, muß den pädagogischen Zeitschriften überlassen bleiben. Wir fassen hier nur einen Punkt ins
+                         
+               
+               Auge, <said id="6" mode="reported" content="speech" level="1">in welchem <seg id="6" type="speaker">wir</seg> dem Verfasser entschieden <seg id="6" type="intExpr">widersprechen</seg> müssen.</said> Es ist das
+                        nämlich der Radicalismus, der sich in den verschiedensten Zweigen des öffentlichen
+                        Lebens geltend gemacht hat, in keinem aber so auffallend, als in der Pädagogik. Der
+                        wesentliche Fehler des Radicalismus beruht in seinem Bestreben, Alles zu verallgemeinern, sich von einer bestimmten Seite des Gefühls anregen zu lassen, und diese
+                        Stimmung dann in logische Formeln zu übersetzen. <said id="7" mode="reported" content="writing" level="1">In der vorliegenden <seg id="7" type="speaker">Schrift</seg> zeigt
+                        sich dieses schon äußerlich in dem fortwährenden Hereinziehen der Politik.</said> Es ist freilich
+                        zu natürlich, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">daß wir <seg id="8" type="speaker">Deutsche</seg> das gedrückte Gefühl über unsre politische Lage in
+                        keinem Augenblick verläugnen <seg id="8" type="intExpr">können</seg></said>, daß es sich uns aufdrängt auch in Fragen, die
+                        dazu wenigstens in keiner directen Beziehung stehen; aber man muß sich sehr davor
+                        hüten, durch diese freilich natürliche Befangenheit der Untersuchung eine falsche Wendung
+                        zu geben. So ist z. B. der <seg id="9" type="speaker">Verfasser</seg> nicht abgeneigt, <said id="9" mode="reported" content="writing" level="1">die Verkümmerung der deutschen
+                        Politik wenigstens zum Theil unsrem Schulwesen zur Last zu legen</said>, obgleich alle
+                        Mängel desselben sich eben so und in noch höherem Grade in den englischen und französischen Einrichtungen wiederfinden. — <said id="10" mode="reported" content="speech" level="1"><said id="11" mode="reported" content="thought" level="2">Der <seg id="11" type="intExpr">Grundgedanke</seg></said>, von dem <seg id="10 11" type="speaker">er</seg> ausgeht, ist
+                        bereits von Fichte in <said id="12" mode="reported" content="speech" level="2"><seg id="12" type="speaker">seinen</seg> <seg id="12" type="intExpr">Reden</seg> an die deutsche Nation</said> <seg id="10" type="intExpr">ausgesprochen</seg> worden.</said>
+                       <said id="17" mode="reported" content="speech" level="1"> <seg id="17 18" type="speaker">Fichte</seg> <seg id="17" type="intExpr">erklärt</seg> die damalige Generation (1808) für unfähig, das französische Joch abzuschütteln, weil sie moralisch und physisch depravirt sei</said>; <said id="18" mode="indirect freeIndirect" content="speech" level="1">es müsse also ein ganz neues
+                        Geschlecht geschaffen werden, welches dann vielleicht im Laufe von 16 Jahren im Stande
+                        sein würde, die Schuld seiner Vorfahren zu sühnen. Zu diesem Zweck sollte die Jugend
+                        vollständig von den Erwachsenen getrennt und in Anstalten erzogen werden, die ein
+                        kleines Abbild des wirklichen Lebens darstellten. Der Knabe sollte vorzugsweise auf die
+                        praktische Thätigkeit gewiesen werden, er sollte den Garten anbauen, ackern, pflügen,
+                        und in den Angelegenheiten der kleinen Gemeinde sein junges Bürgerrecht ausüben.</said> <said id="14" mode="reported" content="thought" level="1">Was
+                        dem <seg id="14" type="speaker">Philosophen</seg> dabei <seg id="14" type="intExpr">vorschwebte</seg>, waren die Philanthropine und andere pädagogische
+                        Anstalten im Pestalozzi'schen Sinn.</said> Nach der Zeit sind die Franzosen aus Deutschland
+                        verjagt worden, und die alten Schuleinrichtungen haben ihren Fortbestand gehabt. Aus
+                        den Philanthropinen ist keine bedeutende Kapacität hervorgegangen. <seg id="15" type="frame" pos="start">Der <seg id="15" type="speaker">Philosoph</seg>
+                        hatte <seg id="15" type="intExpr">übersehen</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1" nonfact="yes">daß die Erziehung eines neuen, bessern Geschlechtes, Menschen und Zustände voraussetzte, die <said id="16" mode="reported" content="thought" level="2" border="yes"><seg id="16" type="speaker">seiner</seg> eigenen <seg id="16" type="intExpr">Ansicht</seg> von der Depravation des Zeitalters</said> widersprachen.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

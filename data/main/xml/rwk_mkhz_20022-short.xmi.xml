@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>—„Schweizerisch-Polen.“—Viehversicherung.—Der Kapitalismus</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1886_03_03.txt_2.xml</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">—„Schweizerisch-Polen.“—Viehversicherung.—Der Kapitalismus</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Eidgenössisches.
+                        
+            
+            
+            
+               — <said id="1" mode="direct" content="thought" level="1" nonfact="yes" border="yes">„Schweizerisch-Polen.“</said>
+               
+               So ungefähr muthet es
+                        <seg id="1" type="speaker">Einen</seg> an, <said id="3" mode="reported" content="writing" level="1">wenn man den nachfolgenden <seg id="3" type="intExpr">Erguß</seg> der „<seg id="3" type="speaker">Basl.
+                        Nachr.</seg>“ zum Projekt der Gründung einer freien kathol.
+                        Hochschule liest</said>: <said id="4" mode="direct" content="writing" level="1">„<seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">Vergessen</seg> <seg id="5" type="speaker">wir</seg> nicht</seg>“</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">schreibt</seg> das <seg id="4" type="speaker">Basler
+                        Blatt</seg>,</seg> <said id="4" mode="direct" content="writing" level="1">„<said id="5" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß jetzt schon die jüngere römisch-katholische
+                        Geistlichkeit zum größten Theil auf Jesuiten-Universitäten
+                        und Jesuitenschulen gebildet wird, <said id="6" mode="reported" content="speech" level="3" nonfact="yes" prag="yes">ohne daß der <seg id="6 14" type="speaker">Bund</seg>
+                        ein Wort dazu <seg id="6" type="intExpr">sagen</seg> kann</said>, während derselbe, wenn die
+                        Freiburger Universität es allzu bunt treiben und den
+                        Jesuitismus gar zu deutlich an der Stirne tragen sollte,
+                        <said id="14" mode="reported" content="speech" level="3" nonfact="yes">mit dieser ein entscheidendes Wort <seg id="14" type="intExpr">reden</seg> kann.</said></said>“</said>
+                        <said id="8" mode="reported" content="writing" level="1" nonfact="yes" prag="yes">Ein weiterer <seg id="8" type="intExpr">Kommentar</seg> zu dieser Leistung ist wohl überflüssig!</said> „Vaterl.“
+                        
+                
+            
+            
+               — Viehversicherung.
+               
+               <seg id="11" type="frame" pos="start">Wie die <seg id="11" type="speaker">Zeitungen</seg> <seg id="11" type="intExpr">berichten</seg></seg>
+                        <said id="11" mode="indirect" content="writing" level="1">beschäftigt man sich in den höheren wissenschaftlichen Kreisen
+                        mit der Gründung einer auf Gegenseitigkeit beruhenden
+                        schweizerischen Viehversicherungsgesellschaft.</said>
+               Wenn die Versicherer alle gewissenhafte und ehrliche
+                        Bürger sind und von Seite der leitenden Persönlichkeiten
+                        nicht zu sehr Besoldungs-, Taggelder- und Aemtlimacherkultus getrieben wird, so könnte ein solches Institut
+                        namentlich für die unbemittelten Landwirthe eine Wohlthat sein und prosperiren, sonst in Bälde verwünscht
+                        werden und in die mißliche Lage der schweizerischen Hagelversicherungsgesellschaft gerathen.
+            
+            
+               — Der Kapitalismus
+               
+               blüht und gedeiht, während
+                        die produzirenden Stände, Landwirthschaft und Gewerbe
+                        darnieder liegen. Die Bank in Luzern rentirte 5,7%, die
+                        Bank in Baden zahlt den Aktonären 7,6%, die Berner
+                        Spar- und Leih-Kasse 7,5%, die Rigi-Bahn 8%, andere
+                        „Geschäfte“ noch mehr und bei Allen kommen erst noch
+                        Tausende von Franken an die Fonds, auf Abschreibungen,
+                        neue Rechnungen, Tanti è men an die Angestellten ec. Der
+                        geplagte Bauer und Arbeiter wird verwundert auf diese
+                        Zahlen blicken. Heutzutage hat, wie es scheint, nicht mehr
+                        das Handwerk einen goldenen Boden, sondern — das
+                        Bank- und Börsenthum.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social1101_1874_10.xml</f>
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Da Maria wollt' zu Agathen gehen,
+                        Jesum ihr Kind opfern sehen,
+                        <seg id="1" type="frame" pos="start">Da <seg id="1" type="intExpr">ruft</seg> <seg id="1" type="speaker">Valentinus</seg> mit Macht:</seg>
+                        <said id="1" mode="direct" content="speech" level="1">Freuet euch der Fastnacht.
+                        <said id="8" mode="indirect" content="thought" level="2" border="yes">Denn Petrus und Matthias
+                        Kommen schier</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">wisset</seg> das.</seg></said>
+                        
+            
+            Daß bei dieser Art und Weise des mechanischen Auswendiglernens, welches ja überdies fast nur dazu diente, <said id="3" mode="reported" content="thought" level="1" nonfact="yes">die Tage der
+                        Kirchenfeste sich <seg id="3" type="intExpr">einzuprägen</seg></said>, die Wissenschaft nicht gefördert werden konnte und Geist und Herz leer bleiben mußten, liegt auf
+                        der Hand. <said id="9" mode="reported" content="writing" level="1">Die einzige rühmliche Ansnahme bildete das Schulwesen der bereits vorhin <seg id="9" type="intExpr">erwähnten</seg> „Brüderschaft vom gemeinsamen Leben,“</said> welche von einem Utrechter Canonicus, Geirt
+                        Groote, im Jahre 1379 zu Deventer gestiftet worden war, aber
+                        erst im folgenden Jahrhunderte ihre Thätigkeit in Deutschland
+                        entwickelte. Die Mitglieder dieser Brüderschaft, welche aus Geist
+                        lichen und Weltlichen bestand, beschäftigten sich aber nicht ausschließlich mit dem Jugendunterrichte, sondern auch mit dem Abschreiben und Einbinden von Büchern, sowie auch mit Aufschriften von deren Titeln. Sie gelangten mit ihrer stillen Arbeit
+                        freilich nicht zu Reichthümern, Glanz und Ehren, wie die stolzen
+                        Capitularen und Prälaten, aber zu einer innigen Verbindung
+                        mit dem Volke, und durch Lehre und Beispiel zu einer wohlhätigen Einwirkung auf dasselbe. Sie waren es, welche nebst den
+                        um die Mitte des fünfzehnten Jahrhunderts wieder erwachenden
+                        Wissenschaften und Künsten das Volk für die deutsche Reformation empfänglich machten und somit gewissermaßen die Vorbereiter derselben wurden.
+            Erst sie, die Reformation, bildet den Wendepunkt zum Besseren in dem Schulwesen. Nach dem Rathe und Plane Luther's
+                        und seiner Mitarbeiter, welcher durch die Schulvisitation in
+                        Kursachsen 1529 das vorleuchtende Beispiel einer ernstlichen
+                        Sorge des Staates für die Schulen gaben, gründeten nun die
+                        Stadträthe Gymnasien und Lyceen, an denen Lehrer mit festem
+                        Gehalte angestellt wurden. Die Bildungsanstalten hoben sich um
+                        so rascher, als die säcularisirten Kirchengüter von den protestantischen Obrigkeiten häufig zum Besten der Schulen verwandt
+                        wurden. Tüchtige Schulmänner, weiche von jener großen Zeit,
+                        in welcher <said id="6" mode="direct" content="writing" level="1">„die Geister erwachten,“</said> hervorgebracht wurden, wie
+                        Sturmin Straßburg,Friedlandin Goldberg,Heyderin
+                        Nürnberg undNeanderin Jlefeld brachten Methode in den
+                        Unterricht und erwarben sich ein Verdienst um die Disciplin;
+                        die durch die Buchdruckerkunst vervielfältigten classischen Schriften des griechischen und römischen Alterthums kamen in die
+                        Hände der Schüler, deren romantisches Wanderleben nun aufhörte und die sich immer mehr eines wissenschaftlichen Lebens
+                        befleißigten. Nur die Kloster=, Stifts= und Elementarschulen der
+                        Katholiken hielten noch lange Zeit hindurch an dem ärmlichen
+                        Schematismus der sogenannten sieben freien Künste fest.
+            An das Wanderleben und die Betteleien der vorreformatorischen Zeit erinnerten nur noch die festlichen Schulaufzüge, die
+                        Singchöre und Currenden, welche letztere noch bis in die erste
+                        Hälfte unseres neunzehnten Jahrhunderts an manchen Schulen
+                        sich erhielten.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frau Salome</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Frau_Salome.tg243_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Frau Salome</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Wie wäre es aber, wenn Sie trotz alledem endlich einmal wieder eine Tasse Tee bei mir trinken würden?«</said> 
+                     Der Justizrat schien die letzte Frage gänzlich zu überhören. 
+                    <said id="3" mode="direct" content="speech" level="1"> »Götterblut!«</said><seg id="3" type="frame" pos="end"> <seg id="3" type="intExpr">murmelte</seg> <seg id="3 4 9 12 15 17 19" type="speaker">er</seg>. </seg><said id="4" mode="direct" content="speech" level="1">»Beim Atemholen des Archipelagos, ich brauche ihr den Puls nicht zu fühlen! Ichor!«</said> 
+                    <said id="5" mode="direct" content="speech" level="1"> »Was soll das bedeuten?«</said><seg id="5" type="frame" pos="end"> <seg id="5" type="intExpr">rief</seg> die <seg id="5 6 11 1" type="speaker">Frau Salome</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2"><seg id="7" type="speaker">Sie</seg> <seg id="7" type="intExpr">reden</seg> mit sich selber!</said> <said id="8" mode="reported" content="speech" level="2" nonfact="yes">Weshalb <seg id="8" type="intExpr">reden</seg> <seg id="8" type="speaker">Sie</seg> nicht mit mir?</said> Ihr Umgang scheint Sie freilich arg verzogen zu haben.«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»Hm, Sie haben recht, Gnädige. <said id="10" mode="reported" content="speech" level="2" metaph="yes">Was beliebten <seg id="10" type="speaker">Sie</seg> zu <seg id="10" type="intExpr">sagen</seg>?</said>«</said> 
+                    <said id="11" mode="direct" content="speech" level="1"> »<said id="27" mode="reported" content="speech" level="2"><seg id="27" type="speaker">Ich</seg> <seg id="27" type="intExpr">lud</seg> Sie zu einer Tasse Tee <seg id="27" type="intExpr">ein</seg></said>, mein braver germanischer Waldspuk.«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Und ich würde die Einladung selbstverständlich mit Vergnügen annehmen, wenn nicht heut abend vielleicht bei mir jemand zu Gaste wäre, den ich nicht gern allein am Tische sitzen lassen möchte. Wenn Sie aber eine neue Probe deutschen Spuks haben wollen, schöne semitische Zauberin, <seg id="13" type="frame" pos="start">so <seg id="13" type="intExpr">rate</seg> <seg id="13" type="speaker">ich</seg> Ihnen väterlich, </seg><said id="13" mode="indirect" content="speech" level="2">mit mir zu reiten und meine Bewirtung anzunehmen.</said> <said id="25" mode="reported" content="thought" level="2" nonfact="yes">Über die letztere sollen <seg id="25" type="speaker">Sie</seg> sich <seg id="25" type="intExpr">verwundern</seg></said>, und gewissen Leuten kann man keine angenehmere Gabe bieten als einen echten und gerechten Grund zur Verwunderung.«</said> 
+                    <seg id="14" type="frame" pos="start"> Die <seg id="14 16 18" type="speaker">Baronin Salome</seg> lachte erst, seufzte aber gleich darauf und <seg id="14" type="intExpr">sagte</seg>:</seg> 
+                     <said id="14" mode="direct" content="speech" level="1">»So ist es.«</said> 
+                     <said id="15" mode="direct" content="speech" level="1">»Nun?«</said> 
+                     <said id="16" mode="direct" content="speech" level="1">»Ist vielleicht Freund Schwanewede aus Pilsum unterwegs?«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Dem bin ich einen Besuch schuldig und Sie desgleichen, liebe Frau, <said id="28" mode="reported" content="speech" level="2"><seg id="28 29" type="speaker">Ich</seg> habe Sie auf einen neuen Spuk <seg id="28" type="intExpr">eingeladen</seg></said>, Baronin, <said id="29" mode="reported" content="speech" level="2">und wiederhole meine <seg id="29" type="intExpr">Einladung</seg>.</said>«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Und ich nehme sie an, mein väterlicher Wundermann; die Sonne steht noch ziemlich hoch, und ich finde nachher auch wohl in einer Sternennacht den Weg durch den Wald nach Hause. Levate la tenda! Ich bin wirklich neugierig auf das, was Sie mir zeigen wollen.«</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»Sie und Ihr Tier werden dann und wann vor einer Schneise oder einem sonstigen Holzwege nicht zurückschrecken, und so reicht die Zeit für alles.«</said> 
+                     <said id="20" mode="direct" content="speech" level="1">»So denn hinein in das Geheimnis!«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">rief</seg> die <seg id="20" type="speaker">Dame</seg></seg> und ließ ihren Maulesel auf die Straße zurücktreten. 
+                     Es war ein hübsches Bild, wie die drei jetzt zusammen fürbaß zogen, der Esel, die schöne Jüdin und der Justizrat Scholten. 
+                  
+               
+            
+            
+               
+                  
+                     Viertes Kapitel
+                     Daß der Justizrat die Gegend genau kannte, wurde bald recht deutlich. Er führte, und der Esel folgte. 
+                     Ihr Weg ging nun eine kurze Strecke auf der Landstraße hin; dann schlug der Alte einen Nebenpfad über die baumlose, mit Felsentrümmern übersäte Lehne ein und benutzte einen Waldarbeitersteig, der sie in den dunkeln Tannenwald niederführte. Nun benutzten sie einen durch den Sommer ausgetrockneten Bergbach als Weg und gelangten erst nach längeren Mühseligkeiten und Beschwerden in eine Schneise, die es dem Justizrat erlaubte, neben dem Maultier und dem Knie der Frau Salome einherzugehen. Sobald ihm das möglich geworden war, <said id="21" mode="reported" content="speech" level="1">geriet <seg id="21" type="speaker">er</seg> mit der <seg id="21" type="speaker">Dame</seg> in ein <seg id="21" type="intExpr">Gespräch</seg>, das selbstverständlich seinen Anfang aus der landschaftlichen Umgebung entnahm. </said>
+                     <said id="22" mode="direct" content="speech" level="1">»Jetzt treibe ich mich nun schon wieder an die sechs Wochen in diesen Bergen umher«</said><seg id="22" type="frame" pos="end">, <seg id="22" type="intExpr">sagte</seg> die <seg id="22 24" type="speaker">Baronin</seg>.</seg> 
+                     <said id="23" mode="direct" content="speech" level="1">»Und zwar mit dem Gefühl, durchaus nicht dahinein zu gehören«</said><seg id="23" type="frame" pos="end">, <seg id="23" type="intExpr">meinte</seg> <seg id="23" type="speaker">Scholten</seg>.</seg> 
+                     <said id="24" mode="direct" content="speech" level="1">»Da das über unsere Willkür hinausliegt, <seg id="26" type="frame" pos="start"><seg id="26" type="intExpr">halte</seg> <seg id="26 30" type="speaker">ich</seg> mich nicht <seg id="26" type="intExpr">für</seg> verpflichtet,</seg> <said id="26" mode="indirect" content="thought" level="2"><said id="30" mode="reported" content="speech" level="3" nonfact="yes">Ihnen eine <seg id="30" type="intExpr">Antwort</seg> zu suchen.</said> </said>Sonst aber stehe ich mich durchschnittlich recht gut mit den Höhen und Tiefen, den Bäumen und Wassern und allen lebendigen Geschöpfen, Sie eingeschlossen, Scholten.«</said> 
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

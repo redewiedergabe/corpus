@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wolf Baudissin (geb. den 30. Januar 1789)</title>
+             <author>Waldmüller, Robert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341849_204088.txt_52.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Wolf Baudissin (geb. den 30. Januar 1789)</f>
+         <f name="author">Waldmüller, Robert</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+Kann man mit mehr Anmut für eine kleine
+                        Gefälligkeit danken, als es in folgenden Zeilen geschehen ist, die sich unter
+                        vielen andern Gelegenheitsgedichten in dem nach <seg id="10" type="speaker">seinem</seg> Tode für seine Freunde
+                        zusammengestellten Gedenkbuch finden? Sie sind vom Jahre 1876 — man
+                        rechne nach —, <said id="1" mode="reported" content="writing" level="1" nonfact="yes"><seg id="1" type="speaker">Anakreon</seg> hätte es nicht schöner <seg id="1" type="intExpr">ausdrücken</seg> können!</said>
+                         
+            
+               
+                  
+                     <said id="10" mode="direct" content="writing" level="1">Wenn Iris mit den bunten Schwingen,
+                        Dem Adler gleich an raschem Flug,
+                        Windschnell gen Troja Junos Botschaft trug,
+                        Mocht' ihr die Luftfahrt leicht gelingen.
+                     Du aber hast weit mehr als sie vollbracht:
+                        Du kamst, so kurz vor dunkler Nacht,
+                        Auf rauhem Pfade, steil und schmal,
+                        stiegst unverzagt ins tiefe Thal
+                        Den Berg hinab, und ohne Wanken
+                        Brachtst du das Buch, <said id="11" mode="reported" content="speech" level="2">nach dem <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">frug</seg>.</said>
+                     <said id="12" mode="reported" content="speech" level="2" nonfact="yes">Wie <seg id="12" type="intExpr">fand'</seg> <seg id="12" type="speaker">ich</seg> <seg id="12" type="intExpr">Worte</seg> je genug,
+                        Für so viel Güte dir zu danken?</said></said>
+                        
+                  
+               
+            
+            <seg id="13" type="frame" pos="start">Hier ferner aus dem Mai 1873 ein launiger <seg id="13" type="intExpr">Trinkspruch</seg> ans Meister Tieck
+                        bei der Feier seines hundertjährigen Geburtstages — der beste Beweis für
+                        <seg id="13" type="speaker">Baudissins</seg> Anhänglichkeit an seinen langjährigen Freund:</seg>
+                         
+            
+               
+                  
+                     <said id="13" mode="direct" content="writing" level="1">Meister in Poesie wie in Kritik,
+                        Ob deine Wahl romantisch, ob antik,
+                        <said id="14" mode="reported" content="thought" level="2" border="yes"><seg id="14" type="speaker">Uns</seg> <seg id="14" type="intExpr">dünkte</seg>, <said id="15" mode="reported" content="speech" level="3" border="yes">was <seg id="15" type="speaker">du</seg> <seg id="15" type="intExpr">lasest</seg></said>, wie Musik.</said>
+                     <said id="4" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Der <seg id="4" type="speaker">Franzmann</seg> <seg id="4" type="intExpr">nennt</seg> dich wohl trop fantastique</said>,
+                        Doch <seg id="16" type="speaker">Shakespeare</seg> winkt dir lächelnd <said id="16" mode="direct" content="speech" level="2" border="yes">speak,
+                        o speak!</said>
+                        In deiner Prosa, welche Mosaik
+                        Voll feinstem Witz, wie treffend die Replik
+                        Im Dialog! Ja dieser ist, est hic
+                        Ein Stern in unsrer Dichterrepublik,
+                        Ans Deutschlands Au´n ein goldumstrahlter Pic.
+                     Hoch laßt ihn leben, unsern Ludovic,
+                        <said id="17" mode="reported" content="thought" level="2" border="yes">Den nie <seg id="17" type="intExpr">vergessnen</seg>, teuern Meister Tieck!</said></said>
+                        
+                  
+               
+            
+            <seg id="18" type="frame" pos="start">Aus dem Jahre <seg id="18" type="speaker">seines</seg> Zweiten Brautstandes endlich noch folgendes <seg id="18" type="intExpr">Gedicht</seg>:</seg>
+                         
+            
+               
+                  
+                     <said id="18" mode="direct" content="writing" level="1">In des Wagens dunkler Klause
+                        Sitz' ich mit fünf stummen Bären,
+                        All' in weiten grauen Mänteln,
+                        Drei aus Böhmen, zwei aus Mähren.
+                     Unsre zwölf gekreuzten Beine
+                        Gleichen zwölf verschränkten Speeren,
+                        <said id="5" mode="reported" content="speech" level="2" nonfact="yes"><seg id="5" type="speaker">Keiner</seg> <seg id="5" type="intExpr">spricht</seg> ein Wort</said>, sie schlafen
+                        Fest, als ob sie Tote wären.
+                     Während die Gefährten schnarchen,
+                        Brauch' ich nicht dem Schlaf zu wehren,
+                        <said id="6" mode="reported" content="thought" level="2">Denn <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">denk'</seg> an dich</said>, Geliebte,
+                        Mit dem sehnlichsten Begehren;
+                        Mal' im Geist mir heitre Bilder,
+                        Wie bei meinem Wiederkehren
+                        Wohl die Freude deine schönen,
+                        sanften Zuge wird verklären,
+                        <said id="7" mode="reported" content="thought" level="2" nonfact="yes">Wie <seg id="7" type="speaker">ich</seg> stündlich werde <seg id="7" type="intExpr">sinnen</seg>.,
+                        Dich zu lieben, dich zu ehren,
+                        Immer nur von dir zu lernen
+                        Oder neues dich zu lehren.</said>
+                     Immer schürend, unsrer Flammen
+                        Reine, heil'ge Glut zu nähren,
+                        Unsrer Seele echte Schätze
+                        Nie zu mindern, stets zu mehren
+                        Und im Guten, Wahren, Schönen
+                        Einzusammeln goldne Uhren.
+                     Welch Entzücken, wenn nicht länger
+                        Wir von Ländern und von Meeren
+                        Fern gehalten uns umarmen,
+                        Innig, heiß, mit freut'gen Zähren.
+                     Fahre hurtig, Schwager, blase!
+                        Treibe deine müden Mähren!</said>
+                        
+                  
+               
+            
+            Aber kehren wir zur Prosa zurück und werfen wir noch einen Blick auf
+                        das preisliche Naturel dieses merkwürdigen Mannes, der wohl das Greisenalter erreichte, aber nie ein Greis wurde.
+            
+            <said id="19" mode="reported" content="writing" level="1" nonfact="yes">Denn leider muß <seg id="19" type="speaker">ich</seg> es mir ja versagen, hier von der Herzlichkeit seiner Beziehungen
+                        zu Verwandten und Freunden, von der Einfachheit seiner Lebensweise, von
+                        seinem patriarchalischen Verhältnis zu seinen Untergebenen und von der Thatsache zu <seg id="19" type="intExpr">erzählen</seg>, daß seine Pächter ihren Pachtzins aus freien Stücken
+                        erhöhten:</said> so stimmte sich unter dem Einflüsse seiner Herzensgüte die ursprüngliche Durchschnittsnatur der Menschen um.
+            War Baudissin einst ein Knabe von zarter Gesundheit gewesen, so bewährt
+                        sich an ihm der alte Erfahrungssatz, daß bei geregelter Lebensweise eine selbstgewählte, freudig rastlose Thätigkeit die Körperkräfte steigert und das Leben
+                        verlängert.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

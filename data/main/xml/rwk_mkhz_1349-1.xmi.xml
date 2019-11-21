@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung094_1852_5.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Wasser im Ganzen1 1 / 3 resp.1 1 / 6 Oxhoft.
+            
+            <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Wir</seg> haben oben <seg id="1" type="intExpr">gesagt</seg>,</seg> <said id="1" mode="indirect" content="writing" level="1">der Proviant, der auf den englischen Schiffen
+                        gesetzlich geliefert werden müsse, sei für halbverhungerte Irländer bemessen</said>;
+                        wir fordern nun unsere Leser auf, die vorstehende Angabe des gesetzlichen
+                        Proviants genauer zu beachten und sie werden sich von der Wahrheit
+                        unseres Ausspruchs überzeugen. Gesetzlich haben die Passagiere keinen
+                        Anspruch auf irgend welches Fleisch, auf Butter, nur Brod und Mehl
+                        muß an festen Speisen gereicht werden; dabei würde ein Deutscher auf
+                        dem Lande für längere Zeit kaum sein Leben fristen können, geschweige
+                        denn auf der See, die den Appetit so sehr verstärkt. Für keine Abwechselung der Speisen ist gesorgt, die bei der für Seeungewohnte auf dem
+                        Meere so häufig eintretenden Unverdaulichkeit für die Gesundheit dringendes Erforderniß ist, abgesehen davon, daß es nothwendig Widerwillen
+                        erregen muß, Wochenlang nur von Brod und Mehl zu leben.<seg id="2" type="frame" pos="start"> Daß davon
+                        keine <seg id="2" type="intExpr">Rede</seg> ist,</seg> <said id="2" mode="indirect" content="speech" level="1" nonfact="yes">daß den Passagieren mehr geliefert wird, als was sie zu
+                        fordern berechtigt sind</said>, ist zu sehr Selbstverstand, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">als daß darüber noch
+                        weiter zu <seg id="3" type="intExpr">sprechen</seg> wäre</said>: <said id="4" mode="indirect" content="speech" level="1">daß ihnen aber nicht einmal immer das geliefert
+                        wird, <said id="5" mode="reported" content="speech" level="2" nonfact="yes">was <seg id="5" type="speaker">sie</seg> zu <seg id="5" type="intExpr">fordern</seg> ein Recht haben</said></said><seg id="4" type="frame" pos="end">, bezeugen häufige <seg id="4" type="intExpr">Klagen</seg> von
+                        <seg id="4" type="speaker">Auswanderern</seg></seg>, die sowohl durch unsere Zeitung wie durch andere Blätter
+                        veröffentlicht worden sind. Das neueste englische <seg id="6 10" type="speaker">Passagiergesetz</seg>, welches
+                        manche Uebelstände vermindert und sonst auch manche gute Bestimmung
+                        enthält, <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">sagt</seg> denn auch,</seg> <said id="6" mode="indirect" content="writing" level="1">daß jene obgedachten Vorräthe <said id="10" mode="direct" content="writing" level="2">„ neben den
+                        freiwilligen der Passagiere da sein müssen,“</said></said> es ist die Bestimmung des Proviants eben mit Rücksicht auf die armen Jrländer getroffen,
+                        deren Uebersiedelung durch bessere Beköstigung vertheuert werden müßte,
+                        <said id="7" mode="reported" content="thought" level="1">während <seg id="7" type="speaker">man</seg> eine möglichst große Zahl derselben los zu werden <seg id="7" type="intExpr">wünscht</seg></said>;
+                        es nimmt das Gesetz aber zugleich an, daß Leute, die es irgend vermögen,
+                        sich selbst mit besseren und zweckmäßigeren Lebensmitteln versehen werden.
+                        Dadurch wird aber die Reise über englische Häfen sehr bedeutend vertheuert, und der Auswanderer ist überdieß der Gefahr ausgesetzt, am
+                        fremden Ort, der fremden Sprache, des fremden Geldes unkundig in
+                        mannigfacher Weise übervortheilt zu werden. Daß aber <said id="11" mode="reported" content="speech writing" level="1">auf dem Continent
+                        gegebene <seg id="11" type="intExpr">Versprechungen</seg> in Betreff einer besseren als der gesetzlich vorgeschriebenen Beköstigung</said> nicht immer, vielleicht höchst selten, ja vielleicht
+                        nie gehalten werden, <said id="9" mode="reported" content="speech" level="1">darüber sind unzählige <seg id="9" type="intExpr">Klagen</seg> laut geworden. </said>Eine
+                        Verbesserung auf den englischen Schiffen ist übrigens durch die neueste
+                        Passagier=Acte eingeführt worden, daß der Proviant, welcher gekocht zu
+                        werden erfordert, täglich in gekochtem Zustande vertheilt werden soll. Daß
+                        außerdem den Tag über Feuer auf dem Heerde und dieser für die Passagiere
+                        der Reihe nach zugänglich sein soll, wird zum Besten derjenigen Passagiere
+                        bestimmt sein, die eignen Proviant mit sich führen. -- Betrachten wir nun
+                        dagegen die Verpflegung, wie sie auf den Bremer Schiffen -- und für die
+                        anderen deutschen Häfen gelten ohngefähr gleiche Bestimmungen -- geliefert
+                        werden muß, so fehlt es nicht an hinreichender Menge von consistenten
+                        Speisen, es ist für eine die Gesundheit wie die Annehmlichkeit befriedigende
+                        Abwechselung gesorgt, alle Speisen müssen in zubereitetem Zustande den
+                        Auswanderern zugetheilt werden; es haben diese nicht nöthig, im Einschiffungshafen Lebensmittel extra anzuschaffen, Fleisch, verschiedenes Gemüse, verschiedene Gewürze u. s. w. müssen gesetzlich da sein, und daß
+                        dies der Fall ist, darüber wacht eine strenge Controlle, ohne die kein
+                        Schiff den Hafen verlassen darf.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

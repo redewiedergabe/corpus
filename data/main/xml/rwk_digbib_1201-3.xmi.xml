@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vom Gastfreien Pastor</title>
+             <author>Hartleben, Otto Erich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hartleben,_Otto_Erich_Vom_Gastfreien_Pastor.tg261_1.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Vom Gastfreien Pastor</f>
+         <f name="author">Hartleben, Otto Erich</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">dash chevron other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="8" mode="direct" content="speech" level="1">Obgleich <seg id="8" type="speaker">ich</seg> mich für den Verein für Innere Mission stets lebhaft interessiert habe, höre ich nur mit halbem Ohr zu, denn ich bin viel zu sehr mit mir selber beschäftigt. Als dann endlich die Sache zu Ende ist, und ich gehen will, <said id="3" mode="reported" content="speech" level="2">werde ich zum <seg id="4" type="speaker">Präsidenten</seg> des Landeskonsistoriums <seg id="3" type="intExpr">gerufen</seg>.</said> 
+                     Ich komme hin: <said id="4" mode="direct" content="speech" level="2">»Herr Pastor Viemeyer! <seg id="5" type="frame" pos="start">Es <seg id="5" type="intExpr">scheint</seg> <seg id="5" type="speaker">mir</seg> doch,</seg> <said id="5" mode="indirect" content="thought" level="3">daß Ihnen eine würdige Auffassung der ernsten Aufgaben des Vereins für Innere Mission abgeht.</said><said id="6" mode="reported" content="speech" level="3"> <seg id="6" type="speaker">Ich</seg> will keine langen <seg id="6" type="intExpr">Worte</seg> <seg id="6" type="intExpr">machen</seg>.</said> Die Sache widert <seg id="7" type="speaker">mich</seg> an. Was zuviel ist, ist zuviel. Einstweilen werden Sie sich unverzüglich nach Stolberg zurückbegeben. <said id="7" mode="reported" content="speech writing" level="3" nonfact="yes">Dort werden Sie das Weitere von mir hören.</said>«</said> Damit dreht er sich um und ging ... ließ mich stehn. 
+                     <said id="9" mode="reported" content="speech" level="2">Und nun <seg id="9" type="intExpr">frag</seg> <seg id="9" type="speaker">ich</seg> Sie, meine Herren!</said> Beschwöre Sie: <said id="39" mode="indirect" content="speech" level="2"><said id="41" mode="reported" content="speech" level="3" nonfact="yes"><seg id="41" type="intExpr">sagen</seg> <seg id="41" type="speaker">Sie</seg> mir</said></said><seg id="39" type="frame" pos="mid">, <seg id="39" type="speaker">ich</seg> <seg id="39" type="intExpr">bitte</seg> Sie:</seg> <said id="39" mode="indirect" content="speech" level="2"><said id="41" mode="reported" content="speech" level="3" nonfact="yes">was kann das sein?</said></said> Was kann dem zugrunde liegen? Daß man sich am frühen Morgen mit der langen Pfeife zum Fenster hinauslegt, du lieber Gott, das mag ja kleinstädtisch sein, meinetwegen auch ungehörig, wenigstens für einen Geistlichen. Aber unmöglich kann das doch ein solches Verbrechen sein ... Wie? –</said> 
+                     <said id="12" mode="reported" content="speech" level="1" nonfact="yes"><seg id="12" type="speaker">Wir</seg> verharrten nach Schluß dieser Rede eine 
+Zeitlang in tiefem <seg id="12" type="intExpr">Schweigen</seg>.</said> Die Situation war doch prekär geworden ...
+                     <seg id="14" type="frame" pos="start">Schließlich <seg id="14" type="intExpr">ergriff</seg> der <seg id="14 17 42" type="speaker">Oberstabsarzt</seg> das <seg id="14" type="intExpr">Wort</seg>:</seg> 
+                     <said id="14" mode="direct" content="speech" level="1">– <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">Sagen</seg> Sie, <seg id="15 16 18 21 44" type="speaker">Herr Pastor</seg>,</seg> <said id="15" mode="indirect" content="speech" level="2" nonfact="yes">haben Sie die Sache mit der.. der Frau Oberförster besprochen?</said></said> 
+                     <said id="16" mode="direct" content="speech" level="1">– O doch, gewiß! Die gute Frau war ganz unglücklich, ganz unglücklich, – sie hat sogar geweint.</said> 
+                     <said id="17" mode="direct" content="speech" level="1">– So. – –</said> 
+                     <said id="18" mode="direct" content="speech" level="1">– Ja, und hat immer versucht, mich zu trösten. <seg id="19" type="frame" pos="start">Und ganz zum Abschied <seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">sie</seg>:</seg><said id="19" mode="indirect" content="speech" level="2"> Ich möchte mich nur beruhigen: sie würde die Sache schon ins Reine bringen.</said></said> 
+                     <said id="42" mode="direct" content="speech" level="1">– Sie. – –</said> 
+                     <said id="44" mode="direct" content="speech" level="1">– Ja. – Sie war ganz erregt. <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Sie</seg> <seg id="22" type="intExpr">versprach</seg> mir,</seg> <said id="22" mode="indirect" content="speech" level="2">sie würde persönlich zu dem Herrn Präsidenten gehen.</said> <seg id="23" type="frame" pos="start"><seg id="23 43" type="speaker">Sie</seg> würde ihm <seg id="23" type="intExpr">bezeugen</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2" nonfact="yes">daß wir das hier alle so machen.</said> Ich meine mit der Pfeife morgens. So zum Fenster hinaus. – <said id="43" mode="indirect freeIndirect" content="speech" level="2">Sie hätte Beziehungen zu dem Herrn Präsidenten. Sein Sohn, der Landrat, wäre öfter bei ihr gewesen, und ein Bruder von ihm, dem Präsidenten, hätte sogar mal ein Mädchen bei ihr gehabt. – Auch kenne sie eine ganze Anzahl von meinen Amtsbrüdern persönlich. Sie würd es schon machen!</said> – – </said>
+                     Wir atmeten erleichtert auf. 
+                     <seg id="27" type="frame" pos="start">Nachdenklich <seg id="27" type="intExpr">sprach</seg> der <seg id="27" type="speaker">Amtsanwalt</seg>:</seg> 
+                     <said id="27" mode="direct" content="speech" level="1">– <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">Wissen</seg> Sie, <seg id="28" type="speaker">Herr Pastor</seg>,</seg> <said id="28" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie ich hiernach die Verhältnisse beurteile</said> – <seg id="45" type="frame" pos="start"><seg id="45" type="speaker">Sie</seg> <seg id="45" type="intExpr">wissen</seg>:</seg> <said id="45" mode="indirect" content="thought" level="2" border="yes"><seg id="30" type="speaker">ich</seg> war früher Lazarettinspektor in Magdeburg und 
+<said id="30" mode="reported" content="thought" level="3" border="yes"><seg id="30" type="intExpr">weiß</seg> also dort <seg id="30" type="intExpr">Bescheid</seg></said></said> – nach meiner Überzeugung können Sie hiernach – voll und ganz beruhigt sein. Wenn sich die Frau Oberförster bei ihren sicherlich sehr weitgehenden Verbindungen in dieser energischen Weise Ihrer annimmt – dann kann Ihnen nie und nimmer was geschehn. –</said> 
+                     <seg id="32" type="frame" pos="start"><said id="46" mode="reported" content="speech" level="1"><seg id="32 46" type="speaker">Ich</seg> <seg id="46" type="intExpr">pflichtete</seg> dem Amtsanwalt eifrig <seg id="46" type="intExpr">bei</seg></said> und <seg id="32" type="intExpr">fügte</seg> <seg id="32" type="intExpr">hinzu</seg>:</seg> 
+                     <said id="32" mode="direct" content="speech" level="1">– Aber da sehen Sies nun mal wieder, <seg id="34" type="speaker">Herr Pastor</seg>: die eigentlichen Kleinstädter leben doch nur in der Großstadt. <seg id="33" type="frame" pos="start">Denn <seg id="33" type="intExpr">sagen</seg> <seg id="33" type="speaker">Sie</seg> selbst:</seg> <said id="33" mode="indirect" content="speech" level="2" nonfact="yes">gibt es etwas Kleinlicheres, als sich an eine solche Äußerlichkeit, wie dieses zum Fenster Hinausrauchen, zu stoßen?</said></said> 
+                     <said id="34" mode="direct" content="speech" level="1">– Nein, <seg id="35" type="frame" pos="start">das muß <seg id="35" type="speaker">ich</seg> auch <seg id="35" type="intExpr">sagen</seg>:</seg><said id="35" mode="indirect" content="speech" level="2"> das haben wir doch als Studenten in Göttingen ganz ruhig getan.</said></said> 
+                     <said id="36" mode="direct" content="speech" level="1">– Ja Göttingen –</said> <seg id="36" type="frame" pos="mid"><seg id="36" type="intExpr">rief</seg> der <seg id="36" type="speaker">Oberstabsarzt</seg></seg> <said id="36" mode="direct" content="speech" level="1">– Göttingen ist eine Weltstadt im Vergleich mit Magdeburg! – –</said> – – 
+                     Nun wurde es sehr fidel. 
+                     Wir tranken auf das Wohl des Vereins für Innere Mission.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

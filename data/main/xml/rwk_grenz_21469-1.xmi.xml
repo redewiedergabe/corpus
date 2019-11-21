@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Beitrag zur Geschichte der Psychiatrie</title>
+             <author>Benn, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341891_316950.txt_14.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">Beitrag zur Geschichte der Psychiatrie</f>
+         <f name="author">Benn, Gottfried</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Das Mittelalter der Medizin reicht bis ins neunzehnte Jahrhundert; aber
+                        dieses brachte dann den späten Frühling, der reich war an einzigartiger Fülle
+                        und Mannigfaltigkeit neuer Entwicklungen, und führte auch bis in den Sommer
+                        gleich. So konnte geschehen, <seg id="1" type="frame" pos="start">was <seg id="1" type="speaker">Nothnagel</seg> im Jahre 1875 im Hinblick auf eine
+                        Krankheit <seg id="1" type="intExpr">schrieb</seg>:</seg> <said id="1" mode="direct" content="writing" level="1">„Die letzten zwanzig Jahre haben uns mit einemmal weiter
+                        befördert, als die vorhergegangenen zwanzig Jahrhunderte zusammengenommen."</said>
+                        Es zielt dies auf dieselbe Krankheit, <seg id="2" type="frame" pos="start">von der an einer anderen Stelle <seg id="2" type="intExpr">gesagt</seg> wird:</seg>
+                        <said id="2" mode="direct" content="writing" level="1">Ihre Entwicklungsgeschichte ist eines der glänzendsten Beispiele, um das bedeutungsvolle Eingreifen des Tierversuches in die Förderung unserer Erkenntnis über einen
+                        krankhaften Zustand darzutun.</said> Gemeint ist die Epilepsie. Mit ihr verhält es sich
+                        in großen Umrissen so: sie ist und war eine Krankheit von ausgesprochen
+                        ubiquitärem Charakter; <said id="3" mode="direct" content="speech writing" level="1">keine Krankheit</said><seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">sagt</seg> ein sehr genauer <seg id="3" type="speaker">Kenner</seg> dieser Verhältnisse,</seg> <said id="3" mode="direct" content="speech writing" level="1">hat eine so allgemeine Verbreitung durch Zeit und Raum, keine tritt
+                        als ein so konstantes Glied in dem krankhaften Leben der Menschheit hervor</said>; in
+                        allen Breiten ist sie zu Hause. Sie ist eine Krankheit mit Erscheinungen so
+                        ostentativen Charakters, daß sie nirgends übersehen werden kann. Sie ist eine
+                        Krankheit von hervorragendem sozialen und kriminellen Interesse, einmal durch
+                        die Häufigkeit ihres Auftretens und dann, da in ihrem Gefolge Zustände auftreten können, in denen die davon Befallenen die schwersten Delikte, namentlich
+                        Mord und Körperverletzung, begehen. Sie ist eine Krankheit, die die schwerwiegendsten Folgen für die an ihr Leidenden mit sich bringt; schon früh war die
+                        außerordentlich häufige Vererbung der Epilepsie bekannt, ja <said id="14" mode="indirect" content="speech" level="1"><said id="15" mode="reported" content="thought" level="2">im Altertum <seg id="15" type="intExpr">hielt</seg>
+                        <seg id="15" type="speaker">man</seg> die Krankheit für so ansteckend</said>, daß</said> <seg id="14" type="frame" pos="mid">— wie <seg id="14" type="speaker">Apulejus</seg> <seg id="14" type="intExpr">erzählt</seg> —</seg> <said id="14" mode="indirect" content="speech" level="1">ein
+                        Familienglied, das von ihr befallen war, sich für immer von der Familie trennen
+                        mußte.</said>
+            
+            Die Folge war, daß sich aller Scharfsinn von Laien und Medizinmännern
+                        aller Zeiten und Kulturen mit der Ergründung dieser Krankheit befaßte. Es gibt
+                        gewiß keine Krankheit, <said id="6" mode="reported" content="writing" level="1">über die so viel <seg id="6" type="intExpr">geschrieben</seg> worden ist wie über die Epilepsie.</said>
+                        <said id="16" mode="reported" content="writing" level="1">Die <seg id="16" type="intExpr">Schriften</seg> der griechischen <seg id="16" type="speaker">Ärzte</seg>, die <seg id="16" type="intExpr">Kompendien</seg> der arabischen <seg id="16" type="speaker">Medizin</seg>
+                        strotzen von Bemerkungen und Abhandlungen über Epilepsie</said>, und die abendländische
+                        Literatur steht dem nicht nach. Aus den Jahren 1459 bis 1799 finden sich allein
+                        <said id="17" mode="reported" content="writing" level="1">über fünfhundert <seg id="17" type="speaker">Arbeiten</seg>, die von Epilepsie <seg id="17" type="intExpr">handeln</seg>.</said> <said id="18" mode="reported" content="thought" level="1" border="yes" metaph="yes"><seg id="18" type="speaker">Sie</seg> alle aber <seg id="18" type="intExpr">wissen</seg> nicht
+                        mehr über das Wesen der Krankheit</said>, <said id="9" mode="reported" content="thought" level="1" border="yes">als <seg id="9 19" type="speaker">Hippokrates</seg> im Jahre 300 vor Chr. G.
+                        von ihr <seg id="9" type="intExpr">wußte</seg></said>, der die Ursachen der „heiligen Krankheit" in einer Verschleimung
+                        des Gehirns suchte und <said id="19" mode="reported" content="writing" level="1">im übrigen eine sehr dürftige <seg id="19" type="intExpr">Vorstellung</seg> von ihrem
+                        Wesen gab.</said> Aber seine Autorität war unbeschränkt bis ins neunzehnte Jahrhundert;
+                        <said id="20" mode="reported" content="writing" level="1">ein 1799 erschienenes <seg id="20" type="intExpr">Buch</seg> über Epilepsie von <seg id="20" type="speaker">Doussin-Dubreuil</seg></said>, <seg id="11" type="frame" pos="start">der Arzneigelahrtheit <seg id="11" type="speaker">Doktor</seg> in Paris, <seg id="11" type="intExpr">faßt</seg> seine Weisheit dahin <seg id="11" type="intExpr">zusammen</seg>:</seg> <said id="11" mode="direct" content="writing" level="1">„<seg id="12" type="speaker">Hippokrates</seg>,
+                        <said id="12" mode="reported" content="speech thought writing" level="2">der die wahre Ursache der fallenden Sucht am besten <seg id="12" type="intExpr">gefaßt</seg> hatte.</said>"</said>
+                         
+            Auch hier wurde ein Fortschritt in der Erkenntnis erst möglich, als die veränderte naturwissenschaftliche Untersuchungsmethode auf diese Fragen Anwendung
+                        fand. Mit den experimentellen Untersuchungen zweier Forscher begann es: in
+                        einer meisterhaft und mustergültig durchgeführten Versuchsreihe bahnte Kußmaul
+                        das Verständnis des epileptischen Anfalls an; Brown-Séquard zeigte durch zahlreiche Tierversuche zum erstenmal einen Weg, auf dem es gelang, der Kenntnis
+                        des epileptischen Zustandes näher zu treten. An diese beiden Fundamentalarbeiten schlossen sich im Laufe der folgenden Jahre die Untersuchungen vieler
+                        anderer an, die in ihrer Gesamtheit dahin führten, daß heute die Epilepsie
+                        in Hinsicht auf Wesen und Ursachen als ergründet gelten darf — soweit
+                        sich etwas ergründen läßt, wo der irrationale Faktor des Lebens mit in
+                        Rechnung steht.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

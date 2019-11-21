@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Engel auf Erden. </title>
+             <author>Bersezio, Viktor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341839_156270.txt_82.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Engel auf Erden. </f>
+         <f name="author">Bersezio, Viktor</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Darüber ließ sich nicht der geringste
+                        Aufschluß finden; <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Paul</seg> hatte das <seg id="1" type="intExpr">Gefühl</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß ihm selbst ein Unglück drohe.</said>
+                        <seg id="2" type="frame" pos="start">Der <seg id="2" type="intExpr">Gedanke</seg> fuhr <seg id="2" type="speaker">ihm</seg> durch den Kopf,</seg> <said id="2" mode="indirect" content="thought" level="1">daß Rina in dem Geheimnis mit einbegriffen sei</said>, <seg id="3" type="frame" pos="start">aber <seg id="3 4" type="speaker">er</seg> <seg id="3" type="intExpr">sagte</seg> <seg id="3" type="intExpr">sich</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1">daß es <said id="4" mode="reported" content="thought" level="2">ein alberner <seg id="4" type="intExpr">Einfall</seg></said> sei.</said> <said id="5" mode="freeIndirect" content="thought" level="1">Denn was
+                        für Beziehungen konnten zwischen dem erbärmlichen Gaukler und ihr bestehen?</said>
+                        Aber <seg id="6" type="speaker">er</seg> war so unruhig, wie er noch nie gewesen war, und der Schmerz über
+                        den Tod des treuen Tieres erfüllte seine Seele mit Trauer und <said id="6" mode="reported" content="thought" level="1">unheilvollen
+                        <seg id="6" type="intExpr">Ahnungen</seg>.</said>
+               <seg id="7" type="speaker">Cerci</seg> rüttelte den still vor sich Hinbrütenden auf. <said id="7" mode="direct" content="speech" level="1">Laß uns gehen, Paul,
+                        <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">du</seg> <seg id="8" type="intExpr">weißt</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2" border="yes">bei einem solchen Stelldichein darf man nicht auf sich warten lassen.</said></said>
+               <said id="9" mode="direct" content="speech" level="1">Ja</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">antwortete</seg> <seg id="9 10" type="speaker">Paul</seg>,</seg> indem er sich aufrichtete und den Leichnam des Hundes
+                        auf die Arme nahm. <said id="10" mode="direct" content="speech" level="1">Laß uns gehen, aber hier werde ich meinen guten Moschillo nicht lassen.</said>
+              <seg id="11" type="frame" pos="start"> <seg id="11" type="speaker">Er</seg> trug ihn ins Hans, brachte ihn in ein kühles Gemach und <seg id="11" type="intExpr">sagte</seg> zum
+                        Schwager:</seg> <said id="11" mode="direct" content="speech" level="1">Wenn ich am Leben bleibe, werde ich ihn selbst begraben. Wenn
+                        ich sterbe, so erzeigst du mir den Gefallen und läßt ihn dicht neben mir bestatten; dort in einer heimlichen Gegend des Gebirges. Das brave Tier war
+                        mein Gefährte in den stürmischsten Jahren meines Lebens, es soll auch im
+                        Grabe mein Gefährte sein.</said>
+               Dann wechselte er rasch die Kleider und eilte zu Cerci, der ihn unten im
+                        Hause erwartete.
+               Aber bevor beide die Schwelle überschritten, trat ihnen Adele entgegen.
+                        Man sah ihr an, daß sie die ganze Nacht kein Auge geschlossen hatte, aber sie
+                        sah gefaßt aus und zeigte von den vergossenen Thränen keine Spur.
+               <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Sie</seg> umarmte den Bruder und <seg id="12" type="intExpr">sagte</seg> mit festem Tone: </seg><said id="12" mode="direct" content="speech" level="1">Lebwohl, Paul!
+                        Auf baldiges Wiedersehen! <seg id="13" type="frame" pos="start">Mein <seg id="13" type="speaker">Herz</seg> <seg id="13" type="intExpr">sagt</seg> mir,</seg> <said id="13" mode="indirect" content="speech" level="2" metaph="yes">du kehrst gesund und wohl
+                        in meine Arme zurück!</said></said>
+                         
+               <said id="14" mode="direct" content="speech" level="1">Gott erhöre dich!</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">antwortete</seg> <seg id="14 16" type="speaker">Paul</seg>,</seg> <said id="15" mode="reported" content="thought" level="1"><seg id="15" type="speaker">der</seg> von den trübsten <seg id="15" type="intExpr">Ahnungen</seg> erfüllt
+                        war.</said> <said id="16" mode="direct" content="speech" level="1"><seg id="17" type="frame" pos="start">Aber eins will <seg id="17" type="speaker">ich</seg> dir noch <seg id="17" type="intExpr">sagen</seg>, Adele:</seg> <said id="17" mode="direct" content="speech" level="2"><said id="18" mode="reported" content="speech" level="3"><seg id="18" type="speaker">deine</seg> <seg id="18" type="intExpr">Worte</seg> von gestern</said> haben
+                        einen großen Eindruck auf mich gemacht, ich will nicht mit Menschenblut befleckt zurückkehren.</said> Lebwohl, Adele! <said id="19" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="19" type="speaker">Ich</seg> brauche dir Rina nicht zu <seg id="19" type="intExpr">empfehlen</seg>.</said>
+                        In meinem Zimmer findest du einen Brief an sie und einen an dich. Lies
+                        deinen Brief, wenn ich nicht zurückkehre. Lebwohl!</said>
+                         
+               Er wand sich aus den Armen der Schwester und ging mit dem Schwager
+                        von dannen. Die Sonne sandte bereits ihre ersten Strahlen über die Berge. —
+                         
+               Nun aber zu Devannis, <said id="20" mode="reported" content="speech" level="1" nonfact="yes">dessen unvermuteten und sonderbaren Ritt auf
+                        dem Renner der Gräfin Beldoni <seg id="20" type="speaker">wir</seg> <seg id="20" type="intExpr">erklären</seg> müssen.</said>
+               <said id="22" mode="indirect" content="speech writing" level="1"><seg id="23" type="speaker">Er</seg> hatte sich</said><seg id="22" type="frame" pos="mid">, wie oben <seg id="22" type="intExpr">erzählt</seg> wurde,</seg> <said id="22" mode="indirect" content="speech writing" level="1">in sein Zimmer zurückgezogen und
+                        war entschlossen, den Dingen ihren Lauf zu lassen.</said>
+               <said id="23" mode="direct" content="thought" level="1">Kann ich sie gegen ihren ausdrücklichen Willen ihrem Ehemann abstreiten?
+                        Nein! Ueberdies ist dieser Ehemann ein unübersteigliches Hindernis für die
+                        Liebe Pauls. Die Frau ist viel zu tugendhaft, als daß — der Teufel hole
+                        den Schurken! Die Hölle schickt uns diesen Satan von Ehemann gerade, wo
+                        wir so schön im Gange waren! Ach! Wenn es sie doch in der zwölften
+                        Stunde noch reuen wollte; <seg id="24" type="frame" pos="start"><seg id="24" type="intExpr">sagte</seg> <seg id="24" type="speaker">sie</seg> nur das Wörtchen:</seg><said id="24" mode="direct" content="speech" level="2" nonfact="yes"> Kommt!</said> Wie würde
+                        ich bereit sein, den Schurken beim Hals zu packen, mit wahrem Vergnügen
+                        würde ich ihn seinen ganzen Lohn auf einem Brete auszahlen!</said>
+                         
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

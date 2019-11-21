@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Mein Freund Ypsilon</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Mein_Freund_Ypsilon.tg235_1.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Mein Freund Ypsilon</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Kaum saß sie da, als sie heftig zu schluchzen begann. 
+                  
+                     <said id="1" mode="direct" content="speech" level="1">»Was ist dir denn, Kleine?«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">fragte</seg> <seg id="1 2" type="speaker">ich</seg> sie.</seg> <said id="2" mode="direct" content="speech" level="1">»Nun?«</said> 
+                  <said id="3" mode="reported" content="speech" level="1" nonfact="yes"><seg id="3" type="speaker">Sie</seg> aber gab keine <seg id="3" type="intExpr">Antwort</seg>.</said> 
+                  Ich wartete geduldig. <seg id="4" type="frame" pos="start">Dann <seg id="4" type="intExpr">fragte</seg> <seg id="4 5" type="speaker">ich</seg> nochmals, ganz ohne Unruhe im Ton:</seg> <said id="4" mode="direct" content="speech" level="1">»Nun –?«</said> 
+                  Sie nahm ihr Taschentuch und trocknete ihre Tränen. <said id="5" mode="direct" content="speech" level="1">»Spielen Sie einen Walzer, irgend etwas Lustiges, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">dann werde <seg id="6" type="speaker">ich</seg>'s Ihnen <seg id="6" type="intExpr">erzählen</seg> ...</said>«</said> 
+                  Ich begab mich zum Piano und schlug die Tasten an. <said id="39" mode="reported" content="speech" level="1" border="yes">Schon bei den ersten Akkorden <seg id="39" type="intExpr">hörte</seg> <seg id="39" type="speaker">ich</seg> ihre Stimme neben mir.</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Er liebt mich nicht«</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">sie</seg> tonlos.</seg> 
+                  Ich hielt im Spiel inne und sah sie mit einem überraschten Blicke an, der eigentlich nicht so ganz aufrichtig war, da ich auf einen Bericht dieser Art vorbereitet war. 
+                  <said id="8" mode="direct" content="speech" level="1">»Spielen Sie weiter«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">sie</seg> traurig.</seg> 
+                  <said id="9" mode="direct" content="speech" level="1">»Ja, aber einen Walzer kann ich jetzt nicht spielen«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">entgegnete</seg> <seg id="9" type="speaker">ich</seg></seg>, um uns beide mit einem Scherze über den peinlichen Moment hinwegzubringen – und intonierte einen Trauermarsch ... <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">wollte</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">ich hätte ihn damals nicht gespielt</said> – <said id="11" mode="reported" content="thought" level="1">heute quält <seg id="11" type="speaker">mich</seg> der <seg id="11" type="intExpr">Gedanke</seg> daran in lächerlicher, abergläubischer Weise.</said> 
+                  <seg id="12" type="frame" pos="start">Die <seg id="12" type="speaker">Kleine</seg> <seg id="12" type="intExpr">sprach</seg> weiter:</seg> <said id="12" mode="direct" content="speech" level="1">»Er muß eine andere haben«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">sie</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»<seg id="13" type="frame" pos="start">denn ein übers andere Mal <seg id="13" type="intExpr">rief</seg> <seg id="13 14" type="speaker">er</seg> heute <seg id="13" type="intExpr">aus</seg>:</seg> <said id="13" mode="direct" content="speech" level="2">›Du bist doch nicht wie sie – nicht wie sie –‹</said> Und dann, als ich ihn ganz ängstlich küßte, sah er mich an – so von oben herab – <seg id="14" type="frame" pos="start">und <seg id="14" type="intExpr">sagte</seg>:</seg> <said id="14" mode="direct" content="speech" level="2">›Geh, <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">siehst</seg> <seg id="15" type="speaker">du</seg> nicht,</seg> <said id="15" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">daß du mich störst?</said>‹</said> Ich war erstarrt, <said id="40" mode="reported" content="writing" level="2"><seg id="40" type="speaker">er</seg> aber <seg id="40" type="intExpr">schrieb</seg> weiter</said>, sein Gesicht war gerötet, und seine Augen glänzten. Nach einer Weile sah er sich um und sah mich noch immer dastehen. <said id="16" mode="direct" content="speech" level="2">›Noch immer?‹</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">fragte</seg> <seg id="16" type="speaker">er</seg></seg>; da ging ich.«</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»<said id="18" mode="reported" content="thought" level="2" nonfact="yes">Was <seg id="18" type="intExpr">glaubst</seg> <seg id="18" type="speaker">du</seg> eigentlich?</said>«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">fragte</seg> <seg id="17" type="speaker">ich</seg>.</seg> 
+                  Sie zuckte nur die Achseln. 
+                  <said id="19" mode="direct" content="speech" level="1">»<said id="20" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="20" type="speaker">Ich</seg> will es dir <seg id="20" type="intExpr">sagen</seg></said>«</said><seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">fuhr</seg> <seg id="19" type="speaker">ich</seg> <seg id="19" type="intExpr">fort</seg>,</seg> <said id="19" mode="direct" content="speech" level="1">»<said id="21" mode="reported" content="thought" level="2" nonfact="yes">wenn <seg id="21" type="speaker">du</seg> mich auch anfänglich nicht <seg id="21" type="intExpr">verstehen</seg> magst.</said> Du hast keine Nebenbuhlerin aus Fleisch und Bein –, jene andere, <said id="22" mode="reported" content="speech" level="2">von der <seg id="22" type="speaker">du</seg> da <seg id="22" type="intExpr">sprichst</seg></said> – lebt gar nicht und ist nur eine Einbildung unseres Freundes Ypsilon.«</said> 
+                  Sie starrte mich an. 
+                  <said id="23" mode="direct" content="speech" level="1">»<seg id="24" type="speaker">Ich</seg> kenne ihn«</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">sagte</seg> <seg id="23" type="speaker">ich</seg>,</seg> <said id="23" mode="direct" content="speech" level="1">»<seg id="24" type="frame" pos="start">und <seg id="24" type="intExpr">weiß</seg>,</seg> <said id="24" mode="indirect" content="thought" level="2" border="yes">daß er verrückt ist!</said>«</said> 
+                  <said id="41" mode="reported" content="thought" level="1" border="yes">Auf ihrem Antlitz <seg id="41" type="intExpr">las</seg> <seg id="41" type="speaker">ich</seg> das Erstaunen über die Ruhe</said>, <said id="26" mode="reported" content="speech" level="1">mit welcher <seg id="26 27" type="speaker">ich</seg> diese Wahrheit <seg id="26" type="intExpr">aussprach</seg>.</said> <said id="27" mode="direct" content="speech" level="1">»Es ist nicht das erste Mal, daß er sich in seine eigenen Phantasiegebilde verliebt. <said id="42" mode="reported" content="writing" level="2" nonfact="yes">Laß <seg id="42" type="speaker">ihn</seg> zu Ende kommen mit seinem <seg id="42" type="intExpr">Gedicht</seg></said>, laß es ihn ins Pult werfen, und der Spuk ist wieder verschwunden.«</said> 
+                  <said id="28" mode="direct" content="speech" level="1">»Da muß man ja Angst vor ihm haben!«</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">rief</seg> <seg id="28" type="speaker">sie</seg> <seg id="28" type="intExpr">aus</seg>.</seg> 
+                  
+                     <said id="29" mode="direct" content="speech" level="1">»Das eben nicht«</said><seg id="29" type="frame" pos="mid">, <seg id="29" type="intExpr">entgegnete</seg> <seg id="29 34 38" type="speaker">ich</seg>,</seg> <said id="29" mode="direct" content="speech" level="1">»<seg id="30" type="frame" pos="start">aber schon das eine oder andere Mal habe <seg id="30" type="speaker">ich</seg> daran <seg id="30" type="intExpr">gedacht</seg>,</seg> <said id="30" mode="indirect" content="thought" level="2">wie sehr es seiner Liebe zu dir zustatten käme, <seg id="31" type="frame" pos="start">wenn <seg id="31" type="speaker">du</seg> ihm <seg id="31" type="intExpr">erklärtest</seg>:</seg> <said id="31" mode="direct" content="speech" level="3" nonfact="yes">›Mein süßer Ypsilon, ich existiere ja eigentlich nicht, ich habe mich davongestohlen aus einem Märchen, und diese holde Wirklichkeit in deinen Armen ist nur ein Traum ...‹</said></said>«</said> 
+                  <said id="32" mode="direct" content="speech" level="1">»Wie?«</said> <seg id="32" type="frame" pos="end"><seg id="32" type="intExpr">fragte</seg> <seg id="32" type="speaker">sie</seg>.</seg> <said id="33" mode="reported" content="thought" level="1"><seg id="33" type="speaker">Sie</seg> <seg id="33" type="intExpr">verstand</seg> mich kaum.</said> 
+                  <said id="34" mode="direct" content="speech" level="1">»Nun, <seg id="35" type="frame" pos="start"><seg id="35" type="speaker">ich</seg> will dir nur <seg id="35" type="intExpr">erklären</seg>,</seg> <said id="35" mode="indirect" content="speech" level="2" nonfact="yes">daß du keinen vernünftigen Grund hast, eifersüchtig zu sein.</said> Laß ihn arbeiten, noch zwei, drei Tage, <seg id="36" type="frame" pos="start">dann wird <seg id="36" type="speaker">er</seg> selber zu dir kommen und dich <seg id="36" type="intExpr">bitten</seg>,</seg> <said id="36" mode="indirect" content="speech" level="2" nonfact="yes">wieder die Alte zu sein.</said> Verlaß dich auf mich!«</said> 
+                  <said id="37" mode="direct" content="speech" level="1">»Er ist also ein halber Narr!«</said> <seg id="37" type="frame" pos="end"><seg id="37" type="intExpr">rief</seg> <seg id="37" type="speaker">sie</seg> <seg id="37" type="intExpr">aus</seg>.</seg> 
+                  <said id="38" mode="direct" content="speech" level="1">»Ein halber Narr? Ein halber Dichter, also wohl ein ganzer Narr!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

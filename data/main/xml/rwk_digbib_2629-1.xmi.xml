@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das feindselige Gepäck</title>
+             <author>Reventlow, Franziska Gräfin zu</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Reventlow,_Franziska_Graefin_zu_Das_feindselige_Gepaeck.tg96_1.xml</f>
+         <f name="year">1917</f>
+         <f name="decade">1910</f>
+         <f name="title">Das feindselige Gepäck</f>
+         <f name="author">Reventlow, Franziska Gräfin zu</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+– 
+                  <said id="1" mode="reported" content="speech" level="1">Im Laufe der Fahrt kamen <seg id="1" type="speaker">wir</seg> mit einem vornehmen 
+alten <seg id="1" type="speaker">Araber</seg> ins <seg id="1" type="intExpr">Gespräch</seg></said>, und da wir Vertrauen zu ihm faßten, <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="intExpr">teilten</seg> <seg id="2" type="speaker">wir</seg> ihm unsere peinlichen Empfindungen <seg id="2" type="intExpr">mit</seg>.</said> Er nahm es sehr ernst damit, ja, <seg id="4" type="frame" pos="start"><said id="3" mode="reported" content="speech" level="1"><seg id="4 3" type="speaker">er</seg> <seg id="3" type="intExpr">warnte</seg> uns geradezu vor den Koffern</said> und <seg id="4" type="intExpr">meinte</seg>:</seg> <said id="4" mode="indirect" content="speech" level="1">nicht nur Mensch und Tier, sondern auch leblose Gegenstände hätten eine Seele, und vor Dingen, die einem wohl formell angehörten, mit denen man aber nicht in innerem Kontakt stehe, möge man ja auf der Hut sein.</said> 
+                  Wir wurden hierdurch nachdenklich gestimmt, <seg id="5" type="frame" pos="start">und mit der Zeit <seg id="5" type="intExpr">kam</seg> es <seg id="5" type="speaker">uns</seg> wirklich <seg id="5" type="intExpr">vor</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">als ob die Sachen da vor uns so etwas wie eine Seele hätten und zwar eine, die von bösen und rachsüchtigen Instinkten erfüllt sein könne, weil wir sie so ohne weiteres gezwungen hatten, uns zu folgen.</said> Fremd und verächtlich sahen sie uns an, halb schadenfroh und dann wieder, als ob sie sich unserer schämten, uns für Reiseparvenus hielten und sich nicht mit uns identifizieren wollten. <seg id="10" type="speaker">Man</seg> versuchte, sie versöhnlich zu stimmen, Beziehungen anzuknüpfen, betrachtete sie mit liebevollen Blicken, <said id="10" mode="reported" content="speech" level="1"><seg id="10" type="intExpr">lobte</seg> und bewunderte sie</said>, aber es half nichts, und der Archäologe wurde schließlich ärgerlich. Er zankte mit Emma Müller, seiner Cousine – weil sie ihm zum Trotz heimlich eine unansehnliche, alte Plaidtasche mitgenommen hatte, <said id="6" mode="reported" content="speech" level="1">dann <seg id="6" type="intExpr">verhöhnte</seg> <seg id="6" type="speaker">er</seg> die Feldbetten</said>, die so korrekt und zusammengeklappt dastanden, als ob sie sich nie zu einem Nachtlager hergeben würden, und gab dem gelben Handkoffer, weil er gar zu unverschämt dreinsah, einen Fußtritt, so daß er beiseite flog und alles durcheinander geriet. <seg id="11" type="speaker">Wir</seg> erschraken und <said id="11" mode="reported" content="speech" level="1"><seg id="11" type="intExpr">verwiesen</seg> ihm sein Benehmen</said>, aber es war nicht wiedergutzumachen. 
+                  Als wir das Schiff verlassen hatten und im Hotel unser Gepäck überzählten, fehlten vier Stück – nämlich die Patentklappstühle.<seg id="7" type="frame" pos="start"> <seg id="7" type="speaker">Wir</seg> hatten bis zum letzten Moment an Bord gesessen und dann in der Eile <seg id="7" type="intExpr">vergessen</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß sie 
+unser Eigentum waren.</said> Es war sehr ärgerlich, <said id="8" mode="reported" content="thought" level="1">aber <seg id="8" type="speaker">wir</seg> <seg id="8" type="intExpr">schoben</seg> es auf unsere Nachlässigkeit.</said> Bald darauf verließen uns auch die Feldbetten. Wir machten einen Ausflug, fanden programmäßig kein Nachtquartier und wagten es zum erstenmal, sie herzurichten und uns darauf auszustrecken. Man schlief wider Erwarten ausgezeichnet und begab sich morgens an einen etwas entfernten Bach, um sich zu waschen. Als wir zurückkehrten, waren die Betten verschwunden und mit ihnen die Dressing-bags, denen wir nur die notwendigsten Toilettengegenstände entnommen hatten. Nur Emma Müllers geschmähte Plaidtasche war zurückgeblieben. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Wir</seg> <seg id="12" type="intExpr">nahmen</seg> <seg id="12" type="intExpr">an</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1">daß die Sachen gestohlen worden seien</said>, es war ja auch unverantwortliche Nachlässigkeit, sie auf freiem Felde liegen zu lassen. Der Archäologe lag den ganzen Tag mit seiner Schießwaffe auf der Lauer, aber die etwaigen Diebe ließen sich nicht sehen. Wir bekamen überhaupt keinen Menschen zu Gesicht, auf den man hätte schießen können. 
+                  Die anderen Sachen waren in der nächsten Stadt geblieben, wir fanden sie unversehrt wieder und behüteten sie jetzt mit Argusaugen. So reisten wir weiter, vergnügten uns und waren ganz zufrieden. Aber die Beziehung zwischen unserem Gepäck und uns gestaltete sich keineswegs herzlicher – im Gegenteil, denn wir sahen bei dem vielen Herumfahren allmählich so heruntergekommen aus, daß es uns völlig ignorierte und bei jeder Gelegenheit tat, als ob es uns nicht gehörte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

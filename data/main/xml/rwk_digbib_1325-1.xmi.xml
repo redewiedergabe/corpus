@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Poverino</title>
+             <author>Janitschek, Maria</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Janitschek,_Maria_Poverino.tg56_1.xml</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Poverino</f>
+         <f name="author">Janitschek, Maria</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dann kehrte <seg id="1" type="speaker">er</seg> in die Schmiede zurück und <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">brüllte</seg> ein wildes ausgelassenes Lied.</said> Aber so oft sie vorüberkam, wurde er still, und über sein Angesicht flog ein feines Blaß. Dann mochte er stundenlang nichts thun. Und seine Wange in die rußige Hand lehnend, setzte er sich auf die Schwelle und starrte hinaus. 
+                  Einmal stellte sich <seg id="2" type="speaker">Christophoro</seg>, der Schmied, breit vor <seg id="4" type="speaker">ihn</seg> hin. 
+                  <said id="2" mode="direct" content="speech" level="1">»<said id="12" mode="reported" content="thought" level="2" nonfact="yes">Was <seg id="12" type="intExpr">meinst</seg> <seg id="12" type="speaker">du</seg> wohl eigentlich von mir?</said> Ich halte dich nur um dich zu füttern, eh? Du Narr, du! Könntest hier Brot und ein Dach haben dein Lebelang, denn ich bin dir nicht gram, aber bei deiner verdammten Faulheit –«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Ihr seid mir nicht gram? Ha ha ha, Ihr seid mir nicht gram! Weil ich einen besseren Hammer schwinge als Pietro, der Alte, weil meine Lieder euer Podogra verscheuchen, deshalb seid ihr mir nicht gram!«</said> 
+                  Er verließ auch den Schmied. 
+                  Tag und Nacht strich er in der Nähe umher. Und wenn es ihm glückte und er sie sah, <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="13" type="intExpr">vergaß</seg> <seg id="13" type="speaker">er</seg> Hunger und Glut und alle Unbilden</said> und jubelte wie ein vom Christ beschenktes Kind. 
+                  Am besten gefiel sie ihm, wenn sie ihr weißes Kleid trug. Wenn der Wind ihr goldenes Haar lockerte und ihre Gewänder an den schlanken Leib schmiegte, daß dessen reine, edle Linien sichtbar wurden. <seg id="5" type="frame" pos="start">Nur dumpf <seg id="5" type="intExpr">ahnte</seg> der <seg id="5" type="speaker">Jüngling</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">was ihm so an ihr gefiel.</said> Er spürte bei ihrem Anblick leise, süße Musik durch sich gehen; <said id="6" mode="indirect" content="thought" level="1" nonfact="yes">was die bedeutete</said><seg id="6" type="frame" pos="end">, war <seg id="6" type="speaker">ihm</seg> nicht <seg id="6" type="intExpr">klar</seg>.</seg> <said id="14" mode="reported" content="speech" level="1" nonfact="yes"><seg id="14" type="speaker">Er</seg> <seg id="14" type="intExpr">grüßte</seg> Margherita, wenn er ihr begegnete</said>, und sie dankte mit ihrem gleichgültigen, zerstreuten Nicken, wobei sie ihn eigentlich gar nicht ansah. 
+                  Dieses Leben mit seinen langen, blauen, unausgefüllten Tagen begünstigte seine Träumerei. Er lag irgendwo in der Nähe ihrer Villa im Schatten und starrte auf ihr Fenster. Er sah sie im weißen Linnenkleide, das feine, blonde Haar aufgelöst, die Hände über die Brust gefaltet, wie eine Immaculata. <said id="15" mode="reported" content="thought" level="1" border="yes">Und dann sah <seg id="15" type="speaker">er</seg> seinen schwarzen, verwilderten Lockenkopf in ihren Schooß sich schmiegen, und <seg id="15" type="intExpr">fühlte</seg> laue, große Thränen aus ihren Augen auf sich herabrieseln.</said> – Mehr träumte er nicht. 
+                  Und da geschah die große Sünde, das Unerwartete, das in jedes Jünglings Leben sich ereignet: die weiße Jungfrau, um die seine anbetende Seele Schleier und Aureolen gewoben hatte, stieg in den Staub der Alltäglichkeit und wurde ein Weib wie andere. 
+                  <said id="16" mode="reported" content="thought" level="1" border="yes">Und der arme <seg id="16" type="speaker">Junge</seg> <seg id="16" type="intExpr">sah sich</seg> plötzlich vor einem leeren Altar knieen.</said> – – 
+                  Eines Abends, als sie ausging, um frische Luft zu schöpfen, schritt ein Mann neben ihr. Er war dunkel und sonnenverbrannt, <seg id="10" type="frame" pos="start">und die <seg id="10" type="speaker">Leute</seg> <seg id="10" type="intExpr">sagten</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1">er sei ein Vetter von ihr, der sich lange Jahre auf fernen Meeren umhergetrieben hätte.</said> 
+                  Borromeo war schön und hatte etwas Gnädiges an sich, wie reiche Leute, die sich ihres Gutes bewußt sind. Gaetano haßte ihn vom ersten Blick an. Und er sah, wie <seg id="17" type="speaker">sie</seg> vertraulich ihren Arm in den seinen legte und <said id="17" mode="reported" content="speech" level="1">süß zu ihm <seg id="17" type="intExpr">redete</seg>.</said> Und er sah sie, wie sie beide in ihres Vaters Haus verschwanden. Er raufte sich die Haare vor Elend und Ohnmacht. 
+                  Und jetzt auf einmal, da er einen Mann in ihre Aureole greifen sah, erwachten in ihm heiße, wahnsinnige Empfindungen für sie.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

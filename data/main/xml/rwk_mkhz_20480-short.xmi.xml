@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Schaubühne.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MZ_1911_10_10.txt_11.xml</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Schaubühne.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">mkhz.marburger</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Schaubühne.
+                        
+               
+            
+            
+               
+                  „Charleys Tante“, Schwank in drei
+                        Akten von Brandon Thomas. „Charleys Tante“
+                        — „Die Erbtante“ — <said id="2" mode="reported" content="thought" level="1" border="yes"><seg id="2" type="speaker">man</seg> muß sich eine Weile
+                        <seg id="2" type="intExpr">besinnen</seg></said>, um diese beiden Stücke auseinanderhalten
+                        zu können und <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">man</seg> <seg id="1" type="intExpr">sieht</seg> daraus,</seg> <said id="1" mode="indirect" content="thought" level="1">wie es immer
+                        die gleichen Motive sind, mit denen unsere Schwankliteratur arbeitet.</said> „Charleys Tante“ ist von beiden
+                        genannten Stücken das ältere, darf aber heute noch
+                        volle Wirksamkeit beanspruchen, wie die Aufführung
+                        am Sonntagabend bewies. Man lachte sich über
+                        die Pseudotante krank und nahm den ziemlich grobkörnigen Humor des Schwankes mit viel Vergnügeu
+                        auf und umso lieber, als das Zusammenspiel ein
+                        ungemein flottes war. Herr Golda hat allerdings
+                        seine Tante etwas zu sehr ins Karikaturenhafte hinübergezogen und er hätte sich an Herrn Burger,
+                         der den Studenten Wikeham trotz aller Lebendigkeit
+                        mit künstlerischer Mäßigung gab, ein gutes Beispiel
+                        nehmen können. Gute Figuren schufen auch die
+                        Herren: Dunay (Jack Chesnay), Eghart (Colonel Chesnay), Gerold (Spittigua) und Sunko
+                         (Brusset). Von den Damen tat sich Frl. Regina
+                        Schweiger als Donna Luzia mit einer sehr sympathischen Leistung hervor. Ihr Auftreten hat Stil
+                        und bedarf keiner Pose. Die beiden verliebten
+                        Mädchen Anny und Kitty waren in den Fräulein
+                        Ostheim und Gregorow recht anziehend verkörpert und ebenso fand Frl. van Rheyn für die
+                        Waise Ella den richtigen, bei den Engländern beliebten sentimentalen Ton. Die meisten der in dem
+                        Stück beschäftigten Darsteller werden freilich ihre
+                        Befähigung erst noch in anderen Stücken nachzuweisen haben, die ihnen mehr Gelegenheit zur Entfaltung ihrer Kräfte geben, als es die liebenswürdige
+                        Dutzendarbeit eines Brandon Thomas vermag. ln.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

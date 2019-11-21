@@ -1,0 +1,616 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+(	(	--	$(	-	yes	-	-	-	-	-
+CXXVII	CXXVII.Sitzung	CXXVII.Sitzung	NE	-	yes	-	-	-	-	-
+.		_		-	yes	-	-	-	-	-
+Sitzung		_		-	yes	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+Kammer	Kammer	Kammer	NN	-	no	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+Abgeordneten	Abgeordneten	abgeordneter	NN	-	no	-	-	-	-	-
+.	.	--	$.	-	no	-	-	-	-	-
+)	)	--	$(	-	yes	-	-	-	-	-
+Die	Die	der	ART	-	yes	-	-	-	-	-
+Gallerien	Galerien	Galerie	NN	-	no	-	-	-	-	-
+sind	sind	sein	VAFIN	-	no	-	-	-	-	-
+dicht	dicht	dicht	ADJD	-	no	-	-	-	-	-
+besetzt	.	--	$.	-	no	-	-	-	-	-
+.	.	--	$.	-	no	-	-	-	-	-
+Am	Am	an	APPRART	-	yes	-	-	-	-	-
+Ministertische	Ministertische	ministertisch	NN	-	no	-	-	-	-	-
+:	:	--	$.	-	no	-	-	-	-	-
+Staatsminister	Staatsminister	Staatsminister	NN	-	no	-	-	-	-	-
+v.	v.	v.	APPR	-	no	-	-	-	-	-
+d.	d.	der	ART	-	no	-	-	-	-	-
+Pfordten	Pforten	Pfort	NN	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+v.	v.	v.	APPR	-	no	-	-	-	-	-
+Lüder	Lüder	Lüder	NE	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+v.	v.	v.	APPRART	-	no	-	-	-	-	-
+Ringelmann	Ringelmann	Ringelmann	NN	-	no	-	-	-	-	-
+.	.	--	$.	-	no	-	-	-	-	-
+Der	Der	der	ART	-	yes	reported.speech.1	-	-	-	-
+erste	erste	erster	ADJA	-	no	reported.speech.1	-	-	-	-
+Präsident	Präsident	Präsident	NN	-	no	reported.speech.1	-	speaker.1_2_3	-	-
+eröffnet	eröffnet	eröffnen	VVFIN	-	no	reported.speech.1	-	-	intexpr.1	-
+um	um	um	APPR	-	no	reported.speech.1	-	-	-	-
+halb	halb	halb	ADJD	-	no	reported.speech.1	-	-	-	-
+10	10	10	CARD	-	no	reported.speech.1	-	-	-	-
+Uhr	Uhr	Uhr	NN	-	no	reported.speech.1	-	-	-	-
+die	die	der	ART	-	no	reported.speech.1	-	-	-	-
+Sitzung	Sitzung	Sitzung	NN	-	no	reported.speech.1	-	-	-	-
+.	.	--	$.	-	no	reported.speech.1	-	-	-	-
+Nach	Nach	nach	APPR	-	yes	reported.speech.2	-	-	-	-
+Bekanntgabe	Bekanntgabe	Bekanntgabe	NN	-	no	reported.speech.2	-	-	intexpr.2	-
+des	des	der	ART	-	no	reported.speech.2	-	-	-	-
+letzten	letzten	letzter	ADJA	-	no	reported.speech.2	-	-	-	-
+Sitzungsprotokolls	Sitzungsprotokolls	Sitzungsprotokoll	NN	-	no	reported.speech.2	-	-	-	-
+wird	wird	werden	VAFIN	-	no	reported.speech.3	-	-	-	-
+der	der	der	ART	-	no	reported.speech.3	-	-	-	-
+Gesammtbeschluß	Gesamtbeschluß	Gesamtbeschluß	NN	-	no	reported.speech.3	-	-	-	-
+über	über	über	APPR	-	no	reported.speech.3	-	-	-	-
+den	den	der	ART	-	no	reported.speech.3	-	-	-	-
+Gesetzentwurf	Gesetzentwurf	Gesetzentwurf	NN	-	no	reported.speech.3	-	-	-	-
+,	,	--	$,	-	no	reported.speech.3	-	-	-	-
+den	den	der	ART	-	no	reported.speech.3	-	-	-	-
+Wildschaden	Wildschaden	Wildschaden	NN	-	no	reported.speech.3	-	-	-	-
+=		_	XY	-	no	reported.speech.3	-	-	-	-
+Ersatz	Ersatz	Ersatz	NN	-	no	reported.speech.3	-	-	-	-
+betr.	betr.	betr.	NE	-	no	reported.speech.3	-	-	-	-
+,	,	--	$,	-	no	reported.speech.3	-	-	-	-
+verlesen	verlesen	verlesen	VVPP	-	no	reported.speech.3	-	-	intexpr.3	-
+.	.	--	$.	-	no	reported.speech.3	-	-	-	-
+Nachdem	Nachdem	nachdem	KOUS	-	yes	reported.speech.4	-	-	-	-
+Referent	ReferentHirschbergerüber	ReferentHirschbergerüber	NE	-	no	reported.speech.4	-	-	-	-
+Hirschberger		_		-	yes	reported.speech.4	-	speaker.4	-	-
+über		_		-	yes	reported.speech.4	-	-	-	-
+den	den	der	ART	-	no	reported.speech.4	-	-	-	-
+Gesetzentwurf	Gesetzentwurf	Gesetzentwurf	NN	-	no	reported.speech.4	-	-	-	-
+:	:	--	$.	-	no	reported.speech.4	-	-	-	-
+die	die	der	ART	-	no	reported.speech.4	-	-	-	-
+Einrichtung	Einrichtung	Einrichtung	NN	-	no	reported.speech.4	-	-	-	-
+der	der	der	ART	-	no	reported.speech.4	-	-	-	-
+Kunststraßen	Kunststraßen	Kunststraße	NN	-	no	reported.speech.4	-	-	-	-
+im	im	in	APPRART	-	no	reported.speech.4	-	-	-	-
+Königreich	Königreich	Königreich	NN	-	no	reported.speech.4	-	-	-	-
+Bayern	Bayern	Bayern	NE	-	no	reported.speech.4	-	-	-	-
+befahrenden	befahrenden	befahrend	ADJA	-	no	reported.speech.4	-	-	-	-
+Fuhrwerkes	Fuhrwerkes	Fuhrwerk	NN	-	no	reported.speech.4	-	-	-	-
+betreffend	betreffend	betreffend	ADJD	-	no	reported.speech.4	-	-	-	-
+,	,	--	$,	-	no	reported.speech.4	-	-	-	-
+Vortrag	Vortrag	Vortrag	NN	-	no	reported.speech.4	-	-	-	-
+erstattet	erstattet	erstatten	VVPP	-	no	reported.speech.4	-	-	intexpr.4	-
+,	,	--	$,	-	no	-	-	-	-	-
+wird	wird	werden	VAFIN	-	no	reported.speech.5	-	-	-	-
+die	die	der	ART	-	no	reported.speech.5	-	-	-	-
+Berathung	Beratung	Beratung	NN	-	no	reported.speech.5	-	-	intexpr.5	-
+über	über	über	APPR	-	no	reported.speech.5	-	-	-	-
+den	den	der	ART	-	no	reported.speech.5	-	-	-	-
+Vortrag	Vortrag	Vortrag	NN	-	no	reported.speech.5	-	-	-	-
+des	des	der	ART	-	no	reported.speech.5	-	-	-	-
+Ausschusses	Ausschusses	Ausschuß	NN	-	no	reported.speech.5	-	-	-	-
+für	für	für	APPR	-	no	reported.speech.5	-	-	-	-
+die	die	der	ART	-	no	reported.speech.5	-	-	-	-
+deutsche	deutsche	deutsch	ADJA	-	no	reported.speech.5	-	-	-	-
+Frage	Frage	Frage	NN	-	no	reported.speech.5	-	-	-	-
+sortgesetzt	sortgesetzt	sortgesetzen	ADJD	-	no	reported.speech.5	-	-	-	-
+.	.Lassaulxbetritt	.Lassaulxbetreten	NN	-	no	reported.speech.5	-	-	-	-
+Lassaulx		_		-	yes	-	-	speaker.6	-	-
+betritt		_		-	yes	-	-	-	-	-
+die	die	der	ART	-	no	-	-	-	-	-
+Rednerbühne	Rednerbühne	Rednerbühne	NN	-	no	-	-	-	-	-
+und	und	und	KON	-	no	-	-	-	-	-
+bearbeitet	bearbeitet	bearbeiten	VVPP	-	no	reported.speech.6	-	-	-	-
+den	den	der	ART	-	no	reported.speech.6	-	-	-	-
+,	,	--	$,	-	no	reported.speech.6	-	-	-	-
+wie	wie	wie	PWAV	-	no	reported.speech.6	frame.47	-	-	-
+Redner	Redner	Redner	NN	-	no	reported.speech.6	frame.47	speaker.47_53	-	-
+sich	sich	sich	PRF	-	no	reported.speech.6	frame.47	-	intexpr.47	-
+ausdrückt	ausdrückt	ausdrücken	VVFIN	-	no	reported.speech.6	frame.47	-	intexpr.47	-
+,	,	--	$,	-	no	reported.speech.6	frame.47	-	-	-
+verkehrten	verkehrten	verkehrt	ADJA	-	no	reported.speech.6|indirect.speech.47|reported.speech.48	-	-	-	-
+Antrag	Antrag	Antrag	NN	-	no	reported.speech.6|indirect.speech.47|reported.speech.48	-	-	intexpr.48	-
+der	der	der	ART	-	no	reported.speech.6|indirect.speech.47|reported.speech.48	-	-	-	-
+Linken	Linken	linke	NN	-	no	reported.speech.6|indirect.speech.47|reported.speech.48	-	speaker.48_35	-	-
+.	.	--	$.	-	no	reported.speech.6|indirect.speech.47|reported.speech.48	-	-	-	-
+Dieser	Dieser	dieser	PDAT	-	yes	indirect freeIndirect.speech.53|reported.speech.35	-	-	-	-
+Antrag	Antrag	Antrag	NN	-	no	indirect freeIndirect.speech.53|reported.speech.35	-	-	intexpr.35	-
+sei	sei	sein	VAFIN	-	no	indirect freeIndirect.speech.53	-	-	-	-
+ein	ein	ein	ART	-	no	indirect freeIndirect.speech.53	-	-	-	-
+Akt	Akt	Akt	NN	-	no	indirect freeIndirect.speech.53	-	-	-	-
+der	der	der	ART	-	no	indirect freeIndirect.speech.53	-	-	-	-
+Rache	Rache	Rache	NN	-	no	indirect freeIndirect.speech.53	-	-	-	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.53	-	-	-	-
+wie	wie	wie	PWAV	-	no	indirect freeIndirect.speech.53	-	-	-	-
+in	in	in	APPR	-	no	indirect freeIndirect.speech.53	-	-	-	-
+einer	einer	ein	ART	-	no	indirect freeIndirect.speech.53	-	-	-	-
+frühern	früheren	früh	ADJA	-	no	indirect freeIndirect.speech.53	-	-	-	-
+Sitzung	Sitzung	Sitzung	NN	-	no	indirect freeIndirect.speech.53	-	-	-	-
+ein	ein	ein	ART	-	no	indirect freeIndirect.speech.53	-	-	-	-
+ähnlicher	ähnlicher	ähnlich	ADJA	-	no	indirect freeIndirect.speech.53	-	-	-	-
+sei	sei	sein	VAFIN	-	no	indirect freeIndirect.speech.53	-	-	-	-
+durchgeführt	durchgeführt	durchführen	VVPP	-	no	indirect freeIndirect.speech.53	-	-	-	-
+worden	worden	werden	VAPP	-	no	indirect freeIndirect.speech.53	-	-	-	-
+.	.	--	$.	-	no	indirect freeIndirect.speech.53	-	-	-	-
+Abgeordnete	Abgeordnete	abgeordneter	NN	-	yes	indirect freeIndirect.speech.53	frame.8	-	-	-
+Stöcker	Stöcker	Stöcker	NE	-	no	indirect freeIndirect.speech.53	frame.8	speaker.8	-	-
+habe	habe	haben	VAFIN	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+dabe	Tabe	Tabe	NE	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+damals	damals	damals	ADV	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+in	in	in	APPR	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+seiner	seiner	sein	PPOSAT	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+gewohnten	gewohnten	gewohnt	ADJA	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+Gradheit	Geradheit	Geradheit	NN	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+gesagt	gesagt	sagen	VVPP	-	no	indirect freeIndirect.speech.53	frame.8	-	intexpr.8	-
+:	:	--	$.	-	no	indirect freeIndirect.speech.53	frame.8	-	-	-
+„	&quot;	&quot;	$(	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+weil	weil	weil	KOUS	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+Jhr	Ihr	ihr	PPER	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+unsere	unsere	unser	PPOSAT	-	no	indirect freeIndirect.speech.53|direct.speech.8|reported.speech.37	-	speaker.37	-	-
+Abänderungsvorschläge	Abänderungsvorschläge	Abänderungsvorschlag	NN	-	no	indirect freeIndirect.speech.53|direct.speech.8|reported.speech.37	-	-	intexpr.37	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+angenommen	angenommen	annehmen	VVPP	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+habt	habt	haben	VAFIN	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+so	so	so	ADV	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+nehmen	nehmen	nehmen	VVFIN	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+wir	wir	wir	PPER	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+Euere	Eure	euer	PPOSAT	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+Lehensabänderungen	Lehensabänderungen	Lehensabänderung	NN	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+auch	auch	auch	ADV	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+an	an	an	PTKVZ	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+.	.	--	$.	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+“	&quot;	&quot;	$(	-	no	indirect freeIndirect.speech.53|direct.speech.8	-	-	-	-
+Jn	In	in	APPR	-	yes	reported.speech.9	-	-	-	-
+bewunderungswürdiger	bewunderungswürdiger	bewunderungswürdig	ADJA	-	no	reported.speech.9	-	-	-	-
+Naivität	Naivität	Naivität	NN	-	no	reported.speech.9	-	-	-	-
+hat	hat	haben	VAFIN	-	no	reported.speech.9	-	-	-	-
+auf	auf	auf	APPR	-	no	reported.speech.9	-	-	-	-
+feindiplomatische	feindiplomatische	feindiplomatisch	ADJA	-	no	reported.speech.9	-	-	-	-
+Weise	Weise	Weise	NN	-	no	reported.speech.9	-	-	-	-
+Herr	Herr	Herr	NN	-	no	reported.speech.9	-	speaker.9	-	-
+Fürst	Fürst	Fürst	NN	-	no	reported.speech.9	-	speaker.9	-	-
+Wallerstein	Wallerstein	Wallerstein	NN	-	no	reported.speech.9	-	speaker.9	-	-
+diese	diese	dieser	PDAT	-	no	reported.speech.9	-	-	-	-
+Sache	Sache	Sache	NN	-	no	reported.speech.9	-	-	-	-
+vertreten	vertreten	vertreten	VVPP	-	no	reported.speech.9	-	-	intexpr.9	-
+.	.	--	$.	-	no	reported.speech.9	-	-	-	-
+Dem	Dem	der	ART	-	yes	indirect freeIndirect.speech.55|reported.speech.10.nonfact|reported.speech.40	-	-	-	-
+Antrage	Antrage	Antrage	NN	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact|reported.speech.40	-	-	intexpr.40	-
+Heine's	Heine's	Heine's	NE	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact|reported.speech.40	-	speaker.40	-	-
+würde	würde	werden	VAFIN	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	-	-
+Redner	Redner	Redner	NN	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	speaker.55_10_11	-	-
+am	am	an	PTKA	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	-	-
+ehesten	ehesten	eher	ADJD	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	-	-
+beizustimmen	beizustimmen	beizustimmen	VVIZU	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	-	-
+gesonnen	gesonnen	gesinnen	VVPP	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	intexpr.10	-
+sein	sein	sein	VAINF	-	no	indirect freeIndirect.speech.55|reported.speech.10.nonfact	-	-	-	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.55	-	-	-	-
+wenn	wenn	wenn	KOUS	-	no	indirect freeIndirect.speech.55	-	-	-	-
+es	es	es	PPER	-	no	indirect freeIndirect.speech.55	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect freeIndirect.speech.55	-	-	-	-
+Beleidigung	Beleidigung	Beleidigung	NN	-	no	indirect freeIndirect.speech.55	-	-	-	-
+für	für	für	APPR	-	no	indirect freeIndirect.speech.55	-	-	-	-
+Oesterreich	Österreich	Österreich	NE	-	no	indirect freeIndirect.speech.55	-	-	-	-
+wäre	wäre	sein	VAFIN	-	no	indirect freeIndirect.speech.55	-	-	-	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.55	-	-	-	-
+das	das	der	PRELS	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact	-	-	-	-
+zu	zu	zu	PTKZU	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact	-	-	-	-
+wiederholen	wiederholen	wiederholen	VVINF	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact	-	-	intexpr.11	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact	-	-	-	-
+was	was	was	PRELS	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	-	-
+Oesterreich	Österreich	Österreich	NE	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	speaker.12	-	-
+schon	schon	schon	ADV	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	-	-
+lange	lange	lange	ADV	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	-	-
+versprochen	versprochen	versprechen	VVPP	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	intexpr.12	-
+hat	hat	haben	VAFIN	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	-	-
+.	.	--	$.	-	no	indirect freeIndirect.speech.55|reported.speech.11.nonfact|reported.speech.12	-	-	-	-
+Redner	Redner	Redner	NN	-	yes	reported.speech.13	-	speaker.13_51	-	-
+beleuchtet	beleuchtet	beleuchten	VVPP	-	no	reported.speech.13	-	-	intexpr.13	-
+nun	nun	nun	ADV	-	no	reported.speech.13	-	-	-	-
+Deutschland	Deutschland	Deutschland	NE	-	no	reported.speech.13	-	-	-	-
+,	,	--	$,	-	no	reported.speech.13	-	-	-	-
+wie	wie	wie	PWAV	-	no	reported.speech.13	-	-	-	-
+es	es	es	PPER	-	no	reported.speech.13	-	-	-	-
+seit	seit	seit	APPR	-	no	reported.speech.13	-	-	-	-
+der	der	der	ART	-	no	reported.speech.13	-	-	-	-
+Verpflanzung	Verpflanzung	Verpflanzung	NN	-	no	reported.speech.13	-	-	-	-
+der	der	der	ART	-	no	reported.speech.13	-	-	-	-
+politischen	politischen	politisch	ADJA	-	no	reported.speech.13	-	-	-	-
+Kartoffelkrankheit	Kartoffelkrankheit	Kartoffelkrankheit	NN	-	no	reported.speech.13	-	-	-	-
+von	von	von	APPR	-	no	reported.speech.13	-	-	-	-
+Frankreich	Frankreich	Frankreich	NE	-	no	reported.speech.13	-	-	-	-
+nach	nach	nach	APPR	-	no	reported.speech.13	-	-	-	-
+Deutschland	Deutschland	Deutschland	NE	-	no	reported.speech.13	-	-	-	-
+aussähe	aussähe	aussähen	VVFIN	-	no	reported.speech.13	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+und	und	und	KON	-	no	reported.speech.51	-	-	-	-
+hält	hält	halten	VVFIN	-	no	reported.speech.51	-	-	-	-
+eine	eine	ein	ART	-	no	reported.speech.51	-	-	-	-
+ungeheure	ungeheure	ungeheuer	ADJA	-	no	reported.speech.51	-	-	-	-
+Lodrede	Lodrede	Lodrede	NN	-	no	reported.speech.51	-	-	intexpr.51	-
+auf	auf	auf	APPR	-	no	reported.speech.51	-	-	-	-
+den	den	der	ART	-	no	reported.speech.51	-	-	-	-
+edlen	edlen	edel	ADJA	-	no	reported.speech.51	-	-	-	-
+und	und	und	KON	-	no	reported.speech.51	-	-	-	-
+ritterlichen	ritterlichen	ritterlich	ADJA	-	no	reported.speech.51	-	-	-	-
+Sinn	Sinn	Sinn	NN	-	no	reported.speech.51	-	-	-	-
+des	des	der	ART	-	no	reported.speech.51	-	-	-	-
+Beherrschers	Beherrschers	Beherrscher	NN	-	no	reported.speech.51	-	-	-	-
+aller	aller	aller	PIAT	-	no	reported.speech.51	-	-	-	-
+Reußen	Reußen	Reußen	NN	-	no	reported.speech.51	-	-	-	-
+.	.	--	$.	-	no	reported.speech.51	-	-	-	-
+Wer	Wer	wer	PWS	-	yes	indirect.speech.15	-	-	-	-
+habe	habe	haben	VAFIN	-	no	indirect.speech.15	-	-	-	-
+Oesterreich	Österreich	Österreich	NE	-	no	indirect.speech.15	-	-	-	-
+gerettet	gerettet	retten	VVPP	-	no	indirect.speech.15	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.15	-	-	-	-
+fragt	fragt	fragen	VVFIN	-	no	-	frame.15	-	intexpr.15	-
+Redner	Redner	Redner	NN	-	no	-	frame.15	speaker.15	-	-
+,	,	--	$,	-	no	-	frame.15	-	-	-
+als	als	als	KOUS	-	no	indirect.speech.15	-	-	-	-
+es	es	es	PPER	-	no	indirect.speech.15	-	-	-	-
+in	in	in	APPR	-	no	indirect.speech.15	-	-	-	-
+Jtalien	Italien	Italien	NE	-	no	indirect.speech.15	-	-	-	-
+einem	einem	ein	ART	-	no	indirect.speech.15	-	-	-	-
+empörerischen	empörerischen	empörerisch	ADJA	-	no	indirect.speech.15	-	-	-	-
+Könige	Könige	König	NN	-	no	indirect.speech.15	-	-	-	-
+gegenüber	gegenüber	gegenüber	APPO	-	no	indirect.speech.15	-	-	-	-
+stand	stand	stehen	VVFIN	-	no	indirect.speech.15	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.15	-	-	-	-
+als	als	als	KOUS	-	no	indirect.speech.15	-	-	-	-
+sich	sich	sich	PRF	-	no	indirect.speech.15	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.15	-	-	-	-
+ungarischen	ungarischen	ungarisch	ADJA	-	no	indirect.speech.15	-	-	-	-
+Magnaten	Magnaten	Magnate	NN	-	no	indirect.speech.15	-	-	-	-
+gegen	gegen	gegen	APPR	-	no	indirect.speech.15	-	-	-	-
+ihren	ihren	ihr	PPOSAT	-	no	indirect.speech.15	-	-	-	-
+rechtmäßigen	rechtmäßigen	rechtmäßig	ADJA	-	no	indirect.speech.15	-	-	-	-
+Herrscher	Herrscher	Herrscher	NN	-	no	indirect.speech.15	-	-	-	-
+aufgelehnt	aufgelehnt	auflehnen	VVPP	-	no	indirect.speech.15	-	-	-	-
+und	und	und	KON	-	no	indirect.speech.15	-	-	-	-
+als	als	als	KOUS	-	no	indirect.speech.15	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.15	-	-	-	-
+Revolutionen	Revolutionen	Revolution	NN	-	no	indirect.speech.15	-	-	-	-
+in	in	in	APPR	-	no	indirect.speech.15	-	-	-	-
+den	den	der	ART	-	no	indirect.speech.15	-	-	-	-
+Thoren	Toren	Tor	NN	-	no	indirect.speech.15	-	-	-	-
+Wiens	Wiens	Wien	NE	-	no	indirect.speech.15	-	-	-	-
+wütheten	wüteten	wüten	VVFIN	-	no	indirect.speech.15	-	-	-	-
+?	?	--	$.	-	no	indirect.speech.15	-	-	-	-
+Wer	Wer	wer	PWS	-	yes	-	-	-	-	-
+anders	anders	anders	ADV	-	no	-	-	-	-	-
+alt	alt	alt	ADJD	-	no	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+edle	edle	edel	ADJA	-	no	-	-	-	-	-
+biedere	biedere	biedern	ADJA	-	no	-	-	-	-	-
+Sinn	Sinn	Sinn	NN	-	no	-	-	-	-	-
+eines	eines	ein	ART	-	no	-	-	-	-	-
+Reußen	Reußen	Reußen	NN	-	no	-	-	-	-	-
+?	?	--	$.	-	no	-	-	-	-	-
+Kein	Kein	kein	PIAT	-	yes	reported.speech.16.nonfact	-	-	-	-
+Deutscher	Deutscher	deutsch	NN	-	no	reported.speech.16.nonfact	-	speaker.16	-	-
+sprach	sprach	sprechen	VVFIN	-	no	reported.speech.16.nonfact	-	-	intexpr.16	-
+ein	ein	ein	ART	-	no	reported.speech.16.nonfact	-	-	-	-
+Wort	Wort	Wort	NN	-	no	reported.speech.16.nonfact	-	-	-	-
+für	für	für	APPR	-	no	reported.speech.16.nonfact	-	-	-	-
+die	die	der	ART	-	no	reported.speech.16.nonfact	-	-	-	-
+harte	harte	hart	ADJA	-	no	reported.speech.16.nonfact	-	-	-	-
+Bedrängniß	Bedrängnis	Bedrängnis	NN	-	no	reported.speech.16.nonfact	-	-	-	-
+des	des	der	ART	-	no	reported.speech.16.nonfact	-	-	-	-
+jungen	jungen	jung	ADJA	-	no	reported.speech.16.nonfact	-	-	-	-
+Kaisers	Kaisers	Kaiser	NN	-	no	reported.speech.16.nonfact	-	-	-	-
+.	.	--	$.	-	no	reported.speech.16.nonfact	-	-	-	-
+Man	Man	man	PIS	-	yes	indirect.speech.17	frame.18	speaker.18	-	-
+sage	sage	sagen	VVFIN	-	no	indirect.speech.17	frame.18	-	intexpr.18	-
+,	,	--	$,	-	no	-	frame.17	-	-	-
+bemerkt	bemerkt	bemerken	VVFIN	-	no	-	frame.17	-	intexpr.17	-
+der	der	der	ART	-	no	-	frame.17	-	-	-
+Redner	Redner	Redner	NN	-	no	-	frame.17	speaker.17	-	-
+,	,	--	$,	-	no	-	frame.17	-	-	-
+wir	wir	wir	PPER	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+brauchen	brauchen	brauchen	VVFIN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+keine	keine	kein	PIAT	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+Slaven	Slawen	Slawe	NN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+keine	keine	kein	PIAT	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+Ungarn	Ungarn	Ungarn	NN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+keine	keine	kein	PIAT	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+Tschechen	Tschechen	Tscheche	NN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+deshalb	deshalb	deshalb	PAV	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+könne	könne	können	VMFIN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+man	man	man	PIS	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+sich	sich	sich	PRF	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+auch	auch	auch	ADV	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+an	an	an	APPR	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+Oesterrelch	Österelch	Österelch	NN	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+anschließen	anschließen	anschließen	VVINF	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+.	.	--	$.	-	no	indirect.speech.17|indirect.speech.18	-	-	-	-
+Wenn	Wenn	wenn	KOUS	-	yes	-	-	-	-	-
+dies	dies	dieser	PDS	-	no	-	-	-	-	-
+politische	politische	politisch	ADJA	-	no	-	-	-	-	-
+Klugheit	Klugheit	Klugheit	NN	-	no	-	-	-	-	-
+ist	ist	sein	VAFIN	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+dann	dann	dann	ADV	-	no	-	-	-	-	-
+gibt	gibt	geben	VVFIN	-	no	-	-	-	-	-
+es	es	es	PPER	-	no	-	-	-	-	-
+keine	keine	kein	PIAT	-	no	-	-	-	-	-
+politische	politische	politisch	ADJA	-	no	-	-	-	-	-
+Thorheit	Torheit	Torheit	NN	-	no	-	-	-	-	-
+.	.	--	$.	-	no	-	-	-	-	-
+Wenn	Wenn	wenn	KOUS	-	yes	-	-	-	-	-
+die	die	der	ART	-	no	-	-	-	-	-
+Engländer	Engländer	Engländer	NN	-	no	-	-	-	-	-
+oder	oder	oder	KON	-	no	-	-	-	-	-
+Franzosen	Franzosen	Franzose	NN	-	no	-	-	-	-	-
+ihre	ihre	ihr	PPOSAT	-	no	-	-	-	-	-
+Macht	Macht	Macht	NN	-	no	-	-	-	-	-
+durch	durch	durch	APPR	-	no	-	-	-	-	-
+Gewinnung	Gewinnung	Gewinnung	NN	-	no	-	-	-	-	-
+einer	einer	ein	ART	-	no	-	-	-	-	-
+andern	anderen	anderer	ADJA	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+wenn	wenn	wenn	KOUS	-	no	-	-	-	-	-
+auch	auch	auch	ADV	-	no	-	-	-	-	-
+kleinern	kleineren	klein	ADJA	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+Macht	Macht	Macht	NN	-	no	-	-	-	-	-
+vergrößern	vergrößern	vergrößern	VVINF	-	no	-	-	-	-	-
+können	können	können	VMFIN	-	no	-	-	-	-	-
+und	und	und	KON	-	no	-	-	-	-	-
+man	man	man	PIS	-	no	-	frame.19	speaker.19	-	-
+würde	würde	werden	VAFIN	-	no	-	frame.19	-	-	-
+ihnen	ihnen	ihnen	PPER	-	no	-	frame.19	-	-	-
+bemerken	bemerken	bemerken	VVINF	-	no	-	frame.19	-	intexpr.19	-
+,	,	--	$,	-	no	-	frame.19	-	-	-
+diese	diese	dieser	PDAT	-	no	indirect.speech.19	-	-	-	-
+Macht	Macht	Macht	NN	-	no	indirect.speech.19	-	-	-	-
+sei	sei	sein	VAFIN	-	no	indirect.speech.19	-	-	-	-
+ja	ja	ja	ADV	-	no	indirect.speech.19	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect.speech.19	-	-	-	-
+engländisch	engländisch	engländisch	NE	-	no	indirect.speech.19	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.19	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect.speech.19	-	-	-	-
+französisch	französisch	französisch	ADJD	-	no	indirect.speech.19	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+so	so	so	ADV	-	no	-	-	-	-	-
+würde	würde	werden	VAFIN	-	no	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+Engländer	Engländer	Engländer	NN	-	no	-	-	-	-	-
+dem	dem	der	ART	-	no	-	-	-	-	-
+Bemerkenden	Bemerkenden	bemerkend	NN	-	no	-	-	-	-	-
+ins	ins	in	APPRART	-	no	-	-	-	-	-
+Gesicht	Gesicht	Gesicht	NN	-	no	-	-	-	-	-
+lachen	lachen	lachen	VVFIN	-	no	-	-	-	-	-
+--	--	-	$(	-	no	-	-	-	-	-
+nein	nein	nein	PTKANT	-	no	-	-	-	-	-
+!	!	--	$.	-	no	-	-	-	-	-
+er	er	er	PPER	-	yes	-	-	-	-	-
+würde	würde	werden	VAFIN	-	no	-	-	-	-	-
+ihn	ihn	ihn	PPER	-	no	-	-	-	-	-
+durch	durch	durch	APPR	-	no	-	-	-	-	-
+seinen	seinen	sein	PPOSAT	-	no	-	-	-	-	-
+Bedienten	Bedienten	Bedient	NN	-	no	-	-	-	-	-
+auslachen	auslachen	auslachen	VVINF	-	no	-	-	-	-	-
+lassen	lassen	lassen	VVINF	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+(	(	--	$(	-	no	-	-	-	-	-
+ungeheures	ungeheures	ungeheuer	ADJA	-	no	-	-	-	-	-
+Gelächter	Gelächter	Gelächter	NN	-	no	-	-	-	-	-
+im	im	in	APPRART	-	no	-	-	-	-	-
+Saale	Saale	Saale	NN	-	no	-	-	-	-	-
+und	und	und	KON	-	no	-	-	-	-	-
+den	den	der	ART	-	no	-	-	-	-	-
+Gallerien	Galerien	Galerie	NN	-	no	-	-	-	-	-
+)	)	--	$(	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+er	er	er	PPER	-	no	-	-	-	-	-
+würde	würde	werden	VAFIN	-	no	-	-	-	-	-
+noch	noch	noch	ADV	-	no	-	-	-	-	-
+mehr	mehr	mehr	ADV	-	no	-	-	-	-	-
+thun	tun	tun	VVINF	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+er	er	er	PPER	-	no	-	-	-	-	-
+würde	würde	werden	VAFIN	-	no	-	-	-	-	-
+es	es	es	PPER	-	no	-	-	-	-	-
+machen	machen	machen	VVFIN	-	no	-	-	-	-	-
+wie	wie	wie	KOKOM	-	no	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+Löwe	Löwe	Löwe	NE	-	no	-	-	-	-	-
+in	in	in	APPR	-	no	-	-	-	-	-
+Don	Don	Don	NE	-	no	-	-	-	-	-
+Quixote	Quijote	Quijote	NE	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+der	der	der	PRELS	-	no	-	-	-	-	-
+dem	dem	der	ART	-	no	-	-	-	-	-
+Junker	Junker	Junker	NN	-	no	-	-	-	-	-
+seine	seine	sein	PPOSAT	-	no	-	-	-	-	-
+verkehrte	verkehrte	verkehrt	VVFIN	-	no	-	-	-	-	-
+Fronte	Fronte	Fronte	NN	-	no	-	-	-	-	-
+zeigte	zeigte	zeigen	VVFIN	-	no	-	-	-	-	-
+.	.	--	$.	-	no	-	-	-	-	-
+(	(	--	$(	-	yes	-	-	-	-	-
+Ungeheures	Ungeheures	ungeheures	ADJA	-	no	-	-	-	-	-
+Gelächter	Gelächter	Gelächter	NN	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+untermengt	untermengt	untermengen	VVFIN	-	no	-	-	-	-	-
+mit	mit	mit	APPR	-	no	-	-	-	-	-
+dem	dem	der	ART	-	no	-	-	-	-	-
+Rufe	Rufe	Rufe	NN	-	no	-	-	-	-	-
+„	&quot;	&quot;	$(	-	no	direct.speech.20	-	-	-	-
+Pfui	Pfui	Pfui	VVPP	-	no	direct.speech.20	-	-	-	-
+!	!	--	$.	-	no	direct.speech.20	-	-	-	-
+Pfui	Pfui	Pfui	NN	-	yes	direct.speech.20	-	-	-	-
+!	!	--	$.	-	no	direct.speech.20	-	-	-	-
+“	&quot;	&quot;	$(	-	no	direct.speech.20	-	-	-	-
+)	)	--	$(	-	yes	-	-	-	-	-
+--	--I	--I	TRUNC	-	no	-	-	-	-	-
+I	.	--	$.	-	yes	-	frame.21	-	-	-
+.	.	--	$.	-	yes	-	frame.21	-	-	-
+Präsident	Präsident	Präsident	NN	-	yes	-	frame.21	speaker.21	-	-
+bemerkt	bemerkt	bemerken	VVFIN	-	no	-	frame.21	-	intexpr.21	-
+,	,	--	$,	-	no	-	frame.21	-	-	-
+daß	daß	daß	KOUS	-	no	indirect.speech.21	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.21|reported.speech.41.nonfact	-	-	-	-
+Rede	Rede	Rede	NN	-	no	indirect.speech.21|reported.speech.41.nonfact	-	-	intexpr.41	-
+in	in	in	APPR	-	no	indirect.speech.21|reported.speech.41.nonfact	-	-	-	-
+diesem	diesem	dieser	PDAT	-	no	indirect.speech.21|reported.speech.41.nonfact	-	-	-	-
+Saale	Saale	Saale	NN	-	no	indirect.speech.21|reported.speech.41.nonfact	-	-	-	-
+frei	frei	frei	ADJD	-	no	indirect.speech.21	-	-	-	-
+sei	sei	sein	VAFIN	-	no	indirect.speech.21	-	-	-	-
+;	;	--	$.	-	no	indirect.speech.21	-	-	-	-
+je	je	je	ADV	-	no	indirect.speech.21	-	-	-	-
+größer	größer	groß	ADJD	-	no	indirect.speech.21	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.21	-	-	-	-
+Jdee	Idee	Idee	NN	-	no	indirect.speech.21	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.21	-	-	-	-
+desto	desto	desto	ADV	-	no	indirect.speech.21	-	-	-	-
+größer	größer	groß	ADJD	-	no	indirect.speech.21	-	-	-	-
+diese	diese	dieser	PDAT	-	no	indirect.speech.21	-	-	-	-
+Freiheit	Freiheit	Freiheit	NN	-	no	indirect.speech.21	-	-	-	-
+;	;	--	$.	-	no	indirect.speech.21	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+Grenze	Grenze	Grenze	NN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+zwischen	zwischen	zwischen	APPR	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+Jdee	Idee	Idee	NN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+u.	u.	u.	APPR	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+Rohheit	Rohheit	Rohheit	NN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+müsse	müsse	müssen	VMFIN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+übrigens	übrigens	übrigens	ADV	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+politische	politische	politisch	ADJA	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+Vernunft	Vernunft	Vernunft	NN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	speaker.46	-	-
+scheiden	scheiden	scheiden	VVFIN	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	intexpr.46	-
+.	.	--	$.	-	no	indirect.speech.21|reported.thought.46.nonfact	-	-	-	-
+(	(	--	$(	-	yes	-	-	-	-	-
+Mehrseitiges	Mehrseitiges	mehrseitig	ADJA	-	no	reported.speech.42	-	speaker.42	-	-
+Bravo	Bravo	Bravo	ITJ	-	no	reported.speech.42	-	-	intexpr.42	-
+.	.	--	$.	-	no	reported.speech.42	-	-	-	-
+)	)	--	$(	-	yes	-	-	-	-	-
+--	--	-	$(	-	no	-	-	-	-	-
+Lassaulx	Lassaulx	Lassaulx	NE	-	no	reported.speech.23	-	speaker.23	-	-
+erklärt	erklärt	erklären	VVFIN	-	no	reported.speech.23	-	-	intexpr.23	-
+es	es	es	PPER	-	no	reported.speech.23	-	-	-	-
+für	für	für	APPR	-	no	reported.speech.23	-	-	-	-
+übelangewendete	übelangewendete	übelangewendet	ADJA	-	no	reported.speech.23	-	-	-	-
+Zimperlichkeit	Zimperlichkeit	Zimperlichkeit	NN	-	no	reported.speech.23	-	-	-	-
+,	,	--	$,	-	no	reported.speech.23	-	-	-	-
+etwas	etwas	etwas	ADV	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+in	in	in	APPR	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+einer	einer	ein	ART	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+Versammlung	Versammlung	Versammlung	NN	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+von	von	von	APPR	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+Männernnicht	Männernnicht	Männernnicht	NE	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+zu	zu	zu	PTKZU	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+sagen	sagen	sagen	VVINF	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	intexpr.24	-
+,	,	--	$,	-	no	reported.speech.23|reported.speech.24.nonfact	-	-	-	-
+was	was	was	PRELS	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	-	-
+der	der	der	ART	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	-	-
+große	große	groß	ADJA	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	-	-
+Dichter	Dichter	Dichter	NN	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	-	-
+Cervantes	Cervantes	Cervantes	NE	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	speaker.25	-	-
+sagte	sagte	sagen	VVFIN	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	intexpr.25	-
+.	.	--	$.	-	no	reported.speech.23|reported.speech.24.nonfact|reported.speech.25	-	-	-	-
+Nach	Nach	nach	APPR	-	yes	reported.speech.26	-	-	-	-
+noch	noch	noch	ADV	-	no	reported.speech.26	-	-	-	-
+einigen	einigen	einiger	PIAT	-	no	reported.speech.26	-	-	-	-
+Bemerkungen	Bemerkungen	Bemerkung	NN	-	no	reported.speech.26	-	-	intexpr.26	-
+verläßt	verläßt	verlassen	VVFIN	-	no	-	-	-	-	-
+der	der	der	ART	-	no	-	-	-	-	-
+Redner	Redner	Redner	NN	-	no	-	-	speaker.26	-	-
+die	die	der	ART	-	no	-	-	-	-	-
+Rednerbühne	Rednerbühne	Rednerbühne	NN	-	no	-	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+und	undReinhart	undreinhart	NE	-	no	reported.speech.27	-	-	-	-
+Reinhart		_		-	yes	reported.speech.27	-	speaker.27_54	-	-
+ergreift	ergreift	ergreifen	VVFIN	-	yes	reported.speech.27	-	-	-	-
+das	das	der	ART	-	no	reported.speech.27	-	-	-	-
+Wort	Wort	Wort	NN	-	no	reported.speech.27	-	-	intexpr.27	-
+.	.	--	$.	-	no	reported.speech.27	-	-	-	-
+Dieser	Dieser	dieser	PDS	-	yes	indirect freeIndirect.speech.54|reported.thought.45	-	speaker.45	-	-
+glaubt	glaubt	glauben	VVFIN	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	intexpr.45	-
+freilich	freilich	freilich	ADV	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+durch	durch	durch	APPR	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+seine	seine	sein	PPOSAT	-	no	indirect freeIndirect.speech.54|reported.thought.45|reported.speech.52	-	speaker.52	-	-
+Rede	Rede	Rede	NN	-	no	indirect freeIndirect.speech.54|reported.thought.45|reported.speech.52	-	-	intexpr.52	-
+die	die	der	ART	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+Einheit	Einheit	Einheit	NN	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+Deutschlands	Deutschlands	Deutschland	NE	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+und	und	und	KON	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+dessen	dessen	der	PRELAT	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+Glück	Glück	Glück	NN	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+herbeiführen	herbeiführen	herbeiführen	VVINF	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+zu	zu	zu	PTKZU	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+können	können	können	VMINF	-	no	indirect freeIndirect.speech.54|reported.thought.45	-	-	-	-
+,	,	--	$,	-	no	indirect freeIndirect.speech.54	-	-	-	-
+allein	allein	allein	ADV	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	-	-
+doch	doch	doch	ADV	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	-	-
+habe	habe	haben	VAFIN	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	-	-
+er	er	er	PPER	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	speaker.44	-	-
+Mehreres	Mehreres	Mehrere	PIS	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	-	-
+anzuführen	anzuführen	anführen	VVIZU	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	intexpr.44	-
+.	.	--	$.	-	no	indirect freeIndirect.speech.54|reported.speech.44.nonfact	-	-	-	-
+Als	Als	als	KOUS	-	yes	reported.speech.30.nonfact	-	-	-	-
+derselbe	derselbe	derselbe	PDAT	-	no	reported.speech.30.nonfact	-	speaker.30	-	-
+nun	nun	nun	ADV	-	no	reported.speech.30.nonfact	-	-	-	-
+von	von	von	APPR	-	no	reported.speech.30.nonfact	-	-	-	-
+Eidbruch	Eidbruch	Eidbruch	NN	-	no	reported.speech.30.nonfact	-	-	-	-
+eines	eines	ein	ART	-	no	reported.speech.30.nonfact	-	-	-	-
+Regenten	Regenten	Regent	NN	-	no	reported.speech.30.nonfact	-	-	-	-
+sprechen	sprechen	sprechen	VVINF	-	no	reported.speech.30.nonfact	-	-	intexpr.30	-
+wollte	wollte	wollen	VMFIN	-	no	reported.speech.30.nonfact	-	-	-	-
+,	,	--	$,	-	no	-	-	-	-	-
+bemerkt	bemerkt	bemerken	VVFIN	-	no	-	frame.31	-	intexpr.31	-
+Staatsminister	Staatsminister	Staatsminister	NN	-	no	-	frame.31	speaker.31	-	-
+v.	v.	v.	APPR	-	no	-	frame.31	speaker.31	-	-
+d.	d.	der	ART	-	no	-	frame.31	speaker.31	-	-
+Pfordten	Pforten	Pfort	NN	-	yes	-	frame.31	speaker.31	-	-
+,	,	--	$,	-	no	-	frame.31	-	-	-
+daß	daß	daß	KOUS	-	yes	indirect.speech.31	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.31	-	-	-	-
+Regierung	Regierung	Regierung	NN	-	no	indirect.speech.31	-	-	-	-
+allen	allen	aller	PIAT	-	no	indirect.speech.31|reported.speech.32	-	-	-	-
+Discussionen	Diskussionen	Diskussion	NN	-	no	indirect.speech.31|reported.speech.32	-	-	intexpr.32	-
+der	der	der	ART	-	no	indirect.speech.31|reported.speech.32	-	-	-	-
+hohen	hohen	hoch	ADJA	-	no	indirect.speech.31|reported.speech.32	-	speaker.32	-	-
+Kammer	Kammer	Kammer	NN	-	no	indirect.speech.31|reported.speech.32	-	speaker.32	-	-
+beiwohne	beiwohne	beiwohnen	VVFIN	-	no	indirect.speech.31	-	-	-	-
+;	;	--	$.	-	no	indirect.speech.31	-	-	-	-
+wenn	wenn	wenn	KOUS	-	no	indirect.speech.31	-	-	-	-
+aber	aber	aber	ADV	-	no	indirect.speech.31	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.31	-	-	-	-
+Rücksichten	Rücksichten	Rücksichte	NN	-	no	indirect.speech.31	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.31	-	-	-	-
+die	die	der	PRELS	-	no	indirect.speech.31	-	-	-	-
+der	der	der	ART	-	no	indirect.speech.31	-	-	-	-
+Staat	Staat	Staat	NN	-	no	indirect.speech.31	-	-	-	-
+dem	dem	der	ART	-	no	indirect.speech.31	-	-	-	-
+Staate	Staate	Staat	NN	-	no	indirect.speech.31	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.31	-	-	-	-
+die	die	der	ART	-	no	indirect.speech.31	-	-	-	-
+Kammer	Kammer	Kammer	NN	-	no	indirect.speech.31	-	-	-	-
+der	der	der	ART	-	no	indirect.speech.31	-	-	-	-
+Kammer	Kammer	Kammer	NN	-	no	indirect.speech.31	-	-	-	-
+schuldig	schuldig	schuldig	ADJD	-	no	indirect.speech.31	-	-	-	-
+sei	sei	sein	VAFIN	-	no	indirect.speech.31	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.31	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect.speech.31	-	-	-	-
+mehr	mehr	mehr	ADV	-	no	indirect.speech.31	-	-	-	-
+eingehalten	eingehalten	einhalten	VVPP	-	no	indirect.speech.31	-	-	-	-
+würden	,	--	$,	-	no	indirect.speech.31	-	-	-	-
+,	,	--	$,	-	no	indirect.speech.31	-	-	-	-
+so	so	so	ADV	-	no	indirect.speech.31	-	-	-	-
+könnte	könnte	können	VMFIN	-	no	indirect.speech.31	-	-	-	-
+sie	sie	sie	PPER	-	no	indirect.speech.31	-	-	-	-
+der	der	der	ART	-	no	indirect.speech.31	-	-	-	-
+Verhandlung	Verhandlung	Verhandlung	NN	-	no	indirect.speech.31	-	-	-	-
+nicht	nicht	nicht	PTKNEG	-	no	indirect.speech.31	-	-	-	-
+mehr	mehr	mehr	ADV	-	no	indirect.speech.31	-	-	-	-
+beiwohnen	beiwohnen	beiwohnen	VVINF	-	no	indirect.speech.31	-	-	-	-
+.	.	--	$.	-	no	indirect.speech.31	-	-	-	-

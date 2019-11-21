@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Rußland, Frankreich und Deutschland</title>
+             <author>Massow, Wilhelm v.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341895_321082.txt_17.xml</f>
+         <f name="year">1912</f>
+         <f name="decade">1910</f>
+         <f name="title">Rußland, Frankreich und Deutschland</f>
+         <f name="author">Massow, Wilhelm v.</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="speaker">Rußland</seg> war dann auch nicht gezwungen, solange es diese Grenzen einhielt,
+                        auf <said id="1" mode="reported" content="speech" level="1">die früheren <seg id="1" type="intExpr">Verabredungen</seg> und <seg id="1" type="intExpr">Versprechungen</seg> gegenüber Österreich-Ungarn
+                        wegen der Besetzung der westlichen Balkanländer (Bosnien und Herzegowina)</said>
+                        zurückzukommen. Nun änderte sich aber die Lage, <said id="17" mode="reported" content="speech writing" level="1">als die <seg id="17" type="speaker">Leitung</seg> der kriegführenden Armee mit gutem Recht volle Bewegungsfreiheit <seg id="17" type="intExpr">forderte</seg>.</said> Es kam
+                        der Zeitpunkt, wo sich die russische Armee vor den Toren von Konstantinopel
+                        befand. Die Mächte wurden dadurch überrascht und in Verlegenheit gesetzt.
+                        Aber auch für die russische Regierung zeigten sich jetzt erst die Schwierigkeiten.
+                        <said id="3" mode="reported" content="speech" level="1">Namentlich Österreich gegenüber mußte <seg id="3 4" type="speaker">man</seg> entweder auf einer neuen Grundlage <seg id="3" type="intExpr">verhandeln</seg></said> oder <said id="4" mode="reported" content="speech" level="1">sich mit Deutschland <seg id="4" type="intExpr">verständigen</seg>.</said> <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ssaburow</seg> <seg id="5" type="intExpr">erzählt</seg> weiter:</seg>
+                         
+            <said id="5" mode="direct" content="speech" level="1">„<seg id="18" type="frame" pos="start">Mit <seg id="18" type="speaker">England</seg> hatte <seg id="18" type="speaker">man</seg> in der Eile ein <seg id="18" type="intExpr">Versprechen</seg> ausgetauscht,</seg> <said id="18" mode="indirect" content="speech" level="2">weder
+                        an Konstantinopel noch an Gallipoli zu rühren.</said> Infolge dieser Bedingung
+                        durfte das englische Geschwader nicht die Meerenge überschreiten. Aber diese
+                        Abmachung wurde fallen gelassen <said id="7" mode="reported" content="thought" level="2">vor dem Sturm der öffentlichen <seg id="7" type="intExpr">Meinung</seg> in
+                        England</said>, und Lord Derby, der sie abgeschlossen hatte, mußte aus dem Kabinett
+                        scheiden. In dieser unsicheren Lage mußte man sich ein Unterpfand sichern.
+                        England tat das, indem es seine Flotte in das Marmara-Meer einlaufen ließ
+                        und dem bedrängten Sultan die Insel Cypern wegnahm. <seg id="19" type="speaker">Österreich</seg> tat das,
+                        <said id="19" mode="reported" content="speech writing" level="2">indem es mit <seg id="19" type="speaker">England</seg> und <seg id="19" type="speaker">Deutschland</seg> die Überlassung der beiden Provinzen
+                        <seg id="19" type="intExpr">vereinbarte</seg>,</said> die es von uns zu erlangen nicht mehr sicher war. Rußland hatte
+                        sein Pfand bequem zur Hand: es war Konstantinopel; aber seine Hand zögerte,
+                        es zu ergreifen, und dieser einzige Augenblick wurde unwiderruflich verloren.
+                        Und doch hatte der <seg id="20 22" type="speaker">Kaiser</seg> das richtige Gefühl dafür gehabt, was er tun
+                        mußte: <seg id="20" type="frame" pos="start">der <seg id="20" type="intExpr">Befehl</seg>,</seg> <said id="20" mode="indirect" content="speech writing" level="2">Konstantinopel zu besetzen</said>, war gegeben worden; <said id="11" mode="reported" content="writing" level="2">er wurde
+                        im <seg id="11" type="speaker">Journal</seg> officiel an demselben Tage <seg id="11" type="intExpr">veröffentlicht</seg></said>, als man erfuhr, daß
+                        England unter Bruch <said id="21" mode="reported" content="speech" level="2"><seg id="21" type="speaker">seines</seg> <seg id="21" type="intExpr">Versprechens</seg></said> sein Geschwader hatte in die Dardanellen
+                        einlaufen lassen. Die Öffentlichkeit hat niemals die wirklichen Gründe erfahren,
+                        weshalb <said id="22" mode="reported" content="speech" level="2">dieser <seg id="22" type="intExpr">Befehl</seg></said> unausgeführt geblieben ist. Eine Art Verhängnis verfolgte Kaiser Alexander bei seinen besten Eingebungen. Denn während seiner
+                        an Ereignissen so reichen Regierung schadete die natürliche Güte des Menschen
+                        der Energie des Herrschers. Deshalb entschlüpften uns in dieser denkwürdigen
+                        Zeit überall die Früchte des Sieges."</said>
+                         
+            <said id="14" mode="reported" content="speech" level="1">So die <seg id="14" type="intExpr">Erzählung</seg> <seg id="14" type="speaker">Ssaburows</seg> von diesem entscheidenden Augenblick der
+                        neuesten russischen Geschichte.</said> <said id="23" mode="indirect" content="thought" level="1"><said id="24" mode="reported" content="speech" level="2">Was <seg id="24" type="speaker">er</seg> als russischer Patriot darin nur diskret
+                        <seg id="24" type="intExpr">andeutet</seg></said></said><seg id="23" type="frame" pos="end">, wird sich der <seg id="23" type="speaker">Leser</seg> leicht <seg id="23" type="intExpr">ergänzen</seg>.</seg> Es war die politische Isolierung
+                        Rußlands, die ihm in dieser kritischen Lage die Früchte seiner Anstrengungen
+                        und Blutopfer entriß, und diese Isolierung wäre nicht eingetreten, wenn
+                        Alexander der Zweite die Kraft gehabt hätte, seiner besseren Einsicht zu folgen
+                        und — gegen die Bestrebungen seines Kanzlers und eines irregeleiteten Nationalgefühls — zur rechten Zeit die ihm entgegengestreckte Hand Deutschlands
+                        festzuhalten. Das politische System Gortschakows, das im Jahre 1875 seinen
+                        schärfsten Ausdruck gefunden hatte, trug die Schuld an den Enttäuschungen,
+                         
+            
+            die Rußland erfuhr, nachdem es als Sieger vor den Toren von Konstantinopel
+                        gestanden hatte. So ist es zu verstehen, <seg id="16" type="frame" pos="start">wenn <seg id="16" type="speaker">Fürst Bismarck</seg> zur Zeit des
+                        Berliner Kongresses dem Times-Korrespondenten <seg id="16" type="intExpr">sagte</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">„Ich bin ein aufrichtiger
+                        Freund meiner Freunde und ein aufrichtiger Feind meiner Feinde. Fürst
+                        Gortschakow hat das jetzt gewahr werden müssen. Der Angelegenheit von
+                        1375 hat er die politische Niederlage beizumessen, die er auf dem Kongreß zu
+                        erleiden hatte."</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Münchner Skizzen</title>
+             <author>Marggraff, Hermann </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341548_269416.txt_42.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Münchner Skizzen</f>
+         <f name="author">Marggraff, Hermann </f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Das Possirlichste hierbei ist nur dies, daß unsere sonst so prüden
+                        und ängstlichen Chrestomathienschreiber diesen klassischen Monolog,
+                        <said id="24" mode="reported" content="speech" level="1">worin sich der <seg id="24" type="speaker">Schweizerheld</seg> über einen beabsichtigten Meuchelmord
+                        mit sentimentalen Sophismen <seg id="24" type="intExpr">tröstet</seg></said>, unbesorgt in ihre für Schulen
+                        bestimmten Sammlungen aufnehmen, und daß unsre <seg id="29" type="speaker">Schuldirectoren</seg>
+                        und <seg id="29" type="speaker">Schulinspectoren</seg>, die jedes gegen sie begangene Attentat auf'S
+                        strengste ahnden, dieses declamatorische <seg id="25" type="speaker">Prachtstück</seg>,<said id="25" mode="reported" content="writing" level="1"> worin ein ziemlich grobes Attentat <seg id="25" type="intExpr">gerechtfertigt</seg> wird</said>, <said id="29" mode="reported" content="speech" level="1">den Gymnasiasten zur Uebung
+                        ihres rhetorischen Talentes <seg id="29" type="intExpr">empfehlen</seg>.</said> So findet der Teufel, dem
+                        man so gern die Zugänge verstopfte, doch immer wieder ein Loch,
+                        wo er durchschlüpfen kann.
+               Da ich gerade bei dem Theater stehe, so erlaube man mir, an
+                        dieser Stelle, der Vollständigkeit wegen, das Register der Münchner
+                        Theaterdichter mit Ergänzungen und Berichtigungen noch einmal aufzuführen: Zuerst J. von Plötz, der bekannteste und bühnenerfahrenste
+                        und dabei doch anspruchlos, PH. Berger, Feldmann, <said id="4" mode="reported" content="writing" level="1"><seg id="4" type="speaker">F. Löste</seg>, der
+                        ein historisch-romantisches Lustspiel „Angelina" nach einer Novelle von
+                        Hermann Meinert <seg id="4" type="intExpr">schrieb</seg></said>, H. Schmidt, Verf. eines „Camoens" (nicht
+                        Petrarca," <said id="15" mode="reported" content="thought" level="1">wie <seg id="15 16" type="speaker">ich</seg> früher <seg id="16" type="intExpr"><said id="16" mode="reported" content="speech writing" level="2">gemeldet</said></seg> zu haben <seg id="15" type="intExpr">glaube</seg></said>), U. von Destouches, Verf. eines Stückes, „der treue Uhlan," August Heigel,
+                        Ringler, Chr. Knorr, Köberle, Trautmann u. s. f.
+               Von Knorr wurde vor Kurzem ein historisches Trauerspiel „Jacobäa", von Ringler ein Lustspiel „der Wind hat sich gedreht" auf der
+                        hiesigen Bühne aufgeführt. Was kümmert uns hier die Kritik, wenn
+                        las Publicum günstig urtheilt? Wir leben hier als literarische
+                        Robinsons auf einer ziemlich isolirten Insel und die norddeutsche
+                        Kritik schlägt nur in einzelnen verlorenen Wellen und Brandungen
+                        an unser Ufer; die einheimische Kritik aber ist der vielen Klippen
+                        wegen, welche unsere Insel einfassen, schwer zu befahren, <seg id="8" type="frame" pos="start">vorzüglich
+                        wenn der <seg id="8" type="intExpr">Ruf ertönt</seg>:</seg> <said id="8" mode="direct" content="speech" level="1" nonfact="yes">„der Wind hat sich gedreht."</said> Und er hat sich
+                        gedreht, indem man gegenwärtig gegen Alles, was Kritik heißt oder
+                        nach Kritik aussieht, noch um Vieles empfindlicher zu sein scheint als
+                         
+               
+               früher. Man will hier im Allgemeinen lieber eine vollkommene kritische Windstille, als ein frisches Windeswehen der Kritik, wobei die
+                        poetische Schifffahrt im Ganzen und Großen belebt und gefördert
+                        wird, wenn auch hier und da ein Fahrzeug, unfähig dem Sturme
+                        Widerstand zu leisten, zu Grunde geht. Aus der hiesigen Localkritik
+                        wird man nicht recht gescheidt, <said id="30" mode="reported" content="writing" level="1">da <seg id="30" type="speaker">sie</seg>, wie z. B. über Ringler's Lustspiel, die widersprechendsten <seg id="30" type="intExpr">Urtheile</seg> zu Tage förderte.</said> Als Posse
+                        genommen ist übrigens Ringler's Stück belustigend genug. <seg id="9" type="frame" pos="start">Schon
+                        <seg id="9" type="speaker">Weichselbaumer</seg> <seg id="9" type="intExpr">klagte</seg> in den eingegangenen „Deutschen (Thee-)
+                        Blättern",</seg> <said id="9" mode="indirect" content="writing" level="1">daß das Münchner Publicum zwar warm und lebhaft
+                        fühle, aber so klein sei, daß es der Autor fast mit seinen Freieremplaren speisen könne!</said><seg id="10" type="frame" pos="start"> Und <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">fährt fort</seg>: </seg><said id="10" mode="direct" content="writing" level="1">„In Norddeutschland hilft
+                        selbst <said id="31" mode="reported" content="speech writing" level="2" nonfact="yes">die <seg id="31" type="intExpr">Stimme</seg> des <seg id="31" type="speaker">Gegners</seg></said> zur Celebrität des Schriftstellers, hier
+                        hilft <said id="18" mode="reported" content="speech writing" level="2" nonfact="yes">das <seg id="18" type="intExpr">Lob</seg></said> weit weniger als dort<said id="19" mode="reported" content="speech writing" level="2" nonfact="yes"> der bitterste <seg id="19" type="intExpr">Tadel</seg>.</said>"</said> Hochgebildete literarische Männer wie Weichselbaumer würden sogar <said id="27" mode="reported" content="speech writing" level="1" nonfact="yes">die
+                        schärfste <seg id="27" type="intExpr">Kritik</seg></said> <said id="20" mode="reported" content="speech writing" level="1" nonfact="yes">diesem kirchhofähnlichen <seg id="20" type="intExpr">Schweigen</seg></said> oder <said id="21" mode="reported" content="speech writing" level="1" nonfact="yes">einem
+                        hingeworfenen oberflächlichen <seg id="21" type="intExpr">Lobe</seg></said> vorziehn. Freilich stehen nicht
+                        Alle mit dem genannten Dichter auf gleicher Höhe des literarischen
+                        Bewußtseins. Das hiesige Theaterpublicum dagegen zeigt sich gegen
+                        seine Dichter keineswegs undankbar, <said id="32" mode="reported" content="speech" level="1">und sowohl Knorr als Ringler
+                        wurden, <said id="33" mode="reported" content="thought" level="2" nonfact="yes" border="yes" prag="yes"><seg id="33" type="speaker">ich</seg> <seg id="33" type="intExpr">weiß</seg> nicht wie oft</said>, <seg id="32" type="intExpr">herausgerufen</seg></said>, ebenso Feldmann bei
+                        der ersten Darstellung seiner „schönen Athenienserin", die, nachdem
+                        sie die Runde über alle deutschen Bühnen vollbracht, endlich hier an
+                        der Stätte ihrer Geburt zur Aufführung gelangt ist.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

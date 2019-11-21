@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Aquis Submersus</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Aquis_Submersus.tg242_1.xml</f>
+         <f name="year">1876</f>
+         <f name="decade">1870</f>
+         <f name="title">Aquis Submersus</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Ihr sollt nicht hin, um ihrer armen Seelen Seligkeit!«</said> 
+                  <said id="23" mode="indirect" content="thought" level="1" border="yes"><said id="2" mode="reported" content="speech" level="2">Was dermalen selber ich gesprochen</said></said><seg id="23" type="frame" pos="end">, ist <seg id="23" type="speaker">mir</seg> schier <seg id="23" type="intExpr">vergessen</seg></seg>; aber <said id="5" mode="reported" content="speech" level="1">des Predigers Worte</said> gruben sich in mein Gedächtniß. <said id="24" mode="direct" content="speech" level="1">»Höret mich!«</said> <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">sprach</seg> <seg id="24" type="speaker">er</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">»So von Herzen ich Euch hasse, wofür dereinst mich Gott in seiner Gnade wolle büßen lassen, und Ihr vermuthendlich auch mich – noch ist Eines uns gemeinsam. – Geht itzo heim und bereitet eine Tafel oder Leinewand! Mit solcher kommet morgen in der Frühe wieder und malet darauf des todten Knaben Antlitz. Nicht mir oder meinem Hause; der Kirchen hier, wo er sein kurz unschuldig Leben ausgelebet, möget Ihr das Bildniß stiften. <seg id="9" type="frame" pos="start">Mög <seg id="9" type="speaker">es</seg> dort die Menschen <seg id="9" type="intExpr">mahnen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2" nonfact="yes" metaph="yes">daß vor der knöchern Hand des Todes alles Staub ist!</said>«</said> 
+                  Ich blickte auf den Mann, <said id="10" mode="reported" content="speech" level="1">der kurz vordem die edle Malerkunst ein Buhlweib mit der Welt gescholten</said>; <seg id="11" type="frame" pos="start">aber <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">sagte</seg> zu,</seg> <said id="11" mode="indirect" content="speech" level="1">daß alles so geschehen möge.</said> 
+                  – – Daheim indessen wartete meiner <said id="25" mode="reported" content="speech" level="1">eine Kunde</said>, so meines Lebens Schuld und Buße gleich einem Blitze jählings aus dem Dunkel hob, so daß ich Glied um Glied die ganze Kette vor mir leuchten sahe. 
+                  Mein Bruder, dessen schwache Constitution von dem abscheulichen Spectacul, dem er heute assistiren müssen, hart ergriffen war, hatte sein Bette aufgesucht. Da ich zu ihm eintrat, richtete er sich auf. <said id="13" mode="direct" content="speech" level="1">»Ich muß noch eine Weile ruhen«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">er</seg>, indem er ein Blatt der Wochenzeitung in meine Hand gab; </seg><said id="13" mode="direct" content="speech" level="1">»aber lies doch dieses! Da wirst du sehen, daß Herrn Gerhardus' Hof in fremde Hände kommen, maßen Junker Wulf ohn Weib und Kind durch eines tollen Hundes Biß gar jämmerlichen Todes verfahren ist.«</said> 
+                  
+                     Ich griff nach dem Blatte, das mein Bruder mir entgegenhielt; aber es fehlte nicht viel, daß ich getaumelt wäre. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Mir</seg> <seg id="15" type="intExpr">war's</seg> bei dieser Schreckenspost,</seg> <said id="15" mode="indirect" content="thought" level="1" border="yes">als sprängen des Paradieses Pforten vor mir auf</said>; aber schon sahe ich am Eingange den Engel mit dem Feuerschwerte stehen, <seg id="26" type="frame" pos="start">und aus meinem <seg id="26" type="speaker">Herzen</seg> <seg id="15" type="intExpr">schrie</seg> es wieder:</seg> <said id="26" mode="direct" content="speech" level="1" metaph="yes">O Hüter, Hüter, war dein Ruf so fern!</said> – Dieser Tod hätte uns das Leben werden können; nun war's nur ein Entsetzen zu den andern. 
+                  Ich saß oben auf meiner Kammer. Es wurde Dämmerung, es wurde Nacht; ich schaute in die ewigen Gestirne, und endlich suchte auch ich mein Lager. Aber die Erquickung des Schlafes ward mir nicht zu Theil. <seg id="17" type="frame" pos="start">In meinen erregten Sinnen <seg id="17" type="intExpr">war</seg> es <seg id="17" type="speaker">mir</seg> gar seltsamlich,</seg> <said id="17" mode="indirect" content="thought" level="1" border="yes">als sei der Kirchthurm drüben meinem Fenster nah gerückt</said>; ich fühlte die Glockenschläge durch das Holz der Bettstatt dröhnen, <said id="19" mode="reported" content="thought" level="1">und ich zählete sie alle die ganze Nacht entlang.</said> Doch endlich dämmerte der Morgen. Die Balken an der Decke hingen noch wie Schatten über mir, da sprang ich auf, und ehbevor die erste Lerche aus den Stoppelfeldern stieg, hatte ich allbereits die Stadt im Rücken. 
+                  Aber so frühe ich auch ausgegangen, ich traf den Prediger schon auf der Schwelle seines Hauses stehen. <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Er</seg> geleitete mich auf den Flur und <seg id="20" type="intExpr">sagte</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1">daß die Holztafel richtig angelanget, auch meine Staffelei und sonstiges Malergeräth aus dem Küsterhause herübergeschaffet sei.</said> Dann legte er seine Hand auf die Klinke einer Stubenthür. 
+                  <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Ich</seg> jedoch hielt ihn zurück und <seg id="21" type="intExpr">sagte</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">»Wenn es in diesem Zimmer ist, so wollet mir vergönnen, bei meinem schweren Werk allein zu sein!«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

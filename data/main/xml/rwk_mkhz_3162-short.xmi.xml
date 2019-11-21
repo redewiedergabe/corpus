@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Sprechsaal Gemeindeangelegenheiten.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_maerkische012_1850_3.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Sprechsaal Gemeindeangelegenheiten.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.maerkische</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Sprechsaal.
+                        
+            
+            
+               Gemeindeangelegenheiten.
+                        
+            
+            Hattingen, den 3. Februar. <said id="1" mode="direct" content="speech" level="1" metaph="yes">Es muß besser werden,
+                        es muß besser gehen!</said> <said id="2" mode="reported" content="speech" level="1" metaph="yes">Dies ist die <seg id="2" type="intExpr">Sprache</seg>, welche uns
+                        in den verschiedenartigsten gesellschaftlichen <seg id="2 1" type="speaker">Zusammenkünften</seg> entgegen gebracht wird.</said>
+            Man würde jedoch sehr übel fahren, <seg id="3" type="frame" pos="start">wollte <seg id="3" type="speaker">man</seg> sich
+                        zu dem <seg id="3" type="intExpr">Glauben</seg> hinneigen,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß diese für Staats=Reformen drängenden Männer, auch mit demselben Eifer die
+                        Mängel entfernen mögten, welche in dem kleinen Kreise
+                        der Gemeinde noch bestehen.</said>
+            Die Communalsteuer nach dem Princip der Einkommensteuer veranlagt, <said id="4" mode="reported" content="thought" level="1" border="yes">welches bereits so viel wie <seg id="4" type="speaker">wir</seg> <seg id="4" type="intExpr">wissen</seg> in Elberfeld und Cöln angenommen ist</said>, sollte auch
+                        bei uns eingeführt werden.
+            Es ist dieses jedenfalls eine Sache, wodurch sich die
+                        Vertreter unserer Stadt, im Jnteresse der Gerechtigkeit
+                        und Humanität verdient machen können.
+            Die Einführung einer Einkommensteuer statt der bisherigen üblichen Staatssteuern ist <said id="10" mode="reported" content="thought" level="1">trotz des <seg id="10" type="speaker">allgemeinen</seg>
+                        <seg id="10" type="intExpr">Wunsches</seg> von unserer jetzigen Volksvertretung</said> nicht zu
+                        erwarten, da die Grundsteuer=Ausgleichung sie schon hinreichend beschäftigen wird. Warum sollen aber diese Wünsche nicht auf die Gemeinde angewandt werden.
+            Aus einem freien und gesunden Gemeindeleben erwächst der starke kräftige Staat.
+            Jeder gesinnungstüchtige Gemeindebürger muß sich
+                        deßhalb verpflichtet fühlen, alle die rechtlichen Forderungen der Zeit zur Geltung zu bringen, welche die Gesetzgebung zuläßt.
+            <seg id="5" type="speaker">Wir</seg> behalten uns vor, <said id="5" mode="reported" content="writing" level="1" nonfact="yes">die Einkommensteuer in einem andern Artikel noch näher zu <seg id="5" type="intExpr">beleuchten</seg></said>, und für
+                        deren Einführung zu wirken.
+            <seg id="7" type="speaker">Wir</seg> haben uns gefreut, einer ähnlichen Mittheilung
+                        aus Sprockhövel in diesem Blatte zu begegnen, <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">hoffen</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1"><seg id="8" type="frame" pos="start">daß noch manche <seg id="8" type="speaker">Stimme</seg> sich <seg id="8" type="intExpr">erheben</seg> wird.</seg> <said id="8" mode="indirect" content="speech" level="2" nonfact="yes">Gerechtigkeit, Billigkeit und Humanität als Richtschnur unsers Gemeindeleben einzuführen.</said></said> 5.
+            <said id="9" mode="reported" content="writing" level="1" nonfact="yes">Warum bringt die kirchliche <seg id="9" type="speaker">Armenverwaltung</seg> nicht
+                        gleich der Städtischen ihre Rechnungslage durch eins der
+                        hiesigen <seg id="9" type="intExpr">Blätter</seg>?</said>
+                         
+            <said id="12" mode="reported" content="thought" level="1"><seg id="12" type="speaker">Wir</seg> <seg id="12" type="intExpr">wünschen</seg> dieses in ihrem eigenen Jnteresse</said>, da
+                        nur die Oeffentlichkeit derartige Verwaltungen vor Mißtrauen schützt.
+            
+               Ein Bürger.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

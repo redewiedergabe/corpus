@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt18_1868_3.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Jch muß vorausschicken, daß schon die erste Schüssel auf einen
+                        gut gepflegten Magen schließen läßt und geeignet sein dürfte,
+                        den Verdruß und Neid vieler unserer Bauernmagen wachzurufen,
+                        während die nachfolgenden Schüsseln weit eher angethan sind, die
+                        Beunruhigung resp. Reizbarkeit zu steigern, als diese Regung des
+                        Mißwollens abzuschwächen. Fast immer bestehen ihre Mahlzeiten aus
+                        drei bis vier Gängen, und zwar in folgender Ordnung.
+            Zuerst sah ich immer in einem hölzernen Napf, der bei den hervorragenden Familien möglichst bunt bemalt war, das Fleisch auftragen und
+                        auf den Divan vor dem <seg id="1" type="speaker">Hausherrn</seg> hinstellen, der bereits in Erwartung des Kommenden mit untergeschlagenen Beinen auf seinem Kissen
+                        am Platz sitzt, um denselben zu empfangen, mit dem Kennerblick eines
+                        Generals schon aus der Ferne seinen Jnhalt erspähend und musternd,
+                        <said id="1" mode="reported" content="speech" level="1" nonfact="yes">um die Geschicklichkeit seines ehemaligen Lieblings zu <seg id="1" type="intExpr">loben</seg> oder zu
+                        <seg id="1" type="intExpr">tadeln</seg>.</said>
+            Sobald die Prüfung vorüber und die Prüfung mit Hülfe des
+                        Auges und der Nase zu seiner Zufriedenheit ausfiel und sein Blick
+                        entweder sich klärt oder verfinstert, streift er nach Fleischersitte die
+                        weiten Aermel seines Chakal etwas nach oben, wäscht mit dem
+                        ihm dargereichten Wasser die Hände und ergreift mit denselben, wie
+                        der Adler das Lamm, fest und entschlossen das dampfende und duftende
+                        Fleisch, um es in Stücke zu zerlegen, während das triefende Fett
+                        zwischen den Fingern hindurch wie aus einer Oelpresse abläuft.
+            Bevor dieses interessante Zerlegen und die darauf folgende eben
+                        so interessante Eintheilung in Portionen beendigt ist, welche letztere
+                        abermals von einer außerordentlichen Uebung und mathematischen
+                        Sicherheit in der Abschätzung der einzelnen Größen Zeugniß ablegt, füllen sich auch die noch leeren Plätze an der erwähnten Tafel
+                        mit den Mitgliedern der oft sehr zahlreichen Familie, und ihm zur
+                        Seite erscheint seine Dulcinea, vorausgesetzt, daß er nicht eifersüchtig ist und <said id="2" mode="reported" content="thought" level="1">die Anwesenheit eines Gastes das Erscheinen der
+                        jüngeren Gemahlinnen <seg id="2" type="speaker">ihm</seg> nicht rathsam <seg id="2" type="intExpr">erscheinen</seg> läßt.</said>
+            <said id="7" mode="reported" content="speech" level="1">Die <seg id="7" type="intExpr">Unterhaltung</seg> während des Diners</said> ist nichts weniger als lebhaft;
+                        im Gegentheil herrscht dabei eine fast ängstliche Stille, <said id="8" mode="reported" content="speech" level="1">und selten hat
+                        <seg id="8" type="speaker">einer</seg> der Tischgenossen eine halblaute <seg id="8" type="intExpr">Bemerkung</seg> zu machen.</said> Ernst
+                        und gemessen erhalten die Mitglieder die ihnen zugetheilten Stücke,
+                        eben so gemessen und schweigsam nehmen sie sie hin, um sie eben
+                        so geräuschlos verschwinden zu lassen, <seg id="6" type="frame" pos="start">obwohl <seg id="6" type="speaker">ich</seg> bemerkt zu haben
+                        <seg id="6" type="intExpr">glaube</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">daß die Vertheilung in einem Punkte nicht ganz unparteiisch ausfiel und dann und wann scheele Blicke zu seiner rechts
+                        sitzenden Flamme sich hinüber stahlen.</said>
+            Alle diejenigen Jnstrumente, wie Messer und Gabel, ohne welche
+                        wir nicht mit einem Beefsteak fertig werden zu können meinen, viel
+                        weniger mit einem Mittagsmahl, sind dem Baschkiren ganz überflüssige und zum Theil auch noch ganz unbekannte Sachen, daher
+                        auch an seiner Tafel nie vorhanden. Nur in sehr seltenen Fällen,
+                        wenn die Zähigkeit eines sehnigen Stücks der Schärfe der Zähne
+                        und der Kraft der Finger hartnäckigen Widerstand leisten sollte,
+                        wird das zur Seite hängende Messer gezogen, um mit demselben
+                        das unzureichende Gebiß zu unterstützen.
+            Nach dem Fleisch folgt in der Regel als zweites Gericht eine
+                        Nudel= oder Klößchensuppe, was an und für sich nicht eben interessant
+                        erscheinen dürfte, wenn nicht die Art und Weise, wie sie verspeist
+                        wird, der Aufmerksamkeit und Beachtung werth wäre.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

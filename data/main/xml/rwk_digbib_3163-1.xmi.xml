@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Im Nachbarhause links</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Im_Nachbarhause_links.tg241_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Im Nachbarhause links</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Eine große Schleiereule hatte sich – <said id="7" mode="indirect" content="thought" level="1">mit einigem Rechtsgrund</said><seg id="7" type="frame" pos="end">, wie <seg id="7" type="speaker">mir</seg> <seg id="7" type="intExpr">schien</seg></seg> – auf den einsamen Böden einquartiert und mochte bei einer vergeblichen Mausjagd die Klingeldrähte gestreift haben, die durch das ganze Haus und auch dorthinauf liefen. Die alte Dame selbst war schon am zweiten Tage wieder aufgestanden, ja, sie hatte sich sogar mit Hülfe der Wärterin aus der Stange ihres Obstpflückers und einem Tonnenbande einen Ketscher angefertigt und solcherweise den keine Miete zahlenden Vogel wie einen Nachtschmetterling ebenso eifrig als vergeblich über alle Böden hin verfolgt. 
+                  <said id="8" mode="reported" content="speech" level="1" border="yes"><seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">erfuhr</seg> dies alles</said>, als ich eines Vormittags zu <said id="9" mode="reported" content="speech" level="1">dem <seg id="9" type="intExpr">verabredeten</seg> Geschäfte</said> mit einem befreundeten Notar wieder in das Haus trat. Wir wurden in den dritten Stock hinaufgeführt; hier öffnete die Wärterin eine Tür, an der von einer eisernen Krampe ein schweres Vorlegeschloß herabhing. 
+                  Es war eine mäßig große düstere Kammer; in deren Mitte stand die alte Madame Jansen vor einem Tische und sortierte emsig allerlei Päckchen, wie sich nachher ergab, mit den verschiedensten Wertpapieren; rings herum an den Wänden, so daß nur wenig Platz neben dem Tische blieb, standen eine Menge straff gefüllter Geldbeutel, von denen die meisten aus den Resten alter, sogar seidener Frauenkleider angefertigt schienen. 
+                  So gesprächig die Alte bei meinem ersten Besuche gewesen war, so wortkarg war sie heute; mit zittern den Händen setzte sie einen Beutel nach dem anderen vor uns hin, mit stummen fast schmerzlichen Blicken verfolgte sie das Zählen des Geldes, das Versiegeln der Beutel, das Numerieren der Etiketten. – Obwohl die einzelnen Münzsorten sorgsam voneinander gesondert waren, so dauerte die Aufnahme der Wertpapiere und des Barbestandes doch bis in den Abend hinein; zuletzt arbeiteten wir bei dem Lichte einer Talgkerze, die in einem dreiarmigen Silberleuchter brannte. 
+                  Endlich wurde der letzte Beutel ausgeschüttet. Er enthielt jene schon derzeit seltenen Vierschillingstücke mit dem Perückenkopfe Christians des Vierten, welche in dem Rufe eines besonders feinen Silbergehaltes standen. Als auch der beseitigt war, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">fragte</seg> <seg id="1" type="speaker">ich</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">ob das nun alles, ob nichts mehr zurück sei.</said> 
+                  Die <seg id="2 4" type="speaker">Alte</seg> blickte unruhig zu mir auf. <said id="2" mode="direct" content="speech" level="1">»Ist das nicht genug, mein Lieber?«</said> 
+                  – <said id="3" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="speech" level="2"><seg id="10 3" type="speaker">Ich</seg> <seg id="10" type="intExpr">meinte</seg> nur</said>, weil sich gar keine Goldmünzen unter dem Barbestande finden.«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Gold? – In Gold bezahlen mich die Leute nicht.«</said> 
+                  – Somit wurde das Protokoll abgeschlossen, und, <said id="11" mode="reported" content="writing" level="1">nachdem die <seg id="11 12" type="speaker">Alte</seg> in zwar unsicherer, aber immer noch zierlicher <seg id="11" type="intExpr">Schrift</seg> ihr <said id="12" mode="direct" content="writing" level="2">»Botilla Jansen«</said> daruntergesetzt hatte</said>, war das Geschäft beendet; die Wertpapiere wurden in eine Kiste gelegt, deren Schlüssel ich an mich nahm; diese selbst und die Barbestände sollten am anderen Tage in mein Haus geschafft werden. 
+                  Als ich mit dem Notar auf die Straße hinausgetreten war, <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">bemerkte</seg> <seg id="5 13" type="speaker">ich</seg>, </seg><said id="5" mode="indirect" content="thought" level="1" border="yes">daß mir ein silberner Bleistifthalter fehle, den ich <said id="13" mode="reported" content="writing" level="2">bei dem <seg id="13" type="intExpr">Notieren</seg> der Geldsummen</said> benutzt hatte.</said> Ich kehrte sofort um und lief rasch die Treppen wieder hinauf; aber ich prallte fast zurück, als ich nach flüchtigem Anklopfen die Tür der Kammer öffnete. Im Schein der Unschlittkerze sah ich die Alte noch immer an dem Tische stehen; ihre eine Hand hielt einen leeren Beutel von rotem Seidendamast, die andere wühlte in einem Haufen Gold, der vor ihr aufgeschüttet lag. 
+                  
+                     Sie stieß einen Schreckensruf aus, als sie mich erblickte, und streckte beide Hände über den funkelnden Haufen; <seg id="6" type="frame" pos="start">gleich darauf aber erhob <seg id="6" type="speaker">sie</seg> sie bittend gegen mich und <seg id="6" type="intExpr">rief</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Oh, lassen Sie mir das!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

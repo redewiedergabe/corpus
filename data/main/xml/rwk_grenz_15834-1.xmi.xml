@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wiemansichverspricht</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341861_220325.txt_65.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Wiemansichverspricht</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german none</f>
+      </fs>
+      <body>
+         <p>         
+
+ Offenbar hatte der Sprecher für den Nebensatz
+                        im Sprachbewußtsein die Variante: als Friedrich Wilhelm IV. auf den Thron
+                        kam, und diese drängte sich in den Hauptsatz, der ursprünglich heißen sollte:
+                        setzte er Arndt wieder in die vollen Rechte seiner Professur ein, vermöge der
+                        innern und äußern Verwandtschaft der beiden Ausdrücke auf den Thron setzen
+                        und einsetzen. Aber nicht nur zwei Parallelausdrücke, auch zwei Gegensätze
+                        scheinen im Sprachbewußtem oft sofort neben einander dazuliegen, wenn der
+                        eine von ihnen gebraucht wird. So erklärt es sich wenigstens am besten, daß
+                        Wörter wie gewinnen und verlieren, der vorige und der folgende, östlich und
+                        westlich, Nachkomme und Vorfahr so leicht verwechselt werden. Immerhin
+                        sind das nur vereinzelte Wortpaare.*)
+                         
+            <note>*) Auch die Zusammensetzungen mit un- verführen leicht dazu, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">das Gegenteil von dem
+                        zu <seg id="1" type="intExpr">sagen</seg>, <said id="2" mode="reported" content="thought" level="2">was <seg id="1 2" type="speaker">man</seg> meint.</said></said> <seg id="3" type="frame" pos="start">Neulich <seg id="3" type="intExpr">las</seg> ich:</seg> <said id="3" mode="direct" content="writing" level="1">sie konnten ihre Erbitterung nur unschwer unterdrücken</said>,<seg id="4" type="frame" pos="start"> und ein junger <seg id="4" type="speaker">Freund</seg> pflegt seinen bescheidnen <seg id="4" type="intExpr">Beifall</seg> alles Ernstes in die Worte
+                        zu kleiden:</seg> <said id="4" mode="direct" content="speech" level="1">Nicht unübel!</said> <seg id="5" type="frame" pos="start">Ja in <seg id="5" type="speaker">Lessings Emilia Galotti</seg> (II, 6) <seg id="5" type="intExpr">ruft</seg> <seg id="7" type="speaker">Klaudia</seg> aus:</seg> <said id="5" mode="direct" content="writing" level="1"><said id="7" mode="direct" content="speech" level="2">Gott!
+                        Gott! <said id="6" mode="reported" content="thought" level="3" nonfact="yes" border="yes" prag="yes">wenn das dein <seg id="6" type="speaker">Vater</seg> <seg id="6" type="intExpr">wüßte</seg>!</said> wie wild er schon war, als er nur hörte, daß der Prinz
+                        dich jüngst nicht ohne Mißfallen gesehen!</said></said> ein Beispiel, über das man hundert Jahre lang
+                        hinweg gelesen hat;<said id="8" mode="reported" content="writing" level="1"> <seg id="8" type="speaker">F. Polle</seg> hat es in seinem lehrreichen Büchlein „Wie denkt das Volk
+                        über die Sprache" S. 15 <seg id="8" type="intExpr">bemerkt</seg> und ähnliche Fälle <seg id="8" type="intExpr">hinzugefügt</seg>.</said>
+                        </note>
+            
+            Höchst merkwürdig ist endlich die Erscheinung der Dissimilation:<said id="9" mode="reported" content="speech" level="1" nonfact="yes"> <seg id="9" type="speaker">man</seg> hat
+                        einen gewissen Laut mehreremale zu <seg id="9" type="intExpr">sprechen</seg></said>, unterdrückt ihn aber einmal oder
+                        setzt einen verwandten dafür ein; namentlich um l und r handelt es sich hier.
+                        Meringer hat folgende sichern Beispiele beobachtet: zweifü — zweiflügelige,
+                        Spiegelbit der Welt; auch der Schreibfehler Tragung der Tauer (statt Trauer)
+                        wird hierher gehören. Diese Dissimilation ist um so auffälliger, weil sie das
+                        gerade Gegenteil von den sonst so häufig beobachteten Vor- und Nachklängen
+                        ist.<said id="10" mode="reported" content="speech" level="1" nonfact="yes"> Sie läßt sich natürlich auch nicht aus derselben Wurzel wie jene andern
+                        Arten des Versprechens <seg id="10" type="intExpr">erklären</seg>.</said>
+            Die Vor- und Nachklänge, die Verquickungen und Vertauschungen von
+                        Lauten, Silben und Wörtern beruhen darauf, daß die innere Sprachbildung,
+                        der psychische Vorgang, der <said id="11" mode="reported" content="speech" level="1" nonfact="yes">vor dem sinnenfälligen <seg id="11" type="intExpr">Sprechen</seg></said> unmittelbar vorherläuft, anders geartet ist als <said id="12" mode="reported" content="speech" level="1" nonfact="yes">dieses äußere <seg id="12" type="intExpr">Sprechen</seg>.</said> Dieses muß sich in der
+                        Zeit abwickeln, jene kann gleichzeitig oder doch in unendlich viel kürzerer Zeit
+                        verschiednes übersehen, zusammenfassen, fühlen und denken, mehr oder weniger
+                        deutlich empfinden. Die Lautgruppe, die in der innern Sprache ins Bewußtsein tritt, ist gleichzeitig umschwärmt von einer Reihe von Parallelwerten,
+                        eben vernommnen Gehörseindrücken, bevorstehenden Lautbildern, die aus ihrer
+                        umgebenden Sphäre je nach ihrer Stärke leichter oder weniger leicht über die
+                        Schwelle des Bewußtseins herüberwirken und dann auch in die Lautgruppe,
+                       <said id="13" mode="reported" content="speech" level="1"> wie sie eben <seg id="13" type="intExpr">ausgesprochen</seg> wird</said>, hineinspielen können. Ganz wo anders ist
+                        die Erklärung für die Dissimilation zu suchen. Nicht um Verschiebungen vorhandner Satzglieder aus einer Sphäre in eine andre handelt es sich da, sondern
+                        rein um die Erzeugung eines Lautes, genauer gesagt, um die Schwierigkeit,
+                        denselben Laut zweimal oder gar noch öfter in gleichem Werte innerhalb einer
+                        kleinsten psychologischen Einheit zu bilden. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Professor Stricker</seg>, auch ein Wiener
+                        Mediziner, hat bei einer genauen Beobachtung <said id="15" mode="reported" content="thought" level="1"><seg id="15" type="speaker">seiner</seg> <seg id="15" type="intExpr">innern</seg> Bildung der Wortreihe „Roland der Riese am Rathaus zu Bremen"</said> folgendes <seg id="14" type="intExpr">festgestellt</seg>. </seg><said id="14" mode="direct" content="speech writing" level="1">„In
+                        dem Augenblicke, <said id="16" mode="reported" content="thought" level="2">als <seg id="16" type="speaker">ich</seg> still <seg id="16" type="intExpr">denkend</seg> »Roland« zu lautiren anfange</said>, während
+                        also das »Ro« im Vordergrunde steht und »Riese« bereits auftaucht, <said id="17" mode="reported" content="thought" level="2">habe
+                        <seg id="17" type="speaker">ich</seg> in der That nicht die dunkle <seg id="17" type="intExpr">Vorstellung</seg> »Riese,« sondern nur »iese.</said>«"</said>
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

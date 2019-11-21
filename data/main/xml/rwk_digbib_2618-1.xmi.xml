@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>9.Von dem Schaaf,das eine Königstochter trug</title>
+             <author>Pröhle, Heinrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Proehle,_Heinrich_9__Von_dem_Schaaf__das_eine_Koenigstochter_trug.tg110_1.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">9.Von dem Schaaf,das eine Königstochter trug</f>
+         <f name="author">Pröhle, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Von dem Schaaf, das eine Königstochter trug. 
+                  Ein König war alt und schwach, aber seine Töchter waren jung und schön und blüthen nicht anders als drei rothe Rosen. <said id="1" mode="reported" content="speech" level="1">Der alte König wurde von den <seg id="1" type="speaker">Drachen</seg> zum Kampfe <seg id="1" type="intExpr">gefordert</seg></said>, <seg id="2" type="frame" pos="start">da <seg id="2" type="intExpr">sagte</seg> seine älteste <seg id="2" type="speaker">Tochter</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Ich bin jung und stark, Vater, laß mich für Dich in den Kampf ziehen.«</said> Also geschah es auch, sie legte Königskleider an und zog aus. Unterwegs aber kam die älteste Prinzessin an eine Brücke, davor stand ein altes Weib, <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">die</seg> hatte ein Schaaf in den Graben fallen lassen und <seg id="3" type="intExpr">bat</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">daß sie ihr helfen möge, es heraus ziehen.</said> <said id="4" mode="direct" content="speech" level="1">»Ich habe keine Zeit,«</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">antwortete</seg> <seg id="4" type="speaker">sie</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»denn in einer Stunde schon muß ich die Drachen getödtet haben.«</said> So zog sie weiter, <seg id="5" type="frame" pos="start">aber die <seg id="5" type="speaker">Drachen</seg> <seg id="5" type="intExpr">sagten</seg> sogleich:</seg> <said id="5" mode="direct" content="speech" level="1">»Du bist mit nichten ein König, sondern ein Mädchen, und mit Weibern kämpfen wir nicht.«</said> So mußte die Prinzessin unverrichteter Sache zurückkehren; <seg id="6" type="frame" pos="start">die zweite <seg id="6" type="speaker">Königstochter</seg> aber legte Königskleider an und <seg id="6" type="intExpr">sprach</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Ihr werdet sehen, daß ich besser mit den Drachen fertig 
+werde.«</said> Bei der Brücke traf sie wieder das alte Weib, <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">welches</seg> das Schaaf aus dem Graben ziehen wollte und <seg id="7" type="intExpr">bat</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">daß sie ihr helfen möge.</said> <said id="8" mode="reported" content="speech" level="1"><seg id="8 9" type="speaker">Sie</seg> aber <seg id="8" type="intExpr">weigerte</seg> sich deß</said>, <said id="9" mode="indirect freeIndirect" content="speech" level="1">weil sie in einer Stunde schon die Drachen getödtet haben müsse</said>, <seg id="10" type="frame" pos="start">und <seg id="10" type="speaker">die</seg> <seg id="10" type="intExpr">erkannten</seg> sogleich,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">daß sie ein Mädchen sei</said> und weigerten ihr den Kampf. Da legte die dritte Königstochter Königskleidung an, kam zu der Brücke, wo die Alte sich noch immer mühte, das Schaaf aus dem Graben zu heben, griff unaufgefordert mit an und half, bis das Schaaf aus dem Wasser war. <seg id="12" type="frame" pos="start">Da <seg id="12" type="intExpr">sprach</seg> die <seg id="12" type="speaker">Alte</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»Dir kann ich helfen, denn Du bist mir gefällig gewesen. Nimm diesen Schlüssel und diesen Kasten, setze Dich auf das Schaaf und reite fort. Legst Du dem Schaaf den Schlüssel in's Ohr, <said id="13" mode="reported" content="speech" level="2" nonfact="yes">so <seg id="13" type="intExpr">gibt</seg> <seg id="13" type="speaker">es</seg> Dir Rath.</said>«</said> 
+                  Das Mädchen ritt eine Strecke weit, legte dem Schaaf den Schlüssel in's Ohr und <seg id="14" type="frame" pos="start">sogleich <seg id="14" type="intExpr">sprach</seg> <seg id="14" type="speaker">es</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»O Königstochter-jüngste, schließe mit dem Schlüssel den Kasten auf, darin sind so prächtige Königskleider, <seg id="15" type="frame" pos="start">daß die <seg id="15" type="speaker">Drachen</seg>, wenn Du sie angelegt hast, nicht anders <seg id="15" type="intExpr">meinen</seg> werden,</seg> <said id="15" mode="indirect" content="thought" level="2" nonfact="yes">als Du seiest ein König und mit nichten ein Mägdelein.</said>«</said> Da schloß das Mädchen den Kasten auf und zog gar herrliche Königskleider hervor, wie vor Alters die Könige trugen und viel prächtiger, als sie jetzt ein sterblich Auge sieht, legte sie an und ritt auf dem Schaafe zu den Drachen. Da sie also gezogen kam, <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">sprachen</seg> <seg id="16 17" type="speaker">sie</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">das ist gewiß und wahrhaftig der König selbst und mit nichten ein Mägdelein</said>, und ward ihnen angst und <said id="17" mode="reported" content="speech" level="1"><seg id="17" type="intExpr">setzten</seg> den Kampf auf eine spätere Zeit <seg id="17" type="intExpr">fest</seg>.</said> Die Königstochter blieb allda im Reiche und ritt täglich als ein mächtiger König auf dem Schaafe umher. 
+<said id="18" mode="reported" content="speech" level="1">Als aber die <seg id="18" type="speaker">Drachen</seg> fort und fort Aufschub des Kampfes <seg id="18" type="intExpr">verlangten</seg></said>, legte es wieder dem Schaafe den Schlüssel in's Ohr und <seg id="19" type="frame" pos="start">das <seg id="19" type="speaker">Schaaf</seg> <seg id="19" type="intExpr">sprach</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Ich will den Teich aussaufen, zu dem die Drachen jeden Mittag kommen und saufen. Alsdann streue Gift auf seinen Grund und alsbald wird der Regen den Teich wieder füllen.«</said> Also geschah es auch und als die Drachen das nächstemal kamen und aus dem Teich soffen, fielen sie todt nieder.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>1. Die Geschichte von der Frau Holle</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_1__Erzaehlung__Die_Geschichte_von_der_Frau_Holle.tg108_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">1. Die Geschichte von der Frau Holle</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Eben war sie wieder im Sinken begriffen, da zeigte sich ein schwarzer Punkt über dem Odenwald, der kam näher und näher, und wäre es nicht schon so dämmerig gewesen, hätte man leicht den Gevatter Storch erkennen mögen. Das war ja in dieser Jahreszeit eine seltene Erscheinung; er war es aber wirklich, und er flog geradezu herauf auf den Böllstein und an Frau Hollens Fenster. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Er</seg> schlug mit seinem langen Schnabel daran und <seg id="1" type="intExpr">rief</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Geschwind, liebe Frau Holle, geschwind! Macht auf, mich friert ganz erbärmlich!«</said> Schnell rissen die Engelein das Fenster auf und ließen den Gevatter Storch herein. 
+                  <said id="2" mode="direct" content="speech" level="1">»Da bin ich,«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">sagte</seg> <seg id="2 3" type="speaker">er</seg>, </seg><said id="2" mode="direct" content="speech" level="1">»ich komme weit, weit her aus einem heißen Lande, wo die Sonne fast nicht untergeht, und habe euch von dort das schönste, beste und frömmste Kind mitgebracht, das auf der ganzen Erde zu finden war.«</said> <said id="3" mode="reported" content="speech" level="1">Mit diesen <seg id="3" type="intExpr">Worten</seg></said> legte er ein kleines, schneeweißes Kindlein, das er vorsichtig im Schnabel trug, auf Frau Hollens Bett. Als sie das hörte und sah, stieß sie einen Freudenschrei aus, und die Engelein jauchzten laut auf. Das war ein Vergnügen! Das Kindchen machte seine Augen weit auf, die waren so durchsichtig blau wie der schönste Sommerhimmel, dabei hatte es eine Menge kleiner, goldner Löckchen auf dem Kopf und – das war das schönste – zwei kleine, schneeweiße Flügel an den Schultern. <seg id="5" type="frame" pos="start"><said id="4" mode="reported" content="speech" level="1" metaph="yes">Der <seg id="5 4" type="speaker">Storch</seg>, der als ein weiser Mann nicht gern viel <seg id="4" type="intExpr">Worte</seg> machte</said>, deutete auf die Flügel und <seg id="5" type="intExpr">sagte</seg> kurz:</seg> <said id="5" mode="direct" content="speech" level="1">»Damit es nicht auch auf dem Zwirnsfaden reiten muß«</said>, worauf Frau Holle glückselig nickte und das liebe Kind immer wieder von neuem herzte und küßte. Die Engelchen freuten sich fast nicht weniger als Frau Holle und schrien und lärmten nach Herzenslust. <seg id="6" type="frame" pos="start">Der <seg id="6" type="speaker">Storch</seg> aber machte ein ernsthaftes Gesicht und <seg id="6" type="intExpr">sagte</seg>: </seg><said id="6" mode="direct" content="speech" level="1">»Schweiget jetzt alle einmal und hört,<said id="7" mode="reported" content="speech" level="2" nonfact="yes"> was <seg id="7" type="speaker">ich</seg> euch zu <seg id="7" type="intExpr">sagen</seg> habe.</said> <said id="8" mode="reported" content="thought" level="2"><seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">dachte</seg> immer an das, <said id="9" mode="reported" content="speech" level="3">was <seg id="9" type="speaker">ich</seg> Frau Hollen <seg id="9" type="intExpr">versprochen</seg> hatte</said></said>, und bin durch die ganze Welt geflogen, ohne daß ich bei den Menschen ein Kindlein finden konnte, das lieb und frommgenug war, um ihr Töchterlein zu sein. So ward es Herbst und Winter, und meine alten Augen waren zuletzt ganz müde vom Suchen. Da kam ich heute in ein fernes, fernes Land, wo das ganze Jahr über die Sonne scheint und Frucht und Blüte nie vergehen. Dort war es schon Nacht, als es hier noch Tag gewesen, aber das Dunkel erhellte ein großer, heller Stern mit so wunderbarem Glanze, wie ich noch nie gesehen. Der Stern schoß pfeilgeschwind durch die Luft, und ich flog ihm nach, bis er über einer kleinen, niedern Hütte stehenblieb. Ich sah hinein, da lag in einer Krippe ein wunderschönes, herrliches Kind, von dem ein noch hellerer Glanz als von dem Sterne ausging. Rings um die Krippe schwebten Engelein auf goldnen Wolken, die sangen so schön und lieblich, wie ich noch nie etwas gehört. Das Kind aber lächelte mich so freundlich an, <seg id="10" type="frame" pos="start">daß <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">dachte</seg>,</seg> <said id="10" mode="direct" content="thought" level="2">dies ist das Kind, das ich Frau Holle bringen möchte, denn ganz gewiß ist es das liebste und beste auf Erden.</said> 
+                  <seg id="12" type="frame" pos="start">Da <seg id="12" type="intExpr">rief</seg> eine <seg id="12" type="speaker">Stimme</seg> neben mir, <seg id="11" type="frame" pos="start">von der <seg id="11" type="speaker">ich</seg> nicht <seg id="11" type="intExpr">weiß</seg>, </seg><said id="11" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">woher sie gekommen:</said></seg> <said id="12" mode="direct" content="speech" level="2">›Willst du es mit dir nehmen, daß es den kleinen Menschenkindern in deinem Lande stets ein Kind bleibe?</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Wirren in Louistana</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341821_134957.txt_36.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Wirren in Louistana</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="2" mode="direct" content="speech" level="1"><seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">Nehmen</seg>
+                        <seg id="3" type="speaker">wir</seg> <seg id="3" type="intExpr">an</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" nonfact="yes">das wäre der Fall gewesen</said>; aber auch darum handelt es sich nicht!
+                        <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Es</seg> <seg id="12" type="intExpr">fragt</seg> sich</seg><said id="12" mode="direct" content="speech thought" level="2" border="yes"> wo ist das Gesetz, welches der Bundesregierung gestattet, im
+                        Fall bevorstehender Unruhen, ihre bewaffnete Macht dazu zu benutzen, in
+                        eine Kammer einzudringen und deren Mitglieder herauszuzerren, um andern
+                        Personen zu ermöglichen, die leeren Sitze einzunehmen?</said> — <said id="1" mode="direct" content="speech" level="2">Wo ist das Gesetz</said><seg id="1" type="frame" pos="end">,
+                        <seg id="1" type="intExpr">frage</seg> <seg id="1" type="speaker">ich</seg>?</seg> Sie werden die Verfassung und Gesetzbücher umsonst darnach durchsuchen."</said> —
+                         
+           <seg id="4" type="frame" pos="start"> Und später <seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">Schurz</seg>: -</seg><said id="4" mode="direct" content="speech" level="1"> „Es ist nicht der Erfolg Napoleonischen
+                        Ehrgeizes, den ich befürchte, denn bestände er auch, so hätte derselbe gegen
+                        ein amerikanisches, nicht gegen ein französisches Volk aufzutreten; <seg id="13" type="frame" pos="start">aber wofür
+                        <seg id="13" type="speaker">ich</seg> Gründe habe zu <seg id="13" type="intExpr">fürchten</seg>, wenn wir auf der bisherigen Bahn weitergehen,
+                        ist,</seg> <said id="13" mode="indirect" content="thought" level="2">daß dies Triebwerk der Administration mehr und mehr nur zum Werkzeug von Cliquen werde, ein Werkzeug, Majoritäten zu schaffen und ein
+                        Plünderungssystem zu organisiren!</said>"</said> <seg id="5" type="frame" pos="start">Und dann, <said id="6" mode="reported" content="speech" level="1">als <seg id="6" type="speaker">Schutz</seg> die Senatoren
+                        der herrschenden Partei <seg id="6" type="intExpr">warnt</seg></said>, <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">er</seg>:</seg><said id="5" mode="direct" content="speech" level="1"> „Senatoren, <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Ihr</seg> <seg id="14" type="intExpr">wißt</seg> nicht,</seg> <said id="14" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wohin
+                        Ihr treibt, wenn Ihr nun nicht Halt macht.</said> Ihr wolltet nur die Schwarzen
+                        schützen in ihren Rechten, und um dies zu thun, Eure Freunde in der Macht
+                         
+            
+            erhalten! Ihr wolltet das nicht „Russisch" thun, aber von kleinen Anfängen
+                        ist Etwas daraus entstanden, was dem „Russischen" verdächtig ähnlich sieht;
+                        noch mehrere Schritte weiter und Ihr hättet das ganze Russisch! . . . Fahrt
+                        Ihr fort, so wird der Geist unsrer verfassungsmäßigen Regierung bald todt
+                        sein. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Wer</seg> <seg id="8" type="intExpr">wüßte</seg> nicht,</seg> <said id="8" mode="indirect" content="thought" level="2" nonfact="yes" border="yes" prag="yes">daß Republiken bisweilen zum Schauplatz von
+                        Verwirrung, Unruhen und Gewaltthätigkeiten werden, vielleicht mehr noch
+                        als Monarchien, welche durch despotische Gesetze regiert werden?</said> Die Institutionen von Republiken haben einen Preis zu zahlen für die große Wohlthat der Freiheit ihrer Verfassung. <seg id="9" type="frame" pos="start">Aber <seg id="9" type="speaker">wir</seg> <seg id="9" type="intExpr">wissen</seg> auch,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes">daß in Republiken
+                        Heilmittel für alles das gefunden werden, welche vollständig im Einklang sind
+                        mit dem Geist und der Form republikanischer Institutionen und einer
+                        constitutionellen Regierung. . . .</said> Haben wir die Geschichte des „Falls der
+                        Reubliken" umsonst gelesen? Sie giebt uns eine wohlbekannte, aber fürchterlich lehrreiche Lection. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Usurpatoren</seg> und <seg id="15" type="speaker">Plünderer</seg>, welche in Besitz der Macht
+                        sind&gt;, <seg id="15" type="intExpr">rechtfertigen</seg> ihre Machtübergriffe mit dem hohlen Vorwand,</seg> <said id="15" mode="indirect" content="speech" level="2">die gesetzlichen
+                        Wege reichten nicht mehr aus, Ordnung herzustellen. . .</said> O, Senatoren, es
+                        &gt; ist hohe Zeit, <seg id="16" type="frame" pos="start">daß <seg id="16" type="speaker">wir</seg> zu dem <seg id="16" type="intExpr">Verständniß</seg> kommen,</seg> <said id="16" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß wir in dieser Republik nicht Ordnung und den Gesetzen Geltung schaffen, wenn wir hier in
+                        Unserer hohen Stellung als Volksrepräsentanten es gestatten, daß die Executive ihre Machtbefugnisse überschreitet. . . .</said> Senatoren, täuscht Euch nicht!
+                        Niemandem gelingt es, die wichtige constitutionelle Frage, welche vor uns
+                        liegt, zu verdunkeln, durch Nebenfragen unklar zu machen; von welchem
+                        Endpunkt Ihr sie auch anseht: von jeder rechtlichen Erwägung, vom moralischen Recht und Gerechtigkeit, von dem politischen Standpunkte und demjenigen allgemeiner Wohlfahrt, Alles stellt die That, welche in Louisina verübt
+                        wurde, in nur grellerem Lichte hin: als einen ungesetzlichen Uebergriff von
+                        rücksichtsloser Gewalt, welche Unrecht und Unheil in ihrem Schooße birgt!
+                        Wir müssen ihr ins Antlitz sehen! Und da wir Männer sind, hierher gestellt
+                        vor Allem als die Hüter der Verfassung und Gesetze, als die Vertheidiger
+                        lang verbriefter Rechte und Freiheiten, müssen wir ihr muthig ins Antlitz
+                        sehen. Jetzt wenn je ist der Zeitpunkt, wo der Patriot über die Partei
+                        sich erheben sollte!"
+ </said>                        
+
+
+</p>
+      </body>
+   </text>
+</TEI>

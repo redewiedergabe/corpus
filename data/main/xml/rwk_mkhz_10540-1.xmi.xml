@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der alte Holtei.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1898_01_24.txt_2.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Der alte Holtei.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Soweit die Zunge der „Eselsfresser“ und
+                        „Usinger“ klingt, <said id="1" mode="reported" content="speech" level="1">wie wir Schlesier, <said id="24" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="24" type="speaker">wer</seg> kann
+                        <seg id="24" type="intExpr">sagen</seg> warum?</said> <seg id="1" type="intExpr">genannt</seg> werden</said>, soweit wird
+                        heute der hundertste Geburtstag Carl von Holteis
+                        mit „schläscher Gemittlichkeit“ gefeiert werden.
+                        Das ist nicht nur das gute Recht, das ist die
+                        Pflicht eines Landes, <said id="2" mode="reported" content="writing" level="1">dessen heimatlicher Dialect
+                        durch einen echten <seg id="2" type="speaker">Dichter</seg> in die Weltliteratur
+                        <seg id="2" type="intExpr">eingeführt</seg> worden ist</said>, und <said id="3" mode="reported" content="thought" level="1" border="yes"><seg id="3" type="speaker">Schlesien</seg>, dem dies
+                        Glück zweimal widerfahren ist, darf und wird
+                        über dem modernen Gerhart Hauptmann seinen
+                        „olen“ oder „alen“ (o und a laufen im Schlesischen zu einer Art von Diphtong zusammen)
+                        Holtei nicht <seg id="3" type="intExpr">vergessen</seg>.</said>
+               Aber auch <seg id="5 6" type="speaker">diejenigen</seg>, die nicht den heimatlichen Reiz der „Schlefischen Gedichte“ empfinden
+                        und <said id="4" mode="reported" content="speech" level="1" metaph="yes">die Fülle von Humor und reicher Gemüthsregung, die aus <seg id="4" type="speaker">ihnen</seg> <seg id="4" type="intExpr">spricht</seg></said>, <said id="5" mode="reported" content="thought" level="1">wegen des fremden
+                        Dialectes nicht ganz zu <seg id="5" type="intExpr">verstehen</seg> vermögen</said>,
+                        <said id="6" mode="reported" content="thought" level="1">werden heute eines Dichters gern <seg id="6" type="intExpr">gedenken</seg></said>, den,
+                        obwohl er selbst sich nie zu den Großen gezählt
+                        hat, doch viele seiner Werke überlebt haben.
+               Von seinen Romanen werden die „Vagabunden,“ <said id="7" mode="reported" content="speech" level="1" prag="yes">eine in ihrer Art fast classisch zu
+                        <seg id="7" type="intExpr">nennende</seg> Verherrlichung und Verspottung des
+                        „künstlerischen“ Landstreicherthums</said>, noch heute
+                        viel gelesen. Selbst <seg id="8" type="speaker">denen</seg>, die dies Werk nicht
+                        kennen, <said id="8" mode="reported" content="thought" level="1">ist sein Name wenigstens <seg id="8" type="intExpr">geläufig</seg></said>, wie
+                        dies ja bei vielen bedeutenden Dichtungen der
+                        Fall ist, die der „<seg id="9" type="speaker">Gebildete</seg>,“ wenn auch nicht
+                        kennen, <said id="9" mode="reported" content="speech" level="1" nonfact="yes">doch wenigstens <seg id="9" type="intExpr">neunen</seg> können muß.</said>
+                        Das ist in unserer raschlebigen Zeit schon immer
+                        etwas.
+               Gleichwohl verdienten gar manche der
+                        Holtei’schen Romane noch heute, auch außer
+                        Schlesien, wo sie noch lebendig bleiben, gelesen
+                        zu werden.
+               Wer sich einmal den „Letzten Comödianten,“
+                        „Christian Lammfell,“ „Ein Schneider,“ <said id="10" mode="reported" content="speech writing" level="1" prag="yes">um
+                        nur wenige seiner Werke zu <seg id="10" type="intExpr">nennen</seg></said>, ansehen
+                        möchte, <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">der</seg> würde mit Staunen <seg id="11" type="intExpr">bemerken</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">welch’
+                        ein starker Vorläuser des heute herrschenden
+                        Realismus in Carl von Holtei zu finden ist.</said>
+                        <said id="25" mode="reported" content="speech" level="1" prag="yes">Sind diese Werke auch stellenweise von einer
+                        gewissen Rührseligkeit, die aber zum Theil im
+                        schlesischen Volkscharacter wurzelt, nicht ganz <seg id="25" type="intExpr">freizusprechen</seg></said>, <said id="23" mode="reported" content="speech" level="1" prag="yes">so <seg id="23" type="intExpr">spricht</seg> sich in <seg id="23 13" type="speaker">ihnen</seg> doch eine
+                        starke Vorliebe <said id="13" mode="reported" content="writing" level="2">zur <seg id="13" type="intExpr">Schilderung</seg> echter Wahrheit</said>
+                        <seg id="23" type="intExpr">aus</seg></said>, ganz besonders wissen sie Ton, Empfindungsund <said id="14" mode="reported" content="thought" level="1"><seg id="14" type="intExpr">Denkart</seg> des kleinen <seg id="14" type="speaker">Mannes</seg></said> vortresslich
+                        wiederzuspiegeln.
+               Zu hoher literarischer Bedeutung aber
+                        erhebt sich Holtei in seiner Selbstbiographie, in
+                        den berühmten „Vierzig Jahren.“ Nicht nur,
+                        daß in ihnen eine classische Quelle für die Literatur- und Theatergeschichte fließt, <said id="26" mode="reported" content="writing" level="1">daß <seg id="26" type="speaker">sie</seg> die
+                        interessantesten <seg id="26" type="intExpr">Mittheilungen</seg> über Goethe, Goethes
+                        unglücklichen Sohn August, Ludwig Tieck und
+                        andere Literaturgrößen, über Iffland, Ludwig
+                        Devrient, Pius Wolff, Seidelmann und viele
+                        berühmte Schauspieler und Schauspielerinnen
+                        bringt</said>, nicht nur, daß hier die ganze Culturgeschichte seiner Zeit sich spiegelt, <said id="17" mode="reported" content="writing" level="1"><seg id="17" type="speaker">Holtei</seg> hat in
+                        diesen Erinnerungen ein so fein und wahr beobachtetes Bild der eigenen Characterentwicklung <seg id="17" type="intExpr">gegeben</seg></said>, hat sich so wenig gescheut, auch in die Abgründe einen Blick thun zu lassen, die ihm so
+                        wenig wie irgend einer Menschenseele gefehlt haben,
+                        daß man dies Werk fast den „Confessions“
+                        Rousseaus an die Seite stellen könnte.
+               Die „Vierzig Jahre“ sind, trotz manches
+                        recht wenig „moralischen,“ was sich darin finden
+                        mag, <said id="18" mode="reported" content="speech" level="1" prag="yes">ein wahrhaft moralisches Buch zu <seg id="18" type="intExpr">nennen</seg></said>,
+                        und niemand, <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">der</seg> es <seg id="19" type="intExpr">versteht</seg>,</seg> <said id="19" mode="indirect" content="thought" level="1" border="yes">sich selber in anderen
+                        zu erkennen</said>, wird es ohne Nutzen aus der Hand
+                        legen. <said id="20" mode="reported" content="thought" level="1"><seg id="20" type="speaker">Ich</seg> <seg id="20" type="intExpr">halte</seg> es daher nicht nur für einen
+                        glücklichen, sondern für <said id="21" mode="reported" content="thought" level="2">einen verdienstlichen <seg id="21" type="intExpr">Gedanken</seg> der <seg id="21" type="speaker">Verlagshandlung</seg></said>, dies Buch in einer
+                        Jubiläumsausgabe, die auf alles verzichtet, was
+                        nur für die Zeitgenossen zufälliges Interesse
+                        hatte, in handlichem Format herauszugeben.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

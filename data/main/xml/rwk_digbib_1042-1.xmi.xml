@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Rahel</title>
+             <author>Christen, Ada</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Christen,_Ada_Rahel.tg327_1.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Rahel</f>
+         <f name="author">Christen, Ada</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Er hatte den Kopf weit nach rückwärts gebeugt, seine langen schwarzen Haare lockten sich über den lichten Sommerrock bis an die Schultern. 
+                  <seg id="2" type="speaker">Liese</seg> hielt sich an dem Türrahmen, biß sich in die Unterlippe und atmete, als ob sie weinen wollte, sie wandte kein Auge von dem Manne, machte nur eine geräuschlose Wendung der Treppe zu, mit einem Male aber pochte sie laut an die geöffnete Türe, im selben Augenblick wandte sich der <seg id="1" type="speaker">Mann</seg> um, und sie flogen aufeinander zu ... <said id="1" mode="direct" content="speech" level="1">»Liese!«</said> 
+                <said id="2" mode="direct" content="speech" level="1">  »Rafael!«</said> Und wieder wollte sie gehen. 
+                 <said id="3" mode="direct" content="speech" level="1"> »O bleibe, Liese!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">bat</seg> <seg id="3" type="speaker">er</seg></seg> und führte sie in die Stube, sie aber erfaßte mich am Kleide und wollte mich mit hineinziehen. <said id="4" mode="direct" content="speech" level="1">»Liese, seit wann fürchtest du, mit mir allein zu sein?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">frug</seg> <seg id="4" type="speaker">er</seg> traurig. </seg>Ihre Hand ließ mein Kleid los, sie folgte ihm und lehnte die Türe nur an. 
+                  Ich setzte mich draußen auf die letzte Stufe der Treppe nieder und schaute in die Weite. Etwas wie Eifersucht regte sich in mir, <seg id="9" type="frame" pos="start">denn <seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">sah</seg>, </seg><said id="9" mode="indirect" content="thought" level="1" border="yes">daß die beiden <seg id="12" type="speaker">Menschen</seg> sich gut kannten, daß sie sich liebten ... <said id="12" mode="reported" content="thought" level="2" nonfact="yes" border="yes">und sich vielleicht in jedem Winkel der Welt früher zu finden <seg id="12" type="intExpr">dachten</seg> als da oben auf dem alten Turm in der Stube des Hausierjuden.</said> </said>
+                  <seg id="5" type="speaker">Ich</seg> schmollte und war in die Seele betrübt, als Liese langsam wie eine Schlafwandelnde die Treppe niederstieg. 
+                 <said id="5" mode="direct" content="speech" level="1"> »Der da kann bei Vater und Mutter sein und hat die Menge Menschen, die ihn liebhaben ... warum will er nun auch dich mir wegnehmen, mir, die ohnedies so allein ist, so weit weg von daheim ...« </said>
+                  <said id="6" mode="direct" content="speech" level="1">»Sei still du«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">lächelte</seg> <seg id="6" type="speaker">Liese</seg>,</seg><said id="6" mode="direct" content="speech" level="1"> »sei mäuschenstill,<seg id="7" type="frame" pos="start"> <seg id="7" type="speaker">niemand</seg> darf <seg id="7" type="intExpr">wissen</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß wir uns liebhaben</said> ... Du bist zu jung, um zu fühlen, daß alles kommen muß, wie es kommt. Wir bleiben hier oben.« </said>
+                  Rafael ging noch an demselben Abend fort, und wir bezogen seine beiden Stübchen. 
+                  
+                     Gar glückselige Stunden verbrachten wir da droben, wir lernten und träumten miteinander, und durch das kleine Turmfenster flogen unsere schönsten Zukunftspläne in die blaue Luft. 
+                  Als der Herbst kam, da starb die kranke Frau, und damals sahen wir auch Rafael zum zweiten Male, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">aber <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">sprach</seg> weder zu Liese noch zu mir ein Wort</said>, er saß drüben auf der kalten Diele, sieben Tage und sieben Nächte, sein Vater saß bei ihm und die kleine Rahel, <seg id="13" type="speaker">wir</seg> aber knieten herüben jeden Abend in unserer Stube und <said id="13" mode="reported" content="speech thought" level="1" border="yes"><seg id="13" type="intExpr">beteten</seg> für das Seelenheil der Heimgekehrten</said>, die wir so liebgewonnen hatten und die so gut gegen uns gewesen war wie eine gute Mutter. 
+                  Nach acht Tagen verließ uns Rafael wieder, er klopfte am Morgen des neunten Tages an unsere Türe, und als Liese öffnete, reichte er durch den Spalt einen glatten, abgenützten silbernen Ring herein. Seine Mutter hatte ihn bis an ihr Lebensende getragen ... <seg id="11" type="speaker">er</seg> ging, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">ohne ein Wort zu <seg id="11" type="intExpr">sprechen</seg>. </said>
+                  Es hatte sich durch den Tod der alten Frau wenig verändert. Seit wir droben wohnten, besorgten wir schon das kleine Hauswesen, um die Kranke jeder Arbeit zu überheben. Jakob, der Vater Rafaels, kam nach wie vor jede Woche erst Freitag von seinen Dorfgängen heim und ging Sonntag wieder vom Hause fort; wenn er schied, so berührte der würdevolle alte Mann auch flüchtig unseren Scheitel mit seiner Hand wie den der kleinen Rahel.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

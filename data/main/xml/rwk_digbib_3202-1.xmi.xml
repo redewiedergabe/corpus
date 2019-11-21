@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die verhüllte Fee</title>
+             <author>Ungern-Sternberg, Alexander von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ungern-Sternberg,_Alexander_von_Die_verhuellte_Fee.tg17_1.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Die verhüllte Fee</f>
+         <f name="author">Ungern-Sternberg, Alexander von</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Da klopfte es abermals, und als die Tür sich öffnete, erschien auf der Schwelle die Fee Augentrost. 
+                  <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Sie</seg> ging auf den Jüngling zu, der sie aus kleinen, trüben Augen ansah, legte den Finger auf diese Augen und <seg id="1" type="intExpr">rief</seg>:</seg>
+                         
+                  
+                     <said id="1" mode="direct" content="speech" level="1">»Pfui, pfui! ich lieb' nicht solche Augen,
+                     Die weder geschickt sind,
+                     Liebe zu geben noch einzusaugen,
+                     Geschwind ein paar andre, mein Kind!«</said>
+                        
+                  
+                  
+                     <seg id="2" type="frame" pos="start">Und dann <seg id="2" type="intExpr">sang</seg> <seg id="2" type="speaker">sie</seg>:</seg>
+                        
+                  
+                  
+                     <said id="2" mode="direct" content="speech" level="1">»Wie himmlisch ist ein Aug' zu schauen,
+                     Gehör's zu braunen oder blauen,
+                     Was da voll süßer Seele blickt
+                     Und goldne Liebespfeile schickt.«</said>
+                        
+                  
+                  
+                     Nun kamen nacheinander:
+                     Die Fee Naslieb. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Sie</seg> <seg id="3" type="intExpr">sang</seg>:</seg>
+                        
+                  
+                  
+                     <said id="3" mode="direct" content="speech" level="1">»Die Nase, die in Flortüchern wühlt,
+                     Die sich am marmornen Busen kühlt,
+                     Ist auch ein Geschöpf, das fühlt.«</said> –
+                        
+                  
+                  
+                     
+                        Dann die Fee Kußlippe. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Sie</seg> <seg id="4" type="intExpr">sang</seg>:</seg>
+                        
+                  
+                  
+                     <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start">Wollt <seg id="5" type="speaker">ihr</seg> <seg id="5" type="intExpr">wissen</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wann süß ein Kuß?</said>
+                     Wenn man die Lippen suchen muß
+                     Ihr roter Schein, hinter der Nacht,
+                     Des krausen Bartes lieblich lacht.«</said>
+                        
+                  
+                  
+                     Dann hintereinander die Feen: Wangenfreude, Schimmerzahn, Grübchenkinn.
+                     <seg id="6" type="frame" pos="start">Die <seg id="6" type="speaker">erste</seg> <seg id="6" type="intExpr">sang</seg>:</seg>
+                        
+                  
+                  
+                     <said id="6" mode="direct" content="speech" level="1">»Anfeuchten Wangen, die rot erglühn,
+                     Tut die Lieb' ihr Immergrün ziehn,
+                     Wie am Spalier an heißer Wand
+                     Der Gärtner seinen Fruchtbaum band.«</said>
+                        
+                  
+                  
+                     <seg id="7" type="frame" pos="start">Die <seg id="7" type="speaker">zweite</seg>:</seg>
+                        
+                  
+                  
+                     <said id="7" mode="direct" content="speech" level="1">»Die Keuschheit, hinschiffend im Liebesmeer,
+                     Hat zu bestehen gar böse Klippen.
+                     Die schlimmsten sind hinter roten Lippen
+                     Das weiße Zähneheer.«</said>
+                        
+                  
+                  
+                     <seg id="8" type="frame" pos="start">Und die kleine <seg id="8" type="speaker">Fee Grübchenkinn</seg> <seg id="8" type="intExpr">sang</seg>:</seg>
+                        
+                  
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»Wenn alles glatt und eben ist,
+                     Die Lippe gar zu schläfrig küßt,
+                     Kommt sie aber auf ihrem Weg in Gefahr,
+                     Zu fallen in ein Löchlein gar,
+                     So klammert sie sich an und küßt recht fest,
+                     Das ist dann beim Küssen das allerbest'.«</said>
+                        
+                  
+                  
+                     <said id="9" mode="reported" content="speech" level="1">Wie <seg id="9" type="speaker">sie</seg> das <seg id="9" type="intExpr">gesagt</seg> hatte</said>, grub sie in das Kinn des Jünglings mit ihrem kleinen Finger ein allerliebstes Grübchen. 
+                  Nun kamen die Feen, die sich mit dem übrigen Körper beschäftigten. Da war die Fee Schönhals, die Fee Wölbebrust, die Fee Rundhüfte, die Fee Schönschenkel, die Fee Knienglatt, die Fee Prallwade, die Fee Kleinfuß. Sie alle rieben, bügelten und schniegelten, drückten und zwickten, streichelten und hauchten, bliesen und stießen an dem Jüngling herum, bis er endlich schön wie Adonis aus den dunklen Wellen des Bades stieg. 
+                  Ganz zuletzt, als die andern schon alle wieder fort waren, kam noch eine <seg id="11 10" type="speaker">Fee</seg>, die blieb auf der Schwelle der Hütte stehn und <seg id="11" type="frame" pos="start"><said id="10" mode="reported" content="speech" level="1" nonfact="yes">wollte ihren Namen nicht <seg id="11 10" type="intExpr">sagen</seg></said>, auch nicht,</seg> <said id="11" mode="indirect" content="speech" level="1" nonfact="yes">welche Gabe sie bringe.</said> Dabei war sie verschleiert, <seg id="12" type="frame" pos="start">und <seg id="12" type="speaker">man</seg> <seg id="12" type="intExpr">wußte</seg> nicht,</seg> <said id="12" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was man mit ihr anfangen sollte.</said> Zuletzt wurde sie weggewiesen. 
+                  <said id="14" mode="direct" content="speech" level="1">»<seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Wer</seg> mag denn <seg id="15" type="intExpr">wissen</seg>,</seg>«</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">sagte</seg> die <seg id="14" type="speaker">Witwe</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">ob es auch eine wirkliche Fee ist.</said> Es gibt soviel herumstreichendes <seg id="16" type="speaker">Gesindel</seg>, <said id="16" mode="reported" content="speech" level="2" border="yes">das sich allerlei <seg id="16" type="intExpr">Namen</seg> gibt.</said> <said id="17" mode="reported" content="speech" level="2" nonfact="yes">Warum hat <seg id="17" type="speaker">sie</seg> denn nicht den Zweck ihres Kommens <seg id="17" type="intExpr">genannt</seg>?</said> Übrigens du bist jetzt vollkommen schön, und wir haben auch weiter keine Fee nötig. Jetzt kleide dich in die neuen Kleider, die ich schon besorgt habe, <said id="25" mode="reported" content="speech" level="2" nonfact="yes">und <seg id="25" type="intExpr">melde</seg> <seg id="25" type="speaker">dich</seg> bei der Oberhofmeisterin der Prinzessin.</said> Es ist gerade heute Annahmetag.«</said> 
+                  Als die Prinzessin ihn sah,<seg id="19" type="frame" pos="start"> <seg id="19" type="intExpr">rief</seg> <seg id="19" type="speaker">sie</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Ach, was für ein schöner Mann! Was für ein schöner Mann!«</said> Die Oberhofmeisterin winkte ihr aber, still zu sein, setzte ihre große Brille auf und betrachtete ihrerseits den Ankömmling. <said id="20" mode="direct" content="speech" level="1">»Es ist wahr,«</said> <seg id="20" type="frame" pos="mid"><seg id="20" type="intExpr">sagte</seg> <seg id="20" type="speaker">sie</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»es ist ein hübscher Junge; <seg id="21" type="frame" pos="start">allein Ihro <seg id="21" type="speaker">Hoheit</seg> werden sich <seg id="21" type="intExpr">besinnen</seg>,</seg> <said id="21" mode="indirect" content="thought" level="2" nonfact="yes"><seg id="22" type="frame" pos="start">daß <seg id="22 23" type="speaker">Sie</seg> mir <seg id="22" type="intExpr">versprochen</seg> haben,</seg> <said id="22" mode="indirect" content="speech" level="3"><said id="23" mode="reported" content="speech" level="4" nonfact="yes">keinen Mann für vollkommen schön zu <seg id="23" type="intExpr">erklären</seg></said>, <said id="24" mode="reported" content="speech" level="4" nonfact="yes">den <seg id="24" type="speaker">ich</seg> nicht auch dafür <seg id="24" type="intExpr">erkläre</seg>.</said></said></said>«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

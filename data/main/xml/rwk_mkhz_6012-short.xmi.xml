@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein bekehrter Pfaffe</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social0804_1874_8.xml</f>
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Ein bekehrter Pfaffe</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Ein bekehrter Pfaffe.
+                        
+         <said id="1" mode="reported" content="speech" level="1">   Jn einer strenggläubigen Stadt unseres lieben Vaterlandes
+                        <seg id="1" type="intExpr">predigte</seg> jüngst der <seg id="1" type="speaker">Pfarrer</seg> gegen die Social=Demokraten und
+                        erzählte seinen Zuhörern so schauderhafte Geschichten von ihnen</said>,
+                        daß die frommen Leute eine Gänsehaut vor Schreck bekamen.
+                       <said id="2" mode="reported" content="speech" level="1"> Endlich kam <seg id="2" type="speaker">er</seg> zum Schlusse seiner <seg id="2" type="intExpr">Predigt</seg></said> und<seg id="3" type="frame" pos="start"> voller Emphase
+                       <seg id="3" type="intExpr"> rief</seg> <seg id="3 5" type="speaker">er</seg> aus:</seg> <said id="3" mode="direct" content="speech" level="1">„Die Social=Demokraten sind so schlecht, daß sie
+                        alle in der Hölle brennen werden, und wenn es nicht wahr ist,
+                       <said id="4" mode="reported" content="speech" level="2"> was <seg id="4" type="speaker">ich</seg> hier <seg id="4" type="intExpr">sage</seg></said>, so möge mich auf der Stelle der Teufel holen!“</said>
+                        Bei <said id="5" mode="reported" content="speech" level="1">diesen <seg id="5" type="intExpr">Worten</seg></said> schlug er heftig auf die Brüstung der Kanzel,
+                        so daß das Buch, welches neben ihm lag, herunterfiel. Nicht
+                        weit von der Kanzel saß ein Amerikaner, dessen Bedienter ein
+                        Mohr war; er gab diesem einen Wink, das Buch aufzuheben
+                        und achtete nicht weiter auf ihn. Der Mohr gehorchte und bestieg dann die Treppe zur Kanzel, um dem Pfarrer das Buch
+                        zurück zu geben. Als er die letzte Stufe erreicht hatte,<seg id="6" type="frame" pos="start"> wiederholte eben der fromme <seg id="6" type="speaker">Mann</seg> seine <seg id="6" type="intExpr">Versicherung</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß ihn der
+                        Teufel holen möge, wenn das nicht wahr sei,<said id="7" mode="reported" content="speech" level="2"> was <seg id="7" type="speaker">er</seg> über die
+                        Social=Demokraten <seg id="7" type="intExpr">gesagt</seg>.</said></said> Der Mohr trat zwar ziemlich leise
+                        auf, aber der Pfarrer hörte doch die Tritte und wendete sich um.
+                        Voller Bestürzung sah er den Schwarzen auf sich zuschreiten,<seg id="8" type="frame" pos="start"><seg id="8" type="speaker"> er</seg>
+                       <seg id="8" type="intExpr"> glaubte</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1">der Leibhaftige habe ihn schon wegen <said id="9" mode="reported" content="speech" level="2"><seg id="9" type="speaker">seiner</seg> <seg id="9" type="intExpr">Aeußerung</seg></said>
+                        beim Kragen.</said> -- <said id="11" mode="direct" content="speech" level="1">„Es ist zwar möglich,“</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">er</seg> mit zitternder
+                        Stimme, zu seiner Gemeinde</seg>, <said id="11" mode="direct" content="speech" level="1">„daß mancher Gute unter diesen
+                        Social=Demokraten ist;“</said> er wendete sich dann um und sah den
+                        Schwarzen immer näher auf sich zukommen; der Angstschweiß
+                        tritt ihm auf die Stirne und <seg id="12" type="frame" pos="start">voller Verzweiflung<seg id="12" type="intExpr"> ruft</seg><seg id="12 13" type="speaker"> er</seg> aus:</seg>
+                       <said id="12" mode="direct" content="speech" level="1"> „Es sind sogar sehr viele Gute unter ihnen!“</said> Nach <said id="13" mode="reported" content="speech" level="1">diesen <seg id="13" type="intExpr">Worten</seg></said> wendete er sich wieder um, der Mohr stand dicht hinter ihm,
+                        und <said id="14" mode="reported" content="thought" level="1">der an allen Gliedern zitternde <seg id="14" type="speaker">Priester</seg> <seg id="14" type="intExpr">sah</seg> sich schon von
+                        den Krallen des Beelzebub erfaßt</said>; er raffte seine letzte Kraft zusammen, und halb zum Mohren, halb zu seiner Gemeinde gewendet, <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">ruft</seg> <seg id="15" type="speaker">er</seg> aus:</seg> <said id="15" mode="direct" content="speech" level="1">„Hol' mich der Teufel, wenn nicht alle
+                        Social=Demokraten besser sind, als wir!“</said> Der geängstigte Priester
+                        fiel dann in eine Ohumacht, aus der er erst nach langer Zeit
+                        erwachte.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

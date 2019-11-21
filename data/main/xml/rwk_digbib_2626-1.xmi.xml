@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hastenbeck</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Hastenbeck.tg283_1.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Hastenbeck</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+– – – – – – – – – – – – 
+                     Wir können sie so sitzen und suchen lassen; wir können ihr Pflegekind, von<said id="1" mode="reported" content="speech" level="1"> der <seg id="1" type="intExpr">Mahnung</seg> der <seg id="1" type="speaker">Wackerhahnschen</seg></said> wie ein »gejagt Hühnchen« beflügelt, durch den Schnee seinen Weg zu dem Boffzener Pfarrhause zurückfinden lassen: mit dem Pastor Störenfreden in Derenthal sind wir noch nicht fertig. Den können wir noch nicht so lassen, wie wir ihn in seinem Briefe gefunden haben. – 
+                     Der ging um diese dämmerige Stunde zwischen sei nem Ofen mit dem glühroten springenden braunschweigischen Pferd und den niederen Fenstern, an denen sich schon die ersten Eisblumen der Nachtkälte bildeten, auf und ab und atmete dann und wann tief auf, doch aus befreiter Brust wie ein Mann, dem eine schwere Bürde abgenommen worden war, oder der sie sich vielmehr selber mit Aufbietung von viel Kraft von den Schultern abgestreift und hinter sich zu Boden niedergelegt hatte. 
+                    <said id="2" mode="freeIndirect" content="thought" level="1"> Wahrlich, kein übler <seg id="3" type="speaker">Mann</seg>, dieser junge Pfarrherr und Schüler von des jungen Werthers Vater! <said id="3" mode="reported" content="speech" level="2">Wohl einem guten Mütterlein als ein wackerer Schwiegersohn zu <seg id="3" type="intExpr">wünschen</seg>!</said> Kein häßlicher Mann und kein schlechter Mensch! Dem Leibe nach wohlgestaltet, wenn auch etwas hager und gebückt in seinem geistlichen Schwarz, – der Seele nach ein Kind von einem Menschen!</said> ... Ja, das letztere war es eben, was ihn bis heute abgehalten hatte, das zu verrichten, was auf die Frau Pastor Holtnicker im Boffzener Pfarrhause niederkam, wie der über den Philistern zusammenbrechende Tempel des Gottes Dagon zu Gaza. 
+                     
+                        Ein gutes <seg id="8" type="speaker">Kind</seg> und <said id="8" mode="reported" content="speech" level="1" nonfact="yes">mit der Schwachheit behaftet, schwer »nein« <seg id="8" type="intExpr">sagen</seg> zu können</said>: was braucht es da mehr, dem Menschen unruhige Tage und schlaflose Nächte zu schaffen? Ach, wie bald die Welt den herausfindet, der am wehrlosesten gegen sie ist, jeden, der grade aus seinen Tugenden, dem zarten Gewissen, dem guten Herzen, der Schämigkeit, dem Mitleiden und der Lust zur Mitfreude heraus selber ihr die Hülfsmittel gibt, ihn nach ihrem Willen ab- und zuzurichten! 
+                     Ach, und wenn gar noch die Welt die Gestalt der lieben, braven, das Beste meinenden guten Tante, der Muhme Holtnicker, der Frau Pastor Holtnicker, annimmt, und den fernen Vetter, Ehrn Emanuel Störenfreden, aus seinem Walddorfe herausholt und ihn auf sein Glück und – seine Pflicht und Schuldigkeit, nötigenfalls sogar wie <said id="5" mode="reported" content="speech" level="1" nonfact="yes">auf <seg id="5" type="intExpr">Befehl</seg> von oben</said>, vom Thron der höchsten <seg id="5" type="speaker">Weltregierung</seg> her, mit der Nase stößt und so drauf festhält! was dann? ....
+                     Dann dann und wann ein solches Atemholen nach Vollbringung einer guten Tat, nach Ausführung eines edlen Entschlusses, wie das befreite Aufatmen Ehrn Emanuel Störenfredens, der zu den Füßen des Herrn Abts von Riddagshausen gesessen hatte, um sich zum heiligen Predigtamt, zu einem Berater und Trosisprecher, nicht in Werthers Leiden, sondern im Leid dieser armen Erde vorzubereiten und mit dem dazu notwendigen geistigen Werkzeug ausrüsten zu lassen von dem Vater des künftigen Legationssekretärs Karl Wilhelm Jerusalem am Reichskammergericht zu Wetzlar! – – – – – – – – – – 
+                     Nun war er es von der Seele los. Er führte nicht das liebe Bienchen aus dem Boffzener Pfarrgarten in seine stille, gelehrte Klause. Rund um ihn her gewann alles in seiner engen Welt, in die sich die gute Tante und sorgliche Mutter, die Frau Pastorin von Boffzen, nur zu seinem Besten, für sein Glück besorgt, so gewalttätig zärtlich eingedrängt hatte, wieder das alte Gesicht. Denn trotz aller Gewissensbisse, <seg id="6" type="frame" pos="start">seinem guten Gewissen gegenüber<seg id="6" type="intExpr">wußte</seg> <seg id="6" type="speaker">er</seg> es ja,</seg> <said id="6" mode="indirect" content="thought" level="1">daß er das Rechte vollbracht hatte; daß er auch seiner »Mademoiselle Braut«, der ihm bestimmten Maid, durch seinen Brief in der bitterbösen Zeit doch die schwersten Ketten von den Handgelenken lösete, daß er, wie sich selber, auch dem armen Hannchen Holtnicker zu einem freieren Atemzug aus tiefster Brust und Seele verhalf!</said> 
+                     Ja, <said id="9" mode="reported" content="thought" level="1">wenn <seg id="9" type="speaker">er</seg> in dem Behagen der Erlösung doch mit Schauder an die Mutter <seg id="9" type="intExpr">dachte</seg></said>, so tröstete ihn lieblichst das Bild der Tochter, wie es vor ihm aufstieg mit seiner Angst und Abneigung vor ihm und seiner Hilflosigkeit, die der seinigen so sehr glich in dem Verkehr der letzten Jahre zwischen Derenthal und Boffzen.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

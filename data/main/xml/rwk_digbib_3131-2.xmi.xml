@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Katzensilber</title>
+             <author>Stifter, Adalbert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Stifter,_Adalbert_Katzensilber.tg140_1.xml</f>
+         <f name="year">1853</f>
+         <f name="decade">1850</f>
+         <f name="title">Katzensilber</f>
+         <f name="author">Stifter, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Endlich, da die Erde weithin grün war, da die Zweige sich verlängert hatten, kamen auch Blüten, sie kamen später, und waren weniger als in andern Jahren, aber sie waren da, und waren fast noch zutraulicher und lieblicher als in früheren Zeiten. 
+                  
+                     
+Einmal in der Fülle des Frühlings, da alles blühte und duftete, und sich das menschliche Herz erfreute, da die Kinder von dem hohen Nußberge nach Hause gingen, las braune Mädchen sie begleitete, und man bis zu den Glashäusern gekommen war, hatte Blondköpfchen mit ernsten Augen die Hand des braunen Mädchens gefaßt. Braunköpfchen hatte es am Arme genommen. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Blondköpfchen</seg> sah dem braunen Mädchen in das Angesicht und <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Komme mit, komme mit.«</said> 
+                  <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Braunköpfchen</seg> <seg id="2" type="intExpr">sagte</seg> auch:</seg> <said id="2" mode="direct" content="speech" level="1">»Komme mit, komme mit.«</said> 
+                  Das braune Mädchen sah die Kinder an, und tat einen Schritt vorwärts. 
+                  Braunköpfchen war außerordentlich erfreut, <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">es</seg> ging einen Schritt voraus und <seg id="3" type="intExpr">sagte</seg> lockend:</seg> <said id="3" mode="direct" content="speech" level="1">»Komme mit, komme mit.«</said> 
+                  Das braune Mädchen ging zögernd nach. Es ging von den Glashäusern gegen die Bäume vorwärts, es ging auf dem Kieswege durch das Grün des Gartens, es ging über den Sandplatz vor dem Hause, es ging über die Treppe empor, und stand auf dem Teppiche des Besuchzimmers. 
+                  Es war in dem Zimmer niemand zugegen. Die Großmutter ging gleich, da man die Treppe empor gekommen war, in ein anderes Gemach. 
+                  Das fremde Mädchen stand, und öffnete seine großen Augen noch mehr, und schaute auf den Spiegel an der Wand, auf die Uhr, auf den Schrein, auf welchem schöne Gefäße standen, auf Tische und Stühle und Sessel und auf den wunderbaren Teppich. 
+                  Die Kinder liefen und brachten süße Milch in einer Schale, und brachten feines Weizenbrod und silberne Löfflein. Das fremde Kind trank die Milch aus der Schale, nahm ein Stückchen Brod in die Hand, biß davon ab, und verzehrte es so. 
+                  Die Kinder brachten ihre Spielzeuge und zeigten sie. Das 
+braune Kind wußte damit nichts anzufangen. Die Kinder brachten auch ihre Nußknacker, ihre schöneren Kleider und ihre Bänder. 
+                  Endlich kam auch die Mutter in einem feinen weißen Anzuge, und trug gezuckerte eingemachte Früchte auf einer Tasse, und bot dem fremden Mädchen davon an. 
+                  Das braune Mädchen wich zurück, bis es mit dem Rücken aufrecht an der Wand stand. Es rührte keine Hand, es blickte die Früchte an, und ließ die Arme an dem Körper herab hängen. 
+                  Da wendete sich die <seg id="4" type="speaker">Mutter</seg> wieder um, und ging, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">ohne weiter ein Wort zu <seg id="4" type="intExpr">reden</seg></said>, aus dem Zimmer. 
+                  Die Kinder traten zu dem fremden Mädchen, liebkosten es, es gab die Liebkosungen zurück, und nachdem dies ein Weilchen gedauert hatte, <said id="5" mode="reported" content="speech" level="1">nachdem <seg id="5" type="speaker">man</seg> <seg id="5" type="intExpr">geredet</seg></said>, <said id="6" mode="reported" content="speech" level="1">nachdem das fremde <seg id="6" type="speaker">Kind</seg> <seg id="6" type="intExpr">geantwortet</seg> hatte</said>, und da es die Augen immer auf die Tür geheftet hielt, liefen alle zur Tür hinaus, liefen über die Treppe hinab, liefen durch den Garten, und hinter den Glashäusern lief das fremde Mädchen dann allein über die Sandlehne empor. 
+                  So wie es an diesem Tage gewesen war, war es wieder einmal an einem andern. Da die Kinder auf dem Nußberge gewesen waren, da das fremde Mädchen zu ihnen gekommen war, da man nach Hause gegangen und bei den Glashäusern angekommen war, <seg id="7" type="frame" pos="start">hielt <seg id="7" type="speaker">Braunköpfchen</seg> das fremde Mädchen an dem Arme, zog es nach sich, und <seg id="7" type="intExpr">bat</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">daß es mitgehen möchte.
+
+</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

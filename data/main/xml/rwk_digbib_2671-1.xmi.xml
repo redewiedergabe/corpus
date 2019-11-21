@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Winternacht auf dem Stuhleck.</title>
+             <author>Rosegger, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Rosegger,_Peter_Waldheimat__Erzaehlungen_aus_der_Jugendzeit.tg27_1_113.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Winternacht auf dem Stuhleck.</f>
+         <f name="author">Rosegger, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Das wäre gar keine Möglichkeit jetzt in diesem Schnee!« </said>
+                  Ich kannte das Gebirge wohl, es war das hohe Stuhleck mit seinen steinigen Kuppen und stundenweit hingestreckten Almen. Im Sommer ist auf diesen Höhen viel Leben; Halter und Senninnen, Jäger und Touristen; für letztere ist nahe an der Spitze des Stuhleck ein Schutzhaus erbaut worden; aber die Bauernburschen, die eifersüchtig auf ihre Almerinnen sind, haben denStädtern das Bergnest wieder zerstört. Auch die Jäger sind keine Freunde der Touristen, weil die das Wild verscheuchen; <seg id="3" type="frame" pos="start">der <seg id="3" type="speaker">Bauer</seg> wieder <seg id="3" type="intExpr">fürchtet</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1">daß die müßigen Alpengeher in seinen Schwaighütten allzuviel unbezahlte Milch und Butter verzehren</said> – und so ist ihnen das Touristenhaus gut weg. Das ändert aber nichts an der Luft, die zur Sommerszeit auf den Höhen herrscht. Selbst dem Wanderer, der auf dem fünf Stunden langen Weg zwischen Spital und Rettenegg geht – und mag's ihm noch so kümmerlich zumute sein-ihm wird leicht, wenn er auf der Höhe ist und hinschaut über die von Gesang und Rinderglocken umklungenen Almen, über die fernen Felsen, wenn er niederblickt auf die weiten, von glitzernden Wassern durchzogenen Täler, wo die Menschenwohnungen sind, die so viel Kümmernis bergen, und die von Höhen aus gesehen so friedlich daliegen. – 
+                  <said id="4" mode="reported" content="thought" level="1">Solche <seg id="4" type="intExpr">Erinnerungen</seg> zogen durch <seg id="4" type="speaker">meine</seg> Seele</said> zur Stunde, da wir nächtig dahinschritten. Der Kaltenbach graben ist lang; das Wasser, welches vom Gebirge niederkommt und in den sommerlichen Tagen so betäubend hinbraust, war streckenweise verhüllt unter Schnee und Eis. Die Stege, die darüber hinführten, waren schlüpferig, so daß es keiner der Suchenden unterließ, unterhalb derselben mit seinem Lichte in den Bach zu leuchten. Wir trafen mit mehreren Männern zusammen, keiner hatte vom Knaben eine Spur entdeckt. 
+                  In einer der letzten Hütten des Kaltenbachs – wir weckten die Leute – <seg id="21" type="frame" pos="start">wußte uns ein <seg id="21 22 24" type="speaker">Weib</seg> zu <seg id="21" type="intExpr">erzählen</seg>,</seg> <said id="21" mode="indirect" content="speech" level="1">daß es Tags zuvor, gerade schon ums Dämmern, an der Rabenwiese, die sich vom Tale gegen das Stuhleck hinaufzieht, und über welche der Steig nach Rettenegg führt –daß es auf dieser Rabenwiese ein schwarzes Pünktlein gesehen hätte, welches sich ein wenig nach aufwärts bewegte.</said> <said id="22" mode="indirect freeIndirect" content="speech" level="1">Das Weib habe noch ein Randel hingesehen und<seg id="23" type="frame" pos="start"> <seg id="23 " type="speaker">sich</seg> <seg id="23" type="intExpr">gedacht</seg>,</seg> <said id="23" mode="indirect" content="thought" level="2">was das denn sein könne?</said> <said id="24" mode="indirect freeIndirect" content="thought" level="2">für einen Menschen wäre es zu klein und für einen Raben zu groß.</said> Es wäre dann finster geworden und <said id="17" mode="reported" content="thought" level="2" nonfact="yes"><seg id="17" type="speaker">sie</seg> hätte nicht meiter mehr dran <seg id="17" type="intExpr">gedacht</seg>.</said> </said>
+                <said id="8" mode="direct" content="speech" level="1">  »Das ist der kleine Franzel gewesen!«</said><seg id="8" type="frame" pos="end"> <seg id="8" type="intExpr">sagten</seg> nun die <seg id="8" type="speaker">Leute</seg>.</seg> Wir mußten auf den Berg. In meinem Leben sind mir auf einer Alpenpartie die Füße nicht so leicht gewesen, als diesmal. Die Wege waren verschneit, aber der Schnee war hart und trug uns. An den Hängen liefen wir Gefahr, abzurutschen, wir mußten unsere Stiefelabsätze mit Gewalt in den gefrorenen Schnee stoßen. 
+                 <said id="9" mode="direct" content="speech" level="1"> »Hier kann der Knabe ja nicht hinausgekommen sein,«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">meinte</seg> <seg id="9" type="speaker">ich</seg>. </seg>
+                <said id="10" mode="direct" content="speech" level="1">  »Zur Tageszeit und früh abends ist der Schnee nicht so hart,«</said><seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr"> belehrte</seg> mein <seg id="10" type="speaker">Begleiter</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»da klebt die Sohle daran und man kommt vorwärts.« </said>
+                  So gingen wir weiter und <said id="20" mode="reported" content="thought" level="1">kamen rascher vorwärts, als <seg id="20" type="speaker">wir</seg> <seg id="20" type="intExpr">gedacht</seg> hatten. </said>Die Steine und das Gestocke waren verlegt, die Schluchten von Schnee überbrückt. Ost standen <seg id="19" type="speaker">wir</seg> still und<said id="19" mode="reported" content="speech" level="1"> <seg id="19" type="intExpr">riefen</seg> den Namen des Knaben. </said><said id="15" mode="reported" content="speech" level="1" nonfact="yes">Auch an gegenüberstehenden Bergen <seg id="15" type="intExpr">riefen</seg> <seg id="15" type="speaker">Leute</seg> nach dem Vermißten </said>– aber es war keine Antwort und keine Spur. 
+                  Als wir bis zu den Spitaler-Almhütten emporgekommen waren, wurde der Nebel, der uns eingehüllt, grau, so daß wir die Laterne auslöschen konnten.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der heilbringende Säbel. (Fortsetzung aus Nr.24.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig025_1843_8.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Der heilbringende Säbel. (Fortsetzung aus Nr.24.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1">Überhaupt kommt
+                        es nicht auf die Gegenstände an, ob sie uns wohlgefallen, sondern auf die Augen, mit welchen wir sie ansehen. <said id="3" mode="indirect" content="speech" level="2">Manche Augen sehen</said><seg id="3" type="frame" pos="mid">, wie <seg id="3" type="speaker">Hans</seg> <seg id="3" type="intExpr">sagt</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2">Alles
+                        häßlich, auch das Schönste und Lieblichste, das es unter der Sonne gibt, manche Augen dagegen sehen Alles schön, auch das Häßlichste, das zu existiren wagt.</said></said>
+            <said id="2" mode="direct" content="speech" level="1">Da sind ja die Augen Manchem zur Lust und
+                        Manchem zur Pein gegeben</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">sagte</seg> <seg id="2" type="speaker">Marja</seg>;</seg> <said id="2" mode="direct" content="speech" level="1">ist das nicht
+                        ungerecht vom lieben Gott?</said>
+                         
+            <said id="4" mode="direct" content="speech" level="1">Nein</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> <seg id="4 1" type="speaker">Handri</seg> belehrend,</seg> <said id="4" mode="direct" content="speech" level="1">es ist nicht ungerecht,
+                        denn unsere Augen sind nicht in der Art schön oder
+                        häßlich sehend, wie sie blau oder braun sind. Das Letztere können wir nicht ändern, das Erstere aber steht in
+                        unserer Macht.</said>
+            <said id="5" mode="direct" content="speech" level="1"><said id="6" mode="reported" content="thought" level="2" nonfact="yes">Das kann <seg id="6" type="speaker">ich</seg> doch nicht recht <seg id="6" type="intExpr">glauben</seg></said></said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">Lena</seg>,</seg>
+                        <said id="5" mode="direct" content="speech" level="1">denn wenn ich traurig bin, da erscheint mir Alles düster und traurig, wenn ich lustig bin, da sieht Alles
+                        heiter und lustig aus. Aber ob ich lustig und traurig
+                        bin, das hängt nicht von mir ab, sondern von Gott.
+            <said id="7" mode="reported" content="speech" level="2">Das habe <seg id="7" type="speaker">ich</seg> dem alten Hans auch <seg id="7" type="intExpr">gesagt</seg></said>, <said id="8" mode="reported" content="speech" level="2">aber
+                        <seg id="8" type="speaker">der</seg> hat mir die Sache noch weiter <seg id="8" type="intExpr">erklärt</seg>.</said> <seg id="9" type="frame" pos="start"><seg id="9 10" type="speaker">Er</seg> hat mir
+                        <seg id="9" type="intExpr">gesagt</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2">es sei nicht nöthig, daß wir durch jeden Quark
+                        in Betrübniß geriethen.</said> <said id="10" mode="indirect freeIndirect" content="speech" level="2">Wenn wir den rechten Glauben an Gott hätten, <seg id="11" type="frame" pos="start">dann könnten <seg id="11" type="speaker">wir</seg> nicht <seg id="11" type="intExpr">glauben</seg>,</seg>
+                        <said id="11" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">daß, was uns auch begegne, uns zum Nachtheil oder
+                        Schaden begegnen könne</said>, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">wir</seg> müßten im Gegentheil
+                        bei Allem <seg id="12" type="intExpr">annehmen</seg>,</seg> <said id="12" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">daß es ein Samenkorn sei, aus
+                        dem sich zu irgend einer Zeit ein süßes Glück für uns
+                        entwickeln werde.</said> Wenn der Acker von der Pflugschar
+                        aufgerissen werde, <said id="13" mode="reported" content="speech" level="3" nonfact="yes" metaph="yes">so würde <seg id="13" type="speaker">er</seg> auch wol über den Ackersmann <seg id="13" type="intExpr">klagen</seg></said>, wenn er fühlen könnte, wie ein Menschenherz, aber doch sei das nöthig, wenn er mehr als
+                        ein Dornen- oder Distelfeld sein wollte.</said></said>
+            <said id="14" mode="direct" content="speech" level="1">Ich verstehe</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">sagte</seg> <seg id="14" type="speaker">Jan</seg>,</seg> <said id="14" mode="direct" content="speech" level="1"><seg id="15" type="frame" pos="start">der alte <seg id="15" type="speaker">Hans</seg> <seg id="15" type="intExpr">meint</seg>:</seg> <said id="15" mode="indirect" content="speech" level="2">jedes Herz sei ein Acker, Gott sei der Ackersmann und
+                        der Schmerz, der es trifft, sei die Pflugschar, die es
+                        durchwühlt, damit es sich später mit grünen Weizenfeldern bedecken könne.</said> <seg id="23" type="frame" pos="start">Nun da <seg id="23" type="intExpr">wollte</seg> <seg id="23" type="speaker">ich</seg>,</seg> <said id="23" mode="indirect" content="thought" level="2">daß Gott
+                        mich doch lieber zu einer Wiese bestimmte.</said></said>
+            <said id="16" mode="reported" content="speech" level="1"><seg id="16" type="speaker">Hanka</seg> <seg id="16" type="intExpr">wollte</seg> auch lieber eine Wiese sein</said>, <seg id="17" type="frame" pos="start">aber <seg id="17 18" type="speaker">Handri</seg> <seg id="17" type="intExpr">behauptete</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">eine Wiese stehe weit unter einem Acker,
+                        denn sie nähre blos das Vieh, der Acker aber nähre
+                        vernünftige Menschen.</said> <said id="18" mode="indirect freeIndirect" content="speech" level="1">Da nun die Früchte des Herzens für den Himmel bestimmt seien, so müßte jedes
+                        Herz ein Acker sein, denn Gras und Heu könnte im
+                        Himmel, wo nur vernünftige Wesen wären, von keinem Nutzen sein.</said>
+            <said id="19" mode="reported" content="speech" level="1"><seg id="19" type="speaker">Marja</seg> und <seg id="19" type="speaker">Lena</seg> <seg id="19" type="intExpr">traten auf </seg>Handri's Seite.</said> Jan
+                        schwankte lange zwischen seiner und Handri's Ansicht,
+                        bis am Ende <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Marja's</seg> <seg id="20" type="intExpr">Vorstellung</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1">sie möchte einmal
+                        keinen Mann haben, der lieber eine für das Vieh bestimmte Wiese als ein vernünftiger Acker sein wollte</said>,
+                        <said id="24" mode="reported" content="thought" level="1">den <seg id="24" type="speaker">Hartnäckigen</seg> auf andere <seg id="24" type="intExpr">Gedanken</seg> brachte</said> und <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">er</seg>
+                        <seg id="21" type="intExpr">meinte</seg>,</seg> <said id="21" mode="indirect" content="speech" level="1">wenn der liebe Gott die Pflugschar nur nicht
+                        so tief eingraben lassen wollte, so würde er es wol
+                        auch vertragen können, er wollte sich darum nicht weiter
+                        sträuben, ein Acker Gottes zu sein.</said> <said id="22" mode="reported" content="speech" level="1"><seg id="22" type="speaker">Hanka</seg> <seg id="22" type="intExpr">ging</seg> nun
+                        auch zu der allgemeinen Ansicht <seg id="22" type="intExpr">über</seg></said> und wie Martha
+                        mit der Buttermilch kam, war Alles ein Herz und ein
+                        Sinn und freute sich der Buttermilch und der darauf
+                        folgenden Plinzen, als wäre es Nektar und Ambrosia
+                        aus der Himmelsküche herabgebracht.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

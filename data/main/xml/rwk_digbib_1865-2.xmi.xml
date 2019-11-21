@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die beiden Tubus</title>
+             <author>Kurz, Hermann</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Kurz,_Hermann_Die_beiden_Tubus.tg48_1.xml</f>
+         <f name="year">1859</f>
+         <f name="decade">1850</f>
+         <f name="title">Die beiden Tubus</f>
+         <f name="author">Kurz, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Mit dem frühsten Morgen traf das fürstliche Gefolge auf dem Schauplatz ein. Es hatte seinen Herrn die Nacht hindurch nach allen Richtungen gesucht, mancherlei Abenteuer bestanden und erst im Dämmerungsgrauen, <said id="1" mode="reported" content="speech" level="1">durch einen mit leeren Händen heimkehrenden <seg id="1" type="speaker">Nachzügler</seg> <seg id="1" type="intExpr">zurechtgewiesen</seg></said>, die Fährte des edlen Wildes aufgespürt. Der Prinz, froh, aus den Federn oder vielmehr aus der Spreu und dem Seegras zu kommen, eilte zu den Seinigen hinab, die ihn mit Begeisterung umringten, so daß er die Wohnstube, <seg id="15" type="frame" pos="start">in der eine ganze <seg id="15" type="speaker">Christbescherung</seg> ihm <seg id="15" type="intExpr">erzählt</seg> haben würde,</seg> <said id="15" mode="indirect" content="speech" level="1" nonfact="yes">wie hoch man ihn zu ehren bestrebt gewesen sei</said>, gar nicht mehr zu sehen bekam. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Er</seg> <seg id="3" type="intExpr">bedeutete</seg> dem nachstürzenden Pfarrer,</seg> <said id="3" mode="indirect" content="speech" level="1">daß er jetzt doppelte Eile nötig habe, um die versäumte Zeit einzubringen</said>, und da er zugleich in der Weise der Großen, die das Wort sehr geschickt von der Tat abzuschälen wissen, den größten Eifer bezeigte, die Dame des Hauses aufzusuchen, ohne jedoch einen Fuß zu rühren, so blieb dem <seg id="4" type="speaker">Pfarrer</seg> nichts übrig, <said id="4" mode="reported" content="speech" level="1">als seine Frau <seg id="4" type="intExpr">herabzurufen</seg>.</said> 
+                  Der Abschied wurde am Fuße der uns schon bekannten Freitreppe genommen. Der <seg id="5" type="speaker">Prinz</seg> ging zu seinem Wagen und winkte seinen <seg id="5 6" type="speaker">Reisemarschall</seg> heran, der <said id="5" mode="reported" content="speech" level="1">nach kurzer <seg id="5" type="intExpr">Unterredung</seg></said> zu dem Pfarrer kam und ihm einige Goldstücke <said id="6" mode="direct" content="speech" level="1">»für die Dienerschaft«</said> einhändigen wollte. Der Pfarrer verbeugte sich ablehnend, <seg id="7" type="frame" pos="start">indem <seg id="7" type="speaker">er</seg> mit anständiger Freimütigkeit <seg id="7" type="intExpr">erklärte</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">daß er weder Knecht noch Magd habe, und daß die Bedienung in seinem Hause rein patriarchalisch sei.</said> <seg id="16" type="speaker">Exzellenz</seg> zog sich mit Apprehension zurück und <said id="16" mode="reported" content="speech" level="1"><seg id="16" type="intExpr">erstattete</seg> dem Gebieter <seg id="16" type="intExpr">Rapport</seg></said>, <said id="8" mode="reported" content="speech" level="1">worauf der Pfarrer an den fürstlichen Wagen <seg id="8" type="intExpr">gerufen</seg> wurde.</said> <said id="9" mode="reported" content="speech" level="1">Der <seg id="9 17" type="speaker">Prinz</seg> drückte ihm wiederholt seinen Dank in den gnädigsten <seg id="9" type="intExpr">Worten</seg> aus</said> und reichte ihm sodann nach einem verlegenen Zaudern von ein paar Sekunden aus einer Nische des Wagens sein kostbares Reisefernrohr<seg id="17" type="frame" pos="start"> mit der <seg id="17" type="intExpr">Bitte</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">es zum Andenken zu behalten</said>, dar. Eine graziöse Handbewegung, die Pferde zogen an, die anderen Wagen folgten, und der Pfarrer sah, den Tubus in der Hand, jedoch mit bloßem Auge, der Erscheinung nach, die trotz der Grundlosigkeit des Weges bald wie ein Traum entschwunden war. 
+                  Darauf kehrte er zu dem unterbrochenen Opferfeste der Gastfreundschaft zurück. Da lagen sie nun, die Kostbarkeiten alle; das meiste war gekauft und bezahlt, das wenigste konnte zurückgegeben werden. Ein Teil der Eßwaren forderte schleunigst in Angriff genommen zu werden, wenn er nicht verderben sollte. So war denn im Pfarrhause von Y...burg der Luxus eingezogen, freilich für ein paar Tage bloß, <said id="11" mode="reported" content="thought" level="1">und in den paar teuer erkauften Tagen <seg id="11" type="intExpr">gedachte</seg> der <seg id="11" type="speaker">Pfarrer</seg> alter unnennbarer Stunden</said>, und ging der Frau und den Kindern ein Begriff vom Paradies der Reichen auf. 
+                  Wie aber die feinen Genüsse auch auf die Verfeinerung der Seelenvermögen, besonders der Vorstellungskraft, einwirken, <said id="12" mode="reported" content="thought" level="1">so kam den <seg id="12 18" type="speaker">Pfarrer</seg> bei Gänseleberpastete und Bordeaux, bei Rehbraten und Champagner, plötzlich ein <seg id="12" type="intExpr">Gedanke</seg> an, <said id="13" mode="reported" content="speech" level="2" nonfact="yes">der glücklich <seg id="13" type="intExpr">genannt</seg> zu werden verdiente</said></said>, falls er nämlich begründet war. 
+                  Der Erbprinz von *** galt für einen Fürsten von Geist, idealer Richtung und duftig zartem Gemüt. Die beiden letzteren Eigenschaften hatte er sicherlich bewiesen, als er seinem Wirt, anstatt einer Erkenntlichkeit substantiellerer, zugleich aber auch gemeinerer Art, seinen Tubus zum Geschenk gemacht hatte. <said id="18" mode="freeIndirect" content="thought" level="1">Wie aber, wenn man auch die erstere der drei Eigenschaften mit in Rechnung nahm, war dann nicht noch eine weitere Deutung des Geschenks erlaubt, ja geboten?
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
