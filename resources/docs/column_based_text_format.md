@@ -35,7 +35,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 # Structure of the main STWR annotation
 The STWR annotation can have many attributes and can be nested. Because of this, the column **stwr** contains complex values.
 
-* The character `|` (vertical line) is used as separator, if a token has several annotations of different levels (nested STWR). The first annotation can be interpreted as level=1, the second annotation as level=2 etc. (Maximum nesting depth is 5 in the beta release)
+* The character `|` (vertical line) is used as separator, if a token has several annotations of different levels (nested STWR). The first annotation can be interpreted as level=1, the second annotation as level=2 etc. (Maximum nesting depth is 5)
 * The character `.` (dot) is used to separate the attributes of a single STWR annotation. The following order is used: **Typ**, **Medium**, **ID**, Nonfact, Border, Prag, Metaph. The three bolded attributes are obligatory, the other four may be missing, if the corresponding attributes are not relevant.
 * The attribute border is further specified by a value after the character `=` (equals sign) (e.g. border=state)
 * Alternative values are separated by the character `_` (low dash). This can happen for the attributes type (e.g. indirect_freeIndirect) und medium (e.g. speech_thought).
