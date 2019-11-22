@@ -2,15 +2,15 @@
 
 # General remarks
 
-Folder: [data/txt](https://github.com/redewiedergabe/corpus/tree/master/data/txt)
+Folder: [data/txt](../../data/main/txt)
 
-Corpus metadata is available in the file **rw_corpus_metadata** ([tsv format](https://github.com/redewiedergabe/corpus/blob/master/data/txt/rw_corpus_metadata.tsv) or [Excel format](https://github.com/redewiedergabe/corpus/blob/master/data/txt/rw_corpus_metadata.xlsx))
+Corpus metadata is available in the file **rw_corpus_metadata** ([tsv format](../../data/main/txt/rw_corpus_metadata.tsv) or [Excel format](../../data/main/txt/rw_corpus_metadata.xlsx))
 
 The corpus consists of separated UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample (Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de)).
 
 In addition to the annotations added by the Redewiedergabe project, the files also contain morpho-syntactic annotation produced by automatic tools that were not developed by the Redewiedergabe project.
 
-For a more detailed explanation of the annotation structure see [Annotation structure](https://github.com/redewiedergabe/corpus/wiki/Annotation-structure). 
+For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md). 
 
 ## References:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
