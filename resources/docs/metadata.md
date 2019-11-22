@@ -18,10 +18,20 @@ Example: `rwk_digbib_123_2` means: This is the second excerpt drawn from a text 
 | author    | _String_, Undefined                                                                                         | Author of the text, if available                                                                                                                                  |
 | fictional | yes, no                                                                                                   | Is the text sample fictional?                                                                                                                                |
 | text_type | Erzähltext, Kommentar, Anzeige, Reportage, Nachrichten, Biographie, Rezension, Reisebericht/Brief, unsure | Type of the text; if a sample contains several different texts (e.g. Kommentar and Anzeige), the dominant type is used for classification or the value is set to 'unsure' |
-| filename    | String                                                     | Name of the source file this sample was pulled from. **Note**: We do not guarantee that these file names remain stable in the text sources.            |
+| filename    | _String_                                                     | Name of the source file this sample was pulled from. **Note**: We do not guarantee that these file names remain stable in the text sources.            |
 | dialect     | yes, no, yes_DS (only in direct speech)                    | Information whether this sample contains a significant amount of non-standard German                                                              |
 | perspective | first, first_plural ('we'), third                          | Predominant narrative perspective of the sample                                                                                                   |
 | quotes      | dash, german,  chevron, chevron_single, none, other, undef | Quotation marks predominantly used in this sample; may contain more than one value if more than one type is used (e.g. "chevron chevron_single")) |
+
+## Shorthands for the quotation marks
+
+| Label          | Example  |
+|----------------|----------|
+| dash           | - Hello! |
+| german         | „Hello!“ |
+| none           | Hello!   |
+| chevron        | »Hello!« |
+| chevron_single | ›Hello!‹ |
 
 ## Shorthands for periodicals of source mkhz
 Example: `mkhz.badener` means: This sample comes from Badener Zeitung.
