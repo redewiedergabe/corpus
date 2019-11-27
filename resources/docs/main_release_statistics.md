@@ -21,7 +21,7 @@ In total, the corpus contains 839 samples and 489,608 tokens.
 # STWR instances
 The following tables list the number of annotated STWR instances in the corpus. These instances vary greatly in length, between one token (possible for STWR types direct and reported) and several sentences (possible for STWR types direct, freeIndirect and indirect/freeIndirect.)
 
-The graphics show the distribution of the types in fictional vs. non-fictional samples, based on tokens.
+The graphics show the distribution of types and media in fictional vs. non-fictional samples, based on tokens.
 
 ## STWR types
 | Type                    | Number | Percent|
