@@ -1,6 +1,6 @@
 # Main release statistics
 
-The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format)).
+The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
 
 # Samples and tokens
 
@@ -24,7 +24,7 @@ The following tables list the number of annotated STWR instances in the corpus. 
 The graphics show the distribution of types and media in fictional vs. non-fictional samples, based on tokens.
 
 ## STWR types
-| Type                    | Number | Percent|
+| Type                    | Number of instances | Percent of all annotated STWR instances|
 |------------------------|--------|---------|
 | direct                 | 4166   | 33.2%   |
 | indirect               | 2669   | 21.3%   |
@@ -36,7 +36,7 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 ![rw_Types](/resources/docs/rw_type.png)
 
 ## STWR medium
-| Medium  | Number | Percent |
+| Medium  | Number of instances | Percent of all annotated STWR instances |
 |---------|--------|---------|
 | speech  | 8077   | 64.4%   |
 | thought | 2917   | 23.3%   |
