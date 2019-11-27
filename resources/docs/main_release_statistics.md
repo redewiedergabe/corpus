@@ -24,18 +24,18 @@ The following tables list the number of annotated STWR instances in the corpus. 
 ## STWR types
 | Type                    | Number | Percent|
 |------------------------|--------|---------|
-| direct                 | 4130   | 34.1%   |
-| indirect               | 2565   | 21.2%   |
+| direct                 | 4166   | 33.2%   |
+| indirect               | 2669   | 21.3%   |
 | free indirect          |  136   | 1.1%    |
-| reported               | 5171   | 42.7%   |
-| indirect/free indirect |  121   | 1.0%    |
-| total                 | 12,123  |         |
+| reported               | 5431   | 43.3%   |
+| indirect/free indirect |  131   | 1.0%    |
+| total                 | 12,533  |         |
 
 ## STWR medium
 | Medium  | Number | Percent |
 |---------|--------|---------|
-| speech  | 6003   | 63.7%   |
-| thought | 2241   | 23.8%   |
-| writing | 873    | 9.3%    |
-| ambig   | 302    | 3.2%    |
-| total  | 9419   |         |
+| speech  | 8077   | 64.4%   |
+| thought | 2917   | 23.3%   |
+| writing | 1129   | 9.0%    |
+| ambig   | 410    | 3.3%    |
+| total  | 12,533   |         |
