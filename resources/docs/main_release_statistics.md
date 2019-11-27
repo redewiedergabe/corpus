@@ -1,4 +1,4 @@
-# Beta release statistics
+# Main release statistics - WORK IN PROGRESS
 
 The following statistics are for the beta release version of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format)).
 
