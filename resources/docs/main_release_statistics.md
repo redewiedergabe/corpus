@@ -1,10 +1,10 @@
 # Main release statistics - WORK IN PROGRESS
 
-The following statistics are for the beta release version of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format)).
+The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format)).
 
 # Samples and tokens
 
-In total, the corpus contains 619 samples and 360,974 tokens.
+In total, the corpus contains 839 samples and 489,608 tokens.
 
 | Decade | fictional (samples) | fictional (tokens) | non-fictional (samples) | non-fictional (tokens) | all samples | all tokens |
 |--------|---------------------|--------------------|---------------------------|--------------------------|----------------|---------------|
