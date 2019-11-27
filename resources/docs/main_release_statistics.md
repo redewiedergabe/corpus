@@ -33,7 +33,7 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 | indirect/free indirect |  131   | 1.0%    |
 | total                 | 12,533  |         |
 
-<img src="resources/docs/rw_type.png" width="100" height="100"/>
+<img src="resources/docs/rw_type.png" width="200" height="200"/>
 
 ## STWR medium
 | Medium  | Number | Percent |
@@ -44,4 +44,4 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 | ambig   | 410    | 3.3%    |
 | total  | 12,533   |         |
 
-<img src="resources/docs/rw_medium.png" width="100" height="100"/>
+<img src="resources/docs/rw_medium.png" width="200" height="200"/>
