@@ -1,20 +1,20 @@
 # XML
 
-Folder: [data/xml](https://github.com/redewiedergabe/corpus/tree/master/data/xml)
+Folder: [data/xml](../../data/main/xml)
 
 This version of the corpus consists of TEI compliant XML files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
 
-For a more detailed explanation of the annotation structure see [Annotation structure](https://github.com/redewiedergabe/corpus/wiki/Annotation-structure).
+For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md).
 
 # Structure of a sample file
 * TEI header with general information
-* `<fs>` tag with metadata in the format defined by the Redewiedergabe project (see [Metadata](https://github.com/redewiedergabe/corpus/wiki/Metadata))
+* `<fs>` tag with metadata in the format defined by the Redewiedergabe project (see [Metadata](metadata.md))
 * The sample text contains the following XML tags: `<said>` (STWR annotation), `<seg>` (frame/speaker/intExpr annotation), `<note>` (footnote text), `<p>` (paragraph; always covers the full sample text)
 
 # Project-specific TEI extensions
 We created a RELAX-NG syntax schema that adapts the TEI Module for Linguistic corpora to the annotation schema of the project Redewiedergabe. The following paragraph lists the extensions we defined.
 
-Schema and Documentation: [data/xml/resources](https://github.com/redewiedergabe/corpus/tree/master/data/xml/resources)
+Schema and Documentation: [data/xml/resources](../../data/main/xml/resources)
 
 ## Extensions of the TEI element `<said>`
 

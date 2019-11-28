@@ -55,5 +55,5 @@ Generally, each frame annotation is linked to one IntExpr and one Speaker annota
 * There may be frame annotations that have neither Speaker nor IntExpr (if those could not be identified).
 
 # Additional structural remarks
-* STWR annotations are often nested. In the beta release, the maximum nesting depth is level=5 (one occurance).
-* In very rare cases, Frame annotations can also be nested (one occurance in the beta release).
+* STWR annotations are often nested. The maximum nesting depth is level=5, which is very rare (one occurance).
+* In very rare cases, Frame annotations can also be nested (two occurances).
