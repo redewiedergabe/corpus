@@ -4,7 +4,7 @@ The following statistics are for the main release of the "Redewiedergabe" corpus
 
 # Samples and tokens
 
-In total, the corpus contains 839 samples and 489,608 tokens.
+In total, the corpus contains 838 samples and 489,459 tokens.
 
 | Decade | fictional (samples) | fictional (tokens) | non-fictional (samples) | non-fictional (tokens) | all samples | all tokens |
 |--------|---------------------|--------------------|---------------------------|--------------------------|----------------|---------------|
@@ -40,6 +40,19 @@ The following tables list the number of annotated STWR instances in the corpus. 
 | ambig   | 410    | 3.3%    |
 | total  | 12,533   |         |
 
+## Average length of instances, in relation to STWR type and fictionality
+
+|                    | number of instances | average length of instances | number of instances | average length of instances |
+|--------------------|---------------------|-----------------------------|---------------------|-----------------------------|
+|                    | fictional           | fictional                   | non-fictional       | non-fictional               |
+| direct             | 3527                | 22.2                        | 639                 | 39.5                        |
+| indirect           | 1424                | 12.4                        | 1245                | 18.4                        |
+| free ind           | 132                 | 26.4                        | 4                   | 14.0                        |
+| indirect/ free ind | 65                  | 32.8                        | 66                  | 31.7                        |
+| reported           | 2778                | 8.0                         | 2653                | 11.2                        |
+
+The average length varies between ST&WR types and between fictional vs. non-fictional texts. While _free indirect_ and _indirect/free indirect_ are too infrequent to draw robust conclusions, it is interesting to note that for the three remaining types the instances in non-fictional texts are longer on average. 
+
 # STWR token percentages
 
 The graphics show the distribution of types and media in fictional vs. non-fictional samples, based on tokens.
@@ -48,8 +61,11 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 
 ![rw_Types](/resources/docs/img/rw_type.png)
 
+Direct and free indirect ST&WR are clearly more common in fictional texts. Free indirect even occurs almost exclusively there, but is very infrequent in general, due to the historical nature of our corpus. Indirect and reported ST&WR on the other hand are more frequent in non-fictional texts, though the difference is not as pronounced.
+
 ## STWR medium
 
 ![rw_Media](/resources/docs/img/rw_medium.png)
 
 The graphic only shows the most frequent ambigous category "speech/writing" (ambigous between speech and writing). The other ambigous combinations are much less frequent.
+Speech representation is dominant in fictional texts and writing in non-fictional ones. The latter is due to book reviews and to written communication often being a topic in news stories. The high percentage of speech/writing also indicates that the medium tends to be underspecified and probably considered less important than the represented content in non-fiction.  
