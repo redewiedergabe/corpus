@@ -15,8 +15,8 @@ In total, the corpus contains 839 samples and 489,608 tokens.
 | 1880   | 49                  | 30,251             | 55                        | 30,678                   | 104             | 60,929        |
 | 1890   | 49                  | 30,963             | 55                        | 30,273                   | 104             | 61,236        |
 | 1900   | 50                  | 30,567             | 54                        | 30,272                   | 104             | 60,839        |
-| 1910   | 49                  | 30,430             | 60                        | 31,047                   | 109             | 61,477        |
-| total | 396                 | 244,691            | 443                       | 244,917                  | 839            | 489,608       |
+| 1910   | 49                  | 30,430             | 59                        | 30,898                   | 108             | 61,477        |
+| total | 396                 | 244,691            | 442                       | 244,768                  | 838            | 489,459       |
 
 # STWR instances
 The following tables list the number of annotated STWR instances in the corpus. These instances vary greatly in length, between one token (possible for STWR types direct and reported) and several sentences (possible for STWR types direct, freeIndirect and indirect/freeIndirect.)
