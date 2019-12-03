@@ -70,3 +70,9 @@ Direct and free indirect ST&WR are clearly more common in fictional texts. Free 
 The graphic only shows the most frequent ambigous category "speech/writing" (ambigous between speech and writing). The other ambigous combinations are much less frequent.
 
 Speech representation is dominant in fictional texts and writing in non-fictional ones. The latter is due to book reviews and to written communication often being a topic in news stories. The high percentage of speech/writing also indicates that the medium tends to be underspecified and probably considered less important than the represented content in non-fiction.  
+
+# Text types
+
+![text types](/resources/docs/img/text_type.png)
+
+The graphic shows the distribution of the text types within the samples drawn from MKHZ and ‘Die Grenzboten’. Note the high number of narratives found in these sources. 13.2% of our fictional samples originate from newspapers and magazines where fiction was part of the feuilleton.
