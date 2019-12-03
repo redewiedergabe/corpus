@@ -21,8 +21,6 @@ In total, the corpus contains 839 samples and 489,608 tokens.
 # STWR instances
 The following tables list the number of annotated STWR instances in the corpus. These instances vary greatly in length, between one token (possible for STWR types direct and reported) and several sentences (possible for STWR types direct, freeIndirect and indirect/freeIndirect.)
 
-The graphics show the distribution of types and media in fictional vs. non-fictional samples, based on tokens.
-
 ## STWR types
 | Type                    | Number of instances | Percent of all annotated STWR instances|
 |------------------------|--------|---------|
@@ -33,8 +31,6 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 | indirect/free indirect |  131   | 1.0%    |
 | total                 | 12,533  |         |
 
-![rw_Types](/resources/docs/rw_type.png)
-
 ## STWR medium
 | Medium  | Number of instances | Percent of all annotated STWR instances |
 |---------|--------|---------|
@@ -44,4 +40,16 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 | ambig   | 410    | 3.3%    |
 | total  | 12,533   |         |
 
-![rw_Media](/resources/docs/rw_medium.png)
+# STWR token percentages
+
+The graphics show the distribution of types and media in fictional vs. non-fictional samples, based on tokens.
+
+## STWR types
+
+![rw_Types](/resources/docs/img/rw_type.png)
+
+## STWR medium
+
+![rw_Media](/resources/docs/img/rw_medium.png)
+
+The graphic only shows the most frequent ambigous category "speech/writing" (ambigous between speech and writing). The other ambigous combinations are much less frequent.
