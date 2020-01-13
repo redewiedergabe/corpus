@@ -1,6 +1,7 @@
 # Additional materials
 
-The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
+The following statistics are for the additional materials of the "Redewiedergabe" corpus which will be added soon.
+The additional materials contain: (i) single annotated samples, (ii) fully annotated narratives, (iii) fully annotated non-fictional articles, (iv) additional corpus indirect, (v) additional corpus free indirect
 
 # Samples and tokens
 
