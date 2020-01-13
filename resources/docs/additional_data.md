@@ -1,7 +1,17 @@
-# Additional materials
+# Additional corpora
 
-The following statistics are for the additional materials of the "Redewiedergabe" corpus which will be added soon.
+The following statistics are for the additional corpora of the "Redewiedergabe" corpus which will be added soon.
 The additional materials contain: (i) single annotated samples, (ii) fully annotated narratives, (iii) fully annotated non-fictional articles, (iv) additional corpus indirect, (v) additional corpus free indirect
+
+# Single annotated samples
+
+This corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator.
+
+| decade | samples | tokens |
+|--------|---------|--------|
+| 1840   | 46      | 24,297 |
+
+
 
 # Samples and tokens
 
