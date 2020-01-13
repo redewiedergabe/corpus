@@ -37,5 +37,15 @@ This corpus contains fully annotated texts, annotated by only one annotator.
 |-------|-------|--------|
 | total | ??    | ?????? |
 
+# 3 indirect-corpus
+
+This corpus...
+
+
+
+# 4 free indirect-corpus
+
+This corpus...
+
 
 
