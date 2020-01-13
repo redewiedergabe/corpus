@@ -7,7 +7,7 @@ The additional materials contain: (1) single annotated samples, (2a) fully annot
 
 # 1 single annotated samples
 
-This corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator.
+This corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
 
 | decade | samples | tokens |
 |--------|---------|--------|
@@ -23,7 +23,7 @@ This corpus contains the same type of samples as the main corpus. In contrast, t
 
 # 2 fully annotated texts
 
-This corpus contains fully annotated texts, annotated by only one annotator.
+This corpus contains fully annotated texts, annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
 
 ## 2a fully annotated narratives
 
@@ -39,7 +39,7 @@ This corpus contains fully annotated texts, annotated by only one annotator.
 
 # 3 indirect-corpus
 
-This corpus was created to generate training material specifically for indirect representation
+This corpus was created to generate training material specifically for indirect representation. NUR IND. OHNE MEDIUM UND FRAME
 
 |       | files | tokens |
 |-------|-------|--------|
