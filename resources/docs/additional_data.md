@@ -39,9 +39,11 @@ This corpus contains fully annotated texts, annotated by only one annotator.
 
 # 3 indirect-corpus
 
-This corpus...
+This corpus was created to generate training material specifically for indirect representation
 
-
+|       | files | tokens |
+|-------|-------|--------|
+| total | 17    | 51,864 |
 
 # 4 free indirect-corpus
 
