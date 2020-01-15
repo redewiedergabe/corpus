@@ -15,3 +15,4 @@ This sub-corpus contains the same type of samples as the main corpus. In contras
 | 1910   | 22      | 13,339 |
 | total  | 256     | 149,133|
 
+Click the following links to get familiar with the [annotation structur](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md), [metadata](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/metadata.md) and the different formats available ([column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md) and [xml-format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md))
