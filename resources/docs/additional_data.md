@@ -23,7 +23,7 @@ This corpus contains the same type of samples as the main corpus. In contrast, t
 | 1910   | 22      | 13,339 |
 | total  | 256     | 149,133|
 
-Further description of the single annotated samples can be found HERE.
+Further description of the single annotated samples can be found [here](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/single_annotated_samples.md).
 
 # 2 fully annotated texts
 
