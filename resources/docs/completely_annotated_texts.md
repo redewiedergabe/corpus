@@ -8,7 +8,9 @@ In total, this sub-corpus consists of ?? files with ???? tokens.
 
 Click the following links to get familiar with the [annotation structur](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md), [metadata](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/metadata.md) and the different formats available ([column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md) and [xml-format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md)).
 
-## 2a completely annotated narratives
+## completely annotated narratives
+
+These files consist of only fictional texts.
 
 | filename | title | year | tokens |
 |----------|-------|------|--------|
@@ -32,6 +34,8 @@ Click the following links to get familiar with the [annotation structur](https:/
 | total | ??    | ?????? |
 
 ## 2b completely annotated non-fictional articles
+
+These files consist of only non-fictional texts.
 
 | filename | title | year | tokens |
 |----------|-------|------|--------|
