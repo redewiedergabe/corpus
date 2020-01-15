@@ -39,16 +39,16 @@ These files consist of only non-fictional texts.
 
 | filename | title | periodical | year | tokens |
 |----------|-------|------------|------|--------|
-|  |  |  | 1847 |  |
-|  |  |  | 1848 |  |
-|  |  |  | 1852 |  |
-|  |  |  | 1867 |  |
-|  |  |  | 1873 |  |
-|  |  |  | 1880 |  |
-|  |  |  | 1895 |  |
-|  |  |  | 1905 |  |
-|  |  |  | 1907 |  |
-|  |  |  | 1915 |  |
-| total | ??    |  |  | ?????? |
+|  |  | Allgemeine Auswanderungs-Zeitung | 1847 |  |
+|  |  | Allgemeine Auswanderungs-Zeitung | 1848 |  |
+|  |  | Deutsche Auswanderer-Zeitung | 1852 |  |
+|  |  | Die Grenzboten | 1867 |  |
+|  |  | Social-Politische Blätter | 1873 |  |
+|  |  | Die Grenzboten | 1880 |  |
+|  |  | Mährisches Tageblatt | 1895 |  |
+|  |  | Europa. Wochenschrift für Kultur und Politik | 1905 |  |
+|  |  | Die Grenzboten | 1907 |  |
+|  |  | Die Grenzboten | 1915 |  |
+| total | ?? files | - | - | ?????? |
 
 
