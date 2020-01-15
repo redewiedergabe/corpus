@@ -3,7 +3,7 @@
 - work in progress!!!
 
 The following statistics are for the additional corpora of the "Redewiedergabe" corpus which will be added soon.
-The additional materials contain: (1) single annotated samples, (2a) fully annotated narratives, (2b) fully annotated non-fictional articles, (3) additional corpus indirect, (4) additional corpus free indirect
+The additional materials contain: (1) single annotated samples, (2a) completely annotated narratives, (2b) completely annotated non-fictional articles, (3) additional corpus indirect, (4) additional corpus free indirect
 
 FÜR JEDES KORPUS EIGENE UNTERSEITE
 
@@ -17,23 +17,23 @@ This corpus contains the same type of samples as the main corpus. In contrast, t
 
 Further description of the single annotated samples can be found [here](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/single_annotated_samples.md).
 
-# 2 fully annotated texts
+# 2 completely annotated texts
 
-This corpus contains fully annotated texts, annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
+This corpus contains completely annotated texts, annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
 
-## 2a fully annotated narratives
-
-|       | files | tokens |
-|-------|-------|--------|
-| total | ??    | ?????? |
-
-## 2b fully annotated non-fictional articles
+## 2a completely annotated narratives
 
 |       | files | tokens |
 |-------|-------|--------|
 | total | ??    | ?????? |
 
-Further description of the fully annotated texts can be found HERE.
+## 2b completely annotated non-fictional articles
+
+|       | files | tokens |
+|-------|-------|--------|
+| total | ??    | ?????? |
+
+Further description of the completely annotated texts can be found HERE.
 
 # 3 indirect-corpus
 
