@@ -23,6 +23,8 @@ This corpus contains the same type of samples as the main corpus. In contrast, t
 | 1910   | 22      | 13,339 |
 | total  | 256     | 149,133|
 
+Further description of the single annotated samples can be found HERE.
+
 # 2 fully annotated texts
 
 This corpus contains fully annotated texts, annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
@@ -39,6 +41,8 @@ This corpus contains fully annotated texts, annotated by only one annotator. Ann
 |-------|-------|--------|
 | total | ??    | ?????? |
 
+Further description of the fully annotated texts can be found HERE.
+
 # 3 indirect-corpus
 
 This corpus was created to generate training material specifically for indirect representation. NUR IND. OHNE MEDIUM UND FRAME
@@ -47,9 +51,11 @@ This corpus was created to generate training material specifically for indirect 
 |-------|-------|--------|
 | total | 17    | 51,864 |
 
+Further description of the indirect-corpus can be found HERE.
+
 # 4 free indirect-corpus
 
 This corpus...
 
-
+td
 
