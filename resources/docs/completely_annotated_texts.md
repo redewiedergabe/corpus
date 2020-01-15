@@ -39,16 +39,16 @@ These files consist of only non-fictional texts.
 
 | filename | title | periodical | year | tokens |
 |----------|-------|------------|------|--------|
-|  |  | Allgemeine Auswanderungs-Zeitung | 1847 | 4,514 |
-|  |  | Allgemeine Auswanderungs-Zeitung | 1848 | 3,368 |
-|  |  | Deutsche Auswanderer-Zeitung | 1852 | 3,175 |
-|  |  | Die Grenzboten | 1867 | 5,833 |
-|  |  | Social-Politische Blätter | 1873 | 5,118 |
-|  |  | Die Grenzboten | 1880 | 6,609 |
-|  |  | Mährisches Tageblatt | 1895 | 6,257 |
-|  |  | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
-|  |  | Die Grenzboten | 1907 | 4,483 |
-|  |  | Die Grenzboten | 1915 | 5,091 |
+|  | - | Allgemeine Auswanderungs-Zeitung | 1847 | 4,514 |
+|  | - | Allgemeine Auswanderungs-Zeitung | 1848 | 3,368 |
+|  | Die deutsche Kolonie Santa Cruz in der Provinz Rio Grande do Sul in Brasilien | Deutsche Auswanderer-Zeitung | 1852 | 3,175 |
+|  | Die Petrussagen | Die Grenzboten | 1867 | 5,833 |
+|  | - | Social-Politische Blätter | 1873 | 5,118 |
+|  | Die Tragik in Werken der hellenischen Plastik | Die Grenzboten | 1880 | 6,609 |
+|  | Die 15. Hauptversammlung des Deutschen Schulvereins | Mährisches Tageblatt | 1895 | 6,257 |
+|  | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
+|  | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
+|  | Die Stellung Belgiens zum alten Reiche | Die Grenzboten | 1915 | 5,091 |
 | total | ?? files | - | - | ?????? |
 
 
