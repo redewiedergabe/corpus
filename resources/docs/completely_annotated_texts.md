@@ -37,19 +37,18 @@ These files consist of only fictional texts.
 
 These files consist of only non-fictional texts.
 
-| filename | title | year | tokens |
-|----------|-------|------|--------|
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-|  |  |  |  |
-| total | ??    | ?????? |
+| filename | title | periodical | year | tokens |
+|----------|-------|------------|------|--------|
+|  |  |  | 1847 |  |
+|  |  |  | 1848 |  |
+|  |  |  | 1852 |  |
+|  |  |  | 1867 |  |
+|  |  |  | 1873 |  |
+|  |  |  | 1880 |  |
+|  |  |  | 1895 |  |
+|  |  |  | 1905 |  |
+|  |  |  | 1907 |  |
+|  |  |  | 1915 |  |
+| total | ??    |  |  | ?????? |
 
 
