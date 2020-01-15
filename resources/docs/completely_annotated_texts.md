@@ -10,14 +10,42 @@ Click the following links to get familiar with the [annotation structur](https:/
 
 ## 2a completely annotated narratives
 
-|       | files | tokens |
-|-------|-------|--------|
+| filename | title | year | tokens |
+|----------|-------|------|--------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | total | ??    | ?????? |
 
 ## 2b completely annotated non-fictional articles
 
-|       | files | tokens |
-|-------|-------|--------|
+| filename | title | year | tokens |
+|----------|-------|------|--------|
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
+|  |  |  |  |
 | total | ??    | ?????? |
 
 
