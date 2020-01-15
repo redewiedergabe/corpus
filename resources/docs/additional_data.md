@@ -33,7 +33,7 @@ This corpus contains completely annotated texts, annotated by only one annotator
 |-------|-------|--------|
 | total | ??    | ?????? |
 
-Further description of the completely annotated texts can be found HERE.
+Further description of the completely annotated texts can be found [here](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/completely_annotated_texts.md).
 
 # 3 indirect-corpus
 
