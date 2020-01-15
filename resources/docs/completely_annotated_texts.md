@@ -39,16 +39,16 @@ These files consist of only non-fictional texts.
 
 | filename | title | periodical | year | tokens |
 |----------|-------|------------|------|--------|
-|  |  | Allgemeine Auswanderungs-Zeitung | 1847 |  |
-|  |  | Allgemeine Auswanderungs-Zeitung | 1848 |  |
-|  |  | Deutsche Auswanderer-Zeitung | 1852 |  |
-|  |  | Die Grenzboten | 1867 |  |
-|  |  | Social-Politische Blätter | 1873 |  |
-|  |  | Die Grenzboten | 1880 |  |
-|  |  | Mährisches Tageblatt | 1895 |  |
-|  |  | Europa. Wochenschrift für Kultur und Politik | 1905 |  |
-|  |  | Die Grenzboten | 1907 |  |
-|  |  | Die Grenzboten | 1915 |  |
+|  |  | Allgemeine Auswanderungs-Zeitung | 1847 | 4,514 |
+|  |  | Allgemeine Auswanderungs-Zeitung | 1848 | 3,368 |
+|  |  | Deutsche Auswanderer-Zeitung | 1852 | 3,175 |
+|  |  | Die Grenzboten | 1867 | 5,833 |
+|  |  | Social-Politische Blätter | 1873 | 5,118 |
+|  |  | Die Grenzboten | 1880 | 6,609 |
+|  |  | Mährisches Tageblatt | 1895 | 6,257 |
+|  |  | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
+|  |  | Die Grenzboten | 1907 | 4,483 |
+|  |  | Die Grenzboten | 1915 | 5,091 |
 | total | ?? files | - | - | ?????? |
 
 
