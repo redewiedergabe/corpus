@@ -1,6 +1,7 @@
-# 1 single annotated samples
+# single annotated samples
 
-This corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
+The following statistics are for the single annotated samples as additional data of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
+This sub-corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
 
 | decade | samples | tokens |
 |--------|---------|--------|
