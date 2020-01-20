@@ -45,7 +45,7 @@ Example:
 `direct.speech_writing.3|reported.thought.6.nonfact.border=state`
 
 This token has two overlapping annotations:
-* At level 1: direct STWR with ID=3, medium is ambigous between speech and writing
+* At level 1: direct STWR with ID=3, medium is ambiguous between speech and writing
 * At level 2: reported thought with ID=6 and attributes "nonfact" and "border" with the value "state".
 
 # Structure of the annotations frame, speaker and intexpr
