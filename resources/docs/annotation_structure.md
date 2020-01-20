@@ -45,7 +45,7 @@ In rare cases, frame annotations can appear without a linked STWR, if they are p
 
 Speaker annotations can have more than one ID, if they are associated with several different STWR annotations. 
 
-Frame annotations can only be linked to STWR annotations with the types direct or indirect. IntExpr annotations can additionally be linked to STWR annotations with the type reported. Speaker annotations can be linked to STWR annotations of any type.
+Frame annotations can only be linked to STWR annotations with the types *direct* or *indirect*. IntExpr annotations can additionally be linked to STWR annotations with the type *reported*. Speaker annotations can be linked to STWR annotations of any type.
 
 IntExpr annotations only appear within frame annotations or within STWR annotations of the type reported.
 
@@ -55,5 +55,5 @@ Generally, each frame annotation is linked to one IntExpr and one Speaker annota
 * There may be frame annotations that have neither Speaker nor IntExpr (if those could not be identified).
 
 # Additional structural remarks
-* STWR annotations are often nested. The maximum nesting depth is level=5, which is very rare (one occurance).
-* In very rare cases, Frame annotations can also be nested (two occurances).
+* STWR annotations are often nested. The maximum nesting depth is level=5, which is very rare.
+* In rare cases, Frame annotations can also be nested.
