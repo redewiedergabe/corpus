@@ -4,7 +4,7 @@ This is a short overview over the annotations used in the "Redewiedergabe" corpu
 
 To really understand the meaning and usage of these categories, we strongly recommend consulting the [detailed annotation guidelines](http://redewiedergabe.de/richtlinien/richtlinien.html) on our project homepage (in German).
 
-Spelling and formatting of the attribute names differ slightly in the output formats [column-based text format](https://github.com/redewiedergabe/corpus/wiki/Column-based-text-format) and XML format (cf. documentation of these formats), but this page explains the general structure and caveats.
+Spelling and formatting of the attribute names differ slightly in the output formats [column-based text format](column_based_text_format.md) and [XML format](xml_format.md) (cf. documentation of these formats), but this page explains the general structure and caveats.
 
 # Note (Footnote text)
 The samples of the "Redewiedergabe" corpus sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original full texts in order to ensure that the footnote text can be separated from the main text if necessary.
