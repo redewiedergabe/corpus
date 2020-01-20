@@ -51,6 +51,6 @@ These files consist of only non-fictional texts.
 |  | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
 |  | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
 |  | Die Stellung Belgiens zum alten Reiche | Die Grenzboten | 1915 | 5,091 |
-| total | ?? files | - | - | ?????? |
+| total | 12 files | - | - | 61,263 |
 
 
