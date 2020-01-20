@@ -15,7 +15,7 @@ This corpus contains the same type of samples as the main corpus. In contrast, t
 |--------|---------|--------|
 | total  | 256     | 149,133|
 
-Further description of the single annotated samples can be found [here](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/single_annotated_samples.md).
+Further description of the single annotated samples can be found [here](single_annotated_samples.md).
 
 # 2 completely annotated texts
 
@@ -33,7 +33,7 @@ This corpus contains completely annotated texts, annotated by only one annotator
 |-------|-------|--------|
 | total | ??    | ?????? |
 
-Further description of the completely annotated texts can be found [here](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/completely_annotated_texts.md).
+Further description of the completely annotated texts can be found [here](completely_annotated_texts.md).
 
 # 3 indirect-corpus
 
