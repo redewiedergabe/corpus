@@ -42,11 +42,11 @@ These files consist of only non-fictional texts.
 |  | - | Allgemeine Auswanderungs-Zeitung | 1847 | 4,514 |
 |  | - | Allgemeine Auswanderungs-Zeitung | 1848 | 3,368 |
 |  | Die deutsche Kolonie Santa Cruz in der Provinz Rio Grande do Sul in Brasilien | Deutsche Auswanderer-Zeitung | 1852 | 3,175 |
-|  | Regierung und Volk in Neapel | 1856 | 7,041 |
+|  | Regierung und Volk in Neapel | Die Grenzboten | 1856 | 7,041 |
 |  | Die Petrussagen | Die Grenzboten | 1867 | 5,833 |
 |  | - | Social-Politische Blätter | 1873 | 5,118 |
 |  | Die Tragik in Werken der hellenischen Plastik | Die Grenzboten | 1880 | 6,609 |
-|  | Die Versammlung der deutschen Vertrauensmänner in Brünn | 1887 | 6,418 |
+|  | Die Versammlung der deutschen Vertrauensmänner in Brünn | Mährisches Tageblatt | 1887 | 6,418 |
 |  | Die 15. Hauptversammlung des Deutschen Schulvereins | Mährisches Tageblatt | 1895 | 6,257 |
 |  | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
 |  | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
