@@ -6,7 +6,7 @@ This sub-corpus contains completely annotated texts, annotated by only one annot
 
 In total, this sub-corpus consists of ?? files with ???? tokens.
 
-Click the following links to get familiar with the [annotation structur](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/annotation_structure.md), [metadata](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/metadata.md) and the different formats available ([column-based text format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/column_based_text_format.md) and [xml-format](https://github.com/redewiedergabe/corpus/blob/master/resources/docs/xml_format.md)).
+Click the following links to get familiar with the [annotation structur](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md) and [xml-format](xml_format.md)).
 
 ## completely annotated narratives
 
