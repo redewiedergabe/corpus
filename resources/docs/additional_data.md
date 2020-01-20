@@ -43,7 +43,7 @@ This corpus was created to generate training material specifically for indirect 
 |-------|-------|--------|
 | total | 17    | 51,864 |
 
-Further description of the indirect-corpus can be found [here](indirect_corpus.md).
+Further description of the indirect-corpus can be found [here](indirect-corpus.md).
 
 # 4 free indirect-corpus
 
