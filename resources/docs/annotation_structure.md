@@ -19,7 +19,7 @@ These attributes are obligatory for each STWR annotation.
 |----------|------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | type     | direct, freeIndirect, indirect, reported | indirect_freeIndirect                                                   | STWR type                                                                                                                                                                     |
 | medium   | speech, thought, writing                 | speech_thought, speech_writing, thought_writing, speech_thought_writing | STWR medium                                                                                                                                                                        |
-| id       | _Number_                                 |                                                                         | ID; refers to the IDs of frame, speaker and intExpr and can also link interrupted STWR annotations (e.g. a direct STWR that is separated by a frame).  |
+| id       | _Number_                                 |                                                                         | ID; refers to the IDs of frame, speaker and intExpr and can also link discontinuous STWR annotations (e.g. a direct STWR that is separated by a frame).|
 | level    | _Number_ (starts with 1)                 |                                                                         | nesting depth of this STWR annotation; value=1 means highest level                                                                                                            |
 
 _Note:_ The combined values are separated by `_` in the column-based format, but by whitespace in the XML format.
@@ -38,7 +38,7 @@ These attributes are optional.
 
 | Attribute | Values          | Description                                                                                                                    |
 |-----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------|
-| id        | _Number_        | ID; links the annotations to each other as well as to one or more STWR annotations                    |
+| id        | _Number_        | ID; links the annotations to each other as well as to one or more STWR annotations; may have the value 0 for frame/speaker/intExpr annotations without corresponding STWR annotations (this may occur at the end of a sample)                    |
 | pos       | start, mid, end | only for frame: position of the frame relative to its STWR; start=before the STWR, mid=interrupts the STWR, end=after the STWR |
 
 In rare cases, frame annotations can appear without a linked STWR, if they are positioned at the end of a sample. In these cases, the ID has value zero.
