@@ -20,6 +20,7 @@ Possible use cases in different disciplines:
 - studies depending on perspective, fictionaliy, time (see [metadata](metadata.md) for further use cases)
 - studies on genre, single authors etc.
 
+-
 
 There are differnent processing options using the corpora:
 - extract single annotations
