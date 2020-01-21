@@ -5,8 +5,6 @@
 The following statistics are for the additional corpora of the "Redewiedergabe" corpus which will be added soon.
 The additional materials contain: (1) single annotated samples, (2a) completely annotated narratives, (2b) completely annotated non-fictional articles, (3) additional corpus indirect, (4) additional corpus free indirect
 
-FÜR JEDES KORPUS EIGENE UNTERSEITE
-
 # 1 single annotated samples
 
 This corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
