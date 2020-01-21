@@ -27,7 +27,7 @@ This corpus contains completely annotated texts, annotated by only one annotator
 
 |       | files | tokens |
 |-------|-------|--------|
-| total | ??    | ?????? |
+| total | 12 | 61,263 |
 
 Further description of the completely annotated texts can be found [here](completely_annotated_texts.md).
 
