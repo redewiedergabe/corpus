@@ -2,3 +2,4 @@ For the sake of visualization, two examples of the annotation system used in the
 
 ![example1](/resources/docs/img/example_easy.pdf)
 
+![example2](/resources/docs/img/rw_type.png)
