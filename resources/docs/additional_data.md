@@ -1,7 +1,5 @@
 # Additional corpora
 
-- work in progress!!!
-
 The following statistics are for the additional corpora of the "Redewiedergabe" corpus which will be added soon.
 The additional materials contain: (1) single annotated samples, (2a) completely annotated narratives, (2b) completely annotated non-fictional articles, (3) additional corpus indirect, (4) additional corpus free indirect
 
@@ -45,7 +43,7 @@ Further description of the indirect-corpus can be found [here](indirect-corpus.m
 
 # 4 free indirect-corpus
 
-This corpus...
+This corpus was created to generate training material especially for free indirect representation. No other types of representation are annotated in this corpus.
 
-td
+corpus is still work in progress!
 
