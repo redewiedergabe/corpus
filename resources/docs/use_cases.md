@@ -3,14 +3,26 @@ The Redewiedergabe-corpus and the additional corpora can be used to answer vario
 Possible use cases in different disciplines:
 
 NLP:
-- 
+- test and training data for the detection of differenz forms of representation, media, frame, introductional expressions, speaker etc.
+- test and training data depending on perspective, on fictionality, on time (see [metadata](metadata.md) for further use cases)
+- use of the automatic recognizer to annotate other data, for genre studies, comparison of authors etc.
 
-Fachgebiete:
-- NLP: Test und Trainingsmaterial für STWR-Formen, Medien, frame, intexpr, speaker, usw.; Training abhängig von Perspektive, fict vs. non-fict; Zeit; Erkenner auf andere Daten übertragen, automatisch annotieren lassen, damit Genrestudien, Autorenvergleiche u.v.m.
-- Linguistik: Korpusstudien zu sprachlichen Eigenheiten der RW, z.B. RW-Einleiter, freie Konjunktivsätze usw.; fict vs. non-fict; perspektivenabhängig, Zeit
-- Litwi: Häufigkeit und From von Wiedergaben in Erzähltexten in Rleation zu Fig.char.; Entwicklung/Enstehung von STWR-Formen; fict vs. non-fict, perspektivenabhängig, Zeit; einzelne Autoren; Genrestudien
+Linguistics:
+- corpus studies to linguistic pecularities of speech, thought and writing representation, for example introductional expressions, independent subjunctive clauses etc.
+- linguistic studies depending on perspective, fictionaliy, time (see [metadata](metadata.md) for further use cases)
 
-Vorgehen:
-- Annos einzeln durchsuchen, Frequenzlisten, zeitliche Verläufe, Metadatenabhängige Untersuchungen
+Literary studies:
+- frequency and form of representation in narrative texts in relation to characterisation of characters
+- arising and development of different forms of representation over time
+- studies depending on perspective, fictionaliy, time (see [metadata](metadata.md) for further use cases)
+- studies on genre, single authors etc.
+
+There are differnent processing options using the corpora:
+- extract single annotations
+- extract special forms of representation, media, frame,...
+- frequency lists
+- chronological trends
+- selection dependent on metadata
+- many more...
 
 Click the following links to get familiar with the [annotation structur](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md) and [xml-format](xml_format.md)).
