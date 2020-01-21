@@ -37,7 +37,7 @@ Further description of the completely annotated texts can be found [here](comple
 
 # 3 indirect-corpus
 
-This corpus was created to generate training material specifically for indirect representation. NUR IND. OHNE MEDIUM UND FRAME
+This corpus was created to generate training material specifically for indirect representation. Related frames are not annotated nor are media or other types of representation.
 
 |       | files | tokens |
 |-------|-------|--------|
