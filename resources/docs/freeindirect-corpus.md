@@ -1,1 +1,1 @@
-
+The following statistics are for the additional free indirect-corpus. This subcorpus was created to generate training data especially for free indirect representation. Therefore, only free indirect representation is annotated. No other types of representation are annotated, neither are frame, speaker or intexpr.
