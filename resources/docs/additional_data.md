@@ -47,3 +47,4 @@ This corpus was created to generate training material especially for free indire
 
 corpus is still work in progress!
 
+Further description of the free indirect-corpus can be found [here](freeindirect-corpus.md).
