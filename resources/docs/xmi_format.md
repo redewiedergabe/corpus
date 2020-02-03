@@ -65,7 +65,6 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Sample | String | starting by 1, if another sample is drawn from the same text, the value of Sample increases        |
 | Narrative | yes, no, unsure | information on narrativity         |
 | TextType | Anzeige, Biographie, Erzähltext, Kommentar, Nachrichten, Reisebericht/Brief, Reportage, Rezension, Unsure | predominant text type         |
-| Periodical | String | periodical of the sample from mkhz       |
 | Dialect | yes, yes_DS (dialect in direct speech), no | information on dialect        |
 | Perspective | first, first_plural, third, unsure | predominant perspective        |
 | Quotes | german, chevron, chevorn_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
