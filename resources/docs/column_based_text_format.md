@@ -8,7 +8,7 @@ Corpus metadata is available in the file **metadata** ([tsv format](../../data/m
 
 The corpus consists of UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample (Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de)).
 
-In addition to the annotations added by the Redewiedergabe project, the files also contain morpho-syntactic annotation produced by automatic tools that were not developed by the Redewiedergabe project.
+In addition to the annotations added by the project Redewiedergabe, the files also contain morpho-syntactic annotations produced by automatic tools that were not developed by the project Redewiedergabe.
 
 For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md). 
 
@@ -18,7 +18,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 
 # Columns
 
-| Column | Description                                                                                        | Typ                       |
+| Column | Description                                                                                        | Type                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | tok       | token (tokenization by CAB)                                                                        | surface |
 | normtok   | ortographically normalized token (provided by CAB)                                           | NLP information           |
