@@ -20,7 +20,7 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Sentence     | String                                          | sentence (sentence splitting by CAB)           |
 | Speaker | String | speaker/source of the STWR         |
 | Stwr       | String                                                      | main STWR annotation|
-| TeiType     | String                                                                             | structural information |
+| TeiType     | String                                                                             | information on the source xml |
 
 ### Features
 
@@ -69,6 +69,41 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Dialect | yes, yes_DS (dialect in direct speech), no | information on dialect        |
 | Perspective | first, first_plural, third, unsure | predominant perspective        |
 | Quotes | german, chevron, chevorn_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
+
+* Features of the type **Sentence**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| Id      | String                                                                      | sentence id |
+
+
+* Features of the type **Speaker**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| Speaker      | String                                                                      | surface|
+| SpeakerID      | String                                                                      | speaker id |
+
+* Features of the type **Stwr**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| Medium      | speech, thought, writing (and combinations, separated by whitespace)                                                                       | STWR medium   |
+| RType| direct, freeIndirect, indirect, reported, indirect freeIndirect                                          | STWR type         |
+| Level       | starts with 1                                                   | nesting depth of this STWR annotation      |
+| NonFact     | nonFact or empty String                                          | non-factual STWR, e.g. negated     |
+| Prag | prag or empty String |STWR with a different pragmatic function, e.g. rhetorical figures     |
+| Border | unspec, state, percept or empty String | borderline cases of STWR (typically for thought representation), e.g. perceptions         |
+| Metaph | metaph or empty String | metaphorical STWR       |
+| Stwr | String | surface        |
+| StwrID | String | stwr id        |
+
+* Features of the type **TeiType**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| TagName      | String                                                                       | tag name of the xml element  |
+| Attributes| String                                         | attributes of the xml element  |
 
 ## References:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
