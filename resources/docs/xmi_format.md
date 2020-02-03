@@ -9,7 +9,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 # Typesystem
 Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 
-## Types
+### Types
 
 | Type| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
@@ -21,6 +21,20 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Speaker | String | speaker/source of the STWR         |
 | Stwr       | String                                                      | main STWR annotation|
 | TeiType     | String                                                                             | structural information |
+
+### Features
+
+* Features of the type **CabToken**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| Id      | String                                                                      | token id |
+| Xlit| String                                         | ortographically normalized token (provided by CAB)           |
+| Canon     | String                                                                       | canonical form of token (provided by CAB)           |
+| Pos       | String                                                   | morphological information (provided by CAB)        |
+| Lemma     | String                                          | lemma (provided by CAB)         |
+| RfPos | String | morphological information (provided by RF-Tagger)         |
+
 
 
 ## References:  
