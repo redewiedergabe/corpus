@@ -9,11 +9,24 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 # Typesystem
 Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 
-| Type | Values                                                                                    | Description                                              |
-|----------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
-| CabToken       |String                                                                          |token (tokenization by CAB)                                                      |
-|      |  |                                                     |
+## Types
 
+|Type| Values                                                                                    | Description                                              |
+|----------|------------------------------------------------------------------------------------------|--------------------------------------------------------------------|
+|CabToken        | String                                       | token (tokenization by CAB)                                                  |
+|Frame           | String                                       | frame of the STWR  
+|
+|IntExpression   | String                                       | word/s introducing the STWR  
+|
+|Metadata        | String                                       | metadata of the sample
+|
+|Sentence        | String                                       | sentence (sentence splitting by CAB)
+|
+|Speaker         | String                                       | speaker/source of the STWR
+|
+|Stwr            | String                                       | main STWR annotation
+|
+|TeiType         | String                                       | frame of the STWR  
 
 ## References:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
