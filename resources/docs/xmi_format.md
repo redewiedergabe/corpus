@@ -65,7 +65,7 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Sample | String | starting by 1, if another sample is drawn from the same text, the value of Sample increases        |
 | Narrative | yes, no, unsure | information on narrativity         |
 | TextType | Anzeige, Biographie, Erzähltext, Kommentar, Nachrichten, Reisebericht/Brief, Reportage, Rezension, Unsure | predominant text type         |
-| Periodical | String | periodical of the samples from mkhz       |
+| Periodical | String | periodical of the sample from mkhz       |
 | Dialect | yes, yes_DS (dialect in direct speech), no | information on dialect        |
 | Perspective | first, first_plural, third, unsure | predominant perspective        |
 | Quotes | german, chevron, chevorn_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
@@ -91,10 +91,10 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | Medium      | speech, thought, writing (and combinations, separated by whitespace)                                                                       | STWR medium   |
 | RType| direct, freeIndirect, indirect, reported, indirect freeIndirect                                          | STWR type         |
 | Level       | starts with 1                                                   | nesting depth of this STWR annotation      |
-| NonFact     | nonFact or empty String                                          | non-factual STWR, e.g. negated     |
-| Prag | prag or empty String |STWR with a different pragmatic function, e.g. rhetorical figures     |
-| Border | unspec, state, percept or empty String | borderline cases of STWR (typically for thought representation), e.g. perceptions         |
-| Metaph | metaph or empty String | metaphorical STWR       |
+| NonFact     | nonFact, *empty String*                                         | non-factual STWR, e.g. negated     |
+| Prag | prag, *empty String* |STWR with a different pragmatic function, e.g. rhetorical figures     |
+| Border | unspec, state, percept, *empty String* | borderline cases of STWR (typically for thought representation), e.g. perceptions         |
+| Metaph | metaph, *empty String*| metaphorical STWR       |
 | Stwr | String | surface        |
 | StwrID | String | stwr id        |
 
