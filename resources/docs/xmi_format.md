@@ -1,6 +1,8 @@
 # XMI
 
+## General remarks
 Folder: [data/main/xmi](../../data/main/xmi)
+Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 
 This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [text](column_based_text_format.md) formats. The files contains the following types of annotations:
 * **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of these annotations see [Annotation structure](annotation_structure.md) and [Metadata](metadata.md).
@@ -10,13 +12,9 @@ This version of the corpus consists of XMI files. Each file contains the text of
 
 NOTE: Some XMI files contain textual metadata information at the beginning of the document. This information should be ignored by *only* processing the Annotation element **Text**. The correct metadata is stored in the annotation **Metadata**.  
 
-## Typesystem
-Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
-
-## ATHEN
 The XMI files are compatible with the anntotation tool [ATHEN](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen) (developed by Markus Krug in the Kallimachos project) and its [STWR view](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen/blob/master/de.uniwue.mk.athen/releng/de.uniwue.mk.athen.docu/STWRView.md) (developed by Tanja Tu) which have been used in the project Redewiedergabe. This tool is freely available for download.  
 
-## References for the additional tools:  
+### References for the additional tools:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
 * **RF-Tagger**: Helmut Schmid and Florian Laws: Estimation of Conditional Probabilities with Decision Trees and an Application to Fine-Grained POS Tagging, COLING 2008, Manchester, Great Britain. [Documentation](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
 
