@@ -2,8 +2,7 @@
 
 Folder: [data/main/xmi](../../data/main/xmi)
 
-This version of the corpus consists of XMI files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
-XMI was the working format of the project Redewiedergabe and the basis for the XML and TXT formats. These files contains the following types of annotations:
+This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the XML and TXT formats. These files contains the following types of annotations:
 * **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of this annotation see [Annotation structure](annotation_structure.md).
 * **Text**: Structural marker. The relevant text of the sample is enclosed in this annotation
 * **CabToken, Sentence**: Additional morpho-syntactic annotation produced by automatic tools that were not developed by the project Redewiedergabe (CAB, RFTagger, references see below). 
