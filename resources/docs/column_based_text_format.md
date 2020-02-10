@@ -2,7 +2,7 @@
 
 # General remarks
 
-Folder: [data/txt](../../data/main/txt)
+Folder: [data/main/txt](../../data/main/txt)
 
 Corpus metadata is available in the file **metadata** ([tsv format](../../data/main/txt/metadata.tsv) or [Excel format](../../data/main/txt/metadata.xlsx))
 
