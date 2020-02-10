@@ -13,22 +13,22 @@ NOTE: Some XMI files contain textual metadata information at the beginning of th
 # Typesystem
 Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 
-### Types
+## Types
 
 | Type| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | CabToken      | String                                                                      | token (tokenization by CAB) |
-| **Frame| String                                         | frame of the STWR**            |
-| **IntExpression     | String                                                                       | word/s introducing the STWR**             |
-| **Metadata       | String                                                   | metadata of the sample**          |
+| Frame| String                                         | frame of the STWR            |
+| IntExpression     | String                                                                       | word/s introducing the STWR            |
+| Metadata       | String                                                   | metadata of the sample          |
 | Sentence     | String                                          | sentence (sentence splitting by CAB)           |
-| **Speaker | String | speaker/source of the STWR**         |
-| **Stwr       | String                                                      | main STWR annotation**|
+| Speaker | String | speaker/source of the STWR**         |
+| Stwr       | String                                                      | main STWR annotation|
 | TeiType     | String                                                                             | addition XML tags from the  the source material |
+| Text | String | textual content of the sample |
+## Features
 
-### Features
-
-* Features of the type **CabToken**
+### Features of the type **CabToken**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
@@ -39,7 +39,7 @@ Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 | Lemma     | String                                          | lemma (provided by CAB)         |
 | RfPos | String | morphological information (provided by RF-Tagger)         |
 
-* Features of the type **Frame**
+### Features of the type **Frame**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
@@ -47,14 +47,14 @@ Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 | FrameID      | String                                                                      | frame id |
 | Pos| start, mid, end                                         |  position of the frame relative to its STWR        |
 
-* Features of the type **IntExpression**
+### Features of the type **IntExpression**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | IntExpression      | String                                                                      | surface|
 | IntExpressionID      | String                                                                      | intExpression id |
 
-* Features of the type **Metadata**
+### Features of the type **Metadata**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
@@ -73,21 +73,21 @@ Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 | Perspective | first, first_plural, third, unsure | predominant perspective        |
 | Quotes | german, chevron, chevorn_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
 
-* Features of the type **Sentence**
+### Features of the type **Sentence**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | Id      | String                                                                      | sentence id |
 
 
-* Features of the type **Speaker**
+### Features of the type **Speaker**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | Speaker      | String                                                                      | surface|
 | SpeakerID      | String                                                                      | speaker id |
 
-* Features of the type **Stwr**
+### Features of the type **Stwr**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
@@ -101,13 +101,13 @@ Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 | Stwr | String | surface        |
 | StwrID | String | stwr id        |
 
-* Features of the type **TeiType**
+### Features of the type **TeiType**
 
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | TagName      | String                                                                       | tag name of the xml element  |
 | Attributes| String                                         | attributes of the xml element  |
 
-## References for additional tools:  
+## References for the additional tools:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
 * **RF-Tagger**: Helmut Schmid and Florian Laws: Estimation of Conditional Probabilities with Decision Trees and an Application to Fine-Grained POS Tagging, COLING 2008, Manchester, Great Britain. [Documentation](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
