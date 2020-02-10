@@ -1,26 +1,31 @@
 # XMI
 
-Folder: [data/xmi](../../data/main/xmi)
+Folder: [data/main/xmi](../../data/main/xmi)
 
-This version of the corpus consists of XMI files. Each file contains the text of one sample and the annotations of the project Redewiedergabe. In addition to the annotations added by the project Redewiedergabe, the files also contain morpho-syntactic annotations produced by automatic tools that were not developed by the project Redewiedergabe.
+This version of the corpus consists of XMI files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
+XMI was the working format of the project Redewiedergabe and the basis for the XML and TXT formats. These files contains the following types of annotations:
+* **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of this annotation see [Annotation structure](annotation_structure.md).
+* **Text**: Structural marker. The relevant text of the sample is enclosed in this annotation
+* **CabToken, Sentence**: Additional morpho-syntactic annotation produced by automatic tools that were not developed by the project Redewiedergabe (CAB, RFTagger, references see below). 
+* **TeiType**: Additional XML tags coded as XMI annotations. In the workflow of the project Redewiedergabe, samples were pulled from TEI complient XML files, then annotated with the CAB tool in XML mode and finally converted to XMI. The annotation **TeiType** preserves all XML annotations that were detected in the input documents. These annotations are diverse and have not been standardized in any way. They are provided as optional information for anyone who is interested in the relationship of the Redewiedergabe annotations to original TEI markers.
 
-For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md).
+NOTE: Some XMI files contain textual metadata information at the beginning of the document. This should be ignored by *only* processing the Annotation element **Text**. The correct metadata is stored in the annotation **Metadata**.  
 
 # Typesystem
-Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
+Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 
 ### Types
 
 | Type| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | CabToken      | String                                                                      | token (tokenization by CAB) |
-| Frame| String                                         | frame of the STWR            |
-| IntExpression     | String                                                                       | word/s introducing the STWR             |
-| Metadata       | String                                                   | metadata of the sample          |
+| **Frame| String                                         | frame of the STWR**            |
+| **IntExpression     | String                                                                       | word/s introducing the STWR**             |
+| **Metadata       | String                                                   | metadata of the sample**          |
 | Sentence     | String                                          | sentence (sentence splitting by CAB)           |
-| Speaker | String | speaker/source of the STWR         |
-| Stwr       | String                                                      | main STWR annotation|
-| TeiType     | String                                                                             | information on the source xml |
+| **Speaker | String | speaker/source of the STWR**         |
+| **Stwr       | String                                                      | main STWR annotation**|
+| TeiType     | String                                                                             | addition XML tags from the  the source material |
 
 ### Features
 
@@ -104,6 +109,6 @@ Typesystem: [data/xmi/resources](../../data/main/xmi/resources)
 | TagName      | String                                                                       | tag name of the xml element  |
 | Attributes| String                                         | attributes of the xml element  |
 
-## References:  
+## References for additional tools:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
 * **RF-Tagger**: Helmut Schmid and Florian Laws: Estimation of Conditional Probabilities with Decision Trees and an Application to Fine-Grained POS Tagging, COLING 2008, Manchester, Great Britain. [Documentation](http://www.cis.uni-muenchen.de/~schmid/tools/RFTagger/)
