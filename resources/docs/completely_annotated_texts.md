@@ -33,7 +33,7 @@ These files consist of only fictional texts.
 |  |  |  |  |  |
 | **total** | **?? files** |  |  | **??????** |
 
-Note:
+Note: Some of the completely annotated narratives were not annotated strictly according to the annotation guidelines. Some changes have been made in the annotation of the speaker. For the forms *direct* and *indirect* only real character names (or other unambiguous words) were annotated, even if they were far away from the corresponding representation. The goal of this procedure was to assign the direct and indirect representations more precisely to a character and thus allow for different evaluations of the character's representation. In detail, this involved the following narratives: *Der Gefangene*, *Die Doppelgängerin*, *Die Judenbuche*, *Der arme Spielmann*, *Das Erdbeerimareili*, *Bergmilch*, *Phosphorus Hollunder*, *Die schwarze Galeere*, *Die zwölf Apostel*, *Eine Malerarbeit*, *Der Leuchtturm von Livorno*. All other clauses of the guidelines were left untouched.
 
 ## completely annotated non-fictional articles
 
