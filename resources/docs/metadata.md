@@ -4,9 +4,15 @@
 The corpus consists of several samples. Each sample is a randomly drawn excerpt from a text.
 
 The file names are structured as follows:
+
 `rwk_source_textid_samplenumber`
 
-Example: `rwk_digbib_123_2` means: This is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source digbib (Digitale Bibliothek). 
+or 
+
+`rwk_source_textid_short`
+
+Example: `rwk_digbib_123_2` means this is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source digbib (Digitale Bibliothek). The ending `short` can only appear for the newspaper sources (mkhz and grenz) and marks files that contain full articles (rather than excerpts) which are shorter than 500 tokens.
+
  
 # Metadata table
 | Metadatum | Values                                                                                                     | Description                                                                                                                                                      |
