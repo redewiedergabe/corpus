@@ -21,13 +21,12 @@ If you encounter any issues or have any questions, please use [Github's Issues t
 Additional material will be added in the future.
 
 ## Format
-The corpus is available in two different formats:
+The corpus is available in three different formats:
 * [Column-based text format](resources/docs/column_based_text_format.md)
-* [XML format](resources/docs/xml_format.md) 
-  
+* [XML format](resources/docs/xml_format.md)
+* [XMI format](resources/docs/xmi_format.md) (Not available for the Beta release)
 
-
-
+NOTE: The XMI files are compatible with the free anntotation tool [ATHEN](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen) (developed by Markus Krug in the [Kallimachos project](http://kallimachos.de)) and its [STWR view](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen/blob/master/de.uniwue.mk.athen/releng/de.uniwue.mk.athen.docu/STWRView.md) (developed by Tanja Tu).
 
 # Project
 The "Redewiedergabe" corpus is created by the DFG-funded project "Redewiedergabe. Eine literatur- und sprachwissenschaftliche Korpusanalyse" in a cooperation between [Leibniz-Institut für Deutsche Sprache, Mannheim](http://www1.ids-mannheim.de/lexik/home.html) ([Abteilung Lexik](http://www1.ids-mannheim.de/lexik/home.html)) and [Universität Würzburg](https://www.uni-wuerzburg.de) ([Lehrstuhl für Computerphilologie und Neuere Deutsche Literaturgeschichte](https://www.germanistik.uni-wuerzburg.de/no_cache/lehrstuehle/computerphilologie)). 
