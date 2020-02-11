@@ -27,7 +27,7 @@ The XMI files are compatible with the anntotation tool [ATHEN](https://gitlab2.i
 | IntExpression     | String                                                                       | word/s introducing the STWR            |
 | Metadata       | String                                                   | metadata of the sample          |
 | Sentence     | String                                          | sentence (sentence splitting by CAB)           |
-| Speaker | String | speaker/source of the STWR**         |
+| Speaker | String | speaker/source of the STWR         |
 | Stwr       | String                                                      | main STWR annotation|
 | TeiType     | String                                                                             | addition XML tags from the  the source material |
 | Text | String | textual content of the sample |
