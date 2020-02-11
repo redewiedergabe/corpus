@@ -2,6 +2,7 @@
 
 ## General remarks
 Folder: [data/main/xmi](../../data/main/xmi)
+
 Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
 
 This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [text](column_based_text_format.md) formats. The files contain the following types of annotations:
