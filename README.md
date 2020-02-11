@@ -1,6 +1,6 @@
 
 
-# Corpus "Rᴇᴅᴇᴡɪᴇᴅᴇʀɢᴀʙᴇ" <img src="resources/docs/img/redewiedergabe_logo.png" width="40" height="40"/>
+# Corpus "Rᴇᴅᴇᴡɪᴇᴅᴇʀɢᴀʙᴇ" 
 
 
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
@@ -23,9 +23,9 @@ Additional material will be added in the future.
 ## Format
 The corpus is available in two different formats:
 * [Column-based text format](resources/docs/column_based_text_format.md)
-* [XML format](resources/docs/xml_format.md) <a href="http://www.tei-c.org/">
-  <img src="https://www.tei-c.org/wp-content/uploads/2016/11/We-use-TEI.png" alt="We use TEI"/>
-</a>
+* [XML format](resources/docs/xml_format.md) 
+  
+
 
 
 
@@ -40,7 +40,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # License
 
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons Lizenzvertrag" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />The "Redewiedergabe" corpus is available under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
+The "Redewiedergabe" corpus is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 We ask you to mention [project "Redewiedergabe"](http://www.redewiedergabe.de) regarding the annotation, and [project TextGrid](https://textgrid.de/digitale-bibliothek), [Deutsches Textarchiv](http://www.deutschestextarchiv.de), [Leibniz-Institut für Deutsche Sprache](http://www1.ids-mannheim.de) and [Universitätsbibliothek Bremen](http://brema.suub.uni-bremen.de) regarding the texts.
 
