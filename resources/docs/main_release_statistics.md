@@ -67,7 +67,7 @@ Direct and free indirect ST&WR are clearly more common in fictional texts. Free 
 
 ![rw_Media](/resources/docs/img/rw_medium.png)
 
-The graphic only shows the most frequent ambiguous category "speech/writing" (ambigous between speech and writing). The other ambiguous combinations are much less frequent.
+The graphic only shows the most frequent ambiguous category "speech/writing" (ambiguous between speech and writing). The other ambiguous combinations are much less frequent.
 
 Speech representation is dominant in fictional texts and writing in non-fictional ones. The latter is due to book reviews and to written communication often being a topic in news stories. The high percentage of speech/writing also indicates that the medium tends to be underspecified and probably considered less important than the represented content in non-fiction.  
 
