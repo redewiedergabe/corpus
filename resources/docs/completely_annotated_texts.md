@@ -33,7 +33,9 @@ These files consist of only fictional texts.
 |  |  |  |  |  |
 | **total** | **?? files** |  |  | **??????** |
 
-## 2b completely annotated non-fictional articles
+Note:
+
+## completely annotated non-fictional articles
 
 These files consist of only non-fictional texts.
 
