@@ -23,9 +23,9 @@ This is a collection of several types of additional annotated material produced 
 
 |                            | Files | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 |           |   [Description](single_annotated_samples.md)
-| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|           |[Description](full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
-| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|           |  [Description](full_texts.md)
+| [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 |           |   [Description](resources/docs/single_annotated_samples.md)
+| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|           |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
+| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|           |  [Description](resources/docs/full_texts.md)
 
 More additional material will be added in the future.
 
