@@ -10,7 +10,7 @@ Folder: [data/additional/single_annotated/full_fict](../../data/additional/singl
 
 This collection consists of complete narrative texts. The source was [Digitale Bibliothek](https://textgrid.de/digitale-bibliothek).
 
-**NOTE**: The annotation guidelines regarding the **speaker** annotation have been adjusted for some of the texts in the following way: For the forms *direct* and *indirect* only real character names (or other unambiguous words) were annotated, even if they were far away from the corresponding representation. The goal of this procedure was to assign the direct and indirect representations more precisely to a character and thus allow for evaluations of the character's representation in the text. 
+**NOTE**: The annotation guidelines regarding the **speaker** annotation have been adjusted for some of the texts in the following way: For the forms *direct* and *indirect* only real character names (or other content words unambigously refering to a character) were annotated as *speaker*, even if they were far away from the corresponding ST&WR instance. The goal of this procedure was to assign the direct and indirect representations more precisely to a character and thus allow for evaluations of the character's representation in the text. 
 
 This change affected only the following texts: *Der Gefangene*, *Die Doppelgängerin*, *Die Judenbuche*, *Der arme Spielmann*, *Das Erdbeerimareili*, *Bergmilch*, *Phosphorus Hollunder*, *Die schwarze Galeere*, *Die zwölf Apostel*, *Eine Malerarbeit* and *Der Leuchtturm von Livorno*.
 
