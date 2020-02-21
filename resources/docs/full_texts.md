@@ -1,7 +1,7 @@
 # Single-annotated full texts
 This is a collection of fictional and non-fictional complete texts, annotated according to the guidelines of the project Redewiedergabe (with some caveats regarding full texts, see below). The annotation was performed by only one annotator with no additional quality control. 
 
-In total, this sub-corpus consists of ?? files with ???? tokens.
+In total, this sub-corpus consists of 29 files with 280.203 tokens.
 
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
 
