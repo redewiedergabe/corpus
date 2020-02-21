@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kronländer</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener260_1850_5.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Kronländer</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Kronländer.
+                        
+            
+            
+               Brünn, 28. October. Heute beginnen die Wahlen
+                        für die Gemeinde-Repräsentation der Stadt Brünn. <said id="3" mode="reported" content="speech" level="1">In
+                        den Kirchen und sämmtlichen Gotteshäusern aller hiesigen
+                        Religionsgenossenschaften ist dieser wichtige Act mit feierlichen Gebeten zum Geber alles Guten eingeweiht worden.</said>
+            Heute beginnt auch die Brünner Handelskammer ihre
+                        Thätigkeit mit der Wahl ihres Bureaus.
+            <said id="2" mode="reported" content="speech" level="1">In der Gemeinderaths-Sitzung am 26sten hat der
+                        hierortige Großhändler Herr Heinrich Kafka den Bürgereid abgelegt.</said> Hr. Kafka ist Israelite, und als solcher der Erste, dem auf Grund der neuen Institutionen
+                        das Bürgerrecht für die Landeshauptstadt Brünn verliehen worden. <said id="14" mode="reported" content="speech" level="1">Der Gemeindevorstand Herr Dr. Stella
+                         fand sich veranlaßt, in einer Ansprache die Wichtigkeit
+                        dieses Actes hervorzuheben.</said> ( Br. Ztg. )
+                         
+            
+               Klagenfurt, 25. October. Heute rückten statt
+                        der erwarteten 290 Mann des vaterländischen Regimentes Baron Prohaska 192 Mann ausgedienter Kapitulanten hier ein, welche bis zu ihrer Beurlaubung bei
+                        den Bürgern der Stadt einquartiert wurden. <said id="5" mode="reported" content="speech" level="1">Auf Veranlassung des Magistratsrathes A. Schmidt</said> beeilten sich
+                        die Bewohner Klagenfurts, den heimkehrenden Söhnen
+                        und Brüdern, welche für das Vaterland so tapfer gestritten, durch eine Sammlung, welche den Betrag von
+                        338 fl. 44 kr. C.M. ergab, den Beweis zu liefern, <said id="15" mode="reported" content="thought" level="1" border="yes">wie
+                        sehr sie die wackeren Männer zu schätzen wisse</said>, welche
+                        für das geliebte Kaiserhaus und die Aufrechthaltung
+                        der Gesammt-Monarchie freudig ihr Leben zu opfern be reit waren. Die Einrückenden hatten auf ihrem Marsche
+                        in die Heimath allem Ungemache des anhaltend schlechten Wetters nach alter Gewohnheit getrotzt. <said id="6" mode="reported" content="speech" level="1">Bei ihrer
+                        Ankunft hielt der Werbbezirks-Commandant, Major v.
+                        Hoyer, eine Ansprache an die Braven, <said id="7" mode="reported" content="thought" level="2">in welcher er
+                        ihrer Thaten am Kriegsschauplatze ehrend gedachte</said></said>, worauf jeder Mann von dem eingegangenen Betrage mit
+                        1 fl. C. M. betheilt wurde. <said id="8" mode="reported" content="speech" level="1">Der Rest desselben pr.
+                        146 fl. 44 kr. C. M. ward für später nachrückende
+                        Mannschaft des Regiments, welche in Kurzem erwartet wird, bestimmt</said>, und zu diesem Zwecke in die hiesige Sparcasse fruchtbringend angelegt. Die Mannschaft
+                        war über diese Aufmerksamkeit von Seiten der Einwohner höchlich erfreut, <said id="9" mode="reported" content="speech" level="1">und drückte den freundlichen
+                        Gebern ihren herzlichsten Dank aus.</said> Der in Strömen
+                        fallende Regen verhinderte, daß die Bevölkerung, <said id="10" mode="reported" content="thought" level="1">wie
+                        es beabsichtigt war</said>, den Ankommenden in Masse entgegen zog. ( Klagenf. Ztg. )
+                         
+            
+               Triest, 28. October. <seg id="11" type="frame" pos="start">Die k. k. <seg id="11" type="speaker">Central-Seebehörde</seg>
+                        hat nachstehende <seg id="11" type="intExpr">Kundmachung</seg> erlassen:</seg>
+                         
+            <said id="11" mode="direct" content="writing" level="1">„Da seit einigen Tagen hier abermals sporadische Cholerafälle vorkommen, <seg id="16" type="frame" pos="start">so hat die <seg id="16" type="speaker">Central-Seebehörde</seg>, um das
+                        Vertrauen zu erhalten, welches auswärtige Behörden in die
+                        von den Oesterreichischen Sanitätsämtern erlassenen Zeugnisse setzen, die <seg id="16" type="intExpr">Verfügung</seg> erlassen,</seg> <said id="16" mode="indirect" content="speech" level="2"><seg id="12" type="frame" pos="start">daß von morgen angefangen auf den Sanitätspatenten der von hier abfahrenden
+                        Schiffe die <seg id="12" type="intExpr">Bemerkung</seg> gemacht werde,</seg> <said id="12" mode="indirect" content="writing" level="3">daß in Triest sporadische Cholerafälle vorkommen</said></said>"</said>, <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes">was hiermit zur öffentlechen
+                        Kenntniß gebracht wird.</said>
+            Triest, 26. October 1850:
+                         
+         
+      </p>
+      </body>
+   </text>
+</TEI>

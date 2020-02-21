@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>1631. [Haus- und Schutzbrief. Im Namen Gottes]</title>
+             <author>Bartsch, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bartsch,_Karl_1631___Haus__und_Schutzbrief__Im_Namen_Gottes_.tg2958_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">1631. [Haus- und Schutzbrief. Im Namen Gottes]</f>
+         <f name="author">Bartsch, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+            
+                
+                    
+                        
+                            Im Namen Gottes des Vaters, des Sohnes
+                                und des heiligen Geistes.
+                            So wie Christus stille stand am Oelgraben, so soll alles
+                                Geschütz stille stehen.
+                            <said id="1" mode="reported" content="writing" level="1" nonfact="yes">Wer diesen Brief geschrieben</said> und bei sich hat, dem wird
+                                nichts schaden, es wird ihm nicht treffen des Feindes Geschütz und
+                                alle Waffen, <seg id="2" type="frame" pos="start">denselben wird <seg id="2" type="speaker">Gott</seg> <seg id="2" type="intExpr">bekräftigen</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1" nonfact="yes" border="yes"><said id="20" mode="reported" content="thought" level="2" nonfact="yes" border="yes">daß er sich nicht darf
+                                fürchten, vor Diebe und Räuber</said></said>,
+                                es soll ihm nichts schaden.
+                            Geschütz und Pistolen, alle Gewehre müssen stille stehen,
+                                alle sichtbare und unsichtbare, so man auf mich los hält, <said id="3" mode="reported" content="speech" level="1">durch den
+                                Befehl</said> und Tod <said id="3" mode="reported" content="speech" level="1">Jesu</said>, es müssen stille stehen alle sichtbaren Gewehre
+                                durch den Engel Gabriel, im Namen Gottes des Vaters, des Sohnes und
+                                des heiligen Geistes.
+                            Gott sei mit mir über alle diese Zeichen.
+                            Wer diesen Segen bei sich hat gegen den Feind, der ist
+                                für alle Gefahr beschützet, <said id="4" mode="reported" content="thought" level="1" nonfact="yes">wer es nicht glauben will</said>, <said id="5" mode="reported" content="writing" level="1" nonfact="yes">der schreibe
+                                dies ab</said>, hänge es einem Hunde um und schieße nach ihm, so wird er
+                                erfahren daß dieses wahr sei.
+                            Wer diesen Brief bei sich trägt, der wird nicht gefangen,
+                                noch von des Feindes Waffen verletzt werden, so wahr als dies ist,
+                                das Christus geboren, gestorben, auferstanden und gen Himmel
+                                gefahren ist, so wahr er auf Erden gewandelt hat, kann ich nicht
+                                geschossen noch gestochen werden noch an meinem Leibe verletzt
+                                werden, mein Fleisch, Gebein und Gedärm, Alles soll mir unbeschädigt
+                                bleiben.
+                            <said id="6" mode="reported" content="speech" level="1">Ich beschwöre alle Gewehre und Waffen auf dieser Welt bei
+                                dem lebendigen Gott des Vaters, des Sohnes und des heiligen Geistes</said>,
+                                <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">ich</seg> <seg id="7" type="intExpr">bitte</seg> im Namen unseres Heilands Jesu Christus,</seg> <said id="7" mode="indirect" content="speech" level="1">daß mich keine
+                                Kugel treffen thut, sie sei von Gold, Silber oder Blei, Gott im
+                                Himmel mach mich von allen sicher und frei.</said>
+                            Im Namen Gottes des Vaters, des Sohnes und des heiligen
+                                Geistes.
+                            Dieser Brief ist durch den Engel Michael gesandt vom
+                                Himmel und in Holstein gefunden worden 1724; <said id="8" mode="reported" content="writing" level="1">er war mit goldenen
+                                Buchstaben geschrieben</said> und gesiegelt Lodogina; er schwebte über die
+                                Taufe, wer ihn greifen wollte, vor dem wich er zurück bis 1791 sich
+                                Jemand ihm näherte, <said id="9" mode="reported" content="writing" level="1" nonfact="yes">es aufzuschreiben</said> und <said id="10" mode="reported" content="speech" level="1" nonfact="yes">der Welt mitzutheilen</said>; zu
+                                diesem neigte sich der Brief herunter, <seg id="11" type="frame" pos="start">darauf <seg id="11" type="intExpr">stand</seg>:</seg> <said id="11" mode="direct" content="writing" level="1">Wer am Sonntag
+                                arbeitet, der ist für mich verdammt, ihr sollt an dem Tage keine
+                                Arbeit thun, sondern fleißig in die Kirche gehen und <said id="12" mode="reported" content="speech" level="2" nonfact="yes"><said id="21" mode="reported" content="thought" level="3" nonfact="yes">mit Andacht</said>
+                                beten</said> und euren Reichthum den Armen geben, ihr sollt nicht sein wie
+                                <said id="13" mode="reported" content="thought" level="2" nonfact="yes">die unverständigen Thiere.</said>
+                            Ich gebe in der Woche sechs Tage zum arbeiten und <said id="14" mode="reported" content="speech" level="2" nonfact="yes" border="yes">den
+                                siebenten Tag sollt ihr Gottes Wort hören</said>, werdet ihr das nicht
+                                thun, so will ich euch strafen mit Pestilenz, theure Zeit und
+                                Krieg.
+                            <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Ich</seg> <seg id="15" type="intExpr">gebiete</seg> euch,</seg> <said id="15" mode="indirect" content="speech" level="2">daß ihr des Sonnabends nicht spät
+                                arbeitet.</said>
+                            <said id="16" mode="reported" content="speech" level="2" nonfact="yes">Jeder er sei jung oder alt, soll für seine Sünden bitten</said>,
+                                daß sie ihm vergeben werden.
+                            <said id="17" mode="reported" content="speech" level="2" nonfact="yes">Schwöret nicht boshaftig in meinem Namen</said>, begehret nicht
+                                Gold oder Silber und scheuet euch
+                                vor der Menschen Lust und Begierden, so geschwind wie ich euch
+                                erschaffen habe, so bald kann ich euch zerschmettern.
+                            <said id="18" mode="reported" content="speech" level="2" nonfact="yes">Seid mit der Zunge nicht falsch</said>, ehret
+                                Vater und Mutter und<said id="19" mode="reported" content="speech" level="2" nonfact="yes"> redet nicht falsche Zeugnisse wider euren
+                                Nächsten</said>, dem gebe ich Gesundheit und Zufriedenheit.</said>
+                        
+                    
+                
+            
+        </p>
+      </body>
+   </text>
+</TEI>

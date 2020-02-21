@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Ostereier der Reiserbuben</title>
+             <author>Christ, Lena</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Christ,_Lena_Die_Ostereier_der_Reiserbuben.tg69_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Ostereier der Reiserbuben</f>
+         <f name="author">Christ, Lena</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     Auf dem Tisch steht nun die Schüssel mit den
+                        Nudeln und Krapfen, und die Mägde bringen dazu den Kaffee.
+                  
+                  
+                     <seg id="1" type="frame" pos="start">Der alte <seg id="1" type="speaker">Reiser</seg> besprengt den Schinken mit Weihbrunn,  verbrennt geweihten Palm, streut die Asche
+                        über den Tisch und <seg id="1" type="intExpr">sagt</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Alsdann, eßt's und seid's gern da; insa Herr is aa
+                        wieder da.«</said> 
+                  
+                  
+                     Und dann kommt die Reiserin mit den Eierschüsseln.
+                  
+                  
+                     Die Stallmagd und das Gänsdirndl helfen ihr beim Tragen, indes
+                        die Franzosen schweigend ihre Kaffeesuppe auslöffeln und danach vom Tisch
+                        aufstehen.
+                  
+                  
+                     <seg id="2" type="frame" pos="start">Da <seg id="2" type="intExpr">sagt</seg> der <seg id="2" type="speaker">Alte</seg>;</seg> <said id="2" mode="direct" content="speech" level="1">»He da!
+                     Schamberle!
+                     Alfons!
+                     Goliat!
+                     – Dableib'n!
+                     – D' Hauptsach kimmt – d' Osteroar!«</said> 
+                  
+                  
+                     Nun stehen zehn Schüsseln auf dem Tisch, und die Bäuerin beginnt
+                        – so wie sie es gewohnt seit langer Zeit – die Verteilung, jedem sein
+                        <said id="3" mode="direct" content="speech" level="1">»Gelegtes«</said> in der Schüssel darreichend, die von jeher für ihn bestimmt ist;
+                        dem mit einer gemalten Blume eine – <said id="22" mode="reported" content="writing" level="1">dem anderen mit einem Spruch darauf</said> –
+                        diesem eine blaue oder rote – dem anderen wieder eine weiße.
+                  
+                  
+                     <said id="4" mode="direct" content="speech" level="1">»Vater!«</said> 
+                  
+                  
+                     Die Reiserin reicht ihrem alten Schwiegervater als erstem sein
+                        Gelegtes.
+                     <said id="5" mode="direct" content="speech" level="1">»Reiser!«</said> 
+                  
+                  
+                     Stumpfsinnig betrachtet der Bauer seine Ostergabe.
+                  
+                  
+                     <said id="6" mode="direct" content="speech" level="1">»Michl!«</said> 
+                  
+                  
+                     <seg id="7" type="frame" pos="start">Der <seg id="7" type="speaker">Oberknecht</seg> <seg id="7" type="intExpr">bedankt</seg> sich:</seg> <said id="7" mode="direct" content="speech" level="1">»Gelt's Good, Reiserin!«</said> 
+                  
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»Lisl!«</said> 
+                  
+                  
+                     <said id="9" mode="direct" content="speech" level="1">»Gelt's Good.«</said> 
+                  
+                  
+                     <said id="10" mode="direct" content="speech" level="1">»Nandl!«</said> 
+                  
+                  
+                     <said id="11" mode="reported" content="speech" level="1">Die Stalldirn sagt ihr Dankwort.</said>
+                  
+                  
+                     Und dann kommt der Ochsenbub daran – und danach das
+                        Gänsdirndl.
+                  
+                  
+                     Und dann hat die Reiserin noch drei Schüsseln vor sich stehen –
+                        drei bemalte – die von ihren drei Reiserbuben.
+                  
+                  
+                     Wie vordem die Perlen am Rosenkranz, <said id="12" mode="reported" content="speech" level="1">so fielen gleichmäßig alter
+                        Gewohnheit nach die Namen eines jeden im Haus.</said>
+                  
+                  
+                     
+                         <seg id="13" type="frame" pos="start">Und jetzt hebt die <seg id="13" type="speaker">Reiserin</seg> eine von den
+                        bemalten Schüsseln – und <seg id="13" type="intExpr">sagt</seg> mit singender Stimme, <said id="14" mode="reported" content="speech" level="1">so wie sie es tat Jahr
+                        um Jahr, <said id="15" mode="reported" content="thought" level="2">so lang sie denken konnte als das Eheweib des Reiserbauern</said></said> – <seg id="13" type="intExpr">sagt</seg>:</seg>
+                        <said id="13" mode="direct" content="speech" level="1">»Girgei ...«</said> 
+                  
+                  
+                     Erschrecken malt sich auf allen Gesichtern.
+                  
+                  
+                     <said id="16" mode="direct" content="speech" level="1">»Hansei ... Sepp ...«</said> 
+                  
+                  
+                     Die Reiserin stellt mit leerem Blick die Schüssel ihres Girg
+                        zurück auf den Tisch – blickt unsicher über die versammelten Leute hin – und
+                        sieht die drei Franzosen bei der Tür stehen.
+                  
+                  
+                     <said id="17" mode="direct" content="speech" level="1">»Ja so«</said><seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">murmelt</seg> <seg id="17" type="speaker">sie</seg></seg>; <said id="18" mode="direct" content="speech" level="1">»es is ja Kriag.«</said> – 
+                  
+                  
+                     Da am Tisch stehen die Eier der Reiserbuben.
+                  
+                  
+                     Drei Franzosen.
+                     – Drei Schüsseln.
+                     – Die Hand zuckt ihr ... <seg id="19" type="frame" pos="start">Dann greift <seg id="19" type="speaker">sie</seg> nach dem Körblein mit
+                        den siebenundzwanzig Eiern von heut, gibt's den Gefangenen mit weggewandten
+                        Augen hin und <seg id="19" type="intExpr">sagt</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Da ... teilt's es enk.«</said> Und nimmt danach die Schüsseln
+                        ihrer gefallenen Söhne in die Schürze und eilt hinaus, hinunter in die Hütte
+                        der Lehrschneiderwabn.
+                  
+                  
+                     Die Wabn ist ein einschichtigs Häuslweib, das sich mit einer
+                        Stuben voller kleiner Kinderwar, einer alten Geiß und etlichen Kinihasen
+                        rechtschaffen durchschlägt durch dies armselige Erdenleben, indes ihr
+                        Lehrschneider draußen im Lothringischen einem Häuflein gefallener
+                        Landsturmleute treue Kameradschaft hält – irgendwo in einer fremden
+                        Grabstatt drin.
+                  
+                  
+                     Grad hockt sie hinten in der Schupfe auf einem niedern Schemel –
+                        die Lehrschneiderwabn – und melkt ihre Armeleutkuh; drin in der Stube balgen
+                        sich die Buben mit den Maidln, eins schreit in der Wiegen und ein anderes
+                        auf dem Boden, – da kommt die Reiserin zur Tür herein.
+                  
+                  
+                     <said id="20" mode="reported" content="speech" level="1" nonfact="yes">Wortlos</said>, <said id="21" mode="reported" content="thought" level="1" nonfact="yes">zaudernd schier</said> steht sie still; ihr
+                        leerer Blick irrt scheu und fremd über das kleine Häuflein Elend hin, – dann
+                        tritt sie rasch an den Tisch und leert ihr Fürtuch aus.
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

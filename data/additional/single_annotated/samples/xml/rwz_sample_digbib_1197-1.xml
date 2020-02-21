@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die schwarze Spinne</title>
+             <author>Gotthelf, Jeremias</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Gotthelf,_Jeremias_Die_schwarze_Spinne.tg63_1.xml</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Die schwarze Spinne</f>
+         <f name="author">Gotthelf, Jeremias</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dem war es nicht nur gleichgültig, wie die Buchen nach Bärhegen kamen, im Gegenteil, wenn nur die Buchen heraufkamen, so sah er gerne, daß die Bauren dabei geschont wurden. Er hatte wohl 
+gesehen, daß der Spott der Ritter ihn zu einer Unbesonnenheit verleitet hatte, denn wenn die Bauren zugrunde gingen, die Felder unbestellt blieben, so hatte die Herrschaft den größten Schaden dabei; allein, <said id="1" mode="reported" content="speech" level="1">was der von Stoffeln einmal gesagt hatte</said>, dabei blieb es. Die Erleichterung, welche die Bauren sich verschafft, war ihm daher ganz recht und ganz gleichgültig, ob sie dafür ihre Seelen verschrieben; denn was gingen ihn der Bauren Seelen an, wenn einmal der Tod ihre Leiber genommen! Er lachte jetzt über seine Ritter und schützte die Bauren vor ihrem Mutwillen. 
+                  Diese wollten den Handel doch ergründen und sandten Knappen zur Wache; die fand man des Morgens halb tot in Gräben, wohin eine unsichtbare Hand sie geschleudert. Da zogen zwei Ritter hin auf Bärhegen. Es waren kühne Degen, und wo ein Wagnis zu bestehen gewesen im Heidenland, da hatten sie es bestanden. Am Morgen fand man sie erstarrt am Boden, und <said id="3" mode="reported" content="speech" level="1">als sie der Rede wieder mächtig waren</said>, <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">sagten</seg> <seg id="2" type="speaker">sie</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">ein roter Ritter mit feuriger Lanze hätte sie niedergerannt.</said> Hie und da konnte eine neugierige Weibsseele sich nicht enthalten, wenn es Mitternacht war, durch eine Spalte oder Luke nach dem Wege im Tale zu sehen. Alsbald wehete ein giftiger Wind sie an; das Gesicht schwoll auf, wochenlang konnte man weder Nase noch Augen sehen, den Mund mit Mühe finden. Da verging den Leuten das Spähen, und kein Auge sah mehr zu Tale, wenn Mitternacht über demselben lag. 
+                  Einmal aber kam plötzlich einen Mann das Sterben an; er bedurfte des letzten Trostes, aber niemand durfte den Priester holen, denn Mitternacht war nahe, und der Weg führte am Kilchstalden vorbei. Da lief ein unschuldig Bübchen, Gott und Menschen lieb, aus Angst um den Vater ungeheißen Sumiswald zu. Als er gegen den Kilchstalden kam, sah er von dort die Buchen auffahren vom Boden, jede von zwei 
+feurigen Eichhörnchen gezogen, und nebenbei sah er reiten auf schwarzem Bocke einen grünen Mann; eine feurige Geisel hatte er in der Hand, einen feurigen Bart im Gesichte, und auf dem Hute schwankte glutrot eine Feder. So sei der Zug gefahren hoch durch die Lüfte über alle Egg weg und schnell wie ein Augenblick. Solches sah der Knabe, und niemand tat ihm was. 
+                  Noch waren nicht drei Wochen vergangen, so stunden neunzig Buchen auf Bärhegen, machten einen schönen Schattengang, denn alle schlugen üppig aus, keine einzige verdorrte. Aber die Ritter und auch der von Stoffeln ergingen sich nicht oft darin, es wehte sie allemal ein heimlich Grauen an; <said id="4" mode="reported" content="thought" level="1" border="yes">sie hätten von der Sache lieber nichts mehr gewußt</said>, aber Keiner machte ihr ein Ende, <seg id="7" type="frame" pos="start">es <seg id="7" type="intExpr">tröstete</seg> ein <seg id="7" type="speaker">jeder</seg> <seg id="7" type="intExpr">sich</seg>:</seg> <said id="7" mode="indirect" content="thought" level="1">Fehle es, so trage der Andere die Schuld.</said> 
+                  Den Bauren aber wohlete es mit jeder Buche, welche oben war, <seg id="8" type="frame" pos="start">denn mit jeder Buche wuchs die <seg id="8" type="intExpr">Hoffnung</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">dem Herrn zu genügen, den Grünen zu betrügen</said>; er hatte ja kein Unterpfand, und war die hundertste einmal oben, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">was frugen sie dann dem Grünen nach!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

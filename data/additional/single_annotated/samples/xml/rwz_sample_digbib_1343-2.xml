@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Spiegel, das Kätzchen. Ein Märchen</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Spiegel__das_Kaetzchen__Ein_Maerchen.tg806_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Spiegel, das Kätzchen. Ein Märchen</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Warum 
+fischest du nicht mehr in dem See? Warum pflegst du dich nicht? Warum schläfst du nicht auf dem Kissen? Warum strapazierst du dich und wirst mir nicht fett?«</said> – <said id="3" mode="direct" content="speech" level="1">»Ei, <seg id="1" type="speaker">Herr Pineiß</seg>!«</said> <seg id="3" type="frame" pos="mid"><seg id="3" type="intExpr">sagte</seg> <seg id="3" type="speaker">Spiegel</seg>,</seg> <said id="3" mode="direct" content="speech" level="1">»weil es mir wohler ist auf diese Weise! Soll ich meine kurze Frist nicht auf die Art verbringen, die mir am angenehmsten ist?«</said> – <said id="4" mode="direct" content="speech" level="1">»Wie!«</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">rief</seg> <seg id="4" type="speaker">Pineiß</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»du sollst so leben, daß du dick und rund wirst, und nicht dich abjagen! <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ich</seg> <seg id="5" type="intExpr">merke</seg> aber wohl,</seg> <said id="5" mode="indirect" content="thought" level="2" border="yes">wo du hinauswillst!</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Du</seg> <seg id="6" type="intExpr">denkst</seg></seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes">mich zu äffen und hinzuhalten, daß ich dich in Ewigkeit in diesem Mittelzustande herumlaufen lasse?</said> Mitnichten soll dir das gelingen! Es ist deine Pflicht, zu essen und zu trinken und dich zu pflegen, auf daß du dich werdest und Schmer bekommst! Auf der Stelle entsage daher dieser hinterlistigen und kontraktwidrigen Mäßigkeit, <said id="7" mode="reported" content="speech" level="2" nonfact="yes">oder <seg id="7" type="speaker">ich</seg> werde ein Wörtlein mit dir <seg id="7" type="intExpr">sprechen</seg>!</said>«</said> 
+                  <said id="8" mode="reported" content="speech" level="1"><seg id="8 9" type="speaker">Spiegel</seg> unterbrach sein behagliches <seg id="8" type="intExpr">Spinnen</seg></said>, das er angefangen, um seine Fassung zu behaupten, <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">sagte</seg></seg> <said id="9" mode="direct" content="speech" level="1">»<seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">weiß</seg> kein Sterbenswörtchen davon,</seg> <said id="10" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß <seg id="11" type="frame" pos="start">in dem <seg id="11" type="speaker">Kontrakt</seg> <seg id="11" type="intExpr">steht</seg>,</seg> <said id="11" mode="indirect" content="writing" level="3">ich solle der Mäßigkeit und einem gesunden Lebenswandel entsagen!</said></said> <seg id="12" type="frame" pos="start">Wenn der <seg id="12" type="speaker">Herr Stadthexenmeister</seg> <seg id="12" type="intExpr">darauf gerechnet</seg> hat,</seg> <said id="12" mode="indirect" content="thought" level="2" nonfact="yes">daß ich ein fauler Schlemmer sei</said>, so ist das nicht meine Schuld! Ihr tut tausend rechtliche Dinge des Tages, so lasset dieses auch noch hinzukommen und uns beide hübsch in der Ordnung bleiben; <seg id="13" type="frame" pos="start">denn <seg id="13" type="speaker">Ihr</seg> <seg id="13" type="intExpr">wißt</seg> ja wohl,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß Euch mein Schmer nur nützlich ist, wenn er auf rechtliche Weise erwachsen!</said>«</said> – <said id="15" mode="direct" content="speech" level="1">»Ei du Schwätzer!«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">rief</seg> <seg id="15" type="speaker">Pineiß</seg> erbost,</seg> <said id="15" mode="direct" content="speech" level="1">»willst du mich belehren? Zeig her, wie weit bist du denn eigentlich gediehen, du Mußiggänger? Vielleicht kann man dich doch bald abtun!«</said> Er griff dem Kätzchen an den Bauch; allein dieses fühlte sich dadurch unangenehm gekitzelt und hieb dem Hexenmeister einen scharfen Kratz über die Hand. Diesen betrachtete Pineiß aufmerksam, <seg id="16" type="frame" pos="start">dann <seg id="16" type="intExpr">sprach</seg> <seg id="16" type="speaker">er</seg></seg> <said id="16" mode="direct" content="speech" level="1">»Stehen wir so miteinander, du Bestie? Wohlan, <said id="17" mode="reported" content="speech" level="2">so <seg id="17" type="intExpr">erkläre</seg> <seg id="17" type="speaker">ich</seg> dich hiemit feierlich, kraft des Vertrages, für fett genug!</said> Ich begnüge mich mit dem Ergebnis und werde mich desselben zu versichern wissen! In fünf Tagen ist der Mond 
+voll, und bis dahin magst du dich noch deines Lebens erfreuen, <said id="18" mode="reported" content="writing" level="2">wie es <seg id="18" type="intExpr">geschrieben</seg> steht</said>, und nicht eine Minute länger!«</said> Damit kehrte <seg id="20" type="speaker">er</seg> ihm den Rücken und überließ <said id="19" mode="reported" content="thought" level="1">ihn <seg id="19" type="speaker">seinen</seg> <seg id="19" type="intExpr">Gedanken</seg>.</said> 
+                  Diese waren jetzt sehr bedenklich und düster. <said id="20" mode="freeIndirect" content="thought" level="1">So war denn die Stunde doch nahe, wo der gute Spiegel seine Haut lassen sollte? Und war mit aller Klugheit gar nichts mehr zu machen?</said> Seufzend stieg er auf das hohe Dach, dessen Firste dunkel in den schönen Herbstabendhimmel emporragten. Da ging der Mond über der Stadt auf und warf seinen Schein auf die schwarzen bemoosten Hohlziegel des alten Daches, ein lieblicher Gesang tönte in Spiegels Ohren, und eine schneeweiße Kätzin wandelte glänzend über einen benachbarten First weg. <said id="21" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Sogleich <seg id="21" type="intExpr">vergaß</seg> <seg id="21" type="speaker">Spiegel</seg> die Todesaussichten, in welchen er lebte</said>, und erwiderte mit seinem schönsten Katerliede den Lobgesang der Schönen. Er eilte ihr entgegen und war bald im hitzigen Gefecht mit drei fremden Katern begriffen, die er mutig und wild in die Flucht schlug. Dann machte <seg id="22" type="speaker">er</seg> der Dame feurig und ergeben den Hof und brachte Tag und Nacht bei ihr zu, <said id="22" mode="reported" content="thought" level="1">ohne an den Pineiß zu <seg id="22" type="intExpr">denken</seg></said> oder im Hause sich sehen zu lassen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

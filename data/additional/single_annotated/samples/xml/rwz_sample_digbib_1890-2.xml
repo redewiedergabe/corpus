@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Amtmanns Magd</title>
+             <author>Marlitt, Eugenie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Marlitt,_Eugenie_Amtmanns_Magd.tg123_1.xml</f>
+         <f name="year">1881</f>
+         <f name="decade">1880</f>
+         <f name="title">Amtmanns Magd</f>
+         <f name="author">Marlitt, Eugenie</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Aber mir geht das Rebellieren im alten Hirschwinkel doch ans Herz,«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">setzte</seg> <seg id="1 2" type="speaker">er</seg> <seg id="1" type="intExpr">hinzu</seg>.</seg> <said id="2" mode="direct" content="speech" level="1">»Das Vorwerkshaus steht auch nicht fester als die Schneidemühle – der beste Vorwand, kurzen Prozeß zu machen.«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Mag er!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sagte</seg> das <seg id="3 4 8" type="speaker">Mädchen</seg> rauh</seg>, während sie die Tuchzipfel mit hastigen Händen unter dem Kinn zusammenknüpfte. <said id="4" mode="direct" content="speech" level="1">»Mag er uns auf den Bettel schicken! Mag's sein – immerhin! Ich zermartere mir des Nachts nur immer den Kopf, wie wir die Kranke fortbringen wollen –«</said> Die Stimme versagte ihr. 
+                     <said id="5" mode="direct" content="speech" level="1">»Aber das ist doch das Wenigste,«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">meinte</seg> <seg id="5 6" type="speaker">er</seg> mit seinem treuherzigen Lächeln, in dem bärtigen Gesicht.</seg> <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="thought" level="2" nonfact="yes"><seg id="7" type="intExpr">Halten</seg> <seg id="7" type="speaker">Sie</seg> mich denn <seg id="7" type="intExpr">für</seg> so 'nen Schneider</said>, daß ich nicht einmal das abgezehrte, schwache Weibchen auf dem Arme forttragen könnte? – Stundenweit will ich sie tragen, die gute alte Dame, und sie soll weder Ruck noch Zuck verspüren in ihren schmerzhaften Gliedern. Und so weit ist's ja auch noch lange nicht bis zu dem Hause da. – Die schöne Eckstube auf der Südseite ist groß und hell – da kann ihr Bett stehen, und sie sieht von zwei Seiten ins Grüne, das wird ihr gut thun. Und der alte Herr hat's hier am Fenster auch viel hübscher als auf dem Vorwerk; es fährt und geht doch dann und wann ein bißchen Menschentreiben vorbei – auf dem Vorwerk sieht er nur in den öden Hof, wo die paar übriggebliebenen Hühner krakeln und scharren.«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Sie sind treu wie Gold, Fritz; aber –«</said> 
+                     <said id="10" mode="direct" content="speech" level="1">»Und das Giebelstübchen da oben –«</said> <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">fuhr</seg> <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">fort</seg>, ohne ihren Einwurf zu beachten, und zeigte mit dem Daumen nach dem Fenster, vor welchem die Vogelbauer hingen –</seg> <said id="10" mode="direct" content="speech" level="1">»das ist das schönste im ganzen Hause; ich lasse einen kleinen Ofen hineinsetzen, und da kann eine junge Dame im Sommer und Winter malen und in ihrer freien Zeit hübsches Geld verdienen. Also mit dem Bettel ist's noch nichts, noch lange nicht ... Nur immer den Kopf oben behalten – das ist die Hauptsache!«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Ja, das werde ich!«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">sagte</seg> <seg id="11 12" type="speaker">sie</seg> fest und nicht ohne einen gewissen Trotz.</seg> <said id="12" mode="direct" content="speech" level="1">»Es soll dem tückischen Schicksal schwer werden, mich niederzuwerfen. <seg id="13" type="frame" pos="start">Noch <seg id="13" type="intExpr">weiß</seg> <seg id="13" type="speaker">ich</seg> nicht,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was Seelenmüdigkeit ist</said>, und dazu fühle ich die Kraft der Jugend in meinen Händen ... Und ansehen soll mir's gewiß keiner, wenn das bißchen Selbstgefühl einmal nicht so parieren will, wie es soll und muß! – Im übrigen sind Sie ja da, Fritz, meine treue Stütze!«</said> 
+                     <seg id="15" type="speaker">Sie</seg> griff nach dem Handkorb. <said id="15" mode="direct" content="speech" level="1">»Nun muß ich heim – da wartet noch ein tüchtiges Stück Arbeit auf mich. Und nebenbei muß ich noch plätten – die arme Kranke soll und muß morgen frischgewaschene Bettgardinen haben; aber ich bin mit meinem Tannenzapfenvorrat zu Ende«</said> – ein Lächeln huschte wie Sonnenlicht über ihr Gesicht – <said id="15" mode="direct" content="speech" level="1">»und da habe ich den unverschämt großen Korb da mitgebracht.«</said> 
+                     Er lachte, nahm den Korb und zugleich das Brot vom Sims und beeilte sich, das Haus aufzuschließen. Gleich darauf kam er beladen zurück. <said id="16" mode="indirect" content="speech" level="1">Durch den Wald wenigstens werde er ihr die Last tragen,</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16" type="speaker">er</seg> abwehrend</seg>, als sie danach griff; und nun schritten sie einträchtig nebeneinander, zwei prächtige Gestalten, die zusammenpaßten. Und der Hund trabte auf der anderen Seite neben dem Mädchen, als sei sie das Eigentum seines Herrn, das sie beide eifersüchtig und schützend in ihre Mitte nehmen müßten.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

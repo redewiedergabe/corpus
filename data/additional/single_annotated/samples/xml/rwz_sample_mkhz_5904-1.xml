@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social04_1873_3.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1">-- <said id="2" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Habt Jhr von den Landstreichern gehört?</said></said>
+                         
+            <said id="3" mode="direct" content="speech" level="1">-- <said id="4" mode="reported" content="speech" level="2" border="yes">Ja, mehrmals.</said> Aber wir freien Bauern in Dithmarsen
+                        kommen mit ihnen nicht zusammen. Wir kennen hier weder
+                        Ritter noch Bischöfe. Nach der alten Sitte wählt jeder Stamm
+                        einen Häuptling und diese Häuptlinge bilden einen obersten Rath,
+                        welcher Dithmarsen regiert. So war es in alten Zeiten; so ist
+                        es noch heute, und so wird es hoffentlich immer sein, trotz der
+                        Regierung der verfluchten Dänenritter in Angelsachsenland, denn
+                        unser Dithmarsen wird von diesen Schurken erst dann erobert
+                        sein, wenn der letzte Krieger nicht mehr lebt.. <seg id="5" type="frame" pos="start">Jetzt <seg id="5" type="intExpr">sage</seg>, <seg id="5" type="speaker">Freund</seg>,</seg>
+                        <said id="5" mode="indirect" content="speech" level="2" nonfact="yes">die Landstreicher stehen jetzt gegen die Ritter auf?</said> Desto besser,
+                        so werden sie sich ihrer Eroberung wenigstens nicht in Frieden
+                        erfreuen. Die Landstreicher sind wohl wackere Helden?
+</said>                         
+            <said id="6" mode="direct" content="speech" level="1">-- Sie sind es, guter, alter Vater, sie sind es, <said id="7" mode="reported" content="thought" level="2" nonfact="yes">glaub mir</said>,
+                        ich habe sie selbst gesehen..</said>
+            <said id="8" mode="direct" content="speech" level="1">-- Die Landstreicher sind also zahlreiche, entschlossene bewaffnete Schaaren?</said>
+                         
+            <said id="9" mode="direct" content="speech" level="1">-- Erhitze Dich nicht so, Gerd!</said>
+                         
+            <said id="10" mode="direct" content="speech" level="1">-- <said id="11" mode="reported" content="thought" level="2">Das böse Kind denkt an nichts, als an Schlacht, Empörung und Abenteuer</said></said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> die <seg id="10" type="speaker">Mutter</seg></seg>, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">die</seg> dann dem alten
+                        Jens <seg id="12" type="intExpr">zuflüsterte</seg>:</seg> <said id="12" mode="direct" content="speech" level="1"><said id="13" mode="reported" content="speech" level="2">warum spricht der Fremde vor meinen Kindern
+                        von solchen Dingen?</said> <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Jch</seg> <seg id="14" type="intExpr">behaupte</seg> noch immer,</seg> <said id="14" mode="indirect" content="speech" level="2">ein böses Geschick
+                        hat ihn in unser Haus geführt.</said></said>
+            Und die ängstliche Mutter seufzte, <seg id="15" type="frame" pos="start">während der <seg id="15" type="speaker">Gast</seg> dem
+                        jungen Gerd, der an den Lippen des Fremden hing, <seg id="15" type="intExpr">antwortete</seg>:</seg>
+                         
+            <said id="15" mode="direct" content="speech" level="1">-- Die Landstreicher, mein Sohn, sind schrecklich für die
+                        Unterdrücker und theuer dem Volke.</said>
+            <said id="16" mode="direct" content="speech" level="1">-- Das Volk liebt sie?</said>
+                         
+            <said id="17" mode="direct" content="speech" level="1">-- Ob es sie liebt! Es singt ihr Lob in seinen Liedern.</said>
+            <said id="18" mode="direct" content="speech" level="1">-- Welch' großer Ruhm für sie! Hörst Du es, Großvater?</said>
+                         
+            <said id="19" mode="direct" content="speech" level="1">-- Jch höre es wohl und Deine Mutter auch. Sieh, wie
+                        Du sie betrübst.</said>
+            Das böse Kind aber, <said id="20" mode="reported" content="speech" level="1" border="yes">wie die Mutter ihren Gerd nannte</said>,
+                        <said id="21" mode="reported" content="thought" level="1">der in Gedanken schon bei den Landstreichern war</said>, <seg id="22" type="frame" pos="start"><seg id="22" type="intExpr">fragte</seg> mit
+                        blitzenden neugierigen Augen weiter:</seg>
+                         
+            <said id="22" mode="direct" content="speech" level="1">-- Hast Du die Landstreicher gesehen? Waren sie zahlreich?
+                        Hatten sie schon die Ritter und die Bischöfe angegriffen? Jst es
+                        schon lange her, daß Du sie gesehen?</said>
+                         
+            <said id="23" mode="direct" content="speech" level="1">-- Vor drei Wochen reiste ich im Norden der Eider. Eines
+                        Tages hatte ich mich in einem Walde verirrt, und die Nacht brach
+                        herein. Nachdem ich lange, lange gegangen und tief in den
+                        Wald hineingekommen war, bemerkte ich in der Ferne einen
+                        hellen Lichtschein; ich eilte darauf zu und fand da etwa hundert
+                        lustige Burschen, die mit ihren Mädchen -- denn sie haben oft
+                        entschlossene Frauen bei sich -- um das Feuer saßen. Jn den
+                        andern Nächten hatten sie wie gewöhnlich einen Parteigängerkrieg
+                        gegen die dänischen Herren, die Unterdrücker, geführt, die Burgen
+                        derselben angegriffen, wüthend gekämpft ohne Schonung, die
+                        Kirchen und Bischofssitze geplündert, manche der Priester sogar
+                        gehängt und die Steuereinnehmer erschlagen, aber freigebig
+                        ihren Raub mit den armen Leuten getheilt und die Leibeigenen
+                        befreit, denen sie begegneten. Bei Hengist und Horsa, es ist ein
+                        lustiges Leben!</said>
+                         
+            <said id="24" mode="direct" content="speech" level="1">-- Was muß man thun, um unter die Braven aufgenommen
+                        zu werden?</said>
+                         
+            <said id="25" mode="direct" content="speech" level="1">-- Vor Allem muß man seine Haut opfern, stark, gewandt
+                        und muthig sein, die Armen lieben, <said id="26" mode="reported" content="speech" level="2">den Rittern und den Bischöfen
+                        Haß schwören</said>, am Tage lustig sein und die Nacht kämpfen.</said>
+            <said id="27" mode="direct" content="speech" level="1">-- Wo halten sie sich auf?</said>
+                         
+            <said id="28" mode="direct" content="speech" level="1">-- <seg id="29" type="frame" pos="start">Eben so gut kannst <seg id="29" type="speaker">Du</seg> die Vögel der Luft <seg id="29" type="intExpr">fragen</seg>,</seg> <said id="29" mode="indirect" content="speech" level="2" nonfact="yes">wo
+                        sie sitzen</said>, <seg id="30" type="frame" pos="start">oder die Thiere des Waldes,</seg> <said id="30" mode="indirect" content="speech" level="2" nonfact="yes">wo sie liegen.
+
+</said></said>
+</p>
+      </body>
+   </text>
+</TEI>

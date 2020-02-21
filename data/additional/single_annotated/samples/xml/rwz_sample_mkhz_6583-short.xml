@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener260_1850_9.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+      </fs>
+      <body>
+         <p>         
+         
+            §. 17. Betreffend die im Herzogthum Holstein beabsichtigte Ausprägung von Scheidemünze.
+                        
+            
+               Dänemark wegen Holstein und Lauenburg. Der
+                        Gesandte ist beauftragt, Nachstehendes zur geneigten
+                        Kenntnißnahme hoher Bundesversammlung zu bringen.
+            <seg id="1" type="frame" pos="start">Glaubwürdigen <seg id="1" type="speaker">Nachrichten</seg> <seg id="1" type="intExpr">zu Folge</seg></seg> <said id="1" mode="indirect" content="speech writing" level="1">beabsichtigt die
+                        Statthalterschaft in Kiel baldthunlichst silberne und
+                        kupferne Scheidemünze ( Vierschillingsstücke, Sechslinge
+                        und Dreilinge ) zu einem sehr bedeutenden Betrage ausmünzen zu lassen.</said> Es bedarf keiner näheren Ausführung,
+                        daß in Deutschen Bundesstaaten das Münzregal lediglich dem Souverain zusteht. Schon aus diesem Grunde
+                        würde Se. Majestät der König von Dänemark, Herzog von Holstein berechtigt sein, sich gegen die Ausübung
+                        eines eben so ausschließlichen als wichtigen Rechts durch
+                        eine unter außerordentlichen Umständen eingesetzte von
+                        Allerhöchstdenselben nicht anerkannte Behörde zu verwahren. Es kommt hierzu aber noch die Rücksicht auf
+                        die mehr als wahrscheinliche Beeinträchtigung aller Derer,
+                        welche eine solche Münze anzunehmen verleitet oder genöthigt werden könnten, also zunächst der Einwohner
+                        von Holstein und der benachbarten Bundesstaaten. Wie
+                        bekannt richtet sich die Scheidemünze nicht strenge nach
+                        dem gesetzlichen Münzfuß, indem jede Regierung sich
+                        näher zu bestimmen vorbehält, mit welchem Belauf die
+                        aus der feinen Mark ausgeprägte Scheidemünze den Münzfuß übersteigen dürfe. Se. Majestät der König von Dänemark, Herzog von Holstein, müssen daher unter den gegenwärtigen Umständen jede Verantwortlichkeit für dem nächstige Einlösung einer Münze, bei deren Ausprägung
+                        weder Garantien für den Feingehalt, noch für die Gränze
+                        vorliegen, innerhalb deren die Ausprägung sich halten
+                        werde, aufs Entschiedenste ablehnen. Um dabei Nachtheilen vorzubeugen, welche für die jetzigen und späteren
+                        Verkehrsverhältnisse in Norddeutschland aus einer Ueberschwemmung des Marktes mit einer illegalen, nach Wiederherstellung der legitimen Autoritäten zu widerrufenden
+                        Scheidemünze erwachsen würden, haben Se. Majestät
+                        der König von Dänemark, Herzog von Holstein und
+                        Lauenburg durch Jhren Gesandten in Hamburg dem Senat dieser freien Stadt, so wie den benachbarten Bundesstaaten zu erkennen geben lassen, daß Ullerhöchstdieselben die gedachte Scheidemünze nie als eine gesetzlich gangbare anerkennen und derselben so wenig wie irgend welchen der von der Statthalterschaft ausgestellten Repräsentativen ( z. B. Cassenscheine ) eine Geltung behufs
+                        gegen die Staatsfinanzen zu begründender Forderungen
+                        einräumen werden.
+            Die Bundesversammlung nahm die vorstehende Mittheilung zur Kenntniß.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

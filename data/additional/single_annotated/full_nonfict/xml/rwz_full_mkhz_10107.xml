@@ -1,0 +1,900 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Versammlung der deutschen Vertrauensmänner in Brünn</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1887_01_10.txt_1.xml</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Versammlung der deutschen Vertrauensmänner in Brünn</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">0</f>
+         <f name="narrative">no</f>
+         <f name="textype">Undefined</f>
+         <f name="source">mkhz.maehrisches</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Die Versammlung der deutschen
+                        Vertrauensmänner in Brünn.
+                        
+               
+               
+                  Olmütz,10. Jänner.
+                        date
+               ∆ Eine so stattliche Anzahl hervorragender
+                        Persönlichkeiten der deutschen Partei hatte Brünn
+                        wol schon seit Jahren nicht an einem Puncte
+                        vereinigt gesehen, wie jene, welche gestern Vormittags im Sitzungssaale des Brünner GemeindeAusschusses erschienen war,<said id="1" mode="reported" content="speech" level="1"> um <seg id="1" type="speaker">ihre</seg> <seg id="1" type="intExpr">Meinung
+                        abzugeben</seg></said>, über die Mittel und Wege, welche die
+                        deutsche <seg id="2" type="speaker">Partei</seg> in Mähren wählen muß, um die
+                        herandrängende slavische Hochfluth zu bekämpfen,
+                        den Besitzstand der Deutschen in Mähten zu
+                        wahren <seg id="2" type="frame" pos="start">und es in einer Resolution <seg id="2" type="intExpr">auszusprechen</seg>,</seg>
+                        <said id="2" mode="indirect" content="speech" level="1">daß es als eine nationale und staatliche Pflicht der
+                        Deutschen in Mähren erscheine in ungebrochener
+                        Einigkeit und in Verbindung mit allen verfassungstreuen Vertheidigern des österreichischen
+                        Einheitsstaates zum Schutze und zur Wiederherstellung der von dessen Existenzbedingungen unzertrennlichen berechtigten Stellung der Deutschen in
+                        Oesterreich auszuhatren.</said>
+               Die Versammlung nahm nicht nur diese
+                        Resolution sowie mehrere andere Resolutionen,
+                        darunter auch eine solche, welche sich auf den
+                        Exodus der Deutschen Abgeordneten aus dem
+                        böhmischen Landtage bezieht, einhellig an, sondern
+                        sievotirte auch unter allgemeinem
+                        Jubel unseren bewährten Führern
+                        einstimmig das vollste Vertrauen.
+                        
+                
+               <said id="3" mode="reported" content="speech" level="1" nonfact="yes">Die Abgeordneten <seg id="3" type="speaker">Dr. Sturm</seg>, <seg id="3" type="speaker">Dr. Promber</seg>
+                        und <seg id="3" type="speaker">Dr. Weeber</seg> haben alle Ursache auf dieses
+                        Botum mit gerechtem Stolze <seg id="3" type="intExpr">hinzuweisen</seg></said>, bewies
+                        es ja doch, daß das deutsche Volk in Mähren
+                        trotz alledem und alledem, <said id="4" mode="reported" content="speech" level="1">was in den letzten
+                        Wochen <seg id="4" type="intExpr">verlautete</seg></said>, hinter seinen Führern, die es
+                        in Jahrelangem heißen Kampfe zu so manchem
+                        glänzendeu Sieg geführt, in voller Einigkeit stehe
+                        und <said id="5" mode="reported" content="thought" level="1">daß es keine Aenderung in der Führung der
+                        Partei <seg id="5" type="intExpr">wünsche</seg></said>, sondern auch fernerhin sich um
+                        die Führer schaaren und treu zu denselben stehen
+                        wolle. Als Sprecher der Deutsch-Nationalen in
+                        der gestrigen Vertrauensmänner-Versammlung
+                        fungirte Abg. Wenzliczke. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Er</seg> <seg id="6" type="intExpr">betonte</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß von
+                        deutsch-nationaler Seite bei keiner der in Nordmähren abgehaltenen Versammlungen Bestrebungen
+                        zu Tage traten, um die Einigkeit der Deutschen
+                        in Mähren zu stören und daß dies auch in Zukunft nicht der Fall sein werde. </said>Abg.<seg id="8" type="frame" pos="start"><seg id="8" type="speaker"> Dr. Sturm</seg>
+                        war nach <said id="7" mode="reported" content="speech" level="1">dieser frei und offen abgegebenen <seg id="7" type="intExpr">Erklärung</seg></said> auch in der Lage am Schlusse der Versammlung <seg id="8" type="intExpr">constatiren</seg> zu können,</seg><said id="8" mode="indirect" content="speech" level="1"> daß dieselbe ein
+                        Bild ungetrübter Einigkeit geboten habe.
+ </said>              So möge denn das deutsche Volk in Mähren nun
+                        wieder rüstig fortarbeiten an seiner nationalen Entwicklung und Festigung und die Einigkeitaller
+                        Deutschenin unserem Lande als oberstes Prinzip hochhalten, mögen dieselben der schärferen oder
+                        linderen Tonart angehören, die Führer aber
+                        mögen neugekräftigt durch das ihnen ertheilte, so
+                        überaus glänzende Vertrauensvotum, ausharren
+                        in dem schweren Kampfe, den wir noch auszukämpfen haben.<seg id="9" type="frame" pos="start"> Der <seg id="9" type="intExpr">Mahnruf</seg> <seg id="9" type="speaker">Dr. Sturm</seg>’s:</seg>
+                       <said id="9" mode="direct" content="speech" level="1"> „Einer für Alle, Alle für Einen“</said> wird zuversichtlich in allen deutschen Herzen einen lebhaften
+                        Widerhall finden. Nur wenn wir Alle einig sind,
+                        kann uns der Sieg, der uns endlich doch werden
+                        muß, nicht entrissen werden.
+               
+               Ueber die Versammlung selbst, die einen
+                        überaus glänzenden Verlauf nahm, bringen wir
+                        nachstehenden Bericht
+                         
+            
+            
+               
+                  Die Vertrauensmännerversammlung
+                        der Deutschen in Brünn.
+                        
+               
+               
+                  Brünn,9. Jänner.
+                        date
+               
+                  (Original-Bericht des „Währ. Tagblattes.“)
+                        
+               Die Stadt Brünn hat im Lause der letzten
+                        Jahre so manche wichtige und hervorragende Versammlung in ihren Mauern beherbergt, aber diejenige, welche heute im Saale der Gemeindevertretung im altehrwürdigen alten Landhause
+                        abgehalten wurde, ist wohl die bedeutendste von
+                        allen, galt es doch die Manifestation der Einigkeit aller Deutschen in einem Kronlande in dem
+                        das stramme Zusammengehen aller Vetreter unseres
+                        Volkes wohl am allermeisten wohlthut. In dieser Erkenntniß hatten sich denn auch alle hervorragenden politischen <seg id="10" type="speaker">Persönlichkeiten</seg> der deutschmährischen Partei heute Vormittags hier eingefunden, <said id="10" mode="reported" content="speech" level="1">um ihre <seg id="10" type="intExpr">Meinung</seg> darüber <seg id="10" type="intExpr">abzugeben</seg>,
+                        welche Mittel und Wege einzuschlagen sind, um
+                        der slavischen Hochfluth wirksam entgegentreten zu
+                        können, um den Besitzstand der Deutschen in
+                        Mähren nach wie vor zu wahren</said>, <seg id="11" type="frame" pos="start">und offen <seg id="11" type="intExpr">auszusprechen</seg>, </seg><said id="11" mode="indirect" content="speech" level="1">daß es absolute Pflicht der Deutschen
+                        im Lande sei, in treuer Einigkeit mit allen verfassungstreuen Vertheidigern des österreichischen
+                        Einheitsstaates für die Wiedererlangung und Erhaltung der von den Existenzbedingungen des
+                        Staates unzertrennlichen berechtigten Stellung der
+                        Deutschen Oesterreichs einzustehen. </said>Schon die
+                        Sitzung des Central-Comités, welche vor der
+                        Vertrauensmännerversammlung stattfand, war
+                        zahlreich besucht und bot die Garantie für einen
+                        erhebenden und würdigen Verlauf der großen
+                        Versammlung. Zu dieser hatten sich unterdessen
+                        mehr als hundert Theilnehmer im Gemeindeausschußsitzungssaale eingefunden, u. zw. außer vielen
+                        mährischen Reichsraths- und den deutschen Landtagsabgeordneten, auch die Bürgermeister fast
+                        aller deutschen Städte Mährens, darunter jene von
+                        Olmütz, Iglau, Znaim, Neutitschein, Sternberg
+                        Schönberg ec. sowie die Obmänner zahlreicher
+                        deutsch-politischer Vereine und andere Vertrauensmänner aus Brünn und aus verschiedenen
+                        Theilen des Landes. Unter den Anwesenden
+                        Reichsrathsabgeordneten befand sich auch Ritter
+                        v.Chlumecky.Das Präsidium bildeten Dr.
+                        Sturm als Vorsitzender, Dr. Promber, Dr. Weeber als Stellvertreter, Dr. Popelak und Dr.
+                        Wenzliczke als Schriftführer. <said id="12" mode="reported" content="speech" level="1">Nachdem <seg id="12 13" type="speaker">Bürgermeister Winterholler</seg> die Versammlung namens
+                        der Stadt Brünn <seg id="12" type="intExpr">begrüßt</seg></said> <seg id="13" type="frame" pos="start">und <seg id="13" type="intExpr">zum Ausdrucke
+                        gebracht hatte</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">daß die Brünner Gemeinde die Berathungen mit lebhaften Sympathien begleite, da
+                        auch hier alle Deutschen, wie allezeit treu zusammenhalten werden</said>, <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">theilte</seg><seg id="14 15" type="speaker"> Dr. Sturm</seg> <seg id="14" type="intExpr">mit</seg>, </seg><said id="14" mode="indirect" content="speech" level="1">daß
+                        die Abg. Dr. Beer und Neußer ihre Abwesenheit durch Krankheit entschuldigt haben</said> <said id="15" mode="reported" content="speech" level="1">und
+                        widmete dem gestern verstorbenen Pohrlitzer Bürgermeister Vogl einen ehrenden <seg id="15" type="intExpr">Nachruf</seg>. </said><said id="18" mode="reported" content="speech" level="1">Die ausgezeichnete <seg id="18" type="intExpr">Rede</seg> <seg id="18" type="speaker">Dr.Sturms</seg>,welche nun folgte</said>
+                        und <said id="16" mode="reported" content="speech" level="1">in welcher <seg id="16" type="speaker">er</seg> auf die Nothwendigkeit der Einigkeit aller Deutschen <seg id="16" type="intExpr">hinwies</seg></said> <seg id="17" type="frame" pos="start">und <seg id="17" type="intExpr">betonte</seg> </seg><said id="17" mode="indirect" content="speech" level="1">daß er allezeit an der nationalen Bewegung anregend und fördernd lebhaften Antheil genommen hat</said>, wird mit
+                        stürmischem Beifall aufgenommen. Besonderen
+                        Beifall fand jene Stelle, <said id="19" mode="reported" content="speech" level="1">in welcher <seg id="19" type="speaker">Dr. Sturm</seg>
+                        auf die außerordentlichen Verdienste des Abg.
+                        Ritter v. Chlumecky, welcher von der Versammlung
+                        durch Erheben von den Sitzen und Beifallsklatschen
+                        stürmisch acclamirt wurde, um die Erhaltung der
+                        deutschen Majorität im mährischen Landtage <seg id="19" type="intExpr">hinwies</seg></said> und jene, <said id="20" mode="reported" content="speech" level="1">in welcher der <seg id="20" type="speaker">Redner</seg> die Verdieuste des Abg. Dr. Promber <seg id="20" type="intExpr">erwähnte</seg>.</said>
+               
+                  
+                     <seg id="21" type="frame" pos="start">Die <seg id="21" type="intExpr">Rede</seg> des Abg.<seg id="21" type="speaker"> Dr. Sturm</seg>.</seg>
+                        
+                  
+                 <said id="21" mode="direct" content="speech" level="1"> Geehrte Herren! Liebe Freunde und Parteigenossen!<said id="22" mode="reported" content="speech" level="2"> Indem <seg id="22" type="speaker">ich</seg> die große Freude habe, Sie,
+                        verehrte Parteigenossen, als Vertrauensmänner
+                        unseres deutschen Volkes in Mähren im Namen
+                        der Einberufer der heutigen Versammlung, welche
+                        zugleich das Präsidium unseres Central-Comité’s
+                        bilden, achtungsvollst und herzlichst zu <seg id="22" type="intExpr">begrüßen</seg></said>,
+                        <said id="23" mode="reported" content="speech" level="2">muß <seg id="23" type="speaker">ich</seg> Ihnen zunächst wärmstens <seg id="23" type="intExpr">danken</seg> für
+                        die Opferwilligkeit</said>, mit welcher sie unserem Rufe
+                        trotz der Ungunst der Jahreszeit aus allen Gegenden des Landes so zahlreich gefolgt sind.
+                  Der Zweck unserer Zusammenkunft ist keine
+                        Demonstration und noch viel weniger eine Provocation, <said id="24" mode="reported" content="speech" level="2">sondern die von Zeit zu Zeit wiederkehrende schlichte und ernste <seg id="24" type="intExpr">Besprechung</seg> <seg id="24" type="speaker">unserer</seg>
+                        Parteiverhältnisse</said> und namentlich <said id="25" mode="reported" content="speech" level="2">die <seg id="25" type="intExpr">Vorberathung</seg>
+                        der Frage, ob in nächster Zeit ein deutsch-mährischer Parteitag abzuhalten wäre.
+ </said>                 <said id="26" mode="reported" content="speech" level="2">Schon im vorigen Jahre hatte <seg id="26" type="speaker">ich</seg> die früher
+                        durch die allgemeinen Neuwahlen gehinderte Abhaltung eines Parteitages <seg id="26" type="intExpr">gewünscht</seg> und <seg id="26" type="intExpr">angeregt</seg></said>,
+                        doch war die kurze Sommerpause zwischen dem
+                        Schlusse und Wiederbeginne der gegenwärtigen
+                        Reichsrathssession nicht geeignet zur eingehenden
+                        Vorbereitung und Verständigung.
+                  <said id="27" mode="reported" content="speech" level="2">Und so wurde diese Frage erst wieder während des ersten Abschnittes der gegenwärtigen
+                        Landtagsverhandlungen unter den deutschen <seg id="27" type="speaker">Abgeordneten</seg> der Linken <seg id="27" type="intExpr">erörtert</seg></said> und zunächst die
+                        Einberufung einer Vertrauensmänner-Versammlung in Aussicht genommen.
+                  Es kann uns gewiß nur mit stolzer und
+                        dankbarer Genugthuung erfüllen, <said id="28" mode="reported" content="speech writing" level="2">daß wir auf
+                        <seg id="28" type="intExpr">Einladung</seg> des hochverdienten und hochverehrten
+                        Herrn <seg id="28" type="speaker">Bürgermeisters</seg> unserer Landesbauptstadt</said>,
+                       <said id="29" mode="reported" content="speech" level="2"> <seg id="29 30" type="speaker">welcher</seg> uns eben erst so freundlich und herzlich
+                        <seg id="29" type="intExpr">begrüßte</seg></said>, heute in dem Saale tagen, welcher
+                        gegenwärtig <said id="30" mode="reported" content="speech" level="2">den <seg id="30" type="intExpr">Berathungen</seg> unserer wackeren
+                        deutschen Brünner Gemeindevertretung</said> gewidmet
+                        ist und in alten Zeiten das Haus des mährischen
+                        Landtages war.</said><said id="31" mode="direct" content="speech" level="1"> (Bravo.)</said>
+                         
+                 <said id="21" mode="direct" content="speech" level="1"> Es ist ein glänzendes Zeugniß für die Stellung, welche die Deutschen in unserem Heimatlande und in dessen Hauptstadt trotz aller Fortschritte der slavischen Hochfluth noch immer
+                        behaupten, <said id="32" mode="reported" content="speech" level="2" nonfact="yes">daß die <seg id="32" type="speaker">Vertrauensmänner</seg> unseres
+                        Volkes im Brünner Rathhaussaale, im „alten
+                        Landhause“ zusammenkommen und <seg id="32" type="intExpr">berathen</seg> können.</said>
+                  <seg id="33" type="frame" pos="start">Wird da nicht zur unfreiwilligen Huldigung
+                        jenes Hohnwort eines slavischen <seg id="33" type="speaker">Abgeordneten</seg>,
+                        welcher uns jüngst im Landtage <seg id="33" type="intExpr">zurief</seg>,</seg> <said id="33" mode="indirect" content="speech" level="2">in Brünn
+                        sei jeder öffentliche Vertretungskörper ein „deutsches Haus?“</said>
+                         
+                  Und so möge dieses befriedigende Bewußtsein
+                        unserer bis nun behaupteten Stellung uns <said id="34" mode="reported" content="speech" level="2">bei
+                        den heutigen <seg id="34" type="intExpr">Besprechungen</seg></said> um so sicherer zum
+                        gemeinsamen Ziele lenken, als uns mittlerweile
+                        ein unerwartetes und tief bedauerliches, wenngleich nothgedrungenes Ereigniß im böhmischen
+                        Landtage<said id="35" mode="reported" content="speech" level="2"> mehr als noch so flammende <seg id="35" type="intExpr">Reden</seg></said> und
+                        
+                    <said id="36" mode="reported" content="speech" level="2"> überzeugende <seg id="36" type="intExpr">Darlegungen</seg></said> <seg id="37" type="frame" pos="start">über allen Zweifel<seg id="37" type="intExpr">klar
+                        gemacht</seg> hat,</seg> <said id="37" mode="indirect" content="thought" level="2">wie nothwendig, ja unentbehrlich
+                        gerade im jetzigen Augenblicke die vollständige Einigkeit der Deutschen in Mähren geworden ist.
+ </said>                 Als Wahrzeichen unserer Einigkeit und als
+                        Stätte<said id="38" mode="reported" content="speech" level="2"> des freundlichen <seg id="38" type="intExpr">Meinungsaustausches</seg> über
+                        die politische Lage und über die Fragen des Tages</said>
+                        dienten uns die deutschen Parteitage, welche in
+                        der Aera der Fundamental-Artikel durch die verdienstliche Initiative unserer zweiten Landeshauptstadt Olmütz entstanden, mit Ausnahme der Wahljahre alljährlich in einer anderen Stadt des Landes abgehalten wurden bis auf <said id="39" mode="reported" content="thought" level="2">den <seg id="39" type="intExpr">Wunsch</seg> dieser
+                        Provinzialtage</said> der große allgemeine deutsch-österreichische Parteitag im November 1880, <said id="40" mode="reported" content="speech" level="2">von
+                        <seg id="40" type="speaker">Kopp</seg>, <seg id="40" type="speaker">Schmeykal</seg> und <seg id="40" type="speaker">meiner Wenigkeit</seg> <seg id="40" type="intExpr">einberufen</seg></said>
+                        einen denkwürdigen Abschnitt bildete, <said id="41" mode="reported" content="speech" level="2">gegen die
+                        zweite slavisch-föderalistische Regierungs-Epoche
+                        <seg id="41 42" type="speaker">seine</seg> <seg id="41" type="intExpr">Stimme erhob</seg></said> <said id="42" mode="reported" content="speech" level="2">und die Solidarität aller
+                        Deutschen in Oesterreich neuerlich <seg id="42" type="intExpr">proclamirte</seg>.</said>
+                  Seitdem haben wir Deutsche in Mähren auch
+                        mit Rücksicht auf die frühen Herbstsessionen des
+                        Reichsrathes und die für so große Versammlungen kaum geeigneten Sommermonate an Stelle
+                        der Parteitage zur Besprechung der politischen
+                        Lage nur Wanderversammlungen abgehalten, welche
+                        der Brünner Deutsche Verein in dankenswerther
+                        Weise 1882 in Zwittau, 1883 in Olmütz und
+                        1886 in Iglau veranstaltete.
+                  Die <seg id="43" type="speaker">Einberufer</seg> der heutigen Versammlung
+                        sind zwar durch den siebenten deutsch-mährischen
+                        Parteitag ermächtigt worden,<said id="43" mode="reported" content="speech writing" level="2"> auch den nächsten
+                        Parteitag nach ihrem Ermessen <seg id="43" type="intExpr">einzuberufen</seg></said>, <seg id="44" type="frame" pos="start">das
+                        <seg id="44" type="speaker">Präsidium</seg> hat es jedoch <seg id="44" type="intExpr">vorgezogen</seg>,</seg> <said id="44" mode="indirect" content="thought" level="2">in Anbetracht
+                        der seither verflossenen langen Zeit vorher <said id="45" mode="reported" content="speech" level="3"><said id="46" mode="reported" content="thought" level="4">die
+                        <seg id="46" type="intExpr">Meinung</seg> der geehrten <seg id="45 46" type="speaker">Vertrauensmänner</seg> </said>zu <seg id="45" type="intExpr">vernehmen</seg></said>, <said id="47" mode="reported" content="writing" level="3" nonfact="yes">welche im brieflichen Wege nur unzureichend <seg id="47" type="intExpr">eingeholt</seg> und constatirt werden könnte.</said>
+ </said>                 Gestatten Sie mir nunmehr, verehrte Herren,
+                        daß ich die auf unserer heutigen Tagesordnung
+                        stehende <said id="48" mode="reported" content="speech" level="2">Besprechung der Parteiverhältnisse </said>mit
+                        <said id="49" mode="reported" content="speech" level="2">einem kurzen Rückblicke auf deren bisherige Entwickelung</said> einleite. Es ist wol selbstverständlich,
+                        daß ich hiebei das Hauptgewicht auf die als
+                        Vorbedingung jeder lebensfähigen Partei unentbehrliche Einigkeit der Deutschen legen muß, welche
+                        in Mähren das beste Gedeihen zeigte.
+                  <said id="50" mode="reported" content="thought" level="2">Wenn auch innerhalb der dentsch-mährischen
+                        <seg id="50" type="speaker">Verfassungspartei</seg> zur Zeit unserer unbestrittenen
+                        parlamentarischen Majorität mitunter ernste <seg id="50" type="intExpr">Meinungsverschiedenheiten</seg> auftauchten</said>, so wurde doch
+                        durch die im Jahre 1871 zum erstenmale zur
+                        Geltung gelangte stavisch-föderalistische Strömung
+                        die vollständige Einigkeit der Deutschen in Mähren
+                        hergestellt, welche nun durch mehr als 15 Jahre
+                        eine ernste Störung nicht mehr erlitt.
+                  Alle unsere jährlichen Parteitage und Wanderversammlungen, sowie alle unsere Landtags- und
+                        Reichsrathswahlen haben die ungetrübte Einigkeit
+                        und entschieden nationale Haltung der Deutschen
+                        in Mähren manifestirt, ohne jemals von der
+                        Thatsache beeinflußt zu werden, <seg id="51" type="frame" pos="start">da unsere <seg id="51" type="speaker">Abgeordneten</seg> im Reichsrathe es aus parlamentarischtactischen Gründen auch früher wiederholt angezeigt <seg id="51" type="intExpr">gefunden</seg> hatten, </seg><said id="51" mode="indirect" content="thought" level="2">sich in zwei oder selbst drei
+                        Parteifractionen zu theilen.</said>
+                  Insbesondere bot uns der von beinahe 1000
+                        bewährten Vertrauensmännern und Parteigenossen
+                        besuchte siebente deutsch-mährische Parteitag in
+                        Brünn am 19. September 1880 eine glänzende
+                        Manifestation der Einigkeit der Deutschen in
+                        Mähren,<said id="52" mode="reported" content="speech" level="2"> <seg id="52" type="speaker">welche</seg> sich schon damals in förmlicher
+                        Resolution für die Solidarität und das einträchtige Vorgehen aller Deutschen, sowie für die entschiedene Bekämpfung des gegenwärtigen Regierungssystemes und für die Einberufung eines
+                        allgemeinen deutsch-österreichischen Parteitages einstimmig und in erhebender Begeisterung <seg id="52" type="intExpr">aussprachen</seg>.</said> </said><said id="53" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Und auf den einhelligen Wunsch des deutschösterreichischen Parteitages wurde diese Solidarität
+                        und Eintracht auch parlamentarisch verwirklicht,
+                        indem die sämmtlichen deutschen und verfassungstreuen Abgeordneten des Reichsrathes zur kräftigeren und erfolgreicheren Verfolgung ihrer
+                        nationalen und staatlichen Aufgaben sich zu einer
+                        einzigen großen parlamentarischen Verbindung von
+                        beinahe 150 Mitgliedern vereinigten.
+                  Als vollends die vorzeitige Auflösung des
+                        verfassungstreuen böhmischen Landtages und dessen
+                        neue tschechisch-feudale Majoritäl im Jahre 1883
+                        die Gefahren der slavischen Oberherrschaft in unsere nächste Nähe rückte, <seg id="55" type="frame" pos="start">da wurde die <seg id="55" type="intExpr">Ueberzeugung</seg> allgemein</seg> <said id="55" mode="indirect" content="thought" level="2" border="yes">daß die Deutschen in Mähren
+                        nur durch Einigkeit und Bundesgenossenschaft
+                        dem slavischenAnsturme Stand zu halten vermöchten</said>, <seg id="57" type="frame" pos="start">und <seg id="57" type="speaker">ich</seg> konnte nicht nur <said id="56" mode="reported" content="speech" level="2">in <seg id="56" type="speaker">meinen</seg>
+                        <seg id="56" type="intExpr">Wahlreden</seg></said>, sondern auch in unseren Wahlaufrufen für den Landtag und für den Reichsrath
+                        ohne Widerspruch und unter allgemeiner Zustimmung der deutschen Parteigenossen <seg id="57" type="intExpr">erklären</seg>,</seg><said id="57" mode="indirect" content="speech" level="2"> daß
+                        der Kampf für das deutsche Volk und für die
+                        Staatseinheit in Oesterreich gar nicht getrennt
+                        werden kann und daß Deutsch-Nationale wie
+                        Centralisten, wenn auch die Einen mehr aus nationalen und die Anderen mehr aus staatlichen
+                        Motiven das gleiche Ziel anstreben müssen: <said id="59" mode="direct" content="speech" level="3">„die
+                        Vertheidigung der von der Sicherung der Staatseinheit unzertrennlichen Stellung der Deutschen
+                        in Oesterreich.“</said></said> </said>(Stürmischer Beifall.)
+                         
+                <said id="21" mode="direct" content="speech" level="1"> <seg id="61" type="frame" pos="start"> <seg id="61" type="intExpr">Wörtlich</seg> hieß es in unserm <said id="60" mode="reported" content="writing" level="2" border="yes">von beinahe vierhundert bewährten deutschen <seg id="60" type="speaker">Vertrauensmännern</seg>
+                        und <seg id="60" type="speaker">Parteigenossen</seg> aller Gegenden Mährens und
+                        aller nationalen Grade <seg id="60" type="intExpr">unterzeichneten</seg></said> und von
+                        allen unseren Candidaten als Wahlprogramm angenommenen Wahlaufrufe für die Reichsrathswahlen im Jahre 1885:</seg><said id="61" mode="direct" content="writing" level="2"> „Jeder gute DeutschNationale muß mit dem Centralisten und jeder
+                        gute Centralist mit dem Deutsch-Nationalen Hand
+                        in Hand gehen, Schulter an Schulter kämpfen
+                        gegen den gemeinsamen Feind, ohne Bedingung
+                        und ohne Vorbehalt.“</said></said> <said id="62" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Und so wurden auch die Reichsrathswahlen
+                        in Mähren in vollständiger Einigkeit der deutschen Wählerschaften mit gutem Erfolge vollzogen,
+                        und nur in zwei Städten eines deutschen Wahlbezirkes stellte die Minorität der Wähler gegen
+                        <said id="64" mode="reported" content="speech" level="2">die <seg id="64" type="intExpr">Empfehlung</seg> der <seg id="64" type="speaker">Vertrauensmänner</seg></said> einen besonderen Candidaten auf.
+                  <said id="65" mode="reported" content="thought" level="2">Erst seit der von keiner <seg id="65" type="speaker">Seite</seg> <seg id="65" type="intExpr">gewünschten</seg>
+                        und von beiden Seiten bedauerten Trennung der
+                        deutsch-liberalen Abgeordneten in zwei parlamentarische Functionen</said> gelangte auch in Mähren<seg id="66" type="frame" pos="start"> die
+                        <seg id="66" type="intExpr">Frage</seg> zur <said id="67" mode="reported" content="speech" level="2">lebafteren Erörterung</said>,</seg> <said id="66" mode="indirect" content="speech" level="2">welche dieser
+                        beiden Fractionen nach ihrer Richtung ihrem
+                        Programm und ihrer Benennung wohl besser
+                        geeignet sei</said>, <said id="68" mode="reported" content="speech" level="2">die Forderungen des deutschen Volkes
+ </said>                       zur Geltung zu bringen.
+                  <seg id="69" type="frame" pos="start">Vor Allem will <seg id="69" type="speaker">mir</seg> <seg id="69" type="intExpr">scheinen</seg>,</seg> <said id="69" mode="indirect" content="thought" level="2" nonfact="yes">daß die parlamentarische Gruppirung der Abgeordneten allein
+                        für das Urtheil der Wähler über deren entsprechende nationale und politische Haltung und
+                        für eine ähnliche Gruppirung der Wählerschaften
+                        nicht maßgebend sein sollte, wie sie bisher in
+                        Mähren auch niemals maßgebend war</said>, denn ich
+                        selbst gehörte im Reichsrathe durch Jahre einer
+                        anderen parlamentarischen Gruppe an, als die
+                        große Mehrzahl meiner mährischen Collegen, und
+                        doch wurden unsere Parteiverhältnisse in Mähren
+                        seit mehr als 15 Jahren von solchen parlamentarischen Trennungen gar nicht mehr berührt.
+                        Aber ganz abgesehen hievon, sind die gegenwärtigen Verhältnisse in Oesterreich, welche selbst den
+                        deutschen Abgeordneten zwingen, dem Staatsanwalte seinen Tribut zu zollen — wohl betrübend
+                        und bedrohend genug, um uns klar zu machen,
+                        daß der Streit um das bessere Deutschthum ein
+                        unfruchtbarer bleibt, und daß nur die beiden
+                        parlamentarischen Fractionen der deutschen Abgeordneten zusammen und mit Heranziehung weiterer
+                        centralistischer Bundesgenossen im Stande sein
+                        könnten, die Rechte der Deutschen und die Staatseinheit erfolgreich zu schützen und zu sichern.
+</said>                        (Stürmischer Beifall.)
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Dieses geeinigte und gemeinsame Wirken
+                        beider deutschen Parlaments-Fractionen und das
+                        hiezu unentbehrliche gegenseitige freundliche Verhalten ihrer Mitglieder ist aber um so eher möglich, als die Programme der beiden Verbindungen gemeinsamen Ursprunges sind und in allen
+                        actuellen, nationalen und staatlichen Fragen übereinstimmen. </said>(<seg id="71" type="frame" pos="start"><seg id="71" type="intExpr">Rufe</seg>:</seg> <said id="71" mode="direct" content="speech" level="1">Richtig! So ist es!</said>)
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Und in der That konnte auch in den meisten
+                        Fällen von nationaler oder staatlicher Wichtigkeit
+                        ein loyales gemeinsames Vorgehen erzielt werden,
+                        <said id="74" mode="reported" content="speech writing" level="2">und <seg id="74" type="speaker">ich</seg> habe dies jederzeit und insbesondere auch
+                       <said id="73" mode="reported" content="speech writing" level="3"> in <seg id="73" type="speaker">meiner</seg> <seg id="73" type="intExpr">Berichterstattung</seg> über die politische
+                        Lage in der letzten Wanderversammlung zu Iglau</said>
+                        ausdrücklich <seg id="74" type="intExpr">anerkannt</seg>.</said> Wenn ich die erfolgte
+                        parlamentarische Trennung damals dennoch bedauerte und auch heute bedauere, so liegt darin
+                        gewiß keine Verletzung, sondern, <said id="75" mode="reported" content="speech" level="2">wie <seg id="75" type="speaker">ich</seg> schon bei
+                        anderer Gelegenheit öffentlich <seg id="75" type="intExpr">erklärte</seg></said>, <said id="76" mode="reported" content="thought" level="2">vielmehr
+                        der <seg id="76" type="intExpr">Wunsch</seg>, mit den nun getrennten deutsch-nationalen Parteigenossen in engerer Verbindung
+                        zu wirken.</said>
+                  
+                  <seg id="77" type="frame" pos="start">Denn nach vieljähriger parlamentarischer
+                        Erfahrung muß <seg id="77" type="speaker">ich</seg> es schon als schwierig <seg id="77" type="intExpr">bezeichnen</seg>, </seg><said id="77" mode="indirect" content="speech" level="2">eine größere Anzahl von deutschen Politikern
+                        in gegebener, oft sehr kurzer Zeit <said id="78" mode="reported" content="speech" level="3">bei gemeinsamer
+                        Berathung</said> zu wichtigeren Actionen zu einigen</said>,
+                        und um wie viel schwieriger wird diese Aufgabe
+                        <said id="79" mode="reported" content="speech" level="2">nach vorangegangenen abgesonderten <seg id="79" type="intExpr">Berathungen</seg> und Beschlußfassungen.</said> <said id="80" mode="reported" content="speech" level="2">Bisher hat noch jede
+                        solche parlamentarische Absonderung von deutschen
+                        Parteigenossen in den wichtigsten <seg id="80" type="intExpr">Fragen</seg> zu Conflicten und weiteren Trennungen geführt</said>, welche
+                        jeden Erfolg ausschlossen, oder aber zur endlichen Umkehr und Wiedervereinigung. Das Beispiel der Polen, Tschechen, Feudalen und Clericalen,
+                        welche trotz der fundamentalsten Gegensätze sich
+                        willenlos <said id="81" mode="reported" content="speech" level="2">dem <seg id="81" type="intExpr">Commando</seg> des <seg id="81" type="speaker">Executiv-Comités</seg></said>
+                        unterordnen, kann uns Deutschen nicht vorgehalten werden.
+                  Schon die Manifestation der eigenen besonderen Existenz-Berechtigung führt bei selbstständigen
+                        deutschen Männern, zu Schwierigkeiten, <said id="82" mode="reported" content="speech" level="2">und je
+                        schwieriger sich die Deutschen</said> — nicht nur in
+                        Mähren und in Oesterreich — <said id="82" mode="reported" content="speech" level="2">einigen können</said>,
+                        desto bedenklicher erscheint eben jedes, wenngleich
+                        nur formale Hinderniß dieser Einigung.
+                  Wenn dessenungeachtet <said id="83" mode="reported" content="speech" level="2">aus <seg id="83" type="speaker">meiner</seg> Iglauer
+                        <seg id="83" type="intExpr">Rede</seg></said> die Verletzung einer weitergehenden nationalen Richtung herausgelesen werden sollte — und
+                        ich muß auch dieses persöuliche Moment berühren,
+                        weil eine Person niemals das Hinderniß der
+                        Einigkeit sein darf — so mag dies wohl aus
+                        dem einmal schon entbrannten publicistischen
+                        Kampfe und <seg id="84" type="frame" pos="start">auch daher zu <seg id="84" type="intExpr">erklären</seg> sein, </seg><said id="84" mode="indirect" content="speech" level="2">daß
+                        manches deutsch-nationale <seg id="85" type="speaker">Organ</seg>, welches so freundlich war, <said id="85" mode="reported" content="speech" level="3"><said id="86" mode="reported" content="speech" level="4"><seg id="86" type="speaker">meine</seg> <seg id="86" type="intExpr">Rede</seg></said> sehr ausführlich zu <seg id="85" type="intExpr">reproduciren</seg></said>, eben jene Stellen überging, <said id="87" mode="reported" content="speech" level="3">in welchen
+                        <seg id="87 88" type="speaker">ich</seg> auf meine deutsch-nationale Vergangenheit <seg id="87" type="intExpr">hinwies</seg></said> <seg id="88" type="frame" pos="start">und die <seg id="88" type="intExpr">Versicherung</seg> abgab,</seg><said id="88" mode="direct" content="speech" level="2"> „daß ich bis
+                        gegenwärtig niemals von meiner nationalen Richtung abgewichen bin und auch niemals abweichen
+                        werde.“</said></said></said> (Stürmischer Beifall.)
+                         
+                <said id="21" mode="direct" content="speech" level="1">  Und nicht etwa, <said id="90" mode="reported" content="speech" level="2" nonfact="yes">um <seg id="90" type="speaker">mich</seg> selbst zu <seg id="90" type="intExpr">loben</seg></said>
+                        oder loben zu hören — denn die Festhaltung und
+                        Geltendmachung der eigenen Ueberzeugung ist einfach Pflicht und verdient gar kein Lob — sondern
+                        um auch jüngere Parteigenossen, welche mein
+                        öffentliches Wirken erst seit kürzerer Zeit verfolgen <said id="91" mode="reported" content="thought" level="2">oder <seg id="91" type="speaker">sich</seg> der Vergangenheit nicht <seg id="91" type="intExpr">erinnern</seg></said>,
+                        im Interesse der großen deutschen Sache zu beruhigen, und um so vielen gegen meine Person
+                        gerichteten Anwürsen zu begegnen, <said id="92" mode="reported" content="speech" level="2">will <seg id="92 93" type="speaker">ich</seg> vor
+                        Ihnen wie vor meinen Wählern<seg id="92" type="intExpr"> Rechenschaft
+                        geben</seg> </said><said id="93" mode="reported" content="speech" level="2">und in wenigen <seg id="93" type="intExpr">Worten</seg> auf einige Marksteine meiner nationalen Thätigkeit hinweisen.</said> Ich
+                        wähle hiezu namentlich <said id="94" mode="reported" content="thought" level="2">die gewöhnlich als Probe
+                        der nationalen Gesinnung <seg id="94" type="intExpr">betrachtete</seg> Frage des
+                        Bündnisses mit Deutschland.
+ </said>                <said id="95" mode="reported" content="thought" level="2"> Mit dem <seg id="95" type="intExpr">Wunsche</seg> des engsten Anschlusses an
+                        Deutschland</said> betrat <seg id="95 96" type="speaker">ich</seg> noch als Angehöriger des
+                        deutschen Bundes im Jahre 1865 die parlamentarische Laufbahn, und <said id="96" mode="reported" content="thought" level="2">diesen <seg id="96" type="intExpr">Wunsch</seg></said> durfte ich
+                        damals noch ohne Gefahr der Verdächtigung in
+                        mein Wahlprogramm aufnehmen. Aber auch nach
+                        Verdrängung Oesterreichs aus der leitenden deutschen Stellung war ich im Jahre 1869 in der
+                        Delegation unter den Ersten, <said id="97" mode="reported" content="speech" level="2"><seg id="97" type="speaker">welche</seg> im Interesse
+                        der Deutschen und des Staates das Bündniß mit
+                        Deutschland <seg id="97" type="intExpr">empfohlen</seg> haben</said>, wofür ich in den
+                        Regierungsorganen der „Bismärcker in der Delegation“ gescholten wurde, bis endlich nach zehn
+                        Jahren das Bündniß zu Stande kam und seitdem officiell als Grundlage unserer äußeren Politik anerkannt ist.
+                  Ebenso bestrebte ich mich schon im J. 1870,
+                        die deutsch-nationale Richtung in der Verfassungspartei zur parlamentarischen Geltung zu bringen,
+                        und nahm an der allgemeinen nationalen Bewegung des Jahres 1871 hervorragenden Antheil.
+                  Im Jahre 1879 war <seg id="98" type="speaker">ich</seg> unter den wenigen Parteigenossen, welche schon damals den Antrag des Grafen Wurmbrand wegen Festhaltung
+                        der deutschen Staatssprache rückhaltslos unterstützten, <said id="98" mode="reported" content="speech" level="2">und vertrat im Jahre 1884 diesen Antrag auch als <seg id="98" type="intExpr">Berichterstatter</seg> der Minorität.</said><said id="99" mode="reported" content="speech" level="2"> In
+                        allen <seg id="99" type="speaker">meinen</seg> <seg id="99" type="intExpr">Reden</seg></said> und Adreß-Entwürfen legte
+                        <seg id="100" type="speaker">ich</seg> auf die Pflege und Befestigung des deutschen
+                        Bündnisses das größte Gewicht, <seg id="100" type="frame" pos="start">und <seg id="100" type="intExpr">sprach</seg> bei
+                        dem Bankette des Linzer Schulvereinstages im
+                        Jahre 1883 den Wunsch <seg id="100" type="intExpr">aus</seg>,</seg> <said id="100" mode="indirect" content="speech" level="2">dieses Bündniß
+                        auf alle gemeinsamen Interessen beider Reiche
+                        ausgedehnt zu sehen</said>, wofür ich abermals die gröbsten Verdächtigungen der officiösen Organe, allerdings aber auch die Genugthuung erntete, diesen
+                        
+                     Satz in das Programm der deutschen Fractionen
+                        unseres Abgeordnetenhauses aufnehmen zu können
+                        und gegenwärtig sogar in den Regierungsblättern zu lesen.
+                 <seg id="102" type="frame" pos="start"> Und selbst in der letzten Session der Delegationen wies ich <said id="101" mode="reported" content="speech" level="2">bei <seg id="101" type="intExpr">Besprechung</seg> des scheinbar
+                        nicht sehr bundesfreundlichen Verhaltens des deutschen Reiches in der bulgarischen Frage</said> darauf
+                        hin,</seg> <said id="102" mode="indirect" content="speech" level="2">daß diese Wahrnehmung für uns nicht etwa
+                        zu einer Lockerung, sondern vielmehr zu einer
+                        festeren und dauerhaften Grundlegung des dentschen Bündnisses den Anlaß geben sollte.</said></said><said id="103" mode="direct" content="speech" level="1"> (Bravo.)</said>
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Wenn ich Ihnen dazu die Versicherung erneuere, daß ich auch heute an dem nationalen
+                        Grundsatze der deutschen Führung in Oesterreich
+                        festhalte, <seg id="105" type="frame" pos="start">und wenn <seg id="105" type="speaker">ich</seg> mich darauf <seg id="105" type="intExpr">berufen</seg> darf,</seg>
+                        <said id="105" mode="indirect" content="speech" level="2">daß mir die deutschnationale Wählerschaft von
+                        Iglau — der zweitgrößten und ältesten deutschen
+                        Stadt des Landes — ihr Vertrauen unverändert
+                        und in der für mich ehrenvollsten Weise auch gegenwärtig bewahrte</said>, so werden Sie einem Manne
+                        der in seiner mehr als zwanzigjährigen politischen Thätigkeit niemals etwas Anderes anstrebte,
+                        als seinem deutschen Volke und seinem österreichischen Vaterlande pflicht- und überzeugungstreu zu
+                        dienen, wohl nicht einen Abfall von der nationalen Richtung zumuthen, weil <seg id="106" type="speaker">er</seg> an Sie kein
+                        anderes Anliegen hat, <said id="106" mode="reported" content="speech" level="2">als die heiße und dringende <seg id="106" type="intExpr">Bitte</seg> einig zu sein und zu bleiben!</said> </said>(Stürmischer, nicht enden wollender Beifall.)
+                         
+                 <said id="21" mode="direct" content="speech" level="1"> Ja, Einigkeit thut uns noth, nicht nur unter uns, sondern auch mit allen anderen Vertheidigern des Einheitsstaates, <said id="108" mode="reported" content="speech" level="2" nonfact="yes"><seg id="108" type="speaker">die</seg> ja von uns die
+                        Verleugnung unserer deutschnationalen Gesinnung
+                        gar nicht <seg id="108" type="intExpr">verlangen</seg></said>, sondern vielmehr bereit sind,
+                        vom staatlichen Gesichtspuncte, im Interesse der
+                        Staatseinheit mit uns für die berechtigte Stellung
+                        der Deutschen in Oesterreich einzustehen.</said> (Bravo.)
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Nur im Vereine mit diesen Bundesgenossen,
+                        gestützt auf die Existenz-Bedingungen des Staates,
+                        können und werden wir für die Rechte unseres
+                        deutschen Volkes endlich den Sieg erringen.
+                 <said id="110" mode="reported" content="thought" level="2" nonfact="yes"> Und <seg id="110" type="intExpr">erwägen</seg> <seg id="110" type="speaker">Sie</seg> doch nur die Erfolge,
+                        welche wir Deutsche in Mähren durch die Bundesgenossenschaft des verfassungstreuen Großgrundbesitzes schon zu verzeichnen haben.</said>
+                  Prüfen und würdigen Sie doch insbesondere
+                        die Thätigkeit des von uns Allen hochverehrten
+                        Mannes, welcher als Führer des verfassungtreuen
+                        Großgrundbesitzes uns die Mehrheit im Landtage erhielt und die Anerkennung seiner großen
+                        Verdienste um unsere gemeinsame Sache
+                        von den deutschen Wählern der Landeshauptstadt
+                        einstimmig in den Reichsrath entsendet wurde.
+</said>                        (Stürmische Zustimmung.)
+                         
+                 <said id="21" mode="direct" content="speech" level="1"> Da wir die Freude haben, diesen verehrten
+                        Parteigenossen heute in unserer Mitte zu begrüßen, so muß ich meinen ohnehin geringen Anlagen zur persönlichen Ovatian noch Schranken
+                        setzen: allein Jedem von uns ist es gewiß Bedürfniß, in einer Versammlung der Vertrauensmänner des deutschen Volkes von Mähren dem
+                        Urheber und warmen Verfechter des Staatssprachengesetzes, dem beredten Anwalte des „Deutschen Hauses“ <said id="112" mode="reported" content="speech" level="2" nonfact="yes"><seg id="112" type="speaker">unseren</seg> herzlichen und innigen
+                        Dank <seg id="112" type="intExpr">auszusprechen</seg>.</said></said> <said id="114" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                <said id="21" mode="direct" content="speech" level="1"><seg id="115" type="frame" pos="start">  Dieser hochverehrte<seg id="115" type="speaker"> Parteigenosse und Führer</seg>
+                        <seg id="115" type="intExpr">erklärte</seg> uns bei jeder Gelegenheit,</seg> <said id="115" mode="indirect" content="speech" level="2">kein DeutschNationaler zu sein</said>, und doch hal er in richtiger
+                        Würdigung des deutschen Volksstammes in treuer
+                        bundesgenossenschaftlicher Opposition mit uns für
+                        die Deutschen schon mehr gethan, als Manchem
+                        von uns noch je zu thun beschieden sein möchte.
+                  Und wenn wir gerade vom nationalen
+                        Standpuncte jeden Deutschen und selbst den
+                        clericalen Deutschen gern als Mitstreiter auf
+                        nationalem Gebiete begrüßen, wie sollten wir uns
+                        der Verbindung mit Männern entziehen, welche
+                        auch politisch zu unseren liberalen Grundsätzen
+                        sich bekennen und sowohl durch ihre Stellung als
+                        durch ihre Anzahl die Wahrscheinlichkeit des Erfolges für die deutsche Sache unendlich erhöhen.
+                  Seit ich die Ehre habe, durch das Vertrauen
+                        meiner Gesinnungsgenossen im Vereine mit ebenso
+                        thätigen als tüchtigen Collegen und<said id="116" mode="reported" content="speech" level="2"> namentlich
+                        mit unermüdlicher Unterstützung und hingebender
+                        Aufopferung des um das deutsche Volk in Mähren
+                        so hochverdienten <seg id="116" type="speaker">Herrn Dr. Adolf Promber</seg> zur
+                        Leitung unserer Parteigeschäfte <seg id="116" type="intExpr">berufen</seg> zu sein</said>
+                        — und das reicht auch schon über ein Decennium
+                        zurück — haben wir uns weder gegen Erwägungen und Verbesserungen der im Allgemeinen bewährten Partei Organisation gesträubt, noch gegen
+                        weitergehende nationale Richtungen abwehrend
+                        verhalten, denn uns konnte ja überhaupt in der
+                        Vertretung der Rechte des deutschen Volkes gar
+                        nicht leicht Jemand zu weit gehen, insolange nur
+                        die unveräußerlichen Grundsätze der Freiheit und
+                        die unentbehrlichen Erfordernisse des Einheitsstaates nicht beeinträchtigt wurden.
+                  Es liegt mir auch nach so langen und vielfachen Erfahrungen jede Empfindlichkeit vollständig
+                        ferne und niemals war ich im Stande, mich gegen <said id="117" mode="reported" content="thought" level="2">selbstständige <seg id="117" type="intExpr">Meinungen</seg></said> wohlmeinender,
+                        wenngleich weitergehender <seg id="117" type="speaker">Parteigenossen</seg> zu irgend
+                        einer gereizten oder leidenschaftlichen Stimmung
+                        emporzuschwingen.
+                  Es fällt mir gar nicht bei, <said id="118" mode="reported" content="thought" level="2"><seg id="118" type="speaker">mich</seg> <seg id="118" type="intExpr">für</seg> unentbehrlich zu <seg id="118" type="intExpr">halten</seg></said>, <seg id="119" type="frame" pos="start">so lange aber meine <seg id="119" type="speaker">Parteigenossen</seg> <seg id="119" type="intExpr">wünschen</seg>,</seg> <said id="119" mode="indirect" content="thought" level="2">daß ich auf diesem oft recht
+                        unbequemen Platze ausharre</said>,<seg id="120" type="frame" pos="start"> muß <seg id="120" type="speaker">ich</seg> darauf <seg id="120" type="intExpr">bestehen</seg>,</seg><said id="120" mode="indirect" content="speech" level="2">daß die Einigkeit der Deutschen
+                        in Mähren er halten bleibe und nicht
+                        gestört werde.</said></said>(Stürmischer Beifall.)
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Sollte endlich die gegenwärtige Parteileitung
+                        ungeachtet der entgegengesetzten fünfzehnjährigen
+                        Erfahrungen jetzt ein Hinderniß der Einigkeit
+                        geworden sein, dann werden wir gerne unsere
+                        Mandate zurücklegen, obwohl dieselben uns und
+                        dem ganzen Centralcomité erst im Jahre 1885
+                        auf vier Jahre ertheilt wurden.
+                  <said id="122" mode="reported" content="speech" level="2"><seg id="122" type="speaker">Wir</seg> <seg id="122" type="intExpr">verlangen</seg> nichts für uns, aber Alles
+                        für die deutsche Sache</said>,<said id="123" mode="reported" content="speech" level="2"> und für diese große und
+                        heilige Sache <seg id="123" type="intExpr">verlangen</seg> <seg id="123" type="speaker">wir</seg> unbedingt und vorbehaltlos Ihre unerschütterte Einigkeit! </said></said><said id="135" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                  <said id="21" mode="direct" content="speech" level="1">Und wenn meine Stimme zu schwach sein
+                        sollte, um <said id="125" mode="reported" content="speech" level="2">dem <seg id="125" type="intExpr">Rufe</seg> nach Einigkeit</said> Gehör zu
+                        verschaffen — denn <seg id="126" type="speaker">ich</seg> kann Ihnen eben nichts
+                        Neues mehr bieten,<said id="126" mode="reported" content="speech" level="2"> sondern nur<said id="127" mode="reported" content="speech" level="3"> oft <seg id="127" type="intExpr">Gesagtes</seg></said>
+                        <seg id="126" type="intExpr">wiederholen</seg></said> — <seg id="128" type="frame" pos="start">dann <seg id="128" type="intExpr">bitte</seg> <seg id="128" type="speaker">ich</seg> Sie nochmals, </seg><said id="128" mode="indirect" content="speech" level="2">Ihre
+                        Blicke nach Böhmen zu richten, wo die Deutschen
+                        durch eine alle bisherigen nationalen Kränkungen
+                        und Beeinträchtigungenweit übertreffende und
+                        zudem die Staatseinheit neuerlich be ........
+                        Sprachenverordnung zum äußersten Widerstande
+                        und durch die rücksichtslose Niederstimmung ihrer
+                        Anträge zum Austritte aus dem Landtage gezwungen wurden.
+ </said>                 In dieser Stunde der Gefahr waren die
+                        deutschen Abgeordneten in Böhmen unter ihrem
+                        bewährten langjährigen Führer Schmeykal vollständig einig, <said id="129" mode="reported" content="speech" level="2">obwol dort früher weit größere
+                        Meinungsverschiedenheiten <seg id="129" type="intExpr">zu Tage getreten</seg> waren,
+                        als jemals in Mähren.</said>
+                  Nicht etwa ausschließlich vom nationalen,
+                        sondern in ersten Linie vom staatlichen Standpuncte, als eine Consequenz des ephemeren böhmischen Staatsrechtes, bekämpft das <seg id="130" type="speaker">Manifest</seg> der
+                        deutschen Abgeordneten die neueste Sprachenverordnung und deren Auffassung durch die LandtagsMajorität,<said id="130" mode="reported" content="thought" level="2"> und <seg id="130" type="intExpr">erhofft</seg> den endlichen Sieg des
+                        Deutschen auch nur von ihrer Einigkeit,<seg id="131" type="frame" pos="start"> indem
+                        <seg id="130" type="speaker">es</seg> mit den <seg id="130" type="intExpr">Worten</seg> schließt:</seg> <said id="131" mode="direct" content="speech" level="3">Deutsche in Böhmen,
+                        seid einig und stark!</said></said>
+                         
+                  <said id="132" mode="reported" content="speech" level="2">Und ebenso hat der nationale Abgeordnete
+                        <seg id="132 133" type="speaker">Professor Knoll</seg>, welcher, wie ich die Trennung
+                        der deutschen Abgeordneten in zwei Gruppen bedauerte, seine Karlsbader Wähler zur Einigkeit
+                        <seg id="132" type="intExpr">gemahnt</seg></said> und <seg id="133" type="frame" pos="start"><seg id="133" type="intExpr">erklärt</seg>:</seg> <said id="133" mode="direct" content="speech" level="2">„Eine mit Ueberlegung betriebene nationale Politik,Eintracht, die
+                        offen bekannt und ehrlich gehalten
+                        wird,dann aber auch eine stramme Parteidisciplin — das ist’s, was uns noththut“.</said></said> <said id="136" mode="direct" content="speech" level="1">(Bravo)</said>
+                         
+                  <said id="21" mode="direct" content="speech" level="1"><seg id="137" type="frame" pos="start">Der verdienstvolle Obmann des Deutschen
+                        Schulvereines endlich, der <seg id="137" type="speaker">AbgeordneteWeitlof</seg>,welcher die Gefahren der Trennung in dieser
+                        Eigenschaft gleichfalls empfindet, hat unlängst im
+                        niederösterreichischen Landtage <seg id="137" type="intExpr">gesagt</seg>:</seg> <said id="137" mode="direct" content="speech" level="2">„Wenn wir
+                        nicht einig bleiben, dann ist unser Schicksal besiegelt. <seg id="138" type="frame" pos="start"><seg id="138 139" type="speaker">Wir</seg> <seg id="138" type="intExpr">hoffen</seg> aber,</seg> <said id="138" mode="indirect" content="thought" level="3">die Einigkeit zu erhalten</said>,
+                        <said id="139" mode="reported" content="thought" level="3" border="yes">und werden Alle, die uns daran hindern, niederzuhalten <seg id="139" type="intExpr">wissen</seg>.</said>“</said>
+                         
+                  <seg id="141" type="frame" pos="start">Wenn nun auch der verehrte Abgeordnete
+                        <seg id="141" type="speaker">Plener</seg><said id="140" mode="reported" content="speech" level="2">bei <seg id="140" type="intExpr">Begründung</seg> <seg id="140" type="speaker">seines</seg> Antrages wegen
+                        Aufhebung der Sprachenverordnungen im böhmischen Landtage</said> die für uns erfreuliche <seg id="141" type="intExpr">Aeußerung</seg> machte,</seg> <said id="141" mode="indirect" content="speech" level="2"><said id="142" mode="reported" content="speech" level="3">daß die <seg id="142" type="speaker">Deutschen</seg> in Böhmen nur
+                        dieselbe Stellung <seg id="142" type="intExpr">verlangen</seg>, welche die Regierung
+                        den Deutschen in Mähren einräumte</said></said>, <seg id="143" type="frame" pos="start">so <seg id="143" type="intExpr">wissen</seg>
+                        <seg id="143" type="speaker">wir</seg> wohl,</seg> <said id="143" mode="indirect" content="thought" level="2" border="yes"><said id="144" mode="reported" content="thought" level="3">daß die <seg id="144" type="speaker">Regierung</seg> und namentlich
+                        unser geehrter <seg id="144" type="speaker">Landsmann-Justizminister</seg> uns das
+                        gleiche ... <seg id="144" type="intExpr">zugedacht</seg> haben, wie den Deutschen
+                        in Böhmen</said>, und daß die Verwirklichung dieser
+                        guten Absicht nur durch Verhältnisse aufgehalten wird,
+                        welche derzeit noch stärker sind, als die Regierung.</said>
+                  
+                  Der Ausblick nach Böhmen muß uns vielmehr die Gefahren klarlegen, welchen wir täglich
+                        die Spitze zu bieten haben und nur in ungebrochener, ungetrübter Einigkeit aller Deutschen und
+                        Verfassungstreuen mit Erfolg begegnen können.
+                  Seien wir daher, verehrte Freunde, duldsam im Innern, <said id="145" mode="reported" content="speech" level="2" nonfact="yes"><seg id="145" type="intExpr">streiten</seg> <seg id="145" type="speaker">wir</seg> nicht über <said id="146" mode="reported" content="thought" level="3">das nationale <seg id="146" type="intExpr">Glaubensbekenntniß</seg> des <seg id="146" type="speaker">Einzelnen</seg></said></said>, aber
+                        halten wir um so fester zusammen nach Außen,
+                        lassen wir nicht ab von unserer durch prüfungsreiche Jahre bewahrten und bewährten Einigkeit,
+                        von unseren gemeinsamen Zielen der Wiedergewinnung der berechtigten Stellung der Deutschen
+                        und der Sicherung der Staatseinheit in Oesterreich, und weichen wir niemals von unserm in
+                        allen Kämpfen als Wahlspruch der Deutschen in
+                        Mähren hochgehaltenen und<seg id="147" type="frame" pos="start"> <seg id="147" type="intExpr">angelobten</seg> Grundsatze:
+ </seg>                        
+                  
+                    <said id="147" mode="direct" content="speech" level="2"> Einer für Alle, Alle für Einen!</said>
+</said>                        
+                   
+               
+               
+                  Nachdem sich der Beifallssturm gelegt hatte,
+                        den Dr. Sturms Rede entfesselte, <seg id="154" type="intExpr">begründete</seg> der
+                        Bürgermeister von Olmütz <seg id="154" type="speaker">Herr Josef v.Engel</seg>
+                        in glänzender Weise folgende
+                         
+                  
+                     
+                        Resolution:
+                        
+                     
+                   
+                  <said id="149" mode="reported" content="speech" level="1">Die am 4. Jänner 1887 in Brünn versammelten deutschen <seg id="149" type="speaker">Reichsraths- und Landtagsabgeordneten</seg> der Städte, Handelskammern und Landgemeinden, <seg id="149" type="speaker">Bürgermeister</seg>, <seg id="149" type="speaker">Gemeindevertreter</seg>, <seg id="149" type="speaker">Vereins-Obmänner</seg> und <seg id="149" type="speaker">Mitglieder</seg> des Landes-Wahl-Comités
+                        haben sich als Vertrauensmänner der Deutschen in
+                        Mähren zu nachstehenden Beschlüssen <seg id="149" type="intExpr">geeignet</seg></said>:
+                         
+                  
+                     1. Es erscheint als nationale und staatliche
+                        Pflicht der Deutschen in Mähren, in ungebrochener Einigkeit, und in Verbindung mit allen verfassungstreuen Vertheidigern des österreichischen
+                        Einheitsstaates zum Schutze und zur Wiederherstellung der von dessen Existenzbedingungen unzertrennlichen berechtigten Stellung der Deutschen
+                        in Oesterreich auszuharren.
+                        
+                  
+                     2. <said id="150" mode="reported" content="writing" level="1">Der an das Prager Oberlandesgericht
+                        ergangene <seg id="150" type="speaker">Sprachenerlaß</seg> des Leiters des Justizministeriums vom 23. September 1886 <seg id="150" type="intExpr">begründet</seg> eine weitere empfindliche Beeinträchtigung der
+                        Deutschen in Oesterreich, eine mit der Staatseinheit und den bestehenden Gesetzen nicht vereinbare
+                        Beschränkung der inneren Dienstsprache, und eine
+                        bedenkliche Gefährdung der Bedingungen einer unbefangenen und gründlichen Rechtspflege.</said> Die Aufhebung dieses Erlasses ist daher mit allen gesetzlichen Mitteln anzustreben.
+                        
+                  
+                     3. <said id="151" mode="reported" content="speech" level="1">Die <seg id="151" type="speaker">Versammlung</seg> der deutschen Vertrauensmänner Mährens <seg id="151" type="intExpr">beklagt</seg> jene rücksichtslosen Vorgänge, welche die Abgeordneten des deutschen Volkes in Böhmen zum Verlassen des Landtages zwangen</said> und widmet dem entschiedenen,
+                        einheitlichen und maßvollen Vorgehen dieser wackeren Stammes- und Gesinnungsgenossen die wärmsten Sympathien.
+                        
+                  
+                     4. Es wird den Einberufern der heutigen
+                        Versammlung anheimgestellt, <said id="152" mode="reported" content="speech" level="1">nach <seg id="152" type="speaker">ihrem</seg> eigenen
+                        Ermessen den nächsten deutsch-mährischen Parteitag im geeigneten Zeitpuncte <seg id="152" type="intExpr">einzuberufen</seg>.
+ </said>                       
+                  <said id="153" mode="reported" content="speech" level="1">Die <seg id="153" type="intExpr">Begründung</seg> des <seg id="153" type="speaker">Herrn Bürgermeisters
+                        v. Engel</seg></said>, insbesondere jene der letzten Resolution
+                        fand außerordentlichen Beifall.<seg id="154" type="frame" pos="start"> Bezüglich des
+                        Parteitages <seg id="154" type="intExpr">wies</seg> <seg id="154" type="speaker">v. Enge</seg>l darauf <seg id="154" type="intExpr">hin</seg>,</seg> <said id="154" mode="indirect" content="speech" level="1">daß<said id="155" mode="reported" content="thought" level="2"> jede
+                        ehrliche <seg id="155" type="speaker">deutsche</seg> <seg id="155" type="intExpr">Meinung</seg></said> von der Parteileitung
+                        gehört werde, <seg id="156" type="frame" pos="start">daß aber jeder <seg id="156" type="speaker">Deutschösterreicher</seg>
+                        die <seg id="156" type="intExpr">Erkenntniß</seg> haben müsse, </seg><said id="156" mode="indirect" content="thought" level="2">daß wir neben der nationalen auch eine politische Aufgabe haben und daß
+                        die nationale Aufgabe nur durch die politische gelöst
+                        werden könne, denn die nationalen sind mit den
+                        staatlichen Interessen der Deutschen in Oesterreich
+                        unlöslich verknüpft.</said></said><seg id="157" type="frame" pos="start"> <seg id="157" type="speaker">Dr.Pollakaus Mähr.Schönberg</seg> <seg id="157" type="intExpr">spricht</seg> den Wunsch <seg id="157" type="intExpr">aus</seg>,</seg> <said id="157" mode="indirect" content="speech" level="1">daß der
+                        deutsch-mährische Parteitag in späterer Zeit einberufen werden möge, nämlich erst dann, <said id="158" mode="reported" content="thought" level="2">wenn
+                        <seg id="158" type="speaker">man</seg> den Zeitpunct hiefür gekommen <seg id="158" type="intExpr">erachte</seg>. </said></said><seg id="159" type="frame" pos="start"><seg id="159 " type="speaker">Abg.
+                        Dr.Wenzlicke</seg><seg id="159" type="intExpr">sagt</seg>,</seg><said id="159" mode="indirect" content="speech" level="1"> daß bei allen Versammlungen, die in Nordmähren abgehalten wurden,
+                        <said id="160" mode="reported" content="speech" level="2">dasMoment der Einigkeit der Deutschen in der Bekämpfung unserer
+                        Widersacher stärkstens <seg id="160" type="intExpr">betont</seg> wurde.</said>
+ </said>                       Die Einigkeit ist von uns niegestört
+                        worden.<seg id="162" type="frame" pos="start"><said id="161" mode="indirect" content="speech" level="1">Es wurde aber auch von <seg id="162" type="speaker">Dr. Sturm</seg>
+                        <seg id="162" type="intExpr">betont</seg></said><seg id="161" type="frame" pos="mid">,</seg> <seg id="161" type="intExpr">sagt</seg> <seg id="161" type="speaker">Abg. Dr. Wenzliczke</seg>,</seg> <said id="161" mode="indirect" content="speech" level="1"><said id="162" mode="indirect" content="speech" level="2">daß man Duldsamkeit walten lassen möge.</said></said> <seg id="163" type="frame" pos="start"><seg id="163" type="speaker">Er</seg> <seg id="163" type="intExpr">wünsche</seg>,</seg> <said id="163" mode="indirect" content="thought" level="1">daß
+                        letztere stets geübt werde.</said> <seg id="164" type="frame" pos="start"><seg id="164" type="speaker">Abg.Auspitz</seg><seg id="164" type="intExpr">erklärt</seg>
+                        <said id="165" mode="reported" content="speech" level="1">gegenüber einer <seg id="165" type="intExpr">Bemerkung</seg>, die <seg id="165" type="speaker">Dr. Pollak</seg> gemacht
+                        hatte</said>,</seg> <said id="164" mode="indirect" content="speech" level="1">daß die Tschechen nicht <said id="166" mode="reported" content="speech" level="2">durch die <seg id="166" type="intExpr">Betonung</seg> des
+                        nationalen Standpunctes</said> allein, sondern vielmehr
+                        dadurch zur Macht gelangten, daß sie sich ihren
+                        Führern unterordneten.</said>
+                  
+                  
+                  <said id="167" mode="reported" content="speech" level="1">Die von<seg id="167" type="speaker"> Herrn Bürgermeister v. Engel</seg> glänzend <seg id="167" type="intExpr">begründete</seg>Resolution</said> wird sodann
+                        unter dem Jubel der Versammlung
+                        einhellig angenommen.
+                        
+                   
+               
+               
+                  
+                     Rede des Abgeordneten Fux.
+                        
+                  
+                 <seg id="179" type="frame" pos="start"> <seg id="169 179" type="speaker">Dr.Fux</seg>(Neutitschein) <seg id="179" type="intExpr">sagte</seg> hierauf:</seg> <said id="179" mode="direct" content="speech" level="1">Es sei uns
+                        Jeder willkommen, der es ehrlich um das deutsche
+                        Volk in Mähren meint und draußen im Lande
+                        für sein Volk arbeitet, denn die nationale Arbeit
+                        ist es, <said id="168" mode="reported" content="speech" level="2">die <seg id="168" type="speaker">wir</seg> <seg id="168" type="intExpr">fordern</seg>.</said> Wer dahin trachtet, in
+                        seinem Kreise Bildung und Wohlstand der Deutschen zu fördern, und ihr nationales Bewußtsein
+                        zu wecken, sei uns als Mitstreiter willkommen.
+                        Jemehr Posten von unerschrockenen nationalen
+                        Männern besetzt sind, um so sicherer werden wir
+                        unsere Stellung behaupten. Es soll uns nicht
+                        trennen, daß nicht alle gleich entschieden empfinden,
+                        nicht trennen, daß der Eine drängt zum Handeln,
+                        der Andere bedächtig zögert, nicht trennen, daß
+                        der Eine den deutschen, der Andere den deutschösterreichischen Club des Reichsrathes in sein
+                        Herz geschlossen hat. Unsere Partei in Mähren
+                        soll damit nichts zu schaffen haben, sie soll und
+                        muß im Lande sein:eine Partei aller
+                        Deutschen.Gestatten <seg id="169" type="frame" pos="start">Sie <seg id="169" type="speaker">mir</seg> darum ein
+                        offenes <seg id="169" type="intExpr">Wort</seg>:</seg> <said id="169" mode="direct" content="speech" level="2"><said id="170" mode="indirect" content="thought" level="2">deutsch sein heißt</said> <seg id="170" type="frame" pos="mid">nach meiner
+                        Meinung</seg> <said id="170" mode="indirect" content="thought" level="3">auch zorn- und neidlos fremdes älteres
+                        Verdienst anerkennen</said>, deutsch sein heißt auch tren
+                        sein!</said> Wenn wir heute in Mähren uns mit Stolz
+                        deutsch fühlen und im nationalen Empfinden
+                        keinem Lande nachstehen wollen, wem gebührt
+                        dafür unbestritten der Dank? Unserer Parteileitung! Seit mehr als zwanzig Jahren sind diese
+                        Männer in nationaler Arbeit thätig gewesen.
+                        Wer war es, der im Norden und Süden des
+                        Landes bei keiner Versammlung, bei keinem Feste
+                        fehlte, wenn es nationalem Dienste galt, wer
+                        war es, dem vor Allem die nationale Erweckung
+                        des Bauernstandes zu danken ist? Es war unser
+                        Promber!Unsere Parteiorganisation ist in
+                        allen Kronländern anerkannt und sie hat sich oft
+                        bewährt. Wem ist dies zu danken? Wer hat auf
+                        allen Parteitagen bei allen Wahlen unsere Herzen
+                        <said id="171" mode="reported" content="speech" level="2">mit zündenden <seg id="171" type="intExpr">Worten</seg></said> erfüllt? Es war unser
+                        Sturm.Von Sieg zu Sieg hat er die Partei
+                        geführt, und wenn es noch heute gelungen ist unsere
+                        Stellung im Landtage zu behaupten, es ist sein
+                        Werk, sein Verdienst. Gar oft mag manchem
+                        Parteigenossen im Lande das Vorgehen der Führer und der Abgeordneten zaghaft und unverständlich erscheinen und <said id="172" mode="reported" content="speech" level="2" nonfact="yes">doch ist es oft nicht möglich
+                        Allen und öffentlich die Beweggründe <seg id="172" type="intExpr">mitzutheilen</seg></said>
+                        — da heißt es: vertrauen! Sehen Sie, ich bin
+                        entschieden national, doch besonnen und ruhig,
+                        vor Allem mehr Freund der Arbeit als <said id="173" mode="reported" content="speech" level="2">der <seg id="173" type="intExpr">Rede</seg></said>,
+                       <seg id="174" type="frame" pos="start"> <seg id="174" type="speaker">ich</seg> <seg id="174" type="intExpr">gestehe</seg>,</seg> <said id="174" mode="indirect" content="speech" level="2"><said id="175" mode="reported" content="thought" level="3">auch <seg id="175" type="speaker">mir</seg> schien manches <seg id="175" type="intExpr">unverständlich</seg></said>, so lange ich noch nicht im Landtage war.</said>
+                        Inzwischen habe ich die Schwierigkeiten kennen
+                        gelernt, <said id="176" mode="reported" content="thought" level="2">mit welchen die <seg id="176" type="speaker">Parteileitung</seg> zu <seg id="176" type="intExpr">rechnen</seg>
+                        hat</said>, <seg id="177" type="frame" pos="start"><seg id="177" type="speaker">ich</seg> habe mich <seg id="177" type="intExpr">überzeugt</seg>,</seg> <said id="177" mode="indirect" content="thought" level="2" border="yes">daß unsere Führer
+                        so gut und so entschieden deutsch sind, als ich und
+                        Einer von Ihnen meine Herren</said> und habe volles
+                        Vertrauen zu denselben gewonnen. Arbeiten Sie
+                        draußen im Lande unermüdlich und unerschrocken
+                        für die nationale Sache; Niemand soll in seiner
+                        Empfindung beschränkt oder getadelt werden, verbannen Sie unter sich jeden Ostracismus und
+                        wenn es gilt, folgen Sie der Fahne, die Sie
+                        selbst alle geweiht und halten Sie zusammen!
+                        Wäre das nicht ein Triumph unserer Gegner, wenn
+                        die Deutschen sich selbst ans Messer lieferten. Die
+                        Majorität im Landtage ist von der größten politischen und wirthschaftlichen Wichtigkeit für die
+                        Deutschen in Mähren. Sehen Sie denn nicht an
+                        den Deutschen in Böhmen, welches Schicksal uns
+                        bevorstände! Hier handelt es sich um unseren
+                        Landtag, unserer Organisation, wie sich Jemand
+                        zum Reichsrath stellt, sei kein Hinderniß, vereint
+                        zu schlagen. <seg id="178" type="frame" pos="start">Es mögen alle <seg id="178" type="speaker">Parteigenossen</seg> im
+                        Lande <seg id="178" type="intExpr">überzeugt sein</seg>, </seg><said id="178" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß, wenn es der nationalen Ehre und Existenz gilt, die Abgeordneten in
+                        Mähren ebenso entschieden und ebenso einig vorgehen werden, als es die deutschen Abgeordneten
+                        in Böhmen gethan haben.</said></said> (Stürm. Beifall.)
+                         
+                  <seg id="187" type="frame" pos="start">Das von <seg id="187" type="speaker">Dr.Fux</seg>beantragte <seg id="187" type="intExpr">Vertrauensvotum</seg> lautet:
+ </seg>                        
+                  
+                     <said id="187" mode="direct" content="speech" level="1"><seg id="180" type="frame" pos="start">In <seg id="180" type="intExpr">Erwägung</seg>,</seg> <said id="180" mode="indirect" content="thought" level="2">daß die Parteileitung der
+                        Deutschen in Mähren seit Jahren unermüdlich
+                        bestrebt war, den nationalen Sinn zu wecken
+                        und die Wohlfahrt der Deutschen in Mähren
+                        zu fördern</said>, <seg id="181" type="frame" pos="start">in <seg id="181" type="intExpr">Erwägung</seg>, </seg><said id="181" mode="indirect" content="thought" level="2">daß dieselbe unter
+                        den schwierigsten Verhätnissen es durch Klugheit und Festigkeit verstanden hat die Majorität
+                        im mähr. Landtage und zugleich die Einigkeit
+                        der Deutschen in Mähren zu erhalten </said>— <said id="182" mode="reported" content="speech" level="2"><seg id="182" type="intExpr">spricht</seg>
+                        die <seg id="182" type="speaker">Versammlung</seg> der Vertrauensmänner der
+                        Deutschen Mährens der Parteileitung, insbesondere unserem bewährten Führer Dr.Sturm
+                        für die selbstlose, unermüdliche und erfolgreiche
+                        Thätigkeit im Interesse des Deutschthums und des
+                        Fortschrittes die vollste Anerkennung aus <seg id="183" type="frame" pos="start">mit der
+                        <seg id="182" type="intExpr">Bitte</seg></seg> <said id="183" mode="indirect" content="speech" level="3">auchin Hinkunft ihre volle
+                        Kraft dem Deutschen Volke in Mähren zu widmen.</said></said></said>Die Resolution wird einhellig, unter stürmischem Jubel aufgenommen.
+                        
+                 <said id="184" mode="reported" content="speech" level="1"> Hierauf <seg id="184" type="intExpr">ergriff</seg> <seg id="184 185" type="speaker">Abg. Dr.Promber</seg><seg id="184" type="intExpr">das
+                        Wort</seg></said>, <said id="185" mode="reported" content="speech" level="1">um auf <said id="186" mode="reported" content="speech" level="2">die <seg id="186" type="intExpr">Ausführungen</seg> des <seg id="186" type="speaker">Herrn Landtagsabgeordneten Fux</seg></said> zu <seg id="185" type="intExpr">antworten</seg>.</said>
+               
+               
+                  
+                    <seg id="199" type="frame" pos="start"> Die <seg id="199" type="speaker">Rede</seg> des Abgeordneten <seg id="199" type="speaker">Dr Adolf
+                        Promber</seg>.</seg>
+                        
+                  
+                  <said id="199" mode="direct" content="speech" level="1"><said id="188" mode="reported" content="speech" level="2">Nach der glänzenden <seg id="188" type="speaker">Rede</seg> der <seg id="188" type="speaker">Herrn Dr.
+                        Sturm</seg></said>, <said id="189" mode="reported" content="speech" level="2">nach den trefflichen <seg id="189" type="intExpr">Ausführungen</seg> des
+                       <seg id="189" type="speaker"> Herrn Bürgermeisters von Olmütz</seg> und meines
+                        Freundes und Collegen <seg id="189" type="speaker">Dr. Fux</seg></said> wird es mir
+                        wohl schwer, Ihre Aufmerksamkeit noch <said id="190" mode="reported" content="speech" level="2" nonfact="yes">für einige
+                        <seg id="190" type="intExpr">Worte</seg></said> zu gewinnen, welche ich mir erlaube an
+                        Sie zu richten. Veranlaßt werde ich hiezu durch
+                       <said id="191" mode="reported" content="speech" level="2"> die außerordentlich schmeichelhafte <seg id="191" type="intExpr">Erwähnun</seg> des
+                        Collegen <seg id="191" type="speaker">Fux</seg></said>, mit welcher er unseres hochvgeehrten Führers und der Parteileitung gedachte.
+                  Meine Herren, haben Sie Dank für die Zustimmung, welche Sie<said id="192" mode="reported" content="speech" level="2"> den <seg id="192" type="intExpr">Worten</seg></said> und <said id="193" mode="reported" content="speech" level="2">dem Antrag</said> des Collegen <seg id="193 192" type="speaker">Fux</seg> zugewendet haben. Ihr Vertrauen zu besitzen ist fürwahr ein reicher Lohn
+                        für die Arbeit, die unser Führer und wir mit
+                        ihm geleistet haben. Diese Anerkennung ist um
+                        so werthvoller,<said id="194" mode="reported" content="speech" level="2"> als <seg id="194" type="speaker">ich</seg> mit Recht die heutige Versammlung eine illustre Versammung <seg id="194" type="intExpr">nennen</seg> darf</said>,
+                        welche ein Bild unserer gesammten mährischen
+                        Verhältnisse bietet, da hier die Vertrauensmänner des Landes vereinigt sind, Reichsrathsund Landtagsabgeordnete, welche jahrelang Schulter
+                        an Schulter für die deutsche Sache mit uns
+                        kämpfen,<seg id="195" type="frame" pos="start"> <seg id="195" type="speaker">welche</seg> am besten <seg id="195" type="intExpr">wissen</seg>,</seg> <said id="195" mode="indirect" content="thought" level="2" border="yes">wie oft man
+                        gezwungen ist, seine Gefühle zu unterdrücken im
+                        Interesse des Ganzen sich unterzuordnen.</said> Die
+                        Bürgermeister und Vereinsobmänner aus Süd
+                        und Nord, Ost und West, welche stets treu zur
+                        deutschen Sache gehalten haben, sind erschienen.
+                  Meine Herren! Es wurde wiederholt der
+                        Deutschen in Böhmen gedacht. <said id="196" mode="reported" content="thought" level="2">Wenn <seg id="196" type="speaker">ich</seg> früher
+                        über die Lage der Deutschen in Böhmen <seg id="196" type="intExpr">nachdachte</seg></said>,
+                        mochte ich sie vielleicht beneiden darum, daß sie
+                        in geschlossenen Sprachgebieten nur deutsch-nationalen Gefühlen folgen dürfen. Dieser Neid ist
+                        längst geschwunden, heute möchte ich nicht mehr
+                        ein Deutscher in Böhmen sein, heute bin ich ein
+                        Deutscher in Mähren, mögen die Verhältnisse bei
+                        uns auch noch so traurig sein, doch noch lieber.
+                  Die deutschen Nordmährer, deren Repräsentanten in nicht unbeträchtlicher Zahl erschienen
+                        sind, was ich mit Freuden begrüße, sie mögen in
+                        gewisser Richtung ähnliche Verhältnisse haben wie
+                        die Deutschen in Nordböhmen, sie sind beneidenswerth, weil sie in geschlossenen Sprachgebieten
+                        leben und ihren nationalen Gefühlen allein folgen
+                        können; aber sie genießen auch Dank der Unterstützung anderer Bundesgenossen die Vortheile,
+                        welche die Majorität der Landesvertretung gewährt.
+                  Die Vortheile die diese Deutschen Nordmährens gemeinsam mit uns genießen, legen ihnen
+                        aber erhöhte doppelte Pflichten auf. <seg id="197" type="frame" pos="start"><seg id="197" type="speaker">Sie</seg> dürfen
+                        nicht <seg id="197" type="intExpr">vergessen</seg>, </seg><said id="197" mode="indirect" content="thought" level="2" nonfact="yes">daß es der rein deutschen Bezirke in
+                        Nordmähren sehr wenige gibt und daß wir die
+                        gemischten Bezirke im Interesse des Ganzen erhalten müssen, wenn wir uns die Majorität
+                        wahren wollen.</said>
+                 <said id="198" mode="reported" content="speech" level="2"> Die <seg id="198" type="speaker">Deutschen</seg> in den gemischten Bezirken
+                        wissen viel zu <seg id="198" type="intExpr">erzählen</seg> von Drangsalirungen und
+                        Kämpfen</said>, welche den Deutschen in Nordmähren
+                        fremd sind.</said><said id="200" mode="direct" content="speech" level="1"> (Bravo!)</said>
+                         
+                  <said id="199" mode="direct" content="speech" level="1">Ich freue mich, daß so angesehene Vertreter
+                        von Nordmähren hier erschienen sind und mit
+                        uns gestimmt haben und damit documentirten,
+                        daß sie volles Verständniß haben, für die Verhältnisse der Deutschen in Mähren.
+                  Die Einigkeit, meine Herren, und nur diese
+                        allein kann uns den Erfolg verschaffen und <seg id="201" type="frame" pos="start">wenn von
+                        <seg id="201" type="speaker">Dr. Pollak</seg> darauf <seg id="201" type="intExpr">verwiesen</seg> wurde, </seg><said id="201" mode="indirect" content="speech" level="2">daß die
+                        Tschechen Erfolge erzielten, indem sie ihre Nationalität hervorkehrten</said>, <seg id="202" type="frame" pos="start">so <seg id="202" type="intExpr">sage</seg> <seg id="202" type="speaker">ich</seg></seg><said id="202" mode="indirect" content="speech" level="2"> daß wirkliche
+                        Erfolge von ihnen nur erzielt wurden dadurch,
+                        daß sie sich unbedingt ihren Führern unterordneten.</said> Nie wären die Tschechen zu der Stellung von heute gekommen, wenn sie nicht unbedingt Disciplin zu halten verstünden.
+                  Die Einzelnen von ihnen, sie mögen, wenn
+                        sie zurück nach Böhmen kommen, noch so unzufrieden sein und noch so opponiren auf den Tabors,
+                        doch wenn sie in Wien sind, unterordnen sie sich
+                        unbedingt unter ihre Führer und nicht nur unter
+                        ihre Führer, die ihnen verwandt sind durch Sprache
+                        und Abstammung, sondern auch unter die Feudalen,
+                        um ihren Einfluß zu bewahren.</said> <said id="203" mode="direct" content="speech" level="1">(Ganz richtig.)</said>
+                         
+                  <said id="199" mode="direct" content="speech" level="1">Meine Herren! Nur unbedingte Unterordnung kann uns zu Erfolgen führen</said> <said id="204" mode="direct" content="speech" level="1">(So ist es)</said>
+                        <said id="199" mode="direct" content="speech" level="1">und in den Tagen der Gefahr zum Siege.</said> <said id="205" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                  <said id="199" mode="direct" content="speech" level="1"><said id="206" mode="reported" content="speech" level="2">Und wenn eine <seg id="206" type="intExpr">Mahnung</seg> seitens des <seg id="206" type="speaker">Herrn
+                        Dr. Pollak</seg> an uns gerichtet wurde</said>, <said id="207" mode="reported" content="speech" level="2">so möchte <seg id="207" type="speaker">ich</seg>
+                        diese <seg id="207" type="intExpr">Mahnung</seg> erwidern an die hochverehrten
+                        Vertreter von Nordmähren, welche, <said id="208" mode="reported" content="speech" level="3"><seg id="208" type="speaker">ich</seg> <seg id="208" type="intExpr">wiederhole</seg>
+                        es nochmals</said>, ich gerne begrüße</said>, Sie mögen auch
+                        die Verhältnisse in den gemischten Bezirken berücksichtigen und denselben Rechnung tragen.
+                 <seg id="209" type="frame" pos="start"> <seg id="209" type="speaker">Sie</seg> mögen <seg id="209" type="intExpr">bedenken</seg>, </seg><said id="209" mode="indirect" content="thought" level="2" nonfact="yes">daß wir in Mähren
+                        durch die Erhaltung der Landtagsmajorität für
+                        das ganze Land und für die deutsche Sache Vieles
+                        erreichten und Manches verhüteten.</said> </said>(Stürmischer
+                        Beifall! Bravorufe.)<said id="199" mode="direct" content="speech" level="1"> <seg id="211" type="frame" pos="start"><seg id="211" type="speaker">Ich</seg> <seg id="211" type="intExpr">zweifle</seg> nicht,</seg> <said id="211" mode="indirect" content="thought" level="2" nonfact="yes">daß
+                        diese Einigkeit auch in Mähren zu erhalten
+                        sein wird. </said>Sie war daund ist da. </said>(Lebhafrer
+                        Beifall.)
+                         
+                 <said id="199" mode="direct" content="speech" level="1"> <said id="212" mode="reported" content="speech" level="2">Es wird immer <seg id="212" type="intExpr">hingewiesen</seg> auf<said id="213" mode="reported" content="thought" level="3"> <seg id="213" type="intExpr">Wünsche</seg>
+                        aus Kreisen, welche nicht mit uns einverstanden
+                        wären.</said></said> Warum erschienen diese Herren nicht,
+                        warum haben sie ihre Wünsche nicht gelteud gemacht?</said> <said id="214" mode="direct" content="speech" level="1">(Bravo! Bravo!)</said>
+                         
+                  <said id="199" mode="direct" content="speech" level="1">Hier ist die Stätte, <said id="215" mode="reported" content="speech" level="2" nonfact="yes">wo <seg id="215" type="speaker">wir</seg> uns <seg id="215" type="intExpr">auseinandergesetzt</seg> hätten.</said> <seg id="216" type="frame" pos="start">Und <seg id="216" type="speaker">ich</seg> bin <seg id="216" type="intExpr">überzeugt</seg>, </seg><said id="216" mode="indirect" content="thought" level="2" border="yes">daß wenn
+                        nicht weseutliche Hindernisse obwalten,<said id="217" mode="reported" content="speech" level="3" nonfact="yes"> es immer
+                        zu einer <seg id="217" type="intExpr">Auseinandersetzung</seg> kommen wird.</said></said>
+                  Wir müssen die Einigkeit hochhalten und in
+                        diesem Sinne danke ich für das dem verdienten
+                        Führer und uns, die wir immer mit ihm kämpfen
+                        und einig sind, ausgesprochene Vertrauen.
+                 <said id="218" mode="reported" content="speech" level="2"> In dieser <seg id="218" type="intExpr">Vertrauenskundgebung</seg></said> liegt der
+                        Beweis, daß sie einig sein wollen und auch wir
+                        werden wieder gute Tage erleben.
+                  Meinen Dank für das ausgesprochene Vertrauen.</said> <said id="219" mode="direct" content="speech" level="1">(Bravo! Bravo!</said> Händeklatschen, donnernder Beifall.)
+                         
+                  <seg id="220" type="frame" pos="start"><seg id="220" type="speaker">Abg. Dr.Sturm</seg>machte sodann die <seg id="220" type="intExpr">Mittheilung</seg>, </seg><said id="220" mode="indirect" content="speech" level="1">daß ihm von Seite des Herrn Abg.
+                        Dr. Wenzliczke mehrere Resolutionen übergeben
+                        wurden, welche sich auf eine Verschiebung des
+                        Zeitpunctes des Parteitages beziehen.</said> Diese Resolutionen werden berücksichtigt werden.
+                  <said id="221" mode="reported" content="speech" level="1"><seg id="221" type="speaker">Abg. Dr.Weeber</seg><seg id="221" type="intExpr">schließt sich</seg> <said id="222" mode="reported" content="speech" level="2">den von
+                        <seg id="222" type="speaker">Dr. Promber</seg> <seg id="222" type="intExpr">ausgesprochenen</seg> Danke für das der
+                        Partheileitung ertheilte Vertrauen</said> <seg id="221" type="intExpr">an</seg>.</said>
+                  <seg id="223" type="frame" pos="start"><seg id="223" type="speaker">Abg. Dr.Weeber</seg><seg id="223" type="intExpr">bringt</seg> der Versammlung noch <seg id="223" type="intExpr">zur Kenntniß</seg></seg> <said id="223" mode="indirect" content="speech" level="1">daß der Centralleitung ein
+                        Antrag von Seite des Mähr.-Ostrauer deutschen
+                        Verfassungs-Vereines, betreffend mehrere Fragen
+                        der Parteiorganisation in Mähren zukam.</said> <seg id="224" type="frame" pos="start"><seg id="224" type="speaker">Redner</seg>
+                        <seg id="224" type="intExpr">macht</seg> den <seg id="224" type="intExpr">Vorschlag</seg>,</seg> <said id="224" mode="indirect" content="speech" level="1">daß dieser Antrag dem Executivcomité zur weiteren Berathung mitgetheilt
+                        werde.</said> (Angenommen.)
+                         
+                  Zur Vorlesung gelangt etne Zuschrift mehrerer Gemeindevorsteher des Mähr.-Neustädter
+                        Bezirkes, <said id="225" mode="reported" content="speech" level="1">in <seg id="225" type="speaker">welcher</seg> dieselben die Forderung zur
+                        Erhaltung der Einigkeit <seg id="225" type="intExpr">betonen</seg>.
+ </said>                 Abg. Dr.Sturmschließt die Versammlung,<seg id="226" type="frame" pos="start"> indem <seg id="226" type="speaker">er</seg> <seg id="226" type="intExpr">sagt</seg>, </seg><said id="226" mode="indirect" content="speech" level="1">daß die Versammlung das
+                        Bild ungetrübter Einigkeit geboten habe.
+ </said>                <said id="227" mode="reported" content="speech" level="1"> <seg id="227 228" type="speaker">Er</seg> <seg id="227" type="intExpr">dankte</seg> nochmals für die außerordentliche
+                        Betheiligung</said> und<seg id="228" type="frame" pos="start"> richtet an die Versammelten die
+                        <seg id="228" type="intExpr">Bitte</seg>,</seg> <said id="228" mode="indirect" content="speech" level="1">dieselben mögen in ihren Kreisen dahin
+                        wirken, daß die Einigkeit in allen Orten wie
+                        hier allerzeit hochgehalten und gepflegt werde.</said>
+                        (Stürmischer Beifall.) Damit endete die bedeutsame Versammlung, welche sich nicht nur zu
+                        großen Ovationen für die Parteileitung insbesondere für den Führer der Deutschen Dr. Sturm
+                        und den Führer des Großgrundbesitzes R. v.
+                        Chlumecky gestaltete, sondern auch die Einigkeit
+                        aller Deutschen bei Verfolgung der großen Ziele
+                        der Opposition in großartiger Weise manifestirt
+                        hatte.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

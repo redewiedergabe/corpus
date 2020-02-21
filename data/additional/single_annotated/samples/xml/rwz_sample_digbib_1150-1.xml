@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Vorzugsschüler</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Vorzugsschueler.tg125_1.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Vorzugsschüler</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Du freilich nicht, du armer Büffler. Weil du nur ein Büffler bist, <said id="2" mode="reported" content="thought" level="2" nonfact="yes">kannst du's nicht begreifen.</said> Du möchtest nur; ich kann, was ich mag.«</said> 
+                  Georg warf sich in die Brust: <said id="3" mode="direct" content="speech" level="1" nonfact="yes">Und ich auch</said><seg id="3" type="frame" pos="end">, wollte <seg id="3" type="speaker">er</seg> <seg id="3" type="intExpr">antworten</seg></seg>; doch brach ihm die Stimme...
+                  Ihm war, als ob der Boden sich aufrisse und zwischen ihm und dem gottbegnadeten Kameraden ein unüberbrückbarer Abgrund gähne. Drüben, mitten in fruchtbaren Gefilden, in denen alles grünte und blühte, stand Pepi, und wohin sein Fuß trat, entsprang ein Quell, und was seine Hand berührte, wurde zur herrlichen Frucht. Und er hüben, auf kargem, steinigem Boden, der widerstrebend nur und ungern sich den schattigen Zweig, den nährenden Halm entringen ließ. 
+                  <said id="10" mode="freeIndirect" content="thought" level="1">Warum die schreiende Ungerechtigkeit, warum dem andern alles und ihm so bettelhaft wenig?</said> 
+                  Pepi beobachtete seinen stillen Kampf und verzog höhnisch den Mund. <said id="4" mode="direct" content="speech" level="1">»Büffler!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sprach</seg> <seg id="4" type="speaker">er</seg>.</seg> <said id="5" mode="direct" content="speech" level="1">»Büffeln kommt von Büffel, und Büffel gehören zu der Gruppe der Rinder.«</said> Da ergriff wilder Zorn den sanftmütigen Georg. Er sprang ruf Pepi zu und packte ihn an der Gurgel. 
+                  Der unerwartet Angefallene brüllte und wehrte sich mit Händen und Füßen, und bald waren die beiden umringt von einer johlenden Schar, die sich an dem Zweikampf beteiligte, fast durchweg zugunsten Georgs. Den vielbeneideten, vielgehaßten Pepi einmal gänzlich überwunden abziehen zu sehen gewährte jedem einzelnen einen köstlichen Genuß. Jämmerlich zugerichtet, in zerfetzten Kleidern verließ er den Plan. Das begab sich unweit der Schule, und an der Straßenecke war Salomon gestanden und hatte der Schlacht mit gespannter Teilnahme zugesehen. <said id="6" mode="reported" content="speech" level="1">Er begleitete Georg mit Glückwünschen und Heilrufen</said>; der aber winkte traurig ab. Er hatte etwas getan, was seinem ganzen Wesen widersprach, schämte sich seines Erfolges und betrachtete mit Entsetzen seinen neuen Rock, an dem die Spuren der Schlägerei zu sehen waren. Nun begann er zu rennen, um früher als der Vater heimzukommen. In Schweiß gebadet betrat er die Küche, legte das Ohr an das Schloß der Zimmertür und horchte. Alles still, nur die Nähmaschine schnurrte, die Mutter war allein. <said id="7" mode="freeIndirect" content="thought" level="1">O Gott sei Lob und Dank!</said> Hastig trat er ein und <said id="11" mode="reported" content="speech" level="1">sprudelte die Geschichte seines jüngsten Erlebnisses heraus:</said> <said id="9" mode="direct" content="speech" level="1">»Und jetzt flick mir den Rock, Mutter, flick mir den Rock!«</said>
+                         
+                  Das Abendessen wurde schweigend eingenommen. Eine dumpfe Verstimmung herrschte im Hause. Pfanner schmollte noch immer mit seiner Frau. Er hatte die Scheine über alle von ihr versetzten Gegenstände an sich genommen, um sie nach und nach einzulösen. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Gott</seg> <seg id="12" type="intExpr">weiß</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1" border="yes" prag="yes">unter welchen Bitternissen.</said> Jeder Gulden, den er ins Versatzamt trug, war ein Raub am Sparkassenbuch seines Sohnes; an diesem künftigen Vermögen, aus dem die Kosten der Rigorosen und des Freiwilligenjahres bestritten werden sollten. Es gab Augenblicke, in denen er sie haßte, die Schuld an dem Raube trug. Ihn gutzumachen lag nicht in ihrer Macht, in der seinen aber lag, sie büßen und leiden zu machen. Tag für Tag wiederholte sich dieselbe Tortur. <said id="13" mode="reported" content="speech" level="1">Tag für Tag verlangte er die Hausrechnung zu sehen</said>, ging jeden einzelnen Posten durch, <said id="14" mode="reported" content="speech" level="1">bemängelte jeden.</said> Mit raffinierter Kunst erniedrigte er die Mutter in Gegenwart des Kindes durch sein zur Schau getragenes Mißtrauen. 
+                  <said id="15" mode="direct" content="speech" level="1">»Wer einmal betrogen hat, gleichviel <said id="16" mode="reported" content="thought" level="2">in welcher Absicht</said>, betrügt wieder!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

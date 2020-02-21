@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Esterka Regina</title>
+             <author>Franzos, Karl Emil</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Franzos,_Karl_Emil_Esterka_Regina.tg52_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Esterka Regina</f>
+         <f name="author">Franzos, Karl Emil</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Ich hatte meinen Freund seit zwei Jahren nicht gesehen, seit jenem Tage, <seg id="1" type="frame" pos="start">wo <seg id="1" type="speaker">er</seg> zu mir kam und mir kurz und kühl <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Ich bin als Arzt in holländische Dienste getreten und gehe nach Batavia – leb' wohl!«</said> Aber er hatte sich in der Zwischenzeit wenig verändert: dasselbe blasse Gesicht mit dem unveränderlichen Ausdruck finsterer, trotziger Ruhe. Nur brauner war er geworden von der tropischen Sonne. 
+                  <said id="2" mode="direct" content="speech" level="1">»Also wieder in Europa!«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">rief</seg> <seg id="2" type="speaker">ich</seg> freudig.</seg> <said id="3" mode="direct" content="speech" level="1">»Das ist recht von Dir! <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Du</seg> <seg id="4" type="intExpr">weißt</seg> ja,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes">wie sehr ich mich gemüht habe, <said id="5" mode="reported" content="speech" level="3">Dir Deinen Plan auszureden.</said></said> In dieses mörderische Klima zu gehen, das war ja eine Art anständigen Selbstmords!«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Ja!«</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">erwiderte</seg> <seg id="6" type="speaker">er</seg> ruhig,</seg> <said id="6" mode="direct" content="speech" level="1">»das war's.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Aber nun bleibst Du hier?«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Ja! Ich habe auch jetzt keine Freude am Leben, aber es macht mir auch keinen Schmerz mehr. <said id="9" mode="reported" content="thought" level="2" border="yes">Der Tod wird mir wohl immer als etwas sehr Gleichgültiges erscheinen.</said> Aber da ich nun einmal lebe, so habe ich wohl auch die Pflicht, mich so nützlich als möglich zu machen. Ich werde mich hier oder auswärts als Dozent habilitieren.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Das freut mich,«</said> <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">ich</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»<seg id="11" type="frame" pos="start"><seg id="11" type="speaker">ich</seg> habe übrigens nie die <seg id="11" type="intExpr">Hoffnung</seg> verloren,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">daß Dich die Zeit doch endlich heilen wird.</said>«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Es war, <said id="13" mode="reported" content="speech" level="2" border="yes">wenn Du das, was mit mir vorgegangen ist, eine Heilung nennen willst</said>, nicht die Zeit, die es bewirkt hat, sondern ein Brief.«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ein Brief? Von ihr?«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Ja. Nachdem ich ihn erhalten hatte, reiste ich sogleich nach Europa – direkt nach Barnow. So wahnsinnig rasch hat bisher noch kein Mensch die ungeheure Reise zurückgelegt. Aber ich bin dennoch zu spät gekommen.«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Sie ist tot?«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">fragte</seg> <seg id="16" type="speaker">ich</seg>.</seg> 
+                  <said id="17" mode="direct" content="speech" level="1">»Ja – vier Wochen sind's her, daß sie starb.«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="writing" level="2" nonfact="yes">Und sie rief Dich durch jenen Brief an ihr Sterbelager?</said>«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Nein! <said id="21" mode="reported" content="thought" level="2" border="yes">Aber da Du alles Übrige kennst</said>, so ist es wohl meine Pflicht, Dich auch diesen Brief lesen zu lassen.«</said> Er reichte mir das Schreiben hin. <seg id="22" type="frame" pos="start">In zitternden, kaum lesbaren Zügen stand darin <seg id="22" type="intExpr">geschrieben</seg>:</seg> 
+                  <said id="22" mode="direct" content="writing" level="1">»Es wird bald Frühling, aber ich fühle, daß ich ihn nicht mehr erleben werde, <said id="23" mode="reported" content="writing" level="2">darum will ich schreiben</said>, so lange ich es noch vermag. Ich thue es wohl auch um meinetwillen, aber noch mehr um Euretwillen. Um meinetwillen nur, damit Ihr mich nicht auch noch bis über den Tod hinaus verachtet, aber um Euretwillen, um Euch wenigstens jetzt den Schmerz zu nehmen, daß Ihr ein Mädchen geliebt habt, welches schlecht war und Eurer Liebe nicht wert. 
+                  <said id="24" mode="reported" content="writing" level="2">Ich habe gelogen, was ich zuletzt vor vier Jahren schrieb.</said> Ich hatte Euch damals lieb und liebe Euch jetzt, und ich werde Euch lieb haben, bis ich sterbe. Und wenn uns Gott nach dem Tode diese Gnade gestattet, so werde ich Euch auch dann noch lieben. Aber eben wegen meiner Liebe habe ich mich so auf immer von Euch geschieden. Schüttelt nicht das Haupt und <said id="26" mode="reported" content="thought" level="2" nonfact="yes">wundert Euch nicht über <said id="25" mode="reported" content="writing" level="3">die seltsamen Worte.</said></said> Es wäre mir kein reines Glück geworden, das ich erkauft hätte <said id="27" mode="reported" content="speech" level="2" nonfact="yes">mit dem Fluche des Vaters</said> und mit der Verzweiflung der Mutter. Aber das hätte ich überwunden. Eines jedoch hätte ich niemals ausgeglichen! – Ihr habt darüber gelächelt und es war doch richtig: Eure Stellung und wie sie mich erzogen haben.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

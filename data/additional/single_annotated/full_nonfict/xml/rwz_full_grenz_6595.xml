@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Petrussagen</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341805_191229.txt_24.xml</f>
+         <f name="year">1867</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Petrussagen</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">0</f>
+         <f name="narrative">no</f>
+         <f name="textype">Undefined</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Die Petrussagen.
+                        
+            
+               3.
+                        
+               Geht man vom Colosseum auf der Via di San Giovanni in Laterano
+                        nach der stolzen Kirche gleichen Namens, so steht links am Wege, noch zum
+                        Monte Cello gehörig, die alte Basilika San Elemente. In ihrer jetzigen Gestalt stammt sie aus dem neunten Jahrhundert; durch neuere Ausgrabungen ist
+                        aber eine Unterkirche aufgedeckt worden, die dem vierten oder fünften Jahrhundert angehört, und unter dieser wieder hat man antike Zimmer aus der
+                        Zeit der Antonine gesunden, in welchen mehrmals die Inschrift eines Rufinus
+                        wiederkehrt. Der Tradition zufolge stand hier einst das elterliche Haus des
+                        römischen Clemens, der mit der kaiserlichen Familie der Flavier verwandt,
+                        durch Petrus für das Christenthum gewonnen und von dem sterbenden Apostelfürsten zu seinem Nachfolger aus dem Bischofsstuhl eingesetzt wurde. Auch er
+                        starb den Märtyrertod und über seinen Gebeinen erhob sich die Basilica, die
+                        von ihm den Namen führt und die noch heute am meisten die ursprüngliche
+                        Anlage der Basiliken vergegenwärtigt.
+               Eine historische Spur hat sich in dieser kirchlichen Tradition wirklich erhalten. Es scheint Thatsache, daß das Christenthum unter Angehörigen des
+                        slavischen Hauses Eingang gefunden hatte. Man hat neuestens Entdeckungen
+                        in den Katakomben gemacht, in welchen man eine Bestätigung der später weit
+                        ausgesponnenen kirchlichen Angaben finden will.') Indessen besitzen wir genügende Winke bei den römischen Geschichtschreibern. <said id="1" mode="reported" content="thought" level="1" border="yes"><seg id="1" type="speaker">Suetonius</seg> und <seg id="1" type="speaker">Dio Cassius</seg> <seg id="1" type="intExpr">wissen</seg> von einem Titus Flavius Clemens</said>, der. ein Neffe Vespasians. im
+                        Jahre 96, dem letzten des Domitian, vor Gericht gestellt, zum Tod verurtheilt
+                         
+               <note>") Reumont, Geschichte der Stadt Rom, I., S, 418 ff.
+                        </note>
+               
+               und hingerichtet wurde. Die Anklage lautete auf Gottlosigkeit, jüdische Lebensweise und verachtungswürdigste Unthätigkeit, <seg id="2" type="frame" pos="start">Ausdrücke die es außer <seg id="2" type="intExpr">Zweifel</seg>
+                        setzen,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">daß sein Verbrechen das christliche Bekenntniß war.</said> Seine Gemahlin
+                        Flavia Domitilla wurde mit zwei Kindern nach der Insel Pandataria verbannt,
+                        erhielt aber später von Domitian die Erlaubniß zur Rückkehr. <said id="3" mode="reported" content="thought" level="1" border="yes">Die christliche
+                        <seg id="3" type="speaker">Sage</seg> <seg id="3" type="intExpr">weiß</seg> dann noch von einer andern Flavia Domitilla</said>, einer Schwestertochter des Flavius Clemens, die nach der Insel Ponza verbannt worden sei;
+                        noch am Ende des vierten Jahrhunderts zeigte man die Felsenhöhlen daselbst,
+                        in welchen sie Jahre der Verbannung zubrachte. Auch eine angebliche Tochter
+                        des Petrus.<said id="4" mode="reported" content="speech" level="1"> Petronilla, wird in diesem Ueberlieferungskreise <seg id="4" type="intExpr">genannt</seg></said>, <said id="5" mode="reported" content="thought" level="1">in welcher
+                        <seg id="5" type="speaker">Reumont</seg> gleichfalls ein Mitglied der slavischen Familie <seg id="5" type="intExpr">vermuthet</seg>. </said><said id="6" mode="reported" content="speech" level="1"><seg id="6" type="speaker">Tacitus</seg>
+                        <seg id="6" type="intExpr">redet</seg> im Leben des Agricola von Exil und Flucht vieler hochstehender Frauen.</said>
+               Dieser geschichtliche Flavius Clemens, der im Jahr vor seiner Hinrichtung
+                        Consul war, hat nun freilich mit jenem Clemens nichts zu schaffen, der, ein
+                        beständiger Begleiter des Petrus und zu Ende des Jahrhunderts Bischof der
+                        Gemeinde gewesen sein soll; man macht deshalb den letzteren gewöhnlich zu
+                        einem Verwandten oder bloßen Namensgenossen desselben. <seg id="7" type="frame" pos="start">Allein es ist <seg id="7" type="intExpr">begreiflich</seg>, </seg><said id="7" mode="indirect" content="thought" level="1" border="yes">daß das Schicksal eines so vornehmen Römers, der um des Christenthums willen leiden mußte, <said id="8" mode="reported" content="thought" level="2">in der <seg id="8" type="intExpr">Erinnerung</seg> der <seg id="8" type="speaker">Gemeinde</seg> tiefen Eindruck
+                        zurückließ</said>, um so mehr, als sein Tod auch bei den Römern durch schreckhafte
+                        Erscheinungen, die ihm folgten, großes Aufsehen machte. </said>So wurde er frühzeitig in die christliche Sagengeschichte verflochten, und einzelne Züge von ihm
+                        gingen über in das Bild des römischen Clemens, wie es sich im Lauf des
+                        zweiten Jahrhunderts in der Tradition festsetzte, des ersten römischen Bischofs,
+                        der später zum bevorzugten Träger der apostolischen Ueberlieferungen und <said id="9" mode="reported" content="writing" level="1">zum
+                        <seg id="9" type="intExpr">Verfasser</seg> einer Anzahl schriftstellerischer Erzeugnisse gemacht wurde</said>, die ebenso
+                        durch ihren judaisuenden Lehrbegriff, wie durch ihre hierarchische Tendenz
+                        charakteristisch sind.
+               Und eine dieser Schriften, die sogenannten Homilien, soll uns nun zunächst beschäftigen. Es ist ein Roman,<said id="10" mode="reported" content="writing" level="1"> angeblich von <seg id="10" type="speaker">Clemens</seg> selbst in Form
+                        von Briefen an Jakobus, den Bischof von Jerusalem <seg id="10" type="intExpr">geschrieben</seg>.</said> Der Inhalt
+                        ist die eigene Lebens- und Familiengeschichte des Clemens, in die zugleich die
+                        Geschichte des Magiers verflochten ist.
+               Der Roman beginnt mit einer schönen, berühmt gewordenen Schilderung
+                        des geistigen Zustandes, in welchem sich die besseren Elemente der Heidenwelt
+                        zur Zeit Jesu befanden. <said id="11" mode="reported" content="writing" level="1"><seg id="11 12" type="speaker">Clemens</seg> <seg id="11" type="intExpr">schreibt</seg> dem Jakobus, wie er, schon von
+                        früh aus ernste Dinge den Sinn gerichtet, viel<said id="12" mode="reported" content="thought" level="2"> mit dem <seg id="12" type="intExpr">Gedanken</seg> an den Tod
+                        und was nach dem Tode sein werde</said>, sich beschäftigt habe.</said> Um auf solche und
+                        ähnliche Fragen, z. B. ob die Welt einen Anfang habe oder von Ewigkeit her
+                        gewesen sei, Antwort zu haben, wandte er sich an die Schulen der Philosophen,
+                        *
+                         
+               
+               aber ohne <said id="13" mode="reported" content="thought" level="1">das <seg id="13" type="intExpr">Gewünschte</seg></said> zu finden. <said id="14" mode="reported" content="thought" level="1">Fortwährende <seg id="14" type="intExpr">Zweifel</seg> quälten <seg id="14" type="speaker">ihn</seg></said>; <seg id="15" type="frame" pos="start">bald
+                        war <seg id="15" type="speaker">er</seg> <seg id="15" type="intExpr">überzeugt</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1" border="yes">daß die Seele unsterblich sei</said>, bald gewann <said id="16" mode="reported" content="thought" level="1">die entgegengesetzte <seg id="16" type="intExpr">Meinung</seg> </said>die Oberhand, niemand konnte ihn aus diesem trostlosen
+                        Zustande befreien. <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Er</seg> trug sich mit dem <seg id="17" type="intExpr">Gedanken</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1">seinem Leben ein Ende zu
+                        machen</said>, aber die Möglichkeit, daß es ein Jenseits gebe, in welchem härtere
+                        Qualen ihn erwarten, wenn er nicht recht gehandelt habe, hielt ihn zurück.
+                        Und wenn er sich nun vornahm ein frommes Leben zu führen, so fehlte ihm
+                        wieder die Gewißheit, was Gott wohlgefällig sei, und das Vertrauen in seine
+                        moralische Kraft. <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Er</seg> faßte den <seg id="18" type="intExpr">Gedanken</seg></seg><said id="18" mode="indirect" content="thought" level="1"> nach Aegypten zu gehen</said>, um bei
+                        Magiern und Nekromanten über die Unsterblichkeit der Seele Aufschluß zu er-
+                        halten, <seg id="19" type="frame" pos="start">und nur die dringenden <seg id="19" type="intExpr">Vorstellungen</seg> eines <seg id="19" type="speaker">Freundes</seg>, </seg><said id="19" mode="indirect" content="speech" level="1">daß dies etwas
+                        Sündhaftes sei</said>, konnten ihn davon abbringen.
+               Während er so von Zweifel niedergedrückt war, <said id="20" mode="reported" content="speech" level="1">drang unter der Regierung
+                        des Tiberius die <seg id="20" type="intExpr">Kunde</seg> von Christus nach Rom</said>, erst als unbestimmtes Gerücht,
+                        dann aber bestimmter und deutlicher, und endlich trat ein <seg id="21" type="speaker">Mann</seg> in Rom auf,
+                       <seg id="21" type="frame" pos="start"> mit der <seg id="21" type="intExpr">Verkündigung</seg>,</seg> <said id="21" mode="indirect" content="speech" level="1">daß der <seg id="22" type="speaker">Sohn Gottes</seg> in Judäa erschienen sei und
+                       <said id="22" mode="reported" content="speech" level="2"> jedem, der den Willen des Vaters thue, das ewige Leben <seg id="22" type="intExpr">verheiße</seg>.</said></said> <said id="23" mode="reported" content="thought" level="1">Da <seg id="23" type="intExpr">beschloß</seg> <seg id="23" type="speaker">er</seg> selbst nach Jerusalem sich zu begeben</said>, ordnete seine Angelegenheiten
+                        und reiste ab. Allein widrige Winde verschlugen ihn nach Alexandria. Hier
+                        traf er den Barnabas und hörte mehre Tage <said id="24" mode="reported" content="speech" level="1"><seg id="24" type="speaker">seiner</seg> <seg id="24" type="intExpr">Verkündigung</seg> des Evangeliums</said> zu. Wegen eines Festes muß Barnabas nach Jerusalem,<said id="25" mode="reported" content="thought" level="1"> und <seg id="25" type="speaker">Clemens</seg>
+                        <seg id="25" type="intExpr">beschließt</seg> ihm nachzureisen. </said>Unterwegs in Casarea - Stratonis trifft er nicht
+                        nur den Barnabas wieder, sondern auch den Petrus,<said id="26" mode="reported" content="speech" level="1"> mit dem ihn <seg id="26" type="speaker">jener</seg> <seg id="26" type="intExpr">bekannt macht</seg>. </said><seg id="28" type="speaker">Petrus</seg> nimmt ihn freundlieh auf, hört <said id="27" mode="reported" content="speech" level="1"><seg id="27" type="speaker">seine</seg> <seg id="27" type="intExpr">Zweifel</seg></said> an, <said id="28" mode="reported" content="speech" level="1"><seg id="28" type="intExpr">unterweist</seg> ihn in den Grundlehren des Christenthums</said>, und <seg id="29" type="speaker">Clemens</seg>, vollständig
+                        überzeugt, <said id="29" mode="reported" content="thought" level="1"><seg id="29" type="intExpr">beschließt</seg> beständig bei ihm zu bleiben.</said> <seg id="30" type="frame" pos="start">Schließlich <seg id="30" type="intExpr">theilt</seg> ihm <seg id="30" type="speaker">Petrus</seg>
+                        <seg id="30" type="intExpr">mit</seg>,</seg> <said id="30" mode="indirect" content="speech" level="1">daß <seg id="31" type="speaker">ihm</seg> am folgenden Tag <said id="31" mode="reported" content="speech" level="2" nonfact="yes">eine <seg id="31" type="intExpr">Streitunterredung</seg> mit dem Magier
+                        <seg id="31" type="speaker">Simon</seg></said> bevorstehe.</said>
+               <said id="32" mode="reported" content="speech" level="1">Früh am andern Tag setzt <seg id="32 33 35" type="speaker">Petrus</seg> seine <seg id="32" type="intExpr">Unterweisung</seg> des Clemens fort.</said>
+                        <said id="33" mode="reported" content="speech" level="1">Die <seg id="33" type="intExpr">Rede</seg> kommt auch auf den Magier Simon.</said> <said id="34" mode="reported" content="speech" level="1"><seg id="34" type="speaker">Clemens</seg> <seg id="34" type="intExpr">erkundigt sich</seg> nun
+                        näher nach ihm</said>, <said id="35" mode="reported" content="speech" level="1">und <seg id="35" type="intExpr">erfährt</seg> von Aquila und Nifetas</said>, die, zwei angenommene
+                        Kinder einer Syrophönizierin, Namens Justa, mit Simon zusammen erzogen
+                        und anfangs befreundet, später aber für das Christenthum gewonnen waren
+                        und jetzt zu den beständigen Begleitern des Petrus gehörten, die Geschichte des
+                        Magiers, wie sie uns bereits bekannt ist. <said id="36" mode="reported" content="speech" level="1">Auch <seg id="36" type="speaker">Petrus</seg> <seg id="36" type="intExpr">spricht</seg> nur über sein
+                        Verhältniß zum Magier</said> und zeigt, wie nach dem Grundgesetz des Universums,
+                        dem Gesetz des Gegensatzes, stets das Schlechtere dem Besseren vorangehe; wie
+                        das Licht auf die Finsterniß, auf die Krankheit die Heilung folge, so habe zuvor der Apostel des Teufels unter den Heiden auftreten müssen, damit er,
+                        Petrus, sie von der Vielgötterei befreie.
+               
+               Während <said id="37" mode="reported" content="speech" level="1">dieses <seg id="37" type="intExpr">Gesprächs</seg></said> tritt <seg id="38" type="speaker">Zachäus</seg> herein und <seg id="38" type="frame" pos="start"><seg id="38" type="intExpr">meldet</seg>,</seg> <said id="38" mode="indirect" content="speech" level="1">daß die Disputation aus den folgenden Tag verschoben werden müsse, da der Magier verhindert sei.</said> Clemens ist traurig über diesen Aufschub. <seg id="39" type="frame" pos="start"><seg id="39" type="speaker">Petrus</seg> aber <seg id="39" type="intExpr">giebt</seg> ihm
+                        <seg id="39" type="intExpr">zu bedenken</seg>,</seg> <said id="39" mode="indirect" content="speech" level="1"><said id="40" mode="reported" content="speech" level="2">daß alles von <seg id="40" type="speaker">Gott</seg> <seg id="40" type="intExpr">angeordnet</seg> sei</said> und daß auch die widrigen
+                        Dinge zum Besten dienen müßten. </said>So sei auch dieser Aufschub vielleicht zu
+                        seinem Besten geordnet. <seg id="41" type="frame" pos="start">Denn <seg id="41" type="speaker">Petrus</seg> <seg id="41" type="intExpr">weiß</seg>,</seg> <said id="41" mode="indirect" content="thought" level="1" border="yes">worüber der Magier disputiren
+                        wird</said>, <said id="42" mode="reported" content="speech" level="1">und nun <seg id="42" type="intExpr">macht</seg> <seg id="42" type="speaker">er</seg> Clemens im Voraus mit dem Gegenstand der Unterredung <seg id="42" type="intExpr">bekannt</seg></said>, damit er nicht schwankend würde, wenn etwa Simon den Sieg
+                        davon tragen sollte.
+               Am folgenden Tag nun beginnt, nachdem Petrus durch Gebet sich gestärkt
+                        öffentlich vor allem Volk die Disputation. <said id="43" mode="direct" content="speech" level="1">„Friede sei mit Euch"</said><seg id="43" type="frame" pos="mid">, <seg id="43" type="intExpr">begrüßt</seg> <seg id="43 44" type="speaker">Petrus</seg>
+                        die versammelte Menge,</seg> <said id="43" mode="direct" content="speech" level="1">„den Frieden bringe ich euch"</said>, <said id="44" mode="reported" content="speech" level="1">reiht aber als echtes
+                        Vorbild seiner Kirche unmittelbar daran einen gewaltigen <seg id="44" type="intExpr">Fluch</seg> über <seg id="46" type="speaker">alle</seg>, die
+                       <said id="45" mode="reported" content="speech" level="2"> <seg id="45" type="speaker">seinen</seg> <seg id="45" type="intExpr">Worten</seg></said> <said id="46" mode="reported" content="thought" level="2" nonfact="yes">keinen <seg id="46" type="intExpr">Glauben</seg> schenken würden.</said></said> <said id="47" mode="reported" content="speech" level="1">Und nun folgt <seg id="47" type="speaker">seine</seg> <seg id="47" type="intExpr">Lehrrede</seg></said>,
+                        <said id="48" mode="reported" content="speech" level="1">auf welche der <seg id="48" type="speaker">Magier</seg> <seg id="48" type="intExpr">erwidert</seg>.</said> <said id="49" mode="reported" content="speech" level="1"><seg id="49" type="speaker">Petrus</seg> <seg id="49" type="intExpr">predigt</seg> einen strengen Monotheismus</said>,
+                        den er sowohl im Gegensatz gegen die heidnische Vielgötterei als im Gegensatz
+                        gegen die Lehre von der Gottheit Christi durchführt. <said id="50" mode="reported" content="speech" level="1">Der <seg id="50" type="speaker">Magier</seg> dagegen sucht
+                        <seg id="50" type="intExpr">nachzuweisen</seg>, daß der Gott des Alten Testaments ein schwaches, charakterloses
+                        Wesen sei, daß es also jedenfalls einen höheren Gott geben müsse, der in jeder
+                        Hinsicht vollkommen sei.</said> <said id="51" mode="reported" content="speech" level="1">Auch die Gottheit Jesu wird von <seg id="51" type="speaker">ihm</seg> <seg id="51" type="intExpr">vertheidigt</seg>.</said>
+                        Drei Tage dauert die Disputation. <said id="52" mode="reported" content="speech" level="1"><seg id="53" type="speaker">Simon</seg> wird natürlich<said id="53" mode="reported" content="speech" level="2"> in allen <seg id="53" type="intExpr">Behauptungen</seg></said> <seg id="52" type="intExpr">widerlegt</seg> </said>und entflieht beim Anbruch des vierten Tages nach Tyrus
+                        in Phönizien. <seg id="54" type="speaker">Petrus</seg> erfährt dies nach einigen Tagen und <said id="54" mode="reported" content="thought" level="1"><seg id="54" type="intExpr">beschließt</seg> ihm nachzureisen</said>, um seiner Wirksamkeit entgegenzuarbeiten. Vorher aber setzt er den
+                        Zachäus zum Bischof von Cäsarea ein und schickt <seg id="55" type="speaker">Clemens</seg>, <seg id="55" type="speaker">Aquila</seg> und <seg id="55" type="speaker">Niketas</seg>
+                        nach Tyrus voraus,<said id="55" mode="reported" content="writing" level="1" nonfact="yes"> ihm von dem Treiben des Magiers schriftlich <seg id="55" type="intExpr">Nachricht</seg>
+                        zu geben.</said>
+               Die Drei also gehen nach Tyrus, wo sie <said id="56" mode="reported" content="speech" level="1">auf <seg id="56" type="speaker">Petrus</seg> <seg id="56" type="intExpr">Geheiß</seg> </said>bei Berenike,
+                        der Tochter derselben Justa, Wohnung nehmen, welche Niketas und Aquila an
+                        Kindesstatt angenommen hatte. Von <seg id="57" type="speaker">ihr</seg> erhalten sie die gewünschte Auskunft
+                        über den Magier. <seg id="57" type="frame" pos="start">Sie <seg id="57" type="intExpr">erfahren</seg>,</seg> <said id="57" mode="indirect" content="speech" level="1">daß er durch die unglaublichsten Wunder die
+                        Stadt in Erstaunen setze und<said id="58" mode="reported" content="thought" level="2"> von der <seg id="58" type="speaker">Menge</seg> <seg id="58" type="intExpr">für</seg> einen Gott <seg id="58" type="intExpr">gehalten</seg> werde.</said>
+ </said>                       Da er diejenigen, <said id="59" mode="reported" content="speech" level="1"><seg id="59" type="speaker">die</seg> ihn für einen Zauberer <seg id="59" type="intExpr">erklären</seg></said>, mit Krankheiten behaftet, <seg id="60" type="frame" pos="start"><seg id="60" type="intExpr">räth</seg> <seg id="60" type="speaker">Berenike</seg>,</seg> <said id="60" mode="indirect" content="speech" level="1">vor der Ankunft des Petrus nichts gegen ihn zu unternehmen.</said>
+              <seg id="61" type="frame" pos="start"> Am folgenden Morgen werden sie mit der <seg id="61" type="intExpr">Nachricht</seg> überrascht, </seg><said id="61" mode="indirect" content="speech writing" level="1">daß der
+                        Magier plötzlich von Tyrus nach Sidon gereist sei und von seinen Schülern
+                        nur den alexandrinischen Grammatiker Apion, den Astrologen Annubion und
+                        den Epikuräer Anthenodoros zurückgelassen habe.</said> <said id="62" mode="reported" content="writing" level="1"><seg id="62" type="speaker">Sie</seg> <seg id="62" type="intExpr">berichten</seg> dies sofort dem
+                        Petrus.</said> Wie sie dann in den Straßen von Tyrus umhergehen, begegnen sie
+                         
+               
+               diesen griechischen Philosophen. <seg id="63 64" type="speaker"><said id="63" mode="reported" content="speech" level="1">Apion</said></seg>, von Rom her mit Clemens bekannt,
+                        <said id="63" mode="reported" content="speech" level="1"><seg id="63" type="intExpr">redet</seg> <seg id="64" type="speaker">ihn</seg> an</said>, <said id="64" mode="reported" content="speech" level="1">das <seg id="64" type="intExpr">Gespräch</seg> kommt auf religiöse Gegenstände</said> und um ungestört
+                        zu sein, <seg id="65" type="frame" pos="start"><seg id="65" type="intExpr">beschließt</seg> <seg id="65" type="speaker">man</seg></seg> <said id="65" mode="indirect" content="thought" level="1">nach den Gärten eines mit Apion befreundeten reichen
+                        Mannes sich zu begeben. </said><said id="66" mode="reported" content="speech" level="1">Nun beginnt <seg id="66" type="speaker">Clemens</seg> einen <seg id="66" type="intExpr">Vortrag</seg> über die moralische Verwerflichkeit des Heidenthums. </said><said id="67" mode="reported" content="speech" level="1" nonfact="yes"><seg id="67" type="speaker">Apion</seg> will ihm mit allegorischer
+                        Deutung, der heidnischen Mythen <seg id="67" type="intExpr">antworten</seg></said>, aber da die Zeit schon vorgerückt,
+                        <said id="68" mode="reported" content="speech" level="1" nonfact="yes">kann das <seg id="68" type="intExpr">Gespräch</seg> an diesem Tage nicht zu Ende geführt werden</said> und wird
+                        verschoben.
+               Als sie aber andern Tags wieder zusammenkommen, fehlt Apion. Er ist
+                        krank. Clemens will sofort zu ihm gehen, wird aber von den <seg id="69" type="speaker">Anwesenden</seg> zurückgehalten, <seg id="69" type="frame" pos="start">mit der <seg id="69" type="intExpr">Bitte</seg></seg> <said id="69" mode="indirect" content="speech" level="1"><said id="70" mode="reported" content="speech" level="2" nonfact="yes"><seg id="70" type="speaker">seinen</seg> <seg id="70" type="intExpr">Vortrag</seg> jetzt fortzusetzen.</said></said> Er thut dies, indem
+                        er nun an einem speciellen Punkt, an der geschlechtlichen Liebe nachweist, daß
+                        die Göttermythen die Aufforderung zur Unsittlichkeit enthalten. Hieraus
+                        gehen sie <seg id="71" type="speaker">alle</seg> zusammen zu Apion und <said id="71" mode="reported" content="speech" level="1">führen das <seg id="71" type="intExpr">Gespräch</seg> über das Heidenthum fort.</said> Aber erst Tags darauf kommt Apion dazu,<said id="72" mode="reported" content="thought" level="1"> <seg id="72" type="speaker">seine</seg> allegorische
+                        <seg id="72" type="intExpr">Deutung</seg> der Göttersagen zu entwickeln.</said> Diese Auseinandersetzung scheint den
+                        Clemens zu langweilen,<seg id="73" type="frame" pos="start"> und <seg id="73" type="speaker">Apion</seg> <seg id="73" type="intExpr">ruft</seg> unwillig <seg id="73" type="intExpr">aus</seg>:</seg> <said id="73" mode="direct" content="speech" level="1"><said id="74" mode="reported" content="speech" level="2">wozu <seg id="74" type="intExpr">rede</seg> <seg id="74" type="speaker">ich</seg> weiter</said>,
+                        wenn du nicht folgst?</said> Clemens aber zeigt ihm nun, daß ihm das alles gar
+                        nichts Neues ist, <said id="75" mode="reported" content="speech" level="1"><seg id="75" type="intExpr">führt</seg> zum Beweis dessen die allegorische Deutung <seg id="75 76" type="speaker">selber</seg> <seg id="75" type="intExpr">fort</seg>
+ </said>                       und knüpft daran sofort<said id="76" mode="reported" content="speech" level="1"> die <seg id="76" type="intExpr">Widerlegung</seg> dieser Ansicht.</said>
+               <said id="77" mode="reported" content="speech" level="1">Während <seg id="77" type="speaker">Clemens</seg> noch <seg id="77" type="intExpr">redet</seg></said>, kommt Petrus aus Cäsarea an. Die griechischen Philosophen entfernen sich, die <seg id="78" type="speaker">andern</seg> aber gehen ihm entgegen,<said id="78" mode="reported" content="speech" level="1"> <seg id="78" type="intExpr">erzählen</seg>
+                        ihm das Vorgefallene</said> und <said id="79" mode="reported" content="speech" level="1"><seg id="79" type="speaker">Petrus</seg> <seg id="79" type="intExpr">erklärt</seg> seine Zufriedenheit mit allem, <said id="80" mode="reported" content="speech" level="2">was
+                        <seg id="80" type="speaker">Clemens</seg> <seg id="80" type="intExpr">geredet</seg>.</said></said>
+               Die wenigen Tage, die <seg id="81" type="speaker">Petrus</seg> in Tyrus verweilt, benutzt er dazu,<said id="81" mode="reported" content="speech" level="1"> das
+                        Evangelium zu <seg id="81" type="intExpr">predigen</seg></said> und eine Gemeinde einzurichten. Er läßt einen seiner
+                        Begleiter als Bischof zurück und eilt nun nach Sidon, um den Magier zu treffen.
+                        Kaum aber hat dieser seine Ankunft erfahren, als er von Sidon nach Berytos
+                        flieht. Auch hier kann also Petrus nur kurz verweilen und nachdem er viel
+                        getauft und die kirchlichen Verhältnisse geordnet, eilt er gleichfalls nach Berytos.
+                        Als er hier ankommt, ist eben ein Erdbeben. Dies benutzt der Magier, um das
+                        Volk gegen Petrus aufzuregen.<said id="82" mode="direct" content="speech" level="1"> Seht</said><seg id="82" type="frame" pos="mid">, <seg id="82" type="intExpr">spricht</seg> <seg id="82" type="speaker">er</seg> zum Volk,</seg><said id="82" mode="direct" content="speech" level="1"> dies ist ein Zauberer, er hat das Erdbeben gemacht und die Krankheiten geschickt, die euch plagen.</said>
+                        <seg id="83" type="frame" pos="start"><seg id="83" type="speaker">Petrus</seg> <seg id="83" type="intExpr">erwidert</seg>:</seg> <said id="83" mode="direct" content="speech" level="1">ja das kann ich alles und wenn ihr mir nicht gehorcht, werde
+                        ich eure Stadt zerstören.</said> <said id="84" mode="reported" content="speech" level="1">Mit dieser Drohung <seg id="84" type="intExpr">befiehlt</seg> <seg id="84" type="speaker">er</seg> ihnen den Simon zu
+                        meiden</said>, und die erschrockenen Bewohner jagen sofort den Simon mit seinem
+                        Anhang aus der Stadt. <said id="85" mode="reported" content="speech" level="1">Darauf <seg id="85" type="intExpr">verkündigt</seg> <seg id="85" type="speaker">er</seg> auch hier den wahren Gott</said>, richtet
+                        eine Gemeinde ein, eilt dann nach Byblos, und da er den Magier hier nicht
+                        mehr trifft, folgt er ihm nach Tripolis.
+               Auch von hier entflieht der Magier sogleich nach Syrien. Aber Petrus,
+                         
+               
+               dem sich ein immer größeres Gefolge aus Tyrus, Sidon, Berytos und Byblos
+                        angeschlossen hat, nimmt in Tripolis einen längeren Aufenthalt. <seg id="86" type="speaker">Er</seg> beginnt
+                        damit,<said id="86" mode="reported" content="speech" level="1"> <said id="87" mode="reported" content="speech" level="2">die verderbliche <seg id="87" type="intExpr">Lehre</seg> des <seg id="87" type="speaker">Magiers</seg></said> zu <seg id="86" type="intExpr">widerlegen</seg></said>, und setzt nun drei
+                        Monate täglich <said id="88" mode="reported" content="speech" level="1"><seg id="88" type="speaker">seine</seg> <seg id="88" type="intExpr">Lehrvorträge</seg></said> fort. Gegen das Ende dieser Zeit wird
+                        Clemens getauft. Schließlich wird auch hier ein Bischof eingesetzt, und Presbyter und Diakonen gewählt. Dann geht es nach Syrien. Von Orthosia aus
+                        werden Aquila und Niketas mit einem Theil der Anhänger nach Laodifeia geschickt. <said id="89" mode="reported" content="speech" level="1"><seg id="89" type="speaker">Petrus</seg> <seg id="89" type="intExpr">verspricht</seg> in ein paar Tagen gleichfalls dort einzutreffen</said> und
+                        reist nach Antarados.
+               Clemens freut sich, daß er bei Petrus bleiben darf, <seg id="90" type="frame" pos="start">und <seg id="90" type="speaker">seine</seg> <seg id="90" type="intExpr">Aeußerung</seg>:</seg>
+                        <said id="90" mode="direct" content="speech" level="1">„du vertrittst mir die Stelle meines Vaters, meiner Mutter und meiner
+                        Brüder",</said><said id="91" mode="reported" content="speech" level="1"> führt das <seg id="91" type="intExpr">Gespräch</seg> aus die Familienverhältnisse des Clemens.</said> <said id="92" mode="reported" content="speech" level="1">Von
+                        <seg id="92" type="speaker">Petrus</seg> <seg id="92" type="intExpr">aufgefordert</seg></said> <seg id="98" type="frame" pos="start"><seg id="98" type="intExpr">berichtet</seg> <seg id="98" type="speaker">Clemens</seg> Folgendes:</seg>
+                         
+               <said id="98" mode="direct" content="speech" level="1">„Meine Eltern, Faustus und Matthidia, der kaiserlichen Familie verwandt,
+                        hatten außer mir noch zwei ältere Söhne, Faustinus und Faustinianus. Gleich
+                        nach meiner Geburt mußte meine Mutter, <said id="94" mode="reported" content="speech" level="2">wie mir der <seg id="94" type="speaker">Vater</seg> späterhin <seg id="94" type="intExpr">mittheilte</seg></said>, Rom mit meinen beiden älteren Brüdern auf 10 Jahre verlassen und
+                        nach Athen gehen. Als aber mein Vater in langer Zeit gar nichts von ihnen
+                        vernahm und <seg id="96" type="frame" pos="start">endlich <seg id="96" type="intExpr">erfuhr</seg>,</seg> <said id="96" mode="indirect" content="speech writing" level="2">daß sie gar nicht in Athen angekommen waren</said>,
+                        <seg id="97" type="frame" pos="start"><seg id="97" type="intExpr">entschloß</seg> <seg id="97" type="speaker">er</seg> sich,</seg><said id="97" mode="indirect" content="thought" level="2" border="yes"> selbst aus Reisen sich zu begeben</said>, um sie aufzusuchen. Seit
+                        dieser Zeit — ich war damals 12 Jahre alt — habe ich nie wieder etwas weder
+                        von Vater, von Mutter noch von Brüdern gehört, höchstwahrscheinlich sind
+                        sie alle längst gestorben, da bereits zwanzig Jahre seit der Abreise meines Vaters
+                        vergangen sind."</said> Petrus nimmt innigen Antheil an seinem Schicksal und kann
+                        sich der Thränen nicht enthalten.
+               Am folgenden Tage macht Petrus mit seinen Begleitern einen Ausflug
+                        nach der Insel Arados. Während die andern sich entfernen, um die Sehenswürdigkeiten in Augenschein zu nehmen, bleibt Petrus zurück. Ein altes
+                        Weib, das am Wege liegt und bettelt, zieht seine Aufmerksamkeit auf sich.
+                      <said id="99" mode="reported" content="speech" level="1">  <seg id="99" type="speaker">Er</seg> läßt sich mit <seg id="101" type="speaker">ihr</seg> in ein <seg id="99" type="intExpr">Gespräch</seg> ein</said>, <said id="100" mode="reported" content="speech" level="1"><seg id="100" type="intExpr">erkundigt</seg> <seg id="100" type="speaker">sich</seg> nach ihren früheren
+                        Schicksalen</said>, <seg id="101" type="frame" pos="start">und <seg id="101" type="intExpr">erfährt</seg>:</seg> <said id="101" mode="indirect" content="speech" level="1">sie habe einst in glänzenden Verhätnissen gelebt, ihr
+                        Mann sei dem kaiserlichen Hause verwandt gewesen, und sie hätten drei Söhne
+                        gehabt. </said><said id="102" mode="indirect freeIndirect" content="speech" level="1">Da aber der Bruder ihres Mannes in unreiner Leidenschaft für sie
+                        entbrannte,<seg id="103" type="frame" pos="start"> habe <seg id="103" type="speaker">sie</seg>, um seinen Nachstellungen zu entgehen, unter Vorspieglung
+                        eines Traumgesichts <seg id="103" type="intExpr">beschlossen</seg></seg> <said id="103" mode="indirect" content="thought" level="2">auf längere Zeit die Heimath zu verlassen. </said>Sie
+                        Wollte mit ihren beiden ältesten Söhnen sich nach Athen begeben, wurde aber
+                        durch ungünstige Winde verschlagen und erlitt Schiffbruch, in welchem sie allein
+                        gerettet und nach dieser Insel getrieben worden sei.</said> Kurz, es stellt sich
+                        heraus, daß es Matthidia. die todtgeglaubte Mutter des Clemens ist. und es erfolgt die erste Scene des Wiedererkennens. An demselben Tage segeln Petrus.
+               
+               Clemens mit seiner Mutter und die andern Begleiter nach Antarados
+                        zurück.
+               Von da geht die Reise weiter über Balanaia. Palkos, Gabala, nach Laodikeia, wo sie mit Niklas und Aquila wieder zusammentreffen. Und nun offenbart sich, daß diese beiden die vermeintlich bei jenem Schiffbruch ertrunkenen
+                        Brüder des Clemens, Faustinus und Faustinianus, sind. Sie waren doch gerettet, aber von Seeräubern gefangen genommen und als Sklaven an jene
+                        Justa verkauft worden, die sie aber an Kindesstatt annahm. Die Mutter Matthidia begehrt nun sogleich getauft zu werden. Petrus aber schreibt als Vorbereitung dazu einen Fasttag vor.
+               Am folgenden Tage findet die Taufe der Matthidia im Meere statt.
+                        Während die drei Söhne die Mutter nach Haus begleiten, bleibt Petrus zurück.
+                        Ein <seg id="104" type="speaker">Alter</seg>, der von fern der Taufhandlung zugesehen, tritt zu ihm und<seg id="104" type="frame" pos="start"> <seg id="104" type="intExpr">sagt</seg>:</seg>
+                      <said id="104" mode="direct" content="speech" level="1">  Mitleiden habe ihn ergriffen, als er die Frau nach der Taufe habe beten sehen,
+                        denn es gebe keinen Gott, keine Vorsehung, sondern nur eine eiserne Nothwendigkeit.</said> <said id="105" mode="reported" content="speech" level="1"><seg id="105" type="speaker">Petrus</seg> läßt sich in ein <seg id="105" type="intExpr">Gespräch</seg> mit <seg id="105" type="speaker">ihm</seg> ein</said>, erkennt, daß es
+                        Faustus, der Vates des Clemens ist, und es erfolgt die dritte Scene des Wiedersehens.
+               Darauf kommen nun wieder<said id="106" mode="reported" content="speech" level="1"> religiöse <seg id="106" type="intExpr">Gespräche</seg></said>, zu welchen der heidnische
+                        Fatalismus des Vaters die Veranlassung giebt. <seg id="107" type="speaker">Petrus</seg> sucht diesen <said id="107" mode="reported" content="speech" level="1">durch <seg id="107" type="intExpr">Hinweisung</seg> auf sein eigenes Schicksal</said> <said id="108" mode="reported" content="thought" level="1" border="yes">zum <seg id="108" type="intExpr">Glauben</seg> an eine Vorsehung</said> zu führen.
+                        <said id="109" mode="reported" content="speech" level="1"><seg id="109" type="speaker">Seine</seg> <seg id="109" type="intExpr">Reden</seg></said> sind auch nicht ohne Eindruck auf Faustus, doch ist er von seinen
+                        Ansichten noch nicht zurückgebracht.
+               Am nächsten Tag ist Petrus eben im Begriff, vor Faustus und vor versammeltem Volk die Lehren der christlichen Religion im Zusammenhang zu
+                        entwickeln, <said id="110" mode="reported" content="speech" level="1">als unerwartet die Ankunft des Simon mit einigen seiner Anhänger
+                        aus Antiochia <seg id="110" type="intExpr">gemeldet</seg> wird.</said> Er ist gekommen, um die Bekehrung des Weisen
+                        Faustus zu hindern, und es beginnt nun eine dreitägige Disputation zwischen
+                        Petrus und Simon, in welcher der letztere Schritt für Schrill zurückgedrängt
+                        und schließlich völlig überwunden wird. Aber noch einmal regt er ein Thema
+                        an,<said id="111" mode="reported" content="thought" level="1"> mit dem <seg id="111" type="speaker">er</seg> den Petrus in die Enge zu treiben <seg id="111" type="intExpr">hofft</seg></said>, nämlich den Ursprung
+                        des Bösen.<said id="112" mode="reported" content="speech" level="1"> Es entspinnt sich ein neues <seg id="112" type="intExpr">Gespräch</seg>.</said> Mitten in diesem bricht
+                        aber die Handschrist ab, in welcher uns die Homilien erhalten sind. <seg id="113" type="frame" pos="start">Mit
+                        Sicherheit läßt sich <seg id="113" type="intExpr">annehmen</seg>,</seg><said id="113" mode="indirect" content="thought" level="1" border="yes"> <said id="114" mode="reported" content="writing" level="2" nonfact="yes">daß der fehlende <seg id="114" type="speaker">Schluß</seg> noch die Reise nach
+                        Antiochia, die Gründung der dortigen Gemeinde und die Bekehrung des Faustus
+                        <seg id="114" type="intExpr">erzählt</seg> haben wird.</said></said>
+               Von der anderen, denselben Stoff behandelnden Schrift: die Wiedererkennungen, ist uns auch der Schluß erhalten, der ziemlich abenteuerlich lautet.
+                        Simon hält sich mit Aunubion, Apion und Anthenodoros in Antiochia auf und
+                        erbittert das Volt dergestalt gegen Petrus, daß die Freunde, die der letztere
+                         
+               
+               nach dieser Stadt vorausgeschickt hatte, sich in ihrer Noth an den kaiserlichen
+                        Hauptmann Cornelius wenden. <seg id="115" type="frame" pos="start"><seg id="115" type="speaker">Dieser</seg> läßt das <seg id="115" type="intExpr">Gerücht</seg> aussprengen,</seg> <said id="115" mode="indirect" content="speech" level="1">daß er
+                        gekommen sei den Magier zu verhaften</said>, worauf dieser mit seinen Anhängern
+                        nach Laodifeia flieht. Hier erfährt der Vater des Clemens die Ankunft seiner
+                        alten Freunde Apion und Annubion und kommt auf diese Weise auch mit Simon in Berührung. Simon, um sich vor der vermeintlichen Verfolgung zu
+                        retten, giebt dem Faustus eine Salbe, durch deren Einreibung sein Gesicht in
+                        das des Magiers verwandelt wird. Dieser selbst entflieht nach Judäa. Als
+                        Faustus zu den Seinigen kommt, entsetzen sich alle über seine Verwandlung.
+                        <said id="116" mode="reported" content="speech" level="1"><seg id="116" type="speaker">Petrus</seg> <seg id="116" type="intExpr">verspricht</seg> ihm aber sein Gesicht wieder herzustellen, <said id="117" mode="reported" content="thought" level="2">wenn <seg id="117 118" type="speaker">er</seg> sich
+                        <seg id="117" type="intExpr">entschlösse</seg> nach Antiochia zu gehen</said>, dort als der Magier Simon aufzutreten und <seg id="118" type="frame" pos="start">öffentlich zu <seg id="116" type="intExpr">erklären</seg>,</seg> <said id="118" mode="indirect" content="speech" level="2">daß alles, <said id="119" mode="reported" content="speech" level="3">was <seg id="119" type="speaker">er</seg> wider Petrus <seg id="119" type="intExpr">gesagt</seg></said>, erlogen
+                        sei. </said></said>Faustus thut,<said id="120" mode="reported" content="speech" level="1"> wie ihn <seg id="120" type="speaker">Petrus</seg> <seg id="120" type="intExpr">geheißen</seg></said>, und die Einwohner werden dadurch so günstig gestimmt, daß Petrus gleich bei seinem Auftreten in Antiochia
+                        eine große Menge für das Christenthum gewinnt. Endlich giebt Petrus dem
+                        Faustus sein Gesicht wieder und ertheilt ihm die Taufe.
+               Es ist bezeichnend,<said id="121" mode="reported" content="writing" level="1"> daß in dieser letzten <seg id="121" type="intExpr">Ausgestaltung</seg> der Sage</said> nicht mehr
+                        Rom der Zielpunkt der Reisen des Magiers und der Schauplatz seiner letzten
+                        Niederlage durch Petrus ist. Die Ueberlieferung, daß Petrus in Rom gewesen,
+                        die Gemeinde gegründet und den Episcopat eingesetzt, steht jetzt bereits fest:
+                        die Sage vom Magier hat ihren Dienst gethan, man braucht sie nicht mehr
+                        für diesen Zweck. Ja es schien sich zu empfehlen, die Spur, daß der Magier
+                        selbst in Rom gewesen, wieder zu verwischen, das fetzerische, heidnische Christenthum sollte überhaupt niemals in Rom gewesen sein, rein und ungetrübt erhält
+                        sich hier vielmehr vom Anfang an die von Petrus gepflanzte Lehre. Dagegen sollte
+                        nun das paulinische Christenthum in seinem Ursprung schon tödtlich getroffen
+                        werden; bis in seine Anfänge zurück verfolgte es der Haß der Judaisten. Antiochia war die erste Gemeinde der Heidenchristen, hier war der Ausgangspunkt
+                        für die Wirksamkeit des Paulus gewesen. Konnte nun die Sage etwas Vernichtenderes für das Heidenchrstenthum erfinden, als wenn sie den Simon,
+                        dessen Haupt, <said id="122" mode="reported" content="speech" level="1">den <seg id="122" type="speaker">Repräsentanten</seg> des Paulus</said> (oder wenigstens eine in Simon
+                        verzauberte Persönlichkeit)<said id="122" mode="reported" content="speech" level="1"> öffentlich die eigene Lehre <seg id="123" type="intExpr">abschwören</seg></said> und <said id="123" mode="reported" content="speech" level="1">zur Annahme des petrinischen Christenthums <seg id="123" type="intExpr">auffordern</seg> ließ?</said> <said id="124" mode="reported" content="thought" level="1">Nicht in Rom geschieht
+                        die <seg id="124" type="intExpr">Entscheidung</seg></said>, wo vielmehr Simon und seine Lehre niemals hingedrungen
+                        sind, sondern in Antiochia, von wo die falsche Lehre ausgegangen ist, und wo
+                        sie nun durch einen raffinirten Zug der Sage aus dem Munde des Anstifters
+                        selbst Lügen gestraft und widerrufen wird. So oft wir wieder auf Abänderungen
+                        der Sage stoßen, selten ist Sinn und Absicht derselben zu verkennen.
+               Aber haben wir denn ein Recht, diesen Simon der Homilien mit Paulus
+                        zu identificiren? Dafür liegen die unzweideutigsten Beweise vor. <said id="125" mode="reported" content="speech" level="1">Was <seg id="125" type="speaker">Petrus</seg>
+                         
+               
+               und <seg id="125" type="speaker">Clemens</seg> vortragen</said>, ist ein Christenthum, das noch wesentlich an das Judenthum gebunden ist; das für alle Völker bestimmt ist, aber nur die Vollendung
+                        des alttestamentlichen Gesetzes sein will. Zwischen der Lehre Jesu und der
+                        Lehre des Moses besteht kein wesentlicher Unterschied, Gott nimmt jeden an,
+                       <said id="126" mode="reported" content="thought" level="1" border="yes"> <seg id="126" type="speaker">der</seg> an einen von beiden <seg id="126" type="intExpr">glaubt</seg></said>, das Christenthum ist nur das reformirte, gereinigte
+                        und erweiterte Judenthum. Simon dagegen tritt auf als Vertreter der Denkart,
+                        welche die christliche Lehre mit heidnischen Speculationen versetzte, als Vertreter
+                        der gnostischen Emanationssysteme, ganz besonders aber als Vertreter der Lehre
+                        des Marcion, der ein einseitiger, fanatischer Pauliner war. <said id="127" mode="reported" content="writing" level="1">Es wird somit, abgesehen von seinen falschen Künsten, vieles auf Simon <seg id="127" type="intExpr">übertragen</seg>, wofür
+                        Paulus gar nicht oder nur indirect verantwortlich war.</said> Aber nun begegnen
+                        wir außerdem einer Anzahl Stellen, in welchen die persönliche Anspielung auf
+                        Paulus unverkennbar ist, in welchen er gradezu als Paulus erscheint,<said id="128" mode="reported" content="writing" level="1"> der in
+                        den Clementinen nirgends <seg id="128" type="intExpr">genannt</seg> ist</said>, aber eben in solchen verdeckten Anspielungen getroffen werden soll. So z. B. in der großen Disputation zu Laodifeia, <said id="129" mode="reported" content="speech" level="1">wo <seg id="129" type="speaker">Petrus</seg> dem Simon ganz dieselben <seg id="129" type="intExpr">Vorwürfe</seg> macht</said>, wie sie Paulus
+                        noch bei Lebzeiten von den Judenchristen hören mußte. <seg id="130" type="frame" pos="start"><seg id="130" type="speaker">Simon</seg> <seg id="130" type="intExpr">behauptet</seg>
+                        nämlich,</seg> <said id="130" mode="indirect" content="speech" level="1">Christus sei ihm in einer Vision erschienen, und da die Wahrheit authentischer durch Erscheinungen als durch persönlichen Umgang vermittelt werde,
+                       <said id="131" mode="reported" content="thought" level="2"> <seg id="131" type="intExpr">verstehe</seg> <seg id="131" type="speaker">er</seg> die Lehre besser als Petrus.</said> </said><seg id="132" type="frame" pos="start"><seg id="132" type="speaker">Dieser</seg> <seg id="132" type="intExpr">erwidert</seg> ihm:</seg><said id="132" mode="direct" content="speech" level="1"> „wenn dir unser
+                        Jesus in Gesichten erschienen ist, so hat er es gethan, weil er dir als einem
+                        Feind zürnte;<said id="133" mode="reported" content="speech" level="2"> deswegen hat <seg id="133" type="speaker">er</seg> durch Gesichte und Traume mit dir <seg id="133" type="intExpr">geredet</seg>.</said>
+                        Kann aber einer durch Visionen die Befähigung zum Lehramt erhalten? Wie
+                        kommt es dann, daß der Lehrer ein ganzes Jahr mit Wachenden beständigen
+                        Umgang gehabt hat? <said id="134" mode="reported" content="thought" level="2" nonfact="yes">Und wie sollen <seg id="134" type="speaker">wir</seg> <seg id="134" type="intExpr">für</seg> wahr <seg id="134" type="intExpr">halten</seg>, daß er dir erschien?</said>
+                        Wie kann er dir erschienen sein,<said id="135" mode="reported" content="thought" level="2"> <seg id="135" type="speaker">da</seg> du nicht übereinstimmend mit seiner Lehre
+                        <seg id="135" type="intExpr">denkst</seg>?</said> Bist du, auch nur eine Stunde seines Anblicks theilhaftig, <said id="136" mode="reported" content="speech" level="2" nonfact="yes">von <seg id="136 137" type="speaker">ihm</seg>
+                        <seg id="136" type="intExpr">belehrt</seg></said> und<said id="137" mode="reported" content="speech" level="2" nonfact="yes"> zum Apostel <seg id="137" type="intExpr">befugt</seg> worden</said>, <said id="138" mode="reported" content="speech" level="2" nonfact="yes">so <seg id="138" type="intExpr">verkündige</seg> seine Lehre</said>, liebe seine
+                        Apostel und Streite nicht mit mir, der ich mit ihm zusammen war. Denn gegen
+                        mich, der ich ein fester Fels bin, das Fundament der Kirche, bist du aufgestanden, und <said id="139" mode="reported" content="speech" level="2">wenn <seg id="139" type="speaker">du</seg> mich verurtheilt <seg id="139" type="intExpr">nennst</seg></said>, so klagst du Gott an, der mir
+                        Christus geoffenbart hat, und fährst gegen den los, der mich wegen dieser Offenbarung selig gepriesen hat."
+</said>                         
+               Genau mit denselben Gründen hatten die judaistischen Gegner die Autorität des Paulus angegriffen, <said id="140" mode="reported" content="writing" level="1">gegen <said id="141" mode="reported" content="speech" level="2">dieselben <seg id="141" type="intExpr">Vorwürfe</seg></said> hatte <seg id="140" type="speaker">er</seg> sich in den
+                        Briefen an die Galater und Korinther zu <seg id="140" type="intExpr">rechtfertigen</seg>.</said> Mit welchem Eifer
+                        sieht er sich hier genöthigt, <said id="142" mode="reported" content="writing" level="1">die Realität <seg id="142" type="speaker">seiner</seg> Christuserscheinungen zu <seg id="142" type="intExpr">vertheidigen</seg></said>, da die Gegner solchen Visionen, <said id="143" mode="reported" content="writing" level="1">auf die <seg id="143" type="speaker">er</seg> sich <seg id="143" type="intExpr">berief</seg></said>, allen Werth
+                        absprachen und nur den unmittelbaren persönlichen Umgang mit Jesus als einzigen Rechtstitel auf das apostolische Amt gelten lassen wollten. Und wie hat
+                         
+               
+               sich<seg id="144" type="frame" pos="start"> in den <seg id="144" type="intExpr">Worten</seg>:</seg><said id="144" mode="direct" content="speech" level="1"> „<said id="145" mode="reported" content="speech" level="2">und wenn <seg id="145" type="speaker">du</seg> mich verurtheilt <seg id="145" type="intExpr">nennst</seg></said>"</said> bis auf den Ausdruck hinaus <said id="146" mode="reported" content="thought" level="1">die <seg id="146" type="intExpr">Erinnerung</seg> an jene Scene in Antiochia</said> erhalten, wo Paulus
+                        dem Petrus seine Schwachheit öffentlich vorgerückt hatte. (Galater 2, 11.)
+                         
+               Es steht den Homilien des Clemens ein Brief des Petrus voran, mit
+                        welchem dieser seine „Lehrvorträge" an Jakobus, den Bischof von Jerusalem
+                        übersendet. Wahrscheinlich gehörte der Brief nicht ursprünglich zu den jetzigen
+                        Homilien, sondern zu einer älteren „Predigt des Petrus" überschriebenen Schrift,
+                        die jedoch die Grundlage der Homilien bildet und in den Roman derselben verweben ist. Hier ist die polemische Tendenz gegen Paulus noch weniger verhüllt.
+                       <seg id="158" type="frame" pos="start"> <seg id="158" type="speaker">Petrus</seg> <seg id="158" type="intExpr">legt</seg> dem Jakobus <seg id="158" type="intExpr">ans Herz</seg>, </seg><said id="158" mode="indirect" content="writing" level="1"><said id="148" mode="reported" content="speech" level="2"><seg id="148" type="speaker">seine</seg> Predigten ja nicht den Heiden <seg id="148" type="intExpr">mitzutheilen</seg>, sondern nur den Beschnittenen</said>, <said id="149" mode="reported" content="thought" level="2" nonfact="yes">sonst werde die Lehre der Wahrheit
+                        in viele <seg id="149" type="intExpr">Meinungen</seg> auseinandergehen</said>, <seg id="151" type="frame" pos="start"><said id="157" mode="reported" content="thought" level="2">und schon <seg id="151" type="intExpr">sehe</seg> <seg id="151 157" type="speaker">er</seg> den Anfang des Uebels</said></seg></said><seg id="151" type="frame" pos="start">:</seg>
+                        <said id="151" mode="direct" content="speech" level="1">„denn einige aus den Heiden haben die durch mich geschehene gesetzmäßige Predigt verworfen und die gesetzlose und nichtswürdige Lehre des feindseligen Menschen angenommen, und schon zu meinen Lebzeiten haben einige es unternommen,
+                        durch künstliche Deutungen <said id="152" mode="reported" content="speech" level="2"><seg id="152" type="speaker">meine</seg> <seg id="152" type="intExpr">Lehrvorträge</seg></said> in die Aufhebung des Gesetzes
+                        umzugestalten. Wenn <seg id="153" type="speaker">sie</seg> schon zu meinen Lebzeiten <said id="153" mode="reported" content="speech" level="2">solches gegen mich zu <seg id="153" type="intExpr">lügen</seg>
+                        wagen</said>, wie viel mehr wird man erst nach mir wagen?"</said> Ganz deutlich ist
+                        hier unter dem feindseligen Menschen, <seg id="154" type="speaker">der</seg> die ewige Giltigkeit des Gesetzes bestreitet und <said id="154" mode="reported" content="speech" level="1">eine gesetzlose Lehre <seg id="154" type="intExpr">predigt</seg></said>, der Apostel Paulus verstanden.
+               Zu diesem Brief des Petrus an Jakobus gehört dann noch ein Brief des
+                        Clemens an Jakobus, der die unmittelbare Einleitung in die Homilien bildet.
+                        <said id="155" mode="reported" content="writing" level="1"><seg id="155" type="speaker">Clemens</seg> <seg id="155" type="intExpr">meldet</seg> darin dem Jakobus, dem Oberbischof aller Gemeinden, den Tod
+                        des Petrus</said>,<said id="156" mode="reported" content="writing" level="1"> <seg id="156" type="intExpr">erwähnt</seg> <seg id="156 159" type="speaker">seine</seg> Einsegnung durch Petrus in den römischen Episcopat</said> und <seg id="159" type="frame" pos="start"><seg id="159" type="intExpr">fügt bei</seg>,</seg> <said id="159" mode="indirect" content="writing" level="1"><seg id="160" type="frame" pos="start">daß <seg id="160" type="speaker">Petrus</seg> <seg id="162" type="speaker">ihm</seg> den<seg id="160" type="intExpr"> Auftrag gegeben</seg>,</seg> <said id="160" mode="indirect" content="speech" level="2"><said id="162" mode="reported" content="speech" level="3">den Hauptinhalt <said id="161" mode="reported" content="speech" level="4"><seg id="161" type="speaker">seiner</seg>
+                        auf den verschiedenen Reisen gehaltenen <seg id="161" type="intExpr">Lehrverkündigungen</seg></said> dem Jakobus <seg id="162" type="intExpr">mitzutheilen</seg>.</said></said> </said>Daran schließt sich <said id="163" mode="reported" content="writing" level="1">die <seg id="163" type="intExpr">Mittheilung</seg> dieser Vorträge in den Homilien</said>
+                        unmittelbar an, die ja gleichfalls die Form von Briefen des Clemens an Jakobus haben. Der Zweck dieser beiden Briefe liegt auf der Hand. <said id="164" mode="reported" content="thought" level="1" nonfact="yes">Der Verfasser wollte <seg id="164" type="intExpr">für</seg> den echten Clemens <seg id="164" type="intExpr">gehalten</seg> werden. </said>So romanhaft seine
+                        ganze Erzählung ist, <said id="165" mode="reported" content="thought" level="1" nonfact="yes" border="yes">wollte <seg id="165" type="speaker">er</seg> sie doch nicht als Dichtung, sondern als Wahrheit
+                        betrachtet <seg id="165" type="intExpr">wissen</seg></said>, sie sollte auf Clemens, ja indirect auf Petrus selbst zurückgeführt
+                        werden. Zu diesem Zweck wird Clemens in die engste Verbindung mit <seg id="166" type="speaker">Petrus</seg>
+                        gesetzt und zu dessen Schüler und Begleiter gemacht. <seg id="167" type="speaker">Der</seg> <said id="166" mode="reported" content="speech" level="1">die <seg id="166" type="intExpr">Vorträge</seg></said> selbst
+                        mit angehört, war auch am besten im Stande, <said id="167" mode="reported" content="speech writing" level="1" nonfact="yes">sie der Nachwelt zu <seg id="167" type="intExpr">überliefern</seg>.</said>
+                        Aber noch mehr, <seg id="168" type="frame" pos="start"><seg id="168 169" type="speaker">er</seg> muß selbst von <seg id="168" type="speaker">Petrus</seg> den <seg id="168" type="intExpr">Auftrag</seg> erhalten,</seg> <said id="168" mode="indirect" content="speech" level="1"><said id="169" mode="reported" content="writing" level="2">seine Predigten
+                        <seg id="169" type="intExpr">aufzuzeichnen</seg></said></said>, und damit die höchste jeder Zweifel ausschließende Beglaubigung
+                        nicht fehle, stellte man jenen angeblichen Brief des Petrus voraus, womit dieser
+                        selbst <said id="170" mode="reported" content="writing" level="1">seine von <seg id="170" type="speaker">Clemens</seg> <seg id="170" type="intExpr">aufgezeichneten</seg> Vorträge</said> an Jakobus übersendet. So
+                        war zwei- und dreifach die Authentie gedeckt, und das Werk des römischen
+                         
+               
+               Judaisten in der zweiten Hälfte des zweiten Jahrhunderts trug, vor jedem Verdacht geschützt, die Autorität eines Clemens und selbst eines Petrus an der
+                        Stirn. Auch dieses Verfahren ist bezeichnend für die Pseudonyme Literatur,
+                        die damals in so großem Umfange betrieben wurde.
+               Aus diesem Roman ist nun manches in die kirchliche Tradition übergegangen.<seg id="171" type="frame" pos="start"> So ist die seit dem Ende des vierten Jahrhunders allgemein adoptirte <seg id="171" type="intExpr">Angabe</seg>,</seg> <said id="171" mode="indirect" content="writing" level="1">daß Petrus der erste <said id="172" mode="direct" content="writing" level="2">„Bischof" </said>der römischen Gemeinde gewesen</said>,
+                        auf diese Quelle zurückzuführen. Hier kommt dieser in jeder Beziehung unhistorische Ausdruck zum ersten Mal vor. Aus derselben Quelle kommt alles,<said id="173" mode="reported" content="speech" level="1"> was <seg id="173" type="speaker">man</seg>
+                        über das Leben des römischen Clemens und sein nahes Verhältniß zu Petrus
+                        <seg id="173" type="intExpr">erzählte</seg>.</said> Von dieser Persönlichkeit bleibt überhaupt gar wenig übrig, wenn man
+                        abzieht, was Legendenhaftes, Tendenziöses und notorisch Ungeschichtliches sich an
+                        sie gehängt hat. <seg id="174" type="frame" pos="start">Mit der <seg id="174" type="intExpr">Angabe</seg>,</seg> <said id="174" mode="indirect" content="writing" level="1">daß Clemens von Petrus zu seinem unmittelbaren Nachfolger auf der Kathedra eingesetzt worden sei</said>, konnten freilich die Clementinen nicht durchdringen gegen eine andere, wie es scheint paulinische
+                        Tradition, daß nämlich Linus und Cletus die ältesten Bischöfe und Clemens
+                        der Dritte in der Reihe sei. Es war dies ein ärgerlicher Widerspruch; bei einem
+                        Kirchenschriflsteller fand sich die eine, beim andern die andere Angabe. <said id="175" mode="reported" content="writing" level="1">Die <seg id="175" type="speaker">Kirche</seg>
+                        <seg id="175" type="intExpr">wies</seg> schließlich definitiv dem Clemens die dritte Stelle <seg id="175" type="intExpr">an</seg></said>, wo man sich immerhin die Sache so zurecht legen konnte, daß Clemens von Petrus zum Bischof
+                        eingesetzt, aber erst nach Linus und Cletus sein Amt angetreten habe.
+               Jedenfalls standen die Homilien in der alten Kirche in hohem Ansehen.
+                       <said id="176" mode="reported" content="thought" level="1"> <seg id="176" type="speaker">Man</seg> <seg id="176" type="intExpr">hielt</seg> sie wirklich <seg id="176" type="intExpr">für</seg> eine Schrift des Clemens</said>, <said id="177" mode="reported" content="thought" level="1">und ein <seg id="177" type="speaker">Patriarch von
+                        Konstantinopel </seg><seg id="177" type="intExpr">zählte</seg> sie sogar zu den Apokryphen des Neuen Testaments.</said><said id="178" mode="reported" content="thought" level="1"> <seg id="178" type="speaker">Man</seg>
+                        darf die Schrift keineswegs</said>, <said id="179" mode="reported" content="thought" level="1" nonfact="yes">wie <seg id="179" type="speaker">man</seg> aus ihrem Ebionitismus, d. h. aus ihrer
+                        judenchristlichen Färbung, aus ihrer Opposition gegen Paulus und gegen die
+                        Vergöttlichung Jesu hat <seg id="179" type="intExpr">schließen</seg> wollen</said>,<said id="178" mode="reported" content="thought" level="1" nonfact="yes"> <seg id="179" type="intExpr">für</seg> das Product einer außerhalb der
+                        Kirche stehenden fetzerischen Partei <seg id="179" type="intExpr">halten</seg>.</said> Vielmehr ist sie aus einer noch nach der
+                        Mitte des zweiten Jahrhunderts weitverbreiteten Richtung hervorgegangen, sie
+                        tritt überall mit dem Bewußtsein auf, die wahre bis auf die Urapostel zurückreichende Tradition gegen häretische Meinungen und Parteien zu vertreten, und
+                        sie ist selbst in die Reihe der das ganze 2. Jahrhundert ausfüllenden Versuche
+                        zu stellen, ein Friedensprogramm für die sich bekämpfenden Richtungen in der
+                        Kirche zu gewinnen: <said id="180" mode="indirect" content="speech" level="1">sie ist</said><seg id="180" type="frame" pos="mid">, wie <seg id="180" type="speaker">Schwegler</seg> sie <seg id="180" type="intExpr">genannt</seg> hat,</seg> <said id="180" mode="indirect" content="speech" level="1">ein Unionsprogramm
+                        auf der Basis des Judaismus.</said> So ausfallend der juristische Standpunkt sich
+                        zu erkennen giebt, so hat doch diese Partei schon zu wesentlichen Zugeständnissen
+                        sich herbeilassen müssen.<said id="181" mode="reported" content="speech" level="1"> <seg id="181" type="speaker">Sie</seg> hat namentlich auf<said id="183" mode="reported" content="speech" level="2"> die ursprüngliche <seg id="183" type="intExpr">Forderung</seg>
+                        der Beschneidung</said> <seg id="181" type="intExpr">verzichten</seg></said> und <said id="182" mode="reported" content="speech" level="1"><seg id="182" type="speaker">sie</seg> hat die Thatsache des Heidenchristenthums,
+                        den Universalismus des Evangeliums <seg id="182" type="intExpr">anerkennen</seg> müssen. </said>Nur daß sie die
+                        Heidenmission für sich selbst vindicirte, indem sie dieselbe auf Petrus übertrug,
+                         
+               
+               den Paulus dagegen ignorirte. Dieser wird nur anonym, in versteckter Weise
+                        angegriffen, es ist nicht auf offene Bekämpfung, aber auf die Verdrängung des
+                        wahren Heidenapostels abgesehen. Es giebt keinen Paulus mehr, seine Persönlichkeit ist entzweigeschnitten, und die eine Hälfte auf Petrus, die andere aus
+                        den Magier Simon übertragen. <said id="184" mode="reported" content="writing" level="1">Was man von Paulus Lehre und Wirksamkeit acceptirte, nämlich die Heidenmission, wird dem Petrus <seg id="184" type="intExpr">zugetheilt</seg></said>; was man
+                        als fetzerisch daran verwarf, wie seine Bekämpfung des Gesetzes, seine Vergöttlichung Christi und anderes speculative, mit dem er den gnostischen Systemen
+                        die Hand zu reichen schien, <said id="185" mode="reported" content="writing" level="1">wurde dem Magier Simon <seg id="185" type="intExpr">in den Mund gelegt</seg>.</said>
+                        Unter dieser Bedingung war auch das orthodoxe, d. h. das judaisirende Christenthum bereit sich in der Heidenwelt einzurichten, und die Tendenz der Homilien
+                        ist schließlich eben die, die Heidenwelt für diese judaisirende Form des Christenthums zu gewinnen. Der Roman wandte sich offenbar an die gebildeten Heiden,
+                        und in seinem Helden Clemens, der ein geborner Heide und in den Philosophenschulen erzogen, dann von Petrus bekehrt, dessen beständiger Begleiter und schließlich Nachfolger wird, war recht eigentlich das Muster eines Heidenchristen aufgestellt, und zugleich der Typus einer Denkweise, mit welcher sich alle Parteien
+                        schienen zufrieden geben zu können.
+               Der definitive Ausgleich ist dann freilich auf einer Grundlage erfolgt, die
+                        um ein Bedeutendes dem Paulinismus näher gerückt ist als der Standpunkt der
+                        Clementinen. <said id="186" mode="reported" content="writing" level="1">Manches was <seg id="186" type="speaker">diese</seg> als orthodox <seg id="186" type="intExpr">hingestellt</seg> hatten</said>, galt deswegen
+                        späterhin als fetzerisch; die schroffen judaistischen Züge wurden aus dem kirchlichen Lehrsaftem ausgeschieden, und Paulus selbst wurde als Bruder des Petrus
+                        anerkannt, <seg id="187" type="frame" pos="start">sobald nur die <seg id="187" type="speaker">Pauliner</seg> sich <seg id="187" type="intExpr">entschlossen</seg>,</seg> <said id="187" mode="indirect" content="thought" level="1">ihrem Apostel in nichts
+                        einen Vorrang vor den Uraposteln zuzuerkennen, <seg id="188" type="frame" pos="start">ihn vielmehr so <seg id="1888" type="intExpr">darzustellen</seg>,</seg>
+                        <said id="188" mode="indirect" content="writing" level="2">daß er in allen Stücken völlig mit Petrus und Petrus mit ihm harmonisirt war.
+ </said></said>              Da nun aber die Homilien einen so ehrwürdigen Namen wie den des römischen Clemens an der Stirn trugen, <said id="189" mode="reported" content="writing" level="1" nonfact="yes">wurden <seg id="189" type="speaker">sie</seg> nicht einfach als fetzerisch <seg id="189" type="intExpr">beseitigt</seg></said>, <said id="190" mode="reported" content="writing" level="1">sondern <seg id="190" type="speaker">man</seg> nahm im Laufe der Zeit <seg id="190" type="intExpr">Überarbeitungen</seg> mit ihnen vor,
+                        in denen man sie dem späteren kirchlichen Standpunkt annäherte.</said> So ist in der
+                        Redaction der <said id="191" mode="direct" content="writing" level="1">„Wiedererkennungen"</said> jede Polemik gegen den Apostel Paulus verschwunden, <said id="192" mode="reported" content="writing" level="1" nonfact="yes">obwohl auch jetzt sein Name nicht <seg id="192" type="intExpr">genannt</seg> ist</said>; auch sonst ist der
+                        Judaismus in dieser Bearbeitung gemildert. <said id="193" mode="reported" content="speech" level="1">Erst am Ende des 5. Jahrhunderts wurde diese Schrift für apokryph <seg id="193" type="intExpr">erklärt</seg></said>, also des kirchlichen Ansehens beraubt, während noch später Ausgaben der Homilien verbreitet wurden,<said id="194" mode="reported" content="writing" level="1"> in
+                        denen <seg id="194" type="speaker">man</seg> alles <seg id="194" type="intExpr">beseitigt</seg> hatte, was mit der katholischen Orthodoxie nicht übereinstimmte.</said>
+               Was am meisten dazu beitrug der pseudoclementinischen Literatur ein so
+                        hohes Ansehen zu sichern, war ihre hierarchische Tendenz. In dieser Beziehung
+                         
+               
+               war sie gradezu epochemachend für die Entwicklung der Kirche. Die Idee der
+                        kirchlichen Einheit und Centralisation, einer organischen Kirchenverfassung und
+                        Kirchenregierung, die Idee des Episcopats tritt uns in den Homilien zum ersten
+                        Male in Fern einer Doctrin entgegen, und dies ist nun noch das letzte Interesse,
+                        das sich an' die Petrussagen überhaupt knüpft.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

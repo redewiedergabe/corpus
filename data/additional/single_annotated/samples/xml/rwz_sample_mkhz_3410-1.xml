@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal013_1848_4.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+
+
+               Die Herzogin von Orleans ist gestern ( am 26. )
+                        mit ihren Kindern in Köln eingetroffen und von
+                        da nach kurzem Aufenthalte nach Brüssel abgereist.
+                        
+             
+            Die Pariser Blätter sind auch heute wieder ausgeblieben.
+                        <seg id="12" type="frame" pos="start">Der „<seg id="12" type="speaker">Kölner Zeitung</seg>“ entnehmen wir die folgenden <seg id="12" type="intExpr">Berichte</seg>:</seg>
+                         
+            <said id="12" mode="direct" content="writing" level="1">Paris 24. Juni 11 Uhr. Die meisten Eisenbahnen sind abgebrochen</said>; da es jedoch wahrscheinlich ist, daß die Post dennoch
+                        Anstalten trifft, die Briefe zu befördern, <seg id="11" type="frame" pos="start">so will <seg id="11" type="speaker">ich</seg> Ihnen, <seg id="15" type="frame" pos="start">so
+                        lange <seg id="15" type="speaker">ich</seg> noch <seg id="15" type="intExpr">Hoffnung</seg> habe, </seg><said id="15" mode="indirect" content="thought" level="1">zur Post zu gelangen</said>, in Kurzem <seg id="11" type="intExpr">berichten</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1" nonfact="yes">welche Wendung die Dinge seit gestern Nacht genommen.</said> <said id="13" mode="reported" content="thought" level="1">Leider sind <seg id="13" type="speaker">meine</seg> <seg id="13" type="intExpr">Voraussichten</seg> richtig gewesen</said>; denn
+                        wir befanden uns am Anfange eines förmlichen Bürgerkrieges.
+                        Der Regen hatte gestern um4 1 / 2 Uhr aufgehört, und sogleich begann der Kampf von Neuem und hartnäckiger, als den ganzen Tag,
+                        Nach Mitternacht hörte das Feuern auf; allein schon bis dahin hatten die Insurgenten mehrere Stellungen wieder erobert,
+                        die sie früher verloren hatten. Während des Waffenstillstandes überfielen sie das Waffenmagazin der Nationalgarde und
+                        bemächtigten sich unter Anderem 14 Kanonen; auf dem Bastilleplatz, wo 4 Kanonen gegen eine Barrikade gerichtet und dieselben
+                        von der Artillerie zu Fuß und zu Pferde bewacht waren, <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">erläuerten</seg> die <seg id="1" type="speaker">Insurgenten</seg> einen günstigen Augenblick</said> und bemächtigten
+                        sich auch dieser 4 Kanonen. Um 3 Uhr Morgens begann die Kanonade
+                        und das Pelotonfeuer von Neuem und dauert bis jetzt fast
+                        ununterbrochen fort. Wie groß die Anzahl der Verwundeten schon sein muß, <said id="2" mode="reported" content="thought" level="1" nonfact="yes">können <seg id="2" type="speaker">Sie</seg> sich <seg id="2" type="intExpr">denken</seg>.</said> Die Revolution
+                        
+               
+               ist heute fortwährend siegreich und hat nicht nur all ihr gestriges Terrain wieder erobert, sondern ist auch in dem Augenblicke im
+                        Besetzen der ganzen Cit é, des ganzen Faubourg St. Marceaux,
+                        des Faubourg St. Antoine und der ganzen Strecke von der
+                        Straße gleichen Namens bis zur Straße Rambuteau; ferner der
+                        Vellette, des Platzes St. Gervais, von wo aus der Angriff auf
+                        das Hotel de Ville vorbereitet wird. Auf diesem ganzen ungeheuren Gebiete sind häuserhohe Barricaden aufgepflanzt, unter
+                        deren Schutze die Insurgenten auf die Truppen der Linie und der
+                        Nationalgarde ein mörderisches Feuer unterhalten, eben so aus
+                        den Fenstern und von den Dächern der Häuser herab. Auf diese
+                        Weise in großem Vortheil gegen die zwar numerisch überlegene öffentliche Macht, und bei der Entmuthigung, die bereits unter die Linie
+                        und Nationalgarde einreißt, würde es mich nicht überraschen,
+                        wenn der Insurrection am Ende der Sieg bliebe, was um so
+                        wahrscheinlicher wird, als die Mobilgarde schwankend ist und ein
+                        Theil derselben bereits übergegangen sein soll, als ferner die
+                        ganze republikanische Garde auf Seiten der Insurrection kämpft
+                        und, <seg id="14" type="frame" pos="start">wie es <seg id="14" type="intExpr">heißt</seg>, </seg><said id="14" mode="indirect" content="speech" level="1">einige Compagnieen des 75. Linienregimentes
+                        gestern die Waffen gestreckt haben.</said> <seg id="3" type="frame" pos="start">Durch den Telegraphen <seg id="3" type="intExpr">wissen</seg>
+                        <seg id="3" type="speaker">Sie</seg> bereits,</seg><said id="3" mode="indirect" content="thought" level="1" border="yes"> <said id="4" mode="reported" content="speech" level="2">daß <seg id="4" type="speaker">Paris</seg> in Velagerungszustand <seg id="4" type="intExpr">erklärt</seg></said></said> -- eine
+                        Maßregel, die jetzt eben so unnütz als überflüßig ist; wenn die
+                        Regierung die Revolution bewältigen will, bleibt ihr nichts übrig,
+                        als die Stadt bombardiren zu lassen, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">was allerdings die <seg id="5" type="speaker">Bourgeoisie</seg> schwerlich <seg id="5" type="intExpr">zugeben</seg> wird.</said> Es stellt sich jetzt als unverkennbar
+                        heraus, daß der Aufstand schon lange her vorbereitet war und
+                        und keine andere als eine socialistische Bedeutung hat. <seg id="7" type="frame" pos="start">Die <seg id="7" type="speaker">Insurgenten</seg> kämpfen unter den <seg id="7" type="intExpr">Losungsworten</seg>:</seg> <said id="7" mode="direct" content="speech" level="1">„ Brod oder
+                        Tod!“</said> und <said id="7" mode="direct" content="speech" level="1">„Eine demokratisch=sociale Republik!“</said> <said id="8" mode="reported" content="speech" level="1">Gestern
+                        Abend wurden auf mehreren Punkten mit ihnen <seg id="8" type="intExpr">parlamentirt</seg></said>;
+                        <seg id="9" type="frame" pos="start">die <seg id="9" type="speaker">Einen</seg> <seg id="9" type="intExpr">sagten</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">daß sie die Waffen niederlegen wollten, wenn
+                        Ledru-Rollin und Lamartine, die ernstlich die Organisation der Arbeit wollen, von ihren Collegen aber daran verhindert
+                        werden, allein in der executiven Gewalt blieben</said>; <seg id="10" type="frame" pos="start">die <seg id="10" type="speaker">Anderen</seg> <seg id="10" type="intExpr">verlangten</seg>, </seg><said id="10" mode="indirect" content="speech" level="1">daß die ganze Regierung abtrete, die Nationalversammlung sich auflöse und eine provisorische Regierung aus Proudhon, Pierre Leroux und Barb è s sich bilde!</said>
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

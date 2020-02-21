@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Hochzeit des Mönchs</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Die_Hochzeit_des_Moenchs.tg407_1.xml</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Hochzeit des Mönchs</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Antiope ist rein wie der Himmel! Der Ring wurde von einem Zufall gerollt!«</said> <seg id="1" type="frame" pos="end">und <seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">erzählte</seg> mit fliegenden Worten.</seg> 
+                  
+                     <said id="2" mode="direct" content="speech" level="1">»<said id="4" mode="reported" content="thought" level="2" nonfact="yes">Aber auch der Schwester, die zufuhr, darfst du es nicht anrechnen</said>, Astorre«</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">behauptete</seg> <seg id="2" type="speaker">Germano</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">»Ihr schoß das Blut zu Kopfe, sie sah nicht, wen sie vor sich hatte. <said id="5" mode="reported" content="thought" level="2">Sie glaubte die Närrin zu treffen, die ihr die Eltern verhunzte</said>, und schlug die liebe Unschuld. Diese aber muß vor Gott und Menschen wieder zu Ehren und Würden gezogen werden. Laß das meine Sache sein, Schwager! Ich bin der Bruder. Es ist einfach.«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2">Du redest in einem fort</said> und bleibst doch dunkel, Germano! <said id="31" mode="reported" content="thought" level="2" nonfact="yes">Was hast du vor?</said> Wie vergütest du es der Ärmsten?«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">fragte</seg> <seg id="6" type="speaker">Ascanio</seg>.</seg> 
+                  <said id="8" mode="direct" content="speech" level="1">»Es ist einfach«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">wiederholte</seg> <seg id="8" type="speaker">Germano</seg>.</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="32" mode="reported" content="speech" level="2" nonfact="yes">Ich biete Antiope Canossa meine Hand</said> und mache sie zu meinem Weibe.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Ascanio griff sich an die Stirn. Der Streich betäubte ihn. Als er dann aber, schnell besonnen, näher zusah, <said id="33" mode="reported" content="thought" level="2">fand er das heroische Mittel gar nicht so übel</said>; doch warf er einen ängstlichen Blick auf den Mönch. Dieser, seiner selbst wieder mächtig, hielt sich mäuschenstille und horchte aufmerksam. Das Ehrgefühl des Kriegers scholl wie ein heller Ruf durch die Wildnis seiner Seele. So treffe ich zwei Fliegen mit einem Schlage, Schwager«</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">erläuterte</seg> <seg id="10" type="speaker">Germano</seg>.</seg> <said id="12" mode="direct" content="speech" level="1">»Das Mädchen wird in ihren Züchten und Ehren hergestellt. Den möchte ich sehen, <said id="13" mode="reported" content="speech" level="2" nonfact="yes">der hinter meinem Weibe zischelte!</said> Dann stifte ich Frieden zwischen euch Eheleuten. Diana braucht sich nicht länger vor dir noch vor sich selbst zu schämen und ist von ihrem Jähzorne gründlich geheilt. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Ich</seg> <seg id="14" type="intExpr">sage</seg> dir:</seg> <said id="14" mode="direct" content="speech" level="2">sie ist davon genesen, zeitlebens!</said>«</said> 
+                  Astorre drückte ihm die Hand. <said id="15" mode="direct" content="speech" level="1">»Du bist brav!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">er</seg>.</seg> Der Wille, seine himmlische oder irdische Lust tapfer zu überwinden, erstarkte in dem Mönche. Doch dieser Wille war nicht frei und diese Tugend nicht selbstlos; denn sie klammerte sich an einen gefährlichen Sophismus: <said id="16" mode="direct" content="thought" level="1">nicht anders als ich selbst eine Ungeliebte umarmen werde</said><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">tröstete</seg> sich <seg id="16" type="speaker">Astorre</seg>,</seg> <said id="16" mode="direct" content="thought" level="1">wird auch Antiope von einem Manne sich umfangen lassen, welcher sie kurzer Dinge freit, um fremdes Unrecht gutzumachen. Wir verzichten alle! Entsagung und Kasteiung in der Welt wie im Kloster!</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»Was geschehen muß, verschiebe ich nicht«</said><seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">drängte</seg> <seg id="17" type="speaker">Germano</seg>.</seg> <said id="18" mode="direct" content="speech" level="1">»Sonst würde sie sich schlummerlos wälzen.«</said> <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Ich</seg> <seg id="19" type="intExpr">weiß</seg> nicht,</seg> <said id="19" mode="indirect" content="thought" level="1" nonfact="yes" border="yes"><said id="20" mode="reported" content="speech" level="2">meinte er Diana oder Antiope.</said></said> <said id="21" mode="direct" content="speech" level="1">»Schwager, du begleitest mich als Zeuge: ich tue es in den Formen.«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Nein, nein!«</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">schrie</seg> <seg id="22" type="speaker">Ascanio</seg> erschreckt.</seg> <said id="23" mode="direct" content="speech" level="1">»Nicht Astorre! 
+                  Nimm mich! «</said> 
+                  Germano schüttelte den Kopf. <said id="24" mode="direct" content="speech" level="1">»Ascanio, mein Freund«</said><seg id="24" type="frame" pos="mid">, <seg id="24" type="intExpr">sagte</seg> <seg id="24" type="speaker">er</seg>,</seg> <said id="24" mode="direct" content="speech" level="1">»dazu eignest du dich nicht. Du bist kein ernsthafter Zeuge in Ehesachen! Auch wird mein Bruder Astorre es sich nicht nehmen lassen, für mich zu werben. Es ist ja zum großen Teil seine eigene Angelegenheit. Nicht wahr, Astorre?«</said> Dieser nickte <said id="25" mode="direct" content="speech" level="1">»So bereite dich, Schwager. Mache dich hübsch! Hänge dir eine Kette um!«</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Und«</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">scherzte</seg> <seg id="26" type="speaker">Ascanio</seg> gezwungen,</seg> <said id="26" mode="direct" content="speech" level="1">»wann du über den Hof gehst, tauche den Kopf in den Brunnen! Du selbst aber, Germano, trägst Panzer? So kriegerisch? Schickt sich das zur Freite?«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»Ich bin lange nicht aus der Rüstung gekommen und sie kleidet mich. Was betrachtest du mich von Kopf zu Füßen, Ascanio?«</said> 
+                  <said id="28" mode="direct" content="speech" level="1">»<seg id="29" type="frame" pos="start"><seg id="29" type="speaker">Ich</seg> <seg id="29" type="intExpr">frage</seg> mich,</seg> <said id="29" mode="indirect" content="thought" level="2"><seg id="30" type="frame" pos="start">woher dieser <seg id="30" type="speaker">Gepanzerte</seg> seine <seg id="30" type="intExpr">Sicherheit</seg> nimmt,</seg> <said id="30" mode="indirect" content="thought" level="3" border="yes">nicht mitsamt der Sturmleiter in den Graben geworfen zu werden?</said></said>«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

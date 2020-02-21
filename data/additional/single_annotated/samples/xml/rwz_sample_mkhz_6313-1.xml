@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt24_1868_4.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Biographie</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="8" mode="reported" content="thought" level="1">Der Gedanke, den er
+                        ins Leben rief</said>, ist zur Lebenskraft des preußischen Volks geworden und
+                        wird bald die Lebenskraft des ganzen deutschen Volkes sein.
+            Jm Jahre 1755, den 12. November, ward Gerhard Johann David
+                        Scharnhorst geboren in dem hannöverschen Dorfe Bordenau, welches unfern dem Steinhuder Meere, nicht weit von der Weser und der Festung
+                        Minden liegt. Sein Großvater, Gerd Jürgen Scharnhorst, war Bauer in
+                        Bordenau; dessen Sohn war früher Quartiermeister in einem hannöverschen Dragoner=Regiment gewesen, hatte dann die Tochter des Bauern
+                        Tegtmeier zu Bordenau geheirathet und sich auf dem Hof des Schwiegervaters niedergelassen. Gerhard, das zweite Kind der Ehe, war kaum vier
+                        Jahr alt, als sein Großvater Tegtmeier starb. <said id="2" mode="reported" content="speech" level="1">Die übrigen Erben machten
+                        seinen Aeltern den Besitz des Hofes streitig</said>; diese mußten Bordenau verlassen
+                        und zogen nach dem nahen Dorfe Hämelsee, später nach Bothmer, wo der
+                        Vater eine Pachtung übernahm. Hier wuchs unser Scharnhorst in den
+                        gedrückten Verhältnissen des väterlichen Hauses auf und besuchte die Dorfschule. <said id="9" mode="reported" content="speech" level="1">Der Vater bestimmte ihn für den Bauernstand</said>, für welchen der
+                        lernbegierige, strebsame Knabe keinerlei Neigung hatte; der zukünftige
+                        preußische Kriegsminister mußte die Schafe hüten, <said id="3" mode="reported" content="speech" level="1">und daß ihn die
+                        Schwester den „vornehmen Schäfer“ nannte</said>, scheint zu beweisen, daß er
+                        schon als Kind etwas Absonderliches in seinem Wesen hatte. Zu derselben
+                        Zeit hütete sein dereinstiger Waffengenosse, der Feldmarschall Gneisenau,
+                        zu Schilda die Gänse.
+            Es ist erklärlich, daß der junge Scharnhorst Neigung zum Kriegerstand
+                        in sich fühlte. Der Vater war Soldat gewesen; der siebenjährige Krieg
+                        füllte zu jener Zeit die Welt mit Friedrichs des Großen Thatenruhm;
+                        Prinz Ferdinand von Braunschweig schlug sich an Aller und Weser
+                        mehrfach mit den Franzosen. Allerlei Bücher aus des gefälligen Pfarrers
+                        Sammlung nährten die Neigung zum Kriegshandwerk. Als dann nach
+                        Jahren der Kümmernisse und Entbehrung der Vater <said id="4" mode="reported" content="speech" level="1">durch Richterspruch</said>
+                        das Gut Bordenau erhielt und so der drängenden Sorge um die Zukunft
+                        ledig ward, gab er dem Wunsch Gerhards nach und <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">erlaubte</seg> <seg id="5" type="speaker">ihm</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">Soldat
+                        zu werden.</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Er</seg> <seg id="6" type="intExpr">bat</seg> selbst den Grafen Wilhelm von Lippe=Bückeburg,</seg> <said id="6" mode="indirect" content="speech" level="1">den
+                        fünfzehnjährigen Scharnhorst in seine Kriegsschule aufzunehmen</said>; dieses
+                        mag etwa 1770 geschehen sein.
+            Graf Wilhelm war ein eigenthümlicher und ausgezeichneter Mann. Er
+                        hatte im siebenjährigen Kriege mit Erfolg gefochten, dann als Feldherr in
+                        portugiesischen Diensten hohen Ruhm erworben. Zurückgekehrt in sein kleines
+                        Ländchen, suchte er dasselbe in einen militärischen Musterstaat zu verwandeln; seine Lieblingsschöpfung war die kleine Festung Wilhelmstein im
+                        Steinhuder Meer und die dort eingerichtete Kriegsschule, in welcher begabte und tüchtige Jünglinge jedes Standes Aufnahme fanden und
+                        unter des Grafen eigener Leitung die sorgsamste Unterweisung in den
+                        Kriegswissenschaften empfingen. Besonders im Geschützwesen und in der
+                        Befestigungswissenschaft leistete die Schule des Grafen das Vortrefflichste.
+                        Jm Gegensatz zu den damals herrschenden Ansichten <said id="7" mode="reported" content="speech" level="1">lehrte er die Nothwendigkeit einer allgemeinen Volksbewaffnung</said>, und legte damit <said id="10" mode="reported" content="thought" level="1">in die
+                        Seele seines Lieblingsschülers Scharnhorst einen Keim</said>, welcher vierzig
+                        Jahre später die herrlichsten Früchte tragen sollte. So gewann Scharnhorst auf der kleinen Feste Wilhelmstein jene ernste, sittliche Stählung,
+                        jene tiefe, allgemeine und kriegswissenschaftliche Bildung, welche ihn später
+                        so glänzend über die meisten seiner Standesgenossen empor hob; und wenn
+                        Graf Wilhelm nur das eine Verdienst gehabt hätte, einen Scharnhorst zu
+                        finden und auszubilden, das deutsche Volk wäre ihm allezeit Dank schuldig.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

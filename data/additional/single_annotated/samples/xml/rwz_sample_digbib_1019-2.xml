@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Dame mit dem Hündchen</title>
+             <author>Čechov, Anton Pavlovič</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Die_Dame_mit_dem_Huendchen.tg5_1.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Dame mit dem Hündchen</f>
+         <f name="author">Čechov, Anton Pavlovič</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  Sie stand von ihm
+                                                  abgewendet, das Taschentuch an die Augen
+                                                  gepreßt.
+                                                  
+                                                  
+                                                  <said id="1" mode="direct" content="thought" level="1">»Soll sie sich nur ausweinen, ich
+                                                  werde warten ...«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagte</seg> sich <seg id="1" type="speaker">Gurow</seg></seg> und setzte sich
+                                                  in einen Sessel.
+                                                  
+                                                  
+                                                  Etwas später schellte er und ließ
+                                                  sich Tee geben; solange er den Tee trank, stand
+                                                  sie am Fenster und kehrte ihm den Rücken.
+                                                  Sie weinte vor Rührung und <seg id="2" type="frame" pos="start">vor dem
+                                                   schmerzlichen
+                                                  <seg id="2" type="intExpr">Bewußtsein</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">daß ihr Leben sich so traurig
+                                                  gestaltet hatte</said>; <said id="26" mode="freeIndirect" content="thought" level="1">nur im geheimen konnten sie sich
+                                                  sehen, und mußten sich immer wie Diebe
+                                                  verstecken!
+                                                  War denn ihr Leben nicht
+                                                  verdorben?</said>
+                                                  
+                                                  
+                                                  <said id="3" mode="direct" content="speech" level="1">»Höre doch auf!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sagte</seg> <seg id="3" type="speaker">er</seg>.</seg>
+                                                  
+                                                  
+                                                  <seg id="4" type="frame" pos="start">Er <seg id="4" type="intExpr">war</seg> <seg id="4" type="speaker">ihm</seg> <seg id="4" type="intExpr">klar</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1">daß diese Liebe
+                                                  nicht so bald ein Ende nehmen werde.</said>
+                                                  Anna Ssergejewna hing immer mehr an
+                                                  ihm, sie vergötterte ihn, <seg id="5" type="frame" pos="start">und es wäre ganz
+                                                  <seg id="5" type="intExpr">undenkbar</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes"><seg id="6" type="frame" pos="start">ihr zu <seg id="6" type="intExpr">sagen</seg>,</seg> <said id="6" mode="indirect" content="speech" level="2" nonfact="yes">daß das Ganze einmal ein
+                                                  Ende nehmen müsse</said></said>; <said id="7" mode="reported" content="thought" level="1" nonfact="yes">sie würde es auch niemals
+                                                  glauben.</said>
+                                                  
+                                                  
+                                                  Er ging auf sie zu und nahm sie bei
+                                                  den Schultern.
+                                                  Er wollte sie trösten, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">mit ihr
+                                                  scherzen.</said>
+                                                  Und er erblickte sich im
+                                                  Spiegel.
+                                                  
+                                                  
+                                                  Sein Kopfhaar war ergraut.
+                                                  <seg id="9" type="frame" pos="start">Und es <seg id="9" type="intExpr">fiel</seg> <seg id="9" type="speaker">ihm</seg> <seg id="9" type="intExpr">auf</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1" border="yes">wie alt und
+                                                  häßlich ihn die beiden letzten Jahre gemacht
+                                                  hatten.</said>
+                                                  Die Schultern, auf denen seine
+                                                  Hände ruhten, waren warm und bebten.
+                                                  Und er spürte tiefes Mitleid mit
+                                                  diesem noch so warmen und schönen Leben, das aber
+                                                  wohl bald ebenso verwelken würde wie das
+                                                  seinige.
+                                                  <said id="10" mode="freeIndirect" content="thought" level="1">Warum liebte sie ihn so sehr?</said>
+                                                  Er erschien allen Frauen anders,
+                                                  als er in Wirklichkeit war, und sie liebten in ihm
+                                                  nicht ihn selbst, sondern einen Menschen, <said id="27" mode="reported" content="thought" level="1">den ihre
+                                                  Phantasie geschaffen hatte</said>, den sie ihr Leben lang
+                                                  suchten: <said id="13" mode="reported" content="thought" level="1">wenn sie auch später <said id="14" mode="reported" content="thought" level="2">ihren Irrtum</said>
+                                                  einsahen</said>, so hörte ihre Liebe doch nicht auf.
+                                                  Und keine von ihnen war mit ihm
+                                                  glücklich gewesen.
+                                                  Die Jahre gingen, er  machte neue Bekanntschaften,
+                                                  trennte sich von den alten, liebte aber eigentlich
+                                                  nie; alles war dabei, nur keine Liebe.
+                                                  
+                                                  
+                                                  Und erst jetzt, da sein Kopf schon
+                                                  grau war, liebte er heiß und wahr – zum erstenmal
+                                                  in seinem Leben.
+                                                  
+                                                  
+                                                  Anna Ssergejewna und er liebten
+                                                  einander wie zwei verwandte Seelen, wie Eheleute,
+                                                  wie zärtliche Freunde; <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">sie</seg> <seg id="15" type="intExpr">glaubten</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1">daß das
+                                                  Schicksal selbst sie für einander bestimmt hatte</said>,
+                                                  <seg id="16" type="frame" pos="start">und <seg id="16" type="speaker">sie</seg> <seg id="16" type="intExpr">wunderten</seg> sich,</seg> <said id="16" mode="indirect" content="thought" level="1">warum er und sie
+                                                  verheiratet waren</said>; sie kamen sich vor wie zwei
+                                                  Zugvögel, Männchen und Weibchen, die man
+                                                  eingefangen und in getrennte Käfige gesperrt
+                                                  hat.
+                                                  Sie hatten einander alles vergeben,
+                                                  dessen sie sich in ihrer Vergangenheit schämten,
+                                                  sie vergaben sich auch heute alles und fühlten,
+                                                  wie sehr sie die Liebe verändert hatte.
+                                                  
+                                                  
+                                                  <said id="17" mode="reported" content="thought" level="1">Früher pflegte er sich in schweren
+                                                  Stunden mit allen möglichen Überlegungen zu
+                                                  trösten, die ihm gerade in den Kopf kamen</said>; <said id="18" mode="reported" content="thought" level="1" nonfact="yes">aber
+                                                  jetzt lagen ihm alle Überlegungen fern</said>, er spürte
+                                                  nur tiefes Mitleid und hatte das Verlangen,
+                                                  aufrichtig und zärtlich zu sein ...
+                                                  
+                                                  
+                                                  <said id="19" mode="direct" content="speech" level="1">»So hör' doch auf, meine Gute,«</said>
+                                                  <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">er</seg>.</seg>
+                                                  <said id="20" mode="direct" content="speech" level="1">»Nun hast du genug geweint ...
+                                                  <said id="21" mode="reported" content="thought" level="2" nonfact="yes">Wollen wir nachdenken</said>, vielleicht läßt sich noch
+                                                  ein Ausgang finden.«</said> 
+                                                  
+                                                  
+                                                  <said id="22" mode="reported" content="speech" level="1">Sie sprachen lange hin und her</said> und
+                                                  <seg id="23" type="frame" pos="start"><seg id="23" type="intExpr">berieten</seg>,</seg> <said id="23" mode="indirect" content="speech" level="1">wie sie sich von der Notwendigkeit, <said id="24" mode="reported" content="speech" level="2">zu
+                                                  lügen</said>, sich zu verstecken und in verschiedenen
+                                                  Städten zu leben, befreien  könnten.</said>
+                                                  Wie wird man diese unerträglichen
+                                                  Fesseln los?
+                                                  
+                                                  
+                                                  <said id="25" mode="direct" content="speech" level="1">»Wie?</said>
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                          </p>
+      </body>
+   </text>
+</TEI>

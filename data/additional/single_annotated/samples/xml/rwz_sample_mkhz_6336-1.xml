@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Vers.</title>
+             <author>Fürstenberg, James</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt27_1868_2.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Ein Vers.</f>
+         <f name="author">Fürstenberg, James</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1">„Wenn es Dir Vergnügen machen kann, hier zu sitzen“</said>, gewährt wurde.
+            <said id="2" mode="reported" content="speech" level="1">Nachdem wir erst über einige gleichgültige Dinge gesprochen</said>, wobei sie niemals aufsah, <said id="3" mode="reported" content="speech" level="1">fing ich an zu beichten.</said> <seg id="4" type="frame" pos="start">Da <seg id="4" type="intExpr">schien</seg> es <seg id="4" type="speaker">mir</seg>,</seg>
+                        <said id="4" mode="indirect" content="thought" level="1" border="yes">als ob sie ihr Köpfchen tiefer zu ihrer Arbeit niederbeugte, als hätte
+                        sie irgend einen Fehler entdeckt.</said>
+            Ich war gerade im besten Zuge, da klopfte es, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">und meine Beichte
+                        war gestört.</said> <said id="6" mode="reported" content="speech" level="1">Eine von den Mägden rief Fräulein Melitta aus dem
+                        Zimmer ab</said>, <seg id="7" type="frame" pos="start">und <seg id="7" type="speaker">diese</seg> eilte denn auch mit <seg id="7" type="intExpr">einem</seg>:</seg>
+                         
+            <said id="7" mode="direct" content="speech" level="1">„Du entschuldigst mich wohl für heut“</said>, hinaus.
+            Da saß ich nun, ich armer Thor,
+                        Und war so klug wohl wie zuvor - 
+            d. h. etwas klüger war ich doch, <said id="12" mode="reported" content="thought" level="1" nonfact="yes" border="yes">wenn auch meiner Sache noch nicht
+                        ganz sicher.</said> <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Ich</seg> legte mir die <seg id="8" type="intExpr">Frage</seg> vor:</seg> <said id="8" mode="direct" content="thought" level="1">Warum hat sie Dich nicht
+                        anzusehen gewagt, und warum beugte sie ihr Köpfchen <said id="9" mode="reported" content="speech" level="2">bei der Beichte</said>
+                        gar so tief auf ihre Arbeit?</said> <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">beantwortete</seg> mir <said id="11" mode="reported" content="thought" level="1">diese Frage</said> dahin:</seg> <said id="10" mode="direct" content="thought" level="1">Weil sie Dir wohl nicht mehr ernstlich zürnt und nur nicht
+                        zeigen will, daß sie besänftigt ist.</said> <said id="26" mode="reported" content="thought" level="1">Ob ich Recht gehabt</said>, werdet
+                        Ihr sehen.
+            <seg id="13" type="frame" pos="start">Wie <seg id="13" type="speaker">Ihr</seg> längst <seg id="13" type="intExpr">errathen</seg> habt,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">hatte sich meine vetterliche Freundschaft schon auf meiner Reise, <said id="14" mode="reported" content="thought" level="2" nonfact="yes">ohne daß ich mir es selbst eingestehen
+                        wollte</said>, in eine wirkliche Herzensneigung zu Melitta verwandelt.</said> Als
+                        ich sie nun nach den drei Jahren so lieblich erblüht wiedersah, da
+                        faßte mich ein nie geahntes Sehnen, und ich fühlte, daß ich nicht
+                        mehr würde von ihr lassen können.
+            <said id="27" mode="freeIndirect" content="thought" level="1">Aber wie stand es mit ihr?</said> <seg id="15" type="frame" pos="start">Ihr Benehmen mir gegenüber ließ
+                        <seg id="15" type="speaker">mich</seg> gerade nicht <seg id="15" type="intExpr">schließen</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1" nonfact="yes">daß sie mir sehr zugethan wäre</said>, und doch
+                        war es mir manchmal, als ob sie sich nur zwänge, kalt gegen mich
+                        zu sein. Manchmal, <seg id="16" type="frame" pos="start">wenn <seg id="16" type="speaker">sie</seg> <seg id="16" type="intExpr">glaubte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="1"><said id="17" mode="reported" content="thought" level="2" nonfact="yes" border="yes">ich bemerke es nicht</said></said>, traf mich
+                        ein warmer Strahl aus ihren dunklen Augen; blickte ich jedoch auf
+                        oder wendete ich mich zu ihr, plötzlich war sie wieder mein kaltes,
+                        zurückhaltendes Fräulein Cousine.
+            Dieses „Langen und Bangen in schwebender Pein“ wurde mir
+                        auf die Dauer unerträglich, <seg id="19" type="frame" pos="start">und <seg id="19" type="speaker">ich</seg> <seg id="19" type="intExpr">beschloß</seg> ernstlich,</seg> <said id="19" mode="indirect" content="thought" level="1">ihm ein Ende
+                        zu machen.</said>
+            Es war meines geliebten alten Onkels Geburtstag herangekommen,
+                        und ich war an diesem Tage schon sehr früh nach der nahegelegenen
+                        Stadt geritten, um das Geschenk, das 
+               ich für ihn dort bestellt hatte,
+                        abzuholen. Als ich zurückkehrte, ritt ich, <said id="20" mode="reported" content="thought" level="1" nonfact="yes" border="yes">um vom Vorderhause aus
+                        nicht bemerkt zu werden</said>, durch die Felder, die sich hinter dem Hause
+                        ziemlich weit ausdehnten.
+            So vorsichtig ausschauend und mich langsam den Gebäuden
+                        nähernd, <said id="21" mode="reported" content="thought" level="1" border="yes">bemerkte ich plötzlich eine helle Gestalt sich durch die Felder
+                        bewegen</said>, und genau hinblickend erkannte ich -- Melitta, und zwar
+                        allein, einen Strauß Feldblumen für den Onkel pflückend.
+            <seg id="24" type="frame" pos="start">Augenblicklich <seg id="24" type="intExpr">trat</seg> <seg id="24" type="speaker">mir</seg> der Vers:</seg>
+                         
+            <said id="24" mode="direct" content="thought" level="1">„Trifft ein Jemand einen Jemand
+                        In dem Korn allein,
+                        Küßt der Jemand dann den Jemand,
+                        Muß der Jemand schrei'n?“</said>
+                         
+            <seg id="24" type="frame" pos="end"><said id="25" mode="reported" content="thought" level="1">und der immer noch nicht aufgehobene Bann <seg id="24" type="intExpr">vor die Seele</seg>.</said></seg> Von
+                        der Gunst des Augenblicks zur kühnen That ermuthigt, sprang ich
+                        schnell vom Pferde, band dasselbe an einen nahestehenden Baum,
+                        schlich meiner schönen Cousine näher, <said id="22" mode="reported" content="thought" level="1" nonfact="yes">und ehe sie sich dessen versah</said>,
+                        hatte ich sie umschlungen und ihr einen Kuß geraubt.
+            Ein Schrei entwand sich ihren Lippen; sie wollte sich losreißen,
+                        doch ich hielt sie fest, <said id="23" mode="reported" content="speech" level="1">flüsterte ihr den Zaubervers und Alles, was ich
+                        schon lange auf dem Herzen gehabt, zu</said>, und -- sie war mein.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

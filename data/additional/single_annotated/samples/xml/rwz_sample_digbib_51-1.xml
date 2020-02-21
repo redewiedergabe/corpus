@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Diese ist sein</title>
+             <author>Altenberg, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Altenberg,_Peter_Diese_ist_sein.tg156_1.xml</f>
+         <f name="year">1901</f>
+         <f name="decade">1900</f>
+         <f name="title">Diese ist sein</f>
+         <f name="author">Altenberg, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Deshalb brachte ich ja die grosse Sardines de Nantes-Büchse. So, da hast Du drei vollkommen geschälte.«</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Wie nach einer Bergpartie isst Du! Sechs Sardinen – – –.«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Ich habe viel gearbeitet. <said id="4" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Was <seg id="4" type="intExpr">glaubst</seg> <seg id="4" type="speaker">Du</seg>?!</said> Ich freue mich riesig auf die Oper. Erstens Deinetwegen – – –. 
+                  Iss, <seg id="5 2 7" type="speaker">Risa</seg> – –.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ich kann nicht essen. Iss Du für mich.«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Wie vor einem Balle bist Du. Wie ein Mäderl –.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Ist es schon Zeit, zu gehen?!«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Nein. Noch zwanzig Minuten. Sie, Marie, wenn wir weg sind, öffnen Sie alle Fenster!«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Warum?!«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">fragte</seg> <seg id="9 16 18 21 23 25" type="speaker">Risa</seg>.</seg> 
+                  <said id="10" mode="direct" content="speech" level="1" nonfact="yes">Ich möchte nicht, dass Du in das Dumpfe zurückkämest. Am liebsten möchte ich Dich in einen schönen, unerhört erleuchteten Hotel-Saal führen, <seg id="11" type="frame" pos="start">wo alle <seg id="12 11 14" type="speaker">Leute</seg> an den Tischen Dich ansähen und <seg id="11" type="intExpr">flüsterten</seg>:</seg> <said id="11" mode="direct" content="speech" level="2" nonfact="yes">»Du, die kommt aus ›Tristan‹ – –.«</said> <said id="12" mode="direct" content="speech" level="2">»<said id="13" mode="reported" content="thought" level="3" nonfact="yes" border="yes">Wieso <seg id="13" type="intExpr">weisst</seg> <seg id="13" type="speaker">Du</seg> es?!</said>«</said> <said id="14" mode="direct" content="speech" level="2" nonfact="yes">»Ich sehe es ihr an«.</said> Risa, warum lächelst Du?! Ich möchte jeden Augenblick 
+die Welt aufbieten, Dir das zu spenden, wessen Du bedürftest. Der Impresario Deiner Seele sein, das wäre es. Aber ich treffe nur das Äusserliche. <said id="15" mode="reported" content="speech" level="2">Nun, habe <seg id="15" type="speaker">ich</seg> Dir schlecht <seg id="15" type="intExpr">gerathen</seg> zu dieser weissgrünen Seide?!</said> Mein Kunstwerk!</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Ich bin wirklich Dein Kunstwerk. Ich selbst hätte es nie gewagt: weissgrüne Seide, von oben bis unten in Plissés. Du nimmst es mir ab, hast meine eigenen Kühnheiten. So erlösest Du mich von mir, von meinen Überschüssigkeiten.«</said> 
+                  
+                     <said id="17" mode="direct" content="speech" level="1">»Bleibt mir etwas anderes übrig als Dir zuvorzukommen in Dir selbst?!«</said>
+                   
+                  <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Das <seg id="19" type="intExpr">verstehe</seg> <seg id="19" type="speaker">ich</seg> gar nicht.</said>«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Es wird ein Augenblick kommen, da ich zurückbleibe. Dann wirst Du mich verstanden haben. Vorläufig gebe ich Dir Richard Wagner, weissgrüne Seide zu Deinem wunderbaren braunen Haar und meine Freundschaft. Kann man aber concurrieren mit den Träumen?! Auf rascheren Rossen reiten sie –.«</said> 
+                  <said id="21" mode="direct" content="speech" level="1">»Wie Du Dich in mich hineingräbst – –! Da brauchen wir nicht herauszugraben – – –. Wie wenn Du zu dem Heerde von Krankheitskeimen vordrängest, zu Gefahren ausgesetzten Punkten!«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Risa, hat die Pastille Tamar Grillon, die ich Dir heute morgens gab, gewirkt?!«</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Ja – – –. Ich bin wie erlöst.«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»Es ist ein königliches Mittel. Milde wie die Natur selbst und gleichsam voll innerlicher fürsorglicher Weisheit. Unsere eigene Kraft, nur quasi in die Frucht des Tamarindenbaumes verzaubert!«</said> 
+                  
+                     
+<said id="25" mode="direct" content="speech" level="1">»Ich bin wie erlöst – – –.«</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Nun siehst Du – –?!«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»Du hättest Kindsfrau werden sollen – – –«</said> <seg id="27" type="frame" pos="end"><seg id="27" type="intExpr">sagte</seg> <seg id="27" type="speaker">sie</seg> sanft.</seg> <seg id="31 26 24 22 20 17 8 6 3 1 33" type="speaker">Er</seg> aber spürte gleichsam ihren Leib und ihre Seele, welche er in gleichem Maasse behütete und frei bewahrte vor jedem Drucke, auf dass sie seien in Frieden! 
+                  <said id="28" mode="direct" content="speech" level="1">»Ganz glücklich bist Du über Tamar – –«</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">sagte</seg> <seg id="28" type="speaker">sie</seg> lächelnd.</seg> 
+                  Stille. 
+                  <seg id="29" type="frame" pos="start">Dann <seg id="29" type="intExpr">sagte</seg> <seg id="29 32 41" type="speaker">sie</seg> sanft: </seg><said id="29" mode="direct" content="speech" level="1">»<said id="30" mode="reported" content="writing" level="2" nonfact="yes"><seg id="30" type="speaker">Du</seg> – – – <seg id="30" type="intExpr">schreibe</seg> Herren von Artin ab für Samstag, Ausstellungs-Avenue, Restaurant Sacher.</said> Ich hasse ihn.«</said> 
+                  <said id="31" mode="direct" content="speech" level="1">»Artin?! Welchen Du auffordertest?!«</said> 
+                  <said id="32" mode="direct" content="speech" level="1">»Ja, Artin – – –. Gehen wir. Es ist dreiviertel sieben.«</said> 
+                  <said id="33" mode="direct" content="speech" level="1">»Marie, öffnen Sie alle Fenster, während wir weg sind!«</said> <seg id="34" type="frame" pos="start">Auf dem Wege zur Oper <seg id="34" type="intExpr">sagte</seg> <seg id="34" type="speaker">sie</seg>:</seg> <said id="34" mode="direct" content="speech" level="1">»Du, <seg id="35" type="frame" pos="start">wenn <seg id="35" type="speaker">Tante Ida</seg> <seg id="35" type="intExpr">wüsste</seg>,</seg> <said id="35" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">dass <said id="36" mode="reported" content="speech" level="3"><seg id="36" type="speaker">wir</seg> über ›Tamar‹ uns <seg id="36" type="intExpr">besprachen</seg>?!</said></said> <seg id="37" type="frame" pos="start">Kannst <seg id="37" type="speaker">Du</seg> Dir <seg id="37" type="intExpr">vorstellen</seg>,</seg> <said id="37" mode="indirect" content="thought" level="2" nonfact="yes">dass überhaupt <said id="38" mode="reported" content="speech" level="3" nonfact="yes"><seg id="38" type="speaker">jemand</seg> aus unseren Familien über Tamar <seg id="38" type="intExpr">sich</seg> <seg id="38" type="intExpr">bespräche</seg>?!</said></said> <seg id="39" type="frame" pos="start"><seg id="39" type="speaker">Ich</seg> selbst <seg id="39" type="intExpr">wüsste</seg> es nicht von mir,</seg> <said id="39" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">dass man es könne.</said>«</said> 
+                  <said id="40" mode="direct" content="speech" level="1">»Gute, Süsse – –«</said> <seg id="40" type="frame" pos="end"><seg id="40" type="intExpr">sagte</seg> <seg id="40 42" type="speaker">er</seg> milde.</seg> 
+                  <said id="41" mode="direct" content="speech" level="1">»Gott, wie oft mussten diese jungen Frauen übel gelaunt sein und verdrossen. Aber man führte es auf das ›Seelische‹ zurück.«</said> 
+                  <said id="42" mode="direct" content="speech" level="1">»Jawohl, auf das ›Seelische‹ – – –.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

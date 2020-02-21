@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der arme Spielmann</title>
+             <author>Grillparzer, Franz</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Grillparzer,_Franz_Der_arme_Spielmann.tg1810_1.xml</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Der arme Spielmann</f>
+         <f name="author">Grillparzer, Franz</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="24" mode="direct" content="speech" level="1"><said id="1" mode="direct" content="speech" level="2">Ich kaufe nichts, liebe Jungfer</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">ich</seg>.</seg> <said id="2" mode="direct" content="speech" level="2">Nun warum <said id="3" mode="reported" content="speech" level="3">bestellen Sie dann die Leute?</said></said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">rief</seg> <seg id="2" type="speaker">sie</seg> zornig.</seg> <said id="4" mode="reported" content="speech" level="2">Ich entschuldigte mich</said>, und so wie ich die Schelmerei gleich weg hatte, <said id="5" mode="reported" content="speech" level="2">erklärte ich ihrs aufs beste.</said> <said id="6" mode="direct" content="speech" level="2">Nun, so schenken Sie mir wenigstens einen Bogen Papier, um meine Kuchen darauf zu legen</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">sie</seg>.</seg> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">machte</seg> ihr <seg id="7" type="intExpr">begreiflich</seg>,</seg> <said id="7" mode="indirect" content="speech" level="2">daß das Kanzleipapier sei und nicht: mir gehöre, zu Hause aber hätte ich welches, das mein wäre, davon wollt ich ihr bringen.</said> <said id="8" mode="direct" content="speech" level="2">Zu Hause habe ich selbst genug</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">sie</seg> spöttisch</seg> und schlug eine kleine Lache auf, indem sie fortging. 
+                  
+                     
+Das war nur vor wenigen Tagen geschehen, <said id="9" mode="reported" content="thought" level="2">und ich gedachte aus dieser Bekanntschaft sogleich Nutzen für meinen Wunsch zu ziehen.</said> Ich knöpfte daher des andern Morgens ein ganzes Buch Papier, an dem es bei uns zu Hause nie fehlte, unter den Rock und ging auf die Kanzlei, wo ich, um mich nicht zu verraten, meinen Harnisch mit großer Unbequemlichkeit auf dem Leibe behielt, bis ich gegen Mittag aus dem Ein-und Ausgehen meiner Kameraden und dem Geräusch der kauenden Backen merkte, daß die Kuchenverkäuferin gekommen war, <seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">glauben</seg> konnte,</seg> <said id="10" mode="indirect" content="thought" level="2">daß der Hauptandrang der Kunden vorüber sei.</said> Dann ging ich hin aus, zog mein Papier hervor, nahm mir ein Herz und trat zu dem Mädchen hin, die, den Korb vor sich auf dem Boden und den rechten Fuß auf einen Schemel gestellt, auf dem sie gewöhnlich zu sitzen pflegte, dastand, leise summend und mit dem auf den Schemel gestützten Fuß den Takt dazu tretend. Sie maß mich vom Kopf bis zu den Füßen, als ich näher kam, was meine Verlegenheit vermehrte. <said id="11" mode="direct" content="speech" level="2">Liebe Jungfer</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">fing</seg> <seg id="11" type="speaker">ich</seg> endlich <seg id="11" type="intExpr">an</seg>,</seg> <said id="11" mode="direct" content="speech" level="2"><said id="12" mode="reported" content="speech" level="3">Sie haben neulich von mir Papier begehrt</said>, als keines zur Hand war, das mir gehörte. Nun habe ich welches von Hause mitgebracht und</said> – damit hielt ich ihr mein Papier hin. <seg id="14" type="frame" pos="start"><said id="13" mode="direct" content="speech" level="2"><seg id="14" type="speaker">Ich</seg> habe Ihnen schon neulich <seg id="14" type="intExpr">gesagt</seg></said></seg><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">erwiderte</seg> <seg id="13" type="speaker">sie</seg>,</seg> <said id="13" mode="direct" content="speech" level="2"><said id="14" mode="indirect" content="speech" level="3">daß ich selbst Papier zu Hause habe.</said> Indes man kann alles brauchen.</said> Damit nahm sie mit einem leichten Kopfnicken mein Geschenk und legte es in den Korb. <said id="15" mode="direct" content="speech" level="2">Von den Kuchen wollen Sie nicht?</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">sie</seg>, unter ihren Waren herum musternd,</seg> <said id="15" mode="direct" content="speech" level="2">auch ist das Beste schon fort.</said> <said id="16" mode="reported" content="speech" level="2">Ich dankte</said>,<seg id="17" type="frame" pos="start"> <seg id="17" type="intExpr">sagte</seg> aber</seg> <said id="17" mode="indirect" content="speech" level="2">daß ich <said id="18" mode="reported" content="speech" level="3" nonfact="yes">eine andere Bitte</said> hätte.</said> <said id="19" mode="direct" content="speech" level="2">Nu, allenfalls?</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">sprach</seg> <seg id="19" type="speaker">sie</seg></seg>, mit dem Arm in die Handhabe des Korbes fahrend und aufgerichtet dastehend, wobei sie mich mit heftigen Augen anblitzte. <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Ich</seg> <seg id="20" type="intExpr">fiel</seg> rasch <seg id="20" type="intExpr">ein</seg>,</seg> <said id="20" mode="indirect" content="speech" level="2">daß ich ein Liebhaber der Tonkunst sei, obwohl erst seit kurzem, daß ich sie so schöne Lieder singen gehört, besonders eines.</said> <said id="21" mode="direct" content="speech" level="2">Sie? Mich? Lieder?</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">fuhr</seg> <seg id="21" type="speaker">sie</seg> <seg id="21" type="intExpr">auf</seg>,</seg> <said id="21" mode="direct" content="speech" level="2">und wo?</said> <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Ich</seg> <seg id="26" type="intExpr">erzählte</seg> ihr weiter</seg> <said id="26" mode="indirect" content="speech" level="2">daß ich in ihrer Nachbarschaft wohne und sie auf dem Hofe bei der Arbeit belauscht hätte.</said> <said id="27" mode="indirect freeIndirect" content="speech" level="2">Eines ihrer Lieder gefiele mir besonders, so daß ichs schon versucht hätte, auf der Violine nachzuspielen.</said> <said id="23" mode="direct" content="speech" level="2">Wären Sie etwa gar derselbe</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">rief</seg> <seg id="23" type="speaker">sie</seg> <seg id="23" type="intExpr">aus</seg>,</seg> <said id="23" mode="direct" content="speech" level="2">der so kratzt auf der Geige?</said> – Ich war damals, <said id="25" mode="reported" content="speech" level="2">wie ich bereits sagte</said>, nur Anfänger und habe erst später mit vieler Mühe die nötige Geläufigkeit in diese Finger gebracht«</said><seg id="24" type="frame" pos="end">, <seg id="24" type="intExpr">unterbrach</seg> sich der alte <seg id="24" type="speaker">Mann</seg></seg>, wobei er mit der 
+linken Hand, als einer, der geigt, in der Luft herumfingerte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

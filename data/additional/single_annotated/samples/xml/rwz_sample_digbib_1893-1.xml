@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Schulmeisters Marie</title>
+             <author>Marlitt, Eugenie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Marlitt,_Eugenie_Schulmeisters_Marie.tg120_1.xml</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Schulmeisters Marie</f>
+         <f name="author">Marlitt, Eugenie</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Bastel, der sich anfänglich bei dem Erscheinen des Mädchens hinter die Umstehenden zurückgezogen hatte, fuhr bei <said id="1" mode="reported" content="speech" level="1">dieser letzten Anschuldigung</said> wie wütend auf die Sprechende los. 
+                  <said id="2" mode="direct" content="speech" level="1">»Ach, du überg'studierter Schulmeister du!«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">schrie</seg> <seg id="2" type="speaker">er</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»mache dich nicht so mausig! ... Wenn deine Mutter uns dienstbar war, so wird sie auch reichlich dafür bezahlt worden sein. Der reiche Tannenwirt nimmt nichts geschenkt; am allerwenigsten aber von solchen Hungerleidern wie ihr seid ... Geh lieber heim,«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">fuhr</seg> <seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">fort</seg>, und ein tückischer Blick streifte das Mädchen –</seg> <said id="2" mode="direct" content="speech" level="1">»und pfleg das Kind; <said id="5" mode="reported" content="speech" level="2" nonfact="yes">das kann dein vornehmer Herr für seine fünfzig Thaler schon verlangen ...</said> Geh heim, da thust du besser, als daß du hier stehst und <said id="3" mode="reported" content="speech" level="2">predigst <said id="4" mode="reported" content="speech" level="3" nonfact="yes">wie der Herr Pfarrer auf der Kanzel!</said></said>«</said> 
+                  Es mußte eine furchtbare Beleidigung <said id="6" mode="reported" content="speech" level="1">in diesen, von spöttischen Gebärden begleiteten Worten</said> liegen, denn das junge Mädchen zuckte im tödlichen Schrecken zusammen; sie erbleichte bis in die Lippen und richtete einen wehklagenden Blick auf ihre Mutter. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Diese</seg> jedoch <seg id="7" type="intExpr">sagte</seg> scheinbar gelassen:</seg> 
+                  <said id="7" mode="direct" content="speech" level="1">»Du kannst mein Kind nicht beleidigen, Bastel; denn du selbst bist zu verächtlich ... <said id="8" mode="reported" content="thought" level="2" nonfact="yes">An die Schande, die du Marie aufbürden willst, glaubst so wenig <said id="9" mode="reported" content="thought" level="3" nonfact="yes">als das ganze Dorf</said></said> – denn ihr unbescholtenes Leben liegt ja klar vor aller Augen.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Bis auf ein Jahr, das sie in der Stadt zugebracht hat,«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">unterbrach</seg> sie hier eine rauhe <seg id="10" type="speaker">Stimme</seg>.</seg> Der Wirt, <said id="11" mode="reported" content="speech" level="1">welcher gesprochen hatte</said>, ließ <said id="12" mode="reported" content="speech" level="1">seinen Worten</said> ein kurzes, rohes Gelächter folgen. 
+                  Hatte die alte Frau bis dahin standhaft ihre Fassung behauptet, so war es jetzt um dieselbe geschehen. <seg id="13" type="frame" pos="start">Mit funkelndenAugen trat <seg id="13" type="speaker">sie</seg> vor ihre Tochter, hob die Rechte drohend gegen den Wirt und <seg id="13" type="intExpr">rief</seg> mit unheimlich klingender Stimme:</seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»Tannenwirt, Ihr seid mein Feind seit langen Jahren! Was mir auch Böses von den Menschen widerfahren ist, Ihr hattet stets die Hand dabei im Spiele ... <said id="14" mode="reported" content="speech" level="2" nonfact="yes">Ich habe Euch nicht geflucht</said> um Eurer unglücklichen Frau willen, und weil Ihr mich, mich allein verfolgtet. Aber hütet Euch, mein Muttergefühl zu kränken! ... <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Ich</seg> <seg id="15" type="intExpr">sage</seg> Euch nochmals,</seg> <said id="15" mode="indirect" content="speech" level="2">hütet Euch, auch nur einen Schatten von Verdacht auf mein schuldloses Kind zu werfen</said>, oder Ihr sollt mich kennen lernen!«</said> 
+                  Der heroische Ausdruck einer edlen Empfindung hat in gewissen Momenten Gewalt selbst über die rohesten, unzugänglichsten Naturen, und so wurde diese entflammte, in ihrem Kind beleidigte Mutter momentan ein Gegenstand der allgemeinen Teilnahme. Freilich äußerte sich dieselbe nicht sehr thatkräftig, denn das Ansehen und der Reichtum des Wirtes fiel dem menschlichen Mitgefühl gegenüber schwer ins Gewicht; <seg id="16" type="frame" pos="start">allein es <seg id="16" type="intExpr">wurden</seg> doch tröstende <seg id="16" type="intExpr">Stimmen laut</seg>, wie:</seg> <said id="16" mode="direct" content="speech" level="1">»Beruhigt Euch, Frau Lindner, der Bastel war zu hitzig – <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">niemand</seg> im Dorfe <seg id="17" type="intExpr">glaubt</seg>,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes"><said id="18" mode="reported" content="speech" level="3">was er eben gesagt hat</said></said> – <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">wir</seg> <seg id="19" type="intExpr">wissen</seg> ja,</seg> <said id="19" mode="indirect" content="thought" level="2" border="yes">daß die Marie brav und unbescholten ist</said>«</said> – und der Kreis teilte sich, um die Frau mit ihren Kindern hindurch zu lassen. Sie verließ denn auch, gestützt auf ihre ältere Tochter, und das kleine Mädchen an der Hand führend, den Schauplatz des kränkenden Vorfalles und schwankte müden Schrittes ihrem Hause zu.
+                  Die Tanzmusik begann von neuem. Die alten Bauern stopften ihre Pfeifen, und die jungen Burschen führten ihre kreischenden Mädchen zum Reigen. In kurzem wirbelte eine mächtige Staubwolke über der Stelle, wo eben noch zwei Herzen in bitterer Pein geschlagen hatten.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik024_1845_3.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Eingesendet. In dem alljährlich im Druck erschienenen Verzeichnisse der hiesigen Stadt=Armen, welche aus der Kasse des Armen=Vereins Unterstützung
+                        erhalten, ist unter Anderen auch der G. P--r schon
+                        mehrmals als Empfänger von Wochenbrod, Hauszins
+                        u. s. w. aufgeführt worden. Da nun aber dessen Mittellosigkeit durchaus nicht der Art ist, daß er den Bezug dieser Liebesgaben verdienen dürfte, indem, was
+                        fast tagtäglich wahrgenommen zu werden vermag -ihm in den öffentlichen Schenken wenigstens 8 bis 10
+                        Schoppen Bier zum Genusse disponibel sind, was bei
+                        den meisten der hiesigen Einwohner, namentlich in jetziger herber Zeit, welche unausgesetzt zu den Liebesgaben beisteuern, nicht einmal der Fall seyn kann, <seg id="1" type="frame" pos="start">so
+                        dürfte hier die <seg id="1" type="intExpr">Frage</seg> an den hochverehrlichen ArmenVerein am Platze seyn:</seg>
+                         
+           <said id="1" mode="indirect" content="speech" level="1" prag="yes"> „ob es nicht zweckmäßiger wäre, die von dem P--r „bisher bezogenen Liebes=Gaben dem unglücklichen
+                        „Soldaten Fauser oder sonst einem würdigen Ar„men auch zuzutheilen, da, auch abgesehen von der
+                        „weit größeren Würdigkeit des Genannten, das ihn
+                        „-- wie bekannt, unverschuldet betroffene Unglück
+                        „allein schon ihn einer angemesseneren Unterstützung
+                        „gewiß empfehlen dürfte.</said>
+            
+               Z.
+            Anmerkung der Redaction. Unter solchen Umständen, wie sie vorstehend und im letzten Blatte
+                        der Chronik zu lesen sind, dürfte der Artikel in
+                        N ro 19., Seite 74, unter der Rubrik: „An die
+                        hiesigen Armenfreunde“ Berücksichtigung verdienen. - 
+         
+      </p>
+      </body>
+   </text>
+</TEI>

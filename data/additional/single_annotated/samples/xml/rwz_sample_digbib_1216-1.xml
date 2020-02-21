@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Jonathan</title>
+             <author>Heym, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heym,_Georg_Jonathan.tg149_1.xml</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">Jonathan</f>
+         <f name="author">Heym, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Eine Schwester kam herein, sie schloß lautlos die Tür, sie setzte 
+sich mit einer Handarbeit an sein Bett. Und Jonathan fiel in einen unruhigen Halbschlummer, von den Nachwehen der Narkose betäubt. 
+                  Plötzlich schien es ihm, als wenn sich die Tapeten des Zimmers an einigen Stellen bewegten. Sie schienen leise hin und her zu zittern und sich aufzubauschen, als wenn dahinter jemand stände, der sich gegen sie anstemmte, um sie zu zerreißen. Und siehe da, mit einem Male zerrissen die Tapeten unten am Fußboden. Wie ein Haufe Ratten quollen darunter ganze Heerscharen kleiner winziger Männchen hervor, die bald das ganze Zimmer anfüllten. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Jonathan</seg> <seg id="1" type="intExpr">wunderte</seg> sich,</seg> <said id="1" mode="indirect" content="thought" level="1">wie so viele von den Zwergen hinter der Tapete sich hatten verstecken können.</said> <said id="2" mode="reported" content="speech" level="1">Er schimpfte über die Unordnung im Krankenhause.</said> <said id="3" mode="reported" content="speech" level="1" nonfact="yes">Er wollte sich bei seiner Wärterin beschweren</said>, aber als er sie an sein Bett winken wollte, sah er, daß sie nicht da war. Auch die Tapeten waren mit einem Male alle fort, da waren auch keine Wände mehr. 
+                  Er lag in einem weiten, ungeheuren Saal, dessen Wände sich immer weiter und weiter zu entfernen schienen, bis sie hinten verschwanden in einem bleiernen Horizont. Und dieser ganze entsetzliche öde Raum war voll von den kleinen Zwergen, die auf ihren schmalen Schultern große blaue Köpfe schaukelten, wie ein Meer riesiger Kornblumen auf zerbrechlichen Stengeln. Trotzdem ihm viele sehr nahe standen, konnte Jonathan ihre Gesichter nicht erkennen. Wenn er genau hinsehen wollte, so verschwammen ihre Züge in lauter blaue Flecken, die vor seinen Augen herumtanzten. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Er</seg> wollte gern <seg id="4" type="intExpr">wissen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wie alt sie wären</said>, aber er konnte <said id="6" mode="reported" content="speech" level="1">seine eigene Stimme</said> nicht mehr hören. <seg id="5" type="frame" pos="start">Und plötzlich kam <seg id="5" type="speaker">ihm</seg> der <seg id="5" type="intExpr">Gedanke</seg>:</seg> <said id="5" mode="direct" content="thought" level="1">du bist ja taub, du kannst ja nicht mehr hören.</said> 
+                  Vor seinen Augen begannen sich die Zwerge langsam zu drehen, sie hoben ihre Hände taktmäßig auf und nieder, langsam 
+kamen ihre großen Massen in Bewegung. Von rechts nach links, von rechts nach links, summte es in seinem Schädel. Immer schneller drehten sich die Massen um ihn herum. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Er</seg> <seg id="7" type="intExpr">glaubte</seg></seg> <said id="7" mode="indirect" content="thought" level="1">in einer großen stählernen Drehscheibe zu sitzen, die in wachsender Schnelligkeit immer schneller, immer rasender um ihn zu kreisen begann.</said> Ihm wurde schwindlig, er wollte sich festhalten, aber es half alles nichts, er wurde mit fortgerissen. Er mußte sich erbrechen. 
+                  Mit einem Male war alles still, alles leer, alles fort. Er lag allein und nackt in einem großen Felde auf einer Art Bahre. 
+                  Es war sehr kalt, es begann zu stürmen, und am Himmel zog eine schwarze Wolke herauf, wie ein ungeheures Schiff mit schwarzen geblähten Segeln. 
+                  Hinten am Rande des Himmels stand ein Mann, der war in einen grauen Lappen gehüllt, und trotzdem er sehr weit entfernt war, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">wußte</seg> <seg id="8" type="speaker">Jonathan</seg> genau,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">wer es war.</said> Er war kahl, seine Augen lagen sehr tief. <said id="9" mode="freeIndirect" content="thought" level="1">Oder hatte er überhaupt keine Augen?</said> 
+                  Auf der anderen Seite des Himmels sah er eine Frau stehen oder ein junges Mädchen. Sie kam ihm bekannt vor, er hatte sie schon einmal gesehen, das war aber lange her. Plötzlich begannen die beiden Figuren ihm zu winken, sie schüttelten ihre langen faltigen Ärmel, <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">wußte</seg> aber nicht,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wem er gehorchen sollte.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

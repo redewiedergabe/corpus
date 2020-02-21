@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt32_1869_1.xml</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Am meisten besucht war der Tisch, an welchem sich Nisida,
+                        ihre Begleiterin und Lindhorst befanden. In einiger Entfernung saß
+                        die heilige Schaar aus dem baierischen Schwabenlande um einen breiten, sich auf der Gränze zwischen Dunkel und Licht haltenden Tisch
+                        gruppirt. Mit Ausnahme Kleist's und der Gebrüder Busse starrten
+                        sie sämmtlich unabänderlich mit zwischen melancholischer Versunkenheit
+                        und wildester Eifersucht wechselnder Miene nach dem umschwärmten
+                        Sitz der Sängerin hinüber; doch Keiner von ihnen getraute sich,
+                        Fritz Werner's Beispiel nachzuahmen, der legeren Schrittes, die rechte
+                        Hand nachlässig in der Gegend des Herzens in die Weste gesteckt,
+                        ebenfalls umher promenirte, ab und zu artig vor einem Tisch grüßte,
+                       <seg id="1" type="frame" pos="start"> ohne daß die daran <seg id="1" type="speaker">Sitzenden</seg> eine <seg id="1" type="intExpr">Ahnung</seg> davon erhielten, </seg><said id="1" mode="indirect" content="thought" level="1" nonfact="yes">daß der
+                        Gruß ihnen gelte</said>, und in konzentrischen Kreisen näher rückend, allmälig
+                        im Augen- und Ohrbereich der Italienerin Posto zu fassen suchte.
+            Hilmar trat, mit seiner Zeichnung in der Hand, in den Garten.
+            <said id="2" mode="direct" content="speech" level="1">„<seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Ich</seg> <seg id="22" type="intExpr">glaube</seg>,</seg> <said id="22" mode="indirect" content="thought" level="2" border="yes">die Dame drüben hat das Blatt verloren</said>“</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">sagte</seg> <seg id="2" type="speaker">er</seg>,
+                        auf Nisida deutend, zu einem Kellner,</seg> <said id="2" mode="direct" content="speech" level="1">„bringen Sie es ihr bei Gelegenheit zurück.“</said>
+                         
+            Die Gelegenheit, sich der Dankbarkeit eines nobel auftretenden
+                        Gastes zu versichern, pflegt Kellnern nicht viel Kopfzerbrechen zu verursachen, und ehe eine halbe Minute verflossen war, hatte der Beauftragte seine dankbare Mission erfüllt und war mit einer ihm von
+                        Fritz Werner tief beneideten Verbeugung wieder verschwunden. <said id="16" mode="reported" content="speech" level="1">Nisida
+                        hatte von <seg id="16" type="speaker">seinen</seg> begleitenden Worten nicht viel <seg id="16" type="intExpr">vernommen</seg> </said>und drehte
+                        die Zeichnung verwundert zwischen den Fingern.
+            <said id="3" mode="direct" content="speech" level="1">„Was bedeutet das? <said id="4" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Das <seg id="4" type="intExpr">verstehe</seg> <seg id="4" type="speaker">ich</seg> arme Unwissenheit nicht</said>“</said><seg id="3" type="frame" pos="end">,
+                        <seg id="3" type="intExpr">lachte</seg> <seg id="3" type="speaker">sie</seg>.</seg>
+            Ein junger, fashionabler, à l'Anglais gekleideter Mann, der vor
+                        ihr stand, nahm ihr das Blatt aus der Hand.
+           <said id="6" mode="direct" content="speech" level="1"> „Ah“</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">machte</seg> <seg id="6 17 10" type="speaker">er</seg>, ein großes, goldenes Lorgnon in den linken
+                        Augenwinkel einklemmend,</seg> <said id="6" mode="direct" content="speech" level="1">„allerliebst gezeichnet; wahrhaftig, <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">versichere</seg>
+                        Sie, meine Gnädige, </seg><said id="17" mode="indirect" content="speech" level="2" prag="yes">allerliebst.</said> Ist die Brücke in Dingsda, an der
+                        Sie heut Nachmittag auch vorübergekommen sind, mit der lateinischen
+                        Inschrift. <said id="18" mode="reported" content="speech" level="2" nonfact="yes">Soll <seg id="18 7" type="speaker">ich</seg> sie Ihnen <seg id="18" type="intExpr">übersetzen</seg></said>, meine Gnädige? <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">Glaube</seg>
+                        wohl,</seg> <said id="7" mode="indirect" content="thought" level="2" border="yes">daß Sie es nicht können</said>; ist aber nicht Ihr Fehler, denn es
+                        ist Latein, und das lernen die Damen in unseren Pensionen nicht.
+                        <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Das</seg> <seg id="8" type="intExpr">heißt</seg> nämlich:</seg>
+                         
+            <said id="8" mode="direct" content="writing" level="2">Die Straße steht offen jetzt
+                        Feinden und Freunden.
+                        „Hütet Euch, Rhätier,
+                        Einfachheit der Sitten </said>--“
+ </said>                        
+            Nisida blickte mit auf das Blatt.
+            <said id="9" mode="direct" content="speech" level="1">„Erlauben Sie, Herr von Goldapfel, <seg id="19" type="frame" pos="start">wo <seg id="19" type="intExpr">steht</seg>:</seg>
+                         
+            <said id="19" mode="direct" content="writing" level="2" nonfact="yes">Hütet Euch, Rhätier?</said>“</said>
+                         
+            <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">fragte</seg> <seg id="9" type="speaker">sie</seg> plötzlich, mit unwillkürlich zuckenden Mundwinkeln.</seg>
+            <said id="10" mode="direct" content="speech" level="1">„Hier, meine Gnädige, dritte Zeile, oder Vers, wie Sie wollen,
+                        denn das Ganze ist eine Ode: Amica te monet -- Hütet Euch,
+                        Rhätier --“</said>
+                         
+            Ein schallendes Gelächter brach unter den Umstehenden aus, und
+                        die Sängerin lachte rücksichtslos mit.
+            <said id="11" mode="direct" content="speech" level="1">„Es ist zwar nicht Ihr Fehler, <seg id="12" type="frame" pos="start">aber <seg id="12" type="speaker">ich</seg> <seg id="12" type="intExpr">glaube</seg>, Herr von Goldapfel,</seg>
+                        <said id="12" mode="indirect" content="thought" level="2" border="yes">Sie sind auch in einer Mädchenpension gewesen</said>, wahrhaftig“</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">sagte</seg> <seg id="11 13" type="speaker">sie</seg>.</seg>
+                        <said id="13" mode="direct" content="speech" level="1">„Zum Glück haben wir hier einen veritablen Gelehrten bei der Hand.
+                        Herr Werner, <said id="14" mode="reported" content="speech" level="2" nonfact="yes">wollen <seg id="14" type="speaker">Sie</seg> uns beiden armen Damen nicht diese schwierige Inschrift <seg id="14" type="intExpr">erklären</seg>?</said>“</said>
+                         
+            Sie winkte dem langen Fritz mit ihrem schönen Finger, und
+                        er kam, vor Beglückung unterwegs über ein Stuhlbein stolpernd,
+                        heran.
+            <said id="15" mode="direct" content="speech" level="1">„<seg id="20" type="frame" pos="start">Weiß nicht, </seg><said id="20" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was Sie zu lachen haben</said> -- <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">versichere</seg> Sie, meine
+                        Gnädige</seg>“</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">wiederholte</seg> <seg id="15 20 21" type="speaker">Herr von Goldapfel</seg>, in die Tasche greifend,</seg>
+                        <said id="15" mode="direct" content="speech" level="1">„<said id="21" mode="indirect" content="speech" level="2" prag="yes">es ist Latein.</said>“</said> Er zog ein grün gepreßtes Buch hervor, in dem er
+                        blätterte; dann hielt er mit triumphirendem Blick inne.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

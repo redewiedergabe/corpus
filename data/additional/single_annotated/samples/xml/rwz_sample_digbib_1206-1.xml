@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Geheimnis des Amerikaners</title>
+             <author>Heyking, Elisabeth von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyking,_Elisabeth_von_Das_Geheimnis_des_Amerikaners.tg77_1.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Das Geheimnis des Amerikaners</f>
+         <f name="author">Heyking, Elisabeth von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Mr. Sharp bekam noch einige Zeit die, in ein ganzes Netz von politischen und finanziellen Geheimnissen verstrickten, verliebten Erinnerungen Villamores zu hören. Denn Villamore verstand es, seine Neigungen mit Berücksichtigung der dienstlichen Interessen zu plazieren. <seg id="1" type="speaker">Er</seg> bevorzugte stets <said id="1" mode="direct" content="speech" level="1">»verteufelte kleine Chinesinnen«</said>, die Beziehungen zu der offiziellen chinesischen Welt hatten, und so war er denn auch einer der wenigst schlecht unterrichteten unter den fremden Vertretern. 
+                  Nachdem sich seine Beredsamkeit erschöpft hatte, <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="intExpr">bat</seg> <seg id="2" type="intExpr">Mr. Sharp</seg> um die Erlaubnis, ihm nun seinerseits die Angelegenheit, die ihn herführte, vorzutragen.</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»<said id="4" mode="reported" content="speech" level="2" nonfact="yes"><seg id="4" type="intExpr">Sprechen</seg> <seg id="4" type="speaker">Sie</seg>, sprechen Sie</said>, ich stehe ganz zu Ihrer Verfügung,«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">versetzte</seg> der <seg id="3" type="speaker">Geschäftsträger</seg></seg>, nur mit Mühe eine neue Anwandlung zum Gähnen unterdrückend. 
+                  Eine Viertelstunde darauf verließ Mr. Sharp das Gesandtschaftsgebäude. Der Geschäftsträger hatte den Amerikaner bis zum Straßentor geleitet, obwohl er seine nackten Füße in aller Eile bloß in Pantoffeln gesteckt hatte und sein Schlafanzug nur halb durch einen langen Bademantel verdeckt wurde, dessen Faltenwurf an eine antike Toga erinnerte. 
+                  <said id="5" mode="direct" content="speech" level="1">»Und vor allen Dingen, mein lieber Sharp, <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">vergessen</seg> <seg id="6" type="speaker">Sie</seg> nicht,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß Sie morgen bei mir speisen</said>,«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">er</seg></seg> und klopfte dem Amerikaner freundschaftlich auf die Schulter. 
+                  Dann ging <seg id="7" type="speaker">er</seg> geradewegs in sein Arbeitszimmer <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">benachrichtigte</seg> seinen Boy unter einer Flut chinesischer Verwünschungen,</seg> <said id="7" mode="indirect" content="writing" level="1">es würde ihm übel ergehen, falls er ihn, durch wen es auch sei, stören ließe.</said>
+                  Am Abend dieses Tages gingen von Peking drei Depeschen nach verschiedenen Richtungen ab. Ein Spezial-Kourier, der wahrhaftig ganz wie ein Kosack aussah, brachte eine der Depeschen zu der nächsten Station einer der Bahnlinien, die in der Zukunft große Welthandelsstraßen werden sollen. Ein Kaufmann, der die finanziellen Hilfsmittel Chinas studiert hatte und nunmehr, aller Illusionen bar, nach Niederländisch-Indien zurückkehrte, übernahm die Beförderung der zweiten Depesche bis Singapore und von dort weiter. Die dritte wurde ganz einfach dem von Sir Robert Hart so umsichtig geleiteten Postdienste anvertraut. 
+                  
+                     Darauf vergingen Tage auf Tage in trostloser Einförmigkeit. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Man</seg> konnte jedoch <seg id="8" type="intExpr">bemerken</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß drei Geschäftsträger glücklicher und befriedigter als die andren aussahen.</said> Diese drei schienen immerfort die Gesellschaft des Mr. Sharp aufzusuchen, dessen Existenz man bis dahin so ziemlich ignoriert hatte. <said id="9" mode="reported" content="writing" level="1">Jetzt erhielt der Amerikaner häufig <seg id="9" type="intExpr">Einladungen</seg> in die drei Gesandtschaften und in den Pekinger Klub</said>, einen gesellschaftlichen Vereinigungsort, der wie ein Gefängnishof aussieht, und wo seine neuen Freunde einander das Vergnügen streitig machten, ihn zu einem Cock-tail aufzufordern. Diese Sachlage konnte nicht lange den wachsamen Augen eines andren Geschäftsträgers, Herrn Fürette, entgehen, der überhaupt stets Herrn Jagomirsky mit eifersüchtiger politischer Liebe zu beobachten pflegte; er trachtete nun mit allem Geschick, von seinen drei <seg id="10" type="speaker">Kollegen</seg> herauszubekommen, welches Motiv sie für diese in Peking so seltene Miene freudiger Stimmung haben könnten. <said id="10" mode="reported" content="speech" level="1">Er bekam jedoch nur ausweichende <seg id="10" type="intExpr">Antworten</seg>.</said> 
+                  <seg id="11" type="frame" pos="start"><seg id="11 12" type="speaker">Villamore</seg> <seg id="11" type="intExpr">erwiderte</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">er habe die Bekanntschaft einer kleinen Chinesin gemacht, entzückender als alle andren</said>; <said id="12" mode="indirect freeIndirect" content="speech" level="1">sie sei die Adoptivtochter eines Eunuchen der Kaiserin, <seg id="13" type="frame" pos="start">und <seg id="13" type="speaker">er</seg> <seg id="13" type="intExpr">rechne darauf</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2">durch dieses junge <seg id="14" type="speaker">Mädchen</seg> wertvolle <said id="14" mode="reported" content="speech" level="3" nonfact="yes"><seg id="14" type="intExpr">Auskünfte</seg> über die Intrigen am kaiserlichen Hofe</said> zu erhalten.</said></said> <said id="15" mode="direct" content="speech" level="1">»Ein Land durch seine Frauen studieren, das ist das Wahre!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> <seg id="15" type="speaker">Villamore</seg>.</seg> 
+                  <seg id="16" type="frame" pos="start"><seg id="16 17" type="speaker">Waterstoppel</seg> <seg id="16" type="intExpr">versicherte</seg> Herrn Fürette,</seg> <said id="16" mode="indirect" content="speech" level="1">die Statistik biete einem starken Geist zahllose Hilfsquellen der Befriedigung</said> <seg id="17" type="frame" pos="start">und <seg id="17" type="intExpr">vertraute</seg> ihm zugleich unter dem Siegel größter Verschwiegenheit <seg id="17" type="intExpr">an</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">daß <seg id="18" type="speaker">er</seg> im Begriff stehe, <said id="18" mode="reported" content="writing" level="2">einen <seg id="18" type="intExpr">Fundamentalbericht</seg> zu beenden, über die Anzahl der Stahlfedern, welche die fremden Fabrikanten alljährlich in China absetzen könnten, wenn man die Chinesen durch einen Vertrag zwänge, sich dieser kleinen, so bequemen Utensilien zu bedienen und den Gebrauch der Pinsel aufzugeben, womit sie seit Urzeiten ihre seltsamen Schriftzeichen malen.</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

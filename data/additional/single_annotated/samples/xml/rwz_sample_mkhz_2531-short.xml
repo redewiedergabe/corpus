@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik092_1845_4.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Schnacken und Schnurren.
+                        
+               Ein sicheres Versöhnungmittel.
+                        
+            
+            Der <seg id="1 2" type="speaker">Graf von C. </seg>lag im Jahre 1780 in einer
+                        Seestadt und Festung mit dem Regimente, bei dem
+                        er Capitain war, in Garnison, <said id="1" mode="reported" content="thought" level="1" border="yes">und <seg id="1" type="intExpr">glaubte</seg> Ursache
+                        zu haben, <said id="2" mode="reported" content="speech" level="2" nonfact="yes">sich über die erste Sängerin auf dem
+                        Theater <seg id="2" type="intExpr">beschweren</seg> zu dürfen</said></said>; er war deshalb auf sie
+                        so aufgebracht, daß er sich zu rächen suchte. Als
+                        er daher eines Abends von einem Souper mit etlichen seiner Kameraden nach Hause ging, <seg id="3" type="frame" pos="start">that <seg id="3" type="speaker">er</seg>
+                        ihnen den <seg id="3" type="intExpr">Vorschlag</seg>, </seg><said id="3" mode="indirect" content="speech" level="1">dieser Sängerin, die bei ihren
+                        Eltern im ersten Stockwerke in einer von der Hauptwache und den übrigen Schildwachen abgelegenen
+                        Gasse wohnte, die Fenster einzuwerfen.</said> <said id="4" mode="reported" content="thought" level="1">Zu jener
+                        Zeit <seg id="4" type="intExpr">dachte</seg> <seg id="4" type="speaker">man</seg> in dergleichen Sachen noch etwas
+                        leicht</said>, und so gingen Alle bereitwillig auf den Vorschlag ein. Sie begaben sich an den Ort des Angriffs, und sammelten alle Steine zusammen, deren
+                        sie habhaft werden konnten. Man wirft, die Fenster klirren; <seg id="5" type="frame" pos="start">sogleich aber öffnet <seg id="5" type="speaker">man</seg> diese und <seg id="5" type="intExpr">ruft</seg>:</seg>
+                        <said id="5" mode="direct" content="speech" level="1">Räuber! Mörder!</said> Indessen fehlte es doch bald an
+                        Steinen, die an dieser Stelle selten waren. Da der
+                        Graf von C. nichts mehr zu werfen fand, so griff
+                        er in der Aufregung in die Tasche, in welcher sich
+                        eine ziemliche Menge Laubthaler befanden. Diese
+                        warf er nach den Fenstern, und da diese jetzt offen
+                        standen, so fielen sie sämmtlich in das Zimmer.
+                        Der Zorn hatte ihn so verblendet, <seg id="6" type="frame" pos="start">daß <seg id="6" type="speaker">er</seg> gar nicht
+                        <seg id="6" type="intExpr">wußte</seg>, </seg><said id="6" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was er that</said>, und immerfort Laubthaler
+                        nach den Fenstern warf. Diese Art von Rache
+                        hatte einen wunderbaren Erfolg; <said id="7" mode="reported" content="thought" level="1" border="yes">kaum <seg id="7" type="intExpr">bemerkten</seg>
+                        die <seg id="7" type="speaker">Angegriffenen</seg> die Natur der Steine, die in ihre
+                        Zimmer geflogen kamen</said>, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">so <seg id="8" type="intExpr">sagten</seg> <seg id="8" type="speaker">sie</seg> kein Wort
+                        
+               
+               weiter</said> und ließen sich ruhig bestürmen. Auf diese
+                        Art warf der Graf wenigstens sechs Louis d'or in
+                        die Fenster, und da er ein Mann von Verstand
+                        war, so mußte er endlich über sein Abenteuer lachen.
+                        Unterdessen kamen Patrouillen; der Graf und seine
+                        Gesellschaft thaten, als ob sie ebenfalls das Geschrei
+                        herbeigelockt hätte. Vergeblich pochte der Anführer
+                        der Patrouille an die Thür; Niemand machte auf,
+                        <said id="9" mode="reported" content="speech" level="1" nonfact="yes"><seg id="9" type="speaker">Niemand</seg> ließ eine <seg id="9" type="intExpr">Klage</seg> hören.</said> <seg id="10" type="frame" pos="start">Die <seg id="10" type="speaker">Angegriffenen</seg>
+                        <seg id="10" type="intExpr">fürchteten</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">sie möchten die Munition wieder zurückgeben müssen, mit der man sie angegriffen hatte.</said>
+         
+      </p>
+      </body>
+   </text>
+</TEI>

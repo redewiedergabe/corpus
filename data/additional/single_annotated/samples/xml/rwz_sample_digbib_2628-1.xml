@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das allerjüngste Gericht</title>
+             <author>Reventlow, Franziska Gräfin zu</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Reventlow,_Franziska_Graefin_zu_Das_allerjuengste_Gericht.tg86_1.xml</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Das allerjüngste Gericht</f>
+         <f name="author">Reventlow, Franziska Gräfin zu</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Herr L. trug ein helles englisches Radfahrkostüm aus dem Warenhaus Tietz, das indessen durch die Untersuchungshaft sehr gelitten hatte, die Gräfin ein schwarzseidenes Reisekostüm mit Courschleppe und Brillanten. Sie war frisch vom Hofball weg verhaftet worden. 
+                  <said id="3" mode="reported" content="speech" level="1">Vor Eintritt in die Verhandlung richtet der Vorsitzende ernste, eindringliche Worte an die Geschworenen.</said><said id="32" mode="indirect freeIndirect" content="speech" level="1"> Die Erregung über die skandalösen Vorfälle, <said id="2" mode="reported" content="speech" level="2" nonfact="yes">die heute zur Sprache kommen sollten</said>, sei bis in die weitesten Kreise gedrungen. Es wäre nun höchste Zeit, die Erregung der 
+breiten Massen einzudämmen durch <said id="5" mode="reported" content="speech" level="2" nonfact="yes">ein der öffentlichen Meinung Genüge leistendes exemplarisches Urteil.</said></said> 
+                  Als Überführungsgegenstände befanden sich auf dem Podium vor dem Richtertisch: 1) je eine in Leipzig morgens 7 Uhr seitens der Staatsanwaltschaft von der Presse weg beschlagnahmte Nr. 41 der illustrierten Wochenschrift Simplicissimus, gewöhnliche und Luxus-Ausgabe; 2) das Manuskript: Das Jüngste Gericht; 3) die Korrekturbogen, erste und zweite Korrektur; 4) die Feder, <said id="13" mode="reported" content="writing" level="1" nonfact="yes">aus der das inkriminierte Machwerk geflossen sein soll</said>; 5) der Anzug, den Herr. L. am Tage des Verbrechens trug; 6) einige Semmeln, die gleichzeitig mit der Nr. 41 des Simplicissimus ausgetragen werden sollten. 
+                  Die letzteren gingen von Hand zu Hand und <said id="7" mode="reported" content="speech" level="1">wurden für ungenießbar erklärt.</said> Beim Anblick der genannten Gegenstände steigerte sich die Aufregung im Publikum, das nicht wie sonst bei Sensationsprozessen aus der Hefe des Volkes bestand. Diesmal waren die hervorragendsten »Stützen der Gesellschaft« zugegen. <said id="14" mode="reported" content="thought" level="1" border="yes">Aber nicht nur bemerkte man die Vertreter der haute finance</said> – <said id="15" mode="reported" content="thought" level="1" border="yes">nein hie und da gewahrte man auch den bedeutenden Kopf eines Akademieprofessors der älteren Richtung.</said> Die Freunde und Abonnenten des Simplicissimus und andere Angehörige der Angeklagten konnten der Verhandlung nicht beiwohnen, da sie zugleich mit ihren Einladungskarten konfisziert, bzw. während der Dauer der Verhandlung in Haft genommen worden waren. 
+                  Die Erregung im Publikum blieb nicht ohne Wirkung auf die Angeklagten. Herr L. erblaßte sichtlich, <said id="8" mode="reported" content="speech" level="1">und die Gräfin verlangte ein Glas Wasser</said>, das ihr von einem Gerichtsdiener bereitwillig gereicht wurde. Der Vorsitzende mußte durch Glockenzeichen die Ordnung wieder herstellen. 
+                  Die geladenen Zeugen rekrutierten sich aus allen Ständen, 
+Gesellschaftsstreifen, Berufsarten, Geschlechtern und Lebensaltern. – 
+                  <said id="9" mode="reported" content="speech" level="1">Zuerst erfolgte die Verlesung der Strafliste der Angeklagten.</said> Beide sind vorbestraft, und zwar Herr L. wegen Hundesteuerhinterziehung des Simplicissimusmopses und die Gräfin wegen unbefugten Sechsspännigfahrens im Weichbild der Stadt. <said id="16" mode="reported" content="speech" level="1">Mit Spannung folgt das Publikum diesen pikanten Details aus dem Vorleben der Angeklagten.</said> 
+                  <seg id="30" type="frame" pos="start"><seg id="30" type="speaker">Wir</seg> <seg id="30" type="intExpr">geben</seg> das Verhör genau nach dem stenographischen Bericht <seg id="30" type="intExpr">wieder</seg>:</seg> 
+                  <said id="30" mode="direct" content="writing" level="1"><seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Vorsitzender</seg>:</seg> <said id="10" mode="direct" content="speech" level="2">»Angeklagter L., <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">ich</seg> <seg id="17" type="intExpr">mache</seg> Sie darauf <seg id="17" type="intExpr">aufmerksam</seg>,</seg> <said id="17" mode="indirect" content="speech" level="3">daß nur <said id="11" mode="reported" content="speech" level="4" nonfact="yes">ein volles Geständnis</said> Sie retten kann.</said> <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">Geben</seg> <seg id="18" type="speaker">Sie</seg> <seg id="18" type="intExpr">zu</seg>,</seg> <said id="18" mode="indirect" content="speech" level="3" nonfact="yes">der verantwortliche Redakteur der illustrierten Wochenschrift Simplicissimus zu sein?</said>«</said> – <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Angeklagter</seg>:</seg> <said id="12" mode="direct" content="speech" level="2">»<said id="19" mode="reported" content="speech" level="3" nonfact="yes">Darüber kann ich mich nicht so ohne weiteres aussprechen.</said>«</said> – <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Vorsitzender</seg>:</seg> <said id="20" mode="direct" content="speech" level="2">»Versteifen Sie sich nicht <said id="21" mode="reported" content="speech" level="3">aufs Leugnen. </said>Weshalb geben Sie den Simplicissimus heraus?«</said> – <seg id="22" type="frame" pos="start">Der <seg id="22" type="speaker">Angeklagte</seg> greift in die Brusttasche, zieht eine vergilbte Nr. 1 des Simplicissimus, die er stets bei sich trägt, heraus und beginnt mit heftigem Pathos das Programmgedicht: »<said id="31" mode="reported" content="speech" level="2" metaph="yes">Simplicissimus spricht</said>« zu <seg id="22" type="intExpr">verlesen</seg>:</seg> 
+                  <said id="22" mode="direct" content="speech" level="2">»O Narrenspiel der bunten Wirklichkeiten, 
+                  Was menschlich ist, versinkt – –«</said> 
+                  Ein Entrüstungssturm im Publikum bricht los und <said id="23" mode="reported" content="speech" level="2" nonfact="yes">schneidet dem Angeklagten L. jedes weitere Wort ab.</said> 
+                  <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">Vorsitzender</seg> (nachdem die Ordnung wieder hergestellt ist):</seg> <said id="24" mode="direct" content="speech" level="2">»<seg id="25" type="frame" pos="start"><seg id="25" type="intExpr">Geben</seg> <seg id="25" type="speaker">Sie</seg> <seg id="25" type="intExpr">zu</seg>,</seg> <said id="25" mode="indirect" content="speech" level="3" nonfact="yes">die inkriminierte Humoreske ›Das Jüngste Gericht‹ bei F. Gräfin R. für Nr. 41 Ihres Blattes zwecks Veröffentlichung bestellt zu haben?</said>«</said> – <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Angeklagter</seg>:</seg> <said id="26" mode="direct" content="speech" level="2">»Da hier eine Reichsgräfin im Spiel ist, <said id="27" mode="reported" content="speech" level="3" nonfact="yes">kann ich mich als Kavalier hierüber nicht aussprechen.</said>«</said> – <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">Vorsitzender</seg>:</seg> <said id="28" mode="direct" content="speech" level="2">»Wo hielten Sie sich am Tage des Verbrechens auf?«</said> – Herr L. versucht sein Alibi nachzuweisen, <seg id="29" type="frame" pos="start">indem <seg id="29" type="speaker">er</seg> aufs 
+genaueste <seg id="29" type="intExpr">an gibt</seg>,</seg> <said id="29" mode="indirect" content="speech" level="2">in welchen Straßen Münchens er sich am Morgen bewegt hat.</said>
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

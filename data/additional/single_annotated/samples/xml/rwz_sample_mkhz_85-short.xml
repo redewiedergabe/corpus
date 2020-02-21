@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_arbeitgeber0699_1870.txt_6.xml</f>
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Anzeige</f>
+         <f name="source">mkhz.arbeitgeber</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Vermischtes.
+                        
+            
+            
+               
+                  * Ein deutscher Handwerker. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Man</seg> <seg id="1" type="intExpr">schreibt</seg> uns aus Neumühl vom 15. September:</seg> <said id="1" mode="direct" content="writing" level="1">Als Kriegsberichterstatter hier stationirt
+                        habe ich Gelegenheit gefunden, einen anerkennungswerthen Akt
+                        des Muthes Seitens eines braven deutschen Schlossermeisters Namens Enders in Dorf Kehl zu konstatiren, <said id="2" mode="reported" content="speech writing" level="2" nonfact="yes">dessen tapferes Verhalten im „Arbeitgeber“ ehrenvoll <seg id="2" type="intExpr">erwähnt</seg> zu werden verdient.</said>
+                        Herr Enders und seine Söhne arbeiten heute noch, von Bomben
+                        und Granaten umsaust, in ihrer Werkstatt zu Kehl für die verschiedenen Batterien und andern Truppenkörper an den nöthigen Utensilien und Reparaturen. Ersterer ist auch zur Zeit als Dorf Kehl
+                        von Militär nicht besetzt war, <said id="3" mode="reported" content="writing" level="2">vom <seg id="3" type="speaker">Militärkommando</seg> mit der Leitung des Sicherheitsdienstes <seg id="3" type="intExpr">beauftragt</seg> worden</said>, und hat überdieß die
+                        Führung der, natürlich stark in Anspruch genommenen, Feuerwehr
+                        Kehls, mit dem schönsten Erfolg übernommen. Jn dieser Eigenschaft vermochte er am 19. August, unter dem heftigsten Gewehrund Granatfeuer, ein ganzes Stadtviertel in Stadt Kehl vor der
+                        Zerstörung durch Feuer zu retten.</said> O. v. B.
+            
+            
+               † Maffei. Jn München starb der in der industriellen Welt
+                        weit bekannte und geachtete Maschinenfabrikant Reichsrath Ritter
+                        von Maffei im 80. Jahre. Jm Jahr 1841 baute er in Hirschau
+                        die 1., 1852 die 100., 1864 die 500. und 1869 die 700. Lokomotive. Bayern hat in ihm einen seiner berühmtesten und geachtetsten Bürger verloren.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

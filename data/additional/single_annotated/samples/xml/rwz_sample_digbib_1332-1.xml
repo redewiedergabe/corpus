@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Landvogt von Greifensee</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Der_Landvogt_von_Greifensee.tg821_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Landvogt von Greifensee</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Salomon beachtete das nicht; er bemerkte es nicht einmal, weil er nicht auf <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Lob</said> und Verwunderung ausging; er eilte in seinem Eifer, ans Ziel zu kommen, nur weiter von Bild zu Bild, während Barbaras von hellem Stoffe umspannte Brust immer höher zu atmen begann wie von einer großen Angst. Vor einem Flußbilde, auf welchem der Kampf des ersten Frührotes mit dem Scheine des untergehenden Mondes vor sich ging, <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">erzählte</seg> <seg id="2" type="speaker">Landolt</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">wie früh er eines Tages habe aufstehen müssen, um diesen Effekt zu belauschen, wie er denselben aber doch ohne Hilfe der Maultrommel nicht herausgebracht hätte.</said> <said id="3" mode="reported" content="speech" level="1">Lachend erklärte er die Wirkung solcher Musik, wenn es sich um die Mischung delikater Farbentöne handle</said>, und er ergriff das kleine Instrumentchen, das auf einem mit tausend Sachen beladenen Tische lag, setzte es an den Mund und entlockte ihm einige zitternde, kaum gehauchte Tongebilde, die bald zu verklingen drohten, bald zart anschwellend ineinander verflossen. 
+                  <said id="5" mode="direct" content="speech" level="1">»Sehen Sie«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">rief</seg> <seg id="5" type="speaker">er</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»dies ist jenes Hechtgrau, das in das matte Kupferrot übergeht auf dem Wasser, während der Morgenstern noch ungewöhnlich groß funkelt! <said id="6" mode="indirect" content="thought" level="2">Es wird heute in dieser Landschaft regnen</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">denk</seg> <seg id="6" type="speaker">ich</seg>!</seg>«</said> 
+                  Als er sich fröhlich nach ihr umsah, entdeckte er wirklich, daß Barbaras Augen schon voll Wasser standen. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Sie</seg> war ganz blaß und <seg id="7" type="intExpr">rief</seg> wie verzweifelt:</seg> 
+                  
+                     <said id="7" mode="direct" content="speech" level="1">»Nein, nein! Wir passen nicht zusammen, nie und nimmermehr!«</said> 
+                  <seg id="8" type="frame" pos="start">Ganz erschrocken und erstaunt faßte <seg id="8" type="speaker">er</seg> ihre Hand und <seg id="8" type="intExpr">fragte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">was ihr sei, wie sie sich befinde?</said> 
+                  <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Sie</seg> entzog ihm aber heftig die Hände und begann mit verwirrten Worten <seg id="9" type="intExpr">anzudeuten</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1"><said id="10" mode="reported" content="thought" level="2" nonfact="yes">daß sie nicht das mindeste von alledem verstehe</said>, gar keinen Sinn dafür habe noch je haben werde, daß alles das ihr fast feindlich vorkomme und sie beängstige; <said id="11" mode="reported" content="speech" level="2" nonfact="yes">unter solchen Verhältnissen könne von einem harmonischen Leben keine Rede sein</said>, weil jeder Teil nach einer anderen Seite hin ziehe; und Landolt könne ihre friedlichen und unschuldigen Übungen, die sie bis jetzt glücklich gemacht hätten, ebensowenig achten und schätzen, als sie seiner Tätigkeit auch nur <said id="24" mode="reported" content="thought" level="2" nonfact="yes">mit dem geringsten Verständnisse</said> zu folgen vermöge.</said> 
+                  <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Landolt</seg> fing an zu <seg id="13" type="intExpr">begreifen</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1"><said id="14" mode="reported" content="thought" level="2">wie sie es meine</said> und was sie beunruhige</said>, <seg id="15" type="frame" pos="start">und <seg id="15" type="speaker">er</seg> <seg id="15" type="intExpr">sagte</seg>, <said id="16" mode="reported" content="speech" level="1">mild ihr zusprechend</said>,</seg> <said id="15" mode="indirect" content="speech" level="1">seine Übungen seien ja nur ein Spiel, gerade wie die ihrigen, und eine Nebensache, auf die es gar nicht ankomme.</said> Allein <said id="17" mode="reported" content="speech" level="1">seine Worte</said> machten die Sache nur schlimmer, <seg id="18" type="frame" pos="start">und <seg id="18" type="speaker">Barbara</seg> eilte in größter Aufregung aus dem Zimmer, suchte ihre Eltern auf und <seg id="18" type="intExpr">begehrte</seg> weinend,</seg> <said id="18" mode="indirect" content="speech" level="1">nach Hause gebracht zu werden.</said> Bestürzt und <said id="25" mode="reported" content="thought" level="1" nonfact="yes">ratlos</said> wurde sie von den Anwesenden umringt; auch Landolt war herbeigekommen,<said id="19" mode="reported" content="speech" level="1"> und wieder begann sie ihre seltsamen Erklärungen.</said> Es stellte sich deutlicher heraus, <said id="26" mode="reported" content="thought" level="1">daß sie dem, was sie quälte, eine viel größere Wichtigkeit beilegte</said>, <said id="20" mode="reported" content="thought" level="1" nonfact="yes">als der unschuldigen Anspruchlosigkeit eines so zarten jungen Geschöpfes eigentlich zugetraut werden konnte</said>; daß aber die Unfähigkeit, über sich selbst hinwegzukommen und ein ihr Fremdes zu dulden, wohl großenteils einer gewissen Beschränktheit zuzuschreiben sei, in welcher sie erzogen worden. 
+                  <said id="21" mode="reported" content="speech" level="1">Alles Zureden Landolts und seiner Eltern</said> half nichts; diejenigen des verzweifelten Fräuleins aber schienen eher ihre Bangigkeiten zu teilen und beschleunigten sorglich den Rückzug.<said id="22" mode="reported" content="speech" level="1">Es wurde eine Sänfte bestellt</said>, die Tochter hineingepackt, wo sie sofort das Vorhänglein zog, und so begab sich die kleine Karawane, so schnell die Sänftenträger laufen mochten, hinweg, unter Verdruß und Beschämung der Landolt-Familie.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

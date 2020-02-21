@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Geigerin</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Die_Geigerin.tg202_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Geigerin</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+– 
+                  <said id="7" mode="direct" content="speech" level="1">Ich habe Ludovica erst heute wiedergesehen. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Ich</seg> <seg id="1" type="intExpr">ahnte</seg> 
+sogleich,</seg> <said id="1" mode="indirect" content="thought" level="2">wie alles gekommen sei</said>; <said id="2" mode="reported" content="thought" level="2">denn seit jenem Abend hegte ich die traurigsten Vorstellungen.</said> Aber ich wollte Gewißheit und fuhr mit Ihnen nach dem Laden des Kaufmanns Berger. Dort wurde mir alles bestätigt. Sie hatte, <said id="18" mode="reported" content="thought" level="2" border="yes" prag="yes">weiß Gott wie und wo</said>, den Baron kennengelernt, <seg id="19" type="frame" pos="start">der sich unter dem <seg id="19" type="intExpr">Vorwande</seg>,</seg> <said id="19" mode="indirect" content="speech" level="2">einen Erbschaftsprozeß durchzuführen</said>, hier herumtrieb. Wie sie dazu kam, ihn zu heiraten, läßt sich nicht feststellen. Vielleicht tat sie's aus Neigung; wahrscheinlicher aber ist es, daß sie nur von jenem beklagenswerten Drange geleitet wurde, der endlich fast jedes Weib überkommt, wohl oder übel einem Manne dauernd anzugehören. Sie unterhielt einstweilen sich – und ihn durch Musiklektionen, deren sie viele hatte; <said id="3" mode="reported" content="thought" level="2" nonfact="yes">an die Ausübung ihrer Kunst dachte sie nicht mehr.</said> <said id="20" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Aber die Erbschaftshoffnungen zerflossen in nichts</said>, und der Baron, der dem Laster des Trunkes und des Spieles ergeben ist, brauchte Geld. Ludovica mußte es schaffen: durch Darlehen, die sie auftrieb, durch Geschenke, <said id="5" mode="reported" content="speech" level="2">die sie erbettelte</said>, und als es ihr nicht immer gelingen wollte, mißhandelte er sie – ja ging in seiner Niederträchtigkeit so weit, <seg id="23" type="frame" pos="start">sie <seg id="23" type="intExpr">zwingen</seg> zu wollen,</seg> <said id="23" mode="indirect" content="speech" level="2">die letzten Reste ihrer Schönheit zu verkaufen.</said> Das ertrug sie nicht. Heute morgen hatte er sie wieder fortgeschickt, eine Summe herbeizuschaffen – eine verschwindend kleine Summe: aber selbst ihre Schwester und ihr Schwager, welche der Unglücklichen bis jetzt, zwar ungern und <said id="6" mode="reported" content="speech" level="2">mit Vorwürfen aller Art</said>, aber dennoch in den äußersten Fällen stets geholfen hatten – verweigerten sie ihr diesmal. Sie mußte sich nicht nach Hause gewagt haben, mußte lange umhergeirrt sein – <said id="9" mode="reported" content="thought" level="2" border="yes">das übrige wissen Sie.</said>«</said> 
+                  Wir schwiegen beide. 
+                  <said id="8" mode="direct" content="speech" level="1">»<seg id="21" type="frame" pos="start">Und nun <seg id="21" type="intExpr">sagen</seg> <seg id="21" type="speaker">Sie</seg> mir</seg>«</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">fuhr</seg> <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">fort</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»<said id="21" mode="indirect" content="speech" level="2">wie es kam, daß dieses holde Geschöpf, ausgestattet mit allen Vorzügen ihres Geschlechtes, <said id="11" mode="reported" content="thought" level="3" border="yes">welche andere so vortrefflich zu verwerten wissen</said>, sich an Unwürdige weggeworfen; wie es kam, daß sie in törichter Umkehrung der Verhältnisse für diejenigen zu sorgen bemüht war, welche für sie zu sorgen die Verpflichtung hatten – 
+is sie, noch in jungen Jahren, ein so trauriges Ende nahm?</said> Warum war sie nicht so klug und brav wie ihre Schwester Anna, die nun eine glückliche Gattin und Mutter ist? Warum war sie nicht so klug und schlecht wie ihre Schwester Mimi, die gegenwärtig als Chansonettensängerin die Welt durchreist und mit Gold und Diamanten überschüttet wird? Warum! Das ist die große Frage, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">auf welche weder unsere Philosophen und Moralisten noch die stelzbeinigen Theaterfiguren unserer modernen Dramatiker eine Antwort zu geben wissen</said> – und die selbst dann nicht gelöst sein wird, wenn die Physiologen <said id="13" mode="reported" content="thought" level="2" nonfact="yes">jeden Gedanken</said>, <said id="14" mode="reported" content="speech" level="2" nonfact="yes">jedes Wort</said>, jede Tat auf die entsprechende Faser des Gehirns, auf diesen oder jenen zuckenden Nerv und auf die mehr oder minder vollkommene Funktion eines bestimmten Organs zurückzuführen imstande sein werden. Dann aber, <seg id="15" type="frame" pos="start">wenn <seg id="15" type="speaker">man</seg> <seg id="15" type="intExpr">erkennen</seg> wird,</seg> <said id="15" mode="indirect" content="thought" level="2" nonfact="yes">daß der Mensch nichts anderes ist als eine Mischung geheimnisvoll wirkender Atome, die ihm schon im Keime sein Schicksal vorausbestimmen</said>: <seg id="22" type="frame" pos="start"><said id="16" mode="indirect" content="thought" level="2">dann wird <seg id="22" type="speaker">man</seg></said></seg><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">glaube</seg> <seg id="16" type="speaker">ich</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2"><seg id="22" type="frame" pos="start">auch <seg id="22" type="intExpr">dahintergekommen</seg> sein,</seg> <said id="22" mode="indirect" content="thought" level="3" nonfact="yes">daß es, trotz aller geistigen Errungenschaften, besser ist, nicht zu leben!</said></said>«</said> – 
+                  Er war <said id="17" mode="reported" content="speech" level="1">bei diesen Worten</said> aufgestanden und reichte mir jetzt die Hand zum Abschied. Ich ging.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

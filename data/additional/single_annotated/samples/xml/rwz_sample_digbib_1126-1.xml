@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>89. Der Schmied und derTeufel</title>
+             <author>Colshorn, Carl und Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Colshorn,_Carl_und_Theodor_89__Der_Schmied_und_der_Teufel.tg98_1.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">89. Der Schmied und derTeufel</f>
+         <f name="author">Colshorn, Carl und Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+   
+    
+     
+      
+       Dieser aber heult und winselt und <said id="1" mode="reported" content="speech" level="1">bittet um seine
+        Freilaßung</said>, <said id="2" mode="indirect freeIndirect" content="speech" level="1">er wolle auch den Schmied gar nicht.</said>
+       <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Schmied</seg> läßt ihn drei Tage stehen, <said id="24" mode="reported" content="speech" level="1">zählt ihm drei über mit einer
+        Eisenstange</said> und <seg id="3" type="intExpr">spricht</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»So, nun mach, daß du fortkommst!«</said> Und fort ist des Teufels
+        jüngster Gesell.
+      
+      
+       <seg id="25" type="frame" pos="start">Nach einer Stunde <seg id="25" type="intExpr">schickt</seg> der <seg id="25" type="speaker">Teufel</seg> den zweiten Gesellen,</seg> <said id="25" mode="indirect" content="speech" level="1">daß er den Schmied
+        hole.</said>
+       <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Dieser</seg> ißt gerade zu Mittag und <seg id="5" type="intExpr">spricht</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Setz dich ein bißchen hintern Ofen
+        in den Lehnstuhl, wenigstens so lange, bis ich gegeßen habe.
+       Es schmeckt mir wohl so bald nicht wieder.«</said> Der Teufel grinst, und der Schmied
+        grinst auch; jener nimmt behaglich Platz, dieser speist behaglich weiter, und als er fertig
+        ist, <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">sagt</seg> <seg id="6" type="speaker">er</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»So, nun kann die Reise losgehen!«</said>  Der
+        Teufel will auf ihn zu, kann aber nicht aus dem Stuhle und <said id="7" mode="reported" content="speech" level="1">brüllt einen Fluch, der ist so
+        lang wie Jakobstag</said>; der Schmied geht in die Werkstatt und arbeitet munter darauf los mit den
+        Gesellen, ohne sich um den Teufel zu kümmern.
+       <said id="8" mode="reported" content="speech" level="1">Dieser, so oft er den Schmied sieht, bittet um seine Freilaßung</said> und heult und
+        <seg id="9" type="frame" pos="start"><seg id="9" type="intExpr">winselt</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">er wolle auch den Schmied gar nicht.</said>
+       <seg id="10" type="frame" pos="start">Der <seg id="10" type="speaker">Schmied</seg> läßt ihn drei Tage sitzen, <said id="26" mode="reported" content="speech" level="1">zählt ihm zweimal drei mit der
+        Eisenstange über</said> und <seg id="10" type="intExpr">spricht</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">»So, nun mach, daß du fortkommst!«</said> Und fort ist des Teufels
+        zweiter Gesell.
+      
+      
+       <seg id="27" type="frame" pos="start">Nach einer halben Stunde <seg id="27" type="intExpr">schickt</seg> der <seg id="27" type="speaker">Teufel</seg> den ältesten Gesellen,</seg> <said id="27" mode="indirect" content="speech" level="1">daß er den
+        Schmied hole.</said>
+       <said id="11" mode="direct" content="speech" level="1">»Aller guten Dinge müßen drei sein«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">meint</seg> der <seg id="11" type="speaker">Schmied</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»so muß ich denn nun
+        wohl mit!
+       Ein paar Äpfel kann man ja aber wohl mithaben; die laßen sich dort unten so
+        niedlich braten!
+       Du kannst gewis gut klettern; holtest du mir nicht ein paar aus dem großen
+        Apfelbaume?
+       Bring vier, wenn du nicht gern drei bringst.</said>« Der Teufel klettert hinan wie
+        eine Katze; herunter hat's lange Zeit.
+       <said id="12" mode="direct" content="speech" level="1">»Kommst du nicht bald wieder?«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">spottet</seg> der <seg id="12" type="speaker">Schmied</seg>.</seg>
+       <said id="13" mode="direct" content="speech" level="1">»Ich kann ja nicht hinab!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">brüllt</seg> der <seg id="13" type="speaker">Teufel</seg>.</seg>
+       <said id="14" mode="direct" content="speech" level="1">»Nun, so bleib oben und singe uns eins!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">erwidert</seg> der <seg id="14" type="speaker">Schmied</seg></seg>, läßt ihn drei
+        Tage sitzen und <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">sagt</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Willst du mich noch?«</said> <said id="16" mode="direct" content="speech" level="1">»Nein!«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">brüllt</seg> der <seg id="16" type="speaker">Teufel</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»laß mich nur frei!«</said>
+        Der Schmied setzt eine Leiter an, <said id="28" mode="reported" content="speech" level="1">zählt ihm dreimal drei mit der Eisenstange über</said>, <seg id="17" type="frame" pos="start">indem <seg id="17" type="speaker">er</seg>
+        <seg id="17" type="intExpr">spricht</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">»Aller guten Dinge müßen dreimal drei sein!«</said> und als er fertig ist: <said id="18" mode="direct" content="speech" level="1">»So, nun mach,
+        daß du fortkommst!«</said> Und fort ist des Teufels ältester Gesell.
+      
+      
+       <seg id="19" type="frame" pos="start">Da steht der <seg id="19" type="speaker">Teufel</seg> selber vor ihm, hält ihm den Schuldbrief unter die Nase
+        und <seg id="19" type="intExpr">spricht</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Kennst du diesen?
+       Nun fort!«</said> <said id="20" mode="direct" content="speech" level="1">»Nimm's nicht übel, daß ich nicht schon gekommen bin«</said><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">erwidert</seg> der
+        <seg id="20" type="speaker">Schmied</seg>;</seg> <said id="20" mode="direct" content="speech" level="1">»<said id="29" mode="reported" content="speech" level="2">warum schickst du aber so dumme Teufel!</said>
+       Dumm bist du nun nicht; aber viel Kunststücke kannst du gerade auch nicht!«</said>
+        <said id="21" mode="direct" content="speech" level="1">»Nicht?«</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">schreit</seg> der <seg id="21" type="speaker">Teufel</seg>,</seg> <said id="21" mode="direct" content="speech" level="1">»alles kann ich!
+       Was willst du sehen?«</said> <said id="22" mode="direct" content="speech" level="1">»Mach dich einmal in eine Maus«</said>, <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">antwortet</seg> der <seg id="22" type="speaker">Schmied</seg></seg>;
+        und der Teufel ist weg, und eine Maus läuft durch die Schmiede.
+       Die erwischt der Schmied beim Schwanz, und fort in den
+        Nagelbeutel, und den Nagelbeutel auf den Amboß  und: <said id="23" mode="direct" content="speech" level="1">»Nun
+        gehämmert, Gesellen!«</said> und nun gehämmert, hast du nicht so kannst du nicht!
+      
+     
+    
+   
+  </p>
+      </body>
+   </text>
+</TEI>

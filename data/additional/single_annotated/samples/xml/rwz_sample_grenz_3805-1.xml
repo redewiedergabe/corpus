@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Französische Geschichtschreiber.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341586_103132.txt_50.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Französische Geschichtschreiber.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+
+<said id="2" mode="reported" content="speech" level="1"><said id="1" mode="reported" content="thought" level="2">Das ist derselbe
+                        <seg id="1" type="intExpr">Gedanke</seg></said> einfacher und sachgemäßer <seg id="2" type="intExpr">ausgedrückt</seg></said>, <seg id="3" type="frame" pos="start">und <seg id="3" type="speaker">man</seg> fühlt sich nicht selten versucht, wenn Guizot in jedem Augenblick die Intervention der Vorsehung
+                        veranlaßt, ihm <seg id="3" type="intExpr">zuzurufen</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes"><said id="4" mode="reported" content="speech" level="2" nonfact="yes"><seg id="4" type="speaker">er</seg> solle den Namen Gottes nicht unnützlich <seg id="4" type="intExpr">führen</seg>.</said></said>
+                        Diese Empfindung drängt sich auch bei der übrigens schönen Stelle auf, in der
+                        <said id="5" mode="reported" content="writing" level="1"><seg id="5 7" type="speaker">er</seg> Cromwells Tod <seg id="5" type="intExpr">berichtet</seg>.</said> <said id="6" mode="reported" content="writing" level="1"><seg id="6" type="speaker">Er</seg> <seg id="6" type="intExpr">zeigt</seg> zuerst, wie er inmitten der größten Erfolge starb</said>, <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">fügt</seg> dann <seg id="7" type="intExpr">hinzu</seg>:</seg> <said id="7" mode="direct" content="writing" level="1">Pourtant Cromwell mourut triste. Triste,
+                        non-seulement de mourir, mais aussi, et surtout, de mourir sans avoir
+                        atteint son véritable et dernier but. Quel que fut son egoisme, il avait l'ame
+                        trop grande pour que 1a plus haute fortune, mais purement personelle et
+                        ephemere, comme lui-meme loi-bas, suffit a le satisfaire. Las des ruines
+                        qu´il avait faites, il avait a coeur de rendre a son pays un gouvernement
+                        regulier et stable, le seul gouvernement qui lui convint, la monarchie avec
+                        le Parlement. Et en meme temps ambitieux au delà du tombeau, par cette
+                        soif de 1a durée qui est le sceau de la grandeur, il aspirait à laisser son
+                        nom et sa race en possession de I'empire dans l'avenir. Il échoua dans
+                        l'un et l'autre dessein: ses attentats lui avaient créé des obstacles que ni
+                        son prudent génie ni sa persévérante volonté ne purent surmonter; et
+                        comble, pour son propre compte, de pouvoir et de gloire, it mourut decu
+                        dans ses plus intimes esperances, ne laissant apres lui, pour lui succeder,
+                        que les deux ennemis qu´il avait ardemment combattus, l'anarchie et les
+                        Stuart. Dieu n'accorde pas, aux grands hommes qui ont pose dans le desordre les fondements de leur grandeur, le pouvoir de regler, a leur gre et
+                        pour des siecles, meme selon leurs meilleurs desirs, le gouvernement des
+                        nations.*)</said>
+                         
+               Wir würden die Verdienste Guizots um die Geschichte unvollständig würdigen, <seg id="8" type="frame" pos="start">wenn <seg id="8" type="speaker">wir</seg> zu <seg id="8" type="intExpr">erwähnen</seg> unterließen,</seg> <said id="8" mode="indirect" content="writing" level="1">wie lebhaft von ihm namentlich
+                        während seiner Stellung als Cultusminister die Studien in Frankreich gefördert sind.</said> So ist namentlich die glänzende Ausgabe der Quellenschriftsteller
+                        fast ausschließlich sein Werk. Als er 1837 in die Akademie aufgenommen
+                        wurde, war der Parteigeist zu lebhaft angeregt, um sich nicht dieser literarischen
+                        Anerkennung eines der Freiheit feindlichen Ministers zu widersetzen. Die
+                        ernstern Störungen der öffentlichen Ordnung haben ihm seit dieser Zeit in
+                        vielen Punkten Recht gegeben und dem alten Parteiwesen die Spitze abgebrochen. Als Schriftsteller genießt er jetzt in Frankreich jener ausgezeichneten
+                         
+               <note>*) Die drei Werke, die sich mit der englischen Revolution beschäftigen, sind in deutscher
+                        Uebersetzung in der historischen Hausbibliothek (Leipzig Lorck) erschienen.
+                        </note>
+               
+               Achtung, die er in so hohem Maße verdient. <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Wir</seg> haben es uns <seg id="9" type="intExpr">versagt</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">ihn
+                        in seiner politischen Laufbahn zu verfolgen</said>; <said id="11" mode="reported" content="writing" level="1" nonfact="yes">eine Schrift aber müssen <seg id="11" type="speaker">wir</seg> noch
+                        <seg id="11" type="intExpr">hervorheben</seg></said>, um zu zeigen, daß seine politischen Theorien mit seinen
+                        wissenschaftlichen in inniger Uebereinstimmung stehen, <said id="10" mode="reported" content="thought" level="1" nonfact="yes">und daß <seg id="10" type="speaker">man</seg> aus ihnen
+                        selbst den wunderlichen Einfall einer Fusion zwischen den Legitimisten und Orleanisten <seg id="10" type="intExpr">begreifen</seg> kann.</said> <said id="12" mode="reported" content="writing" level="1">Es ist die <seg id="12" type="speaker">Broschüre</seg> über die französische Demokratie, 1849, die zwar zunächst als Gelegenheitsschrift erschien, und vor dem
+                        Socialismus einerseits, vor dem Bonapartismus andererseits <seg id="12" type="intExpr">warnte</seg></said>, <said id="13" mode="reported" content="writing" level="1"><seg id="13" type="speaker">die</seg> aber
+                        zugleich <said id="14" mode="reported" content="thought" level="2"><seg id="14" type="speaker">sein</seg> gesammteS politisches <seg id="14" type="intExpr">Glaubensbekenntniß</seg></said> <seg id="13" type="intExpr">enthält</seg>.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

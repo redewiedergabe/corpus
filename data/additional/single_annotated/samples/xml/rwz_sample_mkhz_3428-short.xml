@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Griechenland.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal015_1848_7.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Griechenland.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Griechenland.
+                        
+            
+            Athen 19. Juni. <seg id="8" type="frame" pos="start">Durch ein <seg id="8" type="intExpr">Rundschreiben</seg> des <seg id="8" type="speaker">Kriegsministers</seg> bringt derselbe zur Kenntniß des Landes,</seg> <said id="8" mode="indirect" content="writing" level="1">daß der Kampf mit
+                        den Aufständischen, die in Verbindung mit albanesischen Türken
+                        die Provinzen Phthiotis und Lokris beunruhigt hatten, beendigt
+                        sey, und daß dieselben von den königlichen Truppen überall geschlagen, sich über die Grenze geflüchtet und wieder im türkischen
+                        Gebiet festgesetzt hätten.</said> Die beiden im Peloponnes von wahnsinnigen Mavrocordatisten erregten Aufstände zerflossen am selben
+                        Tage noch in ihr Nichts, und die am meisten betheiligten flüchteten sich auf elenden Barken in der Richtung gegen Zante hin.
+                        Zum hundertstenmale hat nun das griechische Volk bewiesen, wie
+                        sehr es jeder Unordnung, jeder Aufwieglung abhold ist, und wie
+                        es selbst zu jeder Stunde bereit ist die Waffen zu ergreifen um die
+                        Ruhestörer, <said id="2" mode="reported" content="speech" level="1" border="yes">welchen Namen sie sich auch geben mögen</said> zu vernichten. Es ist zu bedauern, daß die ökonomischen Verhältnisse des
+                        Landes es schwierig gemacht haben, ein paar Bataillone regulärer Truppen mehr zu besitzen, wodurch die Regierung nicht
+                        nur der Nothwendigkeit enthoben wäre, <said id="3" mode="reported" content="speech" level="1">die arbeitsame Bevölkerung zu den Waffen zu rufen</said>, was mit Mehrausgaben und
+                        bedeutenden andern Nachtheilen verbunden ist, sondern auch zu
+                        jeder Stunde in den Stand gesetzt wäre, so unsinnigen Unternehmungen augenblicklich ein Ziel zu setzen. Sir Stratford Canning, der großbritannische Gesandte in Konstantinopel, ist endlich
+                        von seiner Rundreise in Europa auf englischem Dampfboote im
+                        Piräeus angekommen, und begab sich noch spät Abends nach
+                        Athen, wo er im Gasthof „England“ abstieg. Da Se. Maj.
+                        der König den englischen Diplomaten schon von seinem früheren
+                        Aufenthalte in Athen her kannte, <said id="5" mode="reported" content="speech writing" level="1">so wurde derselbe <said id="4" mode="reported" content="speech" level="2" nonfact="yes">mit Umgehung
+                        einer offiziellen Vorstellung</said> zu <said id="6" mode="reported" content="speech" level="2" nonfact="yes">einer vertraulichen Audienz</said> eingeladen.</said> <said id="7" mode="reported" content="speech" level="1">Der König unterhielt sich über zwei Stunden mit demselben.</said> <said id="9" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Jnwiefern die vorübergehende Anwesenheit Sir Stratford Cannings in Athen auf die Gestaltung unserer innern politischen Verhältnisse einen Einfluß ausüben soll</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">kennt</seg> bis jetzt
+                        <seg id="9" type="speaker">niemand</seg> weder <said id="18" mode="reported" content="thought" level="1" border="yes">der Absicht nach</said>, noch im Endresultate.</seg> <seg id="11" type="frame" pos="start">Soweit
+                        aber scheint sich das <seg id="11" type="intExpr">Urtheil</seg> <seg id="11" type="speaker">derjenigen</seg>, welche mit ihm in nähere
+                        Berührung kamen, festgestellt zu haben,</seg> <said id="11" mode="indirect" content="speech" level="1">daß er gerecht in der
+                        Anschauung, mild <said id="12" mode="reported" content="speech" level="2">im Urtheil</said> und versöhnend <said id="13" mode="reported" content="thought" level="2" border="yes">in seinen Gesinnungen</said> sey, was zunächst die Angelegenheiten Griechenlands betrifft.</said> <seg id="14" type="frame" pos="start">Jm großen Publicum hört man der Thatsache häufig <seg id="14" type="intExpr">erwähnen</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">daß Sir Edmund Lyons nicht so häufig bei Sir Stratford Canning sich einfinde <said id="15" mode="reported" content="thought" level="2">als man von vornherein <said id="16" mode="reported" content="thought" level="3">annehmen zu
+                        müssen</said> glaubte</said>, <seg id="17" type="frame" pos="start">und allgemein will <seg id="17" type="speaker">man</seg> <seg id="17" type="intExpr">bemerkt</seg> haben,</seg> <said id="17" mode="indirect" content="thought" level="2" border="yes">daß Sir
+                        Edmund Lyons ein gewisses Unbehagen, das bei seinem heftigen
+                        Temperament leicht in Unmuth übergeht, nicht zu verbergen im
+                        Stande ist.</said></said> -- ( Dieses Schreiben geht über Frankreich, da die
+                        Lloyd'schen Dampfschiffe durch die Blocade von Triest in ihren
+                        Fahrten seit 14 Tagen unterbrochen wurden. ) ( A. Z. )
+                        
+             
+         
+      </p>
+      </body>
+   </text>
+</TEI>

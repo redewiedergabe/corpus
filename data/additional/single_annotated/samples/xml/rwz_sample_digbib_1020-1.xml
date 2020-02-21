@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gram</title>
+             <author>Čechov, Anton Pavlovič</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Gram.tg4_1.xml</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Gram</f>
+         <f name="author">Čechov, Anton Pavlovič</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Der Droschkenkutscher Jona Potapow ist weiß wie ein Gespenst. Er hat sich zusammengekrümmt, soweit es ein lebendiger Körper überhaupt kann, und sitzt unbeweglich auf dem Bock. Wenn auf ihn auch ein ganzer Schneeberg herabgefallen wäre, <seg id="22" type="frame" pos="start">so hätte <seg id="22" type="speaker">er</seg> es wohl nicht <seg id="22" type="intExpr">für nötig gefunden</seg>,</seg> <said id="22" mode="indirect" content="thought" level="1">den Schnee von sich abzuschütteln ...</said> Auch sein Pferd ist weiß und unbeweglich. <said id="2" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Mit seiner Unbeweglichkeit, seinen eckigen Formen und den stockgeraden Beinen erinnert es an ein Pferdchen aus Lebkuchenteig</said>, wie man es für eine Kopeke kauft. <said id="3" mode="reported" content="thought" level="1" nonfact="yes">Es scheint in seine Gedanken versunken zu sein.</said> <said id="4" mode="reported" content="thought" level="1" nonfact="yes">Ein Wesen, das man vom Pfluge, von der gewohnten, grauen Umgebung losgerissen und in diese Hölle voller entsetzlicher Lichter, unaufhörlichen Lärms und rennender Menschen hineingeworfen hat, muß denken ...</said>
+                  Jona und sein Pferdchen stehen längst unbeweglich da. Sie sind schon am Vormittag hinausgefahren, haben aber noch immer nichts verdient. Da senkt sich aber über die Stadt die Abenddämmerung. Die blassen Farben werden lebhafter, und das Straßenleben tönt lauter. 
+                  <said id="5" mode="direct" content="speech" level="1">»Kutscher, in die Wyborgsche Straße!«</said> <seg id="5" type="frame" pos="end">hört Jona.</seg> <said id="6" mode="direct" content="speech" level="1">»Kutscher!«</said> 
+                  Jona fährt zusammen und sieht durch die vom Schnee verklebten Wimpern einen Offizier im Mantel mit Kapuze. 
+                  
+                     
+<said id="7" mode="direct" content="speech" level="1">»In die Wyborgsche Straße!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">wiederholt</seg> der <seg id="7" type="speaker">Offizier</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">»Schläfst du, oder was? In die Wyborgsche Straße!«</said> 
+                  Zum Zeichen <said id="23" mode="reported" content="thought" level="1">des Einverständnisses</said> zupft Jona an den Zügeln, und das bewirkt, daß vom Rücken des Pferdes und von seinen eigenen Schultern ganze Haufen von Schnee herabfallen. Der Offizier setzt sich in den Schlitten. Der Kutscher schmatzt mit den Lippen, reckt wie ein Schwan den Hals, richtet sich auf und fuchtelt mehr aus Gewohnheit, als weil es nötig wäre, mit der Peitsche. Das Pferdchen reckt gleichfalls den Hals, krümmt seine stockgeraden Beine und setzt sich unsicher in Bewegung ...
+                  <said id="9" mode="direct" content="speech" level="1">»Wo fährst du hin, Verfluchter!«</said> <seg id="9" type="frame" pos="end">hört Jona gleich am Anfang aus der dunklen, hin und her flutenden Menge <seg id="9" type="intExpr">rufen</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">»Wohin jagen dich die Teufel? Fahr doch rechts!«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Du verstehst nicht zu fahren! Fahre rechts!«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">schimpft</seg> der <seg id="11" type="speaker">Offizier</seg>.</seg> 
+                  <said id="12" mode="reported" content="speech" level="1">Auch der Kutscher einer vornehmen Equipage schimpft</said>; ein Passant, der die Straße durchquerte und mit der Schulter in die Schnauze des Pferdchens hereingerannt ist, blickt ihn böse an und schüttelt sich den Schnee vom Aermel. Jona sitzt auf dem Bock wie auf Nadeln, arbeitet mit den Ellenbogen und blickt wie ein Betrunkener, <seg id="13" type="frame" pos="start">als <seg id="13" type="intExpr">verstünde</seg> <seg id="13" type="speaker">er</seg> nicht,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">wo er sich befinde und was er hier zu suchen habe.</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Was für Schurken sind sie doch alle!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">spottet</seg> der <seg id="14" type="speaker">Offizier</seg>.</seg> <said id="15" mode="direct" content="speech" level="1">»Alle geben sich Mühe, mit dir zusammenzustoßen oder unter dein Pferd zu geraten. <said id="24" mode="reported" content="speech" level="2" nonfact="yes">Es ist wohl eine Verabredung zwischen ihnen.</said>«</said> 
+                  Jona sieht sich nach dem Fahrgast um und bewegt die Lippen ... <said id="16" mode="reported" content="speech" level="1" nonfact="yes">Er will anscheinend etwas sagen</said>, aber aus seiner Kehle kommt nur ein Röcheln. 
+                  <said id="17" mode="direct" content="speech" level="1">»Was?«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">fragt</seg> der <seg id="17" type="speaker">Offizier</seg>.</seg> 
+                  
+                     
+<seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Jona</seg> verzerrt die Lippen zu einem Lächeln, strengt seine Kehle an und <seg id="18" type="intExpr">röchelt</seg>:</seg> 
+                  <said id="18" mode="direct" content="speech" level="1">»<said id="25" mode="indirect" content="speech" level="2">Herr, mir ist in der vorigen Woche</said><seg id="25" type="frame" pos="mid">, was <seg id="25" type="speaker">ich</seg> <seg id="25" type="intExpr">sagen</seg> wollte</seg> <said id="25" mode="indirect" content="speech" level="2">... mein Sohn gestorben.</said>«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Hm! ... Woran ist er gestorben?«</said> 
+                  <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Jona</seg> wendet sich mit dem ganzen Oberkörper zum Fahrgast um und <seg id="21" type="intExpr">sagt</seg>:</seg> 
+                  <said id="21" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="thought" level="2" nonfact="yes" prag="yes">Wer kennt sich da aus!</said> Wahrscheinlich an Fieber ... Drei Tage ist er im Spital gelegen und dann gestorben ... Es ist Gottes Wille.«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Begleiter</title>
+             <author>Heiseler, Henry von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heiseler,_Henry_von_Der_Begleiter.tg21_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Begleiter</f>
+         <f name="author">Heiseler, Henry von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Nur aus dem Graben ertönte ein Geräusch wie von unterirdisch strömendem Wasser. <said id="1" mode="direct" content="thought" level="1">Es gibt Regen</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">dachte</seg> <seg id="1" type="speaker">Kyrill</seg></seg>, <said id="19" mode="reported" content="speech" level="1">dem ein solches unterirdisches Rauschen in einem Graben einst von einem Bauern als ein Vorbote von Unwetter gedeutet worden war.</said> Als er sich niederlegte, vernahm er die Schritte von neuem, sie schienen sich im Kreis um ihn herum zu bewegen, dann entfernten sie sich und verklangen in der Ferne. Mit seiner Ruhe war es aus, er erhob sich und schlug verzweifelt die Hände vor das Gesicht. Da war es wieder, es war unmöglich, den Klang zu verkennen. Pferdegetrappel und ein Trompetensignal schreckten ihn empor, sein Pferd wurde ihm gebracht, er saß wie träumend auf und das Manöver nahm seinen Fortgang. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Kyrill</seg> <seg id="3" type="intExpr">wußte</seg> nichts von dem,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was um ihn her vorging</said>, mechanisch nahm er die im Verlauf der Übung erforderlichen Verrichtungen vor, und im Gewirr der Menschen und Pferde, <said id="4" mode="reported" content="speech" level="1">der Kommandorufe</said>, der Staubwolken und des dröhnenden Hufschlags blieb seine Verstörtheit unbeachtet. Als er einige Stunden darauf gesäubert und gewaschen in seinem Zimmer saß neben dem singenden Teekessel, war es ihm, <said id="5" mode="reported" content="thought" level="1">als zucke der Traum immer noch betäubend und in rasenden Kreisen durch sein Hirn.</said> 
+                  Gegend Abend wurde der Bursche des Rittmeisters <said id="6" mode="reported" content="speech" level="1">durch die Stimme seines Herrn erschreckt, die zwar nicht laut, aber erregten Tones durch die Türe hindurch hörbar ward.</said> <seg id="7" type="frame" pos="start">Der <seg id="7" type="speaker">Bursche</seg> 
+<seg id="7" type="intExpr">wußte</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß sein Herr allein war</said>, dennoch klang es wie <said id="8" mode="reported" content="speech" level="1" nonfact="yes">ein Gespräch zweier Personen</said>, <said id="9" mode="reported" content="speech" level="1">wobei sich jedoch nur die Stimme des Rittmeisters vernehmen ließ</said>, <said id="10" mode="reported" content="speech" level="1" nonfact="yes">die Antworten des Anderen aber tonlos blieben.</said> <said id="11" mode="reported" content="thought" level="1">Der Bursche vermochte es sich nicht zu deuten</said>, er öffnete die Tür zum Nebenzimmer, blieb aber wie gebannt auf der Schwelle stehen. Etwa fünfzehn bis zwanzig Kerzen brannten im Raum, die Mehrzahl derselben war in Ermangelung von Leuchtern auf die Tischplatte und auf das Fenstersims gestellt und dort festgetropft worden, und Kyrill saß in Hemdsärmeln am Tisch, blaß und mit verwühltem Haar, <said id="12" mode="reported" content="speech" level="1">mit einem unsichtbaren Gegenüber erregte Zwiesprach führend.</said> Der Bursche ließ einen Laut des Schreckens hören, darauf schien Kyrill zu erwachen – <said id="13" mode="reported" content="speech" level="1">zuerst fuhr er den Burschen ungeduldig an</said>, <seg id="14" type="frame" pos="start">dann wurde <seg id="14" type="speaker">er</seg> verlegen, <seg id="14" type="intExpr">erklärte</seg> ihm,</seg> <said id="14" mode="indirect" content="speech" level="1"><said id="15" mode="reported" content="speech" level="2">daß er mit sich selbst spreche</said></said>, und da der Bursche auf die Kerzen hinwies, <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">entgegnete</seg> der <seg id="16" type="speaker">Rittmeister</seg> mit einem gezwungenen leichten Lachen,</seg> <said id="16" mode="indirect" content="speech" level="1">die Augen hätten ihm weh getan in der Dunkelheit und darum habe er für Beleuchtung sorgen müssen.</said> <said id="17" mode="reported" content="speech" level="1">Und jetzt möge er, der Bursche, zum Teufel gehen, vorher aber noch im Stall ausrichten, daß der Rittmeister morgen um zwölf Uhr mittags ausreiten wolle – allein, ohne Reitknecht.</said> <said id="18" mode="reported" content="speech" level="1">Nun verlangte Kyrill sein Waschwasser</said>, machte die gewohnte Abendtoilette, löschte die Kerzen und ging zu Bett. In der Tat lag er in ruhigem Schlummer, als der Bursche sich nach Verlauf von etwa zehn Minuten wieder in das Zimmer schlich, um sich von dem Wohlergehen des Herrn zu überzeugen. 
+                  Der nächste Tag war ein Sonntag. Kyrill erwachte spät nach einer in traumlosem Schlaf verbrachten Nacht, kleidete sich an und frühstückte, ohne daß der Bursche etwas Beunruhigendes oder auch nur Außergewöhnliches an ihm zu entdecken vermochte, und zur festgesetzten Stunde bestieg er sein Pferd und ritt ins Feld hinaus.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

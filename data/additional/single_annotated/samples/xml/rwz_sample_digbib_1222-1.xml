@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Lucidor</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Lucidor.tg363_1.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">Lucidor</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Zwischen den beiden jungen Herren ergibt sich die sonderbarste Situation. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Jeder</seg> <seg id="1" type="intExpr">meint</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">daß der andere doch alle Ursache habe, verstimmt zu sein oder einfach das Feld zu räumen.</said> <said id="2" mode="reported" content="thought" level="1">Jeder findet die Haltung, die ungestörte Laune des andern im Grunde einfach lächerlich.</said> <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Keiner</seg> <seg id="3" type="intExpr">weiß</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was er sich aus dem andern machen soll</said>, <said id="4" mode="reported" content="thought" level="1">und einer hält den andern für einen ausgemachten Geck und Narren.</said> 
+                  Die Mutter ist in der qualvollsten Lage. Mehrere Auskunftsmittel versagen. Befreundete Personen lassen sie im Stich. <said id="5" mode="reported" content="speech" level="1"><said id="6" mode="reported" content="speech" level="2">Ein unter der Maske der Freundschaft angebotenes Darlehen</said> wird rücksichtslos eingefordert.</said> <said id="7" mode="reported" content="thought" level="1">Die vehementen Entschlüsse liegen Frau von Murska immer sehr nahe.</said> Sie wird den Haushalt in Wien von einem Tag auf den andern auflösen, <said id="8" mode="reported" content="writing" level="1">sich bei der Bekanntschaft brieflich verabschieden</said>, irgendwo ein Asyl suchen, und wäre es auf dem sequestrierten Gut im Haus der Verwaltersfamilie. Arabella nimmt <said id="9" mode="reported" content="thought" level="1">eine solche Entschließung</said> nicht angenehm auf, aber Verzweiflung liegt ihrer Natur ferne. Lucidor muß eine wahre, unbegrenzte Verzweiflung angstvoll in sich verschließen. Es waren mehrere Nächte vergangen, <said id="10" mode="reported" content="speech" level="1" nonfact="yes">ohne daß sie den Freund gerufen hätte.</said> <said id="11" mode="reported" content="speech" level="1" nonfact="yes">Sie wollte ihn diese Nacht wieder rufen.</said> <said id="12" mode="reported" content="speech" level="1">Das Gespräch abends zwischen Arabella und der Mutter</said>, <said id="13" mode="reported" content="thought" level="1">der Entschluß zur 
+Abreise</said>, die Unmöglichkeit, die Abreise zu verhindern: dies alles trifft sie wie ein Keulenschlag. Und wollte sie zu einem verzweifelten Mittel greifen, alles hinter sich werfen, <said id="14" mode="reported" content="speech" level="1" nonfact="yes">der Mutter alles gestehen</said>, <seg id="15" type="frame" pos="start">dem Freund vor allem <seg id="15" type="intExpr">offenbaren</seg>,</seg> <said id="15" mode="indirect" content="speech" level="1" nonfact="yes">wer die Arabella seiner Nächte gewesen ist</said>, so durchfährt sie eisig die Furcht vor seiner Enttäuschung, seinem Zorn. Sie kommt sich wie eine Verbrecherin vor, aber gegen ihn, <said id="16" mode="reported" content="thought" level="1" nonfact="yes">an die anderen denkt sie nicht.</said> Sie kann ihn diese Nacht nicht sehen. Sie fühlt, daß sie vor Scham, vor Angst und <said id="36" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Verwirrung</said> vergehen würde. Statt ihn in den Armen zu halten, <said id="17" mode="reported" content="writing" level="1">schreibt sie an ihn</said>, zum letzten mal. Es ist der demütigste, rührendste Brief, und nichts paßt weniger zu ihm als der Name Arabella, <said id="18" mode="reported" content="writing" level="1">womit sie ihn unterschreibt.</said> <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Sie</seg> hat nie wirklich <seg id="19" type="intExpr">gehofft</seg>,</seg> <said id="19" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">seine Gattin zu werden.</said> Auch kurze Jahre, ein Jahr als seine Geliebte mit ihm zu leben, wäre unendliches Glück. Aber auch das darf und kann nicht sein. <said id="20" mode="indirect" content="writing" level="1"><said id="21" mode="reported" content="speech" level="2" nonfact="yes">Er soll nicht fragen</said>, <said id="22" mode="reported" content="speech" level="2" nonfact="yes">nicht in sie dringen</said></said><seg id="20" type="frame" pos="end">, <seg id="20" type="intExpr">beschwört</seg> <seg id="20" type="speaker">sie</seg> ihn.</seg> <said id="23" mode="indirect freeIndirect" content="writing" level="1">Soll morgen noch zu Besuch kommen, aber erst gegen Abend. Den übernächsten Tag dann – sind sie vielleicht schon abgereist. Später einmal wird er vielleicht erfahren, <said id="24" mode="reported" content="thought" level="2" nonfact="yes">begreifen</said></said>, <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">sie</seg> möchte <seg id="25" type="intExpr">hinzufügen</seg>:</seg> <said id="25" mode="direct" content="writing" level="1" nonfact="yes">verzeihen</said>, <said id="26" mode="reported" content="thought" level="1"><said id="27" mode="reported" content="thought" level="2" nonfact="yes">aber das Wort scheint ihr in Arabellas Mund zu unbegreiflich</said></said>, <said id="28" mode="reported" content="writing" level="1" nonfact="yes">so schreibt sie es nicht.</said> Sie schläft wenig, steht früh auf, schickt den Brief durch den Lohndiener des Hotels an Wladimir. Der Vormittag vergeht mit Packen. Nach Tisch, <said id="29" mode="reported" content="speech" level="1" nonfact="yes">ohne etwas zu erwähnen</said>, fährt sie zu dem Onkel. <said id="30" mode="reported" content="thought" level="1">Nachts ist ihr der Gedanke gekommen.</said> <said id="31" mode="reported" content="speech" level="1" nonfact="yes">Sie würde die Worte, die Argumente finden, den sonderbaren Mann zu erweichen.</said> Das Wunder würde geschehen und dieser festverschnürte Geldbeutel sich öffnen. <said id="32" mode="reported" content="thought" level="1" nonfact="yes">Sie denkt nicht an die Realität dieser Dinge</said>, <said id="33" mode="reported" content="thought" level="1">nur an die Mutter, an die Situation, an ihre Liebe.</said> Mit dem Geld oder dem Brief in der Hand würde sie der Mutter zu Füßen fallen und <said id="34" mode="reported" content="speech" level="1" nonfact="yes">als einzige Belohnung erbitten</said> – <said id="35" mode="freeIndirect" content="thought" level="1">was?</said> – <said id="37" mode="reported" content="thought" level="1" nonfact="yes">ihr übermüdeter, gequälter Kopf versagt beinahe</said> -<said id="38" mode="freeIndirect" content="thought" level="1">ja!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

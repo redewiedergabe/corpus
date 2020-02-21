@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die drei dummen Teufel</title>
+             <author>Bechstein, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bechstein,_Ludwig_Die_drei_dummen_Teufel.tg127_1.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Die drei dummen Teufel</f>
+         <f name="author">Bechstein, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+            
+                
+                    
+                        
+                            Er kömmt also auf die Erde, und trifft
+                                eine junge Dirne; <seg id="1" type="frame" pos="start">zu dieser <seg id="1" type="intExpr">spricht</seg> <seg id="1" type="speaker">er</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»He, Jungfer!
+                            hat sie nicht Lust zu heiraten?«</said> – <said id="2" mode="direct" content="speech" level="1">»Warum nicht«</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">sagte</seg>
+                                <seg id="2" type="speaker">sie</seg>.</seg>
+                            <said id="3" mode="direct" content="speech" level="1">»Meinetwegen kann morgen die Hochzeit sein.«</said> – <said id="4" mode="direct" content="speech" level="1">»Mir schon
+                                recht«</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">sagt</seg> der <seg id="4" type="speaker">Teufel</seg>.</seg>
+                            Wie's also morgen war, geht er zum Pfarrer und läßt sich
+                                die Dirne zur Frau geben.
+                            Eh aber der Küßmond vorüber, <said id="5" mode="reported" content="speech" level="1">verlangt die junge Frau
+                                Geld, Kleider und das aber schöne</said>, und der Teufel kann kaum das Brot
+                                verdienen, muß oft über seinem Maul sparen und es seiner Frau lassen
+                                und dadurch wird er dürr und mager und ist lange nicht mehr so gutes
+                                Mutes als zuvor.
+                            <said id="6" mode="reported" content="thought" level="1">Die Frau hatte sich mehr von diesem Galan versprochen –
+                                viel Geld und schöne Kleider.</said>
+                            Sie fängt daher an und wird kalt gegen ihren Teufel.
+                            <said id="7" mode="reported" content="speech" level="1">Er gibt gute Worte</said>; – er brummt.
+                            – <said id="8" mode="reported" content="speech" level="1">Sie zankt aber arg</said> und drohet ihm mit Schlägen.
+                            Das lächert dem Teufel und <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">denkt</seg>:</seg> <said id="9" mode="direct" content="thought" level="1">ich werde dich doch
+                                zwingen können.</said>
+                            <said id="10" mode="reported" content="speech" level="1">Zankt er aber ein Wort</said> <said id="11" mode="reported" content="speech" level="1">so zankt sie zehne</said>, und das geht ein und alle
+                                Tage so fort.
+                            Was geschieht?
+                            Der Teufel bekommt zuletzt derbe Schläge.
+                            <seg id="24" type="frame" pos="start">Da <seg id="24" type="intExpr">denkt</seg> der <seg id="24" type="speaker">Teufel</seg>:</seg> <said id="24" mode="direct" content="thought" level="1">ei, was sollst du dich mit der Frau
+                                plagen?
+                            gehe doch hübsch heim</said>, und – da ging er heim.
+                            Wie er in die Hölle kömmt und bringt kein Weib mit, da lachen ihn die
+                                Teufel tüchtig aus, <seg id="13" type="frame" pos="start">und überall <seg id="13" type="intExpr">rufen</seg> <seg id="13" type="speaker">sie</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Dummer Teufel!
+                            dummer Teufel!«</said> <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Er</seg> aber <seg id="14" type="intExpr">antwortet</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»Ich will keine wieder
+                                und wenn ich die ganze Hölle geschenkt kriegte.
+                            Seid froh, daß ich sie nicht mitgebracht habe, die hätte
+                                uns allen die Hölle erst recht heiß gemacht!«</said> <seg id="15" type="frame" pos="start">Da <seg id="15" type="intExpr">spricht</seg> ein andrer
+                                etwas älterer <seg id="15" type="speaker">Teufel</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Nun will ich fort, ich will schon eine
+                                herschaffen!«</said> Er reiset ebenfalls ab, kömmt auf einen Erbsenacker,
+                                dort trifft er eine alte Jungfer.
+                            <seg id="16" type="frame" pos="start">Da <seg id="16" type="intExpr">denkt</seg> <seg id="16" type="speaker">er</seg>:</seg> <said id="16" mode="direct" content="thought" level="1">warte, diese ist nicht so ein junger Lecker,
+                                die willst du nehmen.</said>
+                            <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Er</seg> <seg id="17" type="intExpr">spricht</seg> also zu ihr:</seg> <said id="17" mode="direct" content="speech" level="1">»He da, Jungfer!
+                            hat sie nicht Lust zu heiraten?«</said> – <said id="18" mode="direct" content="speech" level="1">»O ja!
+                            wenn er Geld und Brot für mich hat?«</said> – <said id="19" mode="direct" content="speech" level="1">»O ja!«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">spricht</seg>
+                                der <seg id="19" type="speaker">Teufel</seg>.</seg>
+                            Als nun die beiden Hochzeit gemacht hatten, <seg id="21" type="frame" pos="start">da <seg id="21" type="intExpr">merkte</seg> es
+                                die <seg id="21" type="speaker">Frau</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1" border="yes"><said id="20" mode="reported" content="speech" level="2">daß der Teufel gelogen hatte</said></said>, denn er war ein armer
+                                blutarmer Teufel und hatte nichts und konnte nichts.
+                            Das kam ihm heim, denn er war an einen Geizdrachen
+                                geraten, der sparte das Salz an den Kartoffeln, und tat sonntags
+                                einen Knopf in den Klingelbeutel statt des Hellers.
+                            Die gibt dem Teufel zu tun genug und zu beißen wenig,
+                                <said id="22" mode="reported" content="speech" level="1">aber Schelte konnte er haben so viel er wollte</said>, und Streiche waren auch nicht rar.
+                            Und wenn ihm vor Hunger gleich der Bauch grimmt, und ihm
+                                die Zunge ellenlang zum Halse heraus hängt, so erbarmt sie sich
+                                seiner doch nicht.
+                            Will der Teufel etwas essen, so muß er fort und muß
+                                Kartoffeln stopfeln.
+                            Kömmt er abends und hat kein großes Säckchen voll, so
+                                kriegt er auch noch Schläge, und das geht so einen und alle
+                                Tage.
+                            <seg id="23" type="frame" pos="start">Endlich wird das der arme <seg id="23" type="speaker">Teufel</seg> doch
+                                müde und <seg id="23" type="intExpr">spricht</seg> zu sich:</seg> <said id="23" mode="direct" content="speech" level="1">»Ei was, sollst du dich mit der Frau
+                                plagen?</said>
+                        
+                    
+                
+            
+        </p>
+      </body>
+   </text>
+</TEI>

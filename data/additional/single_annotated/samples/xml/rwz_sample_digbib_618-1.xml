@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der starke Gottlieb</title>
+             <author>Bechstein, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bechstein,_Ludwig_Der_starke_Gottlieb.tg145_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Der starke Gottlieb</f>
+         <f name="author">Bechstein, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Das wäre! Was kann der Sohn deines Knechts dir geben?«</said><seg id="1" type="frame" pos="end"> <seg id="1" type="intExpr">fragte</seg> die <seg id="1" type="speaker">Frau</seg>.</seg> 
+                  <said id="3" mode="direct" content="speech" level="1">»Eine Feige «</said> <seg id="3" type="frame" pos="mid">– <seg id="3" type="intExpr">antwortete</seg> der <seg id="3" type="speaker">Mann</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»will er mir geben.«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Eine Feige? Mann, <said id="6" mode="reported" content="speech" level="2" nonfact="yes"><seg id="6" type="speaker">du</seg> <seg id="6" type="intExpr">lügst</seg></said>, oder es rappelt bei dir!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">schrie</seg> die <seg id="4 5" type="speaker">Frau</seg></seg> und wurde zornig. <said id="5" mode="direct" content="speech" level="1">»Wo sollen denn auf unserem Gute Feigen herkommen?«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Oh«</said> <seg id="8" type="frame" pos="mid">– <seg id="8" type="intExpr">versetzte</seg> der <seg id="8" type="speaker">Gutsherr</seg>: –</seg> <said id="8" mode="direct" content="speech" level="1">»die gibt's, es regnet bisweilen derselben – der Gottlieb meint eine Ohrfeige. «</said> 
+                  Wenig hätte gefehlt, so hätte der Gutsherr schon jetzt eine solche Frucht zu schmecken bekommen, aber starrer Schreck lähmte einige Minuten lang der Edelfrau Hand und Mund – <seg id="9" type="frame" pos="start">bis <seg id="9" type="speaker">sie</seg> endlich <seg id="9" type="intExpr">kreischte</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»O du Tropf! Das ist wieder ein Stückchen deines Geizes! Du willst dich lieber entehren lassen, als einem Knechte Lohn zahlen. Totschlagen wird dich der Gottlieb, <said id="10" mode="reported" content="thought" level="2" border="yes">denn so viel habe <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">gemerkt</seg></said>, wo der hinschlägt, da wächst kein Gras! Nein, einen solchen Vertrag einzugehen, ist himmelschreiend. Doch, laß mich nur machen, ich wende das Unglück von dir – er muß fort – ich duld ihn nicht!«</said> – 
+                  <said id="12" mode="direct" content="speech" level="1">»Wenn du ihn fortbringen kannst, liebe Frau«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">versetzte</seg> kleinmütig der <seg id="12" type="speaker">Gutsherr</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»so habe ich nichts dagegen.«</said> 
+                  Die Gutsfrau machte sich gleich ein Plänchen. Auf dem Gute befand sich eine Mühle, in der es furchtbar spukte. Vielen war in derselben von dem Spukgeiste der Hals umgedreht worden. <said id="14" mode="direct" content="thought" level="1">I</said><seg id="14" type="frame" pos="mid"> – <seg id="14" type="intExpr">dachte</seg> <seg id="14 15" type="speaker">sie</seg>,</seg> <said id="14" mode="direct" content="thought" level="1">der kann den Gottlieb den Hals auch umdrehen, das ist ein Aufwaschen, und da sind wir ihn los.</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Gottlieb! Heute trägst du ein halbes Malter Korn in die Mühle und mahlst es!«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Zu Befehl, gnädige Frau!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">antwortete</seg> <seg id="16 17" type="speaker">Gottlieb</seg></seg>, holte einen großen Maltersack, faßte ein oder zwei Malter Korn hinein und warf sich ihn über die Schulter, ging <seg id="17" type="frame" pos="start">und <seg id="17" type="intExpr">pfiff</seg> das Lied:</seg>
+                         
+                  
+                     <said id="17" mode="direct" content="speech" level="1">»Da droben auf jenem Berge,
+                     Da steht ein Mühlenrad.«</said>
+                        
+                  
+                  Als er an die Mühle kam, war deren Türe verschlossen. Gottlieb klopfte höflich an, einmal, zweimal, dreimal. Da noch immer niemand auftat, so tat er einen sanften Tritt an die Türe, daß sie aufsprang und nebenbei entzwei krachte. Mitten im Wege zum Werke lagen eine Menge Mühlsteine; Gottlieb schob sie sanft mit den Füßen nach rechts und links, und gelangte nun an das Werk. Bevor er aufschüttete und das Werk anließ, schürte er sich ein Feuerlein und kochte sich eine Morgensuppe, in die er einen kleinen Schinken steckte, daß sie besser geschmelzt sei. Da kam eine große <seg id="18" type="speaker">Katze</seg> mit feurigen Augen, die riß ihr Maul auf, starrte den starken Gottlieb an <seg id="18" type="frame" pos="start">und <seg id="18" type="intExpr">schrie</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Miau!«</said> – <said id="19" mode="direct" content="speech" level="1">»Hui Katz!«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">schrie</seg> <seg id="19" type="speaker">Gottlieb</seg></seg> und gab ihr einen Tritt, daß sie eilend kehrt machte. Jetzt schüttete er auf, setzte das Mühlwerk in Gang, und verzehrte sein Frühstück. Gleich war die <seg id="20" type="speaker">Katze</seg> wieder da, pfauchte <seg id="20" type="frame" pos="start">und <seg id="20" type="intExpr">schrie</seg> abermals:</seg> <said id="20" mode="direct" content="speech" level="1">»Miau!«</said> <said id="21" mode="direct" content="speech" level="1">»Hui Katz!«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">schrie</seg> <seg id="21" type="speaker">Gottlieb</seg></seg> und warf ihr den Schinkenknochen auf den Kopf, daß sie um und um zwirbelte und verschwand. Plötzlich stand ein schrecklicher <seg id="22" type="speaker">Riese</seg> vor dem starken Gottlieb, <seg id="22" type="frame" pos="start">und <seg id="22" type="intExpr">brüllte</seg>:</seg> <said id="22" mode="direct" content="speech" level="1">»Mehlwurm! Wer heißt dich hier mahlen?«</said> <seg id="23" type="speaker">Gottlieb</seg> nicht faul, nahm einen Mühlstein, warf damit den Riesen an die Stirne, <seg id="23" type="frame" pos="start">und <seg id="23" type="intExpr">schrie</seg>:</seg> <said id="23" mode="direct" content="speech" level="1">»Mühlwurm, wer heißt dich hier prahlen?«</said> – Da stürzte der Riese hinterrücks nieder und tat einen Brüller, daß das ganze Werk wackelte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

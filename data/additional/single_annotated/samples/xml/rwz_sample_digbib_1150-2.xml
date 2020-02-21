@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Vorzugsschüler</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Vorzugsschueler.tg125_1.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Vorzugsschüler</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Wer trug Schuld an dem frevelhaften Leichtsinn des Buben, wer unterstützte ihn noch darin? Die Mutter, die verbrecherisch schwache, törichte Mutter! Wenn aus dem Buben nichts wird, wenn er heranwächst zu einer Last und sogar Schande der Eltern – Müßiggang ist aller Laster Anfang –, wenn er elend untergeht, fällt die Verantwortung dafür auf ihr Gewissen, und sie wird einst zur Rechenschaft gezogen werden. 
+                  Pfanner verstand es, seine Umgebung stumm zu machen. Es kam kein Laut über die Lippen seiner Frau. Bis zu einem gewissen Grade hatte sie sich im Laufe ihrer Ehe an sein maßloses Übertreiben gewöhnt, und jetzt freute sie sich gar, <said id="1" mode="reported" content="speech" level="1">daß seine Vorwürfe sie trafen.</said> So diente sie ihrem Jungen eine Zeit lang wenigstens als Schild. 
+                  
+                     Der Mann schrie und tobte, und dabei zog er den Rock und die Weste aus und legte sie sorgfältig auf einen Sessel. Sogar in der Wut gegen seine nächsten Menschen verfuhr er schonend mit seinen Sachen. Nun entstand eine Pause, aber nur als Vorbereitung zu einem neuen Schrecknis, <seg id="2" type="frame" pos="start">zu der <seg id="2" type="intExpr">Frage</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Sind die Aufgaben gemacht?«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Ich werd sie morgen machen«</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">erwiderte</seg> <seg id="3" type="speaker">Georg</seg> bang und zögernd.</seg> <said id="4" mode="direct" content="speech" level="1">»Morgen ist Sonntag...«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ja so. Bring die Aufgaben!«</said> Pfanner sah sie durch. <said id="6" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="writing" level="2" nonfact="yes">Eine Fabel aus Deutsch in Latein übersetzen.</said> <said id="20" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Griechische Grammatik zu lernen: Unregelmäßigkeit der Deklination.</said> Geometrie: Drei Aufgaben. Geschichte: <said id="23" mode="reported" content="speech thought" level="2" nonfact="yes" border="yes">Wiederholung, von den Kreuzzügen bis zu Rudolf von Habsburg.</said> <said id="26" mode="reported" content="speech thought writing" level="2" nonfact="yes">Und von alledem nichts gemacht? Nichts?</said> <said id="27" mode="reported" content="speech thought writing" level="2" nonfact="yes">Das alles soll morgen bewältigt werden?</said>«</said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Er</seg> <seg id="7" type="intExpr">dekretierte</seg>:</seg> <said id="7" mode="direct" content="speech" level="1">»Geschichte heute noch wiederholen, <said id="22" mode="reported" content="speech" level="2" nonfact="yes">aufmerksam durchlesen.</said> <said id="24" mode="reported" content="speech" level="2">Wenn man am Abend etwas aufmerksam durchliest</said>, <said id="8" mode="reported" content="thought" level="2" border="yes">weiß man es am nächsten Morgen wörtlich.</said>«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Es sind sechsundzwanzig Seiten«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">wagte</seg> <seg id="9" type="speaker">Georg</seg> einzuwenden.</seg> 
+                  <said id="10" mode="direct" content="speech" level="1">»Zweiundzwanzig, vier Seiten nehmen die Illustrationen ein.«</said> Er legte das Buch vor ihn hin: <said id="11" mode="direct" content="speech" level="1">»Setz dich, lern!«</said> 
+                  Der Knabe tat, <said id="12" mode="reported" content="speech" level="1">wie ihm geheißen worden.</said> <said id="25" mode="freeIndirect" content="thought" level="1">Gut also, gut, so setzt er sich denn hin und lernt. Daß er müd und schläfrig ist, was liegt daran, ihm ist alles recht, er lernt. Wenn er sich nur zu Tod lernen könnte, das wäre ihm das allerliebste. Wenn er tot wäre, hätte er Ruhe, und seine Mutter hätte Ruhe, <said id="13" mode="reported" content="speech" level="2" nonfact="yes">brauchte sich seinetwegen nicht beschimpfen lassen.</said></said> <seg id="14" type="frame" pos="start">So begann <seg id="14" type="speaker">er</seg> denn zu <seg id="14" type="intExpr">lesen</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»Schon in den ersten Jahrhunderten trieben Andacht und Glaubensinnigkeit die Christen zu den heiligen Stätten...«</said>
+                         
+                  An schönen Sonntagnachmittagen unternahm Pfanner regelmäßig einen Spaziergang, und Georg durfte ihn begleiten. Ein Vergnügen, auf das die Mutter längst freiwillig verzichtet hatte und von dem das Kind trauriger heimkehrte, als es ausgewandert war. Mit dem Vater spazierengehen bedeutete, an jeder Unterhaltung, jedem Genuß vorübergehen. Dort drüben, im lustigen Prater, wurde nach der Scheibe geschossen, im Luftschiff, im mechanischen Ringelspiel gefahren, da gab's Theateraufführungen, Wachsfigurenkabinette, eine Damenkapelle, Zigeunermusik. Und ein Aquarium und ein Panorama und so vieles Schöne noch, <said id="15" mode="reported" content="speech" level="1">von dem Georgs Mitschüler zu erzählen wußten.</said> <said id="16" mode="reported" content="speech" level="1">Wenn er eine Anspielung wagte</said>, <seg id="17" type="frame" pos="start">eine <seg id="17" type="intExpr">Frage stellte</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">»Warst du schon einmal im Wurstelprater? Hast du schon einmal die Zigeuner spielen gehört?«</said> <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">antwortete</seg> der <seg id="18" type="speaker">Vater</seg> voll Verachtung:</seg> <said id="18" mode="indirect" content="speech" level="1">Was man im Wurstelprater zu sehen und zu hören bekäme, sei lauter elendes Zeug, an dem nur ungebildete und rohe Menschen sich zu ergötzen vermöchten.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

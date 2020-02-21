@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Einsam</title>
+             <author>Anzengruber, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Anzengruber,_Ludwig_Der_Einsam.tg234_1.xml</f>
+         <f name="year">1881</f>
+         <f name="decade">1880</f>
+         <f name="title">Der Einsam</f>
+         <f name="author">Anzengruber, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Nur erst oben sein!«</said> 
+                     Immer bedachtsam vorrückend, waren sie bis auf wenige Schritte dem Ziele nahe gekommen, da versah es der Jüngere für einen Augenblick, sein Seitengewehr schlug klirrend gegen das Gestein, <said id="2" mode="reported" content="speech" level="1">der <seg id="2" type="speaker">Graubart</seg> <seg id="2" type="intExpr">stieß</seg> einen halblauten Fluch <seg id="2" type="intExpr">aus</seg></said>, und der <seg id="3" type="speaker">Einsam</seg> raffte mit Hast seine Waffe auf und sprang hinzu. <said id="3" mode="direct" content="speech" level="1">»Ho, Leut, was wollts? Was soll's geben? Stehts, oder ich schieß!«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»Das laß sein«</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">sagte</seg> der <seg id="4 5" type="speaker">Alte</seg></seg>, der voranstand, und blinzelte dem Einsam vertraulich zu. <said id="5" mode="direct" content="speech" level="1">»<seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Ich</seg> <seg id="6" type="intExpr">mein</seg> schon selber,</seg> <said id="6" mode="indirect" content="thought" level="2">daß einm da a klein Körndel Blei leicht 's Übergewicht gäbet</said>, aber sei gscheit und hab ein Einsehn, wir kämen ja ganz unschuldigerweis dazu, uns kann doch gleichgelten, haust du da oder anderswo, wir sein dir nit feind, wir sein ebn kommandiert, und schau, da müssen wir halt gehen, weil dös unser Pflicht is und unser Brot.«</said> 
+                     
+                        <said id="7" mode="direct" content="speech" level="1">»Ei, <said id="8" mode="reported" content="speech" level="2"><seg id="8" type="intExpr">red</seg> <seg id="8" type="speaker">du</seg> freundlich</said>, weil d' ein noch nit beim Kragen hast!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">schrie</seg> der <seg id="7 9" type="speaker">Einsam</seg>.</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="indirect" content="speech" level="2" nonfact="yes">Ob euch mein Einfangen a Vergnügn oder a Beschwernus macht</said><seg id="10" type="frame" pos="end">, darnach <seg id="10" type="intExpr">frag</seg> <seg id="10" type="speaker">ich</seg> nit</seg>, das gilt mer gleich,<said id="11" mode="reported" content="speech" level="2" nonfact="yes"> und <seg id="11" type="intExpr">redts</seg> <seg id="11" type="speaker">mer</seg> nit von Pflicht und von Brot</said>, verpflichts euch nit zu so was und freßts kein solchs! Wolln mer dö Herrn vom Gricht was, solln s' selber kommen, handlangert ihnen nit, und wann euch ein jeder, wie ich, die Zähn in Rachen einischlaget, dann möcht sich wohl bald im ganzen Land keiner mehr zu euern Brot melden, und wir wurden einmal statt die klein Hund die großen bellen hören, wann sich dö noch traun.«</said> 
+                     Der Graubart war unmerklich ein paar Schritte vorwärts gerückt und hielt seine Flinte recht wie einen Gangstecken gegen den Boden gestemmt, jetzt schwang er sich mit einmal vorneüber und stand mit einem Ruck auf der Steinplatte. <said id="12" mode="direct" content="speech" level="1">»Gib dich!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">rief</seg> <seg id="12" type="speaker">er</seg>.</seg> 
+                     Da krachte ein Schuß, und der Alte brach zusammen. <said id="13" mode="direct" content="speech" level="1">»Himmelherrgottssakkerment«</said><seg id="13" type="frame" pos="end">, <seg id="13" type="intExpr">preßte</seg> <seg id="13 14" type="speaker">er</seg> zwischen den Zähnen <seg id="13" type="intExpr">hervor</seg></seg>, die er vor Schmerz zusammenbiß. <said id="14" mode="direct" content="speech" level="1">»<seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Ich</seg> hab's ja <seg id="15" type="intExpr">gwußt</seg>,</seg><said id="15" mode="indirect" content="thought" level="2" border="yes"> wo ein Pfaff dabei is, geht's nit gut aus.</said>«</said> 
+                     Der Einsam aber wollte den einen Gegner vollends unschädlich machen, mit hochgeschwungener Waffe sprang er auf ihn zu – und hat er ihn mit dem Kolben vor den Kopf geschlagen und ihm das Gewehr entrissen, dann ...
+                     Da stemmte der andre Soldat die Schulter gegen die Wand und die Füße wider den Boden, riß die Flinte an die Hüfte und gab Feuer. Der Einsam schnellte empor, weit weg flog seine Wehr in das Gestein, lautlos überschlug er sich nach vorne und lag tot. 
+                  
+               
+            
+            
+               
+                  
+                     VI
+                     Der Widerhall zweier Schüsse, der rings in den Bergen nachgrollte, hatte das weite Tal in Aufregung versetzt, das Dorf war belebter wie an einem Feiertage, es litt die Leute nicht auf dem Felde und nicht in den Stuben, und wer nicht durch die Gassen strich, der trat doch unter seine Haustüre; in Gruppen, die sich wechselnd sammelten und lösten, <said id="16" mode="reported" content="speech" level="1"><seg id="16" type="intExpr">besprach</seg> <seg id="16" type="speaker">man</seg> <seg id="16" type="intExpr">sich</seg> lebhaft</said>, und <said id="17" mode="reported" content="speech" level="1"><seg id="17" type="speaker">jeder</seg> versuchte in seiner Art und nach <said id="18" mode="reported" content="thought" level="2"><seg id="18" type="speaker">seinem</seg> <seg id="18" type="intExpr">Meinen</seg></said> das Geschehene <seg id="17" type="intExpr">vorherzusagen</seg></said>, und <seg id="19" type="speaker">wer</seg> im Orte bei Amt und Ansehen war, vom Gemeindediener bis zum Bürgermeister, hatte <said id="19" mode="reported" content="speech" level="1">diejenigen zu <seg id="19" type="intExpr">beschwichtigen</seg></said>, <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">die</seg> <seg id="20" type="intExpr">überzeugt</seg> waren,</seg> <said id="20" mode="indirect" content="thought" level="1" border="yes">der Einsam habe beide Gendarmen von der Wand geschossen und käme sicher noch heut nacht zugeschlichen, um das Dorf in Brand zu stecken.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

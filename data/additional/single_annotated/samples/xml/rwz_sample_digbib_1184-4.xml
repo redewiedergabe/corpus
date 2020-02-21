@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Judith, die Kluswirtin</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Judith__die_Kluswirtin.tg47_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Judith, die Kluswirtin</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">4</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Ich schwöre mich los! <said id="2" mode="reported" content="speech" level="2"><seg id="2" type="speaker">Ich</seg> <seg id="2" type="intExpr">appelliere</seg> an Kaiser und Reich!</said> <said id="3" mode="reported" content="speech" level="2" nonfact="yes"><seg id="3" type="speaker">Ich</seg> habe nichts <seg id="3" type="intExpr">bekannt</seg></said>, <said id="4" mode="reported" content="speech" level="2" nonfact="yes"><seg id="4" type="speaker">ich</seg> habe nichts zu <seg id="4" type="intExpr">bekennen</seg>.</said> Ich bin nicht ich. Ich bin James Brown, ich, ich!«</said> 
+                     Gegen Morgen beruhigte <seg id="1" type="speaker">er</seg> sich etwas, er fand seine Fassung wieder und warf sich angekleidet auf das Bett; <seg id="5" type="frame" pos="start">die heimliche <seg id="5 6" type="speaker">Wächterin</seg> jedoch <seg id="5" type="intExpr">ahnte</seg> mit Zittern,</seg> <said id="5" mode="indirect" content="thought" level="1">daß das unstete Hirn diesem Aufruhr und Zwiespalt nicht auf die Dauer zu widerstehen vermöge, daß das Unvermeidliche zur Entlastung eines Unschuldigen in kürzester Weile geschehen müsse.</said> <said id="6" mode="freeIndirect" content="thought" level="1">Aber wie den Rastlosen fassen, wie ihn halten? Sollte sie die Drohung ausführen, ihn der Schande, dem Tode vielleicht überantworten in der Stunde, da der Schoß, der sie wie ihn getragen, noch der letzten Erdenhülle wartete?</said> Sie schauderte vor sich selbst, vor ihm, vor einem unerbittlichen Verhängnis, sie fühlte sich ratlos, wie im Leben noch nie. 
+                     So trat sie an das Fenster und blickte über den Garten, dessen Kräuter, gesättigt und frisch belebt im Strahle der Morgensonne, wie unter einem Kristallschleier zitterten. Und siehe, da unten stand auch schon der gute Sylvian, das Auge in banger Spannung nach dem Giebelzimmer gerichtet. <said id="7" mode="direct" content="speech" level="1">»Sylv, mein Sylv!«</said> <seg id="7" type="frame" pos="end">hörte sie ihren <seg id="7" type="speaker">Nachbar</seg> mit freudiger Stimme <seg id="7" type="intExpr">hinunterrufen</seg></seg>, doch schien er sich eilig von dem geöffneten Fenster abzuwenden, als die Tritte der Magd sich vom Hofe her näherten. Der Knabe lauschte noch etliche Minuten und entfernte sich endlich auf einen Wink der Pflegerin, um seinen Pfarrgang anzutreten. 
+                     Die wirtschaftlichen Obliegenheiten ließen Judith nicht länger müßig sinnen; sie wurden auch für heute nur auf das Unerläßliche beschränkt, die Lohnarbeiter entlassen und der Knecht zur Dienstleistung in die der helfenden Hände so dringend benötigte Stadt gesendet, da bis zu einem letztgültigen Entschlusse ein Beobachten und zufälliges Erkennen ihres heimlichen Gastes vermieden werden sollte. Die Magd, deren geistige Verfassung noch weniger als die des Kameraden zu argwöhnischen Folgerungen geneigt war, betraute sie mit dem Dienst in der Giebelstube, wie auch mit dem Lugeposten an der Türspalte, sooft sie persönlich von demselben ferngehalten war. 
+                     
+                        Zwischen Frühmesse und Hauptgottesdienst kehrte Sylvian, begleitet von seinem geistlichen Freunde, zurück. Eine tiefe Erschütterung stand in den klaren, kindlichen Zügen des frommen Mannes geschrieben; <seg id="8" type="frame" pos="start">sein langer, stummer Blick, sein Händedruck <seg id="8" type="intExpr">sagten</seg> <seg id="8" type="speaker">Judith</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1">daß sie sich <said id="9" mode="reported" content="speech" level="2" nonfact="yes">eine qualvolle <seg id="9" type="intExpr">Aufklärung</seg></said> ersparen dürfe.</said> Er berührte den Zusammenhang nicht, den er sich aus seinen eignen ahnungsvollen Vorgedanken und des Knaben Bekenntnissen zusammengestellt; <said id="10" mode="reported" content="speech" level="1" nonfact="yes">er ist auch späterhin niemals zwischen <seg id="10" type="speaker">ihnen</seg> mit deutlichen Worten <seg id="10" type="intExpr">bezeichnet</seg> worden</said>: unverabredet behandelten sich alle <seg id="11" type="speaker">drei</seg> als Eingeweihte und handelten in Übereinstimmung, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">aber in schonendem <seg id="11" type="intExpr">Schweigen</seg>.</said> <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="speech" level="2" nonfact="yes"><seg id="13" type="speaker">Er</seg> muß <seg id="13" type="intExpr">beichten</seg></said>, Muhme!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">rief</seg> <seg id="12 14" type="speaker">Sylvian</seg> fieberisch aufgeregt</seg>; <said id="14" mode="direct" content="speech" level="1">»er ist krank, kann sterben. Alles wird gut werden, wenn er sich mit seinem Heiland ausgesöhnt.«</said> 
+                     <said id="15" mode="direct" content="thought" level="1">»<said id="17" mode="reported" content="speech" level="2" nonfact="yes"><seg id="17" type="intExpr">Beichten</seg>, beichten?</said>«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">fragte sich</seg> <seg id="15 16" type="speaker">Judith</seg> im stillen</seg>; <said id="16" mode="direct" content="thought" level="1">»<said id="18" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="18" type="intExpr">glaubt</seg> dieser flatternde <seg id="18" type="speaker">Geist</seg> an die Macht eines Priesters, zu lösen und zu binden?</said> <said id="19" mode="reported" content="thought" level="2" nonfact="yes">Hat <seg id="19" type="speaker">er</seg> jemals daran <seg id="19" type="intExpr">geglaubt</seg>?</said>«</said> <seg id="20" type="frame" pos="start">Ein zweites drängendes Bedenken aber <seg id="20" type="intExpr">äußerte</seg> <seg id="20" type="speaker">sie</seg> in der Frage:</seg> <said id="20" mode="indirect" content="speech" level="1">ob <said id="21" mode="reported" content="speech" level="2">die <seg id="21" type="intExpr">Beichte</seg></said> unter allen Umständen dem <seg id="21 22" type="speaker">Beichtiger</seg> <said id="22" mode="reported" content="speech" level="2" nonfact="yes">ein unverbrüchliches <seg id="22" type="intExpr">Schweigen</seg></said> auferlege?</said> <said id="23" mode="reported" content="speech" level="1">Und als der <seg id="23" type="speaker">Pfarrer</seg> diese Frage <seg id="23" type="intExpr">bejahte</seg></said>, schien das angeregte Seelenheilmittel seinen Wert in ihren Augen verloren zu haben.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

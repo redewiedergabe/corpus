@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt09_1868_11.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+An einen wahren
+                        Wohlthäter der leidenden Menschheit muß man doch wahrlich ganz
+                        andere Anforderungen stellen; er wird es sicherlich verschmähen, seine
+                        Wohlthaten mit enormen Summen sich bezahlen zu lassen, er wird
+                        sie auch denen zuwenden, welche Letztere nicht erschwingen können. Ich
+                        übertreibe daher nicht, <seg id="1" type="frame" pos="start">wenn <seg id="1" type="speaker">ich</seg> die Behauptung <seg id="1" type="intExpr">ausspreche</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1" prag="yes">die Handlungen der angeblichen Menschenbeglücker entspringen zum größten
+                        Theil aus schmutziger Geldgier und verwerflichem Geldwucher</said>, und ich
+                        hätte selbst für den Fall keine Veranlassung, dies Urtheil zu modifiziren, wenn sich die Mittel der Marktschreierbande in der Praxis als
+                        untrüglich bewähren würden.
+            Da nun der Geheimmittelunfug nicht einmal im Verborgenen,
+                        sondern offenkundig vor den Augen der ganzen Welt stattfindet und
+                        
+               
+               getrieben wird, <seg id="2" type="frame" pos="start">so könnte <seg id="2" type="speaker">man</seg> <seg id="2" type="intExpr">glauben</seg>, </seg><said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">es müsse nicht schwer halten,
+                        die legitimen und illegitimen Quacksalber zu entlarven und dadurch,
+                        daß man die Leuchte der wissenschaftlichen Kritik an die Irrlehre anlegt und auf rationelle Weise ihr Fundament erschüttert, wenigstens
+                        zu verhindern, daß sie ihre Netze nicht so ungestört und überall hin
+                        ausdehnen können</said>, <said id="3" mode="reported" content="speech" level="1" nonfact="yes" metaph="yes">allein die <seg id="3" type="speaker">Erfahrung</seg> <seg id="3" type="intExpr">redet</seg> dieser Ansicht nicht
+                        das Wort.</said>
+            Was zunächst den Staat betrifft, der in andern Fällen seine
+                        Staatsangehörigen vor Täuschung behütet und beschirmt, der die
+                        Presse so väterlich bevormundet und nicht duldet, daß gegen die Moral
+                        und Sittlichkeit in öffentlichen Blättern gefrevelt und <said id="5" mode="reported" content="speech" level="1" nonfact="yes">dem Publikum
+                        das Gift sogenannter revolutionärer Ideen durch <seg id="5" type="intExpr">Wort</seg> und <seg id="5" type="intExpr">Rede</seg>
+                        eingehaucht werde</said>, so könnte die strenge Anwendung der bereits erlassenen
+                        Gesetze die verlockenden und das Publikum irre führenden Anpreisungen von sogenannten Geheimmitteln zum Theil wenigstens verhüten.
+                        <seg id="8" type="frame" pos="start"><said id="9" mode="reported" content="speech" level="1" prag="yes"><seg id="9" type="speaker">Ich</seg> <seg id="9" type="intExpr">erinnere</seg> hier an die <seg id="9" type="intExpr">Cirkularverfügung</seg> des <seg id="8" type="speaker">Ministers</seg> des
+                        Innern und der geistlichen, Unterrichts- und Medizinal-Angelegenheiten
+                        vom 7. November 1848 * )</said> , nach welcher es der Polizeibehörde und
+                        den Kreisphysikern zur Pflicht gemacht wird,</seg> <said id="8" mode="direct" content="writing" level="1">„auf die ergehenden Ankündigungen jener Art, oder die ohne vorherige Ankündigung stattfindenden Verkäufe von Geheimmitteln aufmerksam zu sein und die
+                        vorkommenden Uebertretungen zur Rüge zu bringen. <seg id="7" type="frame" pos="start">Das Publikum
+                        aber ist Seitens der Polizeibehörden auf die bestehenden Gesetze mit
+                        dem Hinzufügen <seg id="7" type="intExpr">hinzuweisen</seg>,</seg> <said id="7" mode="indirect" content="speech" level="2" nonfact="yes">daß jeder Verkauf und jede Ankündigung
+                        von Geheimmitteln und ähnlicher Arznei als strafbar werde verfolgt
+                        werden, die nicht durch ein amtliches Attest des Kreisphysikus des
+                        Orts ausdrücklich nachgelassen sind.</said> Die Kreisphysiker ihrerseits werden dergleichen Atteste nicht selbstständig zu ertheilen, sondern nur auszustellen haben, wenn die oberste Medizinalinstanz den Debit des
+                        betreffenden Geheimmittels ausdrücklich genehmigt hat“.</said> Ferner bedroht
+                        der §. 345. ad 2. des Strafgesetzbuches mit Geldbuße bis zu fünfzig
+                        Thalern oder Gefängniß bis zu sechs Wochen denjenigen, welcher ohne
+                        polizeiliche Erlaubniß Gift oder Arzeneien, so weit deren Handel nicht
+                        durch besondere Verordnungen freigegeben ist, zubereitet, verkauft oder
+                        sonst an Andere überläßt. <said id="10" mode="reported" content="writing" level="1">In neuester Zeit endlich macht ein
+                        <seg id="10" type="intExpr">Reskript</seg> des <seg id="10" type="speaker">Ministers</seg> der geistlichen, Unterrichts- und Medizinalaangelegenheiten vom 1. April 1864 noch besonders auf das letzte
+                        Alinea dieses Paragraphen des Strafgesetzbuches aufmerksam, welches
+                        die Konfiskation der Arzeneien verordnet</said>, und giebt den zu verfolgenden Weg an: in der Feststellung 1 ) daß das Mittel zu denen gehöre,
+                        welche die Bekanntmachung vom 29. Juli 1857 nur den Apothekern
+                        zu verkaufen erlaubt; 2 ) daß wirklich ein Verkauf stattgefunden;
+                        3 ) Existenz eines verbotenen ( durch die Staatsanwaltschaft zu konfiszirenden ) Arzeneibestandes ** ) . Werden die Gesetze aber gegeben,
+                        damit sie nicht zur Anwendung kommen?
+
+
+</p>
+      </body>
+   </text>
+</TEI>

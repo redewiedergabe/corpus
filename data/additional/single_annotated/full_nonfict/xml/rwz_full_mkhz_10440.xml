@@ -1,0 +1,860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die 15. Hauptversammlung des Deutschen Schulvereins</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1895_05_24.txt_1.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Die 15. Hauptversammlung des Deutschen Schulvereins</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">0</f>
+         <f name="narrative">no</f>
+         <f name="textype">Undefined</f>
+         <f name="source">mkhz.maehrisches</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Die 15. Hauptversammlung des
+                        Deutschen Schulvereins.
+                        
+               
+               
+                  Wien,23. Mai.
+                        date
+               
+                  
+                     
+                        (Special-Bericht des „Mähr. Tagblattes“.)
+                        
+                  
+                  Im großen Musikvereinssaale wurde heute
+                        Vormittags die 15. ordentliche Hauptversammlung
+                        des Deutschen Schulvereins abgehalten. Es hatten
+                        sich zu derselben eingefunden: Statthalter Graf
+                        Kielmansegg,die Herrenhausmitglieder Ritter
+                        v.ArnethundLobmayr,die Abgeordneten
+                        GrafKuenburg, Beer, Bendel, Bohaty,
+                        Demel,Rudolf Freih. v.Doblhoff,Dr.
+                        Exner,Dr.Foregger,Dr.Fournier,
+                        Dr.Götz,Dr.Groß, Habicher,Dr. v.
+                        Hellrigl,Dr.Hirsch,Vinc.Hofmann,
+                        Hütter, Kindermann,BaronKlein,Dr.
+                        Kopp,Dr. v.Kraus, Lorber,Dr.
+                        Menger,Dr.Nitsche, Noske,Dr.Pergelt, Pernerstorfer, Peschka,Dr. von
+                        Rainer,Dr.Roser, Schwab,Dr.Steinwender,Professor Ed.Sueß, Wannieck,
+                        Hofrath Dr. v.WildauerundWrabetz;
+                        ferner Vice-BürgermeisterMatzenauermit
+                        mehreren Stadt- und Gemeinderäthen, der n. ö.
+                        Landtags-AbgeordneteKitschelt,der Brünner
+                        VicebürgermeisterRohreru. A. In den zu
+                        beiden Seiten des Saales sich hinziehenden Parterrelogen hatten die Vertreterinnen der FrauenOrtsgruppen Platz genommen.
+                  Der Obmann des Schulvereins, <seg id="1 2" type="speaker">Dr.
+                        Weitlof</seg>,<seg id="1" type="frame" pos="start">eröffnete die Hauptversammlung mit
+                        der <seg id="1" type="intExpr">Mittheilung</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">daß 1584 Stimmen durch 118
+                        Vertreter von Ortsgruppen für 68.600 Mitglieder angemeldet seien</said> und <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="intExpr">begrüßte</seg> sodann die
+                        Freunde und Freundinnen des Schulvereins</said>, die
+                        aus allen Theilen Oesterreichs zur Hauptversammlung erschienen waren. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Dr. Weitlof</seg> <seg id="3" type="intExpr">brachte</seg>
+                        weiters <seg id="3" type="intExpr">zur Kenntniß</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">daß vom Finanzminister
+                        Dr. v.Plenerund Handelsminister Graf
+                        Wurmbrand,die durch dringende Amtsgeschäfte
+                        am Erscheinen verhindert sind, Entschuldigungsschreiben eingelangt seien.</said> Der Präsident des
+                        Abgeordnetenhauses,<seg id="4" type="frame" pos="start"> <seg id="4" type="speaker">Frh. v.Chlumecky</seg><seg id="4" type="intExpr">sende</seg>
+                        dem Vereine brieflich beste Wünsche und Grüße,</seg>
+                        <said id="4" mode="indirect" content="writing" level="1">er sei leider durch einen Erkrankungsfall in
+                        seiner Familie am persönlichen Erscheinen verhindert.</said> <said id="5" mode="reported" content="speech" level="1">Als<seg id="5" type="speaker"> Dr. Weitlof</seg> nunmehr den Statthalter Graf Kielmansegg <seg id="5" type="intExpr">begrüßte</seg></said>, brachen die
+                        <seg id="6" type="speaker">Anwesenden</seg> in<said id="6" mode="reported" content="speech" level="1"> stürmische <seg id="6" type="intExpr">Bravorufe</seg> </said>und minutenlanges Händeklatschen aus. <said id="7" mode="direct" content="speech" level="1">„Seine thatenreiche
+                        und energische Verwaltung</said><seg id="7" type="frame" pos="mid"> — <seg id="7" type="intExpr">sagte</seg> der <seg id="7" type="speaker">Vorsitzende</seg> —</seg><said id="7" mode="direct" content="speech" level="1"> ist nicht nur in Niederösterreich,
+                        sondern auch über die weitesten Grenzen unseres
+                        Vaterlandes hinaus bekannt und überall
+                        erfreute er sich großer Sympathien. Es kann
+                        uns daher nur freuen, wenn er unsere Versammlung mit seiner Anwesenheil und dadurch
+                        mit dem Ausdrucke seiner Sympathien beehrt.
+                        <said id="8" mode="reported" content="speech" level="2"><seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">begrüße</seg> ferner eine große Anzahl von Abgeordneten als unsere Ehrengäste.</said></said> (Beifall.) <said id="7" mode="direct" content="speech" level="1">Ihr
+                        Erscheinen ist nicht nur ein Beweis ihrer persönlichen Sympathien, sondern beweist auch die
+                        Sympathien der hinter ihnen stehenden weitausgebreiteten Wählerschaften.</said> <seg id="9" type="frame" pos="start"><seg id="9 12" type="speaker">Dr. Weitlof</seg> <seg id="9" type="intExpr">fuhr</seg> dann
+                        <seg id="9" type="intExpr">fort</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">Die Stadt Wien entbehrt heute eines entsprechenden Oberhauptes, infolgedessen haben wir
+                        auch keine officielle Begrüßung von Seite dieser
+                        Stadt zu gewärtigen.</said> (<seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">Rufe</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">Hört! Leider!
+ </said>                       Große Bewegung.) <said id="9" mode="direct" content="speech" level="1">Die Anwesenheit zahlreicher
+                        Gemeinderäthe und an ihrer Spitze VicebürgermeisterMatzenauerund das morgen von den
+                        vereinigten Ortsgruppen Wiens veranstaltete
+                        große Park-Fest wird aber Zeugniß dafür
+                        ablegen, welche Sympathien der überwiegende
+                        Theil der Bevölkerung Wiens dem Deutschen
+                        Schulvereine und seinen Gästen, wenn auch nicht
+                        officiell, entgegenbringt.</said> (Beifall. <said id="12" mode="direct" content="speech" level="1">Wacker!)</said> <said id="9" mode="direct" content="speech" level="1">Von
+                        Vertretern uns nahestehender Vereine<said id="14" mode="reported" content="speech" level="2"> <seg id="14" type="intExpr">begrüße</seg>
+                        <seg id="14" type="speaker">ich</seg> vor Allem den Volksbildungsverein und an
+                        seiner Spitze den anwesenden Hrn. v.Arneth.</said></said>
+                        (Lauter Beifall und anhaltendes Händeklatschen.)
+                       <said id="9" mode="direct" content="speech" level="1"> Sie werden mir zustimmen, daß Arneth nicht
+                        nur ein Vertreter des Volksbildungsvereins, sonwohl in Oesterreich der erste und bedeutsamste
+                        Volksbildner ist. </said>(Wiederholter Beifall) <said id="9" mode="direct" content="speech" level="1">Es sind
+                        weiters vertreten: Der Bund der Deutschen in
+                        Böhmen, der n. ö. Landeslehrerverein durch Hrn.
+                        OberlehrerErnst,der Volksbildungsverein in
+                        Krems, der Allg. deutsche Schulverein durch Prof.
+                        Kochaus Breslau </said>(großer Applaus)<said id="9" mode="direct" content="speech" level="1"> und durch
+                        Prof.Seydlitzaus Königsberg, der schon seit
+                        einer Reihe von Jahren unsere Hauptversammlungen besucht und niemals mit leeren Händen
+                        kommt.</said> (Rauschender Beifall.)
+                         
+                  <said id="19" mode="reported" content="speech" level="1">Am Schlusse seiner Begrüßungsrede <seg id="19" type="intExpr">bringt</seg>
+                        <seg id="19" type="speaker">Dr. Weitlof</seg> ein dreimaliges Hoch auf denKaiser
+                        <seg id="19" type="intExpr">aus</seg></said>, <said id="20" mode="reported" content="speech" level="1">in das die ganze <seg id="20" type="speaker">Bersammlung</seg> begeistert
+                        <seg id="20" type="intExpr">einstimmt</seg>.</said>
+                  Sodann nahm das Wort Gemeinderath
+                        Wünsch,der Obmann des liberalen gemeinderäthlichen Parteiverbandes.<seg id="21" type="frame" pos="start"> <seg id="21" type="speaker">Er</seg> <seg id="21" type="intExpr">sagte</seg>:
+ </seg>                        
+                  <said id="21" mode="direct" content="speech" level="1">Seit dem Bestande des Deutschen Schulvereines ist derselbe in allen Städten, wo er
+                        seine Hauptversammlung abhielt, stets gastlich
+                        empfangen worden, und zwar nicht allein von
+                        der Bevölkerung, sondern auch von dem betreffenden
+                        Oberhaupte der Stadt. Heute, in der Reichshauptstadt, ist esdas erstemal, daß diese Versammlung der officiellen Begrüßung
+                        seitens des Stadtoberhauptes entbehrt.</said><seg id="30" type="frame" pos="start">(<seg id="30" type="intExpr">Rufe</seg>:</seg> <said id="30" mode="direct" content="speech" level="1">Leider!</said>) <said id="21" mode="direct" content="speech" level="1"><seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Ich</seg> muß im Namen
+                        meiner Collegen im Gemeinderathe demtiefsten
+                        Bedauern<seg id="23" type="intExpr">Ausdruck geben</seg>, </seg><said id="23" mode="indirect" content="speech" level="2">daß ein politisches
+                        Ereigniß Aulaß gegeben, eine Pflicht nicht zu erfüllen, deren Erfüllung schon durch den Umstand
+                        geboten erschien,daß so zahlreiche edle
+                        <seg id="24" type="speaker">Frauen</seg> und ehrenwerthe <seg id="24" type="speaker">Männer</seg> aus
+                        allen Theilen des Reiches hieher gekommen sind, <said id="24" mode="reported" content="speech" level="3">um über das Wohl
+                        unser es deutschen Volsstammes zu
+                        <seg id="24" type="intExpr">berathen</seg>.</said></said></said><seg id="25" type="frame" pos="start">(<seg id="25" type="intExpr">Rufe</seg>:</seg> <said id="25" mode="direct" content="speech" level="1">Sehr richtig.</said>) <said id="21" mode="direct" content="speech" level="1"><seg id="27" type="frame" pos="start"><seg id="27 28" type="speaker">Wir</seg>
+                        Mitglieder des Parteiverbandes im Wiener
+                        Gemeinderathe <seg id="27" type="intExpr">erachten</seg> es nicht allein für unsere Pflicht,</seg> <said id="27" mode="indirect" content="thought" level="2"><said id="28" mode="reported" content="speech" level="3">Sie hier zu <seg id="28" type="intExpr">begrüßen</seg></said></said>;wir folgen auch dem Zuge unseres Herzens,
+                        wir folgen dem Gefühle unserer
+                        deutschen Gesinnung,indem wir Sie als
+                        <seg id="29" type="speaker">Vertreter</seg> eines Vereines, der, unabhängig von
+                        politischen Strömungen, es sich zur Aufgabe
+                        gemacht hat, die Wahrung und Pflege des
+                        deutschen Volksstammes in unserem Vaterlande
+                        durchzuführen, <said id="29" mode="reported" content="speech" level="2">hier in der deutschen Stadt Wien
+                        aufs herzlichste <seg id="29" type="intExpr">bewillkommnen</seg>.</said></said> (Stürmischer
+                        Beifall.) <said id="21" mode="direct" content="speech" level="1">Denn Wien ist und bleibt eine deutsche
+                        Stadt. </said>(Stürmischer Beifall.) <said id="21" mode="direct" content="speech" level="1">Deutsch fühlt
+                        seine Bevölkerung und darum hat auch der
+                        Wiener Gemeinderath stets dem Wirken des
+                        Deutschen Schulvereines die wärmsten Sympathien entgegengebracht und diesen Traditionen
+                        werden auch wir Vertreter des fortschrittlichen
+                        Verbandes im Gemeinderathe durch thatkräftige
+                        Unterstützung der edlen Bestrebungen dieses
+                        Vereines und unserer deutschen Gesinnung nach wie
+                        vor kräftigst Ausdruck verleihen. <said id="31" mode="reported" content="speech" level="2">Ich überbringe
+                        Ihnen die herzlichsten <seg id="31" type="intExpr">Grüße</seg> und <seg id="31" type="intExpr">Wünsche</seg>
+                        meiner <seg id="31" type="speaker">Gesinnungsgenossen</seg> und <seg id="31" type="speaker">Collegen</seg>.</said></said> (Stürmischer Beifall.)
+                         
+                 <seg id="32" type="frame" pos="start"> <seg id="32" type="speaker">Dr.Weitlof</seg>machte sodann <seg id="32" type="intExpr">Mittheilung</seg>
+                        davon,</seg> <said id="32" mode="indirect" content="speech" level="1">daß Hof- und Gerichtsadvocat Dr. Rudolf
+                        Prokschzur Ergänzungswahl für die Vereinsleitung vorgeschlagen sei. </said><said id="33" mode="indirect freeIndirect" content="speech" level="1">Für die neu zu besetzende Stelle im Aufsichtsrathe werde Dr. Alex.
+                        Eger,Hofrath und Director der Nordwestbahn,
+                        vorgeschlagen, und für jene im Schiedsgerichte
+                        Dr. RaimundGrübl,ein Mann, der sich der
+                        Sympathien der gesammten Bevölkerung Wiens
+                        erfreue, bis vor Kurzem noch Bürgermeister dieser
+                        Stadt. </said><said id="34" mode="reported" content="speech" level="1">Als <seg id="34" type="speaker">Dr. Weitlof</seg> den Namen Grübls
+                        <seg id="34" type="intExpr">nannte</seg></said>, brachten die Anwesenden dem ehemaligen
+                        Oberhaupte der Stadt Wien eine spontane
+                        Ovation; <said id="35" mode="reported" content="speech" level="1">endlose <seg id="35" type="intExpr">Bravorufe</seg> ertönten</said>, <said id="36" mode="reported" content="speech" level="1"><seg id="36" type="intExpr">Hochrufe</seg>
+                        wurden ausgebracht</said> und an das stürmische Händeklatschen betheiligten sich auch die Damen lebhaft.
+                 <said id="37" mode="reported" content="speech" level="1"> Hierauf <seg id="37" type="intExpr">ergriff</seg> Herr <seg id="37" type="speaker">Dr.Weitlof</seg>zur
+                        Verichterstattung <seg id="37" type="intExpr">das Wort</seg>.</said>
+               
+               
+                  
+                    <seg id="46" type="frame" pos="start"> <seg id="46" type="intExpr">Rede</seg> des Obmannes <seg id="46" type="speaker">Dr. Weitlof</seg>.</seg>
+                        
+                  
+                  <said id="46" mode="direct" content="speech" level="1"><said id="38" mode="reported" content="speech" level="2">Das abgelaufene Vereinsjahr kann <seg id="38" type="speaker">ich</seg> im
+                        Großen und Ganzen als ein ruhiges <seg id="38" type="intExpr">bezeichnen</seg>.</said>
+                  Die Einnahmen desselben mit 274.933 fl.
+                        58 kr. blieben zwar ewas gegen jene des Jahres
+                        1893 zurück, erreichten aber doch wenigstens
+                        die Bedarfshöhe. Demzufolge konnten wir auch
+                        für Schulzwecke die Summe von 244.527 fl.
+                        28 kr. verwenden.
+                  Bei diesen Einnahmen und einem Reinvermögen von nahezu einhalbMillionwerden <seg id="39" type="frame" pos="start">die
+                        <seg id="39" type="intExpr">Wünsche</seg> unserer <seg id="39" type="speaker">Gegner</seg> und <seg id="39" type="speaker">Neider</seg>,</seg> <said id="39" mode="indirect" content="thought" level="2">daß unser
+                        Verein seine von Millionen Stammesgenossen
+                        gewürdigte und als segensreich gepriesene Thätigkeit aus Mangel an Theilnahme werde einstellen müssen</said>, noch lange nicht in Erfüllung gehen.
+                  Diese nun durch 15 Jahre andauernde Leistungsfähigkeit unseres Vereines legt uns vielmehr die Verpflichtung auf, vor etwa auftauchenden inneren und äußeren Schwierigkeiten nicht
+                        zurückzuweichen, sondern eine Organisation lebensfähig zu erhalten, in welcher alle Deutschen ohne
+                        Unterschied bei noch so verschiedenen politischen
+                        oder confessionellen Ansichten einen Sammelpunkt
+                        zu gemeinsamer nationaler Thätigkeit finden
+                        können. Diese Verpflichtung ist um so unabweisbarer, als trotz aller sonstigen in diese Zeit fallenden Wandlungen der Deutsche Schulverein noch
+                        immer einen unentbehrlichen Hort und Schutz
+                        für die, in ihrer nationalen Existenz bedrohten
+                        Volksgenossen in den sprachlich gemischten Gebieten bildet.
+                  In immer weitere deutsche Kreise und selbst
+                        in solche, die uns zeitweise weniger freundlich
+                        gegenüber gestanden sind, <seg id="40" type="frame" pos="start">dringt die <seg id="40" type="intExpr">Erkenntniß</seg>,</seg>
+                        <said id="40" mode="indirect" content="thought" level="2">daß unser Verein mit unermüdlicher Consequenz
+                        ausschließlich seine ideale, nationale
+                        Arbeit pflegt, mit derselben hervor
+                     
+                     
+                     ragende Erfolge errungen hat und
+                        daher die Unterstützung aller Deutschen ohne irgend eine Ausnahme in
+                        Anspruch nehmen darf.</said>
+                        
+                   
+                  Gegenüber<said id="41" mode="reported" content="speech" level="2"> dieser <seg id="41" type="intExpr">beredten</seg> Sprache</said>, welche
+                        unsere Werke führen, können wir unbekümmert
+                        darüber hinausgehen, <said id="42" mode="reported" content="speech" level="2">daß uns immer wieder <seg id="42" type="speaker">die</seg>
+                        einander <seg id="42" type="intExpr">widersprechenden</seg></said> und durch unser Verhalten genügend widerlegten Vorwürfe begegnen,
+                        daß wir einerseits im Dienste einer bestimmten
+                        politischen Partei stehen und andererseits ein
+                        gutes Einvernehmen mit den außerhalb dieser
+                        Partei stehenden Volksgenossen zu erhalten bestrebt sind.
+                 <seg id="43" type="frame" pos="start"> Nicht oft genug kann es <seg id="43" type="intExpr">gesagt</seg> werden, </seg><said id="43" mode="indirect" content="speech" level="2">daß
+                        wir für unser WirkenEinmüthigkeitund
+                        Eintrachtunter unsDeutschen brauchen,
+                        und daß wir daher jeden politischen Hader aus
+                        unseren, nationalen Liebeswerken geweihten Hallen
+                        zurückweisen müssen.</said>
+                  Im Sinne dieser unserer Haltung und
+                       <seg id="44" type="frame" pos="start"> in dem <seg id="44" type="intExpr">Bewußtsein</seg>,</seg> <said id="44" mode="indirect" content="thought" level="2" border="yes">jahraus, jahrein eine
+                        patriotische Aufgabe in unserem Vaterlande
+                        zu erfüllen</said>, haben <seg id="45" type="speaker">wir</seg> auch an der den
+                        Deutschen des ganzen Weltalls gemeinsamen
+                        Feier des80. Geburtstagesdes deutschen
+                        Reiches Altkanzlerstheilgenommen, und
+                        bei diesem Anlasse an den,<said id="45" mode="reported" content="speech" level="2"> um die Hebung des
+                        deutschen Nationalgefühles so hochverdienten Fürsten Bismarck eine <seg id="45" type="intExpr">Glückwunschadresse</seg> gerichtet.</said>
+                  Die Möglichkeit unserer andauernden Thätigkeit im großen Style verdanken wir derUnermüdlichkeit und Opferwilligkeit der
+                        überwiegenden Mehrzahl unserer
+                        Ortsgruppen,denen aufrichtiger Dank und
+                        Anerkennung gebührt. Denselben zollen wir aber
+                        vor Allem den zahlreichen in unseren Reihen
+                        wirkenden deutschen Frauen und Mädchen. Ihre
+                        Begeisterung für unsere Sache erhält dem Deutschen Schulvereine seinen idealen Character und
+                        ist uns eine unausgesetzte Mahnung, denselben als
+                        eine Stätte zu wahren, welche von unseren deutschen Frauen und Mädchen allezeit würdig zu
+                        befinden ist, durch die Weihe ihrer Mitarbeiterschaft geziert zu werden.
+                  Ein erfreuliches Zeichen nachhaltiger Theilnahme an unseren Bestrebungen bilden die namhaften, uns in dem abgelaufenen Jahre angefallenen Erbschaften und Legate, darunter die
+                        letzwilligen Zuwendungen der Herren und Frauen:
+                        EmanuelZeidlerin Teplitz, Werth 
+                  
+                     
+                        papiere im Betrage von rund .
+                        20.000 fl.
+                        
+                     
+                     
+                        AdelheidStampflin Prag ..
+                        3 000 „
+                        
+                     
+                     
+                        Ferd.Hänelin Bielitz-Saybusch
+                        500 „
+                        
+                     
+                     
+                        Dr AlfredKönigsbergin Wien
+                        500 „
+                        
+                     
+                     
+                        HansSchreinerin Graz ...
+                        500 „
+                        
+                     
+                     
+                        FranzBergmannin Wien ...
+                        500 „
+                        
+                     
+                     
+                        JosefSchiffnerin Dauba ...
+                        400 „
+                        
+                     
+                     
+                        Dr.Schönbergin Klagenfurt ..
+                        200 „
+                        
+                     
+                  
+                  u. s. w.
+                  Diesen bis in den Tod treuen Freunden
+                        unserer Sache wollen wir ein weihevolles Andenken bewahren und dieß durch Erheben von den
+                        Sitzen bekunden.</said> (Geschieht.)
+                         
+                 <said id="46" mode="direct" content="speech" level="1"><seg id="47" type="frame" pos="start"> An dieser Stelle sei auch <seg id="47" type="intExpr">erwähnt</seg>,</seg> <said id="47" mode="indirect" content="speech" level="2">daß die,
+                        nothleidenden Volksschullehrern deutscher Nationalität in Wien gewidmete Therese Rigoni’sche
+                        Stiftung von ursprünglich 50.000 fl, in dem mit
+                        der Erledigung dieser Angelegenheit verbundenen
+                        langen Zeitraum auf die Summe von 63.000 fl
+                        angewachsen ist und zuversichtlich im Laufe dieses
+                        Jahres ihrer Bestimmung wird zugeführt werden
+                        können.</said>
+                 <said id="48" mode="reported" content="speech" level="2"> Wie alljährlich haben <seg id="48" type="speaker">wir</seg> auch für zahlreiche, unseren Zwecken, sei es mittelbar oder
+                        unmittelbar zugekommeneWidmungen außerhalb Oesterreichund namentlich aus dem
+                        deutschen Reiche zu <seg id="48" type="intExpr">danken</seg>.</said> Dieselben erreichten
+                        auch im Jahre 1894 die Summe von 60.000 Mk.
+                 <said id="49" mode="reported" content="speech" level="2"> Ebenso haben <seg id="49" type="speaker">wir</seg> für zahlreiche Bücherspenden Privater und deutscher Buchhändler zu
+                        <seg id="49" type="intExpr">danken</seg></said>, die uns in den Stand setzten, einer
+                        größeren Anzahl von Schul- und Volksbibliotheken
+                        die erwünschte Bereicherung aus dem Schatze
+                        der deutschen Wissenschaft und Poesie zuzuführen.
+                  Nicht minder dankbar sind wir jenem Theile
+                        derPresse, der in echt deutscher Opferwilligkeit uns in der nachhaltigsten
+                        und uneigennützigsten Weiseseine
+                        werthvolle Unterstützung angedeihen ließ.
+                  Mit besonderer Befriedigung haben wir der
+                        immergleichbleibenden, verdienstvollen und überzeugungstrcuen Thätig
+                     
+                     keit unserer Lehrer, Kindergärtuerinen und Beamtenmit aufrichtigem Danke
+                        zu gedenken.
+                 <said id="50" mode="reported" content="speech" level="2"> Leider habe <seg id="50" type="speaker">ich</seg> auch in diesem Jahre schmerzvolle Verluste aus unseren Reihen zu <seg id="50" type="intExpr">erwähnen</seg></said>,
+                        die wir durch das Ableben unseres Ausschußcollegen Dr.Heilsbergund des Mitgliedes des
+                        Aufsichtsrathes Sr. ExcellenzGraf Christian
+                        Kinskyerlitten haben. Beide haben ihre besten
+                        Kräfte in verschiedenen öffentlichen Stellungen
+                        für das Wohl des deutschen Volkes eingesetzt und
+                        trotz ihrer ausgebreiteten Thätigkeit doch die
+                        Zeit gefunden, auch an unseren Arbeiten theilzunehmen. Ihre Namen werden in den Annalen
+                        des Deutschen Schulvereines stets ehrenvoll verzeichnet sein, und wollen wir ihnen unsere, bis
+                        über das Grab hinausreichende Werthschätzung
+                        durch Erheben von den Sitzen bezeugen.</said> (Geschieht.)
+                         
+                 <said id="55" mode="direct" content="speech" level="1"> Aehnliche Nachrufe nehmen nun schon seit
+                        Jahren einen ständigen Platz in meinem Berichte
+                        ein und mahnen Manche unter uns mit immer
+                        größerem Nachdrucke auf einen jüngeren Nachwuchs
+                        ernstlich bedacht zu sein.<said id="51" mode="reported" content="thought" level="2"> Dies <seg id="51" type="intExpr">hoffen</seg> <seg id="51" type="speaker">wir</seg> insbesondere durch die Bildung vonGauverbändenzu erreichen</said>, für welche wir mit Ihrer
+                        Zustimmung in der heurigen Jahresversammlung eine gesetzliche Grundlage zu schaffen bemüht sind.
+                        
+                   
+                  <seg id="56" type="frame" pos="start">Für die frei gewordenen Stellen <seg id="56" type="intExpr">schlagen</seg>
+                        <seg id="56" type="speaker">wir</seg> Ihnen <seg id="56" type="intExpr">vor</seg>:</seg>
+                         
+                  <said id="56" mode="direct" content="speech" level="2">Für die Ausschußstelle den durch seine bisherige öffentliche Thätigkeit bewährten Dr.Rudolf
+                        Proksch,Hof- und Gerichtsadvocaten in Wien,
+                        für die Aufsichtsrathsstelle Dr.Alexander
+                        Eger,k. k. Hofrath und Director der Nordwestbahn, der unserem Vereine in früheren Jahren als Ausschußmitglied und seither als Mitglied des Schiedsgerichtes angehörte; endlich für
+                        die Stelle im Schiedsgerichte den, sich der Sympathien der gesammten Bevölkerung von Wien
+                        erfreuenden Dr.Raimund Grübl,bis vor
+                        kurzem Bürgermeister von Wien.</said>
+                  So gerüstet treten wir die uns in dem laufenden Jahre obliegenden Arbeiten mit Zuversicht
+                        und frohem Muthe an.
+                  Hiebei dient es uns namentlich zur Aufmunterung, daß Sie in Ihrer überwiegenden
+                        Mehrheit seit dem Anbeginn unserer Thätigkeit
+                        und noch im letzten Jahre in Olmütz mit dem
+                        Curse, in welchem unser Vereinsschiff gesteuert
+                        wird, vollkommen einverstauden sind.
+                  Ohne Ihnen untreu zu werden, <seg id="52" type="frame" pos="start">dürfen <seg id="52 53" type="speaker">wir</seg>
+                        daher auch nicht daran <seg id="52" type="intExpr">denken</seg></seg>,<said id="52" mode="indirect" content="thought" level="2" nonfact="yes"> <said id="53" mode="reported" content="thought" level="3" nonfact="yes">jene Grundsätze,
+                        von welchen wir uns mit Ihrer Zustimmung bisher in der Führung des Vereines leiten ließen,
+                        zu <seg id="53" type="intExpr">verleugnen</seg></said></said> und dadurch eine Schwächung unserer gutgefügten Organisation herbeizuführen.
+                  <seg id="54" type="frame" pos="start">Zum Schlusse <seg id="54" type="intExpr">rufe</seg> <seg id="54" type="speaker">ich</seg> Ihnen, aber auch den
+                        heute noch außerhalb des Deutschen Schulvereines stehenden Deutschen Oesterreichs, <seg id="54" type="intExpr">zu</seg>:</seg>
+                         
+                 <said id="54" mode="direct" content="speech" level="2"> Lassen wir unsere Blicke nicht durch Streit
+                        über untergeordnete Fragen von dem ablenken,
+                        was demveutschen Volke in Oesterreich
+                        noth thut, vereinigen wir uns vielmehr imDienste
+                        unseresherrlichen Volkeszu gemeinsamer
+                        Arbeit, auf daß immerdar feststehe undtreu die
+                        Wacht in der deutschen Ostmark.</said></said>(Stürmischer nicht endenwollender Beifall.)
+                         
+               
+               
+                  
+                     Der Rechenschaftsbericht des Zahlmeisters Dr. Maresch.
+                        
+                  
+                  <said id="57" mode="reported" content="speech" level="1">Hierauf <seg id="57" type="intExpr">erstattete</seg> der zweite Zahlmeister
+                        <seg id="57 58" type="speaker">Dr.Rudolf Mareschden</seg> <seg id="57" type="intExpr">Bericht</seg> über
+                        dieGeldgebahrungim Jahre 1894</said>
+                       <said id="58" mode="reported" content="speech" level="1"> und <seg id="58" type="intExpr">erörterte</seg> eingehend die Thätigkeit der
+                        matice školska.</said>
+                        
+                   
+                 <seg id="59" type="frame" pos="start"> <seg id="59" type="speaker">Redner</seg> <seg id="59" type="intExpr">sagt</seg>, nachdem er die von uns bereits
+                        veröffentlichtefinancielle Gebahrungdes
+                        Deutschen Schulvereinsdargelegt hatte,
+                        Folgendes:</seg>
+                         
+                  <said id="59" mode="direct" content="speech" level="1"><seg id="60" type="frame" pos="start"><seg id="60" type="speaker">Wir</seg> sind leider genöthigt <seg id="60" type="intExpr">auszusprechen</seg>, </seg><said id="60" mode="indirect" content="speech" level="2">daß
+                        die erhoffte dauernde Festigung unserer Finanzen
+                        noch nicht erreicht ist, daß daher eine unentwegte
+                        Thätigkeit unserer Mitglieder in der Herbeischaffung von Mitteln nicht entbehrt werden kann,
+                        soll die Erhaltung unserer Schöpfungen gesichert
+                        sein und uns ein Ueberschuß zur Entfaltung neuer
+                        Thätigkeit verbleiben.</said>
+                  Besondere Aufmerksamkeit wäre seitens unserer
+                        Ortsgruppen insbesondere der Pflege der ordentlichen Einnahmen zu widmen, der Aufrechthaltung
+                        des Mitgliederstandes, durch Ersatz natürlichen
+                        Abfalles mittels Werbung neuer Mitglieder und
+                        der regelmäßigen Veranstaltung einträglicher Unternehmungen.
+                  Die Ihnen heute vorliegenden Anträge wegen
+                        Bildung von Gauverbändenzeigen einen
+                        Weg, auf dem auch eine Stärkung unserer Finanzen möglich wird.
+                  Die mit der Gauverbands-Thätigkeit verbundene eingehendere Erkundung der Verhältnisse
+                        an den Sprachgrenzen und in den bedrängten
+                        Gebieten, wird auf das nationale Pflichtgefühl,
+                        das, ferne vom Schusse, einzuschlummern droht,
+                        belebend wirken und angesichts der drohenden
+                        Gefahr den Weckruf zur Abwehr so laut schallen
+                        lassen, daß darob die Schläfer erwachen, und unter
+                        Verzicht auf Sonderbestrebungen sich alle Stammesgenossen wieder die Hand reichen, darin wenigstens einig: dem gemeinsamen Feinde auch gemeinsam gegenüberzutreten.</said> (Großer Beifall.)
+                         
+               
+               
+                  
+                     Aus dem Berichte des ersten Obmann-Stellvertreters Dr. Victor v.
+                        Kraus.
+                        
+                  
+                  <seg id="61" type="frame" pos="start">Der erste Obmann-Stellvertreter <seg id="61" type="speaker">Dr. Victor
+                        vonKraus</seg><seg id="61" type="intExpr">berichtet</seg> Namens der Schulverwaltung u. A. Folgendes:</seg>
+                         
+                  <said id="61" mode="direct" content="speech" level="1">Auch in diesem Jahre rechtfertigte der Gang
+                        der öffentlichen Dinge und die wachsende Gleichgiltigkeit in allen den nationalen Besitzstand berührenden Fragen, beides nicht ohne Einfluß auf
+                        den um mehr als 9000 fl. verminderten Cassaerfolg, die weitgehendste Zurückhaltung und die
+                        Scheu der Schulverwaltung, durch neue belastende
+                        Unternehmungen die Sorgen unseres Zahlmeisters
+                        zu vergrößern. Dem Stillstand im Centrum unseres Vereinslebens stand jedoch erfreulicherweise
+                        ein unverkennbarer Aufschwung in den Gebieten
+                        der demnächst zu bildenden Gauverbände gegenüber. — Eine vergleichende Uebersicht der Leistungen des abgelaufenen und des vorangehenden
+                        Verwaltungsjahres ergibt Folgendes: Die Zahl
+                        der Vereinsschulen ist von 29 mit 69 Classen
+                        auf 28 mit 67 Classen gesunken. Doch stellt dies
+                        keine Verschlechterung unseres Standes dar. Die
+                        Zahl der Vereinskindergärten — 44 mit 50 Abtheilungen — ist im Vergleich mit dem Vorjahre
+                        dieselbe geblieben. Während der Kindergarten zu
+                        Přivosin Mähren durch Uebernahme von
+                        Seite der Gemeinde aus den Vereinskindergärten
+                        ausschied, wurde zu Třemoschna bei Pilsen ein
+                        Kindergarten errichtet. Hiemit erscheint eine in
+                        der Thätigkeitsübersicht geschehene Auslassung verbessert. Den 47 subventionirten Schulen des
+                        Vorjahres stehen heuer 42, u. zw. fortlaufende
+                        Subventionen 30, neu erfolgte Bewilligungen
+                        12 gegenüber.
+                  Dagegegen ist die Zahl der Schulsubventionen von 24 im Vorjahre auf 11 in diesem
+                        Jahre, sowie ferner die Zahl der im Vereinseigenthum befindlichen Schulbauten von 31 im
+                        Vorjahre auf 30 in diesem Jahre gefallen,
+                        während die Zahl der für Schulzwecke erworbenen Realitäten — circa 20 — die gleiche blieb.
+                  Zweifellos ist unserer Gebahrung die auf
+                        weiter gesteckte Ziele gerichtete und angesichts
+                        der wachsenden nationalen Gefahr zu steigernde
+                        Spannkraft abhanden gekommen. Sie durch
+                        Satzungsänderungen und derlei kleine, von dem
+                        Berichterstatter persönlich übrigens gerne zugestandene Mittel neuerlich erlangen zu wollen,
+                        verräth von geringer Einsicht in den Zusammenhang der Dinge. Das Uebel steckt viel tiefer.
+                        Es wurzelt in der anationalen deutschen Denkweise, die sich einmal in dem unverhüllten Haß
+                        unserer Stammesgenossen gegen unsere nationale
+                        Arbeit, das anderemal in der unausrottbaren
+                        Gleichgiltigkeit der großen Massen in Dingen
+                        der nationalen Ehre, das drittemal in der Absonderlichkeit jener Freunde äußert, <said id="62" mode="reported" content="thought" level="2"><seg id="62 63" type="speaker">die</seg> uns statt
+                        durch Mittragen der Last und Darreichung materieller Opfer <said id="63" mode="reported" content="speech" level="2">durch oft unzeitgemäße, vor dem
+                        nationalen Gegner bloßstellende und recht billige
+                        <seg id="63" type="intExpr">Rathschläge</seg></said> zu helfen <seg id="62" type="intExpr">glauben</seg>. </said>Wie wenig umgekehrt bei dem Slaven innerhalb des nationalen
+                        Empfindens Raum bleibt für die aus den zahlreichen politischen und wirthschaftlichen Strömungen sich ergebenden Gegensätzlichkeiten, <seg id="64" type="frame" pos="start">das hat
+                        der Obmann derNárodni <seg id="64" type="speaker">Jednota Severočes</seg>kazu Pfingsten 1894 in Laun mit folgenden
+                        <seg id="64" type="intExpr">Worten</seg> dargelegt:</seg> <said id="64" mode="direct" content="speech" level="2">„In der Vertheidigung (der
+                        bedrohten Brüder) werden wir nicht nachlassen,
+                        weil sie die Vertheidigung unserer Nationalität ist.
+                        In unseren Ortsgruppen finden alle Parteien Platz,
+                        weil die Vertheidigung unserer Nationalität Sache
+                        
+                     unserer aller ist ohne Unterschied der politischen Ueberzeugung. Allein wir dürfen in unseren Kampf
+                        auch keine Ständeunterschiede mischen. Wir alle
+                        sind Mitglieder einer Familie, haben gleiche
+                        Rechte, aber auch gleiche Pflichten.“</said> Dem entspricht auch der Character der slavischen Schulvereinsarbeit. Wir heben die mächtige Förderung
+                        der slavischen Mittelschulbewegung in Mähren, die
+                        Thätigkeit der Ausschüsse zur Erbauung eines
+                        Hauses für das inHohenstadtzu errichtende
+                        tschechischeGymnasium,zur Errichtung böhmischer Mittelschulen inMistekundFriedek
+                        hervor. September 1894 eröffnete dieMaticezu
+                        Göding eine tschechische Realschule sofort mit
+                        Parallelclassen. Die Direction der Anstalt übernahm ein k. k. Professor aus Brünn, dem der
+                        Unterrichtsminister zu diesem Behufe sofort bereitwilligst Urlaub gewährte. Es war noch kein Jahr
+                        vergangen, als die Anstalt von der obersten Unterrichtsbehörde mit dem Oeffentlichkeitsrechte ausgestattet wurde.</said> <said id="65" mode="direct" content="speech" level="1">(Hört! Hört!)</said>
+                         
+                  Für dieErrichtung einer slavischen
+                        UnterrealschuleinLeipnikwird, nachdem
+                        ein hochherziger Spender in Prag 10.000 fl. geopfert hatte, eifrig fortgesammelt. Derselbe Spender
+                        hat weitere 10.000 fl. einer slavischen Handelsschule in Brünn gewidmet. Der Opferwilligkeit
+                        einer anderen Persönlichkeit verdankt die Vereinsschule zu Iglan ein jetzt fertiggestelltes Gebäude,
+                        in welches 2 Abtheilungen des Kindergartens
+                        und die slavische gewerbliche Fortbildungsschule
+                        einziehen werden. Dabei bleibt noch Raum für
+                        weitere Unternehmungen. Den Witkowitzern wurde
+                        statt der erbetenen 2classigen eine 3classige Volksschule zugesichert und im Berichtsjahre als 4classige
+                        Schule sammt Parallelclasse und einer Baumschule eröffnet.
+                  <said id="66" mode="reported" content="speech" level="1"><seg id="66" type="speaker">Redner</seg> <seg id="66" type="intExpr">schildert</seg> nun eingehend die Thätigkeit derMatice školskaund der übrigen Slavisirungsvereine. </said>Die nationale Opferwilligkeit
+                        der Tschechen wird am besten durch folgende <seg id="68" type="intExpr">Mittheilungen</seg> des <seg id="68" type="speaker">Maticeberichtes</seg> gekennzeichnet: Ein
+                        Sommerfest in Prag 1894 zu Gunsten derMatice
+                        brachte einen Reinertrag von 18.000 fl. Die
+                        gläserne Sammelbüchse im Schaufenster der Prager Kanzlei füllte sich durch Kreuzerspenden der
+                        Passanten in 2 Jahren mit 1390 fl. Die amerikanischen Tschechen sendeten im letzten Jahre
+                        1940 fl. Wir anerkennen diese Stammessolidarität,<said id="67" mode="reported" content="writing" level="1"> trotzdem slavische und leider auch deutsche
+                        <seg id="67" type="speaker">Blätter</seg> nicht müde werden, auf das „preußische
+                        Geld“ in gehässiger Weise zu <seg id="67" type="intExpr">zeigen</seg>, wenn unsere Stammesbrüder im Reiche bald da, bald dort
+                        recht wirksam unsere Thätigkeit durch Spenden
+                        fördern. </said>Von der den Privatschulen Böhmens
+                        zugewiesenen Landessubvention von 20.000 fl.
+                        kam der Löwenantheil von 12.180 fl. den Maticeschulen zu.
+                  Zu unserem Thätigkeitsbericht zurückkehrend,
+                        gen vereinzelte Beobachtungen Sie über den
+                        Gang unserer Arbeit und unsere nächsten Ziele
+                        orientiren.
+                  Trotz unerhörter Agitation unter Intervention der Gendarmen am Einschreibungstage ist die
+                        Zahl der Kinder an der deutschen 2classigen Schule
+                        zuSchüttenhofenauf 157 gestiegen.
+                        Man hat auf dem Weg zur Schule buchstäblich den Eltern die Kinder aus der Hand
+                        gerissen. Dennoch sitzen im engen für kaum 30
+                        berechnetem Raume 70 Kinder in der eesten, und
+                        im Raume für 54 Kinder 87 in der zweiten
+                        Classe beisammen und spotten die nöthigen Nebenräume jeglicher Sitte Hohn. Als Muster, wie
+                        auch anderwärts diese Agitation publicistisch unterstützt wurde, <seg id="68" type="frame" pos="start">sei eine Stelle des„<seg id="68" type="speaker">Podřipan</seg>,“Organs des Bürgermeisters von Raudnitz, vom
+                        September 1894, <seg id="68" type="intExpr">mitgetheilt</seg>:</seg> <said id="68" mode="direct" content="writing" level="1">„<seg id="71" type="frame" pos="start">Der <seg id="71 70 72" type="speaker">Bürgermeister</seg>
+                        hat es für gut <seg id="71" type="intExpr">befunden</seg>,</seg> <said id="71" mode="indirect" content="thought" level="2" border="yes"><said id="70" mode="reported" content="speech" level="3">mit den <seg id="70" type="speaker">Eltern</seg> solcher
+                        Kinder</said> (welche die deutsche Schule besuchen wollen),
+                       <said id="70" mode="reported" content="speech" level="3"> ganz aufrichtig zu <seg id="70" type="intExpr">sprechen</seg></said> <seg id="72" type="frame" pos="start">und sie zu <seg id="72" type="intExpr">belehren</seg>,
+ </seg>                       <said id="72" mode="indirect" content="speech" level="3">wie sie ihre Kinder schädigen würden, wenn sie
+                        sie aus der hiesigen Bürgerschule herausnehmen
+                        und sie (der deutschen Sprache wegen) in eine
+                        niedrigere deutsche Schule einschreiben ließen.</said> </said>Wir
+                        constatiren mit Freude, daß bei der Mehrzahl
+                        der Eltern die vernünftigen Gründe des Bürgermeisters volles Verständniß fanden und die erwartete Wirkung hatten, und daß nur etwa in
+                        4 Fällen alle Auseinandersetzungen des Bürgermeisters ohne Wirkung blieben. <said id="73" mode="reported" content="speech writing" level="2" nonfact="yes">Die Namen der
+                        betreffenden Eltern werden <seg id="73" type="speaker">wir</seg> nach der heurigen
+                        Einschreibung der Oeffentlichkeit <seg id="73" type="intExpr">mittheilen</seg>.</said>“</said> In
+                        der That folgten bald Name und Beruf der
+                        betreffenden Eltern,<said id="74" mode="direct" content="writing" level="1"> „die sich in trauriger Weise
+                        durch Hartnäckigkeit hervorthaten, mit der sie das
+                        Alleinseligmachende der deutschen Sprache und das
+                        wunderbare Wirken der 1classigen deutschen Schule
+                        vertheidigen.“</said> Der Versuch, unsere Schule zu
+                        Wittuna der öffentlichen Verwaltung zu unterstellen, ist bis zur Stunde ohne Erfolg geblieben.
+                  Seitdem die deutsche Schulexpositur in
+                        Neuroshosna nach Erbauung unseres Schulhauses
+                        daselbst eröffnet wurde, mehren sich die Drangsalirungen der Deutschen in unerhörter Weise.
+                        <said id="75" mode="reported" content="speech" level="1">Von der Kanzel herab wird von dem Pfarrer
+                        gegen das Deutsche <seg id="75" type="intExpr">gewettert</seg></said> und am 14. Nov.
+                        1894 wurden vom böhmischen Ortsschulrathe zu
+                        Rohosna 21 Parteien aus Neurohosna vorgeladen und unter Bezug auf einen angeblichen
+                        Erlaß der Bezirkshauptmannschaft zu Policka
+                        <said id="76" mode="reported" content="speech" level="1">zwangweise zur Unterfertigung eines Protokolles
+                        <seg id="76" type="intExpr">verhalten</seg></said>, nach welchem sie ihre Kinder nicht mehr
+                        in die deutsche Schule schicken dürfen. Wie kampfesmuthig der dortige Pfarrer sich seinen deutschen
+                        Pfarrkindern gegenüberstellt, <seg id="77" type="frame" pos="start">bezeugt <seg id="77" type="speaker">seine</seg> <seg id="77" type="intExpr">Aeußerung</seg>: </seg><said id="77" mode="direct" content="speech" level="1">„Eher soll man über meine Leiche hinwegschreiten, bevor ich im Kampfe zur Vernichtung
+                        der deutschen Schule nachlasse. Wir Tschechen
+                        stehen auf der Wacht und werden nicht eher ruhen,
+                        bis die ganzeZwittauer Sprachinselzurückerobert ist.“</said> Das geschieht in einem Orte,
+                        dessen Weber jährlich an 45.000 fl. Arbeitslohn
+                        vom deutschen Zwittau ausgezahlt erhalten.
+                  Die Priesterfrage wird in den Sudetenländern von Jahr zu Jahr brennender, sie nimmt
+                        übrigens auch in Kärnthen und Unter-Steiermark
+                        eine dem Deutschthum wenig zuträgliche Gestalt
+                        an. ImOlmützer fürsterzbischöflichen
+                        Seminar waren 1893unter 202 Alumnen
+                        nur 37 Deutsche, welche für die in Betracht
+                        kommenden mehr als 500.000 deutschen Pfarrkinder kaum als genügender Nachwuchs in der
+                        Seelsorge gelten können. In einer Diöcese, in
+                        der der Sprosse einesuralten reichsdeutschen Grafengeschlechtes,der DomherrPötting-Persingdie Mittel bot, mit
+                        denen im Sommer 1894 der Bau einesslavischen Mädcheninstitutes in Olmütz
+                        begonnen wurde und<seg id="78" type="frame" pos="start"> <seg id="78" type="speaker">der</seg> die Danksagung von
+                        68 tschechischen Gemeinden des Bezirkes mit den
+                        <seg id="78" type="intExpr">Worten</seg> erwiderte:</seg> <said id="78" mode="direct" content="speech" level="1">„So handle ich aus Nationalbewußtsein, wie es mein Volksthum mir als
+                        einem Tschechen befiehlt, so handle ich aus Pflicht,
+                        wie es mir meine Pflicht als Standesherr des
+                        Königreiches Böhmen auferlegt“</said> (<seg id="79" type="frame" pos="start"><seg id="79" type="intExpr">Rufe</seg>:</seg> <said id="79" mode="direct" content="speech" level="1">Hört!
+                        Hört!</said>) <said id="80" mode="reported" content="speech" level="1">und dessen Erzbischof <seg id="80" type="speaker">Dr.Kohntrotz</seg>
+                        alles Liebeswerbens deutscher Abgeordneter sich
+                        bei der Angelobuug im Landtag der tschechischen
+                        <seg id="80" type="intExpr">Sprache</seg> bediente. </said>Ebenso nimmt das deutsche
+                        Element in Böhmens Klostergeistlichkeit fortgesetzt
+                        ab. Nicht blos die angebliche Abneigung der
+                        Deutschen gegen den geistlichen Beruf, das bekannte
+                        Martyrium des Deutschen in der Schaar der
+                        slavischen Seminargenossen, sondern auch die heuer
+                        constatirte Weigerung, Deutsche der slavischen
+                        Sprache nicht mächtige Abiturienten aufzunehmen,
+                        tragen dazu bei.
+                  Die Strahower Prämonstratenser können in
+                        ihre stärkste StationIglaunicht einen deutschen
+                        Priester senden; ihr Noviciat ist fast ausschließlich slavisch. Nicht anders ist es in Braunau bestellt. Wegen Einführung slavischen Gottesdienstes
+                        und Kirchengesanges ist es auch in diesem Jahre
+                        an Orten des geschlossenen Sprachgebietes wiederholt zu heftigen Conflicten zwischen den Gemeinden und der kirchlichen Behörde gekommen.
+                  Auch in diesem Jahre wurde der in allen
+                        Zweigen des öffentlichen und wirthschaftlichen
+                        Lebens organisirte Ansturm des Nordslaventhums
+                        gegen das deutsche Gebiet mit ungeschwächter Kraft
+                        fortgeführt. Das„Svnj k svému“auf wirthschaftlichem Gebiete steht noch in voller Blüthe.
+                        <seg id="81" type="frame" pos="start">Vereinzelte <seg id="81" type="intExpr">Klagen</seg>, wie die der<seg id="81" type="speaker">Narodni Jednota
+                        Severočes</seg>kaim Sommer 1894</seg>, über geringe
+                        Hilfsbereitschaft bei <said id="81" mode="direct" content="speech writing" level="1">„den Leiden der armen Mitbrüder“</said> im deutschen Sprachgebiet können uns
+                        über den Ernst der Lage nicht hinwegtäuschen.
+                        Wenn sich die tschechische Lehrerschaft des Leitomischler Bezirkes einen 10% Gehaltsabzug zu
+                        Gunsten des obgenannten Tschechisirungsvereines,
+                        derMatice školska,des Wiener KomenskyVereines und des Bolzano’schen Waisenhauses
+                        freiwillig auferlegt, wenn vom Stadtamt in
+                        Jaromeř von allen in Geschäftsräumen aufgehängten Placaten zu Gunsten derMatice
+                        školskaStampigle-Gebühren von 20—60 kr.
+                        eingehoben und nur so bestempelte Placate in
+                        öffentlichen Localen zugelassen werden, so sind
+                        das Symptome einer gegentheiligen Absicht. Es
+                        gilt, den Wahn des geschlossenen deutschen Sprachgebietes längs der ganzen Umwallung zu zerstören. Es vergeht kein Tag, an dem die tschechischen
+                        <seg id="82" type="speaker">Blätter</seg> nicht Kundmachungen der Tschechisirungsvereine veröffentlichen würden,<said id="82" mode="reported" content="writing" level="1"> in denen der
+                        Ankauf verschiedener Realitäten im deutschen
+                        Sprachgebiet oder die Niederlassung von Handelsund Gewerbetreibenden daselbst den tschechischen
+                        Pionnieren <seg id="82" type="intExpr">empfohlen</seg> wird. </said>Da wird unter
+                        Zusicherung von Unterstützung selbst der kleinste
+                        Gewerbebetrieb ins Auge gefaßt. Es ist dies
+                        eine fortgesetzte und desto wirksamere praktische<said id="83" mode="direct" content="writing" level="1"> „Kleinarbeit“</said>, die sich nicht bei allgemeinen Phrasen von der Reinheit der Rasse
+                        oder ein besseres oder schlechteres Tschechenthum
+                        aufhält. Angesichts der Erfolge wächst auch der
+                        Siegesmuth.<seg id="84" type="frame" pos="start">„<seg id="84" type="speaker">Hlasy z Podř</seg>“<seg id="84" type="intExpr">schreibt</seg>:</seg> <said id="84" mode="direct" content="writing" level="1">„Wir
+                        sagen aufrichtig, die Wiedereroberung des Leitmeritzer Gebietes für das tschechische Volk, des
+                        schönen Leitmeritzer Gebietes, welches vor 100
+                        Jahren noch tschechisch war und uns heute mit
+                        deutschen Händen würgt, sollte die heilige Mission
+                        des Riper Gaues sein, welcher neidvoll auf das
+                        Vordringen des tschechischen Elementes im Süden
+                        Böhmens, auf die fortwährenden Siege der nichts
+                        weniger als wohlhabenden südböhmischen Tschechen
+                        im Budweiser Gebiete blicken muß.“</said> <said id="85" mode="reported" content="writing" level="1">In der That
+                        <seg id="85" type="intExpr">vergleicht</seg> die<seg id="85" type="speaker"> „Politik“</seg> 1894 Budweis mit dem
+                        versinkenden Vineta.</said> Es müsse wieder böhmisch
+                        werden, ebenso wie das gesammte Südböhmen bis
+                        nach Weitra ins Oesterreichische hinein.
+                  Auch dasKuhländcheninMähren
+                        gilt als rechtmäßiges Eigenthum der Slaven. Im
+                        Mai 1894 erschien in Neutitschein ein Aufruf
+                        zur Erbauung eines „Narodni dům“<seg id="86" type="frame" pos="start"> mit folgender <seg id="86" type="intExpr">Einleitung</seg>: </seg><said id="86" mode="direct" content="writing" level="1">„Der hundertjährige Kampf des
+                        tschechischen Volkes um die Vertheidigung seiner
+                        Existenz ist bis jetzt nicht ausgekämpft .....
+                        Unser durch das uebergewicht an Zahl und
+                        Capitalskraft mächtigere Urfeind stürmt mit erhöhter Kraft und unter Anspannung der letzten
+                        Kräfte heran, um uns den mit dem Blute
+                        unserer Vorfahren besprengten und schwer vertheidigten heiligen Boden zu entreißen. Durch Gewalt, Corruption und Terrorismus wird uns der
+                        Boden entzogen, auf welchen wir durch Tradition
+                        und Geschichte ein Anrecht haben.“</said> Das hinderte
+                        im reindeutschen Neutitschein Mai 1894 den dortigen Bezirkshauptmann nicht, bei Eröffnung der
+                        dortigen Beseda zu erscheinen und <said id="87" mode="reported" content="speech" level="1"><seg id="87" type="speaker">sein</seg> Glas in
+                        polnischer <seg id="87" type="intExpr">Sprache</seg> dem Gedeihen der Beseda zu
+                        widmen</said> und nicht den neuernannten Kreisgerichtspräsidenten daselbst, <said id="88" mode="direct" content="speech" level="1">die Sommerschwurgerichtsperiode 1894 mit einer tschechischen <seg id="88" type="intExpr">Ansprache</seg> an
+                        die Geschworenen zu eröffnen.</said> In Iglau ist im
+                        Sommer 1894 das tschechische Vereinshaus mit
+                        einem Kostenaufwand von 65.000 fl. fertiggestellt
+                        worden, inOlmützverhandelten 53 Gemeinden der Umgebung über die Beschaffung eines
+                        Capitals von 300.000 fl. zurErrichtung
+                        eines tschechischen Actienbräuhauses
+                        daselbst. Die<seg id="89" type="speaker">„Narodni Jednota severočeska“</seg>,
+                        welche sich die Hebung des <said id="89" mode="reported" content="writing" level="1">„tschechisch-nationalen
+                        Lebens in politischer, wirthschaftlicher und cultureller Beziehung“</said> zur Aufgabe stellte, unterhielt
+                        mit ihren 200 Ortsgruppen eine zielbewußte
+                        Minierarbeit auf deutschem Sprachboden. <seg id="90" type="frame" pos="start">An
+                        die Gruppen ergingen vom <seg id="90" type="speaker">Centrum</seg> eigene Instructionen mit der <seg id="90" type="intExpr">Anweisung</seg>,</seg> <said id="90" mode="indirect" content="speech" level="1">wie gearbeitet
+                        werden solle.</said> In der Judenfrage wird ein rein
+                        practischer Standpunct eingenommen. Gefügige
+                        Elemente werden als werthvolle Bestandtheile des
+                        slavischen Volkes mit Freuden begrüßt und die
+                        Bestrebungen zur Bildung tschechisch-jüdischer Vereinigungen lebhaft befördert. (<seg id="91" type="frame" pos="start"><seg id="91" type="intExpr">Rufe</seg>:</seg> <said id="91" mode="direct" content="speech" level="1">Hört,
+                        Hört!</said>) Wer die Wege der Slaven vom
+                        deutschnationalen Standpunkte kreuzt, muß der
+                        heftigsten Angriffe gewärtig sein. Hat doch
+                        ein slavischer Abgeordneter des mährischen
+                        Landtages den um Nordmähren hochverdienten
+                        Wilhelm Braßin Hohenstadt
+                        gütig st
+                        gütigst
+                     die
+                        Anweisung einer Zelle in der Strafanstalt
+                        Mürau zugedacht. (<said id="92" mode="reported" content="speech" level="1">Stürmische <seg id="92" type="intExpr">Pfui-Rufe</seg>.</said>) <seg id="93" type="frame" pos="start">Nach
+                        den <seg id="93" type="intExpr">Worten</seg> des Prager Vicebürgermeisters <seg id="93" type="speaker">Dr.
+                        Podlipny</seg></seg> <said id="93" mode="indirect" content="speech" level="1">muß Groß Prag, eingedenkt seiner
+                        glorreichen Vergangenheit, einmal ein großes
+                        tschechisches Prag werden.
+ </said>                 <said id="94" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="94" type="speaker">Man</seg> ist bei der Zerfahrenheit der Deutschen
+                        und angesichts der Thatsache, daß sich bestimmte
+                        politische Richtungen ausschließlich das Vorrecht
+                        
+                     
+                     nationaler Gesinnungstüchtigkeit vindiciren, endlich
+                        unter dem Einflusse eines jeglichen nationalen
+                        Aufschwung erdrückenden Systemes über die
+                        zweckentsprechende Wahl zulässiger Mittel zur
+                        Abwehr im deutschen Lager noch nicht<seg id="94" type="intExpr"> klar geworden</seg>. </said>Daß unsere Jugend für ihre dereinstige
+                        Wirksamkeit bei Amt und Gericht und in sonstigen öffentlichen Stellungen sich der Kenntniß der zweiten Landessprache erfreuen möge,
+                        dafür erheben sich immer mehr gewichtige Stimme
+                        in BöhmenMähren,Schlesien und der Steiermark. Es ist jedoch ein beklagenswerthes Symptom der durch unsere jetzige Aera wieder gezeitigten deutschen Vertrauensseligkeit, <said id="95" mode="reported" content="speech" level="1">daß im Sommer 1894 abermals ein <seg id="95" type="intExpr">Vorschlag</seg> zu Gunsten
+                        einer durchgreifenden Utraquisirung unserer Schulen
+                        und wohl auch unserer ganzen Lebensführung
+                        gemacht wurde.</said> Speciell in Böhmen hieße das,
+                        dem compacten slavischen Sprachgebiete über kurz
+                        oder lang ein durchsetzendes national-ohnmächtiges
+                        sprachlich gemischtes anzugliedern, der tschechischen
+                        Propaganda auf deutschem Boden die Thüre zu
+                        öffnen, und damit selbst mit gebundenen Händen
+                        den letzten Act des nationalen Dramas, der uns
+                        die triumphirende Slavia im Wenzelreiche
+                        vorführt, mitvollenden zu helfen. Obwohl bei den
+                        Gemeindewahlen unterlegen, haben sich die Deutschen von Trebnitz, des „deutschen Numantia“ im
+                        schweren Kampfe muthig behauptet.
+                  Redner schildert nun die Thätigkeit der
+                        Slovenen. <said id="96" mode="direct" content="speech" level="1">Nicht ohne Zagen trete ich</said><seg id="96" type="frame" pos="mid">, <seg id="96" type="intExpr">sagt</seg> <seg id="96" type="speaker">Redner</seg>,</seg>
+                        <said id="96" mode="direct" content="speech" level="1">in diesem Augenblicke an das verschleierte Bild
+                        von Sais, an die Cillier Frage, heran.</said><seg id="97" type="frame" pos="start">Das
+                        <seg id="97" type="intExpr">wissen</seg> <seg id="97" type="speaker">alle</seg> Deutschen nördlich und südlich der
+                        Donau,</seg><said id="97" mode="indirect" content="thought" level="1"> daß es sich hier gar nicht mehr um die
+                        simple Gymnasialfrage dreht. </said>Das Schicksal stellt
+                        Völker und Nationen auch vor Aufgaben von
+                        scheinbar nichtssagender Tragweite.<seg id="98" type="frame" pos="start"> Nach <seg id="98" type="speaker">meiner</seg>
+                        <seg id="98" type="intExpr">Meinung</seg></seg> <said id="98" mode="indirect" content="thought" level="1">wird esein Prüfstein sein</said>—
+                        darauf kommt es an — <said id="98" mode="indirect" content="thought" level="1">ein Prüfstein darüber,
+                        ob wir die nationaleNackensteife wirklich
+                        endgiltig verloren habenoder ob wir
+                        noch jenes Maß von Unbeugsamkeit besitzen, die
+                        niemals zu faulen Declamationen, unwahren
+                        Scheingefechten und halben Schritten, nöthigenfalls
+                        zur letzten entscheidenden That führt. </said><said id="99" mode="direct" content="speech" level="1">(Bravo.)</said>
+                         
+                  In die ernste Betrachtung der unser Vereinsleben beherrschenden Zustände theilen wir uns
+                        mit so manchem treuen Mitarbeiter in den Ortsgruppen.
+                  Wir schließen unsere Betrachtungen, die
+                        Ihnen in Bescheidenheit Rechenschaft ablegen
+                        sollen über die von uns im letzten Jahre vollbrachte Arbeit. Wenn wir auch Weniges erreichten, so billigen Sie uns vielleicht doch die Ungunst
+                        der Umstände, die Kraft der zahlreichen Gegnerschaft, die Schwäche im eigenen Lager, als Entlastungsgründe zu. Mehr kommt es darauf an,
+                        ob Sie den Gesichtspunkt, unter dem wir die
+                        uns umgebenden nationalen Erscheinungen betrachtet haben, als den richtigen anerkennen. <seg id="100" type="frame" pos="start"><seg id="100" type="speaker">Wir</seg>
+                        <seg id="100" type="intExpr">meinen</seg>: </seg><said id="100" mode="direct" content="thought" level="1">schwer würde es für jeglichen nationalen
+                        Schutzverein, deshalb auch für den deutschen
+                        Schulverein, Nutzbringendes zu schaffen, wenn
+                        sich — was Gott verhüte — <seg id="101" type="frame" pos="start">des <seg id="101" type="speaker">Dichters</seg> <seg id="101" type="intExpr">Wort</seg>
+                        erfüllen sollte:</seg>
+                         
+                  
+                     <said id="101" mode="direct" content="speech" level="2">„Ein Land von Viertel- und von halben Tschechen,
+                        
+                     <said id="102" mode="reported" content="speech" level="3" nonfact="yes">Zwar können <seg id="102" type="speaker">sie</seg> noch nicht slavisch <seg id="102" type="intExpr">sprechen</seg></said>,
+                        
+                     Doch deutsch zu fühlen haben sie verlernt.“</said></said>
+                        
+                  
+                  (Stürmischer nicht endenwollender Beifall.)
+                         
+                  <said id="103" mode="reported" content="writing" level="1"><seg id="103" type="speaker">HerrWiesenburger</seg><seg id="103" type="intExpr">stattete</seg> hierauf
+                        Namens des Aufsichtsraches <seg id="103" type="intExpr">Bericht</seg>.</said>
+                  <said id="104" mode="reported" content="writing" level="1"><seg id="104" type="speaker">Dr.Schloffer</seg>(Graz) pries in begeisterten <seg id="104" type="intExpr">Worten</seg> der Anerkennung die aufreibende
+                        Thätigkeit der Vereinsleitung, auf deren Schultern die ganze Last ruhe und die hiefür noch oft
+                        Undank und auch Verleumdungen ernten.</said> Mit
+                        bewundernswürdiger Selbstaufopferung arbeiten
+                        sie im Dienste des Schulvereines und kämpfen
+                        unbeirrt für die Sache des deutschen Volkes, den
+                        Kampf gegen den ärgsten Feind, gegen den Indifferentismus in den eigenen Reihen. <seg id="105" type="frame" pos="start"><seg id="105" type="speaker">Er</seg> <seg id="105" type="intExpr">bat</seg>
+                        die <seg id="105 107 106" type="speaker">Versammlung</seg>,</seg> <said id="105" mode="indirect" content="speech" level="1">sich von den Sitzen zu erheben
+                        und der Vereinsleitung, insbesondere dem hochverdienten Dr. Weitlof <said id="106" mode="reported" content="speech" level="2" nonfact="yes">den wärmsten Dank <seg id="106" type="intExpr">auszusprechen</seg></said><seg id="107" type="frame" pos="start"> und sie zu <seg id="107" type="intExpr">bitten</seg>,</seg><said id="107" mode="indirect" content="speech" level="2" nonfact="yes"> in ihrer nationalen
+                        Arbeit nicht zu erlahmen</said> </said>(Stürmischer Beifall
+                        und <said id="108" mode="reported" content="speech" level="1"><seg id="108" type="intExpr">Hochrufe</seg>.</said>) Sodann wurde dem Gesammtausschusse einstimmig das Absolutorium ertheilt,
+                       <said id="109" mode="reported" content="speech" level="1"> für welchen Beweis des Vertrauens <seg id="109" type="speaker">Dr. Weitlof</seg>
+                        neuerlich <seg id="109" type="intExpr">dankte</seg>.</said>
+                  <said id="110" mode="reported" content="speech" level="1"><seg id="110" type="speaker">Herr Dr.Groß</seg>bringt die zahlreich eingelaufenen schriftlichen und telegraphischen Begrüßungen</said>, darunter solche vom Deutschen Böhmerwaldbund, Südmark (Graz), Dr. Schlesinger,
+                        Namens der Abgeordneten und Vertrauensmänner
+                        der Deutschen Böhmens, vom Vorstand des
+                        Landesverbandes Braunschweig (Hannover) vom
+                        Schubertbund (Wien) von verschiedenen studentischen
+                        Vereinen, vom Allgemeinen Deutschen Schulvein
+                        in Berlin, ferner von Falkenau, Reichenberg,
+                        Graz, Wiesbaden etc. etc.<said id="110" mode="reported" content="speech" level="1"> zur <seg id="110" type="intExpr">Verlesung</seg>.
+ </said>                <seg id="111" type="frame" pos="start"> Hierauf stellte der Vertreter der Ortsgruppe
+                        Hohenstadt<seg id="111" type="speaker">Herr HermannBraß</seg>nachstehenden <seg id="111" type="intExpr">Antrag</seg>:</seg>
+                         
+                  <said id="111" mode="direct" content="speech" level="1"><seg id="112" type="frame" pos="start">In <seg id="112" type="intExpr">Erwägung</seg></seg>,<said id="112" mode="indirect" content="thought" level="2" border="yes"> <said id="113" mode="reported" content="thought" level="3" border="yes">daß eine Belebung der
+                        Schulvereinsthätigkeit <seg id="113" type="intExpr">erwünscht</seg> und nothwendig
+                        ist</said> und daß alle Jahre Anträge von Ortsgruppen kommenin Sachen der Aenderung der Satzungen</said>,
+                       <seg id="114" type="frame" pos="start"> <seg id="114" type="intExpr">beschließt</seg> die <seg id="114" type="speaker">Hauptversammlung</seg>:</seg>
+                         
+                  <said id="114" mode="direct" content="thought" level="2" prag="yes">Die Hauptleitung wird ersucht
+                         
+                  1. <seg id="115" type="frame" pos="start">die Ortsgruppen zu <seg id="115" type="intExpr">befragen</seg>, </seg><said id="115" mode="indirect" content="speech" level="3" nonfact="yes"><said id="116" mode="reported" content="thought" level="4">welche
+                        Satzungsänderungenund sonstige Maßnahmen <seg id="116" type="speaker">selbe</seg> <seg id="116" type="intExpr">für</seg> nothwendig <seg id="116" type="intExpr">halten</seg></said></said>, um die
+                        Schulvereinsthätigkeit zu beleben,
+                         
+                  2. die Hauptleitung möge aus sich und den
+                        ihr bekannten warmen Freunden und eifrigen
+                        Arbeitern der Schulvereinssache einenverstärkten Ausschußbilden, <said id="117" mode="reported" content="speech" level="3" nonfact="yes"><seg id="117" type="speaker">der</seg> diese Fragen eingehend zu <seg id="117" type="intExpr">besprechen</seg> hat</said>,
+                         
+                  3. das Ergebniß dieser Berathungen ist dann
+                        einer ordentlichen Hauptversammlung oder
+                        aber besser einer zu diesem Zwecke einberufeneuaußerordentlichen Hauptversammlungzur Beschlußfassung vorzulegen.
+</said></said>                  <seg id="118" type="frame" pos="start">Obmann <seg id="118" type="speaker">Dr.Weitlof</seg><seg id="118" type="intExpr">erklärt</seg>,</seg> <said id="118" mode="indirect" content="speech" level="1">über diesen
+                        Antrag <said id="119" mode="reported" content="speech" level="2">die <seg id="119" type="intExpr">Debatte</seg> zu eröffnen.</said> vorerst aber
+                        müsse der Bericht über die durch die Gauverbandsleitung nothwendige Aenderung der Vereinssatzungen und über einen von der Ortsgruppe
+                        Deutsch-Jaßnik eingebrachten Antrag erfolgen.</said>
+                  <said id="120" mode="reported" content="speech" level="1"><seg id="120" type="speaker">Dr. v.Kraus</seg><seg id="120" type="intExpr">referirte</seg> sodann über die
+                        neuen Gausatzungen, welche auch über Antrag
+                        Apfel(Aussig)en bloceinstimmig angenommen wurden.</said>
+                  <seg id="121" type="frame" pos="start"><seg id="121" type="speaker">Dr.Wolfhardt</seg><seg id="121" type="intExpr">brachte</seg> hierauf Namens
+                        der Vereinsleitung den Antrag der Ortsgruppe
+                        Deutsch-Jaßnik<seg id="121" type="intExpr">zur Kenntniß</seg>:</seg> <said id="121" mode="direct" content="speech" level="1">„Die Satzungen des Deutschen Schulvereines seien dahin zu
+                        ändern, daß in Hinkunft den einzelnen Ortsgruppen das Recht eingeräumt werden möge,
+                        selbstständig über die Aufnahme von Mitgliedern
+                        in die Ortsgruppe zu verfügen.“</said>
+                         
+                  Nachdem auch dieser Antrag mit dem Bestreben, den Ortsgruppen eine regere Lebensthätigkeit einzuhauchen, motivirt wurde, <seg id="122" type="frame" pos="start">richtete der
+                        <seg id="122" type="speaker">Vorsitzende</seg> an den anwesenden Vertreter von
+                        Dentsch-Jaßnik die <seg id="122" type="intExpr">Anfrage</seg>,</seg> <said id="122" mode="indirect" content="speech" level="1">ob diese Ortsgruppe
+                        bei Annahme des AntragesBraßihren Antrag
+                        zurückziehen würde.</said> <said id="123" mode="reported" content="speech" level="1">Der Vertreter von Deutsch<seg id="123 124" type="speaker">Jaßnik</seg> <seg id="123" type="intExpr">erklärte</seg> sich hiemit einverstanden</said> und <said id="124" mode="reported" content="speech" level="1"><seg id="124" type="intExpr">zog</seg>
+                        seinen Antrag <seg id="124" type="intExpr">zurück</seg>.</said> <said id="125" mode="reported" content="speech" level="1"><seg id="125 127" type="speaker">HerrMatscheko</seg>(Ortsgruppe Wieden in Wien) <seg id="125" type="intExpr">begrüßte</seg> den Antrag
+                        Braß</said>, <said id="127" mode="reported" content="speech" level="1"><seg id="127" type="intExpr">ersucht</seg> jedoch von der Einberufung einer
+                        außerordentlichen Hauptversammlung Abstand zu
+                        nehmen und das Ergebniß <said id="126" mode="reported" content="speech" level="2">der <seg id="126" type="intExpr">Berathungen</seg> der
+                        ordentlichen <seg id="126" type="speaker">Hauptversammlung</seg> </said>zur Beschlußfassung
+                        vorzulegen, da eine außerordentliche, die erfahrungsgemäß nie so vollzählig besucht sei, nur
+                        einem Rumpfparlament zu vergleichen ist.</said>
+                  <said id="128" mode="reported" content="speech" level="1">Nachdem noch einige <seg id="128" type="speaker">Redner</seg> <seg id="128" type="intExpr">gesprochen</seg></said>,
+                       <seg id="129" type="frame" pos="start"> <seg id="129" type="intExpr">wies</seg> <seg id="129" type="speaker">HerrFrank</seg>darauf <seg id="129" type="intExpr">hin</seg>,</seg> <said id="129" mode="indirect" content="speech" level="1"><seg id="130" type="frame" pos="start">daß nach den
+                        <seg id="130" type="speaker">Statuten</seg></seg> <said id="130" mode="indirect" content="writing" level="2">die Beschlußfassung nur in ordentlicher
+                        Hauptversammlung erfolgen könne.</said> </said>Der Antrag
+                        Braß gelangt sodann <said id="131" mode="reported" content="speech" level="1">mit der von <seg id="131" type="speaker">Matschekos</seg> <seg id="131" type="intExpr">beantragten</seg> Aenderung</said> nahezu einstimmig zur
+                        Annahme.
+                  <seg id="132" type="frame" pos="start">Delegirter<seg id="132" type="speaker"> Prof.Schwarz</seg><seg id="132" type="intExpr">verlangt</seg></seg> <said id="132" mode="indirect" content="speech" level="1"><said id="133" mode="reported" content="thought" level="2" nonfact="yes" border="yes">die Gründe
+                        zu <seg id="133" type="intExpr">wissen</seg></said>, welche die Ortsgruppe Deutsch-Jaßnik
+                        zu ihrem Antrage bewogen haben.</said><seg id="134" type="frame" pos="start"> (<seg id="134" type="intExpr">Rufe</seg>:</seg> <said id="134" mode="direct" content="speech" level="1">Oho!
+                        Man kennt doch diese Gründe!)</said>
+                         
+                  <seg id="135" type="frame" pos="start">Obmann<seg id="135 136" type="speaker">Weitlof</seg><seg id="135" type="intExpr">bemerkt</seg>,</seg> <said id="135" mode="indirect" content="speech" level="1">daß dies gegenstandslos sei, nachdem Deutsch-Jaßnik den Antrag
+                        zu Gunsten des Antrages Braß zurückgezogen
+                        habe</said> und schloß sodann, da die Tagesordnung
+                        erschöpft war, die 15. ordentliche Hauptversammlung <said id="136" mode="reported" content="speech" level="1">mit <seg id="136" type="intExpr">Worten</seg> des Dankes an alle Theilnehmer.
+ </said>                 Die Ergänzungswahl in die Vereinsleitung
+                        ergab die Wahl des Herrn Dr. RudolfProksch
+                        (Wien), in den Aufsichtsrath wurde Hofrath Dr.
+                        AlexanderEger(Wien) und in das Schiedsgericht Dr. RaimundGrübl(Wien) neugewählt.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

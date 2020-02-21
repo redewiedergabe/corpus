@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hiesiges.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik089_1845_2.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Hiesiges.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Hiesiges.
+                        
+            
+            <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">Daß Wegräumung von Krankheitsursachen Aufgabe der Medicinalpolizei ist</said><seg id="1" type="frame" pos="end">, wird wohl <seg id="1" type="speaker">Niemand</seg>
+                        <seg id="1" type="intExpr">in Zweifel ziehen</seg></seg>, <seg id="2" type="frame" pos="start">wohl aber wird <seg id="2" type="speaker">Mancher</seg> <seg id="2" type="intExpr">wünschen</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">daß dieser Aufgabe mehr nachgekommen würde,
+                        besonders in unserer Musenstadt, wo ihr noch ein
+                        bedeutendes Feld als Wirkungskreis eröffnet ist.</said>
+                        <said id="9" mode="reported" content="writing" level="1">Einsender dieß erkennt zwar mit Dank an, daß schon
+                        Manches hierin geschehen ist, und gerade dieß bestimmte ihn auch, <said id="5" mode="reported" content="speech" level="2" nonfact="yes">diesen seinen Wunsch auszusprechen.</said></said> Lauft Jemand die sehr frequente Gasse, resp.
+                        Straße, vom Rathhaus hinaus zu der Kunstmühle
+                        von Schweikhardt, so wird er gewiß seine Schritte
+                        zu verdoppeln streben, wenn er in die Nähe der Gebäude von Bierbrauer Schott gegenüber von Mezger
+                        Witzemann kommt; denn hier werden seine GeruchsNerven, besondes bei Witterungs=Veränderungen,
+                        nicht nur von einem pestilenzialischen Gestanke afficirt, sondern es wird ihm auch, wenn er sich nach
+                        der Ursache dieser Wirkung umsieht, der eckelhafte
+                        Anblick eines nach einer Seite geöffneten Abtritts
+                        dargeboten. Stets nun in der Nähe eines solchen
+                        Gestankes, bei einer solchen verpesteten Luft wohnen
+                        und diesen eckelhaften ärgerlichen Anblick genießen
+                        zu müssen, kann unmöglich vortheilhaft auf die Gesundheit der Nachbarschaft einwirken, <seg id="6" type="frame" pos="start">und <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">glaube</seg>
+                        fest,</seg> <said id="6" mode="indirect" content="thought" level="1"><said id="7" mode="reported" content="writing" level="2">daß ich ganz <said id="8" mode="reported" content="thought" level="3" nonfact="yes">im Sinne der Umwohnenden sowohl, als derjenigen gesprochen habe, die gleich mir
+                        diesen Weg öfters passiren müssen.</said></said></said>
+            Möchte deßhalb von der Hochlöblichen Medicinalpolizei der geeignete Schritt gethan werden.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Goethe und die Boisserée</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341885_303415.txt_6.xml</f>
+         <f name="year">1907</f>
+         <f name="decade">1900</f>
+         <f name="title">Goethe und die Boisserée</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">0</f>
+         <f name="narrative">no</f>
+         <f name="textype">Undefined</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Goethe und die Boisseree
+                        i
+                        
+            Am 3. Mai 1811 erschien bei Goethe in Weimar ein junger Mann,
+                        um dem berühmten Dichter seine Aufwartung zu machen. Er kam
+                        nicht ohne einige Schüchternheit, ungewiß über die Aufnahme, die
+                        er finden würde, obwohl sein Besuch durch einen sehr geschätzten
+                        Freund vorbereitet war. Auch kam der junge Fremde nicht mit
+                        leeren Händen, sondern brachte etwas mit, was wohl des Anschauens wert war.
+                        Der junge Mann war Sulpiz Boisseree aus Köln, der Freund,<said id="1" mode="reported" content="speech" level="1"> <seg id="1" type="speaker">der</seg> ihn <seg id="1" type="intExpr">empfohlen</seg>
+                        hatte</said>, der ehemalige schwäbische Pfarrerssohn und derzeitige französische Gesandte
+                        am westfälischen Hofe, Reinhard, und das, was Boisseree Goethe vorlegen
+                        wollte, waren seine Entwürfe und Pläne für die Wiederherstellung eines der
+                        großartigsten Baudenkmäler der Vorzeit, des Kölner Domes. Trotz alledem
+                        war es erklärlich, daß der Jüngling vor dem Greise nicht ohne Schüchternheit
+                        erschien. Denn hier trafen nicht nur zwei Lebensalter, es stießen auch zwei
+                        Perioden aufeinander. Boisserée gehörte mit allen seinen Neigungen, seiner
+                        ganzen Weltanschauung der Romantik an, <seg id="2" type="frame" pos="start">und <seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">wußte</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">daß er bei dem Haupte
+                        der klassischen Kunst- und Lebensauffassung anklopfe.</said> Wie würde sich das Alte
+                        zum Neuen stellen, das Alte zum Neuen, das keineswegs geneigt war, ein
+                        friedliches Einvernehmen zu suchen, sondern mit der ganzen freudigen Unternehmungslust, dem ganzen fromm-frisch-fröhlichen Übermute, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">den <seg id="3" type="speaker">man</seg> getrost
+                        das schönste, beneidenswerteste Vorrecht der Jugend <seg id="3" type="intExpr">nennen</seg> darf</said>, auf nichts
+                        geringeres ausging, als sich an den Platz zu stellen,<said id="4" mode="reported" content="speech" level="1"> den die <seg id="4" type="speaker">Alten</seg> solange
+                        <seg id="4" type="intExpr">behauptet</seg> hatten?</said> <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Man</seg> <seg id="5" type="intExpr">weiß</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">daß die romantische Schule <said id="6" mode="reported" content="writing" level="2">die <seg id="6" type="intExpr">Formulierung</seg>
+                        ihrer Grundsätze</said> von den <seg id="6" type="speaker">Gebrüdern Schlegel </seg>erhalten hatte und in ausgesprochnen Gegensatze zu den Klassikern gegründet worden war.</said> Allerdings mehr
+                        im Widerspruche zu Schiller als zu Goethe. Aber auch gegen diesen hatte man
+                        viel auf dem Herzen. <said id="7" mode="reported" content="speech" level="1"><seg id="7" type="speaker">Dorothea Schlegel</seg> <seg id="7" type="intExpr">nennt</seg> ihn mit Vorliebe den alten
+                        Götz oder den großen Heiden.</said> Und gerade in dieser letzten Bezeichnung kommt
+                         
+            
+            der Gegensatz, worin man sich zu den Klassikern fühlte, besonders bestimmt zum
+                        Ausdruck. Denn worin schwelgten die Romantiker lieber als in<said id="8" mode="reported" content="speech" level="1"> großen und
+                        tönenden <seg id="8" type="intExpr">Worten</seg> von der Religion</said>, die ihnen geradezu zu einem Wechselbegriff
+                        mit Poesie geworden war! Die Religion, muß man hinzusetzen, im katholischen
+                        Sinne, denn nur so gilt sie ihnen als vollbürtig. Es ist bekannt genug, daß
+                        sich viele aus ihren Reihen in den Schoß der Alleinseligmachenden geflüchtet
+                        haben. Und auch wo der Übertritt nicht erfolgte, war doch die innere Zustimmung vorhanden. <said id="9" mode="reported" content="speech" level="1"><seg id="9" type="speaker">Man</seg> braucht als Zeugnis dafür nur den Aufsatz von
+                        Novalis „Die Christenheit oder Europa" zu <seg id="9" type="intExpr">nennen</seg></said>, dessen Aufnahme in die
+                        Horen Schiller im Einvernehmen mit Goethe wegen seines die katholische Kirche
+                        unbedingt verherrlichenden Tones ablehnte, ja woran Schlegel in dem Glaubenseifer des Konvertiten, <said id="10" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="10" type="speaker">der</seg> am liebsten alles, was ihm teuer war, unter den
+                        Flügeln der großen Mutter geborgen <seg id="10" type="intExpr">wissen</seg> wollte</said>, die Legende knüpfen
+                        konnte, auch dieser Freund sei mit ihm denselben Weg gegangen. Schlegel hatte
+                        mit Dorothea den verhängnisvollen Schritt vollzogen, als er im Begriff stand,
+                        Köln zu verlassen, um in Wien einen neuen Schauplatz seiner Tätigkeit zu
+                        suchen. Am 16. April überraschten die <seg id="11" type="speaker">beiden</seg> ihre Freunde<said id="11" mode="reported" content="writing" level="1"> mit der <seg id="11" type="intExpr">Nachricht</seg>
+                        ihres eben erfolgten Übertritts.</said> <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Sulpiz</seg> <seg id="15" type="intExpr">schreibt</seg> darüber die charakteristischen
+                        Worte: </seg><said id="15" mode="direct" content="writing" level="1">„Es war eine große Überraschung für uns. <seg id="13 14" type="speaker">Wir</seg> kannten zwar die
+                        entschiedne Neigung, welche Schlegel für den katholischen Glauben gefaßt hatte,
+                        seit langer Zeit und <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">sahen voraus</seg>, </seg><said id="13" mode="indirect" content="thought" level="2">daß er seine Überzeugung einmal öffentlich
+                        bekennen werde</said>, und freuten uns,<said id="14" mode="reported" content="thought" level="2"> ihn mit unsrer eignen religiösen Gesinnung in
+                        Übereinstimmung zu <seg id="14" type="intExpr">wissen</seg></said>, aber in diesem Augenblicke, wo der Übertritt, der reine
+                        Gewissenssache war, so leicht den Schein äußerer Absicht haben und dadurch
+                        das widerwärtigste Ärgernis erregen konnte, war es <seg id="16" type="speaker">uns</seg> schwer,<said id="16" mode="reported" content="thought" level="2"> die Ausführung eines so wichtigen Schrittes zu <seg id="16" type="intExpr">begreifen</seg>.</said>"</said> <seg id="17" type="frame" pos="start">So <seg id="17" type="intExpr">schrieb</seg> der <seg id="17" type="speaker">Freund</seg>;</seg> <said id="17" mode="indirect" content="speech" level="1">Fernerstehende haben damals gleich die Berechnung durchschaut, die darauf hinausging, sich durch den Religionswechsel in Wien die Tür zu einer glänzenden
+                        Laufbahn zu öffnen.</said> Der Erfolg zeigte, daß Schlegel ein geschickter Rechenmeister gewesen war. Sulpiz bedürfte eines Übertritts nicht, aber er war doch
+                        ein Schüler Schlegels und mußte mit Recht von Goethe als ein vertrauter
+                        Gesinnungsgenosse des romantischen Führers betrachtet werden.
+            Sulpiz, geboren am 3. August 1733, war der vorjüngste Sohn einer
+                        kinderreichen, sehr wohlhabenden und angesehenen Kölner Kaufmannsfamilie.
+                        Er hatte noch einen drei Jahre jüngern Bruder Melchior, der später der treuste
+                        Lebensgeführte und Arbeitsgenosse des ältern wurde. <said id="18" mode="reported" content="thought" level="1" nonfact="yes">Wie <seg id="18" type="speaker">man</seg> sich bei den
+                        berühmten Brüdern Grimm Jakob nicht ohne Wilhelm und umgekehrt <seg id="18" type="intExpr">denken</seg>
+                        kann</said>, so existiert hier Sulpiz nicht ohne Melchior und dieser nicht ohne jenen.
+                        Der bedeutendere, tatkräftigere, erfolgreichere war Sulpiz, <said id="19" mode="reported" content="thought" level="1" nonfact="yes">aber man kann <seg id="19" type="intExpr">sich</seg>
+                        dessen ganzes Dasein doch nicht <seg id="19" type="intExpr">vorstellen</seg>, ohne das rührende Bild des bescheidnen
+                        stillern Bruders daneben</said>, der doch auch tüchtig war und seine besondern Verdienste hatte, wie er denn den im Anfange des vorigen Jahrhunderts von dem
+                         
+            
+            Münchner Senefelder erfundnen Steindruck eifrig pflegte und in den Dienst der
+                        von den Brüdern erworbnen Bilder stellte. Beide waren anfangs den Überlieferungen des Hauses zufolge dem kaufmännischen Berufe bestimmt, nachdem
+                        sich der älteste Bruder der Kirche gewidmet hatte und in Köln als Domherr in
+                        Ansehen und Ehren lebte. Sulpiz arbeitete kurze Zeit auf einem Hamburgischen
+                        Kondor und machte dort die Bekanntschaft mit jenem Reinhard, der damals
+                        französischer Ministerresident in Hamburg war und eine Reimarus zur Frau
+                        hatte. Als die ungünstigen Zeitverhältnisse das Hamburger Haus zum Falle
+                        brachten, kehrte Sulpiz nach Köln zurück, fing aber nun an, seinen Neigungen,
+                        der Beschäftigung mit der Literatur und den Künsten zu leben. Einen Gefährten
+                        auf diesem Wege fand er an dem sieben Jahre ältern Landsmanne <seg id="20" type="speaker">Bertram</seg>,
+                        der die Rechte studiert hatte, <said id="20" mode="reported" content="thought" level="1" nonfact="yes">ohne jedoch an den Eintritt in ein praktisches
+                        Leben ernstlich zu <seg id="20" type="intExpr">denken</seg>.</said> Durch die Gemeinsamkeit der literarischen Interessen
+                        kam er Boisseree näher und näher, <said id="21" mode="reported" content="speech" level="1">und seitdem <seg id="21" type="speaker">er</seg> die beiden Brüder zu einem
+                        gemeinsamen Aufenthalt in Paris <seg id="21" type="intExpr">überredet</seg> hatte</said>, war er ihr unzertrennlicher
+                        Gefährte und teilte ihr ferneres Leben bis an seinen Tod, der am 19. April
+                        1841 erfolgte. So war aus dein Brüderpaar ein Kleeblatt geworden, und ihre
+                        Namen sind verbunden in die Annalen der Kunstgeschichte eingetragen. Der
+                        wichtigste Ertrag jenes Pariser Aufenthalts im Winter 1803 auf 1804 war
+                        die Bekanntschaft mit Friedrich Schlegel, der damals dort lebte.<said id="22" mode="reported" content="speech" level="1"> <seg id="22" type="speaker">Er</seg> hielt den
+                        Brüdern <seg id="22" type="intExpr">Vorträge</seg></said>, leitete ihre Studien, und das Verhältnis wurde dadurch noch
+                        vertrauter, daß Sulpiz, der zarter Gesundheit war, mit Schlegels die Wohnung
+                        teilte und die sorgsame Pflege Frau Dorotheas genoß. Als die Brüder nach
+                        Köln heimkehrten, schloß sich <seg id="23" type="speaker">Schlegel</seg> ihnen an, <said id="23" mode="reported" content="speech" level="1">setzte die <seg id="23" type="intExpr">Vorlesungen</seg>, die er
+                        ihnen gehalten hatte, fort</said> und gewann auch eine öffentliche Tätigkeit,<said id="24" mode="reported" content="speech" level="1"> indem
+                        <seg id="24" type="speaker">er</seg> <seg id="24" type="intExpr">Vorträge</seg> an einer Art von Akademie übernahm</said>, die dort als eine Reminiszenz der ehemaligen Universität bestand, deren Erinnerung freilich hauptsächlich
+                        durch die Namen Hoogstraten und Pfefferkorn und die gegen sie gerichteten
+                        Briefe der Dunkelmänner nicht die glänzendste ist.
+            Durch Schlegel wurde Sulpiz auch zuerst auf das Verständnis und das
+                        lebendige Interesse für die Kunst gewiesen, und so verdankte er ihm die Erschließung des einen der beiden großen Gebiete, auf denen die gesamte Arbeit seines
+                        spätern Lebens ruhen sollte. Er bietet ein glänzendes Beispiel für die Tatsache,
+                        daß einem Menschen kein größeres Glück beschieden sein kann, als wenn sich ihm
+                        schon früh ein großes bedeutendes wertvolles Ziel auftut, dem er seine ganze
+                        Kraft widmen kann, und in dessen Verfolgung er höchste Befriedigung und
+                        glücklichsten Erfolg finden wird. Die beiden großen Ziele waren erstens die
+                        Sammlung der altdeutschen Gemälde, auf die man damals zuerst wieder aufmerksam zu werden begann, und dann seine unablässige liebevolle Bemühung um
+                        den Ausbau und die Vollendung des Kölner Domes, den die vergangnen Jahrhunderte als ein großartiges Bruchstück und der Vandalismus der erobernden
+                        Franzosen als eine jammervolle Ruine zurückgelassen hatten. Um auf dem Wege
+                         
+            
+            zu diesem doppelten Ziele einen aussichtsreichen Fortschritt zu machen, mußten
+                        allerdings mehrere Bedingungen erfüllt werden. Der Mann, der es hier zu
+                        etwas bringen wollte, mußte vor allem frei über seine Zeit verfügen können
+                        und ein vermögender Mann sein. Beides traf bei den Boisseree zusammen.
+                        Das begeisterungsvolle Herz, das allein einen vollen Erfolg verbürgen konnte,
+                        schlug in ihrer Brust, und dazu kam auch die Göttin Gelegenheit, die in jedem
+                        solchen Falle eine nicht zu verachtende Bundesgenossin ist. Die Franzosen,
+                        religions- und pietätlos wie sie waren, hatten in allen linksrheinischen Ländern,
+                        die sie besetzt hatten, sämtliche Kirchen und Klöster, deren es nicht allein in
+                        dem „billigen" Köln, sondern auch in der ganzen Landschaft eine Unzahl gab,
+                        aufgehoben, und deren Schmuck an Bildern und Altären wurde in der ruchlosesten Weise verschleudert. Wer da schnell zugreifen konnte, war in der Lage,
+                        die bedeutendsten Erwerbungen zu machen. Freilich waren die Meister der alten
+                        kölnischen Malerschule nicht alle dem Schöpfer des herrlichen Dombildes, Stephan
+                        Lochner, zu vergleichen. Aber es gab doch eine ganze Reihe sehr achtbarer Talente.
+                        Und es kam ja nur auf den Anfang an. Wenn dieser einmal gemacht war,
+                        würde der dadurch erweckte Sammeltrieb zur Sammelwut werden, wofür die
+                        Einrichtung der menschlichen Natur schon von selbst sorgen sollte. <said id="25" mode="reported" content="writing" level="1"><seg id="25" type="speaker">Sulpiz</seg> hat
+                        uns in dem Bruchstück seiner Selbstbiographie den ersten Erwerb, den er machte,
+                        <seg id="25" type="intExpr">geschildert</seg>.</said> Es war ein großes kirchliches Gemälde, das er für ein Billiges
+                        erstand. Als es nach seinem Hause geschafft wurde, sah es zufällig die Großmutter, die nach dem Tode der beiden Eltern das Haupt des Hauses war, und
+                        da sie an dem heiligen Gegenstande und dem Ausdrucke der heiligen Personen
+                        ein frommes, nicht ein künstlerisches Wohlgefallen fand, <said id="26" mode="reported" content="speech" level="1">billigte <seg id="26" type="speaker">sie</seg> in freundlichen <seg id="26" type="intExpr">Worten</seg> den Ankauf</said> und entwaffnete damit von vornherein<said id="28" mode="reported" content="speech" level="1" nonfact="yes"> den <seg id="28" type="intExpr">Einspruch</seg></said>,
+                       <said id="27" mode="reported" content="thought" level="1"> den <seg id="27" type="speaker">wir</seg> uns als sehr wahrscheinlich von den ältern Brüdern oder von dem
+                        Geschäftsführer, Herrn Vellhagen, <seg id="27" type="intExpr">denken</seg> können. </said>So war das Eis gebrochen,
+                        und wir sehen nun die Brüder auf einer Bilderjagd, die sich nicht auf Köln
+                        beschränkte, sondern sich rheinabwürts bis nach Holland und nach Belgien
+                        erstreckte. Beide Brüder suchten mit demselben Eifer, und wir können im Verlauf der Arbeit das Hervortreten aller der Symptome bemerken, die das Sammelfieber charakterisieren, die Unruhe, wenn eine neue Beute in das Gesichtsfeld
+                        tritt, die erwachende und sich gradweis steigernde Begehrlichkeit, der Kampf mit
+                        der Möglichkeit und den Mitteln, wenn es sich um den Ankauf handelt. Und
+                        ist dann der große Wurf gelungen, welcher Jubel erfüllt das Herz des glücklichen Erwerbers! Wie wird dann das Kleinod geliebkost und gehätschelt und
+                        um der Schwierigkeit der Erringung willen oft über seinen wahren Wert hinaus
+                        geschätzt! Natürlich schärft sich dem Bildersammler mit dem Verlauf seiner Arbeit
+                        das Verständnis und das Unterscheidungsvermögen. Dennoch sehen wir unser
+                        Kleeblatt nicht selten auch getäuscht oder in seinen Erwartungen betrogen. Ich
+                        sehe hierbei noch davon ab, daß die Bestimmung oder Bezeichnung, die sie den
+                        neu erworbnen Schätzen verliehen,<said id="29" mode="reported" content="writing" level="1"> vielfach vor der fachmäßigen <seg id="29" type="intExpr">Kritik</seg> nicht hat
+                         
+            
+            bestehn können</said>, <said id="31" mode="reported" content="speech" level="1">und daß manche <seg id="31" type="intExpr">Umtaufe</seg> nötig geworden ist.</said> Das konnte
+                        nicht anders sein, weil unsre Kunstforschung, die ja damals nur die ersten unsicher
+                        tastenden Schritte tat, mit ganz andern Mitteln der Erkenntnis und einer viel
+                        reichern Erfahrung arbeitet. Bedenklicher könnte es scheinen, daß unsre Sammler
+                        das Interesse, das sie ihren Bildern widmeten, aus einer doppelten Quelle
+                        speisten. Sie waren nicht gleichgiltig gegen ihre malerischen Qualitäten, aber
+                        eine große Rolle spielte doch auch die religiöse Wertung. Und man darf noch
+                        hinzunehmen die Vorliebe für den nationalen Geist, der sich darin fühlbar
+                        machte, allerdings in der Beschränkung, <said id="32" mode="reported" content="thought" level="1">daß nur an das Altdeutsche dabei
+                        <seg id="32" type="intExpr">gedacht</seg> wurde.</said> So rühmt man das Fromme, das Gemütliche, Treuherzige,
+                        Unschuldige, Keusche der Bilder und gibt damit den deutlichsten Beweis, daß es
+                        die romantische Schule war, deren Geist hier herrscht, deren Luft man atmet.
+                        Gewiß soll das große Verdienst, das sich die Boisseree um die Kenntnis unsrer
+                        ältesten Malerei erworben haben, nicht im geringsten angetastet werden. Sie
+                        haben alles getan, was sie konnten, was nur sie haben tun können, und was
+                        in jener Zeit noch geschehn konnte. In der Münchner Pinakothek, die ihre
+                        Sammlung aufnahm, finden sich unter den 288 Gemälden aus den altdeutschen
+                        Schulen 123 Stücke, die von ihnen herstammen, die ältesten sind alle Erwerbungen, die sie gemacht haben. Und von der Einheitlichkeit, die in ihrer
+                        Sammlung herrschte, gibt der Umstand Zeugnis, daß der späteste Künstler, der
+                        bei ihnen vertreten war, der Regensburger Meister Altdorfer, ein jüngerer Zeitgenosse Dürers, war. Im Jahre 1310 verlegte unser Trio seinen Wohnsitz nach
+                        Heidelberg, hauptsächlich, um seine Schätze vor Gewalttätigkeiten Napoleons zu
+                        sichern, der ja die Praxis befolgte, alles Ausgezeichnete nach Paris zu schleppen,
+                        und dagegen sträubte sich in den jungen Rheinländern der wackre deutsche Sinn,
+                        <said id="33" mode="reported" content="speech" level="1">den <seg id="33" type="speaker">sie</seg> nie <seg id="33" type="intExpr">verleugnet</seg> haben</said>, auf das heftigste. Schon damals galt ihre Sammlung als eine Sehenswürdigkeit ersten Ranges, und wir finden in der Zeit
+                        der Befreiungskriege alle die Fürsten, die Kaiser Alexander und Franz, die
+                        Feldherren und Staatsmänner, darunter Metternich, soweit der Krieg sie in die
+                        Nähe führte, auch bei den Boisseree zur Besichtigung der Bilder, wobei Bertram
+                        gewöhnlich den Cicerone machte.
+            Ihrer Sammlung die höchste Weihe zu geben schien aber doch niemand
+                        berufner als Goethe. <said id="34" mode="reported" content="speech" level="1" prag="yes">Mochte die <seg id="34" type="speaker">Romantik</seg> noch so sehr gegen ihn <seg id="34" type="intExpr">murren</seg></said>,
+                        <said id="35" mode="reported" content="writing" level="1">und <seg id="35" type="speaker">Dorothea</seg> in einem ihrer liebevollen, fast mütterlichen Briefe an Sulpiz
+                        den alten Götz für durchaus unwert des Anschauens ihrer frommen Bilder
+                        <seg id="35" type="intExpr">erklären</seg></said>, die Brüder hatten doch viel zu viel Respekt vor der Größe des
+                        Olympiers und waren viel zu wenig befangen in der romantischen Schuldoktrin,
+                        als daß es ihnen nicht sehr wichtig gewesen wäre, ihn für ihre künstlerischen
+                        Bemühungen zu interessieren. <said id="36" mode="reported" content="thought" level="1">So <seg id="36" type="intExpr">entschloß</seg> sich <seg id="36" type="speaker">Sulpiz</seg></said>, der in dem kleinen Gemeinwesen immer den Minister der auswärtigen Angelegenheiten machte, <said id="36" mode="reported" content="thought" level="1">im
+                        Mai 1811 zu der im Anfang erwähnten Reise nach Weimar. </said>Aber als wenn er
+                        doch den unmittelbaren Einbruch in die geheiligtsten Provinzen des Goethischen
+                         
+            
+            Kunstreichs gescheut hätte: es waren nicht seine Bilder, für die er Goethes
+                        Interesse zunächst in Anspruch nahm, sondern er versuchte es von andrer Seite
+                        mit seinen Zeichnungen und Plänen für den Ausbau des Domes. Man muß
+                        dessen Baugeschichte einigermaßen kennen, <seg id="37" type="frame" pos="start">wenn <seg id="37" type="speaker">man</seg> <seg id="37" type="intExpr">ermessen</seg> will, </seg><said id="37" mode="indirect" content="thought" level="1" nonfact="yes">welche Arbeit
+                        hier geleistet werden mußte, und welche Verdienste sich Sulpiz gerade hierbei
+                        erworben hat. </said>Die französische Zeit hatte das ehrwürdige Gebäude zum Vorratshaus für Heu und Stroh, ja zum Pferdestall erniedrigt, und die Verwahrlosung, in der es dastand, als man wieder Herr im eignen Hause wurde, war
+                        so groß, <seg id="38" type="frame" pos="start">daß <seg id="38" type="speaker">man</seg> <seg id="38" type="intExpr">erwog</seg>, </seg><said id="38" mode="indirect" content="thought" level="1">ob es nicht besser sei, es ganz abzubrechen.</said> Sulpiz
+                        war nicht der einzige Bürger seiner Stadt, der vor der Barbarei <said id="39" mode="reported" content="thought" level="1">dieses <seg id="39" type="intExpr">Gedankens</seg></said> zurückschauderte. Eine ganze Gruppe von gebildeten, mit den Kölnischen
+                        Altertümern vertrauten, kunstverständigen Männern kämpfte Seite an Seite
+                        mit ihm für die Erhaltung des herrlichen Denkmals mittelalterlicher Kunst und
+                        Größe. Aber an Eifer und Tatkraft übertraf er sie alle, und die beiden glücklichen Umstände, die Verfügung über bedeutende Mittel und die freie Muße,
+                        die er sich bewahrt hatte, kamen ihm auch hierbei trefflich zustatten. So entstanden die perspektivischen Zeichnungen, die, aufs sauberste ausgeführt und
+                        gestochen, den vorteilhaftesten Eindruck machten.<said id="40" mode="indirect" content="thought" level="1" nonfact="yes"> Welches freudige Ereignis es
+                        für Sulpiz war, als das vor der Zerstörungswut der Franzosen sorgsam versteckte Dombild wieder hervorgeholt und an seinen Platz zurückgebracht werden
+                        konnte</said><seg id="40" type="frame" pos="end">, kann <seg id="40" type="speaker">man</seg> sich <seg id="40" type="intExpr">denken</seg>.</seg> Die Höhe dieses Moments konnte nur durch
+                        den andern überboten werden, als ein glücklicher Zufall <said id="41" mode="reported" content="thought" level="1">den längst verloren
+                        <seg id="41" type="intExpr">geglaubten</seg> Aufriß</said> der beiden Türme von der Hand des Erbauers, Gerhard
+                        von Rieke, auf dem Boden eines Krämers in Darmstadt, wo das kostbare
+                        Pergament dem nützlichen Zwecke dienstbar gemacht worden war, Bohnen darauf
+                        zu trocknen, wieder ans Licht zog. Und den stolzesten Augenblick seines Erdenwallens erlebte er am 4. September 1842, als die feierliche Grundsteinlegung
+                        des Neubaus durch den König Friedrich Wilhelm den Vierten in Köln vollzogen wurde, der die Verdienste Boisserees ausdrücklich rühmte. Schon früher
+                        waren die Blätter bekannt. Napoleon und seine Gemahlin Marie Luise, die im
+                        November 1811 das ja damals noch französische Köln besuchten, waren darauf
+                        aufmerksam gemacht worden,<seg id="42" type="frame" pos="start"> wobei <seg id="42" type="speaker">Sulpiz</seg> den sehr berechtigten <seg id="42" type="intExpr">Wunsch</seg> hegte,</seg>
+                        <said id="42" mode="indirect" content="thought" level="1">das Herrscherpaar für seinen Lebensplan, den Wiederaufbau des Domes, zu
+                        interessieren und eine namhafte Unterstützung dafür angewiesen zu sehen</said>, was
+                        sich freilich als trügerisch erwies. Die kostbaren Blätter waren zunächst von
+                        Sulpiz selbst, teils nach seinen Angaben gezeichnet, wurden aber in Kupferstich
+                        ausgeführt, <said id="43" mode="reported" content="speech" level="1">wobei <seg id="43" type="speaker">er</seg> noch viel über die ungenügenden Leistungen der deutschen
+                        Stecher zu <seg id="43" type="intExpr">klagen</seg> hatte</said> und sich wiederholt nach Paris begeben mußte, um die
+                        Arbeit nach seinen Wünschen ausgeführt zu erhalten.
+            Goethe, trotzdem ihm seit seiner Reise nach Italien, bestimmter seit seinem
+                        Aufenthalt in Vicenza und seit der Anschauung der herrlichen Bauten Palladios
+                        die früher so hoch bewunderte Gotik mit ihren Spitzen, Zacken und Schnörkeln
+                         
+            
+            fern gerückt war, ja ihm manchen Ausruf des Abscheus entrissen hatte, müßte
+                        nicht der hohe, freie, für alles Große empfängliche Geist gewesen sein, wenn er
+                        das Bedeutende der ihm vorgelegten Blätter nicht erkannt hätte. Besonders
+                        das Tüchtige und Reinliche der Arbeit mußte sein Wohlgefallen erwecken, nachdem das Eis des anfänglichen Vorurteils und Mißtrauens gegen den Zögling
+                        der Romantik gebrochen war. Und das schnell und vollständig zu besorgen,
+                        war die ungewöhnlich anziehende und liebenswürdige Persönlichkeit Boisserees
+                        wie keine andre geeignet.<seg id="44" type="frame" pos="start"> Hören wir <seg id="44" type="speaker">seinen</seg> eignen <seg id="44" type="intExpr">Bericht</seg>:</seg> <said id="44" mode="direct" content="speech" level="1">„<said id="45" mode="direct" content="writing" level="2">Ich komme eben
+                        von Goethe</said><seg id="45" type="frame" pos="mid">, <seg id="45" type="intExpr">schreibt</seg> <seg id="45" type="speaker">er</seg> am 3. Mai 1811 an Melchior,</seg><said id="45" mode="direct" content="writing" level="2"> der mich recht steif
+                        und kalt empfing.</said> Ich ließ mich nicht irre machen und war wieder gebunden
+                        und nicht untertänig. Der alte Herr ließ mich eine Weile warten, dann kam
+                        er mit gepudertem Kopf, seine Ordensbänder am Rock,<said id="46" mode="reported" content="speech" level="2"> die <seg id="46" type="intExpr">Anrede</seg> war so steif
+                        vornehm wie möglich.</said> <said id="47" mode="reported" content="speech" level="2"><seg id="47" type="speaker">Ich</seg> brachte ihm eine Menge <seg id="47" type="intExpr">Grüße</seg></said>, <said id="48" mode="direct" content="speech" level="2">recht schön</said><seg id="48" type="frame" pos="end">, <seg id="48" type="intExpr">sagte</seg>
+                        <seg id="48 49" type="speaker">er</seg>.</seg> Wir kamen gleich auf die Zeichnungen, das Kupferstichwesen, die Schwierigkeiten, den Vertrag mit Cotta und alle die äußern Dinge.<said id="49" mode="direct" content="speech" level="2"> Ja ja, schön, hin hin.</said>
+                        Darauf kamen wir auf das Ding selbst, auf das Schicksal der alten Kunst und
+                        ihre Geschichte. <seg id="50 51 53" type="speaker">Ich</seg> hatte mir einmal vorgenommen, der Vornehmheit ebenso
+                        vornehm zu begegnen, <said id="50" mode="reported" content="speech" level="2"><seg id="50" type="intExpr">sprach</seg> von der Schönheit und Vortrefflichkeit der Kunst
+                        in dem Mittelalter so kurz als möglich</said>, <seg id="51" type="frame" pos="start"><seg id="51" type="intExpr">verwies</seg> ihn <seg id="51" type="intExpr">darauf</seg>,</seg> <said id="51" mode="indirect" content="speech" level="2">daß er sich ja
+                        durch die Zeichnungen selbst davon überzeugt haben werde</said> — er machte bei
+                        dem allen ein Gesicht, als ob er mich fressen wollte. <said id="52" mode="reported" content="speech" level="2">Erst als <seg id="52" type="speaker">wir</seg> von der
+                        alten Malerei <seg id="52" type="intExpr">sprachen</seg></said>, taute er etwas auf, <said id="53" mode="reported" content="speech" level="2">bei dem <seg id="53" type="intExpr">Lobe</seg> der neugriechischen
+                        Kunst</said> lächelte er."
+</said>                         
+            Man sieht hieraus, daß sich Sulpiz nicht scheute, den Stier bei den Hörnern
+                        zu fassen, und er stand sich gut dabei. <seg id="54" type="frame" pos="start">Schon unter dem 6. Mai <seg id="54" type="intExpr">heißt es</seg>:</seg> <said id="54" mode="direct" content="writing" level="1">„Mit
+                        dem alten Herrn geht es mir vortrefflich, bekam ich den ersten Tag nur einen
+                        Finger, den andern hatte ich schon den ganzen Arm."</said> So wird der Verkehr
+                        immer herzlicher und vertrauter. Sulpiz ist öfter bei Goethe zu Tisch, es wird
+                        eine Ausstellung der Zeichnungen bei Hofe veranstaltet, wozu Sulpiz mit Ungeduld weitere Blätter von Quaglio aus München erwartet.<seg id="55" type="frame" pos="start"> In dem <seg id="55" type="intExpr">Tagebuche</seg>
+                        aus jener Zeit findet sich die schöne Stelle:</seg> <said id="55" mode="direct" content="writing" level="1">„Nachmittags nach Tische saßen
+                        wir allein, <said id="56" mode="reported" content="speech" level="2"><seg id="56" type="speaker">er</seg> <seg id="56" type="intExpr">lobte</seg> mit aller Wärme meine Arbeit.</said> Ich hatte das erhebende
+                        Gefühl des Sieges einer schönen großen Sache über die Vorurteile eines der
+                        geistreichsten Menschen, mit dem ich in diesen Tagen recht eigentlich einen Kampf
+                        hatte bestehen müssen. Ich hätte ihn gewiß nicht errungen, wäre ich nicht durch
+                        so genaue Bekanntschaft mit meinem Gegner, mit dessen Gesinnungen ich
+                        besonders durch Reinhard vertraut war, gar trefflich vorbereitet gewesen. Ich
+                        gewann hauptsächlich dadurch — was auch meiner eignen innersten Neigung
+                        und Überzeugung am gemäßesten ist —, daß ich rein die Sache wirken ließ
+                        und immer auf die Gelegenheit bedacht war, wenn ich sie am besten wirken
+                        lassen konnte. <seg id="57" type="frame" pos="start"><seg id="57" type="speaker">Er</seg> <seg id="57" type="intExpr">äußerte</seg> sich auch ganz demgemäß über das Werk:</seg> <said id="57" mode="direct" content="speech" level="2">Ja, was
+                        Teufel,<seg id="58" type="frame" pos="start"> <seg id="58" type="speaker">man</seg> <seg id="58" type="intExpr">weiß</seg> da,</seg> <said id="58" mode="indirect" content="thought" level="3">woran man sich zu halten hat</said>, die Gründlichkeit und
+                         
+            
+            Beharrlichkeit, womit die Sache bis ins kleinste verfolgt ist, zeigt, daß es lediglich nur um die reine Wahrheit und nicht darum zu tun ist, zu wirken um
+                        Aufsehen zu erregen.</said> — Ich fühlte die uns im Leben so selten beschiedne Freude,
+                        einen der ersten Geister von einem Irrtum zurückkehren zu sehen, wodurch er
+                        an sich selber untreu geworden war, es konnte keinen wahrern, wohltätigern
+                        Beifall für mich geben, <seg id="59" type="frame" pos="start"><seg id="59" type="speaker">ich</seg> <seg id="59" type="intExpr">sagte</seg> ihm,</seg> <said id="59" mode="indirect" content="speech" level="2">wie ich es erkenne, wie hoch ich den
+                        Beifall schätze, von ihm, der die Kunst gewissermaßen ein für allemal abgefertigt
+                        gehabt, wie sehr mich eine so ernste wesenhafte Erkenntnis meines Strebens in
+                        der Sache entschädige für den oft schmerzhaften, leider unentbehrlichen, nie aber
+                        das Herz erfreuenden Beifall der großen Welt, zumeist der Fürsten, die gewöhnlich jedem Hanswurst und Schauspieler denselben schenken.</said> — <said id="60" mode="reported" content="speech" level="2"><seg id="60" type="speaker">Ich</seg> <seg id="60" type="intExpr">sprach</seg>, wie
+                        eben meine Stimmung es mir eingab</said>,<seg id="61" type="frame" pos="start"> <seg id="61" type="speaker">ich</seg> <seg id="61" type="intExpr">weiß</seg> nicht, </seg><said id="61" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="62" mode="reported" content="speech" level="3">wie <seg id="62" type="speaker">ich</seg> die <seg id="62" type="intExpr">Worte</seg> setzte</said></said>,
+                        sie mußten meine Bewegung kundgeben, denn der Alte wurde ganz gerührt,
+                        drückte mir die Hand und fiel mir um den Hals, das Wasser stand ihm in
+                        den Augen."
+</said>                         
+            So war dieses merkwürdige Zusammentreffen, diese Berührung des Neuen
+                        mit dem Alten würdig und schön verlaufen. Bedeutete es einen vollständigen
+                        Sieg? Es läßt sich in der innern Entwicklung unsers großen Dichters in vielen
+                        Punkten ein Kreislauf erkennen, insofern er sich in reifern Jahren zu den im
+                        Sturm und Drang des innern Wachstums ausgegebnen Idealen zurückfindet.
+                        Selbst von seinen eignen Dichtungen gilt das. Zur Zeit seiner Italienischen
+                        Reise, d. h. also zur Zeit seiner Bekehrung zum klassischen Ideal, empfand er
+                        einen wahren Abscheu gegen seinen Werther, der doch zuerst seinen Ruhm siegreich in alle Welt hinausgetragen hatte. In einem der schönsten und tiefsten
+                        Gedichte <seg id="63" type="speaker">seiner</seg> späten Jahre, der Trilogie der Leidenschaft, <seg id="63" type="frame" pos="start">trägt der erste Satz
+                        dieser Symphonie die <seg id="63" type="intExpr">Überschrift</seg>:</seg> <said id="63" mode="direct" content="writing" level="1">„An Werther"</said>, und man fühlt<said id="64" mode="reported" content="writing" level="1"> den ergreifenden
+                        <seg id="64" type="intExpr">Worten</seg></said>, die in den tiefempfunden Versen gipfeln:
+                         
+            
+               
+            
+            die innige Rührung und Ergriffenheit an, mit denen er auf diese Gestalt, diese
+                        Phase seines Jugendlebens schaut. Auch in seinen religiösen Anschauungen läßt
+                        sich ein solches Fallenlassen und Wiederergreifen, ein Verlieren und Wiederfinden nachweisen. Natürlich, es ist nicht ganz dasselbe, es ist eine vertiefte,
+                        geklärte Anschauung, der man es anfühlt, daß eine ernste, eindringende Geistesarbeit darüber hingegangen ist. So war es auch, um von andern: <said id="65" mode="reported" content="speech" level="1" nonfact="yes">zu <seg id="65" type="intExpr">schweigen</seg></said>,
+                        mit der Kunstanschauung, oder richtiger, so sollte es nun durch Sulpiz mit ihm
+                        werden. <said id="66" mode="reported" content="speech" level="1">Wie hatte <seg id="66" type="speaker">Goethe</seg> in seiner Jugend für das Straßburger Münster
+                        <seg id="66" type="intExpr">geschwärmt</seg>! </said>Welchen Jubelhymnus in seinem kleinen Aufsatze: „Von deutscher
+                        Baukunst" darauf angestimmt! Darauf völlige Absage an die Götter der Jugend,
+                        bis zu Ausdrücken des Hasses, des Abscheus gesteigert. Nun stand auch hier
+                        eine Ungleichung, ein Wiederanknüpfen in der nächsten Aussicht. Aber Sulpiz
+                         
+            
+            täuschte sich doch, wenn er in der stolzen Freude über den erreichten Erfolg
+                        von einem völligen Siege träumte. Er brachte dabei nicht in Anschlag, daß
+                        Goethe das, was er innerlich nun einmal erlebt und erarbeitet hatte, nicht
+                        wieder abstreifen konnte. Sein Urteil wurde milder, er ließ gelten, er erkannte
+                        an, wo er eine Zeit lang nur hatte hassen wollen. Aber alles wieder daran
+                        geben, alles wieder so werden lassen, das ging denn doch nicht, und das mußte
+                        er selbst noch erfahren.
+            In seinem Erscheinen und seinem klugen, offnen, mannhaften Verhalten
+                        <seg id="67" type="frame" pos="start">kann man Boisseree eine lebendige Illustration zu Goethes Wort <seg id="67" type="intExpr">nennen</seg>:</seg>
+                         
+            <said id="67" mode="direct" content="writing" level="1">Höchstes Glück der Erdenkinder
+                        Ist nur die Persönlichkeit.</said>
+                        
+            Das war er im vollsten Sinne des Wortes, keine gewaltige Herrscher- und
+                        Willensnatur, eher milde und vermittelnd, aber seine Seele glühte doch von
+                        jenem angehaltnem ernsten Wüten, <said id="68" mode="reported" content="speech" level="1">wie <seg id="68" type="speaker">Faust</seg> es <seg id="68" type="intExpr">nennt</seg>, wenn es sich um eine
+                        große Sache handelte.</said> Er war einer reinen, uninteressierten Begeisterung fähig
+                        und so in jedem Falle ein bedeutender Mensch, der überall unter all den Guten
+                        und Großen seiner Zeit Freunde warb und fand, wovon die Reichhaltigkeit seines
+                        Briefwechsels deutlich Zeugnis ablegt. Und wenn er es in bezug auf die Kunst
+                        bei Goethe vielleicht nicht über ein freundliches Geltenlassen, eine bedingte Anerkennung hinausgebracht hatte, sein Herz hatte er völlig gewonnen. Eine wirkliche warme Freundschaft verbindet die beiden seitdem, die ihren Ausdruck oder
+                        ihre Betätigung in <said id="69" mode="reported" content="writing" level="1">einem lebhaft geführten <seg id="69" type="intExpr">Briefwechsel</seg></said> sucht. Man darf
+                        diesem unter den zahlreichen, die wir von dem Dichter besitzen, einen besondern
+                        Rang zuweisen. Abgesehen von dem mit Schiller und mit Zelter ist keiner auf
+                        einen so freundschaftlichen Ton gestimmt wie dieser. In allen andern überwiegt ein besondres wissenschaftliches Interesse, wie mehrfach die Farbenlehre
+                        den Mittelpunkt des Inhalts abgibt. <said id="70" mode="reported" content="writing" level="1">Hier <seg id="70" type="intExpr">spricht</seg> nur der <seg id="70" type="speaker">Freund</seg> zum Freunde</said>,
+                        <said id="71" mode="reported" content="writing" level="1">und <seg id="71" type="speaker">Goethe</seg> findet so viele <seg id="71" type="intExpr">Wendungen</seg> intimsten,<said id="72" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"> <seg id="72" type="speaker">man</seg> möchte <seg id="72" type="intExpr">sagen</seg></said> zärtlichen
+                        Klanges</said>, daß man sieht, wie sehr er mit seinem Herzen dabei beteiligt war.
+                        Alle Wechselfülle im Leben Boisserees begleitet <seg id="73" type="speaker">er</seg> mit der herzlichsten Teilnahme oder <said id="73" mode="reported" content="speech" level="1">mit kräftigem <seg id="73" type="intExpr">Segensspruche</seg></said> bis zu der späten Verheiratung mit
+                        Mathilde Kapp im Jahre 1828.
+            
+            
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

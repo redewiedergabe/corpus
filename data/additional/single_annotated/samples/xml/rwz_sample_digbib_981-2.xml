@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>32. Der Soldat und das Feuerzeug</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_32__Der_Soldat_und_das_Feuerzeug.tg683_1.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">32. Der Soldat und das Feuerzeug</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Bringe mir einen Sack voll Geld!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sprach</seg> der <seg id="1" type="speaker">Soldat</seg>.</seg> <said id="2" mode="reported" content="speech" level="1">Kaum hatte <seg id="2" type="speaker">er</seg> das Wort <seg id="2" type="intExpr">gesagt</seg></said>, so war der Riese auch schon wieder fort, und kam bald zurück und schleppte einen großen Maltersack voll Geld herein. <said id="3" mode="direct" content="speech" level="1">»So!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sprach</seg> der <seg id="3 4" type="speaker">Soldat</seg></seg>; <said id="4" mode="direct" content="speech" level="1">»nun hole mir auch die jüngste Prinzessin her.«</said> Der Riese lief fort und brachte die Prinzessin mit sammt der Bettstelle. Nachdem nun der Soldat die Prinzessin tüchtig abgeküßt hatte, mußte sie der Riese wieder forttragen. 
+                  <seg id="5" type="frame" pos="start">Den andern Morgen <seg id="5" type="intExpr">sprach</seg> die <seg id="5" type="speaker">Prinzessin</seg> zu ihrer Mutter:</seg> <said id="5" mode="direct" content="speech" level="1">»Ach liebe Mutter, diese Nacht wars mir doch gerade, als hätte mich ein Riese mit der Bettstelle zu einem schönen Prinzen getragen und der hätte mich geküßt.«</said> <said id="7" mode="direct" content="speech" level="1">»Liebes <seg id="8" type="speaker">Kind</seg>«</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">sprach</seg> die <seg id="7" type="speaker">Mutter</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»das sind Träume, <said id="8" mode="reported" content="thought" level="2" nonfact="yes"><seg id="8" type="intExpr">denke</seg> nicht mehr daran.</said>«</said> 
+                  In der folgenden Nacht nahm der Soldat wieder sein Feuerzeug und schlug Feuer. Sogleich erschien der <seg id="9" type="speaker">Riese</seg> <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">fragte</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2" nonfact="yes">Was <seg id="10" type="intExpr">befiehlt</seg> der <seg id="10" type="speaker">Herr</seg>?</said>«</said> <said id="11" mode="direct" content="speech" level="1">»Hole mir die Prinzessin her«</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">sprach</seg> der <seg id="11" type="speaker">Soldat</seg>.</seg> Der Riese lief fort und brachte sie mit sammt der Bettstelle. Nachdem nun der Soldat die schöne Prinzessin wieder tüchtig abgeküßt hatte, mußte sie der Riese wieder forttragen. 
+                  <seg id="12" type="frame" pos="start">Den andern Morgen <seg id="12" type="intExpr">sprach</seg> die <seg id="12" type="speaker">Prinzessin</seg> zu ihrer Mutter:</seg> <said id="12" mode="direct" content="speech" level="1">»Ach liebe Mutter, diese Nacht war mir's doch grade so wieder wie vorige Nacht; ein Riese trug mich zu dem schönen Prinzen und der hat mich geküßt.«</said> <said id="14" mode="direct" content="speech" level="1">»Liebes <seg id="15" type="speaker">Kind</seg>«</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">sprach</seg> die <seg id="14" type="speaker">Mutter</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»das sind Träume; <said id="15" mode="reported" content="thought" level="2" nonfact="yes"><seg id="15" type="intExpr">denke</seg> nicht mehr daran.</said>«</said> Es 
+kam der Königin aber doch sonderbar vor, daß das Mädchen zwei Nächte hinter einander immer denselben Traum gehabt hatte, <seg id="16" type="frame" pos="start">und weil <seg id="16" type="speaker">sie</seg> gern <seg id="16" type="intExpr">gewußt</seg> hätte,</seg> <said id="16" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob etwas Wahres daran sei</said>, so nähte sie einen Beutel, füllte ihn mit Erbsen, schnitt ein kleines Loch hinein, daß die Erbsen allmählich herauslaufen könnten, und hängte ihn an der Prinzessin ihr Bett. In der Nacht kam der Riese auch richtig wieder an; während er aber die Prinzessin forttrug, fielen, ohne daß er etwas merkte, die Erbsen nach und nach aus dem Beutel heraus auf den Boden den ganzen Weg entlang, und als nun die Königin am andern Morgen nachsah, <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">merkte</seg> <seg id="17" type="speaker">sie</seg> wohl,</seg> <said id="17" mode="indirect" content="thought" level="1" border="yes">daß ihres Töchterleins Träume nicht ohne Grund waren.</said> Die ausgestreuten Erbsen verriethen ihr den Weg, den der Riese gegangen war, nach dem Gasthause bis vor des Soldaten Zimmerthür. Da nahm <seg id="18" type="speaker">sie</seg> den Wirth heimlich beiseite <seg id="18" type="frame" pos="start">und <seg id="18" type="intExpr">befragte</seg> ihn,</seg> <said id="18" mode="indirect" content="speech" level="1">wes Standes und Herkommens der Gast wäre, der da bei ihm im Hause wohnte.</said> <seg id="19" type="frame" pos="start">Der <seg id="19" type="speaker">Wirth</seg> <seg id="19" type="intExpr">sprach</seg>,</seg> <said id="19" mode="indirect" content="speech" level="1"><said id="20" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="20" type="speaker">er</seg> <seg id="20" type="intExpr">wüßte</seg> es selber nicht so recht</said>, aber es müßte wohl ein abgedankter Soldat sein, der plötzlich zu vielem Gelde gekommen sei; als er angekommen, hätte er eine alte schmutzige Soldatenuniform getragen.</said> Da lief die Königin schnell hin und holte die Wache, die nahm den Soldaten, ehe er sich's versah, gefangen und brachte ihn in einen festgemauerten Gefängnißthurm. Der <seg id="22" type="speaker">König</seg>, <said id="21" mode="reported" content="speech" level="1" border="yes">da <seg id="21" type="speaker">er</seg> die Sache <seg id="21" type="intExpr">erfuhr</seg></said>, <said id="22" mode="reported" content="speech" level="1"><seg id="22" type="intExpr">verurtheilte</seg> den Soldaten zum Tode.</said> 
+                  Nun hätte sich der Soldat leicht befreien können, wenn er nur sein Feuerzeug gehabt hätte, das hatte er aber in der Eile in seinem Gasthofe liegen lassen. Den andern Tag sollte er hingerichtet werden. Da saß er nun schon des Morgens ganz früh, da eben der Tag anbrach, ganz traurig vor dem Gefängnißgitter, und wie er so auf die Straße hinaussah, ging da gerade seines Wirthes Dienstmagd vorbei und hatte Milch geholt.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

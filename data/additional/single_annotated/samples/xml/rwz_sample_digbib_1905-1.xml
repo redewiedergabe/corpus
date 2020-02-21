@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>23. Der arme Fischer</title>
+             <author>Meier, Ernst</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meier,_Ernst_23__Der_arme_Fischer.tg30_1.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">23. Der arme Fischer</f>
+         <f name="author">Meier, Ernst</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+23. Der arme Fischer. 
+                  Es waren einmal zwei Brüder, davon war der eine ein Geistlicher, der andre ein Fischer; <said id="1" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="1" type="speaker">dieser</seg> aber <seg id="1" type="intExpr">wußte</seg> nichts von jenem.</said> Da begab es sich eines Abends, daß ein vornehmer <seg id="2" type="speaker">Herr</seg> zu dem Fischer kam <said id="2" mode="reported" content="speech" level="1">und ihn um ein Nachtlager <seg id="2" type="intExpr">bat</seg>.</said> <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Fischer</seg> <seg id="3" type="intExpr">entschuldigte</seg> <seg id="3" type="intExpr">sich</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">daß er ihm nichts zu eßen und zu trinken reichen könne</said>; <said id="4" mode="reported" content="speech" level="1">allein der <seg id="4" type="speaker">andere</seg> <seg id="4" type="intExpr">bat</seg> bloß um Dach und Fach</said>, was ihm der Fischer auch gern gewährte, worauf sie sich noch lange mit einander unterhielten. 
+                  Am folgenden Morgen, als der Fremde abreisen wollte, <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">er</seg> zu dem Fischer:</seg> <said id="5" mode="direct" content="speech" level="1">»wenn Ihr mich begleiten mögt, so will ich Euch glücklich machen und Euch ein Waßer zeigen, wo Ihr einen guten Fang thun und Euer Brod leicht verdienen könnt.«</said> Ja, dazu war der Fischer gleich bereit und gieng mit, bis daß sie an einen See kamen. <seg id="6" type="frame" pos="start">Da <seg id="6" type="intExpr">sprach</seg> der <seg id="6" type="speaker">Fremde</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»so, hier mußt Du fischen; und jetzt behüt Dich Gott, Bruder!«</said> <said id="7" mode="direct" content="speech" level="1">»Wie nennst Du mich Bruder? «</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sprach</seg> der <seg id="7" type="speaker">Fischer</seg> verwundert.</seg> <seg id="8" type="frame" pos="start">Der <seg id="8" type="speaker">andre</seg> aber <seg id="8" type="intExpr">sagte</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»ich kann mich nicht länger aufhalten, leb wohl!«</said> und damit gieng er weiter. – 
+                  Nun warf der Fischer sein Netz in den See und fieng eine große Menge Fische von allerlei Art, so daß er sie kaum mit fortbringen und aufbewahren konnte. Dann gieng er ganz vergnügt zu einem Edelmann und der kaufte ihm alle ab und gab ihm ein gutes Geld dafür. Als aber die Köchin die Fische zurechtmachen und braten wollte, da kam aus der Feuerwand eine alte <seg id="9" type="speaker">Frau</seg> hervor, die hatte eine Haselruthe in der Hand <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">sprach</seg>:</seg>
+                         
+                  
+                     
+                        <said id="9" mode="direct" content="speech" level="1">Fischlein, Fischlein!
+                     
+                     
+                        Lebet ihr lang,
+                     
+                     
+                        Sterb' ich bald.</said>
+                        
+                     
+                  
+                  Nicht lange nachher gieng der Fischer abermals an den See, um zu fischen und fieng ebenso viel als das erste Mal und verkaufte den ganzen Fang wieder an den Edelmann. Der Köchin aber gieng es beim Braten gerade so wie das erste Mal; es kam ein altes <seg id="10" type="speaker">Weib</seg> aus der Feuerwand <seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">sagte</seg> das Sprüchlein:</seg>
+                         
+                  
+                     
+                        <said id="10" mode="direct" content="speech" level="1">Fischlein, Fischlein!
+                     
+                     
+                        Lebet ihr lang,
+                     
+                     
+                        Sterb' ich bald.</said>
+                        
+                     
+                  
+                  Dasselbe geschah, als sie nach einiger Zeit zum dritten Mal die Fische, welche dieser Mann gebracht hatte, zubereiten sollte. 
+                  Als der Fischer aber zum vierten Male sein Netz in den See warf, da zog er und zog und brachte endlich mit Mühe eine große schwere Kiste an's Ufer, daran hieng ein ganzes Bund Schlüßel. Da nahm er einen davon, steckte ihn in das Schloß und versuchte die Kiste aufzuschließen; und richtig, es gieng. Als er sie aber aufmachte, kam ein großer großer <seg id="11" type="speaker">Mann</seg> heraus <seg id="11" type="frame" pos="start">und <seg id="11" type="intExpr">sprach</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»Kerl, was machst Du da? jetzt mußt Du in diese Kiste.«</said> <seg id="12" type="frame" pos="start">Der <seg id="12" type="speaker">Fischer</seg> aber <seg id="12" type="intExpr">sagte</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»geh Du nur wieder hinein, wenn Du darin gewesen bist!«</said> worauf der große Mann sich wie eine Kugel zusammenrollte 
+ und sich hineinlegte. Dann verschloß der Fischer die Kiste und schob sie wieder in den See und gieng fort und legte sich unter einen Baum, woselbst er einschlief. Als er endlich wieder aufwachte, hörte er von fern ein Geläut und lief hin und her, <seg id="13" type="frame" pos="start">indem <seg id="13" type="speaker">er</seg> <seg id="13" type="intExpr">dachte</seg>:</seg> <said id="13" mode="direct" content="thought" level="1">»wenn ich nur dort wäre, wo man läutet!«</said> Und alsbald sah er auf dem See ein Schiff, darin waren Männer, die ihm winkten, daß er zu ihnen kommen möchte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

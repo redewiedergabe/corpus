@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Jugend</title>
+             <author>Duncker, Dora</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Duncker,_Dora_Jugend.tg11_1.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Jugend</f>
+         <f name="author">Duncker, Dora</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">3</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Man hatte ihm für ein Jahr die leidlich besoldete Vertretung desselben Assistenten am städtischen Krankenhaus im Friedrichshain angetragen, den er im vorigen Herbst während kurzer Wochen ersetzt hatte. Der Gesundheitszustand war nicht schlecht. Otto Frenjen hatte häufig Zeit gefunden, zu Charlotte hinauszufahren. 
+                  Mitteilsamer geworden, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">erzählte</seg> <seg id="1" type="speaker">er</seg> ihr,</seg> <said id="1" mode="indirect" content="speech" level="1">was er für die Seinen erreicht hatte und wie er sich seine eigene Zukunft zu gestalten dachte.</said> 
+                  Wenn sie ihn dahin brachte, hatte Charlotte zum Teil gewonnenes Spiel. 
+                  Nicht daß die alte, sehnsüchtige Zärtlichkeit der Thüringer Maientage in ihm aufgebrochen wäre, wohl aber etwas von dem Feuer und dem Schwung, die Charlotte zuerst an ihm entzückt hatten. 
+                  Mit leuchtenden Augen, in brennenden Farben <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="intExpr">malte</seg> <seg id="2" type="speaker">er</seg> ihr dann ein Zukunftsbild seines künftigen Lebens im reinen Dienst der Wissenschaft.</said> Nach einer kleinen oder mittleren Universität zog's ihn hin, wo das praktische und theoretische Wirken des einzelnen sich individuell entwickeln konnte, wo der einzelne sich betätigen konnte, nicht im großen Strom mitzuschwimmen brauchte. 
+                  Beglückt hörte Charlotte ihm zu. <said id="4" mode="indirect" content="thought" level="1">Daß <said id="5" mode="reported" content="speech" level="2" nonfact="yes"><seg id="5" type="speaker">er</seg> nicht von ihr und sich <seg id="5" type="intExpr">sprach</seg></said></said><seg id="4" type="frame" pos="end">, wollte <seg id="4" type="speaker">sie</seg> gern <seg id="4" type="intExpr">vergessen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wenn er nur für sich selber wieder lebensfrischer, tatenfroher ward.</said> 
+                  Das Jahr war hingegangen, <said id="6" mode="reported" content="speech" level="1">ohne daß ein entscheidendes <seg id="6" type="intExpr">Wort</seg> zwischen ihnen gefallen wäre.</said> 
+                  Auf eine in ärztlichen Kreisen Aufsehen erregende Broschüre hin war er nach Jena berufen worden. 
+                  <said id="7" mode="reported" content="thought" level="1"><seg id="7" type="speaker">Otto Frenjens</seg> heißester <seg id="7" type="intExpr">Wunsch</seg> hatte sich erfüllt.</said> Mit unvergossenen, brennenden Tränen in den Augen, mit unnennbarem Weh im Herzen hatte sie ihn ziehen lassen. 
+                  Am nächsten Morgen, eine Stunde vor der Abreise nach Jena, war er noch einmal wiedergekommen. 
+                  <said id="8" mode="reported" content="speech" level="1">Lange hatte <seg id="8" type="speaker">er</seg> nichts <seg id="8" type="intExpr">gesagt</seg></said>, sie nur stumm und traurig angesehen, ihre Hand in der seinen haltend. <seg id="9" type="frame" pos="start">Endlich hatte <seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">gesprochen</seg>, langsam und schwer.</seg> 
+                  <said id="9" mode="direct" content="speech" level="1">»Ich komme wieder, Charlotte, wenn ich Ihrer wert und würdig bin. Ein armer Schlucker, der nichts ist und nichts hat als bedürftige Verwandte und die Sorge um sie, ist kein Gefährte für Sie.«</said> 
+                  Wieder, wie so oft, hatte <seg id="10 12" type="speaker">er</seg> seine Blicke durch das kostbare Gemach schweifen lassen. 
+                  <said id="10" mode="direct" content="speech" level="1">»Damals, in jenen Maitagen, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">wußte</seg> <seg id="11" type="speaker">ich</seg> nicht,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie es um Sie stand</said>; ich hätte sonst meine Gefühle besser im Zaum gehalten.«</said> 
+                  Eine tiefe Melancholie, etwas wie Reue, hatte durch <said id="12" mode="reported" content="speech" level="1">diese <seg id="12" type="intExpr">Worte</seg></said> geklungen. 
+                  Dann, nach einem langen Kuß auf ihre Hand, war er davongeeilt. 
+                  Sie hatten sich nicht wiedergesehen. Jahre des Kampfes, schwerer, stiller Resignation waren für Charlotte der Trennung gefolgt. Sie hatte oft das Gefühl, eine alte Frau geworden zu sein, die für sich selbst nichts mehr vom Leben forderte und erwartete, die nur für ihr Kind noch auf der Welt war. 
+                  Auch diese Reise war aus Lenas frischer Initiative herausgewachsen. Charlotte lächelte. Es war ein starker Wille zum Leben und Glücklichsein in ihrem schönen begabten Kind, ein stärkerer, als sie ihn je besessen hatte. 
+                  Sie nahm die Hand von den Augen, die <seg id="13" type="speaker">sie</seg> <said id="13" mode="reported" content="thought" level="1">im <seg id="13" type="intExpr">Nachdenken</seg></said> darüber gelegt, und blickte wieder in den Brief. Er war Professor geworden, Gewinn und Ehren waren ihm nach Verdienst zugefallen. Er hielt <said id="14" mode="reported" content="speech" level="1"><seg id="14" type="speaker">sein</seg> <seg id="14" type="intExpr">Wort</seg></said>, er kam zurück, er warb um sie. Etwas wie ein schmerzliches Glücksgefühl krampfte ihr das Herz zusammen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

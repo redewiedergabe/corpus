@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Katzenjunker</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Der_Katzenjunker.tg58_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Katzenjunker</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+VII
+                     Tag für Tag war in solcher Unseligkeit hingeschlichen. <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Vom Aufbruch des hohen Gastes schien keine Rede mehr zu sein</said>, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">auch über das Zerwürfnis mit der berühmten Freundin wie ihren gegenwärtigen Aufenthalt verlautbarte nicht eine Silbe.</said> Lori, wenig neugieriger Natur, und nur froh, daß sie nicht wiederkam, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">fragte nicht nach ihr.</said> <said id="4" mode="reported" content="speech" level="1">Die Zwiegespräche zwischen dem Herrn und seinem Beamten beschränkten sich auf Geschäftliches.</said> 
+                     In erster Ordnung handelte es sich um den Ankauf einer 
+Waldparzelle, die unser Revier vorteilhaft abgerundet und die Wegführung wesentlich erleichtert haben würde. Der gräfliche Besitzer machte sich indessen die gute Gelegenheit zunutze und <said id="5" mode="reported" content="speech" level="1">stellte Forderungen</said>, <said id="6" mode="reported" content="speech" level="1">welche der Prinz, der erste verständige Haushalter seiner Sippe, nicht zu gewähren willens war</said>; so hatte der Abschluß sich verzögert. 
+                     Es war am ersten Mai, Loris Geburtstag; <said id="7" mode="reported" content="speech" level="1" nonfact="yes">wir hatten desselben gegen den Prinzen nicht erwähnt</said>, Lori aus bescheidenem Taktgefühl, ich noch außerdem aus einem Grunde, <said id="9" mode="reported" content="thought" level="1" nonfact="yes">der sich errät.</said> <said id="8" mode="reported" content="speech" level="1">Die Hausgenossen waren in gleichem Sinne von uns instruiert.</said> Im übrigen lagen festliche Überraschungen auch außer unserer einförmigen Tagesordnung. Ich kehrte von einem Ausflug kaum jemals heim ohne eine kleine Spende, eine Zierat, Blume oder Frucht. Kinder lieben, daß man ihnen etwas mitbringt; bei Loris geringen Bedürfnissen blieb für besondere Tage daher kaum ein Geschenk übrig, und für gemütliche Erfindungen fehlte mir die Phantasie. 
+                     <said id="10" mode="reported" content="speech" level="1">Die gestrige Abendunterhaltung hatte sich bis nach Mitternacht ausgedehnt</said>, und so schlief Lori noch, als ich am Morgen mit dem Prinzen in den Wald ritt. <seg id="11" type="frame" pos="start">Auf dem Heimwege <seg id="11" type="intExpr">erklärte</seg> <seg id="11" type="speaker">er</seg> mir,</seg> <said id="11" mode="indirect" content="speech" level="1">daß er <said id="12" mode="reported" content="speech" level="2">den erwähnten Ankauf</said> unter so unbilligen Bedingungen aufgegeben habe.</said> <said id="13" mode="reported" content="speech" level="1">Ich stimmte ihm zu.</said> Die Sache schien abgemacht. 
+                     Das Diner wurde, <said id="14" mode="reported" content="speech" level="1">auf des Prinzen Verlangen</said>, nach unserer guten deutschen Gewohnheit, pünktlich um die Mittagsstunde genommen. Als wir kurz vor derselben zurückkehrten, fanden wir Loris Zimmertür mit einer Girlande von Tannenreis umwunden, und die gute Frau Försterin, die segenbringende Festschürze von grasgrünem Taffet, die noch aus ihrer stolzen Muhmenzeit stammte, vorgebunden, 
+im Begriffe, einen mit achtzehn Wachsstöckchen und einem dicken Lebenslicht in der Mitte geschmückten Geburtstagskuchen die Treppe hinan in den Speisesaal zu tragen. Das Geheimnis war verraten. 
+                     <seg id="15" type="frame" pos="start">Der <seg id="15" type="speaker">Prinz</seg> <seg id="15" type="intExpr">machte</seg> seiner »ältesten Freundin« <seg id="15" type="intExpr">Vorwürfe</seg>,</seg> <said id="15" mode="indirect" content="speech" level="1"><said id="16" mode="reported" content="speech" level="2" nonfact="yes">ihm nicht, behufs einer kleinen Überraschung, einen Wink gegeben zu haben.</said></said> Indessen hatte er die Aufmerksamkeit, das Geburtstagskind, als es eine Viertelstunde später an seines Väterchens Arm zur Tafel erschien, nicht im bequemen Hausanzug, sondern in Gala zu empfangen: Eskarpins, seidene Strümpfe und Schnallenschuhe, goldene Knöpfe und Stickerei an dem Gilet von weißem Atlas und dem grünen Sammetrock; den Federhut unter dem Arm. Auch ein paar Ordenssterne blitzten an seiner Brust. Wie strahlten, ob der Ehre, die großen Augen der kleinen Frau! ach, und wie giftig mögen, ob des Neides, die kleinen ihres Väterchens gezwinkert haben. Nein, blind macht sie nicht, die Liebe, und blind auch nicht der Haß. Da, an der Seite des kindlichen Weibes saß ein Held, ein Fürstensohn, im Kriegslager gestählt, eine breite, hohe Gestalt, blühend heitere Züge, jugendlich über ihre Jahre hinaus; und ihr gegenüber, als Spiegelbild zurückgestrahlt, grau und dünn der Schneiderenkel, ein Bücherwurm, vor der Zeit am Schreibtische gebeugt, mit spärlichem Haar über der mit frühen verdrießlichen Altersfalten durchzogenen Stirn.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

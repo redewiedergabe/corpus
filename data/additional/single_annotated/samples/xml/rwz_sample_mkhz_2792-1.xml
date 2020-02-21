@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_3.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+
+Das kann uns kalt
+                        lassen. Darüber regen sich bloß einige noch lebende Altösterreicher auf. Aber
+                        daß diese ungarische Armee zu einem großen Teil aus unseren Taschen bezahlt
+                        werden soll, das beunruhigt uns. Daß die Magyaren den selbständigen Staat
+                        mit Zollgrenzen gegen Oesterreich und mit der Durchführung der PersonalUnion haben wollen, <said id="1" mode="reported" content="thought" level="1" nonfact="yes">das kann <seg id="1" type="speaker">man</seg> <seg id="1" type="intExpr">für</seg> dumm <seg id="1" type="intExpr">halten</seg></said>, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">aber <seg id="2" type="speaker">man</seg> kann <seg id="2" type="intExpr">zustimmen</seg>. </said>Daß wir Oesterreicher aber selbst unsere Hilfe dazu leihen, daß
+                        ein Uebergangsstadium geschaffen werde, während dessen sich die Ungarn gemütlich vorbereiten auf die Trennung, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">das müssen <seg id="3" type="speaker">wir</seg> sowohl für dumm <seg id="3" type="intExpr">erklären</seg>, als auch für einen Verrat an allen Bewohnern der Königreiche und
+                        Länder.</said> Das hieße so viel, als seinem Feinde helfen, Waffen zu schmieden und
+                        Kugeln zu gießen.
+            <seg id="9" type="frame" pos="start">Daher muß die <seg id="9" type="intExpr">Parole</seg> für <seg id="9" type="speaker">uns</seg> lauten:</seg><said id="9" mode="direct" content="speech" level="1" nonfact="yes" prag="yes"> Los von Ungarn, und zwar
+                        so schnell als möglich. </said><said id="4" mode="reported" content="speech" level="1" nonfact="yes"><seg id="4" type="intExpr">Erklären</seg> <seg id="4" type="speaker">wir</seg> unser Einverständnis mit den Ungarn,
+                        soweit sie Selbständigkeit wollen</said> und setzen wir ihren Versuchen, uns finanziell
+                        und wirtschaftlich auszubeuten, offenen und starken Widerstand entgegen. <seg id="5" type="frame" pos="start">Ja
+                        selbst die <seg id="5" type="speaker">Schwärmer</seg> für ein österreichisches Einheitsreich, soweit es noch solche gibt, müßten <seg id="5" type="intExpr">einsehen</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes">daß zuerst die reinliche Scheidung erfolgen muß, <said id="6" mode="reported" content="thought" level="2" nonfact="yes">bevor
+                        es möglich wäre, wieder an eine dauernde Verbindung zu <seg id="6" type="intExpr">denken</seg>.</said></said> Die Gefahr
+                        aber, vor der wir stehen, ist die, daß keine reinliche Scheidung erfolgen wird,
+                        daß die Verhandlungen zwischen der Mehrheit und der Krone mit einem für
+                        uns durchaus schädlichen Kompromisse enden werden. Jn die Einheit des
+                        Heeres wird durch neuerliche nationale Konzessionen wieder ein Loch gemacht
+                        werden und die wirtschaftliche Einheit wird den Charakter einer Schonzeit
+                        für Ungarn annehmen. Wir werden für das scheinbar „gemeinsame“ Heer
+                        mehr bezahlen als auf unseren Teil käme, und für das gemeinsame Wirtschaftsgebiet materielle Opfer bringen. Wir werden den Eindruck selbstloser Förderer
+                        der ungarischen Bestrebungen machen. All das müßte verhindert werden,
+                        und zwar dadurch, <seg id="10" type="frame" pos="start">daß jetzt <seg id="10" type="speaker">wir</seg> einmal <seg id="10" type="intExpr">diktierten</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">unter welchen Bedingungen
+                        wir überhaupt noch die Gemeinsamkeit fortdauern lassen.</said> Dazu wäre notwendig, daß das Wiener Parlament sich aufraffte. Die Aussichten dazu sind
+                        aber nicht sehr groß. <seg id="7" type="frame" pos="start">Wohl hat der <seg id="7" type="speaker">Abgeordnete v. Derschatta</seg>, der Führer
+                        der Deutschen Volkspartei, den <seg id="7" type="intExpr">Antrag gestellt</seg>,</seg> <said id="7" mode="indirect" content="speech writing" level="1">das Abgeordnetenhaus solle
+                        einen Ausschuß einsetzen, der festzustellen habe, unter welchen Modalitäten
+                        die Zolltrennung durchgeführt werden könne, und der zu prüfen habe, ob
+                        der Dualismus überhaupt noch festgehalten werden könne.</said> Daß dieser Antrag
+                        bloß den Charakter einer Demonstration habe, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">wird der <seg id="8" type="speaker">Antragsteller</seg> selbst
+                        kaum <seg id="8" type="intExpr">leugnen</seg>.</said> Ob nach der morgen beginnenden Debatte dieser Ausschuß gewählt oder nicht gewählt wird, ändert an der Tatsache nichts, daß das Abgeordnetenhaus innerlich zu schwach ist, um in die Gestaltung der Dinge in
+                        der nächsten Zeit wirksam einzugreifen. Es wird eben über die Köpfe des
+                        Wiener Parlamentes geschehen, <said id="11" mode="reported" content="thought" level="1" nonfact="yes" metaph="yes">was die <seg id="11" type="speaker">Krone</seg> mit den Ungarn zu vereinbaren
+                        für gut <seg id="11" type="intExpr">befinden</seg> wird.</said>
+            Soviel aber ist sicher, daß sich in diesen Tagen das Schicksal der dualistischen
+                        Staatsform entscheidet. Ob es sich demnächst schon erfüllt, ist eine
+                        andere Frage. Die Krise des Dualismus ist akut geworden. Man wird sich
+                        weder in dem einen, noch in dem anderen Sinne zu einer Radikalkur entschließen. Das Resultat könnte leicht sein, daß aus der akuten Krise eine
+                        chronische wird.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

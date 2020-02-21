@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Grete Minde</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Grete_Minde.tg704_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Grete Minde</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="3" mode="direct" content="speech" level="1">Und erst seit kurzem. <said id="1" mode="indirect" content="thought" level="2" border="yes">Denn</said><seg id="1" type="frame" pos="mid">, wie <seg id="1" type="speaker">du</seg> <seg id="1" type="intExpr">weißt</seg>,</seg> <said id="1" mode="indirect" content="thought" level="2" border="yes">ich hatt es nicht gut und hatt es nicht schlecht.</said> <said id="2" mode="reported" content="speech" level="2">So hab ich dir oft gesagt</said>, und so war es. Aber seit ihr das Kleine habt, ist es anders. Und jeden Tag wird es schlimmer. Es ist ordentlich, als ob sie's der Trud nicht gönnte. <said id="4" mode="reported" content="thought" level="2" nonfact="yes">Was meinst du?</said>«</said> 
+                     Grete schüttelte den Kopf. <said id="5" mode="direct" content="speech" level="1">»Nein, das ist es nicht. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Ich</seg> <seg id="6" type="intExpr">weiß</seg> aber,</seg> <said id="6" mode="indirect" content="thought" level="2" border="yes">was es ist</said>, und Trud ist wieder schuld. <said id="7" mode="reported" content="speech" level="2">Sie verredet dich bei der Emrentz.</said> Das ist es.«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="speech" level="2">Verredet mich?</said> <said id="10" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Ei, da laß doch hören</said>«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">Valtin</seg>.</seg> 
+                     <said id="11" mode="direct" content="speech" level="1">»Ja, <said id="12" mode="reported" content="speech" level="2">verredet dich.</said> <said id="13" mode="reported" content="speech" level="2">Ich weiß es von der Regine.</said> Die war in der Hinterstub oben und wiegte das Kind, als sie beid am Fenster saßen. <said id="15" mode="reported" content="speech" level="2" border="yes">Und da hörte sie dein Lob aus der Emrentz Mund</said>, <seg id="14" type="frame" pos="start">und wie <seg id="14" type="speaker">sie</seg> <seg id="14" type="intExpr">sagte</seg>:</seg> <said id="14" mode="indirect" content="speech" level="2">›Du seist ein guter Jung und machtest ihr das Leben nicht schwer, was du doch könntest, denn sie sei ja noch jung und deine Stief.‹</said> Aber das mißfiel unsrer Trud, <seg id="16" type="frame" pos="start">und <seg id="16" type="speaker">sie</seg> nahm ihren spöttischen Ton an und <seg id="16" type="intExpr">fragte</seg> nur:</seg> <said id="16" mode="indirect" content="speech" level="2">ob sie denn blind sei.</said> <said id="17" mode="indirect freeIndirect" content="speech" level="2">Und ob sie nicht säh, wie dir der Schalk im Nacken säße. Du lachtest ja über sie.</said>«</said> 
+                     Valtins Augen waren immer größer geworden, <seg id="18" type="frame" pos="start">aber <seg id="18" type="speaker">Grete</seg> sah es nicht und <seg id="18" type="intExpr">fuhr</seg> unverändert <seg id="18" type="intExpr">fort</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="thought" level="2" nonfact="yes">Und das glaube nur</said>, <said id="20" mode="reported" content="speech" level="2" border="yes">Regine hört alles</said> und sieht alles. Und sie sah auch, wie sich Emrentz verfärbte, erst rot und dann erdfahl im ganzen Gesicht. Und so bitterbös. Und dann hörte sie, <seg id="21" type="frame" pos="start">wie <seg id="21" type="speaker">sie</seg> der Trud <seg id="21" type="intExpr">zuflüsterte</seg>:</seg> <said id="21" mode="direct" content="speech" level="2">›Ich danke dir, Trud, und ich will nun ein Auge darauf haben.‹</said>«</said> 
+                     <said id="22" mode="direct" content="speech" level="1">»Also daher!«</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">sagte</seg> <seg id="22" type="speaker">Valtin</seg>.</seg> <said id="23" mode="direct" content="speech" level="1">»Aber gut, <said id="24" mode="reported" content="thought" level="2" border="yes">daß ich es weiß.</said> <said id="25" mode="reported" content="speech" level="2" nonfact="yes">Ich will sie zur Rede stellen, eure Trud, wenn ich ihr auf Flur oder Treppe begegne.</said> <said id="26" mode="reported" content="speech" level="2">Mich verreden.</said> Das ist schlecht.«</said> 
+                     <said id="27" mode="direct" content="speech" level="1">»Und unwahr dazu.«</said> 
+                     Valtin schwieg eine Weile. <seg id="28" type="frame" pos="start">Dann nahm <seg id="28" type="speaker">er</seg> Gretens Hand und <seg id="28" type="intExpr">sagte</seg> beinah kleinlaut:</seg> <said id="28" mode="direct" content="speech" level="1">»Nein, unwahr eigentlich nicht. Es ist wahr, ich habe mich abgewandt und hab auch gelacht. Aber ich tat's nicht in Bösem und wollt ihr nicht wehe tun. <said id="29" mode="reported" content="thought" level="2" border="yes">Und das weiß die Trud auch.</said> <seg id="38" type="frame" pos="start">Und <seg id="38" type="speaker">sie</seg> <seg id="38" type="intExpr">weiß</seg> auch,</seg> <said id="38" mode="indirect" content="thought" level="2" border="yes">daß ich der Emrentz nicht gram bin, nein, ganz und gar nicht, und daß ich mich eigentlich freue, daß er sie gern hat</said>, <said id="31" mode="reported" content="thought" level="2">wenn ich auch so manchmal meine Gedanken darüber habe.</said> Denn er ist ein andrer Mann worden, und unser Haus ist ein ander Haus worden als vordem; und das alles dank ich ihr. Eine Stief ist freilich eine Stief, gewiß, das bleibt, und wenn ich da bin, ist es gut, und wenn ich nicht da bin, ist es noch besser; <said id="32" mode="reported" content="thought" level="2" border="yes">ich weiß es wohl</said>, und es geht ihr nichts zu Herzen, wenn's nicht eine neue Mod oder ein Putz oder eine Gasterei ist; aber eigentlich hab ich sie doch gern, <seg id="39" type="frame" pos="start">und <seg id="39" type="intExpr">weißt</seg> <seg id="39" type="speaker">du</seg>, Gret,</seg> <said id="39" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="33" mode="reported" content="speech" level="3" nonfact="yes">ich werde mit ihr sprechen</said> und <said id="34" mode="reported" content="speech" level="3" nonfact="yes">nicht mit der Trud.</said></said> Ich bin jetzt achtzehn, und mit achtzehn, da darf man's. <seg id="40" type="frame" pos="start">Und <seg id="40" type="speaker">ich</seg> <seg id="40" type="intExpr">wette</seg>,</seg> <said id="40" mode="indirect" content="thought" level="2">sie nimmt's gut auf und gibt mir einen Kuß und <said id="35" mode="reported" content="speech" level="3" nonfact="yes">ruft den Vater</said> und <said id="36" mode="reported" content="speech" level="3" nonfact="yes">erzählt ihm alles und sagt ihm alles</said> und <seg id="37" type="frame" pos="start"><seg id="37" type="intExpr">sagt</seg> ihm auch,</seg> <said id="37" mode="indirect" content="speech" level="3" nonfact="yes">daß er schuld sei, ja er, er, und daß sie mich heiraten wolle, nächstens schon, wenn er nicht anders würde, ganz anders.</said>
+
+</said></said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Im Russenlager</title>
+             <author>Klabund</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Klabund_Im_Russenlager.tg450_1.xml</f>
+         <f name="year">1918</f>
+         <f name="decade">1910</f>
+         <f name="title">Im Russenlager</f>
+         <f name="author">Klabund</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="2" mode="reported" content="speech" level="1">In der Hauptbaracke <seg id="2" type="intExpr">sang</seg> uns der russische <seg id="2" type="speaker">Gesangverein</seg>, der unter Leitung eines gefangenen Petersburger Musikdirektors steht, einige slawische Lieder <seg id="2" type="intExpr">vor</seg>. </said>Zuerst das Glockenlied. Der Vorsänger führt die Melodie. <said id="3" mode="reported" content="speech" level="1">Alle <seg id="3" type="speaker">anderen</seg> <seg id="3" type="intExpr">singen</seg> im Baß wie Glocken.</said> <seg id="1" type="frame" pos="start">Zuletzt <seg id="1" type="intExpr">sangen</seg> <seg id="1" type="speaker">sie</seg> das schwermütige Lied ihrer Erinnerung an die Heimat:</seg>
+                         
+                  
+                     <said id="1" mode="direct" content="speech" level="1">Sag, wo bist du nur, geliebte Heimat?
+                     Wo die Sterne sind, bist du gewiß.
+                     Mädchen, liebes Mädchen, ich muß reiten
+                     In die Ferne und die Finsternis.
+                  
+                  
+                     
+                     Wenn die goldnen Augen nachts vom Himmel sehen,
+                     Denk an mich, der in die Fremde ritt.
+                     Alle Wolken, die von Westen wehen,
+                     Bringen meine Sehnsucht mit.</said>
+                        
+                  
+                  Ein blutjunger <seg id="4" type="speaker">Russe</seg>, Infanterist eines Odessaer Korps und bei Suwalki gefangen genommen, stand an die Wand gelehnt, für sich allein, stützte den Kopf in die Hand, schloß die Augen <said id="4" mode="reported" content="speech" level="1">und <seg id="4" type="intExpr">sprach</seg> die Verse leise <seg id="4" type="intExpr">mit</seg>.</said> Seine Lippen bebten und seine Wimpern zitterten. <seg id="5" type="speaker">Einige</seg>, die faul auf ihren Betten lagen, hielten den Atem an <seg id="5" type="frame" pos="start">und <seg id="5" type="intExpr">wußten</seg> nicht,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wohin sie sehen sollten.</said>
+                  Der merkwürdigste Insasse des Lagers und wert, namentlich genannt zu werden, war der Hund Samuel. Er wurde (eine Art Terrier mit leichtem Einschlag von Dackel) vom Osteroder Landsturmbataillon in der Schlacht bei Tannenberg »erbeutet«. Da man sich mit ihm nicht zu verständigen vermochte, gab man ihn an die Russen zurück und internierte ihn im Lager von C. <said id="6" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Aber auch die <seg id="6" type="speaker">Russen</seg> <seg id="6" type="intExpr">wußten</seg> mit ihm nichts anzufangen</said>: er hörte weder auf Russisch noch auf Polnisch. <seg id="7" type="frame" pos="start">Bis ein <seg id="7" type="speaker">Jude</seg>, Kaufmann aus Lodz, auf den <seg id="7" type="intExpr">Gedanken</seg> kam,</seg><said id="7" mode="indirect" content="thought" level="1"> jiddisch mit ihm zu reden.</said> Der Hund sprang, halb irrsinnig vor Freude, verstanden zu werden, an seinem neuen Freunde empor, wedelte mit dem Schwanz, und seine braunen Augen leuchteten wie 
+die eines fröhlichen Kindes. Der Hund mußte im Besitze einer alten jüdischen Familie gewesen sein und war wahrscheinlich mit mehreren Juden bei Tannenberg zu den Deutschen übergelaufen. <said id="8" mode="reported" content="speech" level="1" border="yes">Er wurde von den <seg id="8" type="speaker">Russen</seg> spöttisch Samuel <seg id="8" type="intExpr">genannt</seg>.</said> Er vertrug sich mit keinem rechtgläubigen Russen, bellte sie tapfer an und nahm nicht die verlockendsten Bissen von ihnen. 
+                  Der jüdische Kaufmann und die anderen russischen Juden des Lagers gewannen ihn sehr lieb. <seg id="9" type="frame" pos="start">Manchmal <seg id="9" type="intExpr">dachten</seg> <seg id="9" type="speaker">sie</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">wenn nur alle Juden so viel Mut gegen die Russen aufbrächten wie dieser Hund.</said> Dieser Hund, so spürte man, haßte die Russen aus einer Seele heraus. Und da er ein Tier war, legte er seiner Vernunft keine Zügel an, trug seinen Haß unverhohlen zur Schau und biß die Russen in die hohen Stiefel. Weil er zu allem Überfluß noch ihre Fleischportionen stahl (die er aber nicht fraß, sondern verscharrte), griff eine heftige Mißstimmung gegen ihn unter den Russen Platz. Und da man sich nicht an die wirklichen Juden halten konnte (man war doch nicht in Rußland), erkor man den jüdischen Hund zum Opfer eines Pogroms. An einem Sabbat fanden ihn die Juden erschlagen hinter der Latrine. Sie waren keine Tiere, sondern Menschen, und außerdem in hilfloser Minderzahl. Was würde es nützen, die Russen anzubellen, da man sie nicht beißen durfte? Sie gruben 
+dem Hunde Samuel ein Grab, und ein gefangener Rabbiner hielt ihm die Leichenpredigt, als wäre er einer der ihren gewesen und ganz ein Jude.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

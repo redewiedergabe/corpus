@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Elsi, die seltsame Magd</title>
+             <author>Gotthelf, Jeremias</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Gotthelf,_Jeremias_Elsi__die_seltsame_Magd.tg64_1.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Elsi, die seltsame Magd</f>
+         <f name="author">Gotthelf, Jeremias</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Es ging heim; aber so finster war es in seinem Herzen nie gewesen seit den Tagen, an welchen das Unglück über sie eingebrochen war. Anfangs konnte es sich des Weinens fast nicht enthalten, aber es unterdrückte dasselbe mit aller 
+Gewalt, der Leute wegen. Da nahm ein bitterer, finsterer Groll immer mehr Platz in demselben. So ging es ihm also; so sollte es nicht nur nie glücklich sein, sondern noch eigens geplagt und verdächtigt werden, mußte das sich gefallen lassen, konnte sich nicht rechtfertigen; so gingen die Leute mit ihm um, um welche es das am wenigsten verdient hatte, welche es am besten kennen sollten! Wie ehedem in gewaltigen Revolutionen die Berge aus der Erde gewachsen sein sollen, so wuchs aus den Wehen seines Herzens der Entschluß empor, von allen Menschen mehr und mehr sich abzuschließen, mit niemand mehr etwas zu haben, nicht mehr zu reden, als es mußte, und so bald möglich da wegzugehen, wo man so gegen ihns sein könne. 
+                  Als die Meisterfrau heimkam, stärkte sie diesen Entschluß; sie beabsichtigte freilich das Gegenteil, aber es ist nicht allen Menschen gegeben, richtig zu rechnen, nicht einmal in Beziehung auf die Zahlen, geschweige denn in Bezug auf die Worte. <seg id="1" type="frame" pos="start"><seg id="1 3" type="speaker">Sie</seg> <seg id="1" type="intExpr">erzählte</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">wie Christen sich lustig mache in Burgdorf, und sicher gehe er mit dem Mädchen heim, und <said id="2" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was es dann gebe</said><seg id="2" type="frame" pos="end">, könne <seg id="2" type="speaker">niemand</seg> <seg id="2" type="intExpr">wissen</seg></seg>, das Mädchen sei hübsch und reich und pfiffig genug, einen Vogel im Lätsch zu fangen.</said> <said id="3" mode="indirect freeIndirect" content="speech" level="1">Das würde Elsi recht geschehen, und sie möchte es ihm gönnen, denn das sei keine Manier für eine Magd, mit einem Bauer so umzugehen. <seg id="4" type="frame" pos="start">Aber <seg id="4" type="speaker">sie</seg> fange auch an zu <seg id="4" type="intExpr">glauben</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes">da müsse was dahinter sein, das nicht gut sei</said>; <said id="5" mode="reported" content="thought" level="2">anders könne <seg id="5" type="speaker">sie</seg> es <seg id="5" type="intExpr">sich</seg> nicht <seg id="5" type="intExpr">erklären</seg></said>, oder sei es anders, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">so solle <seg id="6" type="speaker">es</seg> es <seg id="6" type="intExpr">sagen</seg>.</said></said> <said id="7" mode="reported" content="speech" level="1" nonfact="yes">Diesem setzte <seg id="7" type="speaker">Elsi</seg> nichts als trotziges <seg id="7" type="intExpr">Schweigen</seg> entgegen.</said> 
+                  In trotzigem Schweigen ging es zu Bette und wachte in ihm auf, als es an sein Fenster klopfte und Christes Stimme laut ward vor demselben. Derselbe hatte es doch nicht übers Herz bringen können, einen neuen Tag aufgehen zu lassen über seinem Zwist mit Elsi. <said id="9" mode="indirect" content="speech" level="1">Er trank</said><seg id="9" type="frame" pos="mid">, wie <seg id="9" type="speaker">man</seg> <seg id="9" type="intExpr">sagt</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">guten Wein, und je mehr er trank, desto besser ward er.</said> Je mehr 
+der Wein auf dem Heimweg über ihn kam, desto mehr zog es ihn zu Elsi, mit ihm Frieden zu machen. Im Wirtshaus zu Heimiswyl kehrte <seg id="10 11" type="speaker">er</seg> mit seinem Meitschi ein, aber nur um desselben loszuwerden mit Manier, ließ eine Halbe bringen, <said id="10" mode="reported" content="speech" level="1"><seg id="10" type="intExpr">bestellte</seg> Essen</said>, ging <said id="11" mode="reported" content="speech" level="1">unter einem <seg id="11" type="intExpr">Vorwand</seg></said> hinaus, bezahlte und erschien nicht wieder. Das Mädchen war, wie gesagt, nicht von den Dummen eines, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">es</seg> <seg id="12" type="intExpr">merkte</seg> bald,</seg> <said id="12" mode="indirect" content="thought" level="1" border="yes">woran es war</said>, jammerte und schimpfte nicht, hielt nun mit dem, was Christen bezahlt hatte, einen Andern zu Gast, und so fehlte es ihm an einem Begleiter nach Hause nicht. Dem armen Christen ging es nicht so gut. <seg id="13" type="speaker">Elsi</seg>, durch die Bäurin neu aufgeregt, hielt an seinem Entschloß fest <said id="13" mode="reported" content="speech" level="1" nonfact="yes">und <seg id="13" type="intExpr">antwortete</seg> nichts</said>, gäb wie Christen bat und sich unterzog; es mußte den Kopf ins Kissen bergen, damit er sein Weinen nicht höre, aber es blieb fest und antwortete nicht einen Laut. Christen tat endlich wild, aber Elsi bewegte sich nicht; zuletzt entfernte sich derselbe halb zornig und halb im Glauben, Elsi habe zu hart geschlafen und ihn nicht gehört.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

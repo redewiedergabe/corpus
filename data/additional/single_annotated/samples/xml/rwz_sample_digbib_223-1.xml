@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>1. Vom Hanns und der Gretl</title>
+             <author>Anzengruber, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Anzengruber,_Ludwig_1__Vom_Hanns_und_der_Gretl.tg225_1.xml</f>
+         <f name="year">1880</f>
+         <f name="decade">1880</f>
+         <f name="title">1. Vom Hanns und der Gretl</f>
+         <f name="author">Anzengruber, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="15" mode="direct" content="speech" level="1"><said id="13" mode="reported" content="thought" level="2" border="yes"><said id="1" mode="direct" content="speech" level="3">Im Himmel laßt sich auch nix einholn, <seg id="2" type="frame" pos="start">der <seg id="2" type="speaker">Pfarrer</seg> <seg id="2" type="intExpr">sagt</seg>,</seg> <said id="2" mode="indirect" content="speech" level="4">dort geb's keine Mandln und Weibln, wir habn's für Zeit und Ewigkeit verhaut.</said> O Herrgott, gabst, daß wir nochmal jung wurden, <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">ich</seg> <seg id="3" type="intExpr">wüßt</seg>,</seg> <said id="3" mode="indirect" content="thought" level="4" border="yes">was ich tät!</said>«</said> 
+                  <said id="4" mode="direct" content="speech" level="3">»O du mein Herr und Heiland«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagt</seg> die <seg id="4" type="speaker">Gretl</seg>,</seg> <said id="4" mode="direct" content="speech" level="3">»dös wird halt nimmer sein«</said>, und dabei weint die Alte, daß 'n Hanns, so wie er neben ihr sitzt, auch mit beutelt. 
+                  <said id="5" mode="direct" content="speech" level="3">»Du bist doch a gute Seel«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">sagt</seg> der <seg id="5" type="speaker">Hanns</seg></seg>, und wie er mit seine zittrigen Händ hinüberlangt, damit er die Alte um die Achsel nehmen und trösten kann, fallt ihm sein Stock aus der Hand</said> ... und ...
+                  <said id="6" mode="direct" content="speech" level="2">»Du Sakra du«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">schreit</seg> die <seg id="6" type="speaker">Waldfrau</seg>,</seg> <said id="6" mode="direct" content="speech" level="2">»verbrich mir die Sanduhr nit!«</said> 
+                  Und er schaut auf, da sitzt er aufm Schemel, neben ihm auf der Erd liegt die Sanduhr, die er hat fallen lassen, und rundum sind die Totenköpf – – er ist in der Hütten der Waldfrau, <said id="14" mode="reported" content="thought" level="2" border="yes">und alles war nur so ein einwendigs Gsicht.</said> 
+                  Die Waldfrau aber is grad mitm Messer um 'n ganzen Brotlaib herumkommen – nit länger hat 's Ganze dauert, als sie ihr Stückel Brot gschnitten hat. – Jetzt nimmt sie's in die eine Hand, beißt ein rechtschaffen Stück ab und hält die andere Hand offen hin. 
+                  Der Hanns sucht mit zitterndem Finger aus all seine Säck seine Kreuzer zusamm, nit ein hat er bhalten, alle hat er der klugen Frau geben. Ganz aufrecht is er dagstanden, als ob er das Dach von der Hütten traget und wär ihm nur a Spaß! 
+                  
+                     Die Augen habn ihm geleucht, und die Zähn hat er übereinander gebissen. 
+                  Und die Waldfrau hat 's Maul voll ghabt und 'kaut und geschluckt. 
+                  <said id="7" mode="reported" content="speech" level="2" nonfact="yes">Keins hat ein Wörtl gredt.</said> 
+                  Der Hanns ist fortgangen, und die Waldfrau hat hinter ihm zugriegelt. Dann is es lang still blieben draußen in der klaren Nacht, bis einer beim letzten Baum, wo die Waldnasen aufhört, ein Juchezer tan hat, daß die Blatteln aufm Baum und 's Gesträuch aufm Boden zitternd wordn sein, und drüben hat er einen schlafenden Berg aufgweckt, daß der auch mit einm Schrei munter wordn is.
+                  Dann ist der eine auf das Dorf zutrabt, wo die Gretl haust; – an der Straßen sind die Wegschranken hingelaufen, da hat er sich angstemmt und einen Balken ausghobn und über die Achsel geschultert, wie die Riesen mit die Wiesbäum getan haben sollen, er ist sich wohl so vorkommen, als wär er heut so ein halbgewachsener Riesenkerl, und wie er zur Gretl ihrm Fenster kommt, tupft er ganz säuberlich mit seinm Wiesbaum an die Scheiben an. 
+                  Das Glas war gleich gescheiter und hat nachgegeben, und ein handgroßes Stück is ausgebrochen und im Mondlicht wie eine Sternschneuze ins Gras heruntergeschossen. 
+                  Und oben hat die Gretl gschrien. 
+                  Und unten hat der Hanns gelacht. 
+                  Und wie sich die Gretl erholt hat von ihrem Schrecken, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">fragt</seg> <seg id="8" type="speaker">sie</seg>,</seg> <said id="8" mode="indirect" content="speech" level="2"><said id="9" mode="reported" content="speech" level="3" nonfact="yes">was die weise Frau gesagt hat.</said></said> 
+                  <said id="10" mode="direct" content="speech" level="2">»<said id="11" mode="reported" content="speech" level="3" nonfact="yes">Gsagt hat sie nix</said>«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">sagt</seg> der <seg id="10" type="speaker">Hanns</seg>,</seg> <said id="10" mode="direct" content="speech" level="2">»aber geheirat wird!«</said></said>
+                         
+                  <said id="12" mode="direct" content="speech" level="1">»Und geheirat is wordn, <said id="16" mode="reported" content="speech" level="2" nonfact="yes">und aus is die Gschicht</said>«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">sagte</seg> der <seg id="12" type="speaker">Steinklopferhanns</seg></seg>, klopfte sein Pfeifchen aus und machte Anstalt, wieder nach der Straße hinabzusteigen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Andrea Delfin</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyse,_Paul_Andrea_Delfin.tg565_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Andrea Delfin</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">4</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Euer</seg> Auge <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="thought" level="1">und das ist das Geschlecht, auf dessen Schultern die Zukunft Venedigs ruhen soll?</said> – <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="speaker">Man</seg> <seg id="2" type="intExpr">nannte</seg> Euch meinen Namen.</said> <said id="3" mode="reported" content="speech" level="1">Unvermerkt lenktet <seg id="3" type="speaker">Ihr</seg> das <seg id="3" type="intExpr">Gespräch</seg> mit mir auf die große Vergangenheit des Staates, dem meine Ahnen ihre Dienste gewidmet hatten.</said> <said id="4" mode="reported" content="speech" level="1" nonfact="yes">Von der Gegenwart und den Diensten, die ich ihm schuldig blieb, <seg id="4" type="intExpr">schwiegt</seg> <seg id="4" type="speaker">Ihr</seg> schonend.</said> 
+                  Seit jenem Gespräch las ich Tag und Nacht in einem Buch, das ich früher nie eines Blickes gewürdigt hatte, in der Geschichte meines Vaterlandes. Die Frucht dieses Studiums war, daß ich, von Grauen und Abscheu getrieben, die Stadt für immer verließ, die einst Länder und Meere beherrscht hatte und nun die Sklavin einer kläglichen Tyrannis war, nach außen so ohnmächtig, wie unselig und gewalttätig nach innen. 
+                  Ich kehrte zu meinen Geschwistern zurück. <said id="5" mode="reported" content="speech" level="1">Es gelang <seg id="5" type="speaker">mir</seg>, meinen Bruder zu <seg id="5" type="intExpr">warnen</seg></said>, ihm die Fäulnis des Lebens aufzudecken, das von fern sich so gleißend ansah. <seg id="6" type="frame" pos="start">Aber <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">dachte</seg> nicht,</seg> <said id="6" mode="indirect" content="thought" level="1" nonfact="yes">daß alles, was ich tat, um ihn und uns zu retten, uns nur um so gewisser verderben sollte.</said> 
+                  Ihr kennt die Eifersucht, mit der die Machthaber in der Mutterstadt den Adel der Terraferma von jeher betrachtet haben. Hatte man doch in Zeiten, wo der Republik zu dienen eine Ehre war, nie aufgehört, ein Losreißen des Festlandes zu fürchten. Jetzt, wo verschuldete und unvermeidliche Übel eine Änderung der Weltstellung Venedigs herbeigeführt hatten, wurde jene Furcht die Quelle der unerhörtesten Ränke und Freveltaten. 
+                  <said id="7" mode="reported" content="speech" level="1">Laßt <seg id="7" type="speaker">mich</seg> von den Schicksalen <seg id="7" type="intExpr">schweigen</seg></said>, die ich in der Nachbarschaft meiner Provinz mit ansah, von den ausgesuchten Mitteln, durch die man die Selbständigkeit und Unabhängigkeit des Adels von Friaul zu brechen suchte, von dem Heer der Bravi, welches man gegen Widerspenstige schickte und durch eine Unzahl von Amnestiedekreten selbst von der Strafe ihrer eigenen Gewissen entband. Wie man den Zwist in die Familien zu tragen, Freundschaften zu vergiften, Verrat und Hinterlist im Schoß der engsten Blutsgenossenschaft zu erkaufen strebte, das alles ist Euch länger bekannt als mir. 
+                  Und nicht lange sollte mich das Andenken, das ich durch meine lockeren Sitten in Venedig zurückgelassen hatte, vor dem Verdacht schützen, daß auch ich eines Tages gefährlich werden könnte. <said id="8" mode="reported" content="speech writing" level="1">Als <seg id="8" type="speaker">ich</seg> für meine Schwester um die <seg id="8" type="intExpr">Erlaubnis</seg> nachsuchte, die Hand eines vornehmen deutschen Herrn anzunehmen</said>, wurde die <said id="9" mode="reported" content="speech writing" level="1"><seg id="9" type="intExpr">Einwilligung</seg> der <seg id="9" type="speaker">Regierung</seg></said> rundweg verweigert. <seg id="10" type="speaker">Man</seg> wähnte mich und meinen Bruder im Einverständnis mit der kaiserlichen Politik <seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">beschloß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">uns büßen zu lassen.</said> 
+                  <said id="11" mode="reported" content="writing" level="1">Eine Beschwerde der Provinz gegen ihren Gouverneur, die <seg id="11" type="speaker">ich</seg> samt dem Bruder mit <seg id="11" type="intExpr">unterzeichnete</seg></said>, lieferte der Inquisition den Anlaß, das Netz über uns zu werfen. 
+                  <said id="12" mode="reported" content="writing" level="1">Mein Bruder wurde nach Venedig <seg id="12" type="intExpr">gerufen</seg></said>, sich zu verantworten. Als er kam, wurde er unter die Bleidächer geführt, und viele Wochen lang suchte man bald durch Drohungen, bald durch verlockende Anerbietungen <seg id="15" type="speaker">ihn</seg> zu <seg id="15" type="intExpr"><said id="15" mode="reported" content="speech" level="1" nonfact="yes">Geständnissen</said></seg> zu bewegen. Jenen einen Schritt brauchte er nicht zu beschönigen; er war gesetzlich. Anderes hatte er nicht zu gestehen, da wir nichts gegen den Staat unternommen hatten. So mußte man ihn endlich entlassen. <seg id="13" type="frame" pos="start">Aber <seg id="13" type="speaker">man</seg> <seg id="13" type="intExpr">dachte</seg> nicht daran,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">ihn zu begnadigen.</said> 
+                  <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Ich</seg> selbst hatte ihn schriftlich <seg id="14" type="intExpr">gebeten</seg>,</seg> <said id="14" mode="indirect" content="writing" level="1">nicht sogleich abzureisen, um nicht neuen Verdacht zu erwecken.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

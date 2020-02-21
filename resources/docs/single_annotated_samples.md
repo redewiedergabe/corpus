@@ -1,7 +1,14 @@
-# single annotated samples
+# Single-annotated samples
 
-The following statistics are for the single annotated samples as additional data of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
-This sub-corpus contains the same type of samples as the main corpus. In contrast, the samples here are annotated by only one annotator. Annotation types and metadata are similar to the main corpus.
+Folder: [data/additional/single_annotated/samples](../../data/additional/single_annotated/samples)
+
+This is a collection of fictional and non-fictional samples that follow the same guidelines as the samples of the main corpus. The only difference is that the annotation was performed by only one annotator with no additional quality control. 
+
+The collection is roughly balanced for fictional vs. non-fictional as well as for decades. 
+
+Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
+
+## Statistics
 
 | decade | samples | tokens |
 |--------|---------|--------|
@@ -15,4 +22,4 @@ This sub-corpus contains the same type of samples as the main corpus. In contras
 | 1910   | 22      | 13,339 |
 | total  | 256     | 149,133|
 
-Click the following links to get familiar with the [annotation structur](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md) and [xml-format](xml_format.md)).
+

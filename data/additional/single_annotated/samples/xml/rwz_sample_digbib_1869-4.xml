@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Lady Makbeth des Mzensker Landkreises</title>
+             <author>Leskov, Semënovič Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Die_Lady_Makbeth_des_Mzensker_Landkreises.tg27_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Lady Makbeth des Mzensker Landkreises</f>
+         <f name="author">Leskov, Semënovič Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">4</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»<said id="2" mode="reported" content="thought" level="2" nonfact="yes">Was <seg id="2" type="intExpr">wunderst</seg> <seg id="2" type="speaker">du</seg> dich so?</said>«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Daß Sie über drei Pud wiegen, <seg id="1" type="speaker">Katerina Lwowna</seg>. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> <seg id="4" type="intExpr">glaube</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes">daß ich Sie den ganzen Tag auf den Armen herumtragen könnte, ohne dabei müde zu werden.</said> Ich würde es sogar für das größte Vergnügen ansehen.«</said> 
+                     
+                        <said id="5" mode="direct" content="speech" level="1">»Bin ich denn etwa kein Mensch? Würdest wohl müde werden!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">erwiderte</seg> leicht errötend <seg id="5 6" type="speaker">Katerina Lwowna</seg></seg>, die <said id="6" mode="reported" content="speech" level="1">solche <seg id="6" type="intExpr">Reden</seg></said> nicht mehr gewohnt war und plötzlich das Verlangen fühlte, lustig zu plaudern und zu scherzen. 
+                     <said id="7" mode="direct" content="speech" level="1">»Gott behüte! Ich würde Sie bis nach dem glückseligen Arabien tragen,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">antwortete</seg> <seg id="3 7" type="speaker">Ssergej</seg> auf <said id="8" mode="reported" content="speech" level="1"><seg id="8" type="speaker">ihre</seg> <seg id="8" type="intExpr">Bemerkung</seg>.</said></seg> 
+                     <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="speech" level="2"><seg id="10" type="speaker">Du</seg> <seg id="10" type="intExpr">redest</seg> Unsinn</said>,«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">sagte</seg> der <seg id="9 11" type="speaker">Bauer</seg></seg>, der das Getreide aufschüttete. <said id="11" mode="direct" content="speech" level="1">»Was ist unsere Schwere? Ist es denn unser Körper, der was wiegt? Unser Körper, mein Lieber, wiegt nicht, es ist nur unsere Kraft, die uns zur Erde zieht, und nicht der Körper!«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Als Mädchen hatte ich eine große Kraft,«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">sagte</seg> <seg id="12 13" type="speaker">Katerina Lwowna</seg></seg>, die sich wieder nicht beherrschen konnte. <said id="13" mode="direct" content="speech" level="1">»Mancher Mann konnte mich nicht niederringen!«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Erlauben Sie mal Ihr Händchen, wenn das wahr ist,«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">bat</seg> der hübsche <seg id="14" type="speaker">Bursche</seg>.</seg> 
+                     Katerina Lwowna errötete wieder, reichte ihm aber die Hand. 
+                     <said id="15" mode="direct" content="speech" level="1">»Laß los, es tut weh!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">schrie</seg> <seg id="15" type="speaker">Katerina Lwowna</seg> <seg id="15" type="intExpr">auf</seg></seg>, als Ssergej ihre Hand in der seinigen zusammendrückte. Mit der freien Hand stieß sie ihn vor die Brust. 
+                     Der Bursche ließ ihre Hand los und taumelte vor ihrem Stoß einige Schritte zur Seite. 
+                     <said id="16" mode="direct" content="speech" level="1">»Und das will ein Frauenzimmer sein!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">wunderte sich</seg> der <seg id="16" type="speaker">Bauer</seg>.</seg> 
+                     <said id="17" mode="direct" content="speech" level="1">»Nein, nicht so! Wollen wir einmal richtig ringen?«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">sagte</seg> <seg id="17" type="speaker">Ssergej</seg></seg>, seine Locken schüttelnd. 
+                     <said id="18" mode="direct" content="speech" level="1">»Nun, versuch's,«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">antwortete</seg> <seg id="18" type="speaker">Katerina Lwowna</seg></seg>, immer lustiger werdend, und hob die Ellenbogen. 
+                     Ssergej umschlang die junge Frau und drückte ihre pralle Brust an sein rotes Hemd. Katerina Lwowna rührte nur die Schultern, Ssergej hatte sie aber schon in die Höhe gehoben, hielt sie eine Weile in den Armen, drückte sie zusammen und setzte sie zuletzt auf einen umgekehrten Scheffel. 
+                     Katerina Lwowna hatte nicht einmal Zeit gehabt, ihre Kraft, mit der sie so prahlte, zu zeigen. Über und über rot, zupfte sie den Pelzumhang, der ihr von der Schulter geglitten war, zurecht und ging langsam aus dem Speicher. <seg id="19" type="speaker">Ssergej</seg> räusperte sich aber <seg id="19" type="frame" pos="start">und <seg id="19" type="intExpr">rief</seg>:</seg> 
+                     <said id="19" mode="direct" content="speech" level="1">»He, ihr Esel! Schüttet das Getreide auf, schont die Arme nicht! Wenn was übrig bleibt, so ist's unser Verdienst!«</said> 
+                     Er tat so, als hätte auf ihn der Ringkampf mit Katerina Lwowna nicht den geringsten Eindruck gemacht. 
+                     <said id="20" mode="direct" content="speech" level="1">»Dieser Ssergej ist ein verdammter Mädchenjäger!«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">berichtete</seg> die Köchin <seg id="20 21" type="speaker">Aksinja</seg></seg>, ihrer Herrin nachgehend. <said id="21" mode="direct" content="speech" level="1">»Alles an ihm ist gleich schön: der Wuchs, das Gesicht, die Gestalt. Er kann jedes Frauenzimmer betören und zur Sünde verführen. Dabei ist er ein untreuer, gemeiner Kerl!«</said> 
+                     <said id="23" mode="direct" content="speech" level="1">»<seg id="24" type="frame" pos="start"><seg id="24" type="intExpr">Sag</seg> einmal, <seg id="24 25 27 29 32" type="speaker">Aksinja</seg>,</seg>«</said> <seg id="23" type="frame" pos="mid"><seg id="23" type="intExpr">sagte</seg> die junge <seg id="23 26 28 31" type="speaker">Frau</seg>, vor der Köchin hergehend,</seg> <said id="23" mode="direct" content="speech" level="1">»<said id="24" mode="indirect" content="speech" level="2" nonfact="yes">lebt dein Kind noch?</said>«</said> 
+                     <said id="25" mode="direct" content="speech" level="1">»Es lebt, Mütterchen, es lebt, was soll ihm geschehen? Wenn man ein Kind nicht braucht, so ist es immer zählebig.«</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Wo hast du nur das Kind her?«</said> 
+                     <said id="27" mode="direct" content="speech" level="1">»Ach, man kriegt es leicht, wenn man unter Menschen lebt.« </said>
+                     <said id="28" mode="direct" content="speech" level="1">»Ist dieser Bursche schon lange bei uns?«</said> 
+                     <said id="29" mode="direct" content="speech" level="1">»Welcher? <said id="30" mode="reported" content="thought" level="2" nonfact="yes"><seg id="30" type="intExpr">Meinen</seg> <seg id="30" type="speaker">Sie</seg> Ssergej?</said>«</said> 
+                     
+                        <said id="31" mode="direct" content="speech" level="1">»Ja.«</said> 
+                     <said id="32" mode="direct" content="speech" level="1">»An die vier Wochen. Vorher war er bei den Kontschonows in Stellung, wurde aber hinausgejagt.«</said> <seg id="33" type="frame" pos="start"><seg id="33" type="speaker">Aksinja</seg> <seg id="33" type="intExpr">fuhr</seg> mit gedämpfter Stimme <seg id="33" type="intExpr">fort</seg>:</seg> <said id="33" mode="direct" content="speech" level="1">»<seg id="34" type="frame" pos="start"><seg id="34" type="speaker">Man</seg> <seg id="34" type="intExpr">sagt</seg>,</seg> <said id="34" mode="indirect" content="speech" level="2">er hätte dort mit der Hausfrau selbst angebandelt, darum hat ihn auch der Herr hinausgejagt ... </said>Er ist so furchtbar frech, der Verruchte!«</said> 
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

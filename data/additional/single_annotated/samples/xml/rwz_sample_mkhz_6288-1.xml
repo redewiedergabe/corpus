@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Am Suez-Kanal. (Schluß.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt21_1868_7.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Am Suez-Kanal. (Schluß.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Die Wasserstraße hat
+                        das Plateau von El Guisr erreicht, das sie durchschneidet, die höchste
+                        Erhebung auf dem Isthmus. Der Boden des Isthmus auf dieser
+                        ganzen Strecke ist niedergedrückt und flach bis zu dem Plateau;
+                        <seg id="1" type="frame" pos="start">es drängt sich dem <seg id="1" type="speaker">Beobachter</seg> die <seg id="1" type="intExpr">Ueberzeugung</seg> auf,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß das Mittelländische Meer bestrebt gewesen, sich mit dem Rothen Meer zu vereinigen, und daß es nur daran durch den Höhenzug von El Guisr
+                        verhindert worden sei.</said> Und so ist es auch. Wie auf der andern
+                        Seite dem Vordringen des Rothen Meeres der Höhenzug von Serapeum, so hat hier das Plateau von El Guisr dem weitern Vordringen der Meere Schranken gesetzt.
+            El Guisr und Serapeum schließen den großen Süßwassersee Timsah ein, in welchen der Kanal nach Durchschneidung des Plateau's
+                        gelangt und an welchem die Centralstelle der gesammten Anlagen,
+                        Isma ï lia, belegen ist.
+            Isma ï lia, die Hauptstadt der Siedelung, der Sitz der Administration, ist größer und eleganter, als die Hafenstadt Port Sa ï d, die
+                        mehr der Mittelpunkt kaufmännischer Operationen, des Gütertransports,
+                        der Werkstätten zur Aufbewahrung und Reparatur der Maschinen bildet.
+                        In Isma ï lia wohnt die Aristokratie der Feder. Man sieht dort die
+                        Wohnung des Präsidenten, ein bescheidenes Häuschen, das ihm, wenn
+                        er sich in der Stadt befindet, zum Aufenthaltsort dient. Aber er ist
+                        sicherlich hier am wenigsten zu treffen. Gewiß findet man ihn, wo
+                        es irgend eine Gefahr giebt, wo es Muthlose aufzurichten, <said id="2" mode="reported" content="speech" level="1">Kranken
+                        Trost zuzusprechen</said>, Gefährdete zu unterstützen gilt. <said id="4" mode="reported" content="thought" level="1" nonfact="yes">Seine Anwesenheit ist von nicht hoch genug anzuschlagendem Werth für die Arbeiter</said>, die auf isolirten Punkten, rings umgeben von dem Sande der
+                        Wüste, wie Schiffbrüchige auf einem Felsen im Meere leben.
+            Der General-Direktor der Bauten hat ebenfalls in Isma ï lia
+                        seinen Sitz. Um ihn gruppiren sich die Bureaus der Ingenieure und
+                        Beamten, wie sich um die Wohnungen der Unternehmer die Bureaus
+                        ihres Verwaltungszweiges etablirt haben.
+            Das schönste Gebäude der Stadt hat der Agent des Vicekönigs
+                        von Aegypten inne, einen Palast, der einer Residenzstadt Ehre machen
+                        würde.
+            Der Timsahsee, an welchem Isma ï lia liegt, war vor wenig Jahren noch ein wasserloses, ausgetrocknetes Becken, wo aus geborstenem
+                        Schlamm einige von der Sonne verbrannte Binsenbüschel spärlich
+                        emporschossen; der Platz, auf dem die Stadt selbst steht, eine unfruchtbare Sandebene, wie die ganze Gegend ringsum. Heut gewährt
+                        dieser See einen anmuthigen Anblick. Blühende Gärten, aus denen
+                        freundliche Häuser sich erheben, umgeben ihn; ein Wasserfall füllt mit
+                        seinem Brausen die Luft. Die Stadt selbst ist geräumig, die Straßen
+                        breit und reinlich, die Häuser von gefälliger, zum Theil künstlerischer
+                        Bauart. Mit Trinkwasser wird sie aus dem vorbeifließenden Süßwasser-Kanal versehen, der gleichzeitig auch das elf deutsche Meilen
+                        davon entfernte Port Sa ï d damit versorgt, wohin eine durch Dampfkraft gespeiste doppelte Leitung es führt. <said id="3" mode="reported" content="speech" level="1">Die Anlegung des Süßwasser-Kanals war der Gesellschaft durch Sa ï d-Pascha gleich bei ihrer
+                        Gründung zur Bedingung gemacht worden.</said>
+            Er entspringt einem der alten Arme des Nil, der in dem alttestamentlichen Thal Gosen fließt; von diesem ist er gerade auf
+                        Timsah geleitet, wo er eine Biegung nach Süden macht und nun
+                        parallel mit dem Seekanal hinlaufend, endlich bei Suez sich ins
+                        Meer ergießt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

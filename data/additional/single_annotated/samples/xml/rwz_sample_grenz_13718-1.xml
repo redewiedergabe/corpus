@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bayreuth. Ober- und Untertöne.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341847_289122.txt_53.xml</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Bayreuth. Ober- und Untertöne.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Im Jahre 1882 hatte ich als Student meine
+                        ersten Reisegroschen dazu benutzt, um nach Bayreuth zur ersten Aufführung des
+                        Parsifal zu fahren, <said id="1" mode="reported" content="speech" level="1">zu „pilgern" muß man ja sagen.</said> Das Wort Bayreuth
+                        wirkte damals auf mich mit einem unruhigen Zauber, wie die flammendroten
+                        und blauen Kartons der Umschläge zu Wagners Klavierauszügen. Der „Meister"
+                        lebte damals noch, ich sollte ihn sehen, und ich hing am Arme eines waschechten
+                        Wagnerianers, der mich nicht eher losließ, als bis ich in der echt modernen
+                        Vorhalle der Wagnerschen Kunst, nämlich im Komtoir des Bankgeschäfts von
+                        Feustel, den echten Goldklang deutscher Musik, nämlich der zwei Kronen Reichswähruug, hatte ertönen lassen. <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Ich</seg> hatte mir damals <seg id="2" type="intExpr">Vorwürfe</seg> gemacht,</seg> <said id="2" mode="indirect" content="speech" level="1">daß
+                        ich so wenig Ertrag davon hatte.</said> Ich war müde und verdrossen, und es gab
+                        während der sechs Stunden Parsifal Augenblicke, lange Augenblicke, in denen
+                        mir nichts gleichgiltiger war, als Gurnemanz, Amfortes und <said id="3" mode="direct" content="speech" level="1">„die ganze Rittersippe,"</said> <seg id="3" type="frame" pos="end">wie der <seg id="3" type="speaker">Klingsor des Stückes</seg>, auch hier ein sicherer Rätsellöser, sich so
+                        energisch <seg id="3" type="intExpr">ausdrückt</seg>.</seg> <said id="4" mode="reported" content="thought" level="1">Aber ich hatte die starke Erinnerung eines ganz neuen,
+                        seltsam in sich abgeschlossenen Prunkes.</said> Und dann das eigentümliche Schauspiel dieses mächtig plumpen, eigenwillig höckrigen (denn es ist alles Maschinenraum daran und Schnürboden), dieses durch und für den Willen eines einzigen
+                        Mannes gebauten Theaters, weithin schauend über die sonnenüberglänzte, herrliche
+                        fränkische Aue. Ringsherum schwirrend wie ein buntfarbiger Schmetterlingsschwarm die Schar der Gäste, <said id="5" mode="reported" content="speech" level="1">in allen Zungen redend</said>, von den neuesten Moden
+                        die ausgesuchtesten und verrücktesten zur Schau tragend, das stolz sogenannte
+                        „Elitepublikum" aller Hauptstädte der Welt. Das alles auf dem abgelegenen
+                        fränkischen Hügel, seltsam abstechend gegen die mild freundliche, ruhig deutsche
+                        Umgebung. <seg id="6" type="frame" pos="start">Da <seg id="6" type="intExpr">dachte</seg> doch gar <seg id="6" type="speaker">mancher</seg> mit <seg id="6" type="speaker">mir</seg>:</seg> <said id="6" mode="direct" content="thought" level="1">Das hat er nun doch einmal
+                        erreicht.</said> Es überkam einen doch wie Stolz, daß der eine, gleichviel wie, wodurch und wofür, es zu Wege gebracht hatte, alle diese Leute auf diesen deutschen
+                        Erdenfleck zusammenzutrommeln, einzig zu dem Zwecke, sich auf sechs Stunden
+                        in eine pechschwarze Finsternis sperren zu lassen, um eine wunderliche deutsche
+                        Musik <said id="7" mode="reported" content="speech" level="1">zu noch wunderlicheren deutschen Wörtern</said> zu hören. Dies Gefühl war
+                        mir geblieben; ich wollte es wieder einmal kosten und ausproben.
+            <seg id="8" type="frame" pos="start">Denn <seg id="8" type="speaker">ich</seg> muß <seg id="8" type="intExpr">gestehen</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">am Parsifal lag mir wenig, fast ebenso wenig
+                        als <said id="15" mode="reported" content="speech" level="2">an der berufenen „Neukreirung der Titelrolle."</said></said> <said id="16" mode="reported" content="thought" level="1">Ich hatte in der Zwischenzeit Gelegenheit genug gehabt, <said id="9" mode="reported" content="thought" level="2" nonfact="yes">meine traurige Verständnis- und Teilnahmslosigkeit für die Geheimnisse des Bayreuther Grals</said> entschuldbar zu finden.</said>
+                        <said id="10" mode="reported" content="speech" level="1" nonfact="yes">Nachdem ich, ein zweiter Parzival, früher ihnen nicht nachgefragt hatte</said>, <said id="11" mode="reported" content="thought" level="1" border="yes">hatte
+                        mich nunmehr der musikalisch-dramatische Zweifel ergriffen</said>; ich hatte mich in
+                        die Wildnis Richard Wagnerscher Theorie und Praxis tief hineinbegeben, so
+                        tief, daß es mir, <seg id="12" type="frame" pos="start">mit unserm alten Herzenskünder <seg id="12" type="speaker">Wolfram</seg> zu <seg id="12" type="intExpr">reden</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">„in der
+                        Seele sauer wurde,"</said> und ich froh war, ohne einen hilfreichen Trevrizent endlich
+                        den Weg zurückzufinden ins sonnige Land der freien, nicht tyrannisirten Kunst.
+            
+            Ich hatte auf meinem Wege manche berauschend duftende Blüte getroffen und
+                        manch verlockend lieblichen Ruheplatz. <seg id="17" type="frame" pos="start">Aber ein beklemmend fremdartiges <seg id="17" type="speaker">Wesen</seg>
+                        <seg id="17" type="intExpr">verbot</seg></seg> <said id="17" mode="indirect" content="speech" level="1" metaph="yes">die Blüte zu brechen und sie fröhlich an den Hut zu stecken</said>, <said id="13" mode="reported" content="speech" level="1">und eine
+                        unsichtbare Stimme warnte vor dem schmeichlerischen Ruheplatze.</said> <said id="14" mode="reported" content="thought" level="1">Oft freilich
+                        hatte ich mich auch erinnert gefühlt an den wilden Lauch, der im Frühjahr so
+                        unschuldweiß, so fein und zierlich gestickt die Laubwälder bedeckt, aber wenn
+                        man näher kommt, einen so wenig feinen und unschuldigen Duft ausströmt.</said>
+                        Dann gab es viele Meilen weit dichtes, dorniges Gestrüpp, auf das die Sonne
+                        der Ungeduld versengend brannte, und weite, glühende Steinwüsten und häßliche,
+                        grundlose Sümpfe.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

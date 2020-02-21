@@ -15,10 +15,19 @@ If you encounter any issues or have any questions, please use [Github's Issues t
 
 |                            | Samples | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Main corpus](data/main)                | 838     | 489,459 | 12,123         |  **Note:** The main corpus is on its pre-release; please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues) if you encounter problems; [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
+| [Main corpus](data/main)                | 838     | 489,459 | 12,123         | [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
 | [Main corpus (Beta release)](data/beta-release) | 619     | 360,974 | 9,451          |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)  [Detailed statistical data](resources/docs/beta_release_statistics.md); [Differences to the final release](resources/docs/differences-main-beta.md)|
 
-Additional material will be added in the future.
+### Additional Material
+This is a collection of several types of additional annotated material produced by project Redewiedergabe. The material generally follows the same annotation guidelines and is available in the same formats as the main corpus, but has some idiosyncracies and less quality control. For additional information about the different corpus parts follow the links in the table.    
+
+|                            | Files | Tokens  | STWR instances | Notes                                                   |
+|----------------------------|---------|---------|----------------|---------------------------------------------------------|
+| [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 |           |   [Description](single_annotated_samples.md)
+| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|           |[Description](full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
+| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|           |  [Description](full_texts.md)
+
+More additional material will be added in the future.
 
 ## Format
 The corpus is available in three different formats:

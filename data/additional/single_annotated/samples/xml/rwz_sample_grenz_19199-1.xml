@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kulturbilder von den kleinasiatischen Inseln (Fortsetzung) 3. Samos</title>
+             <author>Dieterich, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341879_295218.txt_34.xml</f>
+         <f name="year">1904</f>
+         <f name="decade">1900</f>
+         <f name="title">Kulturbilder von den kleinasiatischen Inseln (Fortsetzung) 3. Samos</f>
+         <f name="author">Dieterich, Karl</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Erst neuerdings scheint sich in dem Schoße der Bevölkerung selbst ein
+                        Umschwung der Stimmung zu vollziehn: man ist der politischen Zustände
+                         
+            <note>*) Wie es denn im Mai dieses Jahres geschehen ist, wo Mavrojenis wieder durch Karatheodori-Pascha ersetzt wurde.
+                        </note>
+            
+            herzlich satt. <seg id="1" type="frame" pos="start">Als <seg id="1" type="speaker">ich</seg> mich einmal bei dem Wirt meines Hotels darüber <seg id="1" type="intExpr">beklagte</seg>,</seg><said id="1" mode="indirect" content="speech" level="1"> daß unmittelbar vor der Tür am Quai Fässer beschlagen wurden, was
+                        einen Höllenlärm verursachte</said>, <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">bedauerte</seg> <seg id="2 3" type="speaker">er</seg>, </seg><said id="2" mode="indirect" content="speech" level="1">dagegen nichts tun zu können</said>,
+                       <seg id="3" type="frame" pos="start"> <seg id="3" type="intExpr">setzte</seg> aber mit heftigem Ingrimm <seg id="3" type="intExpr">hinzu</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">„Dieses Land wird nicht eher in
+                        Ordnung kommen, als bis es irgend eine europäische Macht an sich nimmt."</said>
+                        <said id="4" mode="reported" content="speech" level="1">Und diese <seg id="4" type="intExpr">Äußerung</seg> hörte ich später noch wiederholt</said>, sodaß ich hoffentlich
+                        keine Indiskretion begehe, sondern nur im Interesse der aufrichtigen Patrioten
+                        handle, <said id="11" mode="reported" content="writing" level="1" prag="yes">wenn <seg id="11" type="speaker">ich</seg> diesen Notschrei hier <seg id="11" type="intExpr">zur Kenntnis bringe</seg>.</said> Vielleicht nimmt
+                        die hohe Diplomatie, die sich an der Insel so versündigt hat, Gelegenheit,
+                        ihre Fehler wieder gut zu machen und den Wunsch des Volkes zu erfüllen.
+            Übrigens scheint jetzt, in der Zeit der Not, anch der Fürst aus seiner
+                        Reserve herauszutreten ans seines Daches Zinnen und seine Stimme zu erheben in einer Angelegenheit, die zugleich Licht wirft auf die eigentümlichen Verwaltungszustände. Die frühern vier Regierungspräsidenten, <said id="12" mode="reported" content="speech" level="1" border="yes">in Samos Minister
+                        <seg id="12" type="intExpr">genannt</seg></said>, schuldeten der Staatskasse Geld, und da sie es nicht bezahlen konnten
+                        oder wollten,<said id="5" mode="reported" content="thought" level="1" border="yes"> <seg id="5" type="intExpr">wußten</seg> <seg id="5" type="speaker">sie</seg> einen Kammerbeschluß zustande zu bringen, durch
+                        den sie von ihrer Schuld befreit wurden.</said> Der Beschluß mußte nur noch dem
+                        Fürsten unterbreitet werden, <said id="6" mode="reported" content="thought" level="1" border="yes">dessen Bestätigung <seg id="6" type="speaker">man</seg> sich schon versichert
+                        <seg id="6" type="intExpr">glaubte</seg>.</said> <seg id="7" type="speaker">Dieser</seg> aber legte Veto ein gegen den Mißbrauch öffentlicher Gelder
+                        und<said id="7" mode="reported" content="speech" level="1"> <seg id="7" type="intExpr">erklärte</seg> den Kammerbeschluß für ungiltig.</said> Das Volk aber, so heißt es,
+                        jubelte dem Fürsten zu, weil es sah, daß über den willkürlichen Gesetzwidrigkeiten der Kammer und der Minister die starke Hand des Fürsten waltet, die
+                        sie in Ordnung zu halten und ihnen zu zeigen versteht, was ihre Pflicht
+                        zum Wohle des Landes ist.
+            <seg id="8" type="frame" pos="start">Es wäre zu <seg id="8" type="intExpr">wünschen</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" nonfact="yes">daß dieses Beispiel dazu beitrüge, eine geordnete
+                        Finanzverwaltung zu schaffen.</said> <said id="9" mode="reported" content="thought" level="1" nonfact="yes">Dann brauchte <seg id="9" type="speaker">man</seg> nicht, wie es leider geschehen
+                        ist, zur Sanierung der zerrütteten Finanzen auf so verwerfliche Mittel zu <seg id="9" type="intExpr">sinnen</seg>,
+                        wie auf die Errichtung einer Spielhölle</said>, ein Vorschlag, der vor etwa zwei
+                        Jahren aufgetaucht, aber zum Glück von der Kammer abgelehnt worden ist.
+            Natürlich hat die Freiheit der Insel auch manches Gute gebracht, und
+                        auch nicht gegen diese selbst soll hier geeifert werden, sondern gegen ihre verkehrte Form.<seg id="10" type="frame" pos="start"> Es soll nicht <seg id="10" type="intExpr">geleugnet</seg> werden, </seg><said id="10" mode="indirect" content="speech" level="1" nonfact="yes">daß die jetzige kleine Hauptstadt des Fürstentums, Vathy, einen recht freundlichen, modernen Eindruck
+                        macht.</said> Sie liegt an der südlichen Seite der tief einschneidenden Hafenbucht,
+                        während in deren Hintergrunde die alte Stadt auf einem hohen Berghange
+                        zerstreut liegt. Die Hauptgebäude der Neustadt liegen an dem Hafenquai
+                        entlang: wenn man einfährt, zeigt sich zuerst das Zollhaus, dann kommen
+                        mehrere Konsulate, hierauf eine schmucke kleine Markthalle und zwei Hotels.
+                        Nun öffnet sich die Häuserreihe zu einem kleinen quadratischen, mit Anlagen
+                        geschmückten Platz — <said id="13" mode="reported" content="speech" level="1" border="yes">Pythagorasplatz haben ihn die <seg id="13" type="speaker">Samioten</seg> <seg id="13" type="intExpr">getauft</seg></said> —,
+                        der von den vornehmsten Kaffeehäusern und Konditoreien umgeben ist. Unter
+                        den weiter folgenden villenartigen Häusern ragt eins durch seine etwas größern
+                        Dimensionen und durch eine wehende Fahne auf dem Dache hervor — es ist
+                        das „Palästchen" des Fürsten. Dahinter liegt, um der innern Hauptstraße, das
+                        Parlamentsgebäude und das Gymnasium — das einzige auf den südlichen
+                        Sporaden und darum eine Kulturstätte für das Griechentum.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

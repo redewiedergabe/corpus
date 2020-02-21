@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gasthof in Neuyork</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig012_1843_7.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Gasthof in Neuyork</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Anzeige</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Gasthof in Neuyork.
+                        
+            
+            
+               <seg id="1" type="frame" pos="start">E nglische Blätter enthalten folgende <seg id="1" type="intExpr">Beschreibung</seg> des
+                        Steam=Engine=Hotel ( Dampfmaschinen=Hotel ) in Neuyork:</seg> <said id="1" mode="direct" content="writing" level="1">Es ist eins der schönsten Gebäude in den Vereinigten Staaten, aus Marmor erbaut, und enthält
+                        über 300 Zimmer. Die gekochten Speisen werden aus
+                        der Küche auf einem Gestell, vermittelst einer Dampfmaschine von 12 Pferdekraft, nach dem zum Speisen
+                        bestimmten zweiten Stockwerk befördert. Andere Hauptbeschäftigungen der Dampfmaschine in diesem Etablissement sind, daß sie die Bratspieße dreht, die Bagage
+                        der Reisenden, wenn es diesen beliebt, nach den für sie
+                        bestimmten Zimmern transportirt, Wasser pumpt u. s. w.
+                        Jn der Zwischenzeit, daß diese Arbeiten ruhen, wird
+                        die Maschine zum Bohren eines Brunnens in dem Felsen unter dem Hause, womit man bereits 480 Fuß tief
+                        eingedrungen ist, und zu andern Zwecken benutzt. Als
+                        ein Beweis großer häuslicher weiblicher Thätigkeit <seg id="2" type="frame" pos="start">wird
+                        demnächst in einem neuyorker Blatte <seg id="2" type="intExpr">erwähnt</seg>,</seg> <said id="2" mode="indirect" content="writing" level="2" nonfact="yes">daß Mrß.
+                        Holt, die Frau des Besitzers dieses Hotels, eine über
+                        50 Jahre alte Frau, neben der sehr beschwerlichen Aufsicht über dies große Etablissement, innerhalb der letzten
+                        sechs Jahre zur Ausstattung desselben eigenhändig 1500
+                        Handtücher, 400 Paar Betttücher, 400 Paar Kissenüberzüge genäht, 250 Bettbezüge, und circa 300 große
+                        Bettmatratzen angefertigt habe.</said> Das ganze Haus ist
+                        mit Gegenständen dieser Art von ihrer eigenen Handarbeit versehen.</said>
+         
+      </p>
+      </body>
+   </text>
+</TEI>

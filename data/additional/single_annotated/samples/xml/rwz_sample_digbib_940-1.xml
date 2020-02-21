@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>6. Erzählung. Die Geschichte vom Tannenbäumchen</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_6__Erzaehlung__Die_Geschichte_vom_Tannenbaeumchen.tg113_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">6. Erzählung. Die Geschichte vom Tannenbäumchen</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Aber mitten drinnen in all der Pracht stand ein kleiner Baum, für den schien kein Frühling gekommen zu sein, denn starr und dunkelgrün streckten seine Nadeln sich hinaus, und auch nicht die kleinste weiße oder rote Blüte war daran zu sehen. 
+                  Das Bäumlein aber war trotz seiner Armut ganz zufrieden und <said id="1" mode="reported" content="speech" level="1" nonfact="yes">beklagte sich nicht</said>, und kam manchmal im Vorüberfliegen ein Vöglein seinem Wipfel nahe und ruhte sich darauf aus, <said id="2" mode="reported" content="thought" level="1" border="yes">so freute es sich wie die andern Bäume an dessen Gezwitscher</said> und <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">dachte</seg> nicht daran,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes">wie unscheinbar es neben ihnen aussah.</said> 
+                  <said id="18" mode="reported" content="thought" level="1" border="yes">Aber das ärgerte die schön geputzten Bäume</said>, <seg id="4" type="frame" pos="start">und ein hochmütiger <seg id="4" type="speaker">Kirschbaum</seg> fing auf einmal an und <seg id="4" type="intExpr">sprach</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">›Es ist doch ein rechtes Glück, wenn man hübsch aussieht 
+und auch zu etwas gut ist in der Welt! Was habe ich jetzt für feine, weiße Blüten, und wenn diese abgefallen sind. dann kommen die frischen grünen Blätter und zuletzt die prächtigen roten Kirschen, an denen die kleinen und großen Leute ihr Vergnügen haben. Ach, wie froh ich bin, daß ich nicht so ein einfältiger Tannenbaum geworden bin, wie derjenige hier neben mir, der doch zu nichts auf der Welt gut ist, als um uns den Platz zu versperren!‹</said> 
+                  <said id="6" mode="direct" content="speech" level="1">›Du hast recht,‹</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">rief</seg> ein stattlicher <seg id="6" type="speaker">Birnbaum</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">›dein Nachbar ist mehr als überflüssig im Vergleich mit uns. <said id="7" mode="reported" content="speech" level="2" nonfact="yes">Von meinen saftigen Birnen will ich noch gar nicht reden</said>, aber welchen prächtigen Schatten gebe ich in der Hitze den lieben Kindern, die sich auf der Bank unter meinem Blätterdache ausruhen. Nicht einmal vor der Sonne vermag der einfältige Tannenbaum zu schützen.‹</said> 
+                  <said id="8" mode="direct" content="speech" level="1">›Ja, ja,‹</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">fing</seg> nun ein dicker <seg id="8" type="speaker">Apfelbaum</seg> <seg id="8" type="intExpr">an</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">›mit uns kann sich der arme Tropf freilich nicht messen. <seg id="10" type="frame" pos="start">Was <seg id="10" type="speaker">mich</seg> aber am meisten <seg id="10" type="intExpr">verdrießt</seg>, ist,</seg> <said id="10" mode="indirect" content="thought" level="2" border="yes"><said id="9" mode="reported" content="speech" level="3" border="yes">daß man die langen Zapfen, welche der Herbstwind von ihm herunterschüttelt, und die weder für Mensch noch Tier genießbar sind, Tannäpfel nennt</said></said>, als ob sie auch nur die entfernteste Ähnlichkeit mit meinen schmackhaften Früchten hätten; es ist wirklich zu arg!‹</said> 
+                  Dabei schüttelte der alte Herr sein Haupt so gewaltig, daß dicke Blütenflocken zur Erde fielen und einzelne an den Nadeln des armen Tannenbäumchens hängen blieben. 
+                  <said id="11" mode="direct" content="speech" level="1">›Seht, wie er sich jetzt auch noch mit fremden Federn schmückt!‹</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">schrie</seg> ein naseweiser junger <seg id="11" type="speaker">Pflaumenbaum</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">›der Unverschämte, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">er</seg> <seg id="12" type="intExpr">glaubt</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2" nonfact="yes">weil er spitze Nadeln habe, dürfe er uns allen trotzen!</said>‹</said> 
+                  <said id="13" mode="reported" content="speech" level="1">Und nun fingen alle Bäume zugleich an, auf die arme Tanne zu schelten, und lobten dabei unaufhörlich ihre eigenen Früchte sowie den Nutzen, den diese brächten.</said> <said id="14" mode="reported" content="speech" level="1">Selbst die Johannis- und Stachelbeerbüsche blieben nicht still</said>, <said id="15" mode="reported" content="speech" level="1" nonfact="yes">und niemand wollte dem bescheidnen Tannenbäumchen das mindeste Gut zuerkennen.</said> 
+                  Drüben über dem Bach war ein Wald voll schöner 
+ Buchen und Eichen; <said id="16" mode="reported" content="speech" level="1">auch diese fingen an mitzuspotten</said> und sich hervorzutun. <seg id="17" type="frame" pos="start">Eine dicke <seg id="17" type="speaker">Buche</seg> überschrie zuletzt alle und <seg id="17" type="intExpr">rief</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">›Wenn wir auch keine so süßen Früchte tragen wie der liebe Kirschbaum und der vortreffliche Apfelbaum, so sind wir doch gleichfalls von dem allergrößten Nutzen. Im Sommer geben wir kühlen, prächtigen Schatten, und im Winter heizen wir die Zimmer ein, wenn es draußen stürmt und schneit, denn wir haben gutes, festes Holz, aber selbst das Holz der häßlichen Tanne ist elendes Zeug, macht schwarz und rußig und gibt keine Wärme.
+
+</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

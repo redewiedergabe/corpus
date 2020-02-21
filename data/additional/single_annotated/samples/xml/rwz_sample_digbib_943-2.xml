@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der kleine Vagabund</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_Der_kleine_Vagabund.tg104_1.xml</f>
+         <f name="year">1878</f>
+         <f name="decade">1870</f>
+         <f name="title">Der kleine Vagabund</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Bravo!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">riefen</seg> die <seg id="1" type="speaker">Freunde</seg></seg>, und, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">nachdem der Sprecher geendet</said>, <said id="3" mode="reported" content="speech" level="1">stießen sie an auf glückliches Gelingen.</said> Während nun Philipp die Herren bediente und dabei keines <said id="4" mode="reported" content="speech" level="1">ihrer Worte</said> verlor, <seg id="5" type="frame" pos="start">saßen die <seg id="5" type="speaker">Wirthskinder</seg> drinnen bei der Mutter in der Hinterstube, verzehrten ihre Milchsuppe und <seg id="5" type="intExpr">erzählten</seg> ihr mit Entrüstung,</seg> <said id="5" mode="indirect" content="speech" level="1">wie der Philipp sie wieder einmal zum Besten gehabt.</said>
+                  Am nächsten Morgen in der Frühe fuhren die Gäste des »goldenen Löwen« wieder nach der Stadt zurück; nur der junge Maler und sein Freund, der Photograph, welcher früher Porträtmaler gewesen war, nun aber, <said id="6" mode="reported" content="thought" level="1" border="yes">die Concurrenz der neuen Erfindung fürchtend</said>, sich dieselbe angeeignet hatte, blieben nebst dem großen schwarzen Kasten zurück, <said id="7" mode="reported" content="thought" level="1">weil sie die Gegend noch ein paar Tage länger zu durchstreifen gedachten.</said> Ehe sie jedoch eine neue Wanderung in die Berge antreten wollten, sollte der Versuch gemacht werden, die Kinder aufzunehmen. 
+                  Die guten Zwingenberger hatten schon hie und da in den Zeitungen von der »Potografie«, <said id="8" mode="reported" content="speech" level="1" border="yes">wie es die ungebildeten Leute nennen</said>, gelesen, auch wohl einmal ein solches Bild gesehen; <said id="9" mode="reported" content="thought" level="1" nonfact="yes">aber einen klaren Begriff hatte doch Niemand von der Sache</said>, und als nun die beiden Künstler ihren geheimnißvollen Kasten, die camera obsurca, auf dem Marktplatze aufstellten, standen die Zuschauer bald Kopf an Kopf gedrängt, das merkwürdige Schauspiel mit anzusehen. Aber das neue Papier sollte nicht so schnell seine Güte erproben dürfen, das Bild kam nicht zu Stande, weil die zunächst dabei Betheiligten den hartnäckigsten Widerstand entgegensetzten. <said id="10" mode="direct" content="speech" level="1">»Wir stellen uns nicht vor die Kanone, nein, um Alles nicht!«</said> <seg id="10" type="frame" pos="end">so <seg id="10" type="intExpr">versicherten</seg> <seg id="10" type="speaker">Jakob</seg>, <seg id="10" type="speaker">Mariechen</seg> und <seg id="10" type="speaker">Gretchen</seg> im Chore</seg>, als sie, aus der Schule heimkehrend, den ganzen Aufzug und <said id="11" mode="reported" content="writing" level="1" prag="yes">die erwähnten Vorbereitungen</said> vor ihrem elterlichen Hause fanden und <seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">vernahmen</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1" border="yes">daß sie als Hauptschauspieler mitwirken sollten.</said> Auch Frau Marthen war die Sache nicht geheuer; sie hielt Hans, der ihr nicht vom Rocke ging, fest an der Hand und schöpfte nun selber Muth zur entschiedenen Weigerung, als sie die Angst und Furcht ihrer Lieblinge sah. <said id="13" mode="direct" content="speech" level="1">»Nichts für ungut, ihr Herrn«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">sie</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»aber laßt mir die Kinder in Ruhe, mir gruselt auch bei der Geschichte; daß man da in das Rohr hineinsehen und als Bild wieder herauskommen soll, erscheint mir halb wie ein Hexenwerk, <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Gott</seg> <seg id="14" type="intExpr">weiß</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2" border="yes">was da passirt.</said> <said id="15" mode="indirect" content="thought" level="2" border="yes">Daß die liebe Sonne viel vermag</said><seg id="15" type="frame" pos="end">, das <seg id="15" type="intExpr">wissen</seg> <seg id="15" type="speaker">wir</seg></seg>, <said id="16" mode="indirect" content="thought" level="2" nonfact="yes">daß sie aber auch noch malen und zeichnen soll</said><seg id="16" type="frame" pos="end">, dies <seg id="16" type="intExpr">geht</seg> <seg id="16" type="speaker">mir</seg> doch <seg id="16" type="intExpr">über den Verstand</seg>!</seg>«</said> 
+                  Ja, <said id="17" mode="reported" content="thought" level="1">so dachten die Leute damals noch von der Lichtmalerei</said>, die doch gewiß eine der merkwürdigsten Erfindungen ist, welche der Menschengeist in diesem Jahrhundert gemacht hat! 
+                  Vergnügt sprangen die Kinder jetzt hinter der Mutter die hohe Steintreppe hinauf, von wo aus sie Alles bequem übersehen konnten, ohne selbst Mitwirkende sein zu müssen, <seg id="22" type="frame" pos="start">und <seg id="22" type="intExpr">rathlos</seg> blickten die <seg id="22" type="speaker">Freunde</seg> einander an,</seg> <said id="22" mode="indirect" content="thought" level="1" nonfact="yes">was nun zu thun sei</said>, <seg id="19" type="frame" pos="start">als <seg id="19" type="speaker">Philipp</seg>, der natürlich mit im Vordergrunde stand, laut <seg id="19" type="intExpr">ausrief</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Herr Maler, ich fürchte mich gar nicht, stellen Sie mich nur vor die Kanone, ich will stocksteif stehen bleiben, wenn Sie ein Bild von mir machen wollen.«</said> <seg id="20" type="frame" pos="start">Der <seg id="20" type="speaker">Photograph</seg> <seg id="20" type="intExpr">lachte</seg>:</seg> <said id="20" mode="direct" content="speech" level="1">»Nun wohl, mein Junge, so will ich es mit Dir allein versuchen, da deine Kamerädchen sich fürchten«</said>, und während nun Arthur den Jungen in die rechte Stellung brachte, Rudolph aber, so hieß der Andere, hinter dem schwarzen Tuche verschwand, um die Glastafel zu richten, und dann schnell den Messigdeckel abnahm, welcher die Glaslinse in der Röhre verdeckte, <seg id="21" type="frame" pos="start">stießen sich die <seg id="21" type="speaker">Leute</seg> an und <seg id="21" type="intExpr">zischelten</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">»Ja, ja, der Philipp mag es thun, der ist zu Allem gut – die Löwenwirthin hat Recht, wir geben unsere Kinder auch nicht dazu her«.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

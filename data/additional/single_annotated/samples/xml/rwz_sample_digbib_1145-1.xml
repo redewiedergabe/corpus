@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Agave</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Agave.tg126_1.xml</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Agave</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Und doch ist dieses lärmende Laster Unschuld im Vergleich zu dem, <said id="2" mode="reported" content="speech" level="2">das da oben flüstert</said>, buhlt und Gifte braut«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">erwiderte</seg> der <seg id="1" type="speaker">Meister</seg></seg> und zog ihn unerbittlich näher zum Hause. 
+                     
+                        Auf der Schwelle erschien eine Frau in verschossenem Seidenkleide, Blumen und Goldflitter in der hochaufgetürmten Frisur. Ihre harten, scharfen Züge hatten etwas von der unheimlichen Starrheit einer Larve. Lauernd betrachtete sie die Herannahenden. Ein Lächeln blitzte über ihr bemaltes Gesicht, <said id="3" mode="reported" content="thought" level="1" border="yes">als sie in dem einen von ihnen Antonio erkannte.</said> <said id="4" mode="reported" content="speech" level="1" nonfact="yes">Sie schien reden zu wollen</said>, <said id="5" mode="reported" content="thought" level="1">besann sich aber</said> und deutete nur grinsend auf ein buntes Schild, das, von Lampenlicht beleuchtet, über der niedrigen Haustür an einem Arm aus geschmiedetem Eisen hing. 
+                     <seg id="6" type="frame" pos="start">Auch <seg id="6" type="speaker">Maso Guidi</seg> erhob die Hand, und auch er deutete nach dem Schilde und <seg id="6" type="intExpr">sprach</seg> gebieterisch:</seg> <said id="6" mode="direct" content="speech" level="1">»Sieh dorthin! Das zu sehen, habe ich dich hergeführt. <said id="7" mode="direct" content="speech" level="2">Dorthin</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sage</seg> <seg id="7" type="speaker">ich</seg>!</seg>«</said> 
+                     Antonio gehorchte nicht. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Er</seg> hielt den Blick fest auf den Boden gesenkt und <seg id="8" type="intExpr">wiederholte</seg> ein Mal ums an dere:</seg> <said id="8" mode="direct" content="speech" level="1">»Fort, lieber Meister, <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">beschwöre</seg> Euch:</seg> <said id="9" mode="direct" content="speech" level="2">fort von hier!</said>«</said> 
+                     <said id="10" mode="direct" content="speech" level="1">»Du hast die Augen nicht erhoben und doch gesehen«</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">Masaccio</seg></seg>, als sie sich wieder im Freien befanden. <said id="11" mode="direct" content="speech" level="1">»Ein gewissenloser Bube bestiehlt dich und verhunzt das Gestohlene. Dein Bildchen, die Entführung des kleinen Bacchus – liegt diesem schändlichen Spelunkenbild zugrunde. Und viele andere deiner Jugendwerke, an denen ich meine Freude hatte, noch bevor ich dich kannte, hat der Elende in Kupfer gestochen und alle verschändet. Oh! <said id="12" mode="indirect" content="thought" level="2" border="yes">fröhlich scherzenden Übermut in zynische Niedertracht verwandeln, aus edler Traube Jauche pressen ist eine Kunst ... eine beliebte und einträgliche</said><seg id="12" type="frame" pos="end">, das <seg id="12" type="intExpr">weiß</seg> der <seg id="12" type="speaker">Unterhändler</seg></seg>, der die Zuchtlosigkeiten unter die Leute bringt. Mache dem Treiben den Garaus, Antonio! Suche den Buben auf, der zwar besser zeichnen kann, als du vor Jahren gezeichnet hast, <said id="13" mode="reported" content="thought" level="2" nonfact="yes">dem aber nichts einfällt</said> und dessen Erfinden heißt: entadelnd wiederholen. Suche ihn auf, und wenn du ihn gefunden hast – dann erwürge ihn!«</said> 
+                     Von dem Tage an erhielt Margherita keine anonymen Geschenke mehr, und sie war es zufrieden. <said id="14" mode="reported" content="thought" level="1">Sie kam sich ohnehin schon reich genug vor</said>, und überdies – bedurfte sie des Putzes? Wenn sie in dem einfachen Kleide ausging, das Pulcheria ihr hatte machen lassen, <said id="16" mode="reported" content="speech" level="1" border="yes">wurde sie dennoch Madamigella und sogar Donzella nobile tituliert</said>, und das schmeichelte ihr. <said id="18" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="17" type="frame" pos="start">Von der <seg id="17" type="intExpr">Meinung</seg>,</seg> <said id="17" mode="indirect" content="thought" level="2" border="yes">die Art, in der man ihr in Florenz begegnete, sei auf Rechnung der städtischen Gebräuche zu setzen</said>, war sie nach und nach abgekommen</said>, Sie sah, daß weder Cencetta noch andere Mädchen soviel Aufmerksamkeit erweckten wie sie, und hätte stumpfsinnig sein müssen, <said id="22" mode="reported" content="thought" level="1">um sich des Vorzugs, den sie genoß, nicht bald als eines ganz persönlichen bewußt zu werden.</said> Nicht nur die Maler und die Bildhauer blieben stehen und sahen ihr bewundernd nach, wenn sie sich an Pulcherias Seite auf der Straße blicken ließ. Jung und alt, vornehm und gering huldigte ihr, und sie machte sich ein Vergnügen daraus, den Zauber, den sie besaß, mit spielerischer Neugier zu erproben. Sie konnte es gefahrlos tun, denn mehr, als sie mit Blicken anzufunkeln oder anzuschmachten, wagte keiner; die Nähe der alten Jungfrau Pisano bot Schutz und Schirm gegen Zudringlichkeit. 
+                     <said id="20" mode="reported" content="thought" level="1" border="yes">Jeder wußte das</said>, <said id="21" mode="reported" content="thought" level="1" nonfact="yes" border="yes">nur Antonio wollte sich davon nicht überzeugen lassen.
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

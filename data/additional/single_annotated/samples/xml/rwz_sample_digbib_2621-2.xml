@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Odfeld</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Das_Odfeld.tg256_1.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Odfeld</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+
+
+                           
+                              <said id="1" mode="direct" content="speech" level="1">Venons, pendons,
+                           
+                        
+                        
+                           
+                              Venons à cinquante, cinq-cents! «</said>
+                        
+                        
+                     
+                     Sie hatten ihn in ihren Fäusten, sie hatten ihn unter ihren Füßen, sie hatten ihn auf der Treppe, und sie hatten ihn im Hofe vor der Treppe, die zu der Tür des Klosteramtshauses führte. Sie nahmen ihn durchaus nicht für eine bemalte Puppe aus Holz und Stein, diese Gallier neueren Geschlechtes. Sie tupften diesen Marcus Papirius wahrlich nicht bloß mit der Spitze des Zeigefingers an, um sich zu vergewissern, ob das Ding Leben in sich habe oder nicht. Unter andern Umständen würden die lustigen Franzosen selber zuerst über sich und ihn gelacht haben: <said id="2" mode="reported" content="thought" level="1">sie hielten den schwarzen Alten wirklich für den schwarzen, jungen Sünder, der eben ihrem Sergeanten das Nasenbein eingeschlagen hatte und ihnen mit der Mamsell Fegebanck durchgegangen war.</said> Im ersten Morgengrauen des Novembers und bei solchem Nebel war ihnen alles, was in gelehrtem Schwarz ging, Hose wie Jacke. Und sehr vielen unter ihnen kam's überhaupt nicht drauf an, wen sie hingen, wenn sie nur jemand hatten, den sie aufhängen konnten. 
+                     Zwei aber nahmen sie natürlich noch lieber als einen, und so hatten sie auch bereits den Herrn Klosteramtmann in den Klauen an der Vortreppe seines Amtsgebäudes unter dem Strick, den sie vom nächsten Ast der weiland alten Klosterlinde auf seinen Nacken herunterließen, während sie sein schreiend Weib und seine halbnackten Kinder auf der Treppe festhielten oder vom Fenster zusehen ließen. 
+                     
+                        <said id="3" mode="direct" content="speech" level="1">»Was hat der Herr mir angerichtet?«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">schrie</seg> der <seg id="3" type="speaker">Amtmann</seg>, nicht ohne eine Berechtigung, den Magister <seg id="3" type="intExpr">an</seg>.</seg> <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start">Weiß <seg id="5" type="speaker">Er</seg> mir zu <seg id="5" type="intExpr">sagen</seg>,</seg> <said id="5" mode="indirect" content="speech" level="2" nonfact="yes">was die Herren eigentlich von mir verlangen außer dem letzten Stück Brot, der letzten Kuh aus dem Stall und dem letzten Hemd vom Leibe?</said> <said id="6" mode="reported" content="speech" level="2" nonfact="yes">Messieurs, messieurs, demandez lui!</said> Sackerment, <said id="7" mode="reported" content="speech" level="2" nonfact="yes">so helfe der Herr Magister mir doch wenigstens mit Seinem Französisch!</said> Ist das jetzt Zeit zum Maulaffenreißen? Meine Herren, meine Herren, noch einen Augenblick – öng Momang, öng Momang Magister Buchius, Magister Buchius, wen hat Er diese Nacht bei sich beherberget, der uns dieses zugerichtet hat? Er hat uns dieses aus Seinem Prodigium auf dem Odfelde zugetragen! Monsieur le capitaine, noch einen Momang – Hand weg, barmherziger Herrgott! Wen hat Er diesen Morgen in meiner Nichte, der nichtsnutzigen Gans, Schlafkammer gehabt, Magister Buchius?«</said> 
+                     Rom sahe nimmer etwas Größeres von Mannestrotz und Männerwürde, als jetzo Amelungsborn sah, und zwar am Magister Noah Buchius. Pädagogische Entrüstung, herzliche Zuneigung und innige Bewunderung rangen in seiner braven Seele um den wackern Thedel Münchhausen; aber nur einen kürzesten Moment. Die Zeit drängte wahrlich! – schlimmer als das welsche Mord- und Raubgesindel konnte sie freilich nicht drängen. 
+                     <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="speech" level="2">Er hat immer in der Konferenz alles auf sich genommen!</said>«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">murmelte</seg> der alte <seg id="8" type="speaker">Schulmeister</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="speech" level="2" nonfact="yes">Er hat niemals einen anderen verpetzet!</said> er hat immer sein eigen Fell zu Markte getragen!«</said> <seg id="12" type="frame" pos="start">Und laut, so laut wie selten in seinem stillen Dasein, <seg id="12" type="intExpr">rief</seg> <seg id="12" type="speaker">er</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»<seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">weiß</seg> es nicht,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was passieret ist</said>; aber ich nehme die Responsabilität von allem auf mich.«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">» <said id="15" mode="reported" content="speech" level="2">Que dit-il?</said> <said id="16" mode="reported" content="speech" level="2">was sagt er?</said>«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">kreischte</seg>, <seg id="14" type="intExpr">brüllte</seg> es in jeder Tonart rund umher.</seg> 
+                     <said id="17" mode="direct" content="speech" level="1">»<said id="18" mode="reported" content="speech" level="2">Er wills g'wesi si, der mit dem Mensch durchgange isch!</said></said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

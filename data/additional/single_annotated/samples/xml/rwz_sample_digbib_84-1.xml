@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Brief aus Accra</title>
+             <author>Altenberg, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Altenberg,_Peter_Ein_Brief_aus_Accra.tg113_1.xml</f>
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Ein Brief aus Accra</f>
+         <f name="author">Altenberg, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Wann ist er angekommen?! Am 26. August. Die Thränen der Absender sind bereits versiegt, während die der Empfänger fliessen. Monambô's Bruder ist gestorben, 14 Jahre alt. <said id="2" mode="direct" content="speech" level="1">»Er war so gross wie Tíoko – – –«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">sagt</seg> <seg id="2" type="speaker">Monambô</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»und ebenso schön.«</said> 
+                  
+                     
+The big Akolé sitzt bei ihrem Verkaufstische, zählt Geld. Die Thränen rinnen über ihr edles Gesicht. 
+                  <said id="3" mode="direct" content="speech" level="1">»Il me semble, qu'elle est encore plus noire aujourdhui«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sagt</seg> die französische <seg id="3" type="speaker">Sekretärstochter</seg></seg> und küsst sie. 
+                  <said id="4" mode="direct" content="speech" level="1">»War er verwandt mit ihr?!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fragte</seg> <seg id="4" type="speaker">ich</seg> den Häuptling auf englisch.</seg> 
+                  <said id="6" mode="direct" content="speech" level="1">»Wir weinen um Alle,«</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">sagte</seg> der <seg id="6" type="speaker">Häuptling</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">»so sind die ›Black-men.‹ Wenn ich in Afrika sein werde, werde ich um dich weinen, Sir.«</said> 
+                  Akóschia sitzt auf dem Tanzplatze, macht Musik mit eisernen Castagnetten; die Thränen rinnen über ihr edles Antlitz. 
+                  <seg id="7" type="speaker">Tíoko</seg> sitzt vor ihrer Hütte, singt leise vor sich hin und weint. Wie Harfenbegleitung zu Thränen. Wie Psalmen. 
+                  Monambô weint nicht. 
+                  <said id="7" mode="direct" content="speech" level="1">»Du bist nicht traurig, <seg id="8" type="speaker">Monambô</seg>?!«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Sir, ich bin in der Fremde. Ich werde weinen, bis ich in Afrika bin – – –.«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Diese allgemeine Trauer ist doch ein bischen unverständlich«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">sagt</seg> die junge <seg id="9" type="speaker">Sekretärstochter</seg> zaghaft zu mir.</seg> <seg id="10" type="frame" pos="start">Und <seg id="10" type="speaker">ich</seg>:</seg> 
+                  <said id="10" mode="direct" content="speech" level="1">»<seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">Glauben</seg> <seg id="11" type="speaker">Sie</seg> es doch nicht,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">dass es dieser Knabe ist, um welchen sich diese edlen sanften Geschöpfe grämen.</said> Sie weinen um Afrika, c'est le mal du pays, die zarteste Krankheit unserer Seele, welche zum Vorschein kommt. Wie wenn ein kleines 
+Mädchen eine neue Bonne bekäme. <said id="13" mode="direct" content="speech" level="2">»Merkwürdig«</said> <seg id="13" type="frame" pos="mid"><seg id="13" type="intExpr">sagen</seg> die besorgten <seg id="13" type="speaker">Eltern</seg>,</seg> <said id="13" mode="direct" content="speech" level="2">»wirklich, <said id="14" mode="reported" content="thought" level="3"><seg id="14" type="speaker">Niemand</seg> hätte es <seg id="14" type="intExpr">gedacht</seg></said>, unser Schatz ist ganz freundlich mit ihr; wie alte Bekannte. Alles geht gut, sie vertragen sich, das Fräulein ist aber auch so lieb mit ihr, sie hat keine leichte Position.«</said> Plötzlich aber <said id="15" mode="reported" content="speech" level="2">ein unscheinbares <seg id="15" type="intExpr">Wort</seg> der Bonne</said>, eine Geberde. Das Kind bricht in heisse Thränen aus. Ist es <said id="16" mode="reported" content="speech" level="2">das <seg id="16" type="intExpr">Wort</seg></said>, diese Geberde?! Keineswegs. Sie schluchzt um ihre alte Kinderfrau – – –.«</said> 
+                  Neun Uhr Abends. Die Thränen sind versiegt. Der Mond macht die Birken im Garten glitzern. Still sind die afrikanischen Hütten. Tíoko's Hütte ist finster. <said id="17" mode="reported" content="speech" level="1"><seg id="17" type="speaker">Monambô</seg> <seg id="17" type="intExpr">ruft</seg> mich.</said> Ich trete in die Hütte. Auf dem Boden liegen Monambô, Akolé, die Wunderbare und Akóschia. Kein Polster, keine Decke. Die idealen Oberkörper sind nackt. Es duftet nach edlen reinen jungen Leibern. Ich berühre leise die wunderbare Akolé. 
+                  <said id="19" mode="direct" content="speech" level="1">»Go to Tíoko,«</said> <seg id="19" type="frame" pos="mid"><seg id="19" type="intExpr">sagt</seg> <seg id="19 " type="speaker">sie</seg> sanft,</seg> <said id="19" mode="direct" content="speech" level="1">»du liebst nur Diese!«</said> 
+                  <seg id="20" type="frame" pos="start"><seg id="20 22" type="speaker">Monambô</seg>, welche die Traurigkeit für Afrika aufspart, <seg id="20" type="intExpr">sagt</seg>:</seg> <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="speaker">Sir</seg>, morgen bringst du uns einen piss-pot; es ist zu kalt, um in der Nacht aus der Hütte zu treten. Er muss aussen blau und innen weiss sein. Was er kostet, werden wir Drei zusammen bezahlen. Freilich, Tíoko würdest du einen schenken! Was wird er kosten?!«</said> 
+                  <said id="21" mode="direct" content="speech" level="1">»Monambô, niemals habe ich noch einen piss-pot besorgt. Ich kenne die Preise nicht. Zwischen 
+50 Kreuzer und 500 Gulden. Königinnen benützen goldene.«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Sir, es war heute ein trauriger Tag. Gute Nacht. Du liebst Tíoko. Der piss-pot muss aussen blau und innen weiss sein. Bringe ihn bestimmt, tomorrow. Man kann in diesen Nächten nicht aus der Hütte treten, verstehst du?!«</said> 
+                  Ich küsste den drei Mädchen auf ihren harten Lagern die Hände. Akolé war zu schön!
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

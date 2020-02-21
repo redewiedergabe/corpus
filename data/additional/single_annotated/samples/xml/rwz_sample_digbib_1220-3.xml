@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Frau ohne Schatten</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Die_Frau_ohne_Schatten.tg364_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Frau ohne Schatten</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">3</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Die Prinzessin tat einen Schritt, als ob sie zwischen beide treten wollte, dann blieb sie wie gebunden stehen. <said id="1" mode="direct" content="speech" level="1">»Wer ist dieser?«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">schrie</seg> der <seg id="1 2" type="speaker">Kaiser</seg> über die Schulter gegen sie hin.</seg> <said id="2" mode="direct" content="speech" level="1">»Welche Überhebung in jedem seiner Schritte! Wer hat ihn zu meinem Richter gemacht?«</said> Er fühlte sein Herz in dumpfen Schlägen klopfen. Unter diesem hatte er sich langsam vom Boden aufgehoben. Es war ihm so schwer, als ob er eine fremde Last von der Erde aufrichten müßte. Er wandte sich und sah über seine Schulter das Mädchen nahe stehen. Hinter ihr waren zwei aus der Wand getreten und kamen auf ihn zu, von denen der eine ein goldenes Waschbecken trug, der andere einen kleinen Handkrug. Als sie dicht vor ihm standen und sich anschickten, das Wasser über seine Hände zu gießen, erkannte er in ihnen die beiden wunderbaren Knaben wieder, die als Truchsessen zu Pferde gekommen und rittlings in die Wand verschwunden waren. Der Kaiser winkte ihnen zu; er öffnete willig und lächelnd seine Hände gegen sie, aber sie schienen ihn nicht zu kennen. <said id="3" mode="reported" content="speech" level="1" nonfact="yes"><seg id="3" type="speaker">Er</seg> öffnete die Lippen, um sie <seg id="3" type="intExpr">anzureden</seg></said>, aber die Anrede erstarb ihm in der Kehle. Fremd und trauervoll sahen sie ihn an, der eine hielt das Becken hin, der andere hob den Krug. Das Wasser sprang aus dem Krug, es fiel hart auf die Hände des Kaisers und rann an ihnen herunter wie an totem Stein. Der Kaiser sah, wie trostsuchend, hinüber auf das Mädchen; sie hielt beide Hände nach oben gestreckt, ihr juwelenes Gesicht strahlte, sie schien irgendwo hinzudeuten, wo Trost und Hilfe war. Der Kaiser mühte sich, den Sinn ihrer Gebärde in seinem Inneren aufleuchten zu lassen, aber es waren nur trübe, unklare Empfindungen in ihm, von denen eine die andere verdrängte. <seg id="4" type="speaker">Seine</seg> ganze Aufmerksamkeit war gespannt von dem <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">Wissen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">daß jener andere dort hochaufgerichtet und mit langsamen, gleichsam strengen Schritten auf ihn zukam</said>; an den dumpfen Schlägen seines Herzens gemessen, erschien es ihm unerträglich lange, bis dieser den kurzen Weg zu ihm zurückgelegt hatte. Jetzt aber fühlte er ihn, ohne aufzusehen, dicht neben sich: es war eine Kühle, die ihn aus nächster Nähe von den Schläfen bis zu den Zehen anwehte. Durch die Wimpern blinzelnd, sah er: das Wesen hatte, in die leere Luft fassend, jetzt ein weißes Linnen in Händen und trocknete ihm damit in einer ehrerbietigen Haltung die Hände ab. Aber die wehende Berührung dieses Linnens kräuselte ihm das Fleisch. <said id="6" mode="direct" content="speech" level="1">»O Kaiser«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">sagte</seg> jetzt die <seg id="6 7" type="speaker">Stimme</seg></seg> so dicht an seiner Wange, daß er den kalten Hauch fühlte und vor Beleidigung über eine Unehrerbietigkeit, wie sie ihm nie im Leben widerfahren war, erzitterte, <said id="6" mode="direct" content="speech" level="1">»bedauerst du nicht, daß wir umsonst für sie gedeckt haben?«</said> Nichts kam der Gewalt des Vorwurfes gleich, den <said id="7" mode="reported" content="speech" level="1">diese einfachen <seg id="7" type="intExpr">Worte</seg></said> enthielten. Sein Herz krampfte sich zusammen, kalte Tränen liefen ihm hinunter, sie erstarrten ihm an den Wangen. Zum Zeichen, <seg id="8" type="frame" pos="start">daß <seg id="8 10" type="speaker">er</seg> <seg id="9" type="speaker">niemandem</seg> <seg id="8" type="intExpr">erlaube</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1" nonfact="yes">zu ihm <said id="9" mode="reported" content="speech" level="2" nonfact="yes">von seiner Frau zu <seg id="9" type="intExpr">sprechen</seg></said></said>, und daß er sich von niemand zwingen lassen würde, <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">preiszugeben</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">was ihm allein gehörte</said>, sah der Kaiser starr vor sich hin.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

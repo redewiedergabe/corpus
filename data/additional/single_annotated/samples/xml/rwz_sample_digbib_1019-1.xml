@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Dame mit dem Hündchen</title>
+             <author>Čechov, Anton Pavlovič</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Die_Dame_mit_dem_Huendchen.tg5_1.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Dame mit dem Hündchen</f>
+         <f name="author">Čechov, Anton Pavlovič</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Die Kinder machten ihm keine Freude mehr, ebenso die Bank; er hatte weder Lust <said id="1" mode="reported" content="speech" level="1" nonfact="yes">mit jemandem zu sprechen</said>, noch auszugehen. 
+                     <seg id="2" type="frame" pos="start">Im Dezember vor den Feiertagen machte <seg id="2" type="speaker">er</seg> sich reisefertig und <seg id="2" type="intExpr">erklärte</seg> seiner Frau,</seg> <said id="2" mode="indirect" content="speech" level="1">daß er nach Petersburg müsse, um sich für einen jungen Mann zu verwenden</said>; er reiste aber nach S. Wozu? <said id="3" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Das wußte er selbst nicht recht.</said> Er wollte Anna Ssergejewna sehen und <said id="4" mode="reported" content="speech" level="1" nonfact="yes">sprechen und mit ihr</said>, wenn möglich, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">eine Zusammenkunft verabreden.</said> 
+                     Er kam nach S. am frühen Morgen und nahm sich das beste Zimmer im Hotel; der Fußboden war mit grauem Soldatentuch belegt, und auf dem Tische stand ein verstaubtes Schreibzeug mit einem Reiter, der einen Arm mit dem Hut in die Höhe hob, während der Kopf fehlte. <seg id="19" type="frame" pos="start">Vom <seg id="19" type="intExpr">Portier</seg> erfuhr er alles, was er brauchte:</seg> <said id="19" mode="indirect" content="speech" level="1">von Diederitz wohne in der Alten Töpfergasse, im eigenen 
+Hause</said>; <said id="20" mode="indirect freeIndirect" content="speech" level="1">es sei gar nicht weit vom Hotel; er lebe auf großem Fuße, halte sich Pferde und sei in der ganzen Stadt bekannt.</said> <said id="7" mode="reported" content="speech" level="1">Der Portier sprach den Namen »Drideritz« aus.</said> 
+                     Gurow begab sich nun nicht zu schnell in die Alte Töpfergasse und fand das Haus. Dem Hause gegen überzog sich ein langer, grauer, mit Nägeln bespickter Bretterzaun hin. 
+                     <said id="8" mode="direct" content="thought" level="1">»Vor einem solchen Zaun kann man wirklich davonlaufen,«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">sagte</seg> sich <seg id="8" type="speaker">Gurow</seg></seg>, bald auf die Fenster und bald auf den Zaun blickend. 
+                     <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Er</seg> <seg id="9" type="intExpr">sagte</seg> sich:</seg> <said id="9" mode="direct" content="thought" level="1">heute ist Feiertag, und der Mann ist wohl zu Hause. Das ist übrigens ganz gleich: es wäre auch sonst taktlos, zu ihr ins Haus hineinzuschneien und sie aufzuregen. Ein Brief könnte leicht dem Gatten in die Hände fallen, und dann wäre alles verdorben. Das beste ist, sich auf einen Zufall zu verlassen.</said> Und nun ging er auf der Straße längs des Zaunes auf und ab und wartete auf einen solchen Zufall. Er sah, wie in den Hof ein Bettler kam und wie über ihn die Hunde herfielen; eine Stunde später hörte er Klavierspiel, und die Töne klangen schwach und undeutlich. Wahrscheinlich spielte Anna Ssergejewna selbst. Das Herrschaftsentrée ging plötzlich auf, und aus dem Hause kam eine alte Frau, der der bekannte weiße Spitz nachlief. <said id="10" mode="reported" content="speech" level="1" nonfact="yes">Gurow wollte schon den Hund anrufen</said>, <seg id="11" type="frame" pos="start">aber <seg id="11" type="speaker">er</seg> bekam 
+plötzlich Herzklopfen und konnte sich in seiner Aufregung nicht mehr <seg id="11" type="intExpr">erinnern</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" nonfact="yes">wie der Hund hieß.</said> 
+                     Er ging immer auf und ab und haßte immer mehr und mehr den grauen Zaun; <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">er</seg> <seg id="12" type="intExpr">dachte</seg> mit Erbitterung,</seg> <said id="12" mode="indirect" content="thought" level="1"><said id="13" mode="reported" content="thought" level="2" nonfact="yes" border="yes">daß Anna Ssergejewna ihn wohl vergessen</said> und vielleicht sogar bei einem andern Trost gefunden habe</said>; <said id="14" mode="indirect freeIndirect" content="thought" level="1">das wäre doch bei einer jungen Frau, die den ganzen lieben Tag diesen verfluchten Zaun sehen müsse, durchaus natürlich.</said> <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Er</seg> kehrte in sein Hotelzimmer zurück, saß lange auf dem Sofa und <seg id="15" type="intExpr">wußte</seg> nicht,</seg> <said id="15" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was anzufangen.</said> Dann aß er zu Mittag und schlief den ganzen Nachmittag durch. 
+                     <said id="16" mode="direct" content="thought" level="1">»So dumm ist das alles, so überflüssig diese ganze Unruhe!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16" type="speaker">er</seg> sich</seg>, als er erwachte und die dunklen Fenster sah; der Abend war schon angebrochen. <said id="17" mode="direct" content="thought" level="1">»Jetzt habe ich ausgeschlafen. Was werde ich nun nachts tun?«</said> 
+                     Er saß auf dem Bette, das mit einer billigen grauen Decke, wie man sie in Spitälern hat, bedeckt war, <said id="18" mode="reported" content="speech" level="1">und verhöhnte sich selbst:</said> 
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

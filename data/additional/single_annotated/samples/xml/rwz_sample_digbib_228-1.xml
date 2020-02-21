@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>6. Eins vom Teufel</title>
+             <author>Anzengruber, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Anzengruber,_Ludwig_6__Eins_vom_Teufel.tg233_1.xml</f>
+         <f name="year">1880</f>
+         <f name="decade">1880</f>
+         <f name="title">6. Eins vom Teufel</f>
+         <f name="author">Anzengruber, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  Sikra hnein, wie
+                                                  ich gsehn hab, daß der Seelnkramer so höllfreundli
+                                                  war, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">denk</seg> <seg id="1" type="speaker">i</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">da mußt auf der Hut sein, <said id="8" mode="reported" content="thought" level="2" nonfact="yes">der führt
+                                                  was im Schild.</said></said>
+                                                  
+                                                  
+                                                  <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Der</seg> aber lacht und <seg id="2" type="intExpr">sagt</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»<said id="4" mode="reported" content="thought" level="2" nonfact="yes">Brauchst
+                                                  kein Hirnschmalz aufzwenden</said>, <said id="10" mode="reported" content="thought" level="2">ich kenn ja <said id="6" mode="reported" content="thought" level="3">deine
+                                                  Gedanken</said></said>, <said id="5" mode="reported" content="thought" level="2" nonfact="yes">und mußt mich net für so dumm halten</said>, da
+                                                  d' mir eh sicher bist, daß ich mir no viel Müh um
+                                                  dich gab.«</said> 
+                                                  
+                                                  
+                                                  Selb hat mich gmargerlt, <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">sag</seg> <seg id="7" type="speaker">ich</seg>:</seg>
+                                                  <said id="7" mode="direct" content="speech" level="1">»Der Teufel is dir sicher, net i!«</said> 
+                                                  
+                                                  
+                                                  <said id="9" mode="direct" content="speech" level="1">»<seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">Bitt</seg> dich gar schön</seg>«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagt</seg> <seg id="9" type="speaker">er</seg>,</seg>
+                                                  <said id="9" mode="direct" content="speech" level="1">»<said id="11" mode="indirect" content="speech" level="2"><said id="12" mode="reported" content="speech" level="3" nonfact="yes">laß dö Sponponaden</said> und mach dich net groß</said>, da
+                                                  sein no ganz andere Leut, <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">weißt</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">Großkopfete, dö
+                                                  mir a net auskönnen</said> und dö viel weniger Gschichten
+                                                  machen als wie du grings Mandel.«</said> 
+                                                  
+                                                  
+                                                  <said id="14" mode="direct" content="speech" level="1">»Wann i dir z' gring bin«</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">sag</seg> <seg id="14" type="speaker">i</seg>,</seg>
+                                                  <said id="14" mode="direct" content="speech" level="1">»so steh halt nit auf mi an.«</said> 
+                                                  
+                                                  
+                                                  <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">Sagt</seg> <seg id="15" type="speaker">er</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Dös tu i eh net; aber ös
+                                                  könnts mir ja doch nit aus, ös armen Hascher.
+                                                  Seids ja doch alle dressiert von
+                                                  Kind auf, daß's hübsch vertraglich mit mir
+                                                  lebts.
+                                                  <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">Meinst</seg> denn,</seg> <said id="16" mode="indirect" content="thought" level="2" nonfact="yes">es war nachm
+                                                  Gottvatern sein Sinn, <said id="17" mode="reported" content="speech" level="3">daß ös all Ostern die Sündn
+                                                  abbeutelts</said> wie der Hund d' Flöh, daß darnach
+                                                  wieder neuche zuspringen mögen; oder 's Kirfürten
+                                                  in schön Summerszeit, wo da und dort a Mandl und
+                                                  a Weibl zruckverbleibt und sich ins Grüne
+                                                  verliert; <said id="18" mode="reported" content="speech" level="2">oder wann alle Heiligen anrufts</said>, allmal
+                                                  in ein Brummer, daß man einschlafen könnt
+                                                  drüber?</said>
+                                                  Ös arme Waserln, dös glengt nit da
+                                                  auffi, aber es lebt sich unschenierter dabei, und
+                                                  was verbleibt enk darnach über – <said id="19" mode="reported" content="thought" level="2" nonfact="yes" border="yes">da ös doch sunst
+                                                  nindascht auswißts</said> –, als daß 's mir in mein Höll
+                                                  rennts und enk a bissel abwarmts.
+                                                  Man kriegt völlig a Erbarmnus über
+                                                  enk, <said id="21" mode="reported" content="speech" level="2" nonfact="yes">und wann's a nit recht erlaubt is von der
+                                                  himmlischen Polizei</said>, <seg id="30" type="frame" pos="start">so muß <seg id="30" type="speaker">mer</seg> enks doch <seg id="30" type="intExpr">stecken</seg>,</seg>
+                                                  <said id="30" mode="indirect" content="speech" level="2">daß's mit der Höll nit gar so arg is, <said id="20" mode="reported" content="speech" level="3">wie's die
+                                                  Leut machen.</said></said>«</said> – – 
+                                                  
+                                                  
+                                                  <seg id="22" type="frame" pos="start"><seg id="22" type="intExpr">Sagt</seg> <seg id="22" type="speaker">er</seg>:</seg> <said id="22" mode="direct" content="speech" level="1">»Greif mich amal an,
+                                                  Hanns.«</said> 
+                                                  
+                                                  
+                                                  Ich greif zum Bett hraus und tapp
+                                                  'n ab, hat der Kerl a feine Woll und is drunter
+                                                  wutzerlfett.
+                                                  
+                                                  
+                                                  <said id="23" mode="direct" content="speech" level="1">»Na«</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">sag</seg> <seg id="23" type="speaker">ich</seg>,</seg> <said id="23" mode="direct" content="speech" level="1">»du bist fest
+                                                  beinander, <said id="25" mode="reported" content="thought" level="2" border="yes">was ein wundert, <seg id="24" type="frame" pos="start">wenn <seg id="24" type="speaker">man</seg> <seg id="24" type="intExpr">denkt</seg>,</seg> <said id="24" mode="indirect" content="thought" level="3">daß d'
+                                                  in der ewigen Marter und in der Pein ohne Aufhörn
+                                                  und End bist.</said></said>«</said> 
+                                                  
+                                                  
+                                                  <said id="26" mode="direct" content="speech" level="1">»Sixt«</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">sagt</seg> der <seg id="26" type="speaker">Teufel</seg>,</seg> <said id="26" mode="direct" content="speech" level="1">»dös is's
+                                                  ja, daß's allweil so gleichmächtig fortgeht, drum
+                                                  gwöhnt man's und kriegt a harte Haut.«</said> 
+                                                  
+                                                  
+                                                  <said id="27" mode="reported" content="speech" level="1">Drauf hat der Teufel »Bhüt Gott«
+                                                  gsagt</said> und is gangen, und ich bin, weil's schon
+                                                  amal nit anderscht kommen kann und doch so is,
+                                                  alser weng vertröster zruck bliebn.
+                                                  <said id="28" mode="direct" content="speech" level="1">»Aber«</said><seg id="28" type="frame" pos="mid">, hat der <seg id="28" type="speaker">Teuxel</seg> <seg id="28" type="intExpr">gsagt</seg>,
+                                                  ehnder er gangen is,</seg> <said id="28" mode="direct" content="speech" level="1">»ein Gfalln könnst mir doch
+                                                  erweisen, wann d' den Lump wieder siehst, dem ich
+                                                  früher die sündigsten Stückeln hab nachsehn müssen
+                                                  und <said id="29" mode="reported" content="speech" level="2">der jetzt so über mich schimpft</said>, den alten
+                                                  Lehner-Franzl, dann tu mir die Freundschaft ...«</said>
+                                                  
+                                                  
+                                                  
+                                                  Jetzt fing einer zum laufen an,
+                                                  denn es knackte und krachte im Gezweig, der andere
+                                                  mochte aber nicht zurückgeblieben sein, denn das
+                                                  Laufen hatte mit einmal ein End – – – 
+                                                  
+                                                  
+                                                  In der Nacht kam
+                                                  der Ferdl heim und fand seinen Vater im Bette
+                                                  liegen, den Kopf hübsch in Tücher gehüllt.
+                                                  
+                                                  
+                                                  
+                                                  
+                                    </p>
+      </body>
+   </text>
+</TEI>

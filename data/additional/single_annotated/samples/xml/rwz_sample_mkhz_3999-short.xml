@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal165_1848_6.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Frankreich.
+                        
+            
+            
+               * * * Paris 13. December. <said id="1" mode="reported" content="speech writing" level="1">Von allen Seiten laufen <seg id="1" type="intExpr">Berichte</seg>
+                        über die Wahlbewegung ein</said> und die Erfolge Louis Bonapartes grenzen
+                        überall ans Fabelhafte. Nur in Lille hat Cavaignac den Sieg davon
+                        getragen, in Paris aber hat der Prinz allein mehr Stimmen bekommen, als
+                        alle seine Mitbewerber zusammen. <said id="2" mode="reported" content="thought" level="1" nonfact="yes">Ueber den Ausgang des Wahlkampfes
+                        kann nun nicht der mindeste <seg id="2" type="intExpr">Zweifel</seg> mehr obwalken</said>, Louis Bonaparte wird
+                        Präsident und bekommt nicht nur mehr Stimmen als Einer der übrigen
+                        Candidaten, sondern er bekommt weit mehr als die erforderliche
+                        absolute Majorität. Die Nationalversammlung hat sich also um
+                        die Wahl nichts weiter zu bekümmern und eine der bedenklichsten Schwierigkeiten ist damit von selbst beseitigt. Die Socialisten und Rothrepublikaner sind überall aufs Haupt geschlagen worden
+                         und ihre Candidaten spielen, etwa mit Ausnahme von Paris, überall
+                        eine lächerliche Rolle. Wahrlich eine ernste Lehre für alle hohlen Phantasten! Frankreich ist nicht republikanisch, es ist nie republikanisch gewesen
+                        und will es jetzt weniger werden, als je. In diesem Sinne haben die
+                        meisten Wähler für den Prinzen Bonaparte gestimmt: sie haben damit
+                        gegen die am 24. Februar ihnen aufgedrungene Regierungsform protestirt. Aus dem südlichen Frankreich fehlen noch die Berichte, <seg id="4" type="frame" pos="start">wie
+                        es <seg id="4" type="intExpr">heißt</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1"><said id="5" mode="reported" content="speech" level="2" metaph="yes">sollen sich die <seg id="5" type="speaker">Wähler</seg> dort im Allgemeinen für Cavaignac
+                        <seg id="5" type="intExpr">ausgesprochen</seg> haben.</said> </said>Die Vicepräsidentschaft der Republik soll dem
+                        jetzigen Justizminister Marie zugedacht sein und <said id="6" mode="reported" content="speech" level="1" nonfact="yes" border="yes">Marschall Bugeaud
+                        zum Generalcommandanten sämmtlicher französischen Nationalgarden
+                        und des Heeres <seg id="6" type="intExpr">ernannt</seg> werden.</said> Die Wahl des Kriegsministers schwankt
+                        noch zwischen General Changarnier und dem Commandirenden der Alpenarmee, dem General Oudinot.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

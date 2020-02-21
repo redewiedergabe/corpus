@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Für ihr Kind</title>
+             <author>Duncker, Dora</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Duncker,_Dora_Fuer_ihr_Kind.tg9_1.xml</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Für ihr Kind</f>
+         <f name="author">Duncker, Dora</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="speech writing" level="1">Der <seg id="1" type="speaker">Landgerichtspräsident von Eynern</seg>, ein Bruder ihrer Mutter, <seg id="1" type="intExpr">meldete sich</seg> für den kommenden Abend bei Alexandra <seg id="1" type="intExpr">an</seg>.</said> 
+                  Der viel dekorierte Herr war zum Ordensfest geladen gewesen und gedachte sich danach noch ein paar Tage in Berlin aufzuhalten, ehe er wieder nach Königsberg zurückging. 
+                  <said id="2" mode="direct" content="thought" level="1">»Die Neugier wird ihn hertreiben,«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">dachte</seg> <seg id="2 3" type="speaker">Alexandra</seg>.</seg> <said id="3" mode="direct" content="thought" level="1">»<seg id="4" type="frame" pos="start">Die liebe <seg id="4" type="speaker">Familie</seg> will doch <seg id="4" type="intExpr">wissen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie es bei einer heruntergekommenen Assenstedt aussieht.</said>«</said> 
+                  <said id="5" mode="reported" content="speech" level="1">Als <seg id="5" type="speaker">Alexandra</seg> ihrem Mann von dem bevorstehenden Besuch <seg id="5" type="intExpr">Mitteilung</seg> machte</said>,<seg id="6" type="frame" pos="start"> <seg id="6" type="intExpr">bestand</seg> <seg id="6 7" type="speaker">er</seg> darauf,</seg> <said id="6" mode="indirect" content="speech" level="1">einen Kameraden dazu zu laden, dem Revanche zu geben er für durchaus nötig befand.</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Überdies, <said id="8" mode="reported" content="speech" level="2" nonfact="yes">was soll <seg id="8" type="speaker">man</seg> den ganzen Abend mit dem steifen, alten Herrn <seg id="8" type="intExpr">reden</seg>.</said> Da Du doch einmal anständiges Abendbrot geben mußt, kommt es auf eins heraus.«</said> 
+                  <seg id="9" type="frame" pos="start"><seg id="9 10" type="speaker">Alexandra</seg> <seg id="9" type="intExpr">wußte</seg> genau,</seg> <said id="9" mode="indirect" content="thought" level="1" border="yes">daß es durchaus nicht auf eins herauskam.</said> 
+                  <said id="10" mode="indirect freeIndirect" content="thought" level="1">Den Kamerad, den Kurt laden wollte, war ein verwöhnter Lebemann. <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Kurt</seg> würde darauf <seg id="11" type="intExpr">bestehen</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes">ihn angemessen zu bewirten</said>, während für den sehr sparsam gewöhnten Präsidenten, der daheim nichts anderes als dünnen Thee und karg belegte Butterschnittchen kannte, ein frugales Abendbrot durchaus ausreichend gewesen wäre.</said> 
+                  <said id="12" mode="reported" content="speech" level="1"><seg id="12" type="speaker">Sie</seg> versuchte Kurt <seg id="12" type="intExpr">umzustimmen</seg></said>, aber wie es gewöhnlich ging, <said id="13" mode="reported" content="speech" level="1"><seg id="13" type="speaker">Alexandras</seg> <seg id="13" type="intExpr">Widerspruch</seg></said> machte die Sache nur schlimmer. So schwer es ihr wurde, <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">sie</seg> mußte <seg id="14" type="intExpr">sich</seg> dazu <seg id="14" type="intExpr">entschließen</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1" nonfact="yes">Kurts unvernünftige Anordnungen zum Teil zu befolgen.</said> Er selbst empfahl sich schon am frühen Nachmittag und beabsichtigte erst mit dem Kameraden zugleich zum Essen wieder zu erscheinen. 
+                  <said id="15" mode="freeIndirect" content="thought" level="1">Weshalb sollte er Alexandra in ihren Familienfreuden beeinträchtigen?</said> 
+                  <said id="16" mode="reported" content="thought" level="1">So wenig herzliches <seg id="16" type="speaker">Alexandra</seg> <seg id="16" type="intExpr">sich</seg> von dem Wiedersehen mit dem Onkel, dem letzten, lebenden Bruder ihrer Mutter, <seg id="16" type="intExpr">versprochen</seg> hatte</said>, seine beklemmend frostige Begrüßung befremdete sie doch. Es schien wirklich nichts als eigene oder Familienneugier zu sein, das ihn hergeführt hatte, und doch war sie einmal, in der schönen Assenstedter Zeit, sein Liebling gewesen. 
+                  Erst bei Ilses herzigem Anblick – das Kind glich Alexandras früh verstorbener Mutter – thaute der alte Herr ein wenig auf. <said id="17" mode="reported" content="speech" level="1">Nachdem <seg id="17" type="speaker">er</seg> ein Weilchen mit Ilse <seg id="17" type="intExpr">geplaudert</seg> hatte</said>, <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">bat</seg> <seg id="18" type="speaker">er</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Schick das Kind fort, <seg id="19" type="speaker">Lexi</seg>, <seg id="19" type="frame" pos="start">und <seg id="19" type="intExpr">erzähl'</seg> mir dann,</seg> <said id="19" mode="indirect" content="speech" level="2" nonfact="yes">wie das alles gekommen ist.</said> Freilich nicht allzu verwunderlich,«</said><seg id="20" type="frame" pos="start"> <seg id="20" type="intExpr">fügte</seg> <seg id="20" type="speaker">er</seg> halblaut <seg id="20" type="intExpr">hinzu</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»wenn <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">man</seg> <seg id="21" type="intExpr">bedenkt</seg>,</seg> <said id="21" mode="indirect" content="thought" level="2" nonfact="yes">wie ihr Vater geartet war, und daß sie eine unverfälschte Assenstedt ist.</said>«</said> 
+                  Alexandra hatte das Kind mit einer Liebkosung bis zur Thür begleitet. Jetzt kehrte sie zu dem Onkel zurück. <said id="22" mode="reported" content="speech" level="1" border="yes">Die letzten Worte hatte <seg id="22 23 30" type="speaker">sie</seg> noch <seg id="22" type="intExpr">vernommen</seg>.</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Lieber Onkel, <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">ich</seg> will Dir <seg id="24" type="intExpr">erzählen</seg>,</seg> <said id="24" mode="indirect" content="speech" level="2" nonfact="yes">was Du hören willst</said>, aber bitte, laß den Vater aus dem Spiel. <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">Ich</seg> <seg id="25" type="intExpr">weiß</seg>,</seg> <said id="25" mode="indirect" content="thought" level="2" border="yes">daß <said id="26" mode="reported" content="thought" level="3"><seg id="26" type="speaker">Du</seg> ihm schwere, vielleicht nicht ungerechtfertigte <seg id="26" type="intExpr">Vorwürfe</seg> machst.</said></said> Aber er hat mich unendlich geliebt. <seg id="27" type="frame" pos="start">Und heut <seg id="27" type="intExpr">weiß</seg> <seg id="27" type="speaker">ich</seg>,</seg> <said id="27" mode="indirect" content="thought" level="2" border="yes">daß, ein Kind unendlich lieben, auch manche Schwäche begehen heißt.</said>«</said> 
+                  Der alte Herr beugte so mißbilligend den Kopf, <seg id="28" type="frame" pos="start">als ob <seg id="28" type="speaker">er</seg> <seg id="28" type="intExpr">sagen</seg> wolle:</seg> <said id="28" mode="direct" content="speech" level="1" nonfact="yes">»Die Schwächen überlasse ich anderen Leuten, insonderheit den Assenstedts, ich habe nichts damit zu schaffen.«</said> Und er sah dabei in der That genau so aus, als ob er sich mit dem Luxus schwach machender Gefühle niemals abgegeben habe, noch abgeben werde. <seg id="29" type="frame" pos="start">Mit der Miene eines Großinquisitors <seg id="29" type="intExpr">fragte</seg> <seg id="29" type="speaker">er</seg>:</seg> 
+                  <said id="29" mode="direct" content="speech" level="1">»Zuerst, in Eurem schlesischen Nest, da ging die Sache ja wohl noch ganz gut?«</said> 
+                  <said id="30" mode="direct" content="speech" level="1">»Ganz gut!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Besuch bei Linné.</title>
+             <author>M. R.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341546_180558.txt_33.xml</f>
+         <f name="year">1844</f>
+         <f name="decade">1840</f>
+         <f name="title">Ein Besuch bei Linné.</f>
+         <f name="author">M. R.</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="30" mode="reported" content="speech" level="1">Linné's Beredsamkeit</said> war hinreißend, sein Feuer entflammend,
+                        sein leuchtender Blick im hohen Grade wohlthuend. Ich war ein
+                        anderer Mensch geworden. Von meiner Bangigkeit keine Spur mehr.
+                        <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Ich hätte gern immer mitreden</said>, gern in seine Begeisterung laut einstimmen mögen. <said id="2" mode="reported" content="speech" level="1" metaph="yes">Aber die Ehrfurcht hieß <said id="31" mode="reported" content="speech" level="2" nonfact="yes">mich schweigen.</said></said> Ich war
+                        ganz Ohr. <said id="4" mode="reported" content="speech" level="1">Nun wandte er seine Rede auf das schwedische Volk
+                        und seine Sprache und Alterthümer.</said> <said id="5" mode="direct" content="speech" level="1">„Es ist ja ein Brudervolk des
+                        deutschen, mit ihm aus Einem Stamme entsprossen, ein edles Volk;
+                        rein und heiter wie seine Luft ist sein Herz, fest wie sein Urgranit
+                        sein Charakter, und wie seine Berge hoch in den Himmel ragen, so
+                        strebt sein frommer Sinn zum Allvater auf. Aber nicht blos lieblich
+                        ist mein Volk und Vaterland, es ist groß und ihm wird wohl in
+                        der Umarmung der ernsten Erhabenheit der eisigen Natur. Siehe,
+                        diese Blume mit der schönen Blüthe verdorret höher im Norden.
+                        Aber der Hauch der Natur, der in ihr lebt, zieht sich auch durch die
+                        eisigen Gefilde und öden Wüsten des Gebirges. Und wo keine
+                        Blume mehr duften kann, da lebt und athmet noch der Mensch!"</said>
+                         
+            <said id="6" mode="reported" content="speech" level="1">So sprach er</said> und ich lauschte gespannt seiner Weisheit.— Da
+                        raschelten Blätter. <said id="7" mode="reported" content="speech" level="1" border="yes">Verworrene Stimmen vernahm ich</said>, sie schienen
+                        vernehmlicher zu werden — — ich erwachte. Fort war der liebliche
+                        Traum. Ich saß noch auf dem Katheder an die Wand gelehnt,
+                        die Linnäa in der Hand. Bald traten meine Gefährten mit ihren
+                        Begleiterinnen herein.
+            — <said id="10" mode="direct" content="speech" level="1">Ich kehre nicht nach Hause zurück!</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">rief</seg> <seg id="10" type="speaker">ich</seg> ihnen hurtig und
+                        fest entgegen.</seg>
+            — <said id="11" mode="direct" content="speech" level="1">Wie?</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">riefen</seg> <seg id="11" type="speaker">Beide</seg> wie aus einem Munde.</seg>
+                         
+            — <said id="12" mode="direct" content="speech" level="1"><seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> bin fest <seg id="13" type="intExpr">entschlossen</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" border="yes">weiter hinauf nach Norden zu wandern, so weit es irgend Wege und Witterung gestatten.</said></said>
+            
+            — <said id="14" mode="direct" content="speech" level="1">Was?</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">G.</seg>,</seg> <said id="14" mode="direct" content="speech" level="1"><said id="15" mode="reported" content="thought" level="2" border="yes">Sie sind fest entschlossen?</said> <said id="16" mode="reported" content="thought" level="2" nonfact="yes">Und so auf einmal unvermuthet?</said></said>
+                         
+            — <said id="17" mode="direct" content="speech" level="1">Ja</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">antwortete</seg> <seg id="17" type="speaker">ich</seg>,</seg> <said id="17" mode="direct" content="speech" level="1"><said id="18" mode="reported" content="thought" level="2" border="yes">mein Entschluß steht fest.</said> <said id="32" mode="reported" content="speech" level="2" nonfact="yes"><said id="33" mode="reported" content="speech" level="3">Die auf der
+                        Post bestellten Pferde nach Stockholm</said> bestelle ich ab</said> und eile zunächst
+                        nach Dannemora. Morgen früh sehen Sie, meine Freunde, mich
+                        zum Nordthor hinausfahren.</said>
+            — <said id="19" mode="direct" content="speech" level="1">Das ist ja herrlich!</said> <seg id="19" type="frame" pos="mid"><seg id="19" type="intExpr">rief</seg> <seg id="19" type="speaker">M.</seg>,</seg> <said id="19" mode="direct" content="speech" level="1">ich freue mich so sehr über
+                        <said id="20" mode="reported" content="thought" level="2" border="yes">Ihren neuen Plan</said>, daß ich Sie bis Dannemora hin begleite.</said>
+            — <said id="21" mode="direct" content="speech" level="1">Ich auch!</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">fiel</seg> der <seg id="21" type="speaker">Isländer</seg> <seg id="21" type="intExpr">ein</seg>.</seg> <said id="22" mode="direct" content="speech" level="1"><seg id="23" type="frame" pos="start">Aber <seg id="23" type="intExpr">sagen</seg> <seg id="23" type="speaker">Sie</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2" nonfact="yes"><said id="34" mode="reported" content="thought" level="3" border="yes">was
+                        Sie so schnell umgestimmt?</said></said></said>
+                         
+            — <said id="24" mode="direct" content="speech" level="1">Oft üben</said><seg id="24" type="frame" pos="mid">, <seg id="24" type="intExpr">antwortete</seg> <seg id="24" type="speaker">ich</seg>,</seg> <said id="24" mode="direct" content="speech" level="1">unvorhergesehene Momente, —
+                        <said id="25" mode="reported" content="speech" level="2" border="yes">im Alltagsleben nennt man sie Zufälle</said>, — auf <said id="26" mode="reported" content="thought" level="2">unsre Entschlüsse</said>
+                        einen Einfluß aus, den wir ihnen an und für sich nicht gern eingeräumt hätten. <said id="35" mode="reported" content="thought" level="2" nonfact="yes">Halten Sie etwas auf Träume?</said></said>
+                         
+            — <said id="27" mode="direct" content="speech" level="1"><said id="37" mode="reported" content="thought" level="2">Aberglaube, Nichts als Aberglaube!</said></said> <seg id="27" type="frame" pos="end"><seg id="27" type="intExpr">erwiederte</seg> <seg id="27" type="speaker">Freund G.</seg></seg>
+                        <said id="28" mode="direct" content="speech" level="1">Wir Nordländer lieben mehr den klaren Verstand, als die täuschenden Gebilde nächtlicher Phantasie. <said id="38" mode="reported" content="thought" level="2" border="yes">Ihr in Euerm Süden habt's
+                        nur immer mit Euern Träumen und Ahnungen zu thun</said> und <said id="29" mode="reported" content="speech" level="2">erzählt
+                        Euch gern Eure Träumereien.</said></said>
+            <said id="40" mode="reported" content="thought" level="1">Ich verharrte diesmal doch in meinem „südlichen" Aberglauben</said>
+                        und habe es nicht zu bereuen gehabt. Ohne jenen schönen Traum,
+                        der mich bestimmte, hätt' ich nie die Wunder der unterirdischen Welt
+                        bei Dannemora und Falun und Elfdaa durchmustert, nie die hochherzigen Dalekarlier und Gustav Wasa's heilige Fluchtstätten, nie die
+                        glückselige Einfachheit der finnischen Einsiedler und ihr Birkenbrot
+                        kennen gelernt, hätte nie in den düstern Waldungen der Oster-Dalelf
+                        und bei den Eisgipfeln der Kiölen den Tanz grimmigbrummender
+                        Bären angeschaut und nie den zitternden Ball der Mitternachtssonne
+                        die schäumenden Wellen des heiligen Meeres küssen gesehen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

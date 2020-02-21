@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Meine teure Freundin</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_17.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Meine teure Freundin</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+         
+            <said id="1" mode="direct" content="writing" level="1">Meine teure Freundin!
+                        
+            „-- Mein Gott, mein Gott! <said id="2" mode="reported" content="speech" level="2" nonfact="yes">Was sagst Du dazu!</said> Jch bin kaum imstande, mich zu beherrschen. Schrecklich! Es traf mich wie ein Blitz. <seg id="3" type="frame" pos="start">Kein
+                        <seg id="3" type="intExpr">Zweifel</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" nonfact="yes">daß er selbst</said> -- -- <said id="4" mode="reported" content="writing" level="2" nonfact="yes">ich vermag es nicht niederzuschreiben, das Furchtbare.</said> Aber ich fühle es, <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">ich</seg> bin davon <seg id="5" type="intExpr">überzeugt</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" border="yes">trotz seiner edlen, großmütigen Bemühungen, die Katastrophe als einen Unglücksfall erscheinen zu
+                        lassen.</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Niemand</seg> <seg id="6" type="intExpr">ahnt</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes">daß er meinetwegen --</said> <said id="7" mode="reported" content="thought" level="2" border="yes">Nur ich weiß die Wahrheit und
+                        Du, nur wir beide</said>, <said id="8" mode="reported" content="speech" level="2" nonfact="yes">und Du wirst schweigen, treue Seele, schweigen</said>, und mit
+                        mir leiden. -- <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Jch</seg> kann Dir nicht <seg id="9" type="intExpr">sagen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2" nonfact="yes">wie mir zu Mute ist.</said> Welch eine
+                        Qual, seinen Gram, seine Tränen verbergen zu müssen. Jetzt habe ich keine
+                        Tränen mehr, ich habe zu viel um ihn geweint. Das Qualvollste ist die
+                        Reue, die ich empfinde, <said id="10" mode="reported" content="thought" level="2" nonfact="yes">seine große Liebe verkannt zu haben.</said> <said id="11" mode="reported" content="thought" level="2">Jch habe an
+                        ihr gezweifelt</said>, und doch ist nie ein Weib mehr geliebt worden. Wenn dies
+                        meinen Schmerz besänftigen könnte -- -- Magdalene.
+            
+               PS. Der kleine Dofsky ist sehr traurig. Er ist gar nicht so kaltherzig,
+                        <said id="12" mode="reported" content="thought" level="2">wie ich dachte.</said> Wenn Du hättest hören können, <said id="13" mode="reported" content="speech" level="2">wie schön er über „Jhn“ gesprochen hat.</said> Er hat ihn wahrhaft verehrt und bewundert, wie ich. <said id="14" mode="reported" content="thought" level="2">Wir verstehen uns.</said> Jch habe ihn lieb gewonnen. Er ist mir ein Tröster in dieser
+                        schweren Zeit.</said>
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

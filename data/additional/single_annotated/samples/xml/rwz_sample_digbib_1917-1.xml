@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>37. Das tapfere Schneiderlein</title>
+             <author>Meier, Ernst</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meier,_Ernst_37__Das_tapfere_Schneiderlein.tg44_1.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">37. Das tapfere Schneiderlein</f>
+         <f name="author">Meier, Ernst</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Als sie darauf wieder eine Weile mit einander gegangen waren, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">fragten</seg> die <seg id="1" type="speaker">Riesen</seg> das Schneiderlein:</seg> <said id="1" mode="indirect" content="speech" level="1">ob es auch werfen könne?</said> <said id="2" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="thought" level="2" prag="yes">Das will ich meinen!</said>«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">sagte</seg> das <seg id="2" type="speaker">Schneiderlein</seg></seg>, und da es gerade auf der Erde ein Lerchennest sah und das Weibchen über den Eiern brütete, <seg id="3" type="frame" pos="start">so bückte <seg id="3" type="speaker">es</seg> sich und fieng flink die Lerche und <seg id="3" type="intExpr">rief</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Achtung! aufgepaßt!«</said> und warf den Vogel in die Luft. Der aber freute sich nicht wenig, daß er so schnell wieder loskam und stieg in die Luft immer höher und war bald gar nicht mehr zu sehen. Da guckten die Riesen und guckten sich beinah die Augen aus; aber der Stein kam nicht wieder herunter und <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">sie</seg> <seg id="4" type="intExpr">glaubten</seg> fest,</seg> <said id="4" mode="indirect" content="thought" level="1">daß er bis in den Himmel geflogen sei.</said> <said id="20" mode="reported" content="thought" level="1" nonfact="yes">Das hätten die Riesen dem kleinen Männlein gar nicht zugetraut</said> und kriegten ordentlich Respekt vor ihm, <seg id="5" type="frame" pos="start">und weil <seg id="5" type="speaker">sie</seg> <seg id="5" type="intExpr">wußten</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes"><said id="6" mode="reported" content="thought" level="2" border="yes">was es im Sinne führte</said></said>, <seg id="7" type="frame" pos="start">so <seg id="7" type="intExpr">luden</seg> <seg id="7" type="speaker">sie</seg> es <seg id="7" type="intExpr">ein</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">bei ihnen zu übernachten</said> und nahmen es mit in ihr Schloß. 
+                  <seg id="8" type="frame" pos="start">Hier <seg id="8" type="intExpr">merkte</seg> das <seg id="8" type="speaker">Schneiderlein</seg> endlich aus Allem, was es dort sah,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß die drei großen Männer die Riesen sein müßten</said>, und es war ihm gar nicht wohl bei der Sache, <said id="9" mode="reported" content="speech" level="1">weil es <said id="10" mode="reported" content="thought" level="2" border="yes">seine Absicht</said> schon verrathen hatte.</said> – Als es in seine Schlafkammer kam, untersuchte es deshalb genau sein 
+Bett, und fand einen Leichnam unter demselben. Da grauste es ihm zwar ein wenig, aber es zog doch den todten Mann hervor und legte diesen in's Bett, und es selbst verkroch sich unter das Bett. Und das war sein Glück. 
+                  <seg id="11" type="frame" pos="start">Denn die <seg id="11" type="speaker">Riesen</seg> <seg id="11" type="intExpr">sagten</seg>, als sie allein waren:</seg> <said id="11" mode="direct" content="speech" level="1">»das Würmlein könnte uns doch noch was zu schaffen machen; wir wollen ihm deshalb lieber gleich heute Nacht sein Lebenslichtlein ausblasen.«</said> Und wie es eben zwölf Uhr war, trat einer von den Riesen mit einer großen Eisenstange herein und that ein paar mächtige Schläge auf den Leichnam im Bette, daß Alles bebte und <seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">sagte</seg>, als <seg id="12" type="speaker">er</seg> fortgieng:</seg> <said id="12" mode="direct" content="speech" level="1">»der wird genug haben!«</said> – Das Schneiderlein aber kroch darauf unter dem Bett hervor und legte die Leiche hinunter und sich selbst in das Bett, und schlief ruhig bis an den Morgen. 
+                  <said id="21" mode="reported" content="thought" level="1" border="yes">Wie verwunderten sich aber die Riesen, als das Schneiderlein wohlgemuth aus der Kammer trat.</said> <said id="13" mode="direct" content="speech" level="1">»Wie hast Du geschlafen?«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">fragten</seg> <seg id="13" type="speaker">sie</seg>.</seg> <said id="14" mode="direct" content="speech" level="1">»O recht gut!</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">sagte</seg> das <seg id="14" type="speaker">Schneiderlein</seg>;</seg> <said id="14" mode="direct" content="speech" level="1">nur haben mich eure Flöhe ein wenig gestochen.«</said> <seg id="15" type="frame" pos="start">Da <seg id="15" type="intExpr">wußten</seg> <seg id="15" type="speaker">sie</seg> gar nicht,</seg> <said id="15" mode="indirect" content="thought" level="1" nonfact="yes" border="yes"><said id="16" mode="reported" content="speech" level="2" nonfact="yes">was sie sagen sollten</said></said>, <seg id="17" type="frame" pos="start">und <seg id="17" type="intExpr">luden</seg> es <seg id="17" type="intExpr">ein</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">es möchte doch noch länger bei ihnen bleiben.</said> Ja, das wollte es wohl, und blieb da. 
+                  In der folgenden Nacht, als es zu Bett gieng, machte es das Schneiderlein nun wieder ebenso, wie in der ersten, und legte die Leiche in's Bett und sich selbst unter das Bett. Wie es nun Mitternacht war, kamen zwei Riesen mit einander und hieben beide so wetterlich auf die Leiche los, daß es dem Schneider fast angst wurde. Als sie aber fort 
+waren, legte er die Leiche an ihren Platz und er selbst schlief dann in dem Bett bis zum Morgen. – Da staunten die Riesen noch weit mehr, als das Schneiderlein abermals lebendig hervortrat und <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">sie</seg> <seg id="18" type="intExpr">fragten</seg> es sogleich,</seg> <said id="18" mode="indirect" content="speech" level="1">wie es geschlafen habe?</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

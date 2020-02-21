@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Darüber kommt kein Weib hinweg...</title>
+             <author>Janitschek, Maria</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Janitschek,_Maria_Darueber_kommt_kein_Weib_hinweg____.tg107_1.xml</f>
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Darüber kommt kein Weib hinweg...</f>
+         <f name="author">Janitschek, Maria</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Was macht die Arbeit?«</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Sie schreitet vorwärts, <said id="4" mode="indirect" content="thought" level="2">aber ob ich sie bis Mitte März einreichen kann</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">bezweifle</seg> <seg id="4" type="speaker">ich</seg>.</seg>«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Dann reichen Sie sie eben später ein. 
+                  Was liegt an ein paar Wochen bei einem Werk, das Sie Jahre gekostet hat?«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Sie haben nicht unrecht.«</said> Die <seg id="2 5 7" type="speaker">Kandidatin</seg> wurde sanfter. Sie zog ein dickes <seg id="6" type="speaker">Heft</seg> hervor. 
+                  
+                     
+<said id="6" mode="direct" content="writing" level="1">»Über die Verkümmerung der Stimmbänder am untern Kehlkopf der Luftröhre bei den weiblichen Singvögeln.«</said> <said id="7" mode="direct" content="speech" level="1">»Sehen Sie, ich brauch' bloss ein bischen zu feilen und ins Reine zu schreiben, dann bin ich fertig.«</said> 
+                  Fräulein Gröhl führte nämlich den schneidigen Beweis, dass nicht nur die erlauchten Herren der Schöpfung in der Vogelwelt, sondern auch deren Gattinnen die Gabe des Gesanges besässen, wenn – jetzt kommt der wichtige Punkt! wenn das zweite Paar Stimmbänder ihres untern Kehlkopfes nicht bis zur völligen Unnachweisbarkeit verkümmert wäre. Bekanntlich trifft jedes Organ dieses Schicksal, dessen Funktionen verhindert werden. Die Singvögelweibchen sind eben auch 
+durch den grausamen Egoismus ihrer Männer unterdrückt und aufs Piepsen angewiesen worden; den Gesang betrachten die Herren Gatten als ihr ausschliessliches Recht. 
+                  <said id="9" mode="direct" content="speech" level="1">»Diese Arbeit,«</said> <seg id="9" type="frame" pos="mid">die <seg id="9 12" type="speaker">Kandidatin</seg> klopfte auf das Heft,</seg> <said id="9" mode="direct" content="speech" level="1">»wird eine Umwälzung der Werte in der Vogelwelt bewirken.«</said> 
+                  <seg id="3 1 10 11" type="speaker">Klausmann</seg> schob die geputzte Brille wieder hinter die Ohren. <said id="10" mode="direct" content="speech" level="1">»Ich bewundere Ihre Vielseitigkeit aufrichtig.«</said> Er blickte ernsthaft auf die Kollegin. <said id="11" mode="direct" content="speech" level="1">»Neben einer weit ausgreifenden, wissenschaftlichen Thätigkeit finden Sie noch Musse, eine Frauenzeitung herauszugeben, sich –«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Reden Sie nicht von der. Sie wird ein unausgeführter Plan bleiben. Fehlen 
+mir doch zur Herstellung der ersten Nummer schon die nötigen Mittel.«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ach ja, richtig -,«</said> <seg id="14" type="frame" pos="mid">der junge <seg id="14" type="speaker">Gelehrte</seg> fuhr sich verlegen durch den dünnen Haarschopf,</seg> <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="speech" level="2" nonfact="yes">betreffs der Zeitung sollte <seg id="15" type="speaker">ich</seg> Ihnen ja etwas <seg id="15" type="intExpr">mitteilen</seg>.</said> Frau von Kerb – Sie kennen gewiss dem Namen nach die reiche Mutter meines Schülers – <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Frau von Kerb</seg> hat mir <seg id="16" type="intExpr">angedeutet</seg>,</seg> <said id="16" mode="indirect" content="speech" level="2">dass sie gerne bereit wäre, Ihr Unternehmen mit den nötigen Mitteln zu unterstützen, wenn es ihr freigestellt würde, hie und da einen Roman von sich in Ihrer Zeitung zu veröffentlichen.</said>«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Donnerwetter!«</said> <seg id="18" type="frame" pos="mid">Die <seg id="18" type="speaker">Studentin</seg> packte die Hände Klausmanns,</seg> <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="speech" level="2">und mit dieser Freudenbotschaft <seg id="19" type="intExpr">rücken</seg> <seg id="19" type="speaker">Sie</seg> so spät <seg id="19" type="intExpr">heraus</seg>?</said> 
+Das ist ja herrlich, einzig! Dadurch käme ich ja endlich ans Ziel meiner Wünsche. Selbst mein Doktorexamen liegt mir nicht so am Herzen als die Gründung dieser Zeitung. Denn, das sehen Sie doch ein, am hiesigen Platz – einer mittelgrossen Universitätsstadt – fehlt ein Centralorgan für die Fraueninteressen. Wir haben einen Verein, wir haben Versammlungen, aber wir hatten bislang keine Zeitung, welche unsere Bestrebungen und Errungenschaften, unsere weitern Pläne den übrigen Gleichgesinnten übermittelte. Es ist für uns von grosser Tragweite, ein solches Organ zu besitzen, das von der wichtigsten Förderung für unsere Sache werden kann. <said id="20" mode="reported" content="speech" level="2" nonfact="yes"><seg id="20" type="intExpr">Sagen</seg> <seg id="20" type="speaker">Sie</seg> Frau von Kerb</said>, aber nein, ich selbst 
+werde zu der Dame hingehen ... Mag sie das ganze Reich unterm Strich – das Feuilleton – beherrschen, das geht uns nichts an, wenn uns nur der übrige Teil der Zeitung zur Verfügung steht. Ich gehe gleich heute zu ihr.«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Thun Sie's,«</said> <seg id="22" type="frame" pos="mid">der <seg id="22" type="speaker">Doktor</seg> erhob sich,</seg> <said id="22" mode="direct" content="speech" level="1">»sie ist um fünf Uhr zu sprechen. Und seien Sie nur dreist in Ihren Ansprüchen, der Dame kommt's auf den Mammon nicht an.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

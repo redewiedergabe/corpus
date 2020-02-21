@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der fünfte Oktober</title>
+             <author>Heym, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heym,_Georg_Der_fuenfte_Oktober.tg146_1.xml</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">Der fünfte Oktober</f>
+         <f name="author">Heym, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die zerstreuten schwarzen Figuren der Massen glichen den erstarrten Pas eines düsteren Menuetts, einem Tanze des Todes, den er mit einem Male hinter sich hatte erstarren lassen, verwandelt in einen riesigen, schwarzen Steinhaufen, gebannt und erfroren von den Qualen, Säulen des Schweigens. Unzählige Lots, die die Flamme eines höllischen Gomorra in ewige Starre geschmolzen hatte. 
+                  Hoch über ihnen in dem kalten Oktoberhimmel ging der eiserne Pflug der Zeit, der seine Felder ackerte mit Kummer, besäte mit Not, auf daß daraus eines Tages die Flamme der Rache aufginge, auf daß eines Tages die Arme dieser Tausende leicht würden, beschwingt und fröhlich wie leichte Tauben beim Schnitterdienste der Guillotinenmesser, auf daß eines Tages sie wie Götter der Zukunft unter den Himmel treten könnten, barhäuptig, in dem ewigen Pfingsten einer unendlichen Morgenröte. 
+                  Aus dem weißlichen Himmel am fernen Ende der Landstraße löste sich ein schwarzer Punkt. 
+                  Die Vordersten sahen ihn, sie machten einander aufmerksam. Die Schläfer erwachten und sprangen auf. <seg id="1" type="speaker">Alle</seg> sahen die Straße hinab. <said id="1" mode="freeIndirect" content="thought" level="1">War dieser schwarze Punkt das Mekka ihrer Hoffnung, war das ihre Erlösung?</said> 
+                  Für einige Augenblicke <said id="2" mode="reported" content="thought" level="1" border="yes"><seg id="2" type="intExpr">glaubten</seg> <seg id="2" type="speaker">sie</seg> alle daran</said>, sie zwangen sich, daran zu glauben. 
+                  
+                     
+Aber der Punkt wuchs zu schnell. Jetzt sahen es alle, das war nicht der langsame Zug vieler Karren, das war keine Mehlkarawane. Und die Hoffnung verlor sich im Winde und verließ <seg id="3" type="speaker">ihre</seg> Stirnen. 
+                  <said id="3" mode="freeIndirect" content="thought" level="1">Aber was war das? Wer ritt so toll? Wer hatte in dieser toten Zeit einen Grund, so zu reiten?</said> 
+                  Ein paar Männer kletterten auf die dicken Weiden und spähten über die Köpfe der Massen. 
+                  Jetzt sahen sie ihn und schrien seinen Namen herab. Es war Maillard. Maillard von der Bastille. Maillard vom 14. Juli. 
+                  Und da kam er heran, mitten unter die Volkshaufen. Er hielt an, <said id="4" mode="reported" content="speech" level="1">und dann bekam <seg id="4" type="speaker">er</seg> nur ein <seg id="4" type="intExpr">Wort</seg> heraus.</said> <said id="5" mode="direct" content="speech" level="1">»Verrat!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">schrie</seg> <seg id="5" type="speaker">er</seg>.</seg> 
+                  Da brach der Orkan los. <said id="6" mode="direct" content="speech" level="1">»Verrat, Verrat!«</said> Einige zehn Mann faßten ihn an und hoben ihn auf ihre Schultern. Er stand oben, mit der einen Hand sich an einen Baum stützend, ohnmächtig vor Anstrengung, fast blind vom Schweiß, der ihm aus seinem schwarzen Haar um die Augen lief. 
+                  <said id="7" mode="indirect" content="speech" level="1"><said id="8" mode="reported" content="speech" level="2" nonfact="yes"><seg id="8" type="speaker">Maillard</seg> will <seg id="8" type="intExpr">reden</seg></said></said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">hieß</seg> es.</seg> Da trat eine furchtbare Ruhe ein. Alle warteten, warteten mit dem furchtbaren Warten der Massen vor dem Aufruhr, in den furchtbaren Sekunden, in denen die Zukunft Frankreichs gewogen ward, bis die Schale voll Fesseln, Kerkern, Kreuzen, Bibeln, Rosenkränzen, Kronen, Zeptern, Reichsäpfeln, gebettet in die falsche Sanftmut bourbonischer Lilien, voll hohler Worte, Versprechungen, Tafeln voll königlicher Eidbrüche, ungerechter Urteile, harmloser Privilegien, dieser ungeheure Berg alles dessen, mit dem die Jahrtausende Europa betrogen hatten, langsam zu sinken begann. 
+                  Maillard schwang sich in den Baum herauf. 
+                  <said id="9" mode="reported" content="speech" level="1">Aus seiner kahlen Kanzel herab warf <seg id="9" type="speaker">er</seg> seine furchtbaren <seg id="9" type="intExpr">Worte</seg> über die Menschen dahin</said>, über die kahlen Felder, die düsteren Wälle, die schwarzen Zugbrücken, überladen von Menschen, in die Tunnels der Tore, über die Dächer von Paris, in die Höfe und 
+ Gäßchen der düsteren Faubourgs, in alle die Burgen des Elends weit hinaus, wo unter der Erde in den Kanälen bei den Quartieren der Ratten noch ein verdammtes Ohr war, das seine Worte vernahm.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

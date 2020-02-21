@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Synnöve Solbakken</title>
+             <author>Bjørnson, Bjørnstjerne</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bjørnson,_Bjørnstjerne_Synnoeve_Solbakken.tg4_1.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Synnöve Solbakken</f>
+         <f name="author">Bjørnson, Bjørnstjerne</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Geriet er in Hitze, <seg id="1" type="frame" pos="start">dann <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg> gewöhnlich,</seg> <said id="1" mode="indirect" content="speech" level="1">er könnte ebenso gut lesen und <said id="2" mode="reported" content="writing" level="2" nonfact="yes">schreiben</said> wie der Lehrer und fürchte keinen Menschen im ganzen Tal</said>; – <said id="3" mode="indirect" content="thought" level="1">bis auf seinen Vater</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">dachte</seg> <seg id="3" type="speaker">er</seg></seg>, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">aber das sprach er nicht aus.</said> 
+                     Er wollte schon früh konfirmiert werden; aber dar aus wurde nichts. <said id="5" mode="direct" content="speech" level="1">»Solange Du noch nicht konfirmiert bist, giltst Du noch als Junge, und ich habe Dich mehr in meiner Gewalt«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">sagte</seg> sein <seg id="5" type="speaker">Vater</seg></seg>; infolgedessen ging er erst zur selben Zeit wie Synnöve und Ingrid zum Pastor. Auch Synnöve hatte lange warten müssen, fast bis zu ihrem sechzehnten Lebensjahr. <said id="6" mode="direct" content="speech" level="1">»<said id="29" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Man kann nie genug wissen, <said id="30" mode="reported" content="speech" level="3" nonfact="yes">wenn man sein Bekenntnis vor Gott ablegen soll</said></said>«</said><seg id="6" type="frame" pos="end">, hatte die <seg id="6" type="speaker">Mutter</seg> <seg id="6" type="intExpr">gesagt</seg></seg>, <said id="9" mode="reported" content="speech" level="1">und der Vater, Guttorm Solbakken, hatte zugestimmt.</said> Daher war es nicht eben unerklärlich, <said id="31" mode="reported" content="speech" level="1">daß sich schon zwei Freier meldeten</said>: der eine der Sohn eines besseren Mannes, der andere ein reicher Nachbar. <said id="11" mode="direct" content="speech" level="1">»Da hört doch alles auf, – sie ist ja noch nicht mal konfirmiert.«</said> – <said id="12" mode="direct" content="speech" level="1">»Dann wollen wir sie konfirmieren lassen«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">sagte</seg> der <seg id="12" type="speaker">Vater</seg>.</seg> <said id="32" mode="reported" content="speech" level="1" nonfact="yes">Aber davon erfuhr Synnöve nichts.</said> 
+                     Der Frau und den Töchtern des Pastors gefiel sie so gut, <said id="13" mode="reported" content="speech" level="1">daß sie von ihnen <said id="14" mode="reported" content="speech" level="2">zu einem Gespräch</said> in das Haus gerufen wurde.</said> Ingrid und Thorbjörn standen unterdessenmit den anderen Konfirmanden draußen, <seg id="15" type="frame" pos="start">und als <seg id="15" type="speaker">einer</seg> von den Burschen zu ihm <seg id="15" type="intExpr">sagte</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Du darfst nicht mit 'rein? Paß' auf, die schnappen sie Dir bestimmt fort«</said>, da brachten ihm <said id="16" mode="reported" content="speech" level="1">diese Worte</said> ein blaues Auge ein. Seitdem machten sich seine Kameraden immer ein Vergnügen daraus, Thorbjörn mit Synnöve zu necken, <seg id="17" type="frame" pos="start">weil <seg id="17" type="speaker">sie</seg> genau <seg id="17" type="intExpr">wußten</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1" border="yes">daß nichts anderes ihn so ärgern und in Wut versetzen konnte.</said> Schließlich kam es, <said id="18" mode="reported" content="speech" level="1">nach vorheriger Verabredung</said>, in einem Walde beim Pfarrhof deswegen zu einer tüchtigen Rauferei, die sich so zuspitzte, daß Thorbjörn es mit einem ganzen Haufen Angreifer auf einmal zu tun kriegte. Die Mädchen waren schon vorausgegangen, und daher niemand da, der dazwischen treten und die Burschen trennen konnte; immer hitziger und hitziger wurden die Gemüter. Thorbjörn wollte auch der Übermacht gegenüber nicht klein beigeben und war nicht wählerisch in der Art seiner Verteidigung; dabei hagelte es Hiebe, die später selber den Vorfall kundtaten. Nun kam auch die Veranlassung heraus und <said id="19" mode="reported" content="speech" level="1">wurde überall viel besprochen.</said> 
+                     Am nächsten Sonntag wollte Thorbjörn nicht in die Kirche, und als er am folgenden Tage in die Pastorstunde sollte, stellte er sich krank; deshalb ging Ingrid allein. <seg id="20" type="frame" pos="start">Bei ihrer Rückkehr <seg id="20" type="intExpr">fragte</seg> <seg id="20" type="speaker">er</seg> sie,</seg> <said id="20" mode="indirect" content="speech" level="1"><said id="21" mode="reported" content="speech" level="2" nonfact="yes">was Synnöve gesagt habe.</said></said> <said id="22" mode="direct" content="speech" level="1">»<said id="33" mode="reported" content="speech" level="2" nonfact="yes">Nichts.</said>«</said> 
+                     Als er nun wieder mitging, <seg id="23" type="frame" pos="start"><seg id="23" type="intExpr">glaubte</seg> <seg id="23" type="speaker">er</seg> zu bemerken,</seg> <said id="23" mode="indirect" content="thought" level="1">daß alle Leute ihn ansähen und die Konfirmanden grinsten und kicherten.</said> Synnöve kam später als die andern und war nachher viel im Pastorhause. Er fürchtete <said id="24" mode="reported" content="speech" level="1" nonfact="yes">vom Pastor ausgescholten zu werden</said>, aber er entdeckte schnell, <said id="25" mode="reported" content="thought" level="1" nonfact="yes" border="yes">daß nur zwei nichts von der Rauferei wußten</said>, sein Vater und der Pastor. Das war ja soweit ganz gut; <said id="26" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">aber wie er mit Synnöve wieder <said id="27" mode="reported" content="speech" level="2" nonfact="yes">in ein Gespräch kommen</said> könne</said><seg id="26" type="frame" pos="end">, das <seg id="26" type="intExpr">wußte</seg> <seg id="26" type="speaker">er</seg> nicht</seg>; denn es genierte ihn zum erstenmal, <said id="28" mode="reported" content="speech" level="1" nonfact="yes">Ingrid um Hilfe zu bitten.</said> Nach Schluß des Unterrichts ging Synnöve wieder zu Pastors; er wartete, solange noch andere dablieben, mußte aber dann auch fort.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

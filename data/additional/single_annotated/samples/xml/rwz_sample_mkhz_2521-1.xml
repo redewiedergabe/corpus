@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik091_1845_1.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+
+Sie, die so jung und schön ist, an
+                        der Seite eines Gatten, der ihr Vater seyn könnte.
+                        Aber das thut nichts, wir sind darum doch glücklich.
+            Der Graf verneigte sich ehrfurchtsvoll und indem Louise seinen Gruß erwiderte, ließ sie einen so
+                        reinen, so edlen Blick über ihn hingleiten, daß er
+                        ein Herz von Stein gehabt haben müßte, wenn er
+                        nicht ihre neue Stellung hätte achten und<said id="1" mode="reported" content="thought" level="1" nonfact="yes"> <seg id="1" type="speaker">ihr</seg> jede
+                        <seg id="1" type="intExpr">Erinnerung</seg> an ihr früheres Verhältniß hätte ersparen wollen.</said>
+            -- <said id="2" mode="direct" content="speech" level="1">Meine Louise</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">fügte</seg> der <seg id="2" type="speaker">Bankier</seg> <seg id="2" type="intExpr">hinzu</seg>,</seg><said id="2" mode="direct" content="speech" level="1"> er
+                        kommt um uns zu retten.</said>
+           <said id="20" mode="reported" content="speech" level="1" nonfact="yes"> <seg id="20" type="speaker">Louise</seg> versuchte zu <seg id="20" type="intExpr">sprechen</seg>, aber sie vermochte
+                        kein Wort hervorzubringen.</said> Um dies zu verbergen,
+                        ging sie schnell auf ihren Mann zu und indem sie
+                        sich an seine Brust warf, wandte <seg id="4" type="speaker">sie</seg> sich zum Grafen um und<seg id="4" type="frame" pos="start"> <seg id="4" type="intExpr">sagte</seg> leise:</seg>
+                         
+           <said id="4" mode="direct" content="speech" level="1"> -- <said id="21" mode="reported" content="speech" level="2" prag="yes"><seg id="21" type="speaker">Ich</seg> <seg id="21" type="intExpr">danke</seg> Ihnen!</said></said>
+                         
+            <said id="5" mode="direct" content="speech" level="1">-- Still, still, Louise</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">fuhr</seg> <seg id="5" type="speaker">Hr. Granville</seg> <seg id="5" type="intExpr">fort</seg>,
+ </seg>                      <said id="5" mode="direct" content="speech" level="1"> keine schmerzliche Bewegung mehr; es ist ja Alles
+                        zum Guten gewendet. Es ist ja nur eine Anleihe,
+                        die ich machen mußte, um mich zu retten; aber ich
+                        werde sie bald zurückgeben. Weine nicht, mein
+                        Kind, das steckt an, und wir sind unserm Wohl thäter etwas Anderes schuldig. Wir müssen seine
+                        Güte wenigstens dadurch belohnen, daß wir ihm
+                        zeigen, wie gut es ihm gelungen ist, unser Glück
+                        wieder herzustellen.
+ </said>           Nach diesen Worten zog der Bankier den Grafen Mirmont in sein Cabinet, um dort vor Allem
+                        ihr Geschäft in Ordnung zu bringen.
+            <seg id="6 22" type="speaker">Louise</seg> blieb allein, verwirrt, unruhig, bewegt,
+                        <said id="6" mode="reported" content="thought" level="1" nonfact="yes">ohne einen bestimmten <seg id="6" type="intExpr">Gedanken</seg></said>, mit dem Willen
+                        glücklich zu sein, ohne es doch mehr zu können,
+                        <seg id="22" type="frame" pos="start">mit dem <seg id="22" type="intExpr">Wunsch</seg></seg> <said id="22" mode="indirect" content="thought" level="1">zu weinen</said>, ohne es zu wagen.
+                        <said id="7" mode="freeIndirect" content="thought" level="1">Eine Stunde hatte <seg id="7" type="speaker">ihr</seg> ganzes Leben vernichtet!</said> <said id="8" mode="reported" content="thought" level="1">Als es <seg id="8" type="speaker">ihr</seg> endlich gelang, ihre <seg id="8" type="intExpr">Gedanken</seg> zu sammeln</said>, freute sie sich einen Augenblick darüber, daß
+                        der Mann, den sie geliebt hatte, nicht allein schlecht
+                        und treulos, sondern auch edelmüthig, dankbar zu
+                        seyn vermochte. Aber diese Freude verschwand bald
+                        vor einem dunklen drückenden Gefühl, das sie zu
+                        verscheuchen suchte. <seg id="9" type="frame" pos="start">Vergebens <seg id="9" type="intExpr">wiederholte</seg> <seg id="9" type="speaker">sie</seg> sich,</seg>
+                        <said id="9" mode="indirect" content="thought" level="1">daß ihr Mann gerettet, daß nichts in ihrer Zukunft
+                        geändert sei, daß sie lachend und ruhig wie früher
+                        vor ihr liege</said>; sie war dennoch traurig und ihr Haupt
+                        sank nachdenkend auf die Brust zurück. <said id="10" mode="reported" content="thought" level="1"><seg id="10" type="intExpr">Gedanken</seg>,
+                        welche <seg id="10" type="speaker">sie</seg> lange aus ihrer Brust verbannt hatte,
+                        kehrten in beängstigender Masse dahin zurück. </said>Die
+                        Träume von Freiheit, Jugend und Liebe, welche sie
+                        einst träumte, zogen gleich Nebelbildern wieder an
+                        ihrer Seele vorüber.
+            -- <said id="11" mode="direct" content="speech" level="1">Wenn er nie aufgehört hätte mich zu lieben!</said>
+                       <seg id="11" type="frame" pos="end"> <seg id="11" type="intExpr">flüsterte</seg> <seg id="11" type="speaker">sie</seg> leise.</seg>
+            Sie schauderte, -- <seg id="18" type="frame" pos="start">es <seg id="18" type="intExpr">schien</seg> <seg id="18" type="speaker">ihr</seg> ein Verbrechen,</seg>
+                       <said id="18" mode="indirect" content="thought" level="1"> <said id="12" mode="reported" content="speech" level="2">daß diese <seg id="12" type="intExpr">Worte</seg> über <seg id="12" type="speaker">ihre</seg> Lippen gegangen waren</said></said>
+                        und <said id="13" mode="reported" content="thought" level="1"><seg id="13" type="speaker">sie</seg> fiel von Neuem in ihr <seg id="13" type="intExpr">Nachdenken</seg> zurück,
+                        indem sie die Hand gegen das Herz drückte, als
+                        wollte sie seine Schläge zurückdrängen.</said> Ihr Leben
+                        war mit Hülfe der Vorsehung besser geworden,<said id="14" mode="reported" content="thought" level="1" border="yes"> als
+                        <seg id="14" type="speaker">sie</seg> <seg id="14" type="intExpr">geglaubt</seg> hatte.</said> Herr von Mirmont hatte sie getäuscht und verrathen; etwas früher oder später erlischt die Liebe eines jungen Herzens und überläßt
+                        das Weib, dessen Liebe nie aufhört, einem ewigen
+                        Elend. <said id="15" mode="indirect" content="speech" level="1">Keine Leidenschaft, wenn sie zu heftig ist,
+                        dauert lange</said><seg id="15" type="frame" pos="end">, das hatte <seg id="15" type="speaker">man</seg> ihr oft <seg id="15" type="intExpr">gesagt</seg></seg>, <seg id="16" type="frame" pos="start">und <seg id="16" type="speaker">sie</seg>
+                        <seg id="16" type="intExpr">sah</seg> leider zu spät <seg id="16" type="intExpr">ein</seg>, </seg><said id="16" mode="indirect" content="thought" level="1">daß man Recht hatte.</said>
+                      <said id="19" mode="reported" content="thought" level="1">  <seg id="19" type="speaker">Man</seg> konnte also nur auf Ruhe und Glück <seg id="19" type="intExpr">hoffen</seg>,
+                        wenn man sich die Leidenschaften fern hielt</said>, und
+                        dann war ihr jetziges Leben vielleicht das glücklichste,
+                        <said id="17" mode="reported" content="thought" level="1">das <seg id="17" type="speaker">sie</seg> sich <seg id="17" type="intExpr">wünschen</seg> konnte.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

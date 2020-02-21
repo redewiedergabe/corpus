@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Mandanenwaise</title>
+             <author>Möllhausen, Balduin</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Moellhausen,_Balduin_Die_Mandanenwaise.tg4_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Mandanenwaise</f>
+         <f name="author">Möllhausen, Balduin</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+
+<said id="2" mode="direct" content="writing" level="1"><seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Du</seg> hast den Frevel vielleicht mit der guten <seg id="1" type="intExpr">Absicht</seg> begangen,</seg> <said id="1" mode="indirect" content="thought" level="2" border="yes">ihren schnellen Tod herbeizuführen und dadurch ihren Jammer um Dich Elenden abzukürzen.</said> Freue Dich, triumphire, Du hast <said id="13" mode="reported" content="thought" level="2" border="yes">Deinen Zweck</said> erreicht! Niemand wird bei Johanna die Stelle <said id="14" mode="reported" content="speech" level="2">des zu lebenslänglicher Kerkerhaft verurtheilten Hochverräthers</said> vertreten.«</said> 
+                        Ich war wie erstarrt; ich las den Brief noch einmal langsam durch; meine Augen brannten in ihren Höhlen, wie glühende Kugeln, und keine mitleidige Thräne war da, den furchtbaren Brand zu kühlen, kein Seufzer stand mir zu Gebote, die auf meine Brust gewalzte Last zu erleichtern. In mich gekehrt und taumelnd, wie ein Berauschter, ging ich in meiner Zelle auf und ab. <said id="3" mode="reported" content="writing" level="1">Die schweren Anklagen meines Vormundes</said> kränkten mich nicht, <said id="4" mode="reported" content="thought" level="1">ich fand sie gerechtfertigt und natürlich</said>; <seg id="15" type="frame" pos="start">denn <seg id="15" type="speaker">er</seg> konnte nicht anders <seg id="15" type="intExpr">glauben</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1">als daß ich das Verbrechen an Johanna begangen habe</said>; aber daß dieses Unglück mit seinen unberechenbaren Folgen überhaupt hereingebrochen, das war es, was mir fast die Sinne raubte. <said id="16" mode="reported" content="thought" level="1" nonfact="yes">Und dennoch dachte ich in jener entsetzlichen Stunde weniger an die muthmaßlichen Folgen</said>, <said id="17" mode="reported" content="thought" level="1">als an Denjenigen, der <said id="18" mode="reported" content="speech" level="2">durch die schändlichste Verrätherei</said> das Unheil heraufbeschworen haben konnte.</said> 
+                        <said id="5" mode="direct" content="speech" level="1">»Wer hat es gethan?«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">murmelte</seg> <seg id="5" type="speaker">ich</seg> vor mich hin</seg>, indem ich ununterbrochen meinen Spaziergang in der engen Zelle von dem einen nach dem andern Ende fortsetzte. <said id="6" mode="direct" content="speech" level="1">»Wer hat es gethan? Wer hat das furchtbare Verbrechen begangen,«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">fragte</seg> <seg id="6" type="speaker">ich</seg> noch immer halblaut</seg>, als man mir mein kärgliches Mittagmahl brachte. <said id="7" mode="direct" content="speech" level="1">»Wer hat es gethan? Der Schwarze; vielleicht Bernhard. Hüte Dich vor dem Schwarzen,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sprach</seg> <seg id="7" type="speaker">ich</seg></seg>, als der Gefängnißwärter die unangerührten Speisen wieder hinaustrug. <said id="8" mode="direct" content="speech" level="1">»Hüte Dich vor dem Schwarzen; Bernhard war mein Feind, mein böser Geist,«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">flüsterte</seg> <seg id="8" type="speaker">ich</seg> mit trockenen Lippen</seg>, als die Sonne sich senkte. <said id="9" mode="direct" content="speech" level="1">»Arme Johanna, hüte Dich vor dem Schwarzen,«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">keuchte</seg> <seg id="9" type="speaker">ich</seg> noch mit letzter Kraft</seg>, als die Dämmerung die wenigen Gegenstände in meinem Gemach entstellte und unkenntlich zu machen begann; und dann warf ich mich auf die harten Planken des Fußbodens nieder, meine brennende Stirn gegen das dicke Eisenblech der Thür pressend. 
+                        <said id="10" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Was in nächster Zeit mit mir vorging</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">weiß</seg> <seg id="10" type="speaker">ich</seg> nicht</seg>; ich gelangte in den Lazarethräumen des Gefängnisses nach langer schwerer Krankheit zum Bewußtsein. Ein hitziges Nervenfieber hatte mich an die Pforten des Jenseits geführt, mein kräftiger Körper dagegen dem Tode fast noch im letzten Augenblick seine Beute streitig gemacht. 
+                        O, wäre ich damals gestorben, wie viel Kummer und Herzeleid wäre mir erspart geblieben! Aber es sollte nicht sein. 
+                        Langsam und allmälig erwachte ich wieder zum Leben, zu einem Dasein zwischen düstern Gefängnißmauern, und als einen gräßlichen Hohn betrachtete ich es, daß man mich so sorgfältig pflegte, sich so viel Mühe mit einem zu lebenslänglicher Haft Verdammten gab; doch ich mußte es geschehen lassen. – 
+                        In dem Maaße, wie meine Kräfte zunahmen, <said id="19" mode="reported" content="thought" level="1" border="yes">traten auch die Bilder der Vergangenheit wieder deutlicher hervor.</said> <said id="20" mode="reported" content="thought" level="1">Anfangs erschien mir Alles wie ein wüster Traum, in welchem zwei Briefe die Hauptrolle gespielt.</said> <said id="11" mode="reported" content="speech" level="1">Erst der Schließer klärte mich über <said id="21" mode="reported" content="thought" level="2" nonfact="yes">meine Zweifel</said> auf</said> und <seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">erzählte</seg> mir,</seg> <said id="12" mode="indirect" content="speech" level="1">daß er mich bereits vor vier Wochen mit den zusammengeknitterten Briefen in den Händen bewußtlos auf der Erde liegend in meiner Zelle vorgefunden habe.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

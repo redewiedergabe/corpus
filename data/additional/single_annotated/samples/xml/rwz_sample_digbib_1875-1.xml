@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Jungfrau</title>
+             <author>Lichtenstein, Alfred</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Lichtenstein,_Alfred_Die_Jungfrau.tg127_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Jungfrau</f>
+         <f name="author">Lichtenstein, Alfred</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Nichts geschah, was den Gesetzen widersprochen hätte. Die Leidenschaft zwischen dem Kind und dem alten Mann erregte die Eifersucht der alten Frau Minna von Mondmilch. Durch die 
+zu lästig gewordenen ehelichen Zwistigkeiten fühlte sich der verärgerte Beamte einige Jahre darauf genötigt, in eine Trennung von dem Pflegekind einzuwilligen. Er mußte auch auf die ältlich gewordenen Töchter Rücksicht nehmen. Der Abschied war schwer. Exzellenz Moriz von Mondmilch fiel in Weinkrämpfe. 
+                  Maria Mondmilch kam in eine große Stadt. Man zahlte den fremden Leuten, bei denen sie eingemietet worden war, monatlich viel Geld. Sonst kümmerte man sich nicht um Maria Mondmilch. Mit dem edlen Onkel wechselte sie geheime Briefe voll ausschweifender Liebessehnsucht und abenteuerlicher Hoffnungen. <seg id="1" type="frame" pos="start">Das <seg id="1" type="intExpr">Bewußtsein</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">ständig Gefährliches verbergen zu müssen</said>, gab <seg id="1" type="speaker">ihr</seg> etwas Feierliches und eine unerklärliche Überlegenheit. <said id="2" mode="reported" content="writing" level="1">Die <seg id="2" type="intExpr">Briefe</seg> des <seg id="2" type="speaker">Onkels</seg></said> bewahrte Maria Mondmilch unter besonders sakralen Formalitäten auf. Ein Teil der Briefe kam abhanden und wurde das Beweismaterial für den berühmten Scheidungsprozeß, der das ganze Land erregte. 
+                  Maria Mondmilch war in der großen Stadt Schülerin eines Mädchengymnasiums. Sie gehörte nicht zu den Besten. Zeitweise arbeitete sie fleißig. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Man</seg> <seg id="3" type="intExpr">beschuldigte</seg> sie,</seg> <said id="3" mode="indirect" content="speech" level="1">allerhand Schweinereien – die vorkamen – angestiftet zu haben.</said> Als bekannt wurde, daß der Leiter der Anstalt ihr abends in einer argen Straße begegnet war, erwartete man ihre Relegierung. In der Verhandlung gegen einen Literaturprofessor des Gymnasiums, der, <seg id="4" type="frame" pos="start">trotzdem er dringend <seg id="4" type="intExpr">verdächtigt</seg> war,</seg> <said id="4" mode="indirect" content="thought" level="1">etliche Sittlichkeitsverbrechen begangen zu haben</said>, freigesprochen werden mußte, war sie die wichtigste Zeugin. 
+                  Das junge Mädchen weilte in der Nacht am liebsten in den berüchtigten Vierteln. Maria Mondmilch ließ sich <said id="5" mode="reported" content="speech" level="1">von allem möglichen <seg id="5" type="speaker">Gesindel</seg> <seg id="5" type="intExpr">ansprechen</seg></said>, den meisten 
+Männern entlief sie wieder. Sie war noch nicht fünfzehn Jahre alt, als sie sich von einem Händler, dessen Bekanntschaft sie in einem schmutzigen Abend an einer üblen Gasse auf einer Brücke unter einer halb verfallenen altertümlichen Petroleumlaterne gemacht hatte, in unanständigen Stellungen nackt photographieren ließ. Als Sechzehnjährige verlebte sie die Weihnachtsferien mit einem bildschönen, aber wildfremden Elektrotechniker – namens Hans Hampelmann – in einem verrufenen Hotel anscheinend wie Frau und Mann. <said id="6" mode="indirect" content="speech" level="1">Daß sie nach Absolvierung des Gymnasiums sich entschloß, Medizin zu studieren</said><seg id="6" type="frame" pos="end">, ist unschwer aus erotischen Bedürfnissen zu <seg id="6" type="intExpr">erklären</seg>.</seg> 
+                  Der hungrige Schauspieler Schwertschwanz – ein intelligent und verludert aussehender Mensch, der nach billiger Schokolade stank – lief planlos sehnsüchtig die abendlich funkelnden und lärmenden Straßen der Stadt entlang, in welcher Maria Mondmilch Medizin studierte. Er begegnete ihr, als sie aus einer Vorlesung über Geschlechts- und Männerleiden traurig zurückkam. Zum Spaß – ziemlich – <said id="7" mode="reported" content="speech" level="1"><seg id="7" type="intExpr">sprach</seg> <seg id="7" type="speaker">er</seg> sie <seg id="7" type="intExpr">an</seg>.</said> Gemeinsam gingen die beiden in eine Kneipe niederer Sorte. 
+                  <seg id="9" type="frame" pos="start">Der Schauspieler <seg id="9 10" type="speaker">Schwertschwanz</seg> hatte, <said id="8" mode="reported" content="speech" level="1">bevor <seg id="8" type="speaker">er</seg> die Studentin <seg id="8" type="intExpr">ansprach</seg></said>, <seg id="9" type="intExpr">überlegt</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">was seine langjährige Verzweiflung augenblicklich am ehesten begründen könne:</said> <said id="10" mode="freeIndirect" content="thought" level="1">die schließliche Unwichtigkeit alles Geschehens oder nur das Malheur, daß bedeutende Männer oftmals aus Mangel an entsprechender Nahrung und Medizin krepieren müssen ... Die Unzulänglichkeit der Frauen ... Die Unheilbarkeit der Rückenmarkschwindsucht, deren Anzeichen er an sich zu bemerken glaubte ...</said> <said id="11" mode="reported" content="speech" level="1">Als <seg id="11" type="speaker">Maria Mondmilch</seg> ihren Beruf <seg id="11" type="intExpr">nannte</seg></said>, leuchtete er auf. <said id="12" mode="reported" content="speech" level="1"><seg id="12" type="speaker">Man</seg> <seg id="12" type="intExpr">sprach</seg> über Syphilis und die Folgen.</said> <said id="13" mode="reported" content="speech" level="1"><seg id="13" type="speaker">Fräulein Mondmilch</seg> <seg id="13" type="intExpr">erzählte</seg> 
+entsetzliche Fälle.</said> Herr Schwertschwanz hörte erschrocken und begeistert zu. Er war entzückt, <seg id="14" type="frame" pos="start">als <seg id="14" type="speaker">sie</seg> –kokett <seg id="14" type="intExpr">betonend</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">daß sie leider nur wissenschaftliche Beziehungen zu Männern unterhalten könne</said> – wie unabsichtlich bis über das Knie ein gut geformtes, herbes Bein sehen ließ, das in einem aufregend gemeinen, halbseidenen Strumpf befestigt war.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

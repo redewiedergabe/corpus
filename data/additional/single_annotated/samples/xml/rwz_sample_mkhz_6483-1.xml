@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Großbritanien.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener244_1850_17.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Großbritanien.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+      </fs>
+      <body>
+         <p>         
+
+-- Das der Peninsular and Oriental Steam Navigation
+                        Company gehörige Dampfboot „Ripon“, welches den
+                        schwereren Theil der letzten Ueberlandpost nach England
+                        brachte, brauchte bei gutem Wetter zu seiner Ueberfahrt
+                        von Alexandria beinahe 17 volle Tage. Mittlerweile
+                        wird der noch um einige Meilen längere Weg zwischen
+                        New-York und Liverpool von den transatlantischen
+                        Dampfbooten fast regelmäßig in 10 1/2 bis 11 Tagen
+                        zurückgelegt.
+            -- <seg id="1" type="frame" pos="start">Wie man <seg id="1" type="intExpr">hört</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1" border="yes"><said id="7" mode="reported" content="speech" level="2">haben die Unternehmer des unterseischen elektrischen Telegraphen ihre Verhandlungen mit
+                        den betreffenden Pariser Behörden glücklich zu Ende geführt</said>, und sind jetzt im Stande, die dauernde Verbindung zwischen der Englischen und Französischen Küste durch
+                        den elektrischen Draht vorzubereiten.</said> Eine Masse Eisendraht ist zur Probe angefertigt worden, <said id="3" mode="indirect" content="speech" level="1">welcher</said><seg id="3" type="frame" pos="mid">, wie
+                        <seg id="3" type="speaker">man</seg> <seg id="3" type="intExpr">behauptet</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">stark genug ist, um allen Unfällen zu
+                        trotzen, die durch Felsenriffe, durch die schlechte Beschaffenheit des Ankergrundes oder andere Ursachen entstehen
+                        könnten.</said> Dieses ungeheure Metall-Tau wird ungefähr
+                        die Summe von 50.000 Pf. St. kosten; die eine Hälfte
+                        dieser Summe soll in Paris, die andere in London aufgebracht werden. <said id="4" mode="indirect" content="speech" level="1">Wenige Monate</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagt</seg> <seg id="4" type="speaker">man</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1">werden
+                        zur Vollendung des Riesenwerkes hinreichen</said>, <seg id="5" type="frame" pos="start">so daß <seg id="5" type="speaker">man</seg>
+                        die <seg id="5" type="intExpr">Absicht</seg> hat,</seg> <said id="5" mode="indirect" content="thought" level="1">im Frühjahr 1851 den Draht zu legen.</said>
+                        <said id="13" mode="reported" content="writing" level="1">Die von der Gesellschaft erlangte Concession verleiht derselben das Privilegium auf die ausschließliche elektrische
+                        Telegraphie zwischen Frankreich und England auf zehn
+                        Jahre.</said>
+            -- <said id="14" mode="reported" content="writing" level="1">Es werden von den Londoner Kaufleuten Petitionen um ein Handels-Tribunal vorbereitet</said>, <said id="15" mode="reported" content="speech" level="1" metaph="yes">welches <said id="8" mode="reported" content="speech" level="2">alle
+                        Streitigkeiten zwischen Handelsleuten in speciellen Handelsangelegenheiten</said> entscheiden soll.</said> <seg id="9" type="frame" pos="start">Aus der Lebendigkeit der Theilnahme kann <seg id="9" type="speaker">man</seg> heute schon <seg id="9" type="intExpr">schließen</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">daß
+                        das Institut zu Stande kommen wird.</said>
+            -- Es sind bereits Einleitungen getroffen worden,
+                        einen submarinen Telegraphen zwischen England und Irland anzulegen. Die betreffenden Commissäre sind mit
+                        den Lords der Admiralität deshalb in Verbindung getreten, <said id="16" mode="reported" content="speech" level="1">und es sind zwei Puncte auf beiden Küsten vorgeschlagen wo die Drahtmündungen anzubringen wären.</said>
+                        <said id="10" mode="reported" content="speech" level="1" nonfact="yes">Die Entscheidung wird binnen kurzem erfolgen.</said>
+            -- Auf der Caledonia-Eisenbahn wurde der Versuch
+                        mit einem neuen Signale gemacht, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">wodurch Passagiere
+                        und Conducteure in den Stand gesetzt werden sollen, mit
+                        dem Maschinenführer zu communiziren.</said> Der Mechanismus ist sehr einfach und besteht in Folgendem: An dem
+                        Dache eines jeden Wagens befindet sich eine gewöhnliche
+                        Rolle, in welcher ein Draht laufen kann. Dieser geht
+                        nun von dem letzten Wagenende, wo der Conducteur
+                        seinen Sitz hat, über alle Rollen, und demnach über alle
+                        Waggons bis zur Dampfpfeife der Locomotive, und sendet überdies Zweigdrähte in jede einzelne Wagen-Abtheilung, so daß jedem Passagiere im Falle der Noth eine
+                        Schnur zur Verfügung steht. Der Versuch gelang vollkommen. Der Erfinder ist Herr Copling, einer von den
+                        Directoren der Caledonia-Eisenbahn, in Schottland.
+            -- Der Dampfer „Washington“ ist auf dem Wege
+                        nach Bremen am 4. October auf der Höhe von Cowes
+                        angekommen und hat Nachrichten aus New-York, welche drei Tage weiter reichen, als die durch die „Hibernia“ erhaltenen, nach England gebracht. Im Senate
+                        zu Washington war die Oregon-Bill durchgegangen und
+                        sodann das Budget (General-Appropriation-Bill) vorgenommen worden. Unter den verschiedenen Zusatz-Artikeln,
+                        <said id="12" mode="reported" content="speech" level="1">die eingebracht wurden</said>, war einer, welcher die Summe
+                        von 10.000 Dollars zur Bestreitung der Ausgaben des
+                        Türkischen Gesandten während seines Aufenthaltes in den
+                        Vereinigten Staaten ausgesetzt wissen wollte.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

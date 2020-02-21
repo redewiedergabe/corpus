@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Man braucht Mehrere</title>
+             <author>Altenberg, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Altenberg,_Peter_Man_braucht_Mehrere.tg171_1.xml</f>
+         <f name="year">1901</f>
+         <f name="decade">1900</f>
+         <f name="title">Man braucht Mehrere</f>
+         <f name="author">Altenberg, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<seg id="1" type="frame" pos="start">Jetzt hätte <seg id="1" type="speaker">Kamilla</seg> <seg id="1" type="intExpr">sagen</seg> können:</seg> <said id="1" mode="direct" content="speech" level="1" nonfact="yes">»zum Prinzen geboren und versunken im Leben – – –.«</said> 
+                  <said id="2" mode="reported" content="speech" level="1" nonfact="yes">Aber sie sagte es nicht.</said> <seg id="3" type="frame" pos="start">Es <seg id="3" type="intExpr">fiel</seg> <seg id="3" type="speaker">ihr</seg> gar nicht <seg id="3" type="intExpr">ein</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes"><said id="4" mode="reported" content="thought" level="2" nonfact="yes">das zu denken.</said></said> <said id="39" mode="freeIndirect" content="thought" level="1">Sie hatte die Macht über ihn und basta!</said> 
+                  Er aber empfand sich wie das »gute Prinzip« in ihrem bösen Leben.
+                  
+                     *
+                     *
+                     *
+                        
+                   
+                  Julius Valerius sass in einer Ecke und <said id="40" mode="reported" content="speech" level="1">zählte Geld.</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Komm her, setz dich zu uns – – –«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">sagte</seg> der elegante bleiche junge <seg id="5" type="speaker">Herr</seg>.</seg> 
+                  <said id="6" mode="direct" content="speech" level="1">»<said id="41" mode="reported" content="speech" level="2">Ich danke sehr – – –</said>«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">erwiderte</seg> <seg id="6" type="speaker">Julius Valerius</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">»ich sitze nicht bei einer jeden!«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Was hast du mit ihm?«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sagte</seg> der junge <seg id="7" type="speaker">Herr</seg> zu Kamilla.</seg> 
+                  
+                  <said id="8" mode="direct" content="speech" level="1">»Was geht er mich an!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">erwiderte</seg> das <seg id="8" type="speaker">Mädchen</seg>.</seg> 
+                  <said id="9" mode="direct" content="speech" level="1">»Theater, Theater – – –«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">trillerte</seg> <seg id="9" type="speaker">sie</seg>.</seg> 
+                  Theater heisst »Komödie« und »ich spiele mich mit dir« und »das macht mir einmal Pläsier«. 
+                  <said id="10" mode="direct" content="speech" level="1">»Kanaille – – –!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">Julius Valerius</seg>.</seg> 
+                  <said id="11" mode="direct" content="speech" level="1">»Es ist doch ein Theater, just und just!«</said> 
+                  Julius Valerius nahm ein langes grosses Milchbrot-Laib von der Kredenz und schleuderte es auf ihren Tisch hin. Ihr Cognakglas zerbrach. Sie wurde ganz bleich. Das war kein »Theater«. Der junge Herr legte seine Hand auf ihren Arm. <said id="12" mode="reported" content="speech" level="1" nonfact="yes">Alle schwiegen.</said> 
+                  Der Herr stand auf, ging hinaus auf den Gang, um Kamilla und Valerius allein zu lassen; <said id="13" mode="direct" content="speech" level="1">»Die Geheimnisse dieser Welt! Was wird es sein?«</said> 
+                  Julius Valerius kam ihm nach, <said id="14" mode="reported" content="speech" level="1" nonfact="yes">wollte ihn ansprechen.</said> Der junge Herr stand da wie König Heinrich, als er von der Salbung kommt und <seg id="42" type="frame" pos="start"><seg id="42" type="speaker">Falstaff</seg>, der »Genosse seiner wüsten Nächte« ihn <seg id="42" type="intExpr">anspricht</seg>:</seg> <said id="42" mode="direct" content="speech" level="1">»He, Heinz!«</said> <seg id="16" type="frame" pos="start">Da <seg id="16" type="intExpr">sagt</seg> der <seg id="16" type="speaker">König</seg> königlich:</seg> <said id="16" mode="direct" content="speech" level="1">»Wer sind diese Leute?«</said> 
+                  <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Julius Valerius</seg> aber <seg id="17" type="intExpr">sagte</seg> zu dem gesalbten Könige:</seg> <said id="17" mode="direct" content="speech" level="1">»Du, sie ist eine Kanaille, Sie betrügt dich und mich!«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Wieso dich?«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">sagte</seg> der <seg id="18" type="speaker">Herr</seg> einfach.</seg> 
+                  <said id="19" mode="direct" content="speech" level="1">»Mich! Ich bin ihr Geliebter!«</said> 
+                  Der junge Herr machte kleine Augen, fast schiefe. Er empfand nur die Gemeinheit, die darin lag, <said id="20" mode="reported" content="speech" level="1" nonfact="yes">das Mädchen zu verraten.</said> 
+                  <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Julius Valerius</seg> <seg id="21" type="intExpr">sagte</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">»Du bist auf sie ›geflogen‹, <said id="43" mode="reported" content="speech" level="2">wie wir nämlich sagen</said>, du bist ihr ›Freund‹ geworden. Du giebst kein Geld, du machst ihr Präsente!«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Und du – – –?«</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Ich mache ihr keine – – –.«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»Du giebst Geld?«</said> 
+                  <said id="25" mode="direct" content="speech" level="1">»Nein – – –.«</said> 
+                  Jetzt war er der König, der gesalbte. Julius Valerius Rex! 
+                  <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Er</seg> <seg id="26" type="intExpr">sagte</seg>:</seg> <said id="26" mode="direct" content="speech" level="1">»<said id="27" mode="reported" content="thought" level="2" nonfact="yes">Du verstehst das nicht.</said> <said id="28" mode="reported" content="thought" level="2" border="yes">Wir wissen alles.</said> <said id="44" mode="reported" content="thought" level="2" nonfact="yes">Wofür hält man uns?</said> Aber wir richten es uns ein. Jeder Mensch richtet es sich ein. Die ›anderen‹ zählen nicht und der ›Freund‹ ist der ›Freund‹. Nur mit denen, auf die sie selbst fliegt, mit denen darf sie nicht gehen. Das ist etwas anderes. Das sind die Rivalen. <said id="29" mode="reported" content="thought" level="2" nonfact="yes">Verstehst Du das?</said>«</said> 
+                  <said id="30" mode="direct" content="speech" level="1">»<said id="31" mode="reported" content="thought" level="2">Ich verstehe</said>«</said><seg id="30" type="frame" pos="end">, <seg id="30" type="intExpr">sagte</seg> der <seg id="30" type="speaker">Herr</seg> kalt.</seg> <said id="32" mode="direct" content="speech" level="1">»Da wird dann alles wie in unserer Welt!«</said> 
+                  Julius Valerius erbleichte. <seg id="33" type="frame" pos="start">Der <seg id="33" type="speaker">Herr</seg> <seg id="33" type="intExpr">sagte</seg>:</seg> <said id="33" mode="direct" content="speech" level="1">»Wieso betrügt sie Dich?«</said> 
+                  <said id="34" mode="direct" content="speech" level="1">»Wieso? No wieso?! <seg id="35" type="frame" pos="start"><seg id="35" type="speaker">Ich</seg> hab' sie <seg id="35" type="intExpr">gebeten</seg> und <seg id="35" type="intExpr">gebeten</seg>,</seg> <said id="35" mode="direct" content="speech" level="2">schau Kamilla, geh nicht mit dem Lederer Franzl, was hast davon, geh, thu mir das nicht an.</said> Diese Kanaille!«</said> 
+                  <said id="36" mode="direct" content="speech" level="1">»Wer ist dieser Herr Franz Lederer?«</said> 
+                  <said id="37" mode="direct" content="speech" level="1">»Wer, no wer? Ein feiner Mann, ein Stromer, einer von der ›Partie‹!«</said> 
+                  Die beiden Männer traten wieder ins Café, setzten sich zu Kamilla. 
+                  
+                     <seg id="45" type="frame" pos="start"><seg id="45" type="speaker">Sie</seg> <seg id="45" type="intExpr">fühlte</seg> es,</seg> <said id="45" mode="indirect" content="thought" level="1" border="yes">dass Julius Valerius sie seiner Rache geopfert habe.</said> 
+                  Sie machte Augen wie ein Luchs. 
+                  <seg id="38" type="frame" pos="start"><seg id="38" type="speaker">Sie</seg> hatte eine einfache <seg id="38" type="intExpr">Idee</seg>:</seg> <said id="38" mode="indirect" content="thought" level="1">sie wollte alle drei behalten.</said> 
+                  Sie hatte alle drei gern, jeden anders.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt44_1868_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Wie ich aus <said id="1" mode="reported" content="speech" level="1">der Frühpredigt</said> zurückgekommen, fand ich die Schauspielerin vom gestrigen Abend in unserem Hause, die gekommen, <said id="2" mode="reported" content="speech" level="1">um
+                        sich nach dem Befinden Judica's zu erkundigen</said>, <said id="3" mode="reported" content="speech" level="1">und sehr um Entschuldigung bat, daß sie in ihrer Verblendung ja eigentlich selbst der
+                        Anlaß zu der Bestürzung und dem daraus entsprungenen Unwohlsein
+                        des Kindes gewesen.</said> Sah man da im Tageslicht und <said id="4" mode="reported" content="speech" level="1">durch die
+                        Sprache des gewöhnlichen Lebens</said> noch mehr, als auf der Bühne, daß
+                        ein gutes und feines Herz hinter der ärmlichen Kleidung, welche sie
+                        heut trug, verborgen sitzt, <seg id="5" type="frame" pos="start">und <seg id="5" type="intExpr">verstattete</seg> <seg id="5" type="speaker">ich</seg> ihr deshalb auch gern,</seg>
+                       <said id="5" mode="indirect" content="speech" level="1"> in das Schlafzimmer, wo Judica's Bett stand, zu gehen und selbst
+                        nach ihr zu sehen.</said> Das Kind war viel stiller geworden, als in der
+                        Nacht, <said id="6" mode="reported" content="thought" level="1">was ich für ein gutes Zeichen hielt</said>; <seg id="7" type="frame" pos="start">allein die <seg id="7" type="speaker">Fremde</seg> betrachtete es lang und aufmerksam, mit verhaltenem Athem, fühlte seine
+                        Stirn und Lippen und <seg id="7" type="intExpr">fragte</seg> hastig,</seg> <said id="7" mode="indirect" content="speech" level="1">ob kein Arzt im Dorfe sei.</said> <seg id="8" type="frame" pos="start">Da
+                        <seg id="8" type="speaker">ich</seg> ihr indeß <seg id="8" type="intExpr">erwiderte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß der nächste drei Stunden entfernt wohne
+                        und <said id="9" mode="reported" content="thought" level="2">daß ich Judica's Zustand nicht derartig halte, um so weit nach
+                        ihm zu schicken</said></said>, <seg id="10" type="frame" pos="start">schüttelte <seg id="10" type="speaker">sie</seg> mit einem Seufzer den Kopf und <seg id="10" type="intExpr">fragte</seg>,</seg>
+                       <said id="10" mode="indirect" content="speech" level="1"> <seg id="11" type="frame" pos="start">ob <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">erlaube</seg>,</seg> <said id="11" mode="indirect" content="speech" level="2" nonfact="yes">daß sie am Abend noch einmal wiederkomme und
+                        einen Heiltrank mitbringe, <seg id="12" type="frame" pos="start">von dem <seg id="12" type="speaker">sie</seg> <seg id="12" type="intExpr">wisse</seg>,</seg> <said id="12" mode="indirect" content="thought" level="3" border="yes">daß er sich in vielen
+                        ähnlichen Fällen vortrefflich bewährt.</said></said></said> Als ein abgesagter Feind von
+                        aller Quacksalberei und allen Weibermittelchen, <said id="13" mode="reported" content="speech" level="1" nonfact="yes">bejahte ich <said id="25" mode="reported" content="speech" level="2">das Letztere</said>
+                        nicht grade</said>, <said id="14" mode="reported" content="speech" level="1">stellte es ihr aber gern frei, wieder nach dem Kinde, an
+                        dessen Erkrankung sie übrigens nicht die mindeste Schuld trage, zu
+                        sehen</said>; <said id="15" mode="reported" content="speech" level="1">sie ging dankend fort</said>, ist indeß bis jetzt, wo die Sonne
+                        grad' am Horizont steht, nicht zurückgekehrt, so daß sie doch wohl <said id="16" mode="reported" content="thought" level="1">die
+                        Ungläubigkeit, welche mein Gesicht in Bezug auf ihren Heiltrank
+                        durchblicken ließ</said>, übel genommen und nicht wiederkommt.
+            
+               Den 26. Juni.
+            Wir haben bange Tage und Nächte Judica's wegen gehabt.
+                        Sie begann mit dem Einbruch der Sonntagsnacht wieder zu fiebern,
+                        so daß wir an ihrem Bett wachten. Da ward noch um Mitternacht
+                        an unsere Hausthür geklopft, und die Fremde kam, aufgeregt und
+                        erhitzt, mit ihrer Medizin. <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Sie</seg> <seg id="17" type="intExpr">sagte</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">sie habe spielen müssen und
+                        nicht eher kommen können</said>, und ihre Hand zitterte heftig, <said id="18" mode="reported" content="speech" level="1">als sie
+                        sorgsam ein halbes Dutzend brauner Tropfen aus einem Fläschchen
+                        in einen Theelöffel abzählte</said> und sie dem Kinde reichte, das dieselben
+                        mit den vertrockneten Lippen mechanisch hastig einschlürfte. <said id="20" mode="reported" content="speech" level="1" nonfact="yes">Jch
+                        wollte es anfänglich nicht zugeben</said>, <said id="19" mode="reported" content="speech" level="1">allein die Schauspielerin bat mich
+                        so flehentlich</said> und <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">betheuerte</seg> mit einer gewissen überwältigenden Feierlichkeit,</seg> <said id="21" mode="indirect" content="speech" level="1">die Medizin werde der Kranken wohlthun</said>, <said id="22" mode="reported" content="speech" level="1">daß ich <said id="23" mode="reported" content="thought" level="2" nonfact="yes">in meiner
+                        eigenen Rathlosigkeit</said> endlich die Einwilligung ertheilte.</said> Sie zeigte
+                        sich überhaupt ungleich erfahrener, als meine Frau und ich, die wir
+                        uns Beide noch nie in solcher Lage befunden, so daß wir uns bald
+                        ganz von ihr lenken und schließlich gar zu Bett schicken ließen, <seg id="24" type="frame" pos="start">da <seg id="24" type="speaker">sie</seg>
+                        <seg id="24" type="intExpr">behauptete</seg>,</seg> <said id="24" mode="indirect" content="speech" level="1">daß wir der Ruhe bedürften und sie bei der Kleinen wachen
+                        wolle.</said> <said id="26" mode="reported" content="thought" level="1" nonfact="yes">Der Kopf wird Einem zuletzt ganz wirr bei derartigen Dingen</said>, daß man froh ist, wenn nur Jemand mit Entschiedenheit eingreift und sich willig leiten läßt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

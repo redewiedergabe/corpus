@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>18. Des Todtengräbers Sohn</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_18__Des_Todtengraebers_Sohn.tg668_1.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">18. Des Todtengräbers Sohn</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Des Todtengräbers Sohn. 
+                  Es war einmal ein armer Kulengräber (Todtengräber), der hatte einen einzigen Sohn mit Namen Fritz, und ist da auch ein reicher Bürgermeister gewesen, der hatte eine einzige Tochter, die hieß Karoline. Weil nun die beiden Kinder zusammen in die Schule gingen und täglich bei einander waren, auch gleiches Alter hatten, so wurden sie sich von Herzen gut. Die Jahre kamen und vergingen, die Kinder wurden groß, aber ihre Liebe blieb dieselbe. <said id="1" mode="reported" content="thought" level="1">Das war aber dem Vater des Mädchens gar nicht recht, daß sie sich zu so einem armen Jungen hielt, dessen Vater nur ein Todtengräber war.</said> <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Er</seg> machte dem Fritz das Leben sauer, wie und wo er nur konnte, und <seg id="2" type="intExpr">verbot</seg> seiner Tochter zuletzt auf das strengste,</seg> <said id="2" mode="indirect" content="speech" level="1">mit ihm zu verkehren und <said id="3" mode="reported" content="speech" level="2" nonfact="yes">zu sprechen</said></said>, sodaß die zwei sich nur zuweilen heimlich sehen konnten. <seg id="4" type="frame" pos="start">Da <seg id="4" type="intExpr">dachte</seg> der <seg id="4" type="speaker">Fritz</seg> endlich:</seg> <said id="4" mode="direct" content="thought" level="1">»Ich will nun in die weite Welt gehen, ob ich nicht da mein Glück machen und Geld erwerben kann; so geht es doch nie und nimmer gut.«</said> Und als er nun zum letzten Mal zu seiner Karoline ging, <said id="5" mode="reported" content="speech" level="1">ihr Lebewohl zu sagen</said>, <seg id="6" type="frame" pos="start">fing <seg id="6" type="speaker">sie</seg> bitterlich zu weinen an und gab ihm einen Ring und <seg id="6" type="intExpr">sagte</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1"><said id="7" mode="reported" content="thought" level="2" nonfact="yes" border="yes">daß er sie doch nicht vergessen möchte</said>, wenn er nun so weit in der Fremde wäre.</said> <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Nie und nimmer will ich dich vergessen</said>«</said><seg id="8" type="frame" pos="mid">, hat <seg id="8" type="speaker">er</seg> da <seg id="8" type="intExpr">gesagt</seg>;</seg> <said id="8" mode="direct" content="speech" level="1">»ich gehe nun nach Spanien, das ist ein weiter, weiter Weg; <seg id="10" type="frame" pos="start">darum <seg id="10" type="intExpr">versprich</seg> mir,</seg> <said id="10" mode="indirect" content="speech" level="2" nonfact="yes">daß du mir sieben Jahre lang treu bleiben willst</said>; bin ich dann nicht zurück, so bin ich todt und komme niemals wieder«.</said> <said id="11" mode="reported" content="speech" level="1">Das haben sich die zwei fest versprochen</said> und haben mit Weinen von einander Abschied genommen; der Fritz ist dann fortgewandert auf dem Wege, der nach Spanien geht. 
+                  Gegen Abend kam er zu einem Schlosse, drinnen wohnte ein alter Ritter mit seiner Frau, die nahmen ihn freundlich auf und gaben ihm Herberge. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Er</seg> <seg id="13" type="intExpr">erzählte</seg> ihnen, als sie zu Tische saßen,</seg> <said id="13" mode="indirect" content="speech" level="1">wie es ihm so traurig ergangen sei, und daß er nun hinwollte nach Spanien, ob er da nicht sein Glück machen könne.</said> Weil er nun so offen und treuherzig war, gewannen ihn der Ritter und seine Frau lieb, und da sie keine Kinder hatten, so behielten 
+sie ihn bei sich als ihren Sohn, gaben ihm gute Kleider und ließen ihn in allem unterrichten, was einem Rittersmann zukommt. 
+                  <seg id="14" type="frame" pos="start">Über eine Zeit, so ging die <seg id="14" type="intExpr">Kunde</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">der König von Spanien, der schon alt und des Regierens müde sei, hätte eine Krone ausgehängt, wer die in vollem Jagen herunterstäche, der sollte Vizekönig von Spanien sein und des Königs Tochter zur Frau haben.</said> <seg id="15" type="frame" pos="start">Da <seg id="15" type="intExpr">bat</seg> <seg id="15" type="speaker">Fritz</seg> seine Pflegeeltern,</seg> <said id="15" mode="indirect" content="speech" level="1">daß sie ihn möchten nach Spanien an des Königs Hof ziehen lassen, denn das Kronenstechen hätte er doch gar zu gerne mitgemacht.</said> <said id="16" mode="direct" content="thought" level="1">»<seg id="17" type="frame" pos="start">Wer weiß,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes" prag="yes">ob es dir nicht glückt</said>,«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">dachte</seg> <seg id="16" type="speaker">er</seg></seg> und <said id="18" mode="reported" content="speech" level="1">bat so lange, bis ihm der Ritter ein Pferd gab und ihn ziehen ließ.</said> So ritt er denn fort auf dem Wege, der nach Spanien geht, und als er dort ankam, da hatten sich schon alle Ritter im Stechen versucht, aber keiner hatte die Krone erlangen können.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

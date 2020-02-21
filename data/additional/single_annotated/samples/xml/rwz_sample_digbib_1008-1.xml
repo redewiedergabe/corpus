@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>7. Die böse Stiefmutter</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_7__Die_boese_Stiefmutter.tg656_1.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">7. Die böse Stiefmutter</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Die Stiefmutter ließ ihre rechte Tochter immer in schönen Kleidern gehen und that ihr alles zu Willen; sie brauchte auch gar nicht zu arbeiten; aber die Stieftochter mußte den ganzen lieben Tag draußen am Brunnen sitzen und Garn winden, daß ihr der Faden zuletzt die Finger ordentlich blutig schnitt. <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Davon hatte sie aber wenig Dank</said>, mußte immer in lumpigem Zeuge gehen, <said id="2" mode="reported" content="speech" level="1">und ihre Stiefmutter sagte ihr nichts als böse Worte.</said> So saß sie auch mal wieder und wand und wand, und die Hände wurden ihr zuletzt so lahm von allem wickeln, daß ihr unversehends der dicke Knäuel in den Brunnen sprang. Da kriegte sie große Angst, denn die böse Stiefmutter hätte sie gewiß geschlagen, wenn sie den Knäuel nicht wiederbrachte. Darum stieg sie in den Brunnen hinab; der war wohl tief, aber ganz zerfallen und kein Wasser mehr drinn. 
+                  Wie das Mädchen nun unten auf den Boden kam, so war da eine ordentlich kleine Thür, die machte sie auf und ging hindurch; da war alles frei und schön. Dicht neben der Pforte lag auf einem Blocke ein großes scharfes Beil und Holz dabei, <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">das</seg> <seg id="3" type="intExpr">rief</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Hau mich entzwei, hau mich entzwei!«</said> Da nahm das Kind das Beil und hackte das Holz. Als es das gethan, ging es weiter und kam zu einem Backofen, <seg id="4" type="frame" pos="start">drinnen <seg id="4" type="intExpr">rief</seg> das <seg id="4" type="speaker">Brot</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Zieh mich raus, zieh mich raus.«</said> Da zog das Kind das Brot aus dem Ofen, und als es nun weiter ging, begegnete ihm eine Kuh, <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">die</seg> <seg id="5" type="intExpr">rief</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Melk mich, melk mich!«</said> Das tat das Mädchen auch und ging weiter. Nicht lange, so begegnete ihm eine Ziege, <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">die</seg> <seg id="6" type="intExpr">rief</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Melk mich, melk mich!«</said> Als das Mädchen die auch gemelkt hatte, ging es weiter und kam zuletzt an ein Haus, davor saß eine alte Frau und spann und hatte einen Hund und zwei Katzen bei sich. <said id="7" mode="direct" content="speech" level="1">»Du mußt nun bei 
+mir bleiben,«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">sprach</seg> die <seg id="7" type="speaker">Alte</seg> zu dem Kinde,</seg> <said id="7" mode="direct" content="speech" level="1">»und sollst es gut haben, wenn du alle Tage meinen Hund und meine beiden Katzen ordentlich flöhen willst; und dann habe ich da drei Stuben; zwei davon mußt du jeden Morgen hübsch ausfegen, aber in die dritte darfst du bei Leibe nicht gehen, sonst geht's dir schlecht.«</said> 
+                  Da ist denn das Mädchen bei der alten Frau geblieben, hat den Katzen und dem Hunde alle Tage ordentlich den Pelz besehen und auch die beiden Stuben gefegt; aber in die dritte Stube ist es nicht hineingegangen. 
+                  Als nun der Sonntag herankam, <seg id="8" type="frame" pos="start">zog die alte <seg id="8" type="speaker">Frau</seg> ihr Sonntagskleid an und <seg id="8" type="intExpr">sagte</seg> zu dem Kinde:</seg> <said id="8" mode="direct" content="speech" level="1">»Ich will jetzt zur Kirche, darum geh mir derweilen nicht weg, sondern achte gehörig auf das Haus.«</said> Damit ist sie fort in die Kirche gegangen. <seg id="9" type="frame" pos="start">Das <seg id="9" type="speaker">Mädchen</seg> aber, während es so ganz allein im Hause war, überkam eine große Neugierde zu <seg id="9" type="intExpr">wissen</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was die alte Frau wohl in dem dritten Zimmer haben möchte</said>; <said id="10" mode="reported" content="thought" level="1">es ließ ihr auch nicht eher Ruhe, bis sie das Zimmer aufgeschlossen hatte.</said> O Leute! Was war da für vieles Geld! Ein Sack stand neben dem andern; hier Kupfergeld, hier Silbergeld, da nichts als lauter Gold.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

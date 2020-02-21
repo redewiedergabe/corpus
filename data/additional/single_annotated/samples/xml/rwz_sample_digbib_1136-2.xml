@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Judenbuche</title>
+             <author>Droste-Hülshoff, Annette von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Droste-Huelshoff,_Annette_von_Die_Judenbuche.tg257_1.xml</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Die Judenbuche</f>
+         <f name="author">Droste-Hülshoff, Annette von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  – <said id="1" mode="direct" content="speech" level="1">»Furchtbares
+                                                  Wetter!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">Herr von S.</seg></seg> Seine Frau sah
+                                                  ängstlich aus.
+                                                  <said id="2" mode="direct" content="speech" level="1">»Ist das Feuer auch gewiß gut
+                                                  verwahrt?«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">sagte</seg> <seg id="2" type="speaker">sie</seg>;</seg> <said id="2" mode="direct" content="speech" level="1">»Gretchen, sieh noch einmal
+                                                  nach, gieß es lieber ganz aus!
+                                                  – <said id="3" mode="reported" content="speech" level="2" nonfact="yes">Kommt, wir wollen das Evangelium
+                                                  Johannis beten.</said>«</said> Alles kniete nieder und <seg id="4" type="frame" pos="start">die
+                                                  <seg id="4" type="speaker">Hausfrau</seg> <seg id="4" type="intExpr">begann</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Im Anfang war das Wort und das
+                                                  Wort war bei Gott und Gott war das Wort.«</said> Ein
+                                                  furchtbarer Donnerschlag.
+                                                  Alle fuhren zusammen; dann
+                                                  furchtbares Geschrei und Getümmel die Treppe
+                                                  heran.
+                                                  – <said id="5" mode="direct" content="speech" level="1">»Um Gottes willen!
+                                                  Brennt es?«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">rief</seg> <seg id="5" type="speaker">Frau von S.</seg></seg> und
+                                                  sank mit dem Gesichte auf den Stuhl.
+                                                  Die Türe ward aufgerissen und
+                                                  herein stürzte die Frau des Juden Aaron, bleich
+                                                  wie der Tod, das Haar wild um den Kopf, von Regen
+                                                  triefend.
+                                                  Sie warf sich vor dem Gutsherrn auf
+                                                  die Knie.
+                                                  <said id="6" mode="direct" content="speech" level="1">»Gerechtigkeit!«</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">rief</seg> <seg id="6" type="speaker">sie</seg>,</seg>
+                                                  <said id="6" mode="direct" content="speech" level="1">»Gerechtigkeit!
+                                                  Mein Mann ist erschlagen!«</said> und sank
+                                                  ohnmächtig zusammen.
+                                                  
+                                                  
+                                                  Es war nur zu wahr, und die
+                                                  nachfolgende Untersuchung bewies, daß der Jude
+                                                  Aaron durch einen Schlag an die Schläfe mit einem
+                                                  stumpfen Instrumente, wahrscheinlich einem Stabe,
+                                                  sein Leben verloren hatte, durch einen einzigen
+                                                  Schlag.
+                                                  An der linken Schläfe war der blaue
+                                                  Fleck, sonst keine Verletzung zu finden.
+                                                  <seg id="7" type="frame" pos="start">Die <seg id="7" type="intExpr">Aussagen</seg> der <seg id="7" type="speaker">Jüdin</seg> und ihres
+                                                  Knechtes <seg id="7" type="speaker">Samuel</seg> lauteten so:</seg> <said id="7" mode="direct freeIndirect" content="speech" level="1"><seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Aaron</seg> war vor drei
+                                                  Tagen am Nachmittage ausgegangen, um Vieh zu
+                                                  kaufen, und hatte dabei <seg id="8" type="intExpr">gesagt</seg>,</seg> <said id="8" mode="indirect" content="speech" level="2">er werde wohl über
+                                                  Nacht ausbleiben, <said id="9" mode="reported" content="speech" level="3" nonfact="yes">da noch einige böse Schuldner in
+                                                  B. und S. zu mahnen seien.</said></said>
+                                                  <said id="10" mode="indirect freeIndirect" content="speech" level="2">In diesem Falle werde er in B. beim
+                                                  Schlächter Salomon übernachten.</said>
+                                                  Als er am folgenden Tage nicht
+                                                  heimkehrte, <said id="11" mode="reported" content="thought" level="2" border="yes">war seine Frau sehr besorgt geworden</said>
+                                                  und hatte sich endlich heute um drei nachmittags
+                                                  in Begleitung ihres Knechtes und des großen
+                                                  Schlächterhundes auf den Weg gemacht.
+                                                  <said id="12" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Beim Juden Salomon wußte man nichts
+                                                  von Aaron</said>; er war gar nicht da gewesen.
+                                                  Nun waren sie zu allen Bauern
+                                                  gegangen, <seg id="13" type="frame" pos="start">von denen <seg id="13" type="speaker">sie</seg> <seg id="13" type="intExpr">wußten</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" border="yes"><said id="14" mode="reported" content="thought" level="3" border="yes">daß Aaron einen
+                                                  Handel mit ihnen im Auge hatte.</said></said>
+                                                  Nur zwei hatten ihn gesehen, und
+                                                  zwar an demselben Tage, an welchem er
+                                                  ausgegangen.
+                                                  Es war darüber sehr spät
+                                                  geworden.
+                                                  Die große Angst trieb das Weib nach
+                                                  Haus, <said id="15" mode="reported" content="thought" level="2" border="yes">wo sie ihren Mann wiederzufinden eine
+                                                  schwache Hoffnung nährte.</said>
+                                                  So waren sie im Brederholz vom
+                                                  Gewitter überfallen worden und hatten unter einer
+                                                  großen, am Berghange stehenden Buche Schutz
+                                                  gesucht; der Hund hatte unterdessen auf eine
+                                                  auffallende Weise umhergestöbert und sich endlich,
+                                                  trotz allem Locken, im Walde verlaufen.
+                                                  Mit einemmale sieht die Frau beim
+                                                  Leuchten des Blitzes etwas Weißes neben sich im
+                                                  Moose.
+                                                  Es ist der Stab ihres Mannes, und
+                                                  fast im selben Augenblicke bricht der Hund durchs
+                                                  Gebüsch und trägt etwas im Maule: es ist der Schuh
+                                                  ihres Mannes.
+                                                  Nicht lange, so ist in einem mit
+                                                  dürrem Laube gefüllten Graben der Leichnam des
+                                                  Juden gefunden.</said>
+                                                  – <said id="16" mode="reported" content="speech" level="1">Dies war die Angabe des Knechtes</said>,
+                                                  <said id="21" mode="reported" content="speech" level="1">von der Frau nur im allgemeinen unterstützt</said>; ihre
+                                                  übergroße Spannung hatte nachgelassen und sie
+                                                  schien jetzt halb verwirrt oder vielmehr
+                                                  stumpfsinnig.
+                                                  – <said id="17" mode="direct" content="speech" level="1">»Aug' um Auge, Zahn um Zahn!«</said>
+                                                  <seg id="17" type="frame" pos="end">dies waren die einzigen <seg id="17" type="intExpr">Worte</seg>, die <seg id="17" type="speaker">sie</seg> zuweilen
+                                                  <seg id="17" type="intExpr">hervorstieß</seg>.</seg>
+                                                  
+                                                  
+                                                  In derselben Nacht noch wurden die
+                                                  Schützen aufgeboten, um Friedrich zu
+                                                  verhaften.
+                                                  <said id="18" mode="reported" content="speech" level="1" nonfact="yes">Der Anklage
+                                                  bedurfte es nicht</said>, da Herr von S. selbst Zeuge
+                                                  eines Auftritts gewesen war, <said id="19" mode="reported" content="thought" level="1">der den dringendsten
+                                                  Verdacht auf ihn werfen mußte</said>; <said id="20" mode="reported" content="speech" level="1">zudem die
+                                                  Gespenstergeschichte von jenem Abende</said>, das
+                                                  Aneinanderschlagen der Stäbe im Brederholz, der
+                                                  Schrei aus der Höhe.
+                                                  
+                                                  
+                                                  
+                                                  
+                                    </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Jemand der nicht Millionär werden will.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik094_1845_3.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Jemand der nicht Millionär werden will.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Wie sieht's in der Welt aus?
+                        
+            In Breslau wurde am 25 Juli im Musiksaale der Universität <said id="4" mode="reported" content="speech writing" level="1">mit ausdrücklicher <seg id="4" type="intExpr">Bewilligung</seg>
+                        des <seg id="4" type="speaker">Senats</seg></said> eine allgemeine Studentenversammlung gehalten, um über die Errichtung eines
+                        allgemeinen studentischen Ehrengerichts definitiv
+                        zu entscheiden. <seg id="5" type="frame" pos="start">Der <seg id="5" type="intExpr">Antrag</seg>,</seg> <said id="5" mode="indirect" content="speech writing" level="1">den Duellzwang förmlich aufzuheben, dafür aber zur Vermeidung des
+                        entsittlichenden Denunciationswesens ein allgemeines
+                        studentisches Ehrengericht zu gütlicher Ausgleichung
+                        von Streitigkeiten der Studirenden zu errichten</said>,
+                        wurde ohne eine einzige abweichende Stimme angenommen.
+            
+               Quebec in Niedercanada, in welchem am
+                        28. Mai an 2000 Häuser abgebrannt waren, wurde
+                        in der Nacht vom 28. auf den 29. Juni von einer
+                        neuen furchtbaren Feuersbrunst heimgesucht, welche
+                        die ganze Vorstadt St. John mit etwa 1000 Häusern verzehrte. Das Feuer ist durch Ausschütten
+                        von Asche auf eine Düngstätte herbeigeführt worden.
+                        Zwei Personen kamen unter einstürzenden Trümmern
+                        um. Im Ganzen liegen nun in Quebec über 3000
+                        Häuser in Asche und 20,000 Menschen sind obdachlos.
+            
+               
+                  Jemand der nicht Millionär werden will.
+                        
+               
+               In der Gegend von Lüttich wohnt ein ziemlich
+                        bejahrter Schäfer, dessen ganzes Eigenthum aus
+                        einer ärmlichen Hütte und zwei oder drei Morgen
+                        Land besteht. <seg id="1" type="frame" pos="start">Vor Kurzem wurde er durch das
+                        <seg id="1" type="speaker">Ministerium der Auswärtigen Angelegenheiten</seg><seg id="1" type="intExpr"> in
+                        Kenntniß gesetzt</seg>, </seg><said id="1" mode="indirect" content="speech writing" level="1">daß in Siebenbürgen ein Bruder
+                        von ihm gestorben sei und ihm ein bedeutendes Vermögen, nach oberflächlicher Angabe gegen anderthalb
+                        Millionen Franken, hinterlassen habe.</said> Zu allgemeiner Verwunderung aber weigerte sich der <seg id="2" type="speaker">Schäfer</seg>, die Erbschaft anzunehmen und zwar aus folgenden Gründen: <said id="2" mode="indirect freeIndirect" content="speech" level="1">1 ) er wollte kein Geld von einem
+                        Bruder, der ein liederliches Leben geführt, ihn und
+                        seine Eltern an den Bettelstab gebracht, und das
+                        Leben der Letztern verkürzt habe; 2 )<seg id="3" type="frame" pos="start"> in einem Alter
+                        von 67 Jahren könne <seg id="3" type="speaker">er</seg> sich unmöglich <seg id="3" type="intExpr">entschließen</seg>,</seg>
+                        <said id="3" mode="indirect" content="thought" level="2" nonfact="yes">aus einem armen Teufel ein reicher Mann zu werden</said>, weshalb er lieber bleiben wolle was er sei;
+                        3 ) die Hebung und Verwaltung der Erbschaft werde
+                        ihm viele Sorgen und Mühe machen; da er aber
+                        keine Lust habe, sich die letzten Tage seines Lebens
+                        zu verbittern und für lachende Erben sich aufzuopfern, wolle er sich mit dem begnügen, was er im
+                        Schweiße seines Angesichtes erworben habe.</said> -Des Schäfers Anverwandte wollten aber diese
+                        Gründe nicht gelten lassen, und da alle Vorstellungen fruchtlos blieben, verklagten sie ihn beim Civilgericht, damit dieses ihn verurtheile, wider seinen
+                        Willen Millionär zu werden. Man ist auf die Entscheidung dieses interessanten Prozesses, der wohl
+                        kaum seines Gleichen haben dürfte, sehr gespannt.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

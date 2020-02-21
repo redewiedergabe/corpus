@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wie sieht's in der Welt aus?</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik103_1845_3.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Wie sieht's in der Welt aus?</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Wie sieht's in der Welt aus?
+                        
+            
+               Frankreich. Ein furchtbarer Windwirbel hat
+                        am 19. August, Mittags 12 Uhr 35 Minuten, im
+                        Thale Monville in der Normandie unglaubliche
+                        Verheerungen angerichtet. Der Sturm riß auf seinem Zuge, außer mehreren kleinen Gebäuden und
+                        vielen Bäumen, drei große Spinnereien um, nämlich die der Herren Bailleul, von Hrn. Neveu geleitet, Mare und Picquot. Alle Arbeiter waren in
+                        ihren Werkstätten, keiner derselben konnte sich entfernen, alle wurden unter den Trümmern begraben;
+                        bei Herrn Neveu waren 120 Arbeiter, bei Herrn
+                        Mare 70, bei Hrn. Picquot 180. <said id="1" mode="reported" content="thought" level="1">Der materielle
+                        Verlust bei Hrn. Neveu wird auf 250,000 Franken,
+                        bei Hrn. Picquot auf 250,000 und bei Hrn. Mare
+                        auf 120,000 geschätzt.</said> Am 19. Abends waren unter
+                        den Trümmern 40 Todte und über 100 Verwundete,
+                        worunter mehrere tödtlich Verletzte, hervorgezogen
+                        worden. Der Windwirbel hatte die Gestalt eines
+                        umgekehrten Kegels, dessen ungeheure Basis sich
+                        mit den Wolken vermischte, während die Spitze,
+                        die den Boden streifte, nur etwa 10 Meter im
+                        Durchmesser zu haben schien. Diese Verheerungen
+                        selbst aber geschahen in weniger als 2 Minuten.
+                        An demselben Tage Nachmittags gegen 4 Uhr, suchte
+                        ein gleich orkanischer Wirbelwind, wahrscheinlich
+                        derselbe, die nächste Umgebung auf der Südwestseite
+                        der Stadt Trier heim, indem er auf der Flur von
+                        Eureu fast das gesammte in Haufen stehende Getreide in die Mosel führte, eine große Anzahl von
+                        Gebäuden in den Vorstädten Matheis und HeiligKreuz mehr oder minder abdeckte, die stärksten Bäume
+                        wie Strohhalme knickte und sie eine Strecke weit
+                        fortschleuderte.
+            
+               <seg id="2" type="frame" pos="start">Spanische <seg id="2" type="speaker">Zeitungen</seg> <seg id="2" type="intExpr">erzählen</seg>:</seg> <said id="2" mode="direct" content="speech" level="1" metaph="yes">Ein reicher
+                        Müller wurde in der Umgegend allgemein beneidet,
+                        und Straßenräuber ersahen sich ihn denn auch bald
+                        zum Opfer aus. An dem Tage aber, an welchem
+                        Abends der Angriff gegen ihn ausgeführt werden
+                        sollte, erschienen mehrere entlassene Soldaten, die
+                        auf dem Wege in ihre Heimath waren, <seg id="3" type="frame" pos="start">und den
+                        Müller <seg id="3" type="intExpr">baten</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2">ihnen ein Nachtlager zu gewähren.</said>
+                        Er that es, und die Soldaten schliefen oben, als
+                        die Räuber ankamen und <said id="4" mode="reported" content="speech" level="2">das Geld des Müllers
+                        verlangten.</said> <seg id="5" type="frame" pos="start">Der <seg id="5" type="speaker">Müller</seg> <seg id="5" type="intExpr">versprach</seg>,</seg> <said id="5" mode="indirect" content="speech" level="2">es zu holen</said>,
+                        ging auf den Boden seines Hauses hinauf, weckte
+                        die Soldaten, und tödtete mit Hülfe derselben die
+                        Räuber, die er im Blute liegen ließ. Am andern
+                        Morgen ging er, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">da der Vorfall doch der Obrigkeit
+                        angezeigt werden mußte</said>, in das Haus des Alkalden
+                        seines Dorfes; aber der Alkalde war nicht zu Hause.
+                        Der Müller begab sich also zu dem Stellvertreter
+                        des Alkalden, aber auch dieser war nicht zu finden.
+                        Er mußte zu einem Dritten gehen, und auch er
+                        war nicht zugegen; <seg id="7" type="frame" pos="start">auch wußte <seg id="7" type="speaker">Niemand</seg> <seg id="7" type="intExpr">anzugeben</seg>,</seg>
+                        <said id="7" mode="indirect" content="speech" level="2" nonfact="yes">wo wohl die drei Männer sein möchten.</said> Der Müller kehrte nach Hause zurück und wollte die drei
+                        
+               
+               Leichen selbst begraben. Man zog ihnen die Masken
+                        ab, die sie vorgenommen hatten, und sieh da,
+                        da lagen die drei Alkalden! --</said> 
+         
+      </p>
+      </body>
+   </text>
+</TEI>

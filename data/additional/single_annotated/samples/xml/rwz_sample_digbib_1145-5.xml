@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Agave</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Agave.tg126_1.xml</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Agave</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">5</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Keine Stunde länger – wenn Ihr nicht ... <said id="2" mode="reported" content="speech" level="2">das <seg id="2" type="intExpr">erklärte</seg> der <seg id="2" type="speaker">Lazzaro</seg></said>, die Kanaille?«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sprach</seg> <seg id="1" type="speaker">Masaccio</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">»Und so seid Ihr ohne Dach und Fach ... Was fangen wir mit ihr an, Mütterchen Pulcheria?«</said> 
+                     
+                        <said id="4" mode="reported" content="thought" level="1"><seg id="4 10" type="speaker">Sie</seg> <seg id="4" type="intExpr">überlegte</seg>.</said> <said id="10" mode="freeIndirect" content="thought" level="1"><seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Guidi</seg> <seg id="6" type="intExpr">wußte</seg> nichts davon,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß sie ihr ohnehin nicht mehr schuldenfreies Grundeigentum mit einer neuen Hypothek belastet hatte.</said> Ihrem armen Maso mußten doch wenigstens die dringendsten Gläubiger vom Halse geschafft werden. Der Sorglose gab immer mehr, als er hatte, willfahrte den unverschämtesten Heischern und vergaß, seine eigenen Forderungen einzutreiben. Pulcheria verarmte neben ihm. War es klug, sich unter solchen Umständen eine neue Last aufzubürden? Gewiß nicht.</said> <said id="8" mode="direct" content="thought" level="1">Aber</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">dachte</seg> <seg id="8" type="speaker">sie</seg> –</seg><said id="8" mode="direct" content="thought" level="1"> ich bin zu alt, um mich noch erst lang mit der Klugheit auseinanderzusetzen, und ihr höchster Triumph wäre es doch auch nicht, ein schönes junges Ding wie diese Margherita schutzlos in die Welt hinauszustoßen.</said> <seg id="9" type="speaker">Pulcheria</seg> seufzte <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">sprach</seg> zu Maso:</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="11" mode="indirect" content="speech" level="2">Was wir mit ihr anfangen?</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">fragst</seg> <seg id="11" type="speaker">du</seg>.</seg> Nun, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">ich</seg> <seg id="12" type="intExpr">denke</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2">im Hause der Pisano wird sich Platz schaffen lassen für eine heimatlose Guidi.</said> Wir wollen in Gottes Namen unseren ›Überfluß‹ mit ihr teilen, soweit er reicht.«</said> 
+                  
+               
+            
+            
+               
+                  
+                     2
+                     Antonio hatte den Tag in der Brancacci-Kapelle zugebracht mit Filippo Lippi. Dieser Sklave seiner Launen war plötzlich von der Lust angewandelt worden, die »Vertreibung aus dem Paradiese« zu kopieren. Antonio malte am Sockel unter dem Taufbilde. <seg id="13" type="speaker">Sie</seg> kehrten einander die Rücken zu <said id="13" mode="reported" content="speech" level="1" nonfact="yes">und wechselten kein <seg id="13" type="intExpr">Wort</seg>.</said> Ohne Gruß verließ Lippi zuerst die Kirche, und bald darauf wurde auch sein Widersacher durch die Dunkelheit, die einzubrechen begann, gezwungen, von seiner Arbeit abzulassen. Filippos Staffelei stand vor dem Eingangsbogen der Kapelle. Ein letzter Tagesschein beleuchtete die Kopie schwach, aber deutlich. <seg id="14" type="speaker">Antonio</seg> verweilte vor ihr, und neidische Bewunderung ergriff ihn. <said id="14" mode="freeIndirect" content="thought" level="1">Wie das mühelos hingestrichen war, wie das von Talent strotzte! Wie dieser <seg id="15" type="speaker">Filippo Lippi</seg> straflos alles durfte, wie er sogar zum Frevel berechtigt schien und sich vermaß, <seg id="15" type="frame" pos="start"><said id="16" mode="reported" content="speech" level="2">die <seg id="16" type="intExpr">Worte</seg> <seg id="16" type="speaker">Fra Giovanni Angelicos</seg></said> mit der Anwendung auf sich <seg id="15" type="intExpr">zu wiederholen</seg>:</seg> <said id="15" mode="direct" content="speech" level="2">»Ich ändere nichts, denn so wie ich's zuerst gemacht habe, so hat es Gott gewollt.«</said></said> 
+                     Er genoß das Leben, seine Heiterkeit gewann ihm alle Herzen, er wurde gesucht und geliebt und ließ sich finden und lieben. Schenkte er hie und da auch der Arbeit einen Tag, lohnte sie ihm dieses karge Ge schenk überreich – um wie vieles reicher als dem unermüdlich strebenden Antonio! Der kannte keine andere als die herbe Wonne des Fleißes; in sie vergrub er, was jung und freudedurstig in ihm war, wie in ein Grab und hatte nur eine Sehnsucht und rang nur nach einem Ziel – nach der Macht eines großen Könnens. 
+                     Er war nicht verblendet über sich, <seg id="17" type="frame" pos="start"><seg id="17 19" type="speaker">er</seg> <seg id="17" type="intExpr">sah</seg>:</seg> <said id="17" mode="direct" content="thought" level="1">Was ich so heiß begehre, wonach ich rastlos jage – der das gemalt hat, der hätte es, sobald er die Hand danach ausstreckte ...</said>
+                     Eine fressende Pein ergriff <seg id="18" type="speaker">ihn</seg>. <said id="18" mode="freeIndirect" content="thought" level="1">Ist denn die Kunst eine Dirne, die sich dem treuen Bewerber versagt, um ihre Gunst dem Gleichgültigen zu schenken, der ihrer in flüchtiger Laune begehrt?</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»Ich Narr! ich Narr!...«</said> Sein Schrei schlug an die Wände der leeren Kirche, die ihn dumpf widerhallten. Der unheimliche Schall sagte ihm zu; die rieselnden Schauer, die ihn durchliefen, milderten seine ätzende Qual; das leise Grauen, das ihn erfaßte, schläferte sie wohltuend ein.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

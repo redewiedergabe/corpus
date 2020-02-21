@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Herr Hofrat</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Herr_Hofrat.tg132_1.xml</f>
+         <f name="year">1915</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Herr Hofrat</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Kamilla, nein, ja – <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">ich</seg> <seg id="2" type="intExpr">sage</seg> dir,</seg> <said id="2" mode="indirect" content="speech" level="2">es ist kein Zufall, was uns da zusammenführt, es ist ein gnädiger Wink des Himmels.</said>«</said> 
+                  <said id="3" mode="reported" content="speech" level="1">Und nun kam in stürzenden Wortwellen eine lange Geschichte herangeflutet.</said> <said id="23" mode="freeIndirect" content="speech" level="1">Der Vetter Hofrat befand sich einmal wieder – ach, es war sein gewöhnlicher Zustand! – in größter Verlegenheit. Sein Hauswesen brauchte dringend und augenblicklich eine Lenkerin. Mit der vorvorigen war es nicht gegangen und mit der vorigen schon gar nicht. Nun sollte Kusine Rosa eine der schwierigen Stellung gewachsene Persönlichkeit auffinden und ging schon seit drei Tagen vergeblich auf Entdeckungen aus ... Ja, <said id="24" mode="reported" content="thought" level="2" nonfact="yes">wenn Kamilla sich entschließen könnte, wollte</said> – sie freilich, sie wäre auf diesem Posten das Ideal, <said id="25" mode="reported" content="thought" level="2">von dem der Vetter und die Familie träumten</said> ... Sie, mit ihrem Charakter, ihrer Erscheinung, ihrem Verstand, ja, wenn sie den Posten annehmen wollte!</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Warum nicht?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fragte</seg> <seg id="4" type="speaker">Kamilla</seg></seg>, <said id="5" mode="reported" content="thought" level="1" border="yes">vor der die Hoffnung auf Erlösung aus dem Elend wie Morgenröte aufzusteigen begann.</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Also du wolltest?«</said> – Das kam ganz leise heraus ... Rosa war auf einmal sehr verlegen geworden, <said id="7" mode="reported" content="thought" level="1">besann sich</said>, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">stotterte</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»Es ist nur die – es ist nur das ... Du wirst es nicht aushalten!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">stieß</seg> <seg id="8" type="speaker">sie</seg> mit einem schrillen Aufseufzen <seg id="8" type="intExpr">hervor</seg>.</seg> 
+                  Kamilla reckte sich stolz und steif in die Höhe: <said id="9" mode="direct" content="speech" level="1">»Ist er unmoralisch?«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»O nein, <said id="11" mode="reported" content="speech" level="2" nonfact="yes">davon keine Rede.</said> Was das betrifft, ein Seraph. Aber wunderlich und, ach! so schwer zu behandeln ... Charmant nur beim Kartenspiel, das ja – aber man kann nicht den ganzen Tag Karten spielen ... Mein armer Vetter hatte von Natur ein unangenehmes Wesen, und das hat sich schauderhaft ausgebildet in seiner langen unglücklichen Ehe.«</said> <said id="12" mode="reported" content="thought" level="1">Sie besann sich eine Weile</said>, seufzte mehrere Male und <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">fuhr</seg> in hastigen, abgebrochenen Sätzen <seg id="13" type="intExpr">fort</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Die Frau – wohl ihr! – starb, aber seine Unausstehlichkeit lebt fort und verbreitet sich jetzt über seine ganze Umgebung. Ach, <said id="14" mode="reported" content="speech" level="2">daß ich dir das alles verrate</said> – weil ich so ehrlich bin ... <said id="15" mode="reported" content="thought" level="2" border="yes">und weil du es ohnehin merken würdest.</said> Kamilla, <said id="16" mode="reported" content="thought" level="2" nonfact="yes">wenn du dich entschließen könntest</said> ... <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">du</seg> <seg id="17" type="intExpr">ahnst</seg> nicht,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes">was uns daran läge, <said id="18" mode="reported" content="thought" level="3" nonfact="yes" border="yes">den alten Herrn in guten Händen zu wissen!</said></said> – Er kann so leicht in schlechte geraten, in die einer Intrigantin, die ihn der Familie – ach, er hat ohnehin kein Herz für uns! – völlig entfremdet, ihn ausbeutet, die er am Ende – <said id="19" mode="reported" content="thought" level="2" nonfact="yes">alte Herren sind unberechenbar</said> –, wenn sie leidlich hübsch ist ...«</said> 
+                  Sie stockte und wurde rot bis an die Haarwurzeln ... Sie war zu weit gegangen in den Ausbrüchen ihres maßlosen Vertrauens auf die Verläßlichkeit der Hausdame ihrer Wahl ... Ihr <said id="26" mode="direct" content="speech" level="1">»leidlich hübsch«</said> brannte ihr auf der Zunge. 
+                  Kamilla sah ihre Bestürzung und lächelte sie ruhig und beruhigend an. <said id="20" mode="direct" content="speech" level="1" metaph="yes">Eine Vielgeprüfte wie ich ist unempfindlich für eine kleine Verletzung der Eitelkeit</said><seg id="20" type="frame" pos="end">, <seg id="20" type="intExpr">sagte</seg> dieses <seg id="20" type="speaker">Lächeln</seg></seg> so deutlich, daß Rosa, tief ergriffen, nur noch Gemütsbewegung war. Ihre kleinen Hände falteten sich, <said id="21" mode="reported" content="speech" level="1">und von ihren Lippen sprudelten beredsame Worte</said>, <seg id="22" type="frame" pos="start">mit denen <seg id="22" type="speaker">sie</seg> die Freundin <seg id="22" type="intExpr">beschwor</seg>,</seg> <said id="22" mode="indirect" content="speech" level="1"><said id="27" mode="reported" content="speech" level="2">die ihr dargebotene Stellung</said> anzunehmen.</said>
+                  Am nächsten Tage schon hatte Kamilla ihr Amt angetreten und versah es nun seit acht Jahren mit Weisheit, heldenmütiger Geduld und Selbstaufopferung. Ihr Stolz bildete den Panzer, an dem die erfinderischen Bosheiten des Gebieters abprallten. Sie hätte Demütigungen in Gegenwart andrer nicht ertragen; aber der Hofrat war ein Gewohnheitsmensch, der seine Stunden genau einhielt.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

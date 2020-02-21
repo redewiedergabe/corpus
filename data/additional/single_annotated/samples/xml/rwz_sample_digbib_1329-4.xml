@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Fähnlein der sieben Aufrechten</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Faehnlein_der_sieben_Aufrechten.tg823_1.xml</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Fähnlein der sieben Aufrechten</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">4</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="4" mode="direct" content="speech" level="1">Nur noch diesmal wollen wir unsere Betrachtungen rückwärts lenken in jene goldene Zeit, <said id="1" mode="reported" content="speech" level="2" nonfact="yes">und zwar wollen <seg id="1" type="speaker">wir</seg> <seg id="1" type="intExpr">reden</seg> von dem letzten Kusse, den du mir gegeben hast</said>, <said id="2" mode="reported" content="thought" level="2"><seg id="2" type="speaker">ich</seg> <seg id="2" type="intExpr">erinnere mich</seg> der Umstände, als ob es heute wäre, deutlich und klar</said>, <seg id="3" type="frame" pos="start">und <seg id="3" type="speaker">ich</seg> bin <seg id="3" type="intExpr">überzeugt</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" border="yes">du desgleichen!</said> Ich war schon dreizehn Jahre alt, du etwa zehn, und schon einige Jahre waren verflossen, ohne daß wir uns mehr geküßt hätten, denn wir dünkten uns nun große Leute. Da sollte es doch noch einen angenehmen Schluß geben; oder war er die frühe Lerche, die den neuen Morgen verkündete? Es war an einem schönen Pfingstmontag –«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Nein, Himmelfahrtstag –«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">unterbrach</seg> <seg id="4 7" type="speaker">ihn</seg> <seg id="5 6" type="speaker">Hermine</seg></seg>, <said id="6" mode="reported" content="speech" level="1" nonfact="yes"><seg id="6" type="intExpr">schwieg</seg> jedoch, ohne das Wort ganz auszusprechen.</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Du hast recht, es war ein prachtvoller Himmelfahrtstag im Monat Mai, wir waren mit einer Gesellschaft junger Leute ausgezogen, wir zwei die einzigen Kinder dabei. Du hieltest dich an die großen Mädchen und ich mich an die Jünglinge, und <seg id="8" type="speaker">wir</seg> verschmähten, miteinander zu spielen <said id="8" mode="reported" content="speech" level="2">oder auch nur zu <seg id="8" type="intExpr">reden</seg>.</said> Nachdem man schon weit und breit herumgekommen, ließ man sich in einem hohen und lichten Gehölz nieder und begann ein Pfänderspiel; denn der Abend war nicht mehr fern, und die Gesellschaft wollte nicht ohne einige Küsserei nach Hause kehren. Zwei Leute wurden verurteilt, sich mit Blumen im Munde zu küssen, ohne dieselben fallen zu lassen. Als dieses und die nachfolgenden Paare das Kunststück nicht zustande brachten, kamst <seg id="9" type="speaker">du</seg> plötzlich ganz unbefangen auf mich zugelaufen, ein Maiglöckchen im Munde, stecktest mir auch ein solches zwischen die Lippen <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">sagtest</seg>:</seg> <said id="9" mode="direct" content="speech" level="2">›Probier einmal!‹</said> Richtig fielen beide Blümchen auf die Erde zu ihren Geschwistern, du setztest aber im Eifer dennoch dein Küßchen ab. Es war, wie wenn ein leichter schöner Schmetterling abgesessen wäre, und ich griff unwillkürlich mit zwei Fingerspitzen darnach, ihn zu haschen. <seg id="10" type="frame" pos="start">Da <seg id="10" type="intExpr">glaubte</seg> <seg id="10" type="speaker">man</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2" border="yes">ich walle den Mund abwischen</said>, und lachte mich aus.«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Hier sind wir am Lande!«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">Hermine</seg></seg> und sprang hinaus. Dann kehrte sie sich freundlich noch einmal gegen Karl. 
+                  <said id="13" mode="direct" content="speech" level="1">»Weil du dich so stillgehalten und <said id="14" mode="reported" content="speech" level="2"><seg id="14" type="speaker">meinem</seg> <seg id="14" type="intExpr">Worte</seg></said> die Ehre gegeben hast, die ihm gebührt«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">sie</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»so will ich, wenn es nötig sein sollte, auch vor vier Wochen wieder mit dir fahren und es dir in einem Briefchen anzeigen. Es wird das erste Schriftliche sein, das ich dir anvertraue.«</said> 
+                  Damit eilte sie nach dem Hause. Karl dagegen fuhr eilig nach dem Hafenplatz, um den Zapfenstreich der biederen Trompeter nicht zu versäumen, der wie ein schartiges Rasiermesser die laue Luft durchschnitt. 
+                  Er traf schon auf dem Wege mit Ruckstuhl und Spörri zusammen, die gelind angesäuselt waren; sie freundschaftlich und bieder begrüßend, faßte <seg id="15" type="speaker">er</seg> den ersten unter den Arm <seg id="15" type="frame" pos="start">und fing an, ihn zu <seg id="15" type="intExpr">rühmen</seg> und zu <seg id="15" type="intExpr">loben</seg></seg> <said id="15" mode="direct" content="speech" level="1">»Was Teufels haben Sie wieder getrieben? Was haben Sie wieder für Streiche ausgeheckt, Sie schlimmer Patron? Sie sind doch der splendideste Schütz im ganzen Kanton, <said id="16" mode="reported" content="speech" level="2" nonfact="yes">was <seg id="16" type="intExpr">sage</seg> <seg id="16" type="speaker">ich</seg>!</said> in der ganzen Schweiz!«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Donner!«</said> <seg id="18" type="frame" pos="mid"><seg id="18" type="intExpr">rief</seg> <seg id="18" type="speaker">Ruckstuhl</seg>, höchst geschmeichelt, daß einmal ein anderer als Spörri sich an ihn machte und ihn rühmte,</seg> <said id="18" mode="direct" content="speech" level="1">»Donner! daß wir schon ins Nest müssen! Können wir nicht noch schnell eine Flasche Guten abtun?«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

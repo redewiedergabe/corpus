@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt32_1869_2.xml</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+Der Beschauer pflegt am Geschwindesten da zu bewundern, wo
+                        kleine Gegenstände, schnell und sicher geschaffen, seine Phantasie im
+                        Augenblick anregen und<said id="3" mode="reported" content="thought" level="1"> unwillkürlich <seg id="3" type="speaker">seinen</seg> <seg id="3" type="intExpr">Gedankengang</seg> auf die
+                        Entstehungsgeschichte lenken. </said>Auch Paul Meyerheim, ein Maler von
+                        nie rastendem Fleiß, hat es zu dem Glück gebracht, aus seinen großen
+                        und anstrengenden Saaten im Kleinen hundertfältiges Korn zu ernten.
+                        Im engern Kreise kommt solche Gabe aber- und abermals denen zu
+                        Gute, die das Glück der näheren Berührung mit dem Produzirenden
+                        selbst haben. <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Der zerstreuten kleineren Gelegenheitsblätter zu <seg id="1" type="intExpr">erwähnen</seg></said>,
+                        ist hier nicht der Ort -- <said id="2" mode="reported" content="thought" level="1" nonfact="yes">wohl aber werden sich <seg id="2" type="speaker">diejenigen unter
+                        unsern Lesern</seg>, die in Berlin einmal ein Künstlerfest mitgefeiert haben,
+                        mit Freude der reichen Gaben <seg id="2" type="intExpr">erinnern</seg>, die er dann verschwenderisch
+                        auf Tischkarten, Wanddekorationen und Arrangements aller Art zu
+                        streuen pflegt, und denen stets der ihm eigenthümliche freundliche
+                        Charakter aufgeprägt ist.</said>
+            Aber auch weiteren Kreisen kommt diese Gabe -- Dank der mechanischen Hülfsmittel unserer Zeit -- in vollem Maaße zu Gute.
+                        Die Illustration, seit Chodowiecki eine in Deutschland fleißig gepflegte
+                        Kunstgattung, hat es in unseren Tagen zu einer Vollkommenheit gebracht, deren sich Jeder erfreut, <said id="4" mode="reported" content="thought" level="1" nonfact="yes">wenn <seg id="4" type="speaker">er</seg> nur an Namen wie Menzel
+                        und Ludwig Richter <seg id="4" type="intExpr">denkt</seg>.</said> Hier muß der Maler mit dem Dichter
+                        gehen, oder gar selbst zum Erzähler werden. In Beiden hat sich
+                        Paul Meyerheim mit Glück versucht. Die artistischen Beigaben seiner
+                        Hand, z. B. in Auerbach's letztem Kalender, <said id="5" mode="reported" content="speech" level="1" metaph="yes">die in den Stuttgarter
+                        Bilderbogen erschienenen Blätter sind davon <seg id="5" type="intExpr">redende</seg> <seg id="5" type="speaker">Zeugnisse</seg></said>, und
+                        wie sich im Kleinsten oft der Meister zeigt, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">möchte kaum eine <seg id="6" type="speaker">seiner
+                        Gaben</seg> mehr für seine besonderen Eigenthümlichkeiten<seg id="6" type="intExpr"> Zeugniß ablegen</seg></said>, als die Lebensgeschichte eines Löwen und die Japanesen auf
+                        jenen Bilderbogen.
+            Den Lehrjahren Panl Meyerheim's im Vaterhause folgten die
+                        Wanderjahre. Seine erste Reise war eine Seereise. Von Danzig
+                        aus besuchte er an der Seite eines befreundeten Kapitäns die Küsten
+                        von Dänemark, Schweden, Norwegen, England und Frankreich. Den
+                        Studien an den Dünen folgten die im Hochgebirge; einen vollen
+                        Sommer verlebte er in Tyrol. Seine letzte Reise endlich führte ihn
+                        über Holland und Belgien nach Paris, wo er Jahr und Tag zubrachte. Auf dieser Schlußwanderung knüpfte er zahlreiche Verbindungen mit seinen auswärtigen Kunstgenossen an. Seine Studienmappen füllten sich damals mit dem reichen Schatz von Aquarellen,
+                        deren Ausstellung im vergangenen Sommer in Berlin mit Recht allseitige Anerkennung fand. In den Straßen der holländischen Städte
+                        und an den Küsten der Nordsee fand er des Eigenthümlichen, noch
+                        selten genug Ausgebeuteten so viel, daß man nicht allein über die
+                        Ausführung, sondern auch über die Mannichfaltigkeit des Gegebenen
+                        staunen muß. Die Zeit seines Pariser Aufenthalts schloß die große
+                        Welt-Industrie-Ausstellung von 1867 ab, deren vollen Eindruck er mit
+                        lebhafter Freude in sich aufnahm. Nach einem flüchtigen Besuch der
+                        Schweiz kehrte er in die Heimath zurück, begründete mit der erwählten
+                        Braut das eigene Hauswesen, <seg id="7" type="frame" pos="start">und er wenigstens kann sich nicht der
+                        alten <seg id="7" type="intExpr">Klage</seg> anschließen, </seg><said id="7" mode="indirect" content="speech" level="1">daß der Prophet im Vaterlande nichts gelte.</said>
+                        Den jugendlichen, noch nicht lange heimgekehrten Meister nahm die
+                        so exklusive Berliner Akademie in ihre erlesenen Kreise auf. Möchte
+                        der Eintritt einer so frischen, aufstrebenden Kraft dazu beitragen, dem
+                        alternden, wenig ausgiebigen Institut neue Lebenswärme einzuhauchen,
+                        aus einem versteinerten Areopagus der Künste eine jugendliche Ringschule der Künstler zu machen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

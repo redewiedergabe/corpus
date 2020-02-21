@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Liebe ist gerettet</title>
+             <author>Frapan, Ilse</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Frapan,_Ilse_Die_Liebe_ist_gerettet.tg18_1.xml</f>
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Liebe ist gerettet</f>
+         <f name="author">Frapan, Ilse</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Aber er sah sie nicht einmal an, ging wie ohne Besinnung. 
+                  Zuletzt mußte er stehen bleiben, weil ein Laternenanzünder mit Leiter und Lämpchen ihm den Weg versperrte. Im Licht der nun brennenden Laterne sah er an einer Hauswand einen Mietzettel hängen; es war gerade jener Wohnung gegenüber. Ohne Besinnen stieg <seg id="1" type="speaker">er</seg> die Treppe hinauf, klingelte <said id="1" mode="reported" content="speech" level="1">und <seg id="1" type="intExpr">verlangte</seg> ein Zimmer zu mieten.</said> Da er das Geld für einige Monate voraus gleich auf den Tisch legte, 
+so war die Sache schnell abgemacht, und die Vermieterin ließ den stummen, blassen Herrn, der Lampe und Nachtessen abwies, ohne weiteres ›einziehen‹. Er setzte sich ans Fenster und starrte hinüber, bis jedes Licht in der Straße erlosch; und dann kam der späte Mond und warf seine traurigen Strahlen auf jenen Vorhang drüben. Im Stuhle sitzend, verfiel er endlich in einen unruhigen, unerquicklichen Halbtraum; der erste Morgenstrahl erweckte ihn daraus, und teilnahmslos beobachtete er das Erwachen der Straße, er sah Kränze in jenes Haus tragen und schwarzgekleidete Frauen ein-und ausgehen. 
+                  Und abends kamen zwei Träger mit dem leeren Sarge; die Gaslaterne schien auf das Metallschild, daß er fast ihren Namen lesen konnte. Als er das gesehen, warf er sich in den Kleidern aufs Bett, versteckte den Kopf und schlief vor Mattigkeit und Übermüdung tief und traumlos ein. 
+                  Früh am andern Tage schreckte ihn <said id="2" mode="reported" content="speech" level="1">ein lautes, heftiges <seg id="2" type="intExpr">Gespräch</seg></said> aus dem sonderbaren lähmungsartigen Zustande, in dem er sich befand. 
+                  Ohne Anklopfen ward die Tür geöffnet, und seine Frau trat herein. 
+                  Sie sah etwas erhitzt aus, sonst wie immer, aber ihre Stimme war fast unkenntlich, <seg id="3" type="frame" pos="start">als <seg id="3" type="speaker">sie</seg> ihm <seg id="3" type="intExpr">entgegenrief</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»<seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> verlange zu <seg id="4" type="intExpr">wissen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was das zu bedeuten hat!</said>«</said> 
+                  
+                     
+Er setzte sich aufrecht und biß die Zähne zusammen. <seg id="5" type="frame" pos="start">Dann holte <seg id="5 9" type="speaker">er</seg> tief Atem und <seg id="5" type="intExpr">begann</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»<seg id="6" type="frame" pos="start">Es ist <seg id="6" type="speaker">mir</seg> jetzt <seg id="6" type="intExpr">klar geworden</seg>, Sophie, klar geworden,</seg> <said id="6" mode="indirect" content="thought" level="2" border="yes">daß es so nicht fortgehen kann zwischen uns – –</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Komm nach Haus <said id="9" mode="reported" content="speech" level="2" nonfact="yes">und <seg id="9" type="intExpr">rede</seg> dort!</said>«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">rief</seg> <seg id="8" type="speaker">sie</seg> aufbrausend,</seg> <said id="8" mode="direct" content="speech" level="1">»es ist nicht nötig, daß die hier dich hören.«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Nein,«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">er</seg>, den Kopf schüttelnd,</seg> <said id="11" mode="direct" content="speech" level="1">»nicht nach Haus, wir haben ja auch längst keins mehr –«</said> 
+                  Sie war bleich geworden, die Empörung erstickte ihre Stimme. <said id="12" mode="direct" content="speech" level="1">»<seg id="13" type="frame" pos="start">Hast <seg id="13" type="speaker">du</seg> <seg id="13" type="intExpr">vergessen</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß wir – fast zwanzig Jahre verheiratet sind?</said>«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">brachte</seg> <seg id="12" type="speaker">sie</seg> rauh und stoßweise <seg id="12" type="intExpr">hervor</seg>.</seg> 
+                  <said id="14" mode="direct" content="speech" level="1">»Entsetzlich, entsetzlich!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">schrie</seg> <seg id="14 15" type="speaker">er</seg>.</seg> <said id="15" mode="direct" content="speech" level="1">»Zwanzig Jahre! Warum erinnerst du mich daran! Und ich hätte glücklich sein können!«</said> Sein Kopf sank auf die Brust, Tränen liefen ihm über die Wangen. 
+                  <seg id="16" type="speaker">Sie</seg> rüttelte ihn am Arm. <said id="16" mode="direct" content="speech" level="1">»Ist dein Verstand verwirrt? Hat dich der Tod jener Person toll gemacht? <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">Weißt</seg> <seg id="17" type="speaker">du</seg>,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß ich deine Frau bin, und daß du mir gehörst nach Pflicht und Gesetz?</said>«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»O,«</said> <seg id="20" type="frame" pos="mid"><seg id="20" type="intExpr">sagte</seg> <seg id="20" type="speaker">er</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»ich habe sie geliebt und hätte bei ihr bleiben sollen, das war meine Pflicht, die ich verkannte, verkannte! Aber«</said> – und sein Gesicht leuchtete auf im Feuer eines plötzlichen Entschlusses 
+ – <said id="20" mode="direct" content="speech" level="1">»es ist noch nicht zu spät! Jetzt tue ich, was ich längst hätte tun sollen, – ich lasse mich von dir scheiden, um ganz ihr zu gehören, ihr allein!«</said> 
+                  Und wie erhoben von seiner eigenen tapferen Offenheit holte er tief Atem und sah die Frau stolz und fast freundlich an.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

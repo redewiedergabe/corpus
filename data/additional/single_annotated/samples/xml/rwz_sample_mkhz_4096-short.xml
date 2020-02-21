@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal240_1849_13.xml</f>
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Schweiz.
+                        
+            
+            Aus der deutschen Schweiz 7. October. ( Karlsr. Z. ) <said id="1" mode="reported" content="speech" level="1" metaph="yes"><seg id="1" type="speaker">Die
+                        Revolutionen in der Atmosphäre</seg> <seg id="1" type="intExpr">künden</seg> <seg id="1" type="intExpr">sich</seg> wohl nirgends durch
+                        so viele Vorboten <seg id="1" type="intExpr">an</seg>, als in unserem Gebirgslande</said>; der Farbenwechsel der Felsenhörner, das Knallen und Murren in dem Gletscher, das Spiel der Wolken um die Bergspitzen, das Blasen der
+                        Wetterlöcher 
+                  etc.
+                geben für den aufmerksamen Beobachter untrügliche Zeichen, welche durch entsprechende Zustände unserer Seen
+                        ergänzt werden, <said id="2" mode="reported" content="speech" level="1">und die <seg id="2" type="speaker">Bewohner</seg> der Fluthen, des Luftreiches
+                        und des Waldrevieres unterlassen auch nicht, ihre Vorgefühle in
+                        eigener Weise zu <seg id="2" type="intExpr">verkünden</seg>.</said> So haben wir auch seit Jahr und
+                        Tag Gelegenheit, die Vorzeichen der politischen Stürme zu
+                        beobachten und die verschiedenen Wirkungen entfernter Gewitter
+                        anzusehen, freilich nicht an Vögeln und Fischen, sondern an den
+                        vielen Fremden, die sich als Flüchtlinge eingefunden haben, oder
+                        als Reisende aller Art unsere Cantone durchkreuzen. Die nichtdeutschen Exulanten haben hierin den Vorzug; es ist, als ob die
+                        Revolution eine eigene Elektricität habe, welche in unsichtbaren
+                        Strömungen über Gebirg und Wasser dringt und die Nerven der
+                        Revolutionsmänner angreift, <seg id="4" type="frame" pos="start">während die <seg id="4" type="speaker">Conservativen</seg> Nichts
+                        verspüren und nur an dem Benehmen ihrer Nachbarn <seg id="4" type="intExpr">merken</seg>,</seg>
+                      <said id="4" mode="indirect" content="thought" level="1" border="yes">  daß das revolutionäre Element irgendwo heftig gespannt ist oder
+                        sich entladen hat.</said> Die Verbindung ist jedoch auch eine ganz unmittelbare, -- zwar nicht durch Drähte hergestellt, sondern durch
+                        Leute jedes Standes und Alters, die einen ununterbrochenen
+                        Verkehr unterhalten und ihren Dienst mit musterhaftem Eifer
+                        versehen.
+            Gerade jetzt glimmt das Feuer in manchem Auge wieder unheimlicher, denn in Frankreich hat die revolutionäre Spannung
+                        eine beträchtliche Stärke erlangt und irgend ein beihelfender Zufall, wie sie das Schicksal in den letzten Jahren so häufig herbeigeführt hat, kann das Losbrechen bewirken. Schon vor zwei
+                        Monaten, als ich die Gegenden am Doubs und der Jil besuchte,
+                        <seg id="5" type="frame" pos="start">fand ich durchgängig bei dem <seg id="5" type="speaker">Volke</seg> die <seg id="5" type="intExpr">Meinung</seg> verbreitet, </seg><said id="5" mode="indirect" content="thought" level="1">daß
+                        ein Zusammenstoß bevorstehe</said> und ohne Zweifel hat die römische
+                        Frage die Krisis näher gerückt. Sey dem, wie ihm wolle, so viel
+                        ist gewiß, daß die Hoffnungen der flüchtigen Revolution gewachsen
+                        sind und daß sich diese auf Frankreich gründen.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig097_1854_7.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+
+Jn Augsburg stand Schmid in hoher Achtung.
+                        Der König machte ihn zum Kreisscholarchen und <said id="1" mode="reported" content="speech" level="1">ernannte ihn zum Ritter des Verdienstordens der bairi 
+               
+               schen Krone.</said> Soviel Schmid auch beschäftigt war,
+                       <said id="3" mode="reported" content="writing" level="1"> so konnte er doch nicht von seiner Lieblingsbeschäftigung, Kinderschriften zu bearbeiten, lassen.</said> An jedem
+                        Morgen saß er schon zu jeder Jahreszeit früh 4 Uhr
+                        am Tische, <said id="2" mode="reported" content="writing" level="1">um seine lehrreichen Erzählungen zu schaffen</said>,
+                        da ihm nur die Zeit von früh 4--8 Uhr, <said id="4" mode="reported" content="speech" level="1">wie er selbst
+                        versicherte</said>, <said id="5" mode="reported" content="writing" level="1">zu derartigen Arbeiten</said> übrigblieb. <said id="17" mode="reported" content="writing" level="1">Und
+                        doch hat der thätige Mann bei so beschränkten Stunden viel Gutes und Schönes geliefert.</said> Seine Jugendschriften, wie „Heinrich von Eichenfels“, „Genoveva“,
+                        „Der Weihnachtsabend“, „Das Husarenkind“, „Das
+                        Lämmchen“ u. s. w. sind fast in allen Familien des
+                        gebildeten Deutschland bekannt, <said id="6" mode="reported" content="writing" level="1">ja sie sind sogar in
+                        fremde Sprachen übersetzt worden</said> und <said id="7" mode="reported" content="thought" level="1" border="yes">gelten heute
+                        noch in England, Frankreich, Jtalien und selbst in
+                        Nordamerika als treffliche Unterhaltungsschriften für
+                        die Jugend.</said> Alle Werke von Schmid umfassen in
+                        einer Gesammtausgabe 24 Bändchen.
+            Auch das Greisenalter des edeln Mannes blieb
+                        nicht ohne seltene Auszeichnung von außenher; <seg id="10" type="frame" pos="start">1841
+                        <seg id="10" type="intExpr">foderte</seg> ihn die <seg id="10" type="speaker">Bürgerschaft</seg> seines Heimatsortes Dinkelsbühl <seg id="10" type="intExpr">auf</seg>,</seg> <said id="10" mode="reported" content="speech writing" level="1">in ihren Mauern sich einzufinden und
+                        die Huldigungen zu empfangen, die man ihm zu seinem 50jährigen Priesterjubelfeste bringen wollte.</said> Schmid
+                        folgte <said id="9" mode="reported" content="speech writing" level="1">der Einladung</said> und empfing die glänzendsten
+                        Beweise der Liebe und Verehrung seiner Landsleute.
+                        Sechs Jahre später feierte die Stadt Augsburg seinen
+                        80jährigen Geburtstag in erhebender Weise und bald
+                        darauf machte ihn die Universität zu Prag zum Doctor
+                        der Theologie. Auch König Maximilian wollte nicht
+                        zurückbleiben in Bezeigung seiner Achtung vor dem
+                        biedern Greise, daher er ihm 1850 das Comthurkreuz
+                        des Verdienstordens vom heiligen Michael übersendete.
+            <said id="11" mode="reported" content="writing" level="1">Jm Jahre 1853 begann Schmid noch ein neues
+                        Werk</said>, <said id="12" mode="reported" content="writing" level="1" nonfact="yes">das er aber nicht vollenden konnte</said>: „ <said id="18" mode="reported" content="thought" level="1">Erinnerungen aus meinem Leben</said>“, <said id="19" mode="reported" content="writing" level="1">in welchem er besonders
+                        seinem theuern Lehrer, dem Bischof Sailer zu Regensburg, den Zoll kindlicher Liebe und Dankbarkeit, mit
+                        frischen, lebendigen Farben gezeichnet, darbrachte.</said> Schmid
+                        sendete sein Werk, aus zwei Bänden bestehend, dem
+                        König Ludwig und <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">dieser</seg> <seg id="13" type="intExpr">schrieb</seg> ihm unterm 15. Januar 1854 Folgendes:</seg>
+                         
+            <said id="13" mode="direct" content="writing" level="1">„Soeben habe ich <said id="26" mode="reported" content="thought writing" level="2">Jhre Erinnerungen an Sailer</said>
+                        beendigt. Thränen stehen in meinen Augen. Es ist
+                        ein neues Verdienst, das Sie zu Jhren vielen Verdiensten fügen -- <said id="25" mode="reported" content="thought writing" level="2">diese Jhn und Sie ehrenden Erinnerungen!</said> Schmid's Kinderschriften, wie trefflich sind
+                        solche! <said id="15" mode="reported" content="writing" level="2" nonfact="yes">Hätten Sie, <said id="14" mode="reported" content="writing" level="3">die Sie so viele gute verfaßt</said>,
+                        auch nur diese aufgesetzt</said>, würden Sie schon segenverbreitend sein.... <said id="22" mode="reported" content="writing" level="2">Daß Sie aus Sailer's und daß
+                        Sie aus Jhrem Leben <said id="23" mode="reported" content="thought" level="3">diese Erinnerungen</said> aufgezeichnet</said>, ist nutzreich und erfreulich. Mit diesen Gefühlen
+                         
+            
+               <said id="16" mode="reported" content="speech" level="2">Jhr
+                        Jhnen wiederholt dankender
+                        
+               Ludwig.</said>“</said>
+                         
+            Schmid blieb bis zu den achtziger Jahren körperlich
+                        gesund und geistig frisch, daher der treue Kinderfreund
+                        unablässig bemüht war, zum Besten der Jugend zu
+                        schaffen und zu wirken. Nur in der letztern Zeit seines thätigen, menschenfreundlichen Lebens zeigten sich
+                        die Gebrechen des Alters, <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">die</seg> ihm nicht mehr <seg id="24" type="intExpr">gestatteten</seg>,</seg> <said id="24" mode="indirect" content="speech" level="1" nonfact="yes" metaph="yes">aus seinem Hause zu gehen.</said> Dazu kam, daß
+                        der Tod ihm unerwartet einen Bruder und zwei
+                        Schwestern raubte und so wurde sein liebendes, gefühlvolles Herz in der gealterten Hütte des matten
+                        Leibes aufs tiefste erschüttert.
+            Kurz vor seinem Tode wurde ihm noch eine ganz
+                        besondere Freude zutheil.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

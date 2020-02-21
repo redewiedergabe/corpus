@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Schmetterling</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_Der_Schmetterling.tg644_1.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Schmetterling</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     <said id="1" mode="direct" content="speech" level="1">»Die Butter ist schon hier am andern Ende
+                        angeschnitten!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagte</seg> die <seg id="1" type="speaker">Frau</seg></seg>, die sehr ordnungsliebend zu sein
+                        schien.
+                  
+                  
+                     <said id="2" mode="direct" content="speech" level="1">»Macht nichts!«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">erwiderte</seg> der <seg id="2" type="speaker">Nazi</seg>.</seg>
+                     <said id="3" mode="direct" content="speech" level="1">»Da kommen wir auch noch hin!«</said> 
+                  
+                  
+                     <said id="4" mode="direct" content="speech" level="1">»Hier ist auch schwarze Butter!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">erinnerte</seg> die <seg id="4" type="speaker">Bäuerin</seg>.</seg>
+                  
+                  
+                     <said id="5" mode="direct" content="speech" level="1">»Danke!
+                     Die weiße ist gut genug für uns!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">sagte</seg> der <seg id="5" type="speaker">Nazi</seg></seg> und tat einen
+                        zweiten und dritten Hieb.
+                  
+                  
+                     So fuhren wir rührig fort.
+                     Die Schlackwurst verkürzte sich zusehends.
+                     <said id="6" mode="reported" content="thought" level="1">Die Frau wurde besorgt.</said>
+                  
+                  
+                     
+                        <said id="7" mode="direct" content="speech" level="1">»Man kann auch zu viel essen!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">meinte</seg>
+                        <seg id="7" type="speaker">sie</seg>.</seg>
+                  
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»So leicht wohl nicht!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">erwiderte</seg> der <seg id="8" type="speaker">Nazi</seg>.</seg>
+                  
+                  
+                    <said id="9" mode="direct" content="speech" level="1"> »Man kann sich auch krank essen!«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">sie</seg> bald darauf.</seg>
+                  
+                  
+                     <said id="10" mode="direct" content="speech" level="1">»Kommt auch wohl vor!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">gab</seg> <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">zur Antwort</seg>.</seg>
+                  
+                  
+                     <said id="11" mode="direct" content="speech" level="1">»Man kann sich auch totessen!«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">sprach</seg> <seg id="11" type="speaker">sie</seg> endlich</seg>, als die Wurst
+                        immer kürzer wurde.
+                  
+                  
+                     <seg id="12" type="frame" pos="start">Jetzt legte der <seg id="12" type="speaker">Nazi</seg> das Messer nieder und <seg id="12" type="intExpr">sprach</seg> im ernsten Ton
+                        <said id="22" mode="reported" content="thought" level="1">allertiefster Bedenklichkeit</said>:</seg> 
+                  
+                  
+                     <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="thought" level="2">Wenn Ihr das meint, gute Frau</said>, dann will ich sie lieber
+                        mitnehmen!«</said> 
+                  
+                  
+                     Flugs erhob er sich, schob die Wurst in die Rocktasche, aus der
+                        sie noch ein gutes Stück weit hervorstand, nahm das Brot unter den Arm,
+                        drückte der Frau herzlich die Hände, <said id="14" mode="reported" content="speech" level="1">versprach bald wieder zu kommen</said> und
+                        empfahl sich mit einem zierlichen Bückling.
+                     Tief beschämt über dieses unverschämte Benehmen meines Freundes,
+                        drückt ich mich stumm aus der Tür.
+                  
+                  
+                     Abends kehrten wir in dem Nazi seine Höhle zurück, wo wir uns
+                        die Nacht und den folgenden Tag der Ruhe, der stillen Betrachtung und dem
+                        Genuß unserer Vorräte widmeten.
+                  
+                  
+                     Als Brot und Wurst zu Ende waren, suchten wir wiederum eine
+                        Stätte auf, die von Wesen bewohnt wurde, welche kochen.
+                  
+                  
+                     Wir traten durch die Hintertür in eine Küche.
+                     Die Köchin war nicht zugegen.
+                     Zwei Töpfe dampften auf dem Herde.
+                     Der Nazi hob die Deckel auf.
+                     In dem einen brodelten Pellkartoffeln, in dem andern, zärtlich
+                        zu Pärchen verknüpft, ein Dutzend Paar Bratwürste.
+                     Der Nazi, gewandt und <said id="16" mode="reported" content="thought" level="1">kurz entschlossen</said>, gabelte sie auf seinen
+                        Stecken.
+                     <said id="15" mode="direct" content="speech" level="1">»Besorg du die Kartoffeln!
+                     Schnell!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> <seg id="15" type="speaker">er</seg> mir <seg id="15" type="intExpr">zu</seg></seg> und war schon zur Tür hinaus.
+                  
+                  
+                     Nebenan im Keller hustete wer.
+                     <said id="17" mode="reported" content="thought" level="1" nonfact="yes">Ohne mich lange zu besinnen</said>, ergriff ich mit jeder Hand ein paar
+                        der dicksten Kartoffeln und lief gleichfalls hinaus.
+                     Sie waren glühend heiß; im Stich lassen wollt ich sie nicht; in
+                        meiner Verwirrung und ängstlichen Eile steckt ich sie in die
+                        Hosentaschen.
+                     Hier war der Teufel los.
+                     Ich fing an zu klopfen.
+                     Aber jetzt, als die Knollenfrüchte zerplatzten, kam ihre
+                        Höllenhitze erst recht zur vollen Entwicklung.
+                     Ich lief immer schneller und stieß dabei durchdringende
+                        Schmerzenslaute aus.
+                     Der Nazi, mit seinem Stecken voller Würste, sah sich nicht
+                        um.
+                     Schließlich gelangten wir an einen Bach. Ich nahm ein Sitzbad
+                        bis unter die Arme; meine Schmerzen und <said id="19" mode="reported" content="speech" level="1" nonfact="yes">Klagen besänftigten sich.</said>
+                     Unterdes ließ sich mein Freund am Ufer nieder und aß recht
+                        gemütlich.
+                     <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Er</seg> <seg id="20" type="intExpr">meinte</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1">es machte sich hübsch, wie ich so dasäße, und sei sehr gesund, und ich
+                        sollte nur sitzen bleiben, bis er fertig wäre.</said>
+                     Dies gab mir Veranlassung, meine Badekur schleunigst zu
+                        unterbrechen, und das war gut, denn als ich ans Land stieg, waren nur noch
+                        drei Paar Würstel vorhanden, an denen ich mich beteiligen konnte.
+                  
+                  
+                     Auf unserem Wege zum Walde hin trafen wir eine
+                        schlafende Bauernfrau, <said id="21" mode="reported" content="thought" level="1">die vermutlich zu Markte wollte.</said>
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

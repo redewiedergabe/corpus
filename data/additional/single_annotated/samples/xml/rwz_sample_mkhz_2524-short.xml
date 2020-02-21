@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hiesiges</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_chronik091_1845_4.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Hiesiges</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.chronik</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Hiesiges.
+                        
+            
+            <said id="15" mode="reported" content="writing" level="1" border="yes">Gegen=Aeußerung an Hrn. Müller</said> auf <said id="1" mode="reported" content="writing" level="1">dessen Vorschlag in den Numern 88 und 90. d. Bl.
+                        wegen Kirchbauwesens.</said> Jhr Anerbieten durch
+                        Ueberlassung des 4ten Theils des Ertrags von <said id="12" mode="reported" content="writing" level="1">Jhrem angekündigten umfassenden Verlags=Werk</said> kann
+                        von Jhren Mitbürgern nur mit gebührendem Danke
+                        anerkannt werden; was jedoch die Ausführung des
+                        Bau=Punktes betrifft, so möchten demselben unbezwingliche Hindernisse entgegenstehen, indem ein 3faches Gewölbe samt Vorhallen, wenn auch nur von
+                        Holz, für eine so große Kirche <said id="13" mode="reported" content="thought" level="1" nonfact="yes">einen schwer zu berechnenden</said>, über unsere Kräfte gehenden Kostenaufwand * ) verursachen würde. Ferner müßten die
+                        Mauern der 2 Vorhallen neben dem Thurme noch
+                        Wiederlager erhalten, da sie schon im jetzigen Zustande Spuren der Baufälligkeit zeigen, das Schiff
+                        der Kirche würde wegen unförmlicher Breite der
+                        Kirche zur Höhe, und mangelnder Höhe=Lichter zu
+                        dunkel, <seg id="2" type="frame" pos="start">auch wäre zu <seg id="2" type="intExpr">befürchten</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">daß <said id="3" mode="reported" content="speech" level="2">die Stimme
+                        des Predigers</said> den größern wiederhallenden Raum
+                        nicht mehr ausfüllen würde.</said> -- <said id="4" mode="reported" content="thought" level="1" nonfact="yes">Gehen wir also
+                        ein für allemal von diesem Plane ab</said> und <said id="14" mode="reported" content="thought" level="1">auf einen
+                        andern, noch wünschenswerthern, zugleich auch ausführbarern über</said>: nemlich Herstellung der weiblichen Kirchenstühle. Diese werden wohl schwerlich
+                        in der ärmsten Dorfkirche unbequemer und in
+                        der Richtung zu der, für unsere Kirche noch zweckmäßigsten gewählten Stelle der Kanzel, mangelhafter zu finden seyn, <seg id="5" type="frame" pos="start">weßhalb es dem unbefangenen
+                        <seg id="5" type="speaker">Beobachter</seg> wirklich <seg id="5" type="intExpr">unbefreiflich</seg> erscheinen muß,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes">wie
+                        man sich schon so lange damit behelfen konnte</said>, da
+                        es sich ja nur darum handelt, daß neben der Unterstützung von Seiten des bemittelten Kirchenfonds
+                        jeder Eigenthümer eines Standes, ein Scherflein
+                        beizutragen hätte, um sich auch in der Kirche, so
+                        gut wie zu Haus, einen einfachen hölzernen Sitz
+                        zu gewähren, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">denn von Pracht könnte hier keine</said>
+                        <note>
+                  
+                     * ) Nach einem früher von Hrn. Gaab gemachten Ueberschlage zu Wölbung der Kirche mit Holz sollen sich die
+                        Kosten ohne Gypser=Arbeit auf 11,000 fl. -- mit GypserArbeit auf 13,000 fl. -- belaufen.</note><note>
+                  
+                     Die Redaction.
+               </note>
+               
+               
+               <said id="6" mode="reported" content="speech" level="1" nonfact="yes">Rede seyn.</said> -- Machen Sie also auf diesem Wege
+                        Jhr schätzbares Anerbieten geltend, und es wird
+                        sicher zu einem endlichen Resultate führen. -- t. - 
+            <note>
+               
+                  * ) Nach einem früher von Hrn. Gaab gemachten Ueberschlage zu Wölbung der Kirche mit Holz sollen sich die
+                        Kosten ohne Gypser=Arbeit auf 11,000 fl. -- mit GypserArbeit auf 13,000 fl. -- belaufen.
+               
+                  Die Redaction.
+            </note>
+            <seg id="7" type="frame" pos="start">Unter Bezugnahme auf vorstehenden Artikel
+                        <seg id="7" type="intExpr">glaube</seg> <seg id="7" type="speaker">ich</seg></seg> <said id="7" mode="indirect" content="thought" level="1"><seg id="8" type="frame" pos="start">den Wunsch <seg id="8" type="intExpr">aussprechen</seg> zu dürfen,</seg> <said id="8" mode="indirect" content="speech" level="2"><said id="9" mode="reported" content="writing" level="3" nonfact="yes">daß
+                        noch Mehrere <said id="10" mode="reported" content="thought" level="4">ihre Ansichten</said> über den fraglichen
+                        Gegenstand in diesem Blatte mittheilen möchten.</said></said></said>
+                        Daß übrigens in allen Fällen das Nothwendige und
+                        Zweckmäßige dem Schönen und weniger Zweckdienlichen vorgezogen werden soll, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">kann wohl von Niemand bestritten werden.</said>
+            
+               
+               Müller.
+                        
+             
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0108_1905_16.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+
+Sie hören nicht nur, die Toten; <said id="1" mode="reported" content="speech" level="1">sie sprechen auch</said>; <said id="9" mode="reported" content="writing" level="1">und im Traktat Berakot des Talmud Babli ist uns sogar <said id="2" mode="reported" content="speech" level="2">eine durchaus nicht kurze Unterhaltung zweier Toten</said> aufbewahrt.</said> <said id="3" mode="direct" content="speech" level="1">„Habe ich dein Bett gut gemacht?“</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">fragt</seg> der masurische <seg id="3" type="speaker">Totengräber</seg> den Toten</seg>; <said id="4" mode="direct" content="speech" level="1">„wenn ich es dir nicht gut gemacht habe,
+                        so werde ich es besser machen.“</said> <said id="5" mode="reported" content="speech" level="1">Nach solch beruhigender Rede</said> erst legt der
+                        Tote sich zurück in den Schoß der Erde. <seg id="6" type="frame" pos="start">Der <seg id="6" type="speaker">Masure</seg> teilt auch den weit
+                        verbreiteten <seg id="6" type="intExpr">Volksglauben</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">daß der Heimgegangene im Grabe nicht gleich die
+                        ersehnte Ruhe findet und oft wiederkommt.</said> Die Hinterbliebenen stellen ihm
+                        deshalb einen Stuhl ins Sterbezimmer und hängen ihm ein Handtuch an
+                        die Tür. Auf dem Stuhle ruht er aus und an dem Handtuch trocknet er
+                        seine reichlich fließenden Tränen.
+            <seg id="10" type="frame" pos="start">Und wie schön und lebhaft ist die verbreitete <seg id="10" type="intExpr">Anschauung</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">daß eine vom
+                        Todeslos getroffene junge Mutter sechs Wochen lang allnächtlich wiederkehre,
+                        um ihr auf der Erde zurückgelassenes Neugeborenes zu tränken und zurechtzulegen.</said> <said id="11" mode="indirect freeIndirect" content="thought" level="1">Damit dies ordentlich geschehen könne, muß ihr alles Nötige zurechtgestellt werden</said>; allabendlich wird ihr Bett in gewohnter Weise hergerichtet,
+                        das man dann am anderen Morgen eingeknittert findet, als untrüglichen Beweis, daß sie darin geschlafen hat. Wer reinen Gewissens ist, kann es hören,
+                        <said id="8" mode="reported" content="speech" level="1">wie sie ihr Kind mit all den tausend kleinen und süßen Liebkosungen überschüttet</said>, die eine junge Mutter zu verschwenden weiß.
+            All dies sind freundliche Züge. <said id="12" mode="reported" content="writing" level="1">Aber die Toten werden uns oft auch
+                        als raublustig geschildert, bösartig und rachsüchtig</said> ( Goethes „untreuer Knabe“ ) ,
+                        <said id="12" mode="reported" content="writing" level="1">als Vampyre und Quälgeister, als Alben und Kobolde</said> ( Heines „ Traumbilder “ ) . Sie entführen junge Mädchen, wie im siebenbürgischen
+                        Sachsen ( Bürgers „Leonore“ ) und in Jsland ängstigt der verstorbene
+                        Geliebte sein Liebchen; er besucht sie nächtlich und stiehlt sich alle Freuden
+                        einer irdischen Liebe ( der umgekehrte Fall: Goethes „Braut von Corinth“ ) ,
+                        und dieser Liebe entspringt sogar ein Kind, das hellseherisch und weise, seltsam
+                        und freudlos ist, ausgezeichnet durch Gaben des Körpers und Geistes, bestimmt
+                        zu frühem, gewaltsamem Tode. <said id="13" mode="reported" content="thought" level="1">Die Toten denken</said> und empfinden, sie freuen
+                        und grämen sich, sie zürnen und verzeihen -- nichts haben sie vor uns Lebenden
+                        voraus, als die Macht, andern wehe zu tun und ihnen Pein und Betrübnis
+                        zuzufügen. Aber auch hierin stehen wir ihnen ja nicht nach. Sie schicken
+                        Sterblichkeit, Viehseuchen und herbe Schicksalsschläge. <said id="14" mode="direct" content="speech" level="1">„Wie sie so sanft ruhn“</said><seg id="14" type="frame" pos="end">,
+                        <seg id="14" type="intExpr">singen</seg> <seg id="14" type="speaker">wir</seg> am Grabe</seg>, aber das Volk kennt sie besser, die Unterirdischen. Sie
+                        sind voll von gemeinen Ränken, von Bubenpossen, bösen Schlichen und tollen
+                        Studentenstreichen. Wehe, wenn man ihr Eigentum berührt! <said id="15" mode="direct" content="writing" level="1">„Eine Bäckermagd ( im siebenbürgischen Sachsen ) , die nachts um Bier geschickt,
+                        über den Kirchhof zur Schenke ging, sah eine weiße Gestalt auf einem Grabe
+                        kauern. <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Sie</seg> <seg id="16" type="intExpr">meinte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2">es sei ihr Geliebter, der Bäckergeselle</said>, ging also auf
+                        die Gestalt zu, zog ihr das Hemd aus und eilte davon. Es war aber nicht
+                        ihr Geliebter gewesen, sondern <seg id="17" type="frame" pos="start">ein <seg id="17" type="speaker">Toter</seg>, der in der nächsten Nacht ans Fenster
+                        der Maid kam und sie <seg id="17" type="intExpr">aufforderte</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2">ihm das Hemd an derselben Stelle wieder
+                        anzuziehen.</said> Wie sie dies in der folgenden Nacht in Begleitung des Bäckergesellen tat, umfaßte sie der Tote und war im Nu mit ihr verschwunden“</said>
+                        ( Goethes „Totentanz“ ) . Wahre Blutsauger sind sie und sie ziehen gerne
+                        einen ihrer Angehörigen ins Grab nach.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

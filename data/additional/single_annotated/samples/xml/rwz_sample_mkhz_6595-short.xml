@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Telegraphische (Privat-)Depeschen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener276_1850_7.xml</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Telegraphische (Privat-)Depeschen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               C
+               Telegraphische (Privat-) Depeschen.
+                        
+            
+            
+               <said id="9" mode="direct" content="writing" level="1">Paris, 15. Nov. Die Straßburger Garnison wird
+                        mit 4 Regimentern verstärkt werden -- <said id="14" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">der in Preußen
+                        herrschenden Aufregung wegen</said><seg id="14" type="frame" pos="end">, <said id="1" mode="reported" content="writing" level="2">wie der <seg id="14" type="speaker">„Constitutionnel“</seg>
+                        <seg id="14" type="intExpr">wissen</seg> will.</said></seg> Zur Begutachtung des ministeriellen Nationalgarden-Gesetzentwurfes ist die Commission gebildet.</said>
+            
+               <said id="10" mode="direct" content="writing" level="1">Brüssel, 15. Nov. <said id="15" mode="reported" content="speech" level="2">Das Ministerium erhält bezüglich seines Verhaltens gegen die Römische Curie ein
+                        Vertrauensvotum der Kammer.</said> <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Es</seg> <seg id="16" type="intExpr">erklärt</seg></seg> <said id="16" mode="indirect" content="speech" level="2">den Vertrag
+                        mit dem Deutschen Zollverein auf ein halbes oder auch
+                        ganzes Jahr verlängern zu wollen.</said></said>
+            
+               <said id="11" mode="direct" content="writing" level="1">Turin, 15. Nov. Gestern traf ein außerordentlicher
+                        Courier mit wichtigen Nachrichten ein, welche einen langdauernden Ministerrath veranlaßten.
+            Das Steuererhebungsgesetz ist mit 99 gegen 23 Stimmen angenommen worden. <said id="3" mode="reported" content="speech" level="2">Die Wahl des Professors
+                        Berti ist unter großem Tumulte der Kammer für ungiltig erklärt worden.</said> <said id="4" mode="reported" content="speech" level="2" border="yes">Dem Vernehmen nach soll Nigra
+                        definitiv das Finanzportefeuille an Cavour abgeben, Gioia
+                        dagegen das Handelsministerium übernehmen.</said></said>
+            
+               <said id="12" mode="direct" content="writing" level="1">Triest, 17. Nov. Wochenbericht. Zucker, Weißbahia 18 1/2, Weißhavanna 21 1/2, Blondhavanna 17 1/2
+                        --18 1/2, Portorico 15. Mako Baumwolle 50--55,
+                        Amerikanische 55--57, Macedonische 40, Speiseöl 27
+                        --27 1/2, Leccer Oel 26 1/2, Fabriksöl 28, Tafelöl
+                        28 1/2--34 Fr., Smyrnaer Weinbeeren 13 1/2--14 Fr.,
+                        Getreide flau.
+            -- 18. Nov. London 12, 20; Silberagio 24 1/2.</said>
+            
+               <said id="13" mode="direct" content="writing" level="1">Zara, 14. Nov. Eine neue in Posavina ausgebrochene Insurrection ist von Omer Pascha bereits überwunden. Das Rebellenheer bei 5000 Mann stark ward
+                        bei Wranduk auf das Haupt geschlagen. 150 Insurgenten blieben todt auf dem Platze. Wranduk ist ein 
+               
+               genommen. <said id="5" mode="reported" content="speech" level="2" border="yes">Die nahe liegende Ortschaft Zepse, aus der
+                        heftig gefeuert worden, soll der Seraskier haben einäschern lassen.</said> Ein Beamter des Paschas ward wegen
+                        <said id="6" mode="reported" content="writing" level="2">Verbreitung aufrührerischer Schriften</said> verhaftet. <said id="7" mode="reported" content="speech" level="2" border="yes">Dem
+                        Vernehmen nach hat zwischen den Vorposten des Kavaß
+                        Pascha und des Seraskiers bei Kognitz am 10ten d. ein
+                        neues Gefecht sich entsponnen.</said> Die bei Serajevo befindlichen Pulvermühlen sind <said id="8" mode="reported" content="speech" level="2">auf Befehl des Abdi Pascha</said>
+                        in die Luft gesprengt worden.</said>
+         
+      </p>
+      </body>
+   </text>
+</TEI>

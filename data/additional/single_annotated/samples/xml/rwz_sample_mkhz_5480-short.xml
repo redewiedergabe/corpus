@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Mandrills.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig098_1854_6.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">Mandrills.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Mandrills.
+                        
+            
+            
+            
+            
+               D er Mandrill bietet eine höchst widerwärtige Vermengung von thierischen und menschlichen Formen dar
+                        und erreicht die bedeutende Höhe von3 1 / 2 -- 5 Fuß.
+                        Jn seinem massenhaften Körper wohnt eine entsprechende Kraft, aber auch eine höchst gefahrdrohende
+                        Wildheit. <said id="1" mode="reported" content="thought" level="1" border="yes">Die Eingeborenen von Guinea und der
+                        Westküste Afrikas überhaupt fürchten ihn in hohem
+                        Grade.</said> Jn seinen Wäldern lebt er in Truppen vereinigt, die jedem andern wilden Thiere die Spitze zu
+                        bieten vermögen und, häufig in Felder und Gärten
+                        einbrechend, Plünderungen und Verwüstungen ungestraft vornehmen. Er bewegt sich auf ebener Erde
+                        mit mehr Sicherheit und Leichtigkeit als die übrigen
+                        Affen, indessen springt und klettert er auch mit vieler
+                        Gewandtheit. Seine Stimme klingt hohl und tief in
+                        Kehltönen, jedoch infolge eines den Ton schwächenden Kehlsacks niemals sehr laut; sie drückt großen Zorn
+                        und Bosheit aus, wenn sie in abgebrochene Laute
+                        übergeht. <said id="2" mode="indirect" content="thought" level="1">Daß die Mandrills im westlichen Afrika
+                        häufig sein müssen</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">folgert</seg> <seg id="2" type="speaker">man</seg> aus der großen Zahl
+                        von jungen, von Zeit zu Zeit nach Europa gebrachten Jndividuen</seg>, die jedoch selten alt werden, indem der Zahnwechsel, der mit <said id="3" mode="reported" content="writing" level="1">der erwähnten bedeutenden körperlichen Entwickelung</said> verbunden ist, ihnen
+                        gewöhnlich tödtlich wird. Jn der Gefangenschaft sind
+                        sie sehr bösartig und pflegen alle Thiere der Menagerie zu tödten, die in ihren Bereich kommen. Jn der
+                        berühmten Menagerie von Croß in London befand sich
+                        vor einigen Jahren ein Mandrill, der, in einem Armstuhle sitzend, mit großem Ernste aus einem Kruge
+                        Porterbier trank und Taback rauchte, indessen von ungemein heftigem Temperament war und durch die
+                        kleinste Beleidigung in solche Wuth versetzt wurde, <said id="4" mode="reported" content="thought" level="1" border="yes">daß
+                        sein Anblick dann dem Kühnsten Furcht einflößte</said> und
+                        der stärkste Mann, wenn er unbewaffnet sich mit ihm
+                        eingelassen hätte, besiegt worden sein würde.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

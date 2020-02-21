@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Schlangenamme</title>
+             <author>Bechstein, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bechstein,_Ludwig_Die_Schlangenamme.tg186_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Die Schlangenamme</f>
+         <f name="author">Bechstein, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Zum Unglück hatte die Frau auch noch <said id="1" mode="reported" content="speech" level="1">den Hohn ihrer Nachbarn</said>, <said id="2" mode="reported" content="speech" level="1" border="yes">die ihr den Namen Schlangen-Amme beilegten.</said> 
+                  Schon zehn Monate trug jene Frau die Schlange, da kam von ohngefähr ein Fremder in das Dorf, <said id="6" mode="reported" content="speech" level="1">der hörte die Märe, von der alle Welt sprach</said>, und ging zu der Frau, und sah den Gast, und ihre sich abzehrende Gestalt, <seg id="5" type="frame" pos="start">und <seg id="5" type="speaker">ihren</seg> <seg id="5" type="intExpr">Jammer</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">daß die Schlange nicht von ihr abließ</said> – <seg id="4" type="frame" pos="start">und <seg id="4" type="intExpr">sagte</seg> ihr:</seg> <said id="4" mode="direct" content="speech" level="1">›Frau, ich will Euch wohl von dieser Schlange helfen, wenn Ihr mir im Vertrauen nach dem Walde folgen wollt, und Euch nicht fürchten, wenn Ihr der Schlangen noch mehr seht. Daß Euch keine ein Leid zufügt, dafür stehe ich.‹</said> 
+                  Dieser Mann war ein Schlangenbeschwörer, die Frau folgte ihm vertrauungsvoll in den nahen Wald, darin er an einer baumfreien Stelle mit seinem Stabe einen Kreis zog, und auf einem kleinen Pfeifchen gellend pfiff. Da rischelte und raschelte es bald darauf durch Gras und Waldlaub und Büsche und es kamen von allen Seiten Schlangen herbei, große und kleine, daß der Frau angst und bange ward, und sie aus dem Kreise entspringen wollte, aber der Zauberer winkte ihr, und bedeutete ihr ruhig zu stehen, und blies wieder, und da begannen alle Schlangen ihre Köpfe und Oberleiber kerzengerade in die Höhe zu richten und zu tanzen, und mit einemmale wurde auch die Schlange an der Brust der Frau unruhig, machte mit ihrem Leibe sanfte Bewegungen, ihr Kopf ließ die Brust fahren und rasch schlüpfte sie aus dem Tuche, glitt zum Boden nieder und ringelte sich auf die andern Schlangen zu, um mit ihnen zu tanzen, während der Zauberer auf seinem Pfeif lein lustige Stücke spielte. 
+                  Da fühlte jenes Weib sich mit einem Male erlöst, und war 
+ganz glücklich; sie konnte nun wieder ungehindert arbeiten, war nicht mehr der Gegenstand eines unvernünftigen Abscheues ihrer Mitmenschen, <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">welche</seg> wunders <seg id="13" type="intExpr">glaubten</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1">womit die arme Frau sich versündigt habe, weil sie den Lintwurm tragen mußte</said> und erzog mit Liebe und Sorgfalt ihr munteres Kindlein. 
+                  Als das Kind mehrere Jahre alt geworden war, lief es eines Tages mit Nachbarskindern in den nahen Wald, dort Beeren zu suchen. Es war schon gegen Abend, und die Kinder waren noch nicht wieder nach Hause gekommen. Die Mutter saß mit einer Arbeit an ihrer Türe, und sahe von Zeit zu Zeit nach dem Ausgange des Waldes hin. Auf einmal hörte die Frau von dorther ein gräßliches Geschrei der Kinder durcheinander, und sah das Häuflein in eiligster Flucht aus dem Walde hervorstürzen, und nach dem Dorfe zu, aber ihr eigenes kleines Kindlein, das noch nicht so laufen konnte, wie die größeren, war nicht darunter. <seg id="8" type="frame" pos="start">Und da <seg id="8" type="intExpr">schrie</seg> ein <seg id="8" type="speaker">Knabe</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">›Ein Wolf! Ein Wolf!‹</said> <seg id="9" type="frame" pos="start">und ein <seg id="9" type="speaker">zweiter</seg> <seg id="9" type="intExpr">schrie</seg>:</seg> 
+                 <said id="9" mode="direct" content="speech" level="1"> ›Ein Bär! ein großer Bär!‹</said> <seg id="10" type="frame" pos="start">und ein <seg id="10" type="speaker">dritter</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">›Eine Schlange, eine greuliche Schlange!‹</said> daß der Mutter das Herz erschrak, und sie aufsprang und nach dem nahen Walde hin eilte. 
+                  <said id="11" mode="reported" content="speech" level="1">Vergebens fragte sie die Kinder, die in Hast an ihr vorüber eilten, nach ihrem eigenen Kinde</said>, <said id="12" mode="reported" content="speech" level="1" nonfact="yes">keines stand ihr Rede</said>, die Angst jagte alle vorbei. Kaum war das geschehen, so sah die Frau einen großen Wolf, der noch einige wunderliche Sprünge machte, aber dann vor ihren Augen zusammenbrach, und alle viere von sich streckte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

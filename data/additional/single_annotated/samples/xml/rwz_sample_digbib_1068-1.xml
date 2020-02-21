@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>34. Der weiße Ziegenbock </title>
+             <author>Colshorn, Carl und Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Colshorn,_Carl_und_Theodor_34__Der_weisse_Ziegenbock.tg40_1.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">34. Der weiße Ziegenbock </f>
+         <f name="author">Colshorn, Carl und Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+
+                        <said id="1" mode="direct" content="speech" level="1">So wirst du glücklich sein zur Stund.«</said>
+                        
+                     
+                  
+                  Röschen war wieder unter die Decke gekrochen und bebte und vergoß vielen Angstschweiß, und ihr Herz klopfte gewaltig; der <seg id="2" type="speaker">Ziegenbock</seg> blieb wieder eine volle Glockenstunde <said id="2" mode="reported" content="speech" level="1">und <seg id="2" type="intExpr">sagte</seg> sein Wort dreimal</said>, und als es zwölf schlug, und Röschen noch nicht geantwortet und noch nicht geöffnet hatte, da stieß er mit seinen großen schwarzen Hörnern alle Scheiben entzwei und lief mit furchtbarem Geschrei in den Wald zurück. Am andern Morgen stand Röschen erst sehr spät auf und sah aus wie der Kalk an der Wand; Vater Michel und Mutter Mieke entsetzten sich vor ihr, <said id="3" mode="reported" content="speech" level="1">und nun mußte <seg id="3" type="speaker">sie</seg> alles <seg id="3" type="intExpr">erzählen</seg>.</said> <said id="5" mode="direct" content="speech" level="1">»Gottlob«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">rief</seg> <seg id="5" type="speaker">Mutter Mieke</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»daß er weiß ausgesehen hat! denn hätte er schwarz ausgesehen, so wäre er vom Bösen; nun er aber weiß ausgesehen hat, so ist er vom Guten. Wenn ich dir rathen soll, so leg dich heute Abend mit vollem Zeug ins Bett, und wenn alsdann der Ziegenbock wiederkommt, so geh in den Hof, gieb ihm die Hand und küsse ihn dreimal auf Stirn und Mund, so wird gewis alles gut werden; wir wollen in der Nähe sein und auf dich achten.«</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Röschen</seg> <seg id="6" type="intExpr">versprach</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß sie es so thun wolle</said>, betete des Tages fleißig und des Abends im Bette auch; und als es elf schlug, kraspelte es draußen wieder am Fenster, der weiße <seg id="7" type="speaker">Ziegenbock</seg> guckte herein <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">sagte</seg> dreimal hinter einander mit trauriger Stimme:</seg>
+                         
+                  
+                     
+                        <said id="7" mode="direct" content="speech" level="1">»Röschen, öffne doch die Thüre mir
+                     
+                     
+                        Und laß mich gleich herein zu dir
+                     
+                     
+                        Und küsse mir Stirn und Mund,
+                     
+                     
+                        So wirst du glücklich sein zur Stund.«</said>
+                        
+                     
+                  
+                  Röschen zitterte zwar wieder heftig, stand indes auf, <said id="8" mode="reported" content="speech" level="1">und als <seg id="8" type="speaker">er</seg>'s zum drittenmal <seg id="8" type="intExpr">gesagt</seg> hatte</said>, öffnete sie die Thür und gieng auf 
+den Hinterhof. Der Mond schien sehr hell, und im Walde rührte sich kein Blatt; als der Ziegenbock Röschen sah, kam er ihr entgegen, legte seine Vorderfüße auf ihre Schultern, und sie küsste ihn dreimal auf Stirn und Mund. Zum drittenmal, die alte hölzerne Uhr in der Stube schlug gerade zwölf, donnerte es durch den ganzen Wald, und aus dem weißen Ziegenbock war der schönste Königssohn geworden, und vor der Hofthür stand ein prachtvoller Wagen mit zwei muthigen Rossen. Der <seg id="9" type="speaker">Königssohn</seg> aber umarmte die zitternde Jungfrau <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">sprach</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»Du hast mich erlöst und bist nun meine Gemahlin. Nun aber rasch in den Wagen; denn wir müßen noch dreihundert Meilen reisen, und wenn wir bis morgen Mittag um zwölf nicht dort sind, so bin ich wieder auf sieben Jahre ein weißer Ziegenbock.«</said> <said id="10" mode="direct" content="speech" level="1">»So laß mich zuvor Vater Michel und Mutter Mieke noch küssen; sie haben mich so lieb gehabt!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">bat</seg> <seg id="10" type="speaker">Röschen</seg></seg>; <seg id="11" type="frame" pos="start">der <seg id="11" type="speaker">Königssohn</seg> aber <seg id="11" type="intExpr">erwiderte</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»Wir holen sie nach; jetzt, Liebchen, laß uns eilen!«</said> Als eben der Köhler mit seiner Frau in den Hof kam, sahen sie noch, wie der Königssohn mit Röschen davon jagte; sie riefen und jammerten, doch keine Antwort kam zurück, und als sie hinliefen und den langen Weg hinunter schauten, da war der Wagen längst verschwunden. Traurig giengen sie in die Hütte zurück und fühlten sich sehr einsam und verlaßen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

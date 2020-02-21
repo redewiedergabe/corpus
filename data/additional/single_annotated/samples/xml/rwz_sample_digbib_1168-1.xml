@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Mathilde Möhring</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Mathilde_Moehring.tg787_1.xml</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Mathilde Möhring</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="24" mode="reported" content="thought" level="1">Thilde beschäftigte sich mit seiner Haltung während des ganzen Abends und dieser nächtlichen Kneiperei, <said id="1" mode="reported" content="thought" level="2" nonfact="yes">die ganz jenseits ihrer Berechnungen lag</said></said>, <said id="25" mode="reported" content="thought" level="1">und die Alte war immer noch bei dem Stück.</said> Es schlug schon eins, <seg id="2" type="frame" pos="start">als <seg id="2" type="speaker">sie</seg> sich aufrichtete und leise <seg id="2" type="intExpr">sagte</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Thilde, schläfst du schon?«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Nein, Mutter.«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»Das ist gut, Kind. Mir ist so angst. Ob es von dem Tee is? Aber ich habe solch Herzschlagen und sehe immer den alten Mann...«</said> 
+                     <said id="5" mode="direct" content="speech" level="1">»Ach laß doch den alten Mann, Mutter. Der schläft nun schon zwei Stunden, und du mußt auch schlafen.«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Und das einzige is, daß der Rotkopf...«</said> 
+                     <said id="7" mode="direct" content="speech" level="1">»Ja, der hat nu seinen Denkzettel.«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Und was wohl aus dem armen Wurm, dem Fräulein, geworden ist? Wie hieß sie doch?«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»Amalie.«</said> 
+                     
+                        <said id="10" mode="direct" content="speech" level="1">»Richtig, Amalie. Ja, die is doch nu so gut wie eine Waise. Denn wenn sie den Alten auch wieder rausgeholt haben. Lange kann er's doch nicht mehr machen.«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Nein, das kann er nicht, Mutter. Aber jetzt werde ich dir ein Glas Wasser holen, und dann legst du dich auf die andre Seite.«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Na ja, <said id="13" mode="reported" content="thought" level="2" nonfact="yes">ich werde bis hundert zählen.</said>«</said>
+                         
+                     <seg id="14" type="frame" pos="start">Es war darauf <seg id="14" type="intExpr">gerechnet</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1">daß Hugo spät aufstehen würde</said>, aber das Gegenteil geschah, er klingelte früher als gewöhnlich und mußte wohl zehn Minuten auf sein Frühstück warten. <said id="15" mode="reported" content="speech" level="1" nonfact="yes">Thilde wollte diese Verspätung entschuldigen</said>; <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">er</seg> <seg id="16" type="intExpr">sagte</seg> aber,</seg> <said id="16" mode="indirect" content="speech" level="1"><said id="17" mode="reported" content="speech" level="2" nonfact="yes">es hätte nichts zu sagen</said>, <said id="18" mode="reported" content="speech" level="2" nonfact="yes">er müsse sich entschuldigen</said></said>; <said id="19" mode="indirect freeIndirect" content="speech" level="1">um vier nach Hause kommen und um sieben Frühstück, das sei beinah unnatürlich. Ob es denn hübsch gewesen sei, das heißt, ob sie sich amüsiert hätten und ob ihnen Rybinski gefallen hätte. Er wolle ausgehn und gleich nachsehn, <said id="26" mode="reported" content="speech" level="2" nonfact="yes">ob er gelobt sei.</said> Daß sie nicht geklatscht hätten, sei sehr gut gewesen; es falle auf und schade bloß und <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">heiße</seg> dann in den Zeitungen,</seg> <said id="20" mode="indirect" content="writing" level="2" nonfact="yes">es sei alles Claque gewesen.</said> <seg id="21" type="frame" pos="start">Übrigens hätte <seg id="21" type="speaker">Rybinski</seg> ihm <seg id="21" type="intExpr">gesagt</seg>,</seg> <said id="21" mode="indirect" content="speech" level="2">er würde wieder Billets schicken, wenn er in einer neuen Rolle aufträte.</said> <said id="22" mode="indirect freeIndirect" content="speech" level="2">Das sei in der nächsten Woche, da spiele er den Dunois, Bastard von Frankreich.</said></said> <said id="23" mode="direct" content="speech" level="1">»Sie kennen die Rolle, Fräulein Thilde.«</said> 
+                     <said id="27" mode="direct" content="speech" level="1">»Ja, den Dunois kenn ich«</said><seg id="27" type="frame" pos="end">, <seg id="27" type="intExpr">sagte</seg> <seg id="27" type="speaker">sie</seg> mit Betonung des Namens</seg>, <said id="28" mode="reported" content="speech" level="1" nonfact="yes">ohne weitre Zutat</said>, um ihn auf diese Weise das Unpassende des <said id="29" mode="direct" content="speech" level="1">»Bastard«</said> fühlen zu lassen. Zu <said id="38" mode="reported" content="thought" level="1">dem Plan, den sie sich ausgedacht hatte</said>, gehörte durchaus Tugend. <said id="32" mode="reported" content="thought" level="1">Sie hielt es deshalb, um ihrer Reprimande noch mehr Nachdruck zu geben, auch für angezeigt, <said id="31" mode="reported" content="speech" level="2" nonfact="yes">das Gespräch abzubrechen</said></said>, so schwer es ihr wurde. 
+                     Als sie wieder drüben in ihrem Zimmer war, fand sie die Runtschen vor, die nicht durch das Entree, sondern durch die Küche gekommen war. Sie sah aus wie gewöhnlich, Kiepenhut und eine schwarze Klappe über dem linken Auge. 
+                     <said id="33" mode="direct" content="speech" level="1">»Ah, guten Tag, Frau Runtschen. Na, das ist gut, daß Sie da sind. <said id="34" mode="reported" content="speech" level="2" nonfact="yes">Hat Ihnen Mutter schon gesagt...?</said>«</said> 
+                     <said id="35" mode="direct" content="speech" level="1">»Ja, Thildechen, <seg id="36" type="frame" pos="start"><seg id="36" type="speaker">Mutter</seg> hat mir schon <seg id="36" type="intExpr">gesagt</seg>,</seg> <said id="36" mode="indirect" content="speech" level="2">daß wieder ein Herr da ist und daß ich rein machen und einholen soll.</said> Aber wann muß es denn sein? Von sieben bis acht bin ich drüben bei Hauptmann Petermann und von acht bis neun bei Kulickes unten.«</said> 
+                     <said id="37" mode="direct" content="speech" level="1">»Das paßt sehr gut. Neun bis zehn ist die beste Zeit oder noch ein bißchen später.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>2. Erzählung. Die Geschichte vom Knecht Nikolaus</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_2__Erzaehlung__Die_Geschichte_vom_Knecht_Nikolaus.tg109_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">2. Erzählung. Die Geschichte vom Knecht Nikolaus</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                 <said id="1" mode="direct" content="speech" level="1"> »Das Eselchen
+                                                  nehmen wir auch mit,«</said> <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">versetzte</seg> <seg id="1" type="speaker">Frau Holle</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">»eile
+                                                  dich und hole es.«</said> 
+                                                  
+                                                  
+                                                  <said id="2" mode="direct" content="speech" level="1">»Ja, wohin geht es denn?«</said> 
+                                                  
+                                                  
+                                                  <said id="3" mode="direct" content="speech" level="1">»Das wirst du schon sehen, eile
+                                                  dich, eile dich!«</said> 
+                                                  
+                                                  
+                                                  Der Nikolaus mußte tun, <said id="4" mode="reported" content="speech" level="1">was Frau
+                                                  Holle sagte</said>, mochte er wollen oder nicht; er
+                                                  raffte seine Besen und Ruten zusammen, warf sie in
+                                                  Frau Hollens Wagen und zuletzt noch einen großen
+                                                  Sack, in dem es gar sonderbar rumpelte und
+                                                  rappelte, <seg id="5" type="frame" pos="start">so daß das <seg id="5" type="speaker">Christkind</seg> mit seinem feinen
+                                                  Stimmchen <seg id="5" type="intExpr">fragte</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Was hast du denn da drinnen,
+                                                  lieber Nikolaus!«</said> 
+                                                  
+                                                  
+                                                  <said id="6" mode="direct" content="speech" level="1">»Da habe ich Nüsse und Äpfel drin,
+                                                  die schenke ich den braven und artigen Kindern.«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="7" mode="direct" content="speech" level="1">»Ei, lieber Nikolaus, so kannst du
+                                                  also auch gut sein?«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">rief</seg> <seg id="7" type="speaker">Christkindchen</seg> ganz
+                                                  erfreut.</seg>
+                                                  
+                                                  
+                                                  <said id="8" mode="direct" content="speech" level="1">»Versteht sich, kann ich das; wer
+                                                  nicht ordentlich strafen kann, kann auch nicht
+                                                  ordentlich belohnen.
+                                                  Willst du jetzt einen dicken,
+                                                  rotbäckigen Borsdorfer Apfel, <said id="16" mode="reported" content="thought" level="2" border="yes">denn du scheinst mir
+                                                  sehr lieb zu sein?</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="9" mode="reported" content="speech" level="1">Christkindchen dankte schön</said>, nahm
+                                                  den Apfel und biß mit seinen weißen Zähnchen
+                                                  hinein, während der Nikolaus nach der Mühle ging,
+                                                  um sein Eselchen zu holen.
+                                                  Das wurde dann hinten an den
+                                                  goldnen Wagen angebunden, Nikolaus setzte sich
+                                                  darauf, und so ging es fort die Böllsteiner Höhe
+                                                  hinauf und grade hinein in Frau Hollens hellen,
+                                                  goldnen Saal.
+                                                  <seg id="10" type="frame" pos="start">Schon unterwegs <seg id="10" type="intExpr">merkte</seg> es endlich
+                                                  der <seg id="10" type="speaker">Nikolaus</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">mit wem er es wohl zu tun habe</said>, und
+                                                  er hätte lieber wieder drunten am Mühlbach bei
+                                                  seinen Besen gesessen, <said id="11" mode="reported" content="speech" level="1">aber Frau Holle redete so
+                                                  liebreich mit ihm</said>, <said id="12" mode="reported" content="thought" level="1" nonfact="yes">daß er nach und nach alle
+                                                  Furcht vergaß</said> und ganz anständig von seinem Esel
+                                                  sprang, nachdem sie angekommen waren.
+                                                  
+                                                  
+                                                  War das eine Freude und ein
+                                                  Geschrei unter den Engelchen, als sie den braunen
+                                                  Nikolaus mit seinem Grauchen ankommen sahen!
+                                                  Erst fürchteten sie sich ein wenig
+                                                  vor ihm, dann überschütteten sie ihn mit
+                                                  Neckereien: eines zupfte ihn am Bart, ein andres
+                                                  warf alle seine Ruten und Besen ins Feuer, daß
+                                                  dieses hell aufflackerte, und ein drittes leerte
+                                                  gar den Sack mit Nüssen und Äpfeln aus.
+                                                  Als diese nun auf dem glatten
+                                                  Marmorboden wie toll hin und her kollerten, warfen
+                                                  sie sich insgesamt darauf, um sie aufzulesen, und
+                                                  nun hatte der arme Nikolaus wenigstens einen
+                                                  Augenblick Ruhe.
+                                                  Es war aber auch Zeit, denn er
+                                                  machte ein furchtbar böses Gesicht und hob die
+                                                  Hand mit drohender Gebärde gegen die Engelein
+                                                  auf.
+                                                  So gefiel er aber grade der Frau
+                                                  Holle am besten.
+                                                  
+                                                  
+                                                  <said id="13" mode="direct" content="speech" level="1">»Lieber Nikolaus,«</said> <seg id="13" type="frame" pos="mid"><seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">sie</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»du
+                                                  mußt immer bei uns bleiben, es soll dich nicht
+                                                  gereuen.
+                                                  Wenn es jetzt Winter wird,
+                                                  begleitest du mein Christkindchen hinunter zu den
+                                                  Menschen, damit ihm unterwegs kein Unfall
+                                                  begegnet.
+                                                  Und weil es viel zu gut ist und <said id="14" mode="reported" content="speech" level="2" nonfact="yes">nur
+                                                  mit den braven Kindern sprechen</said> und sie beschenken
+                                                  will, wirst du den unartigen eine Rute bringen und
+                                                  sie tüchtig ausschelten.
+                                                  <said id="17" mode="reported" content="thought" level="2" nonfact="yes">Ist dir das recht, lieber
+                                                  Nikolaus?</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="15" mode="direct" content="speech" level="1">»<said id="18" mode="reported" content="thought" level="2">Nein, das ist mir gar nicht
+                                                  recht</said>,«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">sagte</seg> der <seg id="15" type="speaker">Nikolaus</seg> mürrisch,</seg> <said id="15" mode="direct" content="speech" level="1">»da kann
+                                                  nichts draus werden.
+                                                  Im Sommer ließe
+                                                  ich's mir noch gefallen, im Winter aber ist's mir
+                                                  zu kalt; da lege ich mich lieber auf meine
+                                                  Ofenbank, als daß ich draußen in der Nacht
+                                                  herumlaufe.«</said> 
+                                                  
+                                                  
+                                                  
+                                                  
+                                    </p>
+      </body>
+   </text>
+</TEI>

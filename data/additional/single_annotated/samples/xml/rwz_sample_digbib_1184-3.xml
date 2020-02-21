@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Judith, die Kluswirtin</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Judith__die_Kluswirtin.tg47_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Judith, die Kluswirtin</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">3</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Das ist nicht Euer Sohn, es ist Euer Enkel, der Sylv.«</said> – <said id="2" mode="direct" content="speech" level="1">»Sylvian, Sylv?«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">murmelte</seg> die <seg id="2" type="speaker">Alte</seg></seg>, mit leeren Blicken den Kopf schüttelnd. <said id="3" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Judith stand ratlos.</said> <said id="4" mode="freeIndirect" content="thought" level="1">Woher dieses auflodernde Leben in dem lange abgestumpften Hirn?</said> <said id="5" mode="reported" content="thought" level="1">Ihr ahnete das Letzte</said>; <said id="6" mode="freeIndirect" content="thought" level="1"><said id="7" mode="reported" content="speech" level="2">sie hätte nach Arzt und Seelsorger schicken mögen.</said></said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Sylv, Sylv!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">flüsterte</seg> die <seg id="8" type="speaker">Mutter</seg> noch immer in sich hinein.</seg> <said id="9" mode="direct" content="speech" level="1">»Sylvchen, ja Sylvchen hieß sie, Sylvia –«</said> <seg id="11" type="frame" pos="start">Und plötzlich, <said id="10" mode="reported" content="thought" level="1">wie sich besinnend</said>, <seg id="11" type="intExpr">schrie</seg> <seg id="11" type="speaker">sie</seg> <seg id="11" type="intExpr">auf</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">»Die im bunten Rock, da oben am Kirchenknopf! Herr Jesus, sie schwankt, halt auf, halt auf! – Bringst sie, Gust, willkommen, Gust! Gottloses Kind, gutes Kind! Murre nicht, Dithel! Gib ihr die Hand, Dithel, – sie ist –«</said> – Judith gab dem Knaben ein gebieterisches Zeichen, sich zu entfernen, <seg id="12" type="frame" pos="start">die <seg id="12" type="speaker">Alte</seg> aber <seg id="12" type="intExpr">rief</seg> beklommen, indem sie die zitternden Arme nach ihm ausstreckte:</seg> <said id="12" mode="direct" content="speech" level="1">»Bleibe bei mir, Gust! Laß dich nicht von mir treiben, Gust! Die See ist tief, tief, und so weit, so weit! Bleibe im Lande, Gust, ersäufst Leib und Seele, Gust, bleibe bei mir, Gust!«</said> – Sylvian kniete erschüttert neben ihrem Stuhle nieder und faßte ihre beiden Hände in die seinen. Die Angst löste sich nach und nach unter dieser leisen, warmen Berührung, der Kopf sank zurück, die Lider fielen zu, <seg id="13" type="frame" pos="start">nur die <seg id="13" type="speaker">Lippen</seg> <seg id="13" type="intExpr">flüsterten</seg> noch ein paarmal:</seg> <said id="13" mode="direct" content="speech" level="1">»Sylvchen, Sylv!«</said> – dann ruhten auch sie. 
+                     
+                        <said id="14" mode="reported" content="thought" level="1" border="yes">Die Tochter, die rasch in der Küche den braunen Labetrank der Mutter aufgebrüht, stand schon eine Weile sorgenvoll lauschend unter der Tür</said>, ehe jene die Augen wieder aufschlug. Sie schauderte wie vor einem Gespenst, als sie die Tochter, die Tasse in der Hand, auf sich zutreten sah; sie riß ihre Hände aus denen des Enkels und wehrte in Todesangst die Gabe von sich ab. <said id="15" mode="direct" content="speech" level="1">»Warum fürchtet sie sich vor dir?«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">flüsterte</seg> <seg id="15" type="speaker">Sylvian</seg></seg>, erstaunt zu der Muhme aufblickend, die er kindlich verehrte und deren geduldige Pflege er oft mit Bewunderung beobachtet hatte. <said id="16" mode="reported" content="speech" level="1" nonfact="yes">Sie antwortete nicht</said>, aber der Schatten <said id="17" mode="reported" content="speech" level="1" nonfact="yes">eines unsagbaren Wehs</said> glitt über ihr Gesicht. <said id="18" mode="direct" content="speech" level="1">»Es ist Kaffee, Mutter,«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">sprach</seg> <seg id="18" type="speaker">sie</seg> sanft</seg>, indem sie noch einmal den Versuch machte, ihr die Tasse zu reichen. – <said id="19" mode="direct" content="speech" level="1">»Gift, Gift!«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">kreischte</seg> die <seg id="19" type="speaker">Alte</seg> <seg id="19" type="intExpr">auf</seg>.</seg> <said id="20" mode="direct" content="speech" level="1">»Hast wieder Gift gebraut, Dithel? Nur nüchtern nicht, Dithel, nur heute nicht, Dithel! Siehst nicht, wie er sich wehrt? Siehst nicht, wie er schwach wird? Es ist dein Erzeuger, Kind, hab Erbarmen, hab Erbarmen, Dithel!«</said> – Sylvian sprang in die Höhe und starrte entsetzt der einen und der anderen in das Gesicht. <said id="21" mode="direct" content="speech" level="1">»Was tatest du, Muhme?«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">fragte</seg> <seg id="21" type="speaker">er</seg> zitternd.</seg> – <said id="22" mode="direct" content="speech" level="1">»Ich tat, was recht war, Sylvian,«</said> <seg id="22" type="frame" pos="end">– <seg id="22" type="intExpr">entgegnete</seg> <seg id="22" type="speaker">Judith</seg> mit erzwungener Ruhe</seg> und gab ihm die Tasse, sie der Großmutter zu reichen. Mit einer heftigen Bewegung schlug sie dieselbe aus seiner Hand. 
+                     <said id="23" mode="direct" content="speech" level="1">»Du auch, Gust?«</said> <seg id="23" type="frame" pos="mid"><seg id="23" type="intExpr">schrie</seg> <seg id="23" type="speaker">sie</seg> <seg id="23" type="intExpr">auf</seg>,</seg> <said id="23" mode="direct" content="speech" level="1">»du auch?«</said> <seg id="24" type="frame" pos="start">Dann, in eine flehende Weise übergehend, <seg id="24" type="intExpr">fuhr</seg> <seg id="24" type="speaker">sie</seg>, die Hände windend, <seg id="24" type="intExpr">fort</seg>:</seg> <said id="24" mode="direct" content="speech" level="1">»Höre nicht auf den Doktor, Gust, trau dem Pfaffen nicht, es ist ein Katholischer. <said id="25" mode="reported" content="speech" level="2">Was fragen sie nach dem Fremden?</said> Das Stümpfchen Lebenslicht, was schiert es die Fremden? Aber dein Vater, Dithel! Laß ihn leben, Dithel, nur leben! Siehst nicht, wie es ihn widert? Siehst nicht, wie er schmachtet? Nur einen Löffel voll ohne Gift, nur einen Bissen ohne Gift!</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

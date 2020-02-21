@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social04_1873_4.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">mkhz.social</f>
+      </fs>
+      <body>
+         <p>         
+
+--<said id="1" mode="direct" content="speech" level="1"> „Auf dem Platz des Pantheon,“</said>
+                       <seg id="1" type="frame" pos="mid"> <seg id="1" type="intExpr">fuhren</seg> die schändlichen <seg id="1 2 3" type="speaker">Lügner</seg> <seg id="1" type="intExpr">fort</seg>,</seg><said id="1" mode="direct" content="speech" level="1"> „haben Jnsurgentenweiber
+                        Officieren der Mobil=Garde den Kopf abgeschnitten.“</said> -- <said id="2" mode="direct" content="speech" level="1">„ Zwölfbis funfzehnjährige Mobil=Gardisten sind an den Laternenpfählen
+                        aufgehängt.“</said> --<said id="3" mode="direct" content="speech" level="1"> „Budenweiber haben vergifteten Branntwein
+                        ausgetheilt,“</said> u. s. w. u. s. w.<said id="4" mode="reported" content="thought" level="1"> Alle diese mit teuflischer Kunst
+                        <seg id="4" type="intExpr">ausgedachten</seg> Abscheulichkeiten</said> brachten unglücklicher Weise nur
+                        zu wahre Abscheulichkeiten hervor.
+            Daher entstand ein Schrecken ohne Grenzen, die alte Herrschaft des Verdachts er stand wieder auf, die Häuser wurden dem
+                        ersten Besten geöffnet, der in Uniform erschien, eine Wuth der
+                        Angeberei entsprang, wie sie bis jetzt beispiellos gewesen ist und
+                        auch nie wieder in gleichem Maße vorkommen kann. Wollte
+                        man einen Konkurrenten vernichten, einen Nebenbuhler verderben,
+                        eine persönliche Rache befriedigen, <seg id="5" type="frame" pos="start">so <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">man</seg> von seinem Feinde:
+ </seg>                       <said id="5" mode="direct" content="speech" level="1">„Er ist auf den Barrikaden gewesen!“</said> und das war hinreichend.
+            
+            Jn den ersten Tagen des Belagerungszustandes wurden
+                        alle Straßen von bewaffneten Bourgeois abgesperrt, und Paris
+                        strotzte von lebendigen Barrikaden. Als der in den letzten Zügen liegende Handel es erreicht hatte, daß die Straßen dem
+                        Verkehr wieder geöffnet wurden, da begann man die in den
+                        Gebäuden aufzusuchen, welche man im Vorübergehen nicht mehr
+                        ergreifen konnte. Wilde und rachsüchtige Patrouillen durchforschten Alles mit wahnsinniger Barbarei. Das Geheimniß mancher
+                        friedlichen Wohnung wurde auf unwürdige Weise durch die Trabanten irgend eines ungekannten und neuen Tyrannen entweiht.
+                        Sie hielten die Stadtwagen an, um die Reste der Jnsurrection
+                        in ihnen zu suchen; sie warfen Flammenblicke in dieselben und
+                        hätten sie gern mit den Spitzen der Bajonnette durchsucht. -Wehe dem, <said id="6" mode="reported" content="speech" level="1" nonfact="yes"><seg id="6" type="speaker">welcher</seg> <seg id="6" type="intExpr">Worte</seg> des Mitleids laut werden zu lassen
+                        wagte.</said> <said id="7" mode="reported" content="speech" level="1" nonfact="yes">Die Verirrung der Jnsurgenten <seg id="7" type="intExpr">beklagen</seg></said>, <seg id="8" type="frame" pos="start">daran <seg id="8" type="intExpr">erinnern</seg>,</seg>
+                        <said id="8" mode="indirect" content="speech" level="1" nonfact="yes">daß viele von ihnen durch den Hunger zum Kampfe verleitet
+                        wären</said>, das hieß, sich zu dem Mitschuldigen derselben machen.
+                        Seine Eltern, seine Freunde durfte man nicht einmal beweinen,
+                        wenn dieselben zufällig in den Aufstand verwickelt und gefallen
+                        waren. Es war in der großen und doch ganz mit Leichen erfüllten Stadt für die Besiegten ein Verbrechen, ihre Verluste
+                        zu betrauern. Man erschoß ein junges Mädchen, weil man es
+                        Charpie zupfend, vielleicht für ihren Vater, oder für ihren Geliebten, bei einem Haufen verwundeter Jnsurgenten betroffen
+                        hatte! Es ist wahr, daß nicht geplündert wurde, daß man keine
+                        Kinder an den Wänden der Häuser zerschmetterte, wie in Magdeburg einst, als es von Tilly's Kroaten, oder in Cremona, als
+                        es von des Antonius Cohorten eingenommen war, allein, was
+                        an den Ausbrüchen der Wuth fehlte, das wurde reichlich durch
+                        die Schande ersetzt. Spione hießen wachsame Leute, <said id="9" mode="reported" content="speech" level="1" border="yes">Verräther
+                        der Freundschaft <seg id="9" type="intExpr">nannte</seg> <seg id="9" type="speaker">man</seg> wackere Bürger</said>, Meuchelmörder
+                        galten für tapfere Männer. Dazu kamen an jedem Abend beim
+                        Anbruch der Nacht große Versammlungen der Bewaffneten, <said id="10" mode="reported" content="thought" level="1" border="yes">weil
+                        verdächtige Erscheinungen <seg id="10" type="intExpr">bemerkt</seg> waren</said>, weil man gespenstigen
+                        Verschwörungsspuk durch die Lüfte hatte schweben sehen. <said id="11" mode="reported" content="thought" level="1">Mit
+                        Unruhe <seg id="11" type="intExpr">vermuthete</seg> <seg id="11" type="speaker">man</seg> in einer hinter einem Fenster bewegten
+                        Lampe ein geheimnißvollen Verschworenen fernhin gegebenes
+                        Signal.</said> Auf dem Dache des Hauses, in welchem ich wohnte,
+                        untersuchte man eines Abends argwöhnisch einen durch die Strahlen des Mondes hervorgebrachten Widerschein! Der Zorn war
+                        bis zum Geistersehen, der Haß bis zu optischen Täuschungen
+                        gediehen. <said id="12" mode="freeIndirect" content="thought" level="1">O der Erniedrigung für <seg id="12" type="speaker">mein</seg> Vaterland!</said> Es schien,
+                        als wäre Paris nur noch von wüthenden Narren bewohnt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

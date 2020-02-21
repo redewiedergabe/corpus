@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Oesterreichische Monarchie.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal043_1848_3.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Oesterreichische Monarchie.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+         
+            Oesterreichische Monarchie.
+                        
+            Pesth 20. Juli. ( D. A. Z. ) Der Landlag wird eine glänzende Deputation mit der Adresse an den König nach Jnnsbruck senden, <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">welche</seg> denselben dringend <seg id="1" type="intExpr">bitten</seg> soll,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes">seine Residenz
+                        in unserer Hauptstadt zu nehmen.</said> <said id="2" mode="reported" content="writing" level="1">Kossuth spricht sich in der neuesten Nummer seines Blattes wieder mit glühenden Worten über
+                        die Gefahr aus, welche der Dynastie drohe, wenn der König
+                        nicht bald nach Ofen komme.</said> -- <said id="3" mode="reported" content="writing" level="1">Ueber den dreistündigen Kampf
+                        bei St. Thomas unter General Bechtold's Anführung gibt
+                        endlich heute „Kossuth Hirlapja“ einen kleinen Auszug aus dem
+                        eingegangenen officiellen Berichte.</said> Nach diesem hatte Bechtold
+                        2400 Mann Jnfanterie mit einer Batterie und 700 Mann
+                        Cavalerie mit einer Batterie gegen St. Thomas geführt.
+                        <said id="13" mode="reported" content="writing" level="1">Das feindliche Lager wird als ein mit 14 Kanonen wohlverschanztes angegeben</said>, in welchem an 3000 ausgediente Soldaten, Grenzer und andere wohlbewaffnete Leute neben 2000
+                        aus Serbien herübergekommenen Freischaaren seyn sollen.
+                        Das feindliche Geschütz war besser bedient und weiter führend
+                        als das ungarische, daher konnte dieses nicht viel ausrichten.
+                        <said id="14" mode="reported" content="writing" level="1">Der Verlust auf unserer Seite wird auf sechs Todte und zwölf
+                        Verwundete angegeben.</said> <said id="15" mode="reported" content="speech writing" level="1">Privatmittheilungen von Augenzeugen
+                        sprechen jedoch von dreißig Todten.</said> | <said id="8" mode="reported" content="writing" level="1" nonfact="yes">Die Ungarn scheinen die
+                        Kriegsberichte gerade so zuzustutzen, wie ihre guten Freunde in
+                        Jtalien die weltberühmten Boletinis!</said> | Durch diesen ersten abgeschlagenen Angriff hat sich nun die Furchtbarkeit des illyrischen
+                        Aufstandes, sowie auch durch die feige Flucht der Nationalgarden
+                        die Unbrauchbarkeit derselben zu Angriffen offenbart. <seg id="7" type="frame" pos="start">Da <seg id="7" type="speaker">man</seg> nun
+                        <seg id="7" type="intExpr">überzeugt</seg> ist,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß der illyrische Aufstand das Werk der Camarilla
+                        sey</said>, <said id="9" mode="indirect" content="speech" level="1" border="yes">so will</said><seg id="9" type="frame" pos="mid">, wie wir <seg id="9" type="intExpr">hören</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1" border="yes">der feurige Kossuth selbst dieser ein bedeutendes Opfer bringen.</said> Er will nämlich beim Landtage
+                        <said id="10" mode="reported" content="speech" level="1" nonfact="yes">die Bewilligung von 50,000 Mann für den italienischen Krieg</said> durchsetzen. Seine Popularität würde
+                        dadurch zu Grunde gehen. Es könnte aber auch eine Ministerkrisis eintreten. Denn die Radicalen sind schon längst mit Kossuth
+                        unzufrieden. Sie wollen mit der Camarilla einen Kampf auf
+                        Tod uud Leben eingehen, ( auf deutsch: <said id="11" mode="reported" content="speech" level="1" nonfact="yes">die Republik in Ungarn
+                        proclamiren</said> ) . <said id="12" mode="reported" content="speech" level="1" nonfact="yes">Heute soll in dem Repräsentantenhaus die Adreßdebatte beginnen, in welcher die italienische Frage den wichtigsten
+                        Punkt bilden wird.</said> -- Gestern ging von hier Artillerie und Jnfanterie nach Szegedin ab. <said id="16" mode="reported" content="thought" level="1" border="yes">Eine todtverachtende „schwarze
+                        Schaar“</said> bildet sich hier und wird ebenfalls nach Szegedin abgehen.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

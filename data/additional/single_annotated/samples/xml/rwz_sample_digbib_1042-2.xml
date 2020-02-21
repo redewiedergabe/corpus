@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Rahel</title>
+             <author>Christen, Ada</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Christen,_Ada_Rahel.tg327_1.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Rahel</f>
+         <f name="author">Christen, Ada</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Geh ein wenig zu Rahel hinüber«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">bat</seg> <seg id="1" type="speaker">ich</seg> Liese</seg>, sie lächelte glückselig, schaute zu den flimmernden Sternen empor, schloß dann ihre frommen, blauen Augen einen Pulsschlag lang, preßte mich an ihre Brust, als ob sie Abschied nähme, und huschte dann hinauf in die Stube unseres Hauswirts. 
+                  <said id="2" mode="reported" content="speech" level="1">Obwohl <seg id="2" type="speaker">sie</seg> nie mehr mit mir von Rafael <seg id="2" type="intExpr">gesprochen</seg> hatte</said>, <seg id="3" type="frame" pos="start">so <seg id="3" type="intExpr">wußte</seg> <seg id="3" type="speaker">ich</seg> doch,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">daß er es war, dessen sie harrte, und daß der gedämpfte Hufschlag seines Rosses zu uns heraufscholl.</said> 
+                  <seg id="4 5" type="speaker">Ich</seg> ging in unsere Stube, steckte die Lichter des Christbäumchens an, ordnete noch einmal die Geschenke für Liese, <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">dachte</seg> auch daran,</seg> <said id="4" mode="indirect" content="thought" level="1">was sie mir Hübsches geben würde</said>, <said id="5" mode="reported" content="speech" level="1"><seg id="5" type="intExpr">plapperte</seg> gedankenlos ein Gebet her</said>, brannte einen Tannenzweig an, damit es recht frisch duftete, und als nun alles vorbereitet war, ging ich hinüber, um die Liese zu holen. O du unvergeßliche Stunde! 
+                  Sachte öffnete ich die Türe, steckte erst nur den Kopf dazwischen und stolperte aber gleich dann selbst hinein ... denn mitten in der Stube lag sie ... meine Freundin und Gefährtin, meine Liese lag an der Brust Rafaels, an der Brust des Juden ... Der Alte hatte die Hände auf ihre Schultern gelegt, und Rahel stand, wie ein Kobold zu mir hin lachend, neben ihrem Großvater. 
+                  <said id="6" mode="indirect" content="thought" level="1" nonfact="yes">Daß die Welt nicht unterging</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">begriff</seg> <seg id="6" type="speaker">ich</seg> nicht</seg>, bedenklich drehte sich zwar die ganze Stube um mich, und nach meiner innersten Überzeugung wankte mindestens der alte Turm. <said id="8" mode="direct" content="speech" level="1">»Liese!«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">schluchzte</seg> <seg id="8" type="speaker">ich</seg> laut <seg id="8" type="intExpr">auf</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»schau hinüber, der Christbaum ist angezündet, <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">meine</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2">wir setzen uns beide drüben zusammen</said>, das paßt besser für uns, als daß ... du da ...«</said> <said id="11" mode="direct" content="speech" level="1">»Still, mein Liebling«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">unterbrach</seg> <seg id="11" type="speaker">sie</seg> mich mit ihrer sanften Stimme,</seg> <said id="11" mode="direct" content="speech" level="1">»gehe ruhig in deine Stube zu deinem Christbaum, ich habe dich von Herzen lieb, aber den Rafael habe ich doch noch lieber ... Weine nicht, ich werde bald seine Frau sein, und darum habe ich keinen Christabend mehr, denn seit vier Wochen bin ich eine Jüdin.«</said> 
+                  Der alte Turm stand fest – er hörte alle diese Greuel und rührte sich trotzdem nicht, ich aber setzte mich auf einen Stuhl und wartete immer noch, daß etwas ganz Besonderes geschehen müsse, so ein wenig Feuer vom Himmel regnen oder irgend etwas anderes, aber es geschah gar nichts, nur die kleine <seg id="12" type="speaker">Rahel</seg> kam wie eine Katze näher geschlichen<seg id="12" type="frame" pos="start"> und <seg id="12" type="intExpr">sagte</seg> im allerboshaftesten Ton:</seg> <said id="12" mode="direct" content="speech" level="1">»Lea heißt die Liese seit vier Wochen, weil sie schon so lange zu uns gehört ... Du, hat die auch geholfen den blutig bemalten Mann an das Kreuz hängen?«</said> 
+                  <said id="13" mode="reported" content="speech" level="1" nonfact="yes">Schweigend</said> und allein ging <seg id="13" type="speaker">ich</seg> in unsere Stube und ließ meinen betäubten Kopf schwer auf die Tischdecke fallen. Über mir knisterten Tannenenden, die manchmal aufflammten, die Kerzlein verlöschten eines nach dem andern, <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">ich</seg> aber <seg id="14" type="intExpr">dachte</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1">ich sei verlassen, vergessen, allein auf der weiten Welt ...</said> Ich hörte nicht, wie Liese eintrat und ein Päckchen vor mich hinlegte, ich taumelte erst auf, als sie mich in ihre Arme zog. 
+                  <said id="15" mode="reported" content="speech" level="1">Die halbe Nacht hindurch <seg id="15" type="intExpr">erzählte</seg> <seg id="15" type="speaker">sie</seg> mir die Geschichte ihrer Liebe.</said> 
+                  
+                    <said id="16" mode="indirect" content="thought" level="1"> Ich sei zu jung gewesen, als daß ich sie vor zwei Jahren – als sie zu unserer Gesellschaft gekommen war – verstanden hätte</said><seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">meinte</seg> <seg id="16" type="speaker">sie</seg>.</seg>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

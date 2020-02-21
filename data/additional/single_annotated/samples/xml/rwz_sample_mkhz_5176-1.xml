@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig027_1843_5.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+
+Die Geschichte dieser Kunst ist sehr dunkel,<said id="1" mode="reported" content="thought" level="1" border="yes"> weil sich
+                        die Alchemisten von jeher der Untersuchung zu entziehen
+                        wußten.</said> Sie stammt aus Ägypten, war jedoch den alten Priestern dieses Landes nicht bekannt, <said id="2" mode="reported" content="thought" level="1">wie man lange
+                        geglaubt hat</said>, sondern erhielt ihr Dasein durch die alexandrinischen Gelehrten, <said id="10" mode="reported" content="thought" level="1" nonfact="yes" border="yes">die sich <said id="3" mode="reported" content="thought" level="2">durch träges Grübeln und
+                        müßiges Brüten über dunkeln Worten</said> den Anstrich großer Kenntnisse zu geben suchten</said> und <seg id="4" type="frame" pos="start">den <seg id="4" type="intExpr">Wahn</seg> verbreiteten,</seg> <said id="4" mode="indirect" content="thought" level="1">nur durch ein beschauliches Leben und <said id="11" mode="reported" content="thought" level="2" border="yes">geheime
+                        Kenntnisse</said> könne man in das unbekannte Land übermenschlicher Weisheit gelangen, im Besitze dieser Weisheit erlange man den Umgang mit Geistern und <said id="5" mode="reported" content="thought" level="2">verstünde außer tausend andern Künsten auch die Kunst,
+                        edle Metalle hervorzubringen.</said></said> <said id="12" mode="reported" content="writing" level="1">Die ersten Schriften über
+                        Alchemie stammen aus dem 3. Jahrhundert der christlichen Zeitrechnung</said> und waren in den Zeiten des Kaisers Diocletian so verbreitet, <said id="6" mode="reported" content="thought" level="1">daß der Kaiser den großen
+                        Reichthum der Ägypter von diesen Büchern ableitete</said>
+                        und <seg id="7" type="frame" pos="start">aus <seg id="7" type="intExpr">Furcht</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">sie möchten mit Hülfe des gemachten
+                        Goldes einen Aufstand erregen</said>, <seg id="8" type="frame" pos="start">im J. 296 den <seg id="8" type="intExpr">Befehl</seg>
+                        ertheilte,</seg> <said id="8" mode="indirect" content="speech" level="1">alle alchemistischen Schriften zu verbrennen.</said>
+            Das Wort ist entweder griechischen Ursprungs und
+                        heißt dann ungefähr so viel als Schmelzkunst, oder ist aus
+                        einem ägyptischen Worte von unbekannter Bedeutung
+                        entstanden. <said id="9" mode="reported" content="writing" level="1">Die ältesten Schriftsteller leiten es von einem
+                        Propheten Chimes her</said>, worauf <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes">der das menschliche Wissen
+                        übersteigende Jnhalt</said> hinwies. Weil mit der alchemistischen Herstellung des Goldes etwas hergestellt wurde,
+                        was früher nicht dagewesen war, so hieß diese Kunst
+                        vorzugsweise Poesie und die Alchemisten hießen Poeten.
+                        <said id="14" mode="reported" content="writing" level="1" nonfact="yes">Die Lehrer dieser Poesie schrieben nie unter ihrem Namen</said>, sondern wählten immer Namen, die durch Alter
+                        und Ruhm ehrwürdig waren, ein Umstand, der beweist,
+                        wie wenig Vertrauen sie zu dem Jnhalte selbst hatten,
+                        <said id="15" mode="reported" content="writing" level="1">den sie ihren Schriften gaben.</said> <said id="16" mode="reported" content="speech" level="1">Gebete</said>, beschauliches Leben, Ertödtung aller Sinnenlust, Umgang mit Dämonen und Engeln sind die Stufen zur dämonischen Natur und der Kunst der Verwandlung der Metalle.
+            So angenehm dem Despotismus diese Kunst war,
+                        <said id="17" mode="reported" content="thought" level="1" border="yes">so groß war das Mistrauen desselben gegen die Besitzer
+                        derselben</said>, die Theosophen, die dadurch aber immer mehr
+                        Ansehen erlangten. Die Menschen hängen zu sehr am
+                        Wunderbaren, als daß sie sich nicht, zumal in finstern
+                        Zeitaltern, trotz aller Verbote solchen Künsten hingeben
+                        sollten, die sie lehren, in träger Ruhe und bequemem
+                        Müßiggange zu unerschöpflichen Schätzen zu gelangen.
+            Jm morgenländischen Reiche gewann die Alchemie
+                        um so größern Beifall, je üppiger der Hof, je versunkener die Nation war. Am Hofe Zeno's ( 474 ) betrog
+                        ein Goldkünstler unzählige Leute. Unter der Regierung
+                        des Anastasius ( 500 ) bot ein gewisser Johann v. Antiochien den Silberarbeitern von Konstantinopel goldene
+                        Bildsäulen an, <said id="23" mode="indirect freeIndirect" content="speech" level="1">die er selbst gemacht haben wollte</said>, <said id="18" mode="reported" content="speech" level="1">der
+                        Kaiser verwies ihn aber nach Pera</said>, <seg id="19" type="frame" pos="start">weil <seg id="19" type="speaker">er</seg> <seg id="19" type="intExpr">fürchtete</seg>,</seg>
+                        <said id="19" mode="indirect" content="thought" level="1" border="yes">Johann möchte die leicht erworbenen Reichthümer zum
+                        Umsturz seiner Macht anwenden.</said>
+            Von den Alexandrinern ging die Alchemie zu den
+                        Arabern über und wurde von ihnen besonders in Spanien geübt, wo sie Raimund Lull im 13. Jahrhundert
+                        kennen lernte. <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Man</seg> <seg id="20" type="intExpr">erzählt</seg> von ihm,</seg> <said id="20" mode="indirect" content="speech" level="1">daß er 50,000
+                        Pfund Quecksilber in Gold verwandelt und daß Eduard I.
+                         Guineen oder Rosenobel daraus geschlagen habe.</said> <said id="21" mode="reported" content="speech" level="1">Lull
+                        gab als Bestandtheile der Metalle den Merkur und den
+                        Schwefel an und erklärte so ihre Schwere und ihre Verbrennlichkeit</said>; <said id="22" mode="reported" content="thought" level="1" border="yes">auch sah er im aufgelösten Golde eine Panacee und ein sicheres Mittel der Lebensverlängerung.
+
+</said>
+</p>
+      </body>
+   </text>
+</TEI>

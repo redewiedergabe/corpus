@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0106_1905_14.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.europa</f>
+      </fs>
+      <body>
+         <p>         
+         
+            *
+                        
+            <seg id="18" type="frame" pos="start">Jndessen hatte sich das <seg id="18" type="intExpr">Gerücht</seg> auf Heiterbucht <seg id="18" type="intExpr">verbreiter</seg>,</seg> <said id="18" mode="indirect" content="speech" level="1">der Postmeister
+                        sei im Bethaus gewesen</said> und als er sich am folgenden Nachmittage auf dem
+                        Hotel einfand, in seiner Koterie mit dem Zollverwalter und dem Lotsenaltermann,
+                        <said id="2" mode="reported" content="speech" level="1">begrüßten ihn diese mit der großen Neuigkeit.</said>
+            <said id="3" mode="direct" content="speech" level="1">„So, so, du bist Pietist geworden?“</said>
+                         
+            <said id="4" mode="reported" content="speech" level="1">Der Postmeister wehrte <said id="19" mode="reported" content="speech" level="2">den Stoß</said> mit einem Scherz ab</said>, <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">schwur</seg> und <seg id="5" type="intExpr">fluchte</seg>,</seg>
+                        <said id="5" mode="indirect" content="speech" level="1">daß es unwahr sei</said> und leerte zum Beweis seine Gläser ehrlicher als seine Gewohnheit war.
+            <said id="6" mode="direct" content="speech" level="1">„Ja, aber du warst da!“</said>
+                         
+            <said id="7" mode="direct" content="speech" level="1">„Jch war neugierig!“</said>
+                         
+            <said id="8" mode="direct" content="speech" level="1">„Nun, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">was sagten sie denn?</said>“</said>
+                         
+            Hier wurde der Postmeister finster, <said id="10" mode="reported" content="speech" level="1">und als man mit dem Scherz fortfuhr</said>,
+                        <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">ging</seg> es <seg id="11" type="speaker">ihm</seg> <seg id="11" type="intExpr">auf</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1">daß es feige und elend wäre, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">das zu schmähen, <said id="13" mode="reported" content="thought" level="3">was er nicht
+                        <said id="14" mode="reported" content="speech" level="4" nonfact="yes">der Schmähung</said> für wert hielt.</said></said></said> <seg id="15" type="frame" pos="start">Darum <seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">er</seg> ernst, aber bestimmt:</seg>
+                         
+            <said id="15" mode="direct" content="speech" level="1">„Laßt mich in Frieden! Jch bin kein Pietist, aber ich achte Pietisten hoch!“</said>
+                         
+            Das war dasselbe, <said id="16" mode="reported" content="speech" level="1" nonfact="yes">wie bekennen</said>, und wie ein eiserner Vorhang fiel etwas zwischen ihm und den Freunden nieder. Sie veränderten die Gesichter und
+                        wurden mit einem Male fremd für ihn. Das war das Seltsamste, das er
+                        erlebt hatte, und es war schmerzlich zugleich.
+            Er hielt sich acht Tage abseits und <said id="20" mode="reported" content="thought" level="1" nonfact="yes">sah grüblerisch aus.</said> Aber nach dieser
+                        Zeit knüpfte er so allmählich wieder an, kam wieder ins Hotel und wurde so
+                        allmählich derselbe wie früher; jedoch nicht ganz. Denn <said id="17" mode="direct" content="speech" level="1" nonfact="yes" border="yes">„er hatte die Ohren
+                        angezogen“</said><seg id="17" type="frame" pos="end">, wie <seg id="17" type="speaker">man</seg> es <seg id="17" type="intExpr">nennt</seg>.</seg>
+         
+      </p>
+      </body>
+   </text>
+</TEI>

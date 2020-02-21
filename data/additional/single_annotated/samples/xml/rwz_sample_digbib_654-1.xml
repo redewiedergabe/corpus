@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die schöne junge Braut</title>
+             <author>Bechstein, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bechstein,_Ludwig_Die_schoene_junge_Braut.tg79_1.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Die schöne junge Braut</f>
+         <f name="author">Bechstein, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dem Mädchen taten aber die Räuber weiter nichts zu Leide, als daß sie sie eben aus ihrer Heimat fortführten, und sie in dem Hause gleichsam gefangen hielten; sie mußte den Haushalt besorgen, kochen, backen und waschen, sonst hatte sie es gut, wurde aber immer scharf bewacht. Dabei hatten ihr die Räuber den Namen gegeben: Schöne junge Braut. 
+                  So war nun das Mädchen schon einige Jahre in der Räuberherberge, als es sich einmal traf, daß ein Hauptraub ausgeführt werden sollte, an dem, wenn er gelingen sollte, die ganze helle Bande teilnehmen mußte. 
+                  <said id="1" mode="indirect" content="thought" level="1">Da das Mädchen sich an das Leben in der Räuberhöhle gewöhnt zu haben schien, auch noch keinen Versuch zu entfliehen gemacht hatte, und auch schwerlich durch den wilden Wald die Wege finden würde</said> <seg id="1" type="frame" pos="end">– so <seg id="1" type="intExpr">dachte</seg> der <seg id="1" type="speaker">Hauptmann</seg></seg> – so blieb sie diesesmal allein und unbewacht im Waldhause zurück. Aber die Räuber waren kaum fort, so sann die schöne Braut darauf, wie sie unerkannt entfliehen könne. Sie machte geschwind eine Gestalt von Stroh, zog derselben ihre Kleider an, setzte ihr ihre Haube auf, sich selbst aber bestrich sie von Kopf bis zu den Füßen mit Honig, wälzte sich darauf über und über in Federn, so daß sie ganz unkennbar wurde, und aussah, wie ein seltsamer Vogel. Die Gestalt in ihren Kleidern lehnte sie an ein Fenster über der Haustür, und ließ sie hinaussehen, doch mit verdecktem Gesicht, und dann eilte sie von dannen. 
+                  Mochte es aber nun sein, daß <said id="2" mode="reported" content="thought" level="1">dem <seg id="2" type="speaker">Hauptmann</seg> eine <seg id="2" type="intExpr">Ahnung</seg> von des Mädchens beabsichtigter Flucht kam</said>, oder <said id="3" mode="reported" content="thought" level="1" nonfact="yes" border="yes">daß etwas <seg id="3" type="intExpr">vergessen</seg> worden war</said>, genug, er sandte einige seiner Räuber nach dem Hause zurück, und gerade mußte es sich treffen, daß ihnen auf ihrem Wege das fiedrige Käuzlein aufstieß. <seg id="4" type="frame" pos="start"><seg id="4 5 6" type="speaker">Sie</seg> <seg id="4" type="intExpr">dachten</seg> aber</seg> <said id="4" mode="indirect" content="thought" level="1">es wäre einer ihrer Kumpane, der sich unkenntlich gemacht hätte</said>, <seg id="6" type="frame" pos="start">und <said id="5" mode="reported" content="speech" level="1"><seg id="5" type="intExpr">riefen</seg> die Gestalt lachend</said> und <seg id="6" type="intExpr">fragend an</seg>:</seg>
+                         
+                  
+                  
+                     <said id="6" mode="direct" content="speech" level="1">»Wohin, wohin, Herr Federsack?
+                     Was macht die schöne junge Braut?«</said>
+                        
+                  
+                  <seg id="7" type="speaker">Diese</seg>, die es selbst war, war zwar sehr erschrocken, doch faßte sie sich ein Herz <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">antwortete</seg> mit verstellter Stimme:</seg>
+                         
+                  
+                     <said id="7" mode="direct" content="speech" level="1">»Sie fegt und säubert unser Haus
+                     Und schaut wohl auch zum Fenster heraus!«</said>
+                        
+                  
+                  Damit machte sie, daß sie den Räubern aus dem Gesichte kam, kam auch glücklich aus dem Walde, erreichte ein Dorf, kaufte sich Kleider, badete sich und erlangte glücklich und wohlbehalten, obschon nach langer Wanderung, ihre Heimat wieder, und da sie nicht gerade das Beste in der Räuberherberge zurückgelassen hatte, sondern für ihren Jahrlohn mitgehen heißen, so hatte sie auch wohl zu leben und heiratete einen wackern Burschen. 
+                  Jene <seg id="8" type="speaker">Räuber</seg>, wie die nun des Hauses ansichtig wurden, sahen die <seg id="9" type="speaker">Gestalt</seg> der schönen jungen Braut am Fenster <seg id="8" type="frame" pos="start">und grüßten schon von weitem, indem sie <seg id="8" type="intExpr">riefen</seg>:</seg>
+                         
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»Grüß Gott, o schöne junge Braut,
+                     Die freundlich uns entgegenschaut.«</said>
+                        
+                  
+                  <said id="9" mode="reported" content="speech" level="1" nonfact="yes">Da aber der <seg id="9" type="intExpr">Gruß</seg> unerwidert blieb</said>, so verwunderten sich die Räuber, und als sie näher kamen, <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">vermeinten</seg> <seg id="10 12" type="speaker">sie</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">die schöne junge Braut sei eingeschlafen.</said> <said id="11" mode="reported" content="speech" level="1">Vergebens <seg id="11" type="intExpr">riefen</seg> <seg id="11" type="speaker">sie</seg></said>, sie ermunterte sich nicht; vergebens geboten sie ihr, zu öffnen, alle ihr Pochen und Schreien, <seg id="12" type="intExpr"><said id="12" mode="reported" content="speech" level="1">Rufen</said></seg> und Schelten war erfolglos, und wütend traten sie zuletzt die Türe in Trümmern, stürmten die Treppe hinauf und faßten die Gestalt der schönen jungen Braut hart an, da fiel ihnen die Strohpuppe in die Arme.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

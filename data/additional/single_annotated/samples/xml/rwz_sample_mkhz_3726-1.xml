@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal064_1848_2.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+      </fs>
+      <body>
+         <p>         
+
+Allein soviel wir, die wir
+                        nicht so weit von Homburg entfernt sind, erfahren konnten, scheint
+                        daran nicht viel Wahres zu seyn. Wohl ist der Landgraf ein alter, kränklicher Herr, soll aber keineswegs gesonnen seyn, so
+                        lange er am Leben ist, die Landgrafschaft an Hessen=Darmstadt
+                        abzugeben; <said id="1" mode="reported" content="speech" level="1" nonfact="yes">von Seiten der Landstände wird er auch nicht dazu
+                        aufgefordert werden</said>, da die Unterthanen mit ihrem alten Herrn
+                        ganz zufrieden sind. Homburg selbst wünscht den Anschluß an
+                        Darmstadt um so weniger, da ihm dadurch nur Nachtheil erwachsen
+                        kann, <seg id="11" type="frame" pos="start">obwohl <seg id="11" type="speaker">wir</seg> im Jnteresse der deutschen Einheit es von Herzen
+                        <seg id="11" type="intExpr">wünschten</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">wenn ein so kleiner souveräner Regent, wie der Landgraf,
+                        in Frieden eingehen möchte.</said> Es wäre vielleicht dann auch möglich,
+                        daß das Roulette zu Homburg eher einginge, denn bekanntlich
+                        zahlen die Besitzer jenes verderblichen Spieles dem Landgrafen,
+                        der sonst ein für einen souverainen Herrn geringes Einkommen
+                        hat, eine hübsche Pachtsumme. Wie sehr wäre aber zu wünschen,
+                        daß jenem Hazardspiele ein Ende gemacht würde! Jn gegenwärtiger Saison, wo es an Fremden ziemlich fehlt, kommen die Landleute in zahlreicher Menge von Nahe und Ferne und versuchen
+                        an der Bank ihr Glück, gehen aber meist mit leerem Beutel nach
+                        Hause. Uns sind Landleute bekannt, die ihre ganze Baarschaft
+                        nach Homburg Sonntags tragen, <seg id="5" type="frame" pos="start">in der <seg id="5" type="intExpr">Hoffnung</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">dieselbe doppelt oder dreifach dort zu vermehren</said>; allein meistens kehren sie
+                        mit betrübten Gesichtern nach Hause. Früher durfte Niemand,
+                        der nicht anständig gekleidet war, in dem Saale, wo das Roulette
+                        stehet, erscheinen; jetzt aber läßt man auch Leute mit Blousen,
+                        sowohl in den Saal, als auch an dem Spiele Theil nehmen.
+                        <seg id="8" type="frame" pos="start">Jeder <seg id="8" type="speaker">Patriot</seg> unserer Gegend <seg id="8" type="intExpr">sehnt</seg> sich mit Schmerz darnach,</seg>
+                        <said id="8" mode="indirect" content="thought" level="1" border="yes">daß die Nationalversammlung dem Unfuge ein Ende machen
+                        möge</said>, aber ja recht bald!
+                         
+            Altona 15. August. ( B. H. ) Hier liegen jetzt nahe an
+                        2000 Nassauer mit einer Batterie und vielem Train; morgen
+                        wird ein Theil derselben nach Rendsburg abgehen, aber wiederum
+                        ein Bataillon an dessen Stelle erwartet. Auch Oesterreicher werden ehestens eintreffen und sollen schon unterwegs seyn.
+            Kiel 14. August. ( B. H. ) Der Verfassungsentwurf ist fertig und wird allernächstens im Buchhandel erscheinen. Es ist ein
+                        <said id="2" mode="reported" content="thought" level="1">wohldurchdachtes</said> Werk, welches seinen Verfassern Ehre macht, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">in
+                        einzelnen Artikeln aber mannigfache Anfechtung erleiden wird.</said>
+                        <seg id="12" type="frame" pos="start">Als hauptsächlichste Punkte <seg id="12" type="intExpr">heben</seg> <seg id="12" type="speaker">wir</seg> <seg id="12" type="intExpr">hervor</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1"><said id="13" mode="reported" content="thought" level="2">daß SchleswigHolstein darin alsrein deutscher Staataufgefaßt ist</said>, daher
+                        denn alle Deutschen durch feste Niederlassung in Schleswig=Holstein das Staatsbürgerrecht erwerben können, die gegenwärtige
+                        wie künftige Verfassung Deutschlands hier ihre volle Anerkennung
+                        findet und das Staatsgrundgesetz durch <said id="9" mode="reported" content="speech" level="2">verfassungsgebende Bestimmungen der deutschen Centralgewaltipso</said> jureverändert wird.
+ </said>                       Den dänischredenden Landestheilen wird der Bestand ihrer
+                        Sprache in Kirche, Schule, Rechtspflege und Verwaltung gesichert. Das volle Staatsbürgerthum ist vom religiösen Glauben unabhängig. Zur Landesversammlung finden directe Wahlen
+                        statt, doch ist das Wahlrecht an ein jährliches Einkommen von
+                        über 150 Rthlr. Crt. geknüpft. Die Landesversammlung tritt jedes Jahr am 1. November <said id="6" mode="reported" content="speech" level="1" nonfact="yes">auch ohne Berufung durch den Herzog</said> zusammen, <said id="10" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">mit beschließender Stimme</said> und dem Recht der
+                        Jnitiative. Wenn der Herzog ein fremder Fürst ist, somußer
+                        jedes von drei verschiedenen Landtagen mit einer Majorität von
+                        Stimmen unverändert angenommene Gesetz sanctioniren. <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Der
+                        Herzog, beim Antritt der Regierung, ein jeder Staatsbürger beim
+                        Mündigwerden legt einen Eid auf die Verfassung ab.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

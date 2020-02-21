@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Leib Weihnachtskuchen und sein Kind</title>
+             <author>Franzos, Karl Emil</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Franzos,_Karl_Emil_Leib_Weihnachtskuchen_und_sein_Kind.tg56_1.xml</f>
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Leib Weihnachtskuchen und sein Kind</f>
+         <f name="author">Franzos, Karl Emil</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">3</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Es war ein Schrei des tiefsten Schreckens, und das Entsetzen über das eben Gehörte hatte ebensoviel Teil daran wie das Grauen vor der Gefahr, die ihm selbst drohte. Allerdings <said id="1" mode="reported" content="thought" level="1">hatte <seg id="1" type="speaker">ihn</seg> ja der <seg id="1" type="intExpr">Gedanke</seg> an diese Gefahr schon überkommen</said>, aber das war ihm hinterdrein wie Wahnsinn erschienen, <said id="2" mode="reported" content="speech thought" level="1">und <seg id="2" type="speaker">er</seg> hatte Gott und sein Kind dafür um Verzeihung <seg id="2" type="intExpr">gebeten</seg>.</said> Ein Christ und eine Jüdin – es ging eben nach seiner Anschauung gegen die Natur, wie etwa ein Bund zwischen Lamm und Wolf; es geschah niemals, es konnte niemals geschehen, und schon darum brauchte auch er nicht davor zu zittern. Nur vor einer Gewalttat des Janko bangte <seg id="3 4" type="speaker">ihm</seg>, aber eine Liebschaft <said id="3" mode="freeIndirect" content="thought" level="1">– nein, nicht bloß weil es seine brave, gehorsame Miriam, sondern weil sie eine Jüdin war. Und nun hatte es sich doch begeben, im selben Lande, zur selben Zeit;</said> dem Manne war's, als wanke der Boden unter ihm ... <said id="4" mode="freeIndirect" content="thought" level="1">Mendele hatte recht: Und wenn es nur in hundert Jahren einmal geschieht, <said id="5" mode="reported" content="thought" level="2" nonfact="yes">so muß <seg id="5" type="speaker">man</seg>'s doch mit <seg id="5" type="intExpr">bedenken</seg></said> – <said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes">und dabei <seg id="6" type="intExpr">wußte</seg> <seg id="6" type="speaker">er</seg> nichts von diesem Janko!</said> ...</said>
+                     <said id="7" mode="direct" content="speech" level="1">Herr Gott im Himmel</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">klang</seg> es wieder von <seg id="7 8" type="speaker">seinen</seg> Lippen</seg>, diesmal leise, ihm selbst kaum vernehmbar, ein Gebet aus tiefster Brust. <said id="8" mode="direct" content="speech" level="1">Du vermagst alles ... Du wirst auch dies zum Guten wenden ... Nicht wahr, du wirst?</said> 
+                     Die Lippen bewegten sich lautlos, <said id="9" mode="reported" content="thought" level="1"><seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">dachte</seg> es nur.</said> So stand er im Staub der Straße, das Haupt zum Himmel gewendet, daß es vom Mondlicht hell überflutet wurde. Ihm war's, als müßte er ihm ein Zeichen senden ... Aber nichts regte sich als das leise Wühlen des Windes im Gesträuch, und das klang wie ein Seufzer ... Und dennoch – je länger er so stand und schaute, rings alles Stille und Licht, Licht und Stille, desto leichter wurde auch ihm ums Herz. Droben wandelten Mond und Sterne durch das azurne Blau ihre ewigen Pfade, und um ihn schimmerten die Stoppelfelder und der tiefe Staub der Straße wie eitel Silber ... Es war nicht anders, als er es tausend Male gesehen, aber heute labte es ihn, daß das arme, bekümmerte Herz wieder ruhiger zu schlagen begann ... Preis ihm, der erhellet die Finsternis! Er wollte zu beten beginnen, aber wieder bewegten sich die Lippen, nur lautlos. 
+                     
+                        Wundersam getröstet setzte <seg id="10" type="speaker">er</seg> seinen Weg fort. <said id="10" mode="freeIndirect" content="thought" level="1">Es mußte spät sein, wohl an zehn, Weib und Kind waren gewiß schon in Sorge um ihn</said>; er wollte rasch ausschreiten, aber das ging nicht, die armen, schwachen, krummen Beine konnten sich nur langsam durch den tiefen Staub weiterschleppen. Und dann wurde er immer müder und müder, und endlich ging's gar nicht mehr. Als er die Bank am Brunnen erreichte, wo er heut nachmittag mit dem Janko gesessen, wankte er unwillkürlich auf sie zu. Es war ja spät – auch schimmerte das Bild des Gekreuzigten hell und klar – er hätte den Sitz sonst lieber gemieden, heut ließ er sich ohne Besinnen nieder. <said id="11" mode="direct" content="speech" level="1">»Nur einige Minuten«</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">murmelte</seg> <seg id="11" type="speaker">er</seg> </seg>und das Haupt sank an den Stamm des Kreuzes. Dann hörte er die Kirchenuhr in Halicz schlagen, dumpf, fern, wie meilenfern, nur zwei Schläge. <said id="12" mode="direct" content="speech" level="1">»Halb!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">murmelte</seg> <seg id="12" type="speaker">er</seg> schlaftrunken.</seg>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

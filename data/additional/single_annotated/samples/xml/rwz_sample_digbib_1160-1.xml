@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Wetterfrosch</title>
+             <author>Essig, Hermann</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Essig,_Hermann_Der_Wetterfrosch.tg21_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Wetterfrosch</f>
+         <f name="author">Essig, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+besuchte er täglich, dann sah er auch den See und erfuhr das Geheimnis, wo sie wohnte und woher sie ihr liebliches Wesen hatte. Sie webte sich ihre Lieblichkeit gewiß aus den gebleichten Lichtfaden des Mondes und war am Tage mit diesem Schleier verhüllt. <said id="1" mode="reported" content="thought" level="1" border="yes">Das wissen!</said> und niemals mehr ging er zu Schick, weil sies nicht haben wollte. Ihr alles zu lieb! 
+                  Schick, der eigennützige Schenker, hatte aus Wut ihm und dem Mädchen das Eis zerschlagen. <said id="18" mode="freeIndirect" content="thought" level="1">Benutzte denn jener seine grelle Stimme in schönen Sommernächten wirklich bloß für den Froschteich .. raubte er nicht mit ihr dem ganzen Dorfe den Schlaf, weils ihm gefiel?</said> 
+                  <said id="17" mode="reported" content="thought" level="1">Damit hatte er den passenden Vergleich angezogen</said> und konnte befriedigt den Regen auf sich niederklatschen lassen. <seg id="2" type="frame" pos="start">In Zornwallung <seg id="2" type="intExpr">nahm</seg> <seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">sichs vor</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">Schick, wenn er nächsten Sommer sein markerschütterndes Gerätter losließ, in einer hellen Sommernacht aufzulauern und ihm eins mit der Peitsche mit langer Schmitze überzuzünden, weil er – in den Froschteich gehörte.</said> Dann wars vergolten. <said id="19" mode="direct" content="thought" level="1">Fürs Eisbrechen!</said> Er empfands, Schick war ein rachsüchtiger Mensch .. rachsüchtig für das unschuldigste Vergnügen. Er stapfte in Stockfinsternis dem Dorfe zu. 
+                  <said id="4" mode="direct" content="speech" level="1">»Holla!«</said> er war auf die Straße gekommen und ausgeglitten. 
+                  »Haha!« lachte es hinten nach. 
+                  <said id="5" mode="direct" content="speech" level="1">»Elender Schick! auf der Straße brauche ich kein Eis, da ärgerts mich.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">So</said><seg id="7" type="frame" pos="mid">, der Knabe sah <seg id="7" type="speaker">ihn</seg> genau <seg id="7" type="intExpr">sprechen</seg> mit breitem Grinsen,</seg> <said id="7" mode="direct" content="speech" level="1"><seg id="8" type="frame" pos="start"><seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">dachte</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2">du wärest verliebt in die Eiskönigin, <said id="9" mode="reported" content="thought" level="3" nonfact="yes">habest dadurch eine freundliche Erinnerung an sie</said>, durch gutes Glatteis auf der Straße.</said> Aber da täppelst du wie eine vollgefressene Ente auf Parquet. Ueberhaupt woher hast du auf einmal so viel Temperament gegen mich hergenommen? von dem Mädchen? Platsch, klatsch, wir wollen dich ein bißchen hinschlagen, daß du wieder mein ordentlich demütig Büblein wirst. Das Mädchen verderbt deinen Kopf, Knäblein. Klatsch, patsch, noch einmal hin.</said> 
+                  Au, au, dem Knaben schmerzten die Kniee so schon. <said id="10" mode="direct" content="speech" level="1">»Schick«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">rief</seg> <seg id="10" type="speaker">er</seg> freundlicher,</seg> <said id="10" mode="direct" content="speech" level="1">»kannst du denn gar nicht genug bekommen? höre doch auf.«</said> Schick brach mit seinem Kopfe die Decke vom Froschteiche auf, er hörte nicht auf, er hätte am liebsten dem Knaben die Eisschollen über den Kopf geschleudert .. dafür war er aber zu weit entfernt. Noch lieber im See ertränkt! <said id="22" mode="reported" content="thought" level="1">Und Schick hatte das Heer hinter sich in seinen Gedanken</said>, er legte es in einen Hinterhalt, Blut mußte fließen! Weh dem, der treulos war, und auf den Stadtsee ging! 
+                  Die ersten Lichtscheiben tauchten vom Dorfe auf, dem Knaben klopfte das Herz, weil er heimkam und <said id="12" mode="reported" content="speech" level="1" nonfact="yes">seinen Ruhm verkündigen konnte</said>, <said id="13" mode="reported" content="speech" level="1">er zählte die Steinhaufen</said>, es waren noch dreie, ein schwacher Schimmer pinselte sie, dann kam das erste Haus, dann kamen die beiden großen Scheunen, <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">er</seg> <seg id="14" type="intExpr">wußte</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1" border="yes">schräg hinüber lag der Froschteich</said>, er wendete den Kopf aber nicht dorthin, sondern starr geradeaus auf die Mitte der Straße, auf den schwarzen Haufen in der Mitte, hielt er den Kopf. 
+                  Er trat kurz. 
+                  Er trat kurz, das war das Heer. 
+                  Ihm graute. Sein Herz hämmerte, daß es das Heer hörte und unter sich »Pscht« machte. <said id="21" mode="direct" content="thought" level="1">Umbiegen? ausweichen nach dem Froschteich? Umkehren?</said> 
+                  <said id="16" mode="reported" content="thought" level="1">Ein schutzflehender Gedanke nach dem Mädchen</said> band ein Eisenband auf seine Stirne, es wallte sein Blut vor Stolz und Heldenerlebnis auf dem großen See, er setzte Hörner an die Ecken vom Kopf, worunter die Schläfen zucken und schuf sich einen Hammer, wie Karl Martell, mit seinen Schlittschuhen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

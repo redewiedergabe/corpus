@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Märchen der 672. Nacht</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Das_Maerchen_der_672__Nacht.tg360_1.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Das Märchen der 672. Nacht</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Er erkannte in den Ornamenten, die sich verschlingen, ein verzaubertes Bild der verschlungenen Wunder der Welt. Er fand die Formen der Tiere und die Formen der Blumen und das Übergehen der Blumen in die Tiere; die Delphine, die Löwen und die Tulpen, die Perlen und den Akanthus; er fand den Streit zwischen der Last der Säule und dem Widerstand des festen Grundes und das Streben alles Wassers nach aufwärts und wiederum nach abwärts; er fand die Seligkeit der Bewegung und die Erhabenheit der Ruhe, das Tanzen und das Totsein; er fand die Farben der Blumen und Blätter, die Farben der Felle wilder Tiere und der Gesichter der Völker, die Farbe der Edelsteine, die Farbe des stürmischen und des ruhig leuchtenden Meeres; ja, er fand den Mond und die Sterne, die mystische Kugel, die mystischen Ringe und an ihnen festgewachsen die Flügel der Seraphim. Er war für lange Zeit trunken von dieser großen, tiefsinnigen Schönheit, die ihm gehörte, und alle seine Tage bewegten sich schöner und minder leer unter diesen Geräten, die nichts Totes und Niedriges mehr waren, sondern ein großes Erbe, das göttliche Werk aller Geschlechter. 
+                  Doch er fühlte ebenso die Nichtigkeit aller dieser Dinge wie ihre Schönheit; nie verließ <seg id="1 2" type="speaker">ihn</seg> auf lange der <said id="1" mode="reported" content="thought" level="1"><seg id="1" type="intExpr">Gedanke</seg> an den Tod</said>, und oft befiel er ihn unter lachenden und lärmenden Menschen, oft in der Nacht, oft beim Essen. 
+                  Aber da keine Krankheit in ihm war, so war <said id="2" mode="reported" content="thought" level="1">der <seg id="2" type="intExpr">Gedanke</seg></said> nicht grauenhaft, eher hatte er etwas Feierliches und Prunkendes und kam gerade am stärksten, wenn <seg id="3" type="speaker">er</seg> sich am <said id="3" mode="reported" content="thought" level="1"><seg id="3" type="intExpr">Denken</seg> schöner Gedanken</said> oder an der Schönheit seiner Jugend und Einsamkeit berauschte. Denn oft schöpfte der Kaufmannssohn einen großen Stolz aus dem Spiegel, aus den Versen der Dichter, aus seinem Reichtum und seiner Klugheit, und die finsteren Sprichwörter drückten nicht auf seine Seele. <seg id="4" type="frame" pos="start"><seg id="4 5" type="speaker">Er</seg> <seg id="4" type="intExpr">sagte</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Wo du sterben sollst, dahin tragen dich deine Füße«</said>, <said id="5" mode="reported" content="thought" level="1">und <seg id="5" type="intExpr">sah sich</seg> schön, wie ein auf der Jagd verirrter König, in einem unbekannten Wald unter seltsamen Bäumen einem fremden wunderbaren Geschick entgegengehen.</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Er</seg> <seg id="6" type="intExpr">sagte</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">» Wenn das Haus fertig ist, kommt der Tod«</said>, und sah jenen langsam heraufkommen über die von geflügelten Löwen getragene Brücke des Palastes, des fertigen Hauses, angefüllt mit der wundervollen Beute des Lebens. 
+                  <said id="7" mode="reported" content="thought" level="1"><seg id="7" type="speaker">Er</seg> <seg id="7" type="intExpr">wähnte</seg>, völlig einsam zu leben</said>, aber seine vier Diener umkreisten ihn wie Hunde, und <said id="8" mode="reported" content="speech" level="1">obwohl <seg id="8" type="speaker">er</seg> wenig mit ihnen <seg id="8" type="intExpr">redete</seg></said>, <seg id="9" type="frame" pos="start"><seg id="9" type="intExpr">fühlte</seg> <seg id="9" type="speaker">er</seg> doch irgendwie,</seg> <said id="9" mode="indirect" content="thought" level="1"><seg id="10" type="frame" pos="start">daß <seg id="10" type="speaker">sie</seg> unausgesetzt daran <seg id="10" type="intExpr">dachten</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2">ihm gut zu dienen.</said></said> <said id="11" mode="reported" content="thought" level="1">Auch fing <seg id="11 12" type="speaker">er</seg> an, hie und da über sie <seg id="11" type="intExpr">nachzudenken</seg>.</said> 
+                  Die Haushälterin war eine alte Frau; ihre verstorbene Tochter war des Kaufmannssohnes Amme gewesen; auch alle ihre anderen Kinder waren gestorben. Sie war sehr still, und die Kühle des Alters ging von ihrem, weißen Gesicht und ihren weißen Händen aus. Aber er hatte sie gern, weil sie immer im Hause gewesen war <said id="12" mode="reported" content="thought" level="1">und weil die <seg id="12" type="intExpr">Erinnerung</seg> an die Stimme seiner eigenen Mutter und an seine Kindheit, die er sehnsüchtig liebte, mit ihr herumging.</said> 
+                  Sie hatte mit <said id="13" mode="reported" content="speech" level="1"><seg id="13" type="speaker">seiner</seg> <seg id="13" type="intExpr">Erlaubnis</seg></said> eine entfernte Verwandte ins Haus genommen, die kaum fünfzehn Jahre alt war, diese war sehr verschlossen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

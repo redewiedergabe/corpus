@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Otium cum dignitate.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341841_195390.txt_29.xml</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Otium cum dignitate.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">2</f>
+         <f name="narrative">no</f>
+         <f name="textype">Biographie</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+Handelt es sich <said id="1" mode="reported" content="speech" level="1">bei Beweisführungen dieser Art</said> um weithin sichtbar gewordene Verdienste, <seg id="2" type="frame" pos="start">so hat die <seg id="2" type="speaker">Mehrzahl der Menschen</seg> sich im Laufe der Wirksamkeit des Betreffenden schon einigermaßen zu dem <seg id="2" type="intExpr">Gedanken</seg> bequemt,</seg> <said id="2" mode="indirect" content="thought" level="1">daß
+                        hier nicht bloß Geburt, Stellung oder Gelegenheit der Nährboden jener ungewöhnlichen Leistungen gewesen sein können, sondern daß in Wirklichkeit bei
+                        besagter Verteilung ein Unterschied zu gunsten des nun auf eine auszeichnende
+                        Schätzung Anspruch habenden stattfand.</said>
+            Anders verhalten wir uns zu Personen, deren Thätigkeit sich <said id="3" mode="reported" content="thought" level="1" border="yes">unsrer eignen
+                        Anschauung</said> nicht geradezu aufdrängte. Weder unsre Zeit noch <said id="4" mode="reported" content="thought" level="1" border="yes">unsre Kennt 
+            
+            nisse</said> reichen aus, <said id="5" mode="reported" content="thought" level="1" nonfact="yes">um selbst über <said id="6" mode="reported" content="speech" level="2">oft und rühmend genannte Namen</said> uns öfter
+                        <said id="7" mode="reported" content="thought" level="2">als in Ausnahmefällen</said> ein eignes Urteil bilden zu können.</said> Meist müssen wir
+                        uns bescheiden, <said id="8" mode="reported" content="thought" level="1">die endgiltige Beurteilung derselben <said id="20" mode="reported" content="thought" level="2" border="yes">dem Besserwissen andrer</said> zu
+                        überlassen.</said>
+            So verdämmert manche bedeutende Erscheinung hinter den wirbelnden
+                        Staubwolken des unstät vorwärtsdringenden Weltverkehrs, und wo wir mit
+                        Interesse Halt machen und uns mit einem Eindruck erfüllen könnten, der uns
+                        zum Fortsetzen unsrer Wanderschaft neue Kräfte leihen würde, müssen wir meist,
+                        von unsern Hintermännern gedrängt, hastig vorübereilen, oft genug wider Willen,
+                        immer mit unerquicktem Gemüte, denn nichts verödet und verstimmt mehr als
+                        die Leere einer uns gleichgiltigen Masse.
+            <said id="9" mode="direct" content="speech" level="1">„Aber Tage der Zukunft sind der Zeugen weiseste,"</said> <seg id="9" type="frame" pos="end">so <seg id="9" type="intExpr">vertröstet</seg> uns <seg id="9" type="speaker">Vater
+                        Pindar</seg>.</seg>
+            Derjenige, um deswillen durch <said id="10" mode="reported" content="writing" level="1" nonfact="yes">die folgenden Zeilen</said> unser Marsch auf
+                        wenige Augenblicke unterbrochen werden soll, weilt noch unter uns, und die
+                        Zeit, <said id="11" mode="reported" content="writing" level="1" nonfact="yes">wo ein Biograph über ihn in erschöpfender Weise Rede zu stehen haben
+                        wird</said>, liegt hoffentlich noch fern. <said id="13" mode="reported" content="writing" level="1">Hier handelt sich's nur erst, <said id="12" mode="reported" content="writing" level="2">mit Hilfe einiger
+                        von befreundeter Hand herrührenden Notizen</said>, um ein warmes Wort des Dankes
+                        und der Anerkennung</said>, das auch in diesen Blättern einer höchst angespannten,
+                        in ungewöhnlichem Grade verdienstvoll und segensreich gewesenen Thätigkeit gezollt werden soll, nachdem schwere Krankheit den rastlosen Arbeiter genötigt hat,
+                        seine Hand vom Pfluge zurückzuziehen. <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">Fügen</seg> <seg id="14" type="speaker">wir</seg> gleich <seg id="14" type="intExpr">hinzu</seg>,</seg> <said id="14" mode="indirect" content="writing" level="1">daß sein Geist
+                        nichts an seiner Frische und Spannkraft eingebüßt hat, <said id="15" mode="reported" content="writing" level="2">und daß also seine
+                        Feder, die so manche wissenschaftliche That fördern half, noch nicht in Pension
+                        gegangen ist.</said></said>
+            Friedrich Oskar Schwarze hieß der jetzige Wirkliche Geheimrat Dr. von
+                        Schwarze, als er vor achtundsechzig Jahren in der Stadtkirche der guten Stadt
+                        Löbau in der sächsischen Oberlausitz aus der Taufe gehoben worden war, nachdem er am 30. September in derselben Stadt das Licht der Welt erblickt hatte.
+                        <seg id="16" type="frame" pos="start">Wie unlängst in der Biographie des preußischen Juristen Svarez von dem <seg id="16" type="speaker">Geheimen Oberjustizrat Dr. Stölzel</seg> <seg id="16" type="intExpr">nachgewiesen</seg> worden ist,</seg> <said id="16" mode="indirect" content="writing" level="1">war der Vater des
+                        Knaben, Dr. Friedrich Christoph Schwarze, nicht nur dem Klange nach, sondern
+                        in Wirklichkeit ein Verwandter jenes gefeierten Rechtskundigen Svarez, dem
+                        Preußen sein allgemeines Landrecht verdankt, <said id="17" mode="reported" content="speech" level="2">und dessen Großvater erst den
+                        Namen Schwarze in Svarez umgewandelt hatte.</said></said> Der Löbauer Dr. Schwarze
+                        bekleidete aber kein juristisches Amt, er war Bezirksarzt. Als solcher muß er
+                        eine verdienstliche Thätigkeit ausgeübt haben, denn als er, <said id="18" mode="reported" content="speech" level="1">zum Hofrat ernannt</said>,
+                        nach Dresden übersiedelte, <said id="19" mode="reported" content="speech" level="1">verliehen ihm die Löbauer aus Dankbarkeit das
+                        Ehrenbürgerrecht ihrer Stadt.</said>
+            Im Jahre 1826 bezog sein Söhnchen, der zehnjährige Friedrich Oskar,
+                        das Gymnasium zum heiligen Kreuz, die sogenannte Kreuzschule, nachdem er
+                         
+            
+            bis dahin in Dresden Schüler der Friedrich-August-Schule (unter Krug und
+                        Blochmann) gewesen war.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

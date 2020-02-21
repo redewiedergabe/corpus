@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erlebnis des Marschalls von Bassompierre</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Erlebnis_des_Marschalls_von_Bassompierre.tg362_1.xml</f>
+         <f name="year">1900</f>
+         <f name="decade">1900</f>
+         <f name="title">Erlebnis des Marschalls von Bassompierre</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">4</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Da lag noch ein halber Apfel: wir aßen ihn zusammen, <seg id="1" type="frame" pos="start">und dann <seg id="1" type="intExpr">fragte</seg> <seg id="1" type="speaker">ich</seg> sie,</seg> <said id="1" mode="indirect" content="speech" level="1">ob ich sie nicht noch einmal sehen könnte, denn ich verreise erst Sonntag.</said> Dies war aber die Nacht vom Donnerstag auf den Freitag gewesen. 
+                  <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Sie</seg> <seg id="2" type="intExpr">antwortete</seg> mir:</seg> <said id="2" mode="indirect" content="speech" level="1">daß sie es gewiß sehnlicher verlange als ich; wenn ich aber nicht den ganzen Sonntag bliebe, sei es ihr unmöglich; denn nur in der Nacht vom Sonntag auf den Montag könnte sie mich wiedersehen.</said> 
+                  <said id="3" mode="reported" content="thought" level="1"><seg id="3" type="speaker">Mir</seg> <seg id="3" type="intExpr">fielen</seg> zuerst verschiedene Abhaltungen <seg id="3" type="intExpr">ein</seg></said>, so daß ich einige Schwierigkeiten machte, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">die <seg id="4" type="speaker">sie</seg> mit keinem <seg id="4" type="intExpr">Worte</seg></said>, aber mit einem überaus schmerzlich fragenden Blick und einem gleichzeitigen fast unheimlichen Hart- und Dunkelwerden ihres Gesichts anhörte. <seg id="5" type="frame" pos="start">Gleich darauf <seg id="5" type="intExpr">versprach</seg> <seg id="5 6 7" type="speaker">ich</seg> natürlich,</seg> <said id="5" mode="indirect" content="speech" level="1">den Sonntag zu bleiben</said>, <seg id="6" type="frame" pos="start">und <seg id="6" type="intExpr">setzte hinzu</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">ich wollte also Sonntag abend mich wieder an dem nämlichen Ort einfinden.</said> <said id="7" mode="reported" content="speech" level="1">Auf dieses <seg id="7" type="intExpr">Wort</seg> </said>sah <seg id="8" type="speaker">sie</seg> mich fest an <seg id="8" type="frame" pos="start">und <seg id="8" type="intExpr">sagte</seg> mir mit einem ganz rauhen und gebrochenen Ton in der Stimme:</seg> <said id="8" mode="direct" content="speech" level="1">»<seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Ich</seg> <seg id="9" type="intExpr">weiß</seg> recht gut,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes">daß ich um deinetwillen in ein schändliches Haus gekommen bin</said>; aber ich habe es freiwillig getan, weil ich mit dir sein  wollte, weil ich jede Bedingung eingegangen wäre. Aber jetzt käme ich mir vor, wie die letzte, niedrigste Straßendirne, wenn ich ein zweites Mal hieher zurückkommen könnte. Um deinetwillen hab' ich's getan, weil du für mich der bist, der du bist, weil du der Bassompierre bist, weil du der Mensch auf der Welt bist, der mir durch seine Gegenwart dieses Haus da ehrenwert macht!«</said> <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Sie</seg> <seg id="10" type="intExpr">sagte</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">»Haus«</said>; einen Augenblick war es, <said id="11" mode="reported" content="speech" level="1">als wäre ein verächtlicheres <seg id="11" type="intExpr">Wort</seg> <seg id="11" type="speaker">ihr</seg> auf der Zunge</said>; <said id="12" mode="reported" content="speech" level="1">indem <seg id="12" type="speaker">sie</seg> das Wort <seg id="12" type="intExpr">aussprach</seg></said>, warf sie auf diese vier Wände, auf dieses Bett, auf die Decke, die herabgeglitten auf dem Boden lag, einen solchen Blick, daß unter der Garbe von Licht, die aus ihren Augen hervorschoß, alle diese häßlichen und gemeinen Dinge aufzuzucken und geduckt vor ihr zurückzuweichen schienen, als wäre der erbärmliche Raum wirklich für einen Augenblick größer geworden. 
+                  
+                     
+<seg id="13" type="frame" pos="start">Dann <seg id="13" type="intExpr">setzte</seg> <seg id="13" type="speaker">sie</seg> mit einem unbeschreiblich sanften und feierlichen Tone <seg id="13" type="intExpr">hinzu</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Möge ich eines elenden Todes sterben, wenn ich außer meinem Mann und dir je irgendeinem anderen gehört habe und nach irgend einem anderen auf der Welt verlange!«</said>, und schien, mit halboffenen, lebenhauchenden Lippen leicht vorgeneigt, <said id="14" mode="reported" content="speech" level="1" nonfact="yes">irgendeine <seg id="14" type="intExpr">Antwort</seg></said>, <said id="15" mode="reported" content="speech" level="1" nonfact="yes">eine <seg id="15" type="intExpr">Beteuerung</seg> <seg id="14 15" type="speaker">meines</seg> Glaubens</said> zu erwarten, von meinem Gesicht aber nicht das zu lesen, was sie verlangte, denn ihr gespannter suchender Blick trübte sich, ihre Wimpern schlugen auf und zu, und auf einmal war sie am Fenster und kehrte mir den Rücken, die Stirn mit aller Kraft an den Laden gedrückt, den ganzen Leib von lautlosem, aber entsetzlich heftigem Weinen so durchschüttert, daß mir das Wort im Munde erstarb und ich nicht wagte, sie zu berühren. <seg id="16" type="speaker">Ich</seg> erfaßte endlich eine ihrer Hände, die wie leblos herabhingen, <said id="16" mode="reported" content="speech" level="1">und mit den eindringlichsten <seg id="16" type="intExpr">Worten</seg></said>, die mir der Augenblick eingab, gelang es mir nach langem, sie soweit zu besänftigen, daß sie mir ihr von Tränen überströmtes Gesicht wieder zukehrte, bis plötzlich ein Lächeln, wie ein Licht zugleich aus den Augen und rings um die Lippen hervorbrechend, in einem Moment alle Spuren des Weinens wegzehrte und das ganze Gesicht mit Glanz überschwemmte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

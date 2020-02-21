@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt18_1868_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="2" mode="direct" content="speech" level="1"><said id="1" mode="reported" content="speech" level="2">Sobald die erste Kunde von der Gefahr zu
+                        uns drang</said>, haben wir Alles verkauft und geordnet dort, und sind nun
+                        hier, Christian und ich, und schon übermorgen müssen wir uns
+                        
+               
+               einstellen, <said id="3" mode="reported" content="speech" level="2" nonfact="yes">denn man hat uns nicht abgewiesen</said>, <said id="19" mode="reported" content="speech" level="2">sondern gern angenommen.</said>“</said>
+                         
+            <said id="4" mode="direct" content="speech" level="1">„Es kitzelt Dich wohl gewaltig, einige Loth Blei im Leibe zu
+                        haben?“</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> der alte <seg id="4" type="speaker">Kilian</seg> mit grimmigem Zorn.</seg>
+            <said id="5" mode="direct" content="speech" level="1">„<said id="20" mode="reported" content="thought" level="2">Zuweilen däucht es mir schön, Vater, wenn mein armes Herz
+                        endlich zur Ruhe käme, die ihm hier auf Erden doch nicht beschieden
+                        scheint</said>“</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">erwiderte</seg> <seg id="5" type="speaker">Ewald</seg> leise.</seg>
+            Mit einem Laut zwischen Fluchen und Stöhnen stürzte der alte
+                        Ulmenhofer aus der Stube.
+            Wieder war ein Abschied überwunden, ein Abschied, <seg id="7" type="frame" pos="start">bei dem <seg id="7" type="speaker">Ewald</seg>
+                        und <seg id="7" type="speaker">Gertrud</seg> ahnungsvoll <seg id="7" type="intExpr">fühlten</seg>, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">wenn es auch Keiner dem Andern
+                        eingestand</said>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">er sei fürs Leben, nach ihm gebe es kein Wiedersehen mehr.</said>
+            Sie hatten nicht viel von einander gehabt, an dem einen Tage,
+                        den Ewald in der Heimath zubrachte; aber wann er bei Gertrud gewesen, hatten sie zusammen gesessen, Hand in Hand, selbst in Gegenwart der Anderen. Und das war ihr Trost in dem neuen Weh
+                        des Scheidens; daran hatten sie sich aufrecht erhalten, das strahlte
+                        als Stern durch all' das Dunkel hindurch, <seg id="9" type="frame" pos="start">daß <seg id="9" type="speaker">sie</seg> fühlten, mit heiliger Ueberzeugung <seg id="9" type="intExpr">wußten</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1" border="yes">sie waren einander noch, was sie sich stets
+                        gewesen</said>; keine Ferne und Tennung hatte vermocht, ihre Liebe zu
+                        mindern; diese war als lauteres Gold aus dem Feuer der Schmerzen
+                        hervorgegangen und leuchtete, wie ein echter Demant am hellsten im
+                        Dunkel, hier in dem Schatten der Trübsal.
+            Eine bange und schwere Zeit folgte dem Ausbruch des Krieges.
+                        All' das Hoffen und Zagen! Und wie sich in den Jubelruf über die
+                        ersten Siege immer die Angst derjenigen mischt, <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">welche</seg> nicht <seg id="10" type="intExpr">wissen</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob
+                        Vater, Sohn, Bruder oder Geliebter nicht auch mit seinem Blut
+                        die Schlacht gewinnen half!</said>
+                         
+            Es war nach dem 3. Juli, jenem denkwürdigen Tage der preußischen
+                        Geschichte, da einer der großartigsten und glorreichsten Siege mit
+                        dem Leben von Tausenden von Tapferen bezahlt wurde.
+            Von einer zehrenden, inneren Angst getrieben, ging Gertrud umher, nirgend, bei keiner Arbeit Ruhe findend. Der Vater schaute ihr
+                        <said id="21" mode="reported" content="speech" level="1" border="yes">besorgt</said> und kummervoll zu; es lag eine solche Seelenqual auf ihrem
+                        Gesicht, wie er sie früher nie gesehen.
+            <said id="11" mode="direct" content="speech" level="1">„Gertrud, was ist Dir? Was ist anders als sonst? Warum
+                        zagest und fürchtest Du heut mehr?“</said>
+                         
+            <said id="12" mode="direct" content="speech" level="1">„<seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Vater</seg>, <seg id="13" type="intExpr">glaube</seg> mir,</seg> <said id="13" mode="indirect" content="thought" level="2" nonfact="yes">heut ist Ewald gestorben</said>; ich habe ein so
+                        banges Gefühl in mir, als sei die ganze Welt mir mit einem
+                        Male fremd geworden und Alles so leer, so öde um mich her.“</said>
+                         
+            Still hörte sie auf <said id="14" mode="reported" content="speech" level="1">des Vaters tröstende Ermahnungen</said>, still und
+                        <said id="15" mode="reported" content="speech" level="1" nonfact="yes">klagelos</said> ging sie dahin; aber sie vermochte nicht, in den allgemeinen
+                        Jubelsturm einzustimmen, der ausbrach <said id="22" mode="reported" content="speech" level="1">bei der Kunde des glücklichen
+                        Sieges, des nun gewiß bald beendeten Krieges.</said>
+            O, wie die Tage so langsam für Gertrud dahinschlichen, so grau
+                        und hoffnungsleer! Wie kein <said id="17" mode="reported" content="speech" level="1">Beten</said>, kein Arbeiten die nagende Angst
+                        und Unruhe zu beschwichtigen vermochte! Hier und dort kam ein Brief
+                        im Dorfe an; Mancher der Mitziehenden war dem mörderischen Feuer
+                        entronnen, Andere lagen verwundet, Andere todt -- <said id="23" mode="reported" content="speech writing" level="1" nonfact="yes">doch von Ewald
+                        und Christian keine nähere Kunde.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

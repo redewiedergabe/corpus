@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die zwölf Apostel</title>
+             <author>Marlitt, Eugenie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Marlitt,_Eugenie_Die_zwoelf_Apostel.tg121_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die zwölf Apostel</f>
+         <f name="author">Marlitt, Eugenie</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">3</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Auf <said id="1" mode="reported" content="speech" level="1">des <seg id="1" type="speaker">Leinwebers</seg> <seg id="1" type="intExpr">Mitteilung</seg></said> hin öffnete Magdalene die 
+Thür und sah auch schon von weitem das Marienbild vor dem Postament liegen. Vor einigen Wochen noch, als einer der Knaben hinaufgeklettert war und im Begriff stand, das hölzerne Gesicht mit schwarzen Augenbrauen und einem ebensolchen Bart zu versehen,<said id="2" mode="reported" content="speech" level="1"> hatte <seg id="2 3" type="speaker">sie</seg> dem kindlichen Vandalen eine so leidenschaftliche <seg id="2" type="intExpr">Strafpredigt</seg> gehalten</said> und ihn mit so zornigen Augen dabei angesehen, daß er erschrocken davongelaufen war. Heute aber hob sie still und geduldig das geschändete Bild auf, wischte die Erde aus dem Gesicht und lehnte es sorgfältig in die Ecke neben das Postament. Dann schritt sie langsam durch den großen offenen Bogen hinaus auf den Rasenplatz, der, von Kirche und Kloster rings eingeschlossen, einsam und sonnenbeschienen dalag ... <said id="3" mode="freeIndirect" content="thought" level="1">Wie oft war sie flink über diesen Grasfleck weggehuscht, um gewandt auf einigen Mauervorsprüngen nach dem offenen Kirchenfenster zu klettern, in welchem sie verschwand.</said> Dann war sie allein in der schaurig stillen Kirche; nichts störte sie, als der Schall ihrer eigenen Schritte, oder das Gezwitscher eines Vogels, der sich draußen auf dem Holunderbusch niederließ, neugierig den Kopf in die düsteren, kühlen Hallen steckte und dann erschrocken davonflog, um sich aufs neue im Sonnenglanz zu baden. Hier unter diesen gewaltigen Säulen atmete sie auf, und ihrer im engen Stübchen mattgedrückten Seele wuchsen die Schwingen ... <said id="4" mode="reported" content="thought" level="1"><seg id="4" type="speaker">Ihre</seg> <seg id="4" type="intExpr">Phantasie</seg> beschwor die Zeiten herauf, wo noch der Weihrauch durch diesen Raum flutete, wo die Hora klang und prächtige Meßornate am Hochaltar schimmerten.</said> Sie sah bleiche Nonnengesichter an der zertrümmerten Orgel sitzen und mit bebenden, blassen Händen die vergilbten Tasten berühren ... wie manchmal mochten diese Töne den Schmerz eines heißen, gewaltsam unterdrückten Herzens ausgehaucht haben ... Sie beobachtete die Sonnenstrahlen, wie sie durch die Reste der bunten Glasmalerei im hohen Fensterbogen glitten, die Farbenpracht zitternd auf die schlanken Säulen warfen und sie hinauftrugen in die kunstvollen Schnörkel und Rosetten der Knäufe, die wohl seit dem letzten Meißelschlag des längst in Staub und Asche zerfallenen Meisters keine Menschenhand wieder berührt hatte. Stundenlang konnte sie neben jenem alten Madonnenbild sitzen und sich in die Heimat träumen, wo <seg id="5" type="speaker">sie</seg> Tausende in heißer Inbrunst vor einem solchen Bilde hatte knieen sehen, wo ihr Vater nie vorübergegangen war, ohne ehrfurchtsvoll das Haupt zu entblößen und gläubig das Zeichen des Kreuzes zu machen ...
+                  <said id="5" mode="reported" content="thought" level="1" nonfact="yes">An alle diese Dinge aber schien Magdalene in diesem Augenblick 
+nicht zu <seg id="5" type="intExpr">denken</seg>.</said> Es war, als bebe sie fröstelnd vor den dunklen Kirchenmauern zurück und als fühle sie zum erstenmal die totenähnliche Stille des verlassenen Tempels, der im glühenden Sonnengold dalag wie ein riesiger Leichnam unter Purpur und goldenen Decken. Sie hatte sich, den Rücken nach der Kirche gewendet, unter einen alten Apfelbaum gesetzt, auf dessen verwittertem Stamm sich nur noch ein einziger, aber breiter und voller Ast wiegte. Lang aufgeschossene Gräser, an denen grüngoldene Käfer geschäftig auf und ab liefen, bogen ihre befiederten, blühenden Spitzen an ihre Kniee, und eine zahlreiche Familie großer Kamillen duftete zu ihren Füßen. 
+                  ... <said id="6" mode="freeIndirect" content="thought" level="1">Und wenn <seg id="6 7 8" type="speaker">sie</seg> nun Muhme, Kloster und Stadt verließ; wenn sie hinausging in die weite Welt, über dem Haupt <said id="7" mode="reported" content="thought" level="2">mit den quälenden <seg id="7" type="intExpr">Gedanken</seg></said> einen anderen Himmel; wohin sie blickte, fremde Gesichter, auf denen nichts Wohlbekanntes stand; ihr ungestümes Herz inmitten einer Menschenflut, die achtlos vorüberbrauste, nichts von ihr nahm und nichts zurückgab – ja, das gerade wollte sie, allein sein, nichts mehr hören vom Vergangenen, keinem liebevoll und ängstlich fragenden Blick begegnen ... <said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="8" type="intExpr">vergessen</seg>, vergessen!</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>7. Erzählung. Die Geschichte von dem kleinen naseweisen Mädchen</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_7__Erzaehlung__Die_Geschichte_von_dem_kleinen_naseweisen_Maedchen.tg114_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">7. Erzählung. Die Geschichte von dem kleinen naseweisen Mädchen</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Sie merkte in ihrer Eile gar nicht, wie sie immer bergan lief, sondern freute sich nur, daß das Licht größer ward und ihr immer näher kam. Der Weg ward steiler, und zuletzt mußte sie atemlos stehenbleiben, denn sie konnte nicht mehr weiter. Nun schaute <seg id="1 2" type="speaker">Mathildchen</seg> sich um, da blies ihr ein kalter Wind über die heiße Stirne, und ringsherum waren keine höheren Berge und keine Bäume mehr. <said id="1" mode="freeIndirect" content="thought" level="1">Du lieber Himmel – am Ende war gar das Kind bis hinauf auf die Böllsteiner Höhe gerannt.</said> 
+                  Dem Mathildchen zitterten die Knie vor Angst und Müdigkeit, <said id="2" mode="freeIndirect" content="thought" level="1">aber sie konnte doch nicht da stehenbleiben</said>, und so schlich sie denn langsam weiter, von einem Baumstamm zum andern, indem sie sich dahinter versteckt hielt, bis sie auf einmal wirklich am Rande des großen freien Platzes stand, der den Böllstein bedeckt. 
+                  Aber, Kinder, was hat sie da gesehen – <said id="3" mode="reported" content="thought" level="1" nonfact="yes" border="yes">das <seg id="3" type="speaker">Mathildchen</seg> <seg id="3" type="intExpr">vergaß</seg> Müdigkeit und Angst und alles</said>,<seg id="4" type="frame" pos="start"> <seg id="4" type="speaker">es</seg> <seg id="4" type="intExpr">wußte</seg> gar nicht mehr,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob es schon im Himmel oder noch auf Erden war.</said> Es starrte ganz verloren hinein in die Herrlichkeit, die sich da vor seinen Blicken ausbreitete. 
+                  <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">Denkt</seg> euch, <seg id="5" type="speaker">Kinder</seg>,</seg><said id="5" mode="indirect" content="thought" level="1" nonfact="yes"> das war die Nacht, in der das Christkindchen alles, was es das Jahr über zusammengeholt und mit den Engelchen gearbeitet hat, aufstellt und ausbreitet und dann auswählt, was es jedem von den kleinen und großen Leuten bringen will.</said> Die Christbescherung für die ganze Welt stand hier auf einmal beieinander, <seg id="6" type="frame" pos="start">und nun könnt <seg id="6" type="speaker">ihr</seg> euch <seg id="6" type="intExpr">denken</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1" nonfact="yes">wie das glitzerte und flimmerte, <seg id="7" type="frame" pos="start">und wie <seg id="7" type="speaker">Mathildchen</seg> ganz im Ernste <seg id="7" type="intExpr">glaubte</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" border="yes">sie sei blind geworden</said>, so sehr stach ihr all der Glanz in die Augen.</said> <seg id="8" type="frame" pos="start">Nun <seg id="8" type="intExpr">wußte</seg> <seg id="8" type="speaker">sie</seg> auch,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">wovon der Wald so hell und warum das Feuer so groß erschienen war</said>, denn die hohen Tannen und Fichten, welche um den freien Platz herumstehen, waren übersät mit brennenden Wachskerzen, so daß sie fast den Mond und die Sterne überstrahlten. 
+                  In der Mitte aber war das Schönste von allem, da stand das liebe, goldige Christkindchen selber und überschaute seine Herrlichkeiten. Ein schneeweißes Kleid, mit goldenen und silbernen Sternen gestickt, fiel ihm bis herab auf die Füße. Den feinen Schleier hielt eine hohe Sternenkrone fest, unter welcher die großen blauen Augen so selig und gut hinauf in den Himmel blickten und die Wangen in so hellem Rosenlicht glühten, daß <said id="9" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="9" type="speaker">man</seg> über diesem Anblick alles übrige <seg id="9" type="intExpr">vergaß</seg>.</said> <seg id="10" type="speaker">Mathildchen</seg> konnte lange kein Auge von ihm verwenden, aber als sie nun endlich weiter um sich schaute, <said id="10" mode="freeIndirect" content="thought" level="1">puh!</said> da ward ihr wieder angst und bange. 
+                  Auf der Erde ganz dicht zu Christkindchens Füßen saß der Knecht Nikolaus, der war nicht so holdselig anzuschauen. Er war in seinen Pelzrock gehüllt, hatte die Pelzmütze fast bis an die Nase ins Gesicht gezogen, und auf seine Brust herab wallte nicht mehr wie früher ein schwarzer, sondern ein langer, weißer Bart. Neben dem hellen, freundlichen Christkindchen sah er noch dunkler und mürrischer aus als gewöhnlich. Er machte auch grade jetzt ein besonders verdrießliches Gesicht und hatte neben sich wieder einen ganzen Berg von Ruten liegen. 
+                  <said id="12" mode="direct" content="speech" level="1">›Laß gut sein, Nikolaus,‹</said> <seg id="12" type="frame" pos="mid"><seg id="12" type="intExpr">sagte</seg> jetzt das <seg id="12" type="speaker">Christkind</seg> mit seinem hellen feinen Stimmchen, das noch viel süßer klang als das silberne Schellchen,</seg> <said id="12" mode="direct" content="speech" level="1">›wir haben jetzt Ruten genug.‹</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

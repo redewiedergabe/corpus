@@ -1,0 +1,638 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+–	-	-	$(	SYM.Pun.Hyph	yes	-	-	-	-	-
+»	&quot;	&quot;	$(	ADJA.Pos.Nom.Sg.Neut	no	direct.speech.1	-	-	-	-
+Furchtbares	Furchtbares	furchtbar	ADJA	ADJA.Pos.Nom.Sg.Neut	no	direct.speech.1	-	-	-	-
+Wetter	Wetter	Wetter	NN	N.Reg.Nom.Sg.Neut	no	direct.speech.1	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.1	-	-	-	-
+«	&quot;	&quot;	$(	CARD	no	direct.speech.1	-	-	-	-
+sagte	sagte	sagen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.1	-	intexpr.1	-
+Herr	Herr	Herr	NN	N.Reg.Nom.Sg.Masc	no	-	frame.1	speaker.1	-	-
+von	von	von	APPR	N.Name.Nom.Sg.Masc	no	-	frame.1	speaker.1	-	-
+S.	S.	S.	NN	N.Name.Nom.Sg.Masc	no	-	frame.1	speaker.1	-	-
+Seine	Seine	seine	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Fem	yes	-	-	-	-	-
+Frau	Frau	Frau	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+sah	sah	sehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ängstlich	ängstlich	ängstlich	ADJD	ADJD.Pos	no	-	-	-	-	-
+aus	aus	aus	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+»	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	yes	direct.speech.2	-	-	-	-
+Ist	Ist	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct.speech.2	-	-	-	-
+das	das	d	ART	ART.Def.Nom.Sg.Neut	no	direct.speech.2	-	-	-	-
+Feuer	Feuer	Feuer	NN	N.Reg.Nom.Sg.Neut	no	direct.speech.2	-	-	-	-
+auch	auch	auch	ADV	ADV	no	direct.speech.2	-	-	-	-
+gewiß	gewiß	gewiß	ADV	ADV	no	direct.speech.2	-	-	-	-
+gut	gut	gut	ADJD	ADJD.Pos	no	direct.speech.2	-	-	-	-
+verwahrt	verwahrt	verwahren	VVPP	VPP.Full.Psp	no	direct.speech.2	-	-	-	-
+?	?	?	$.	SYM.Pun.Sent	no	direct.speech.2	-	-	-	-
+«	&quot;	&quot;	$(	CARD	no	direct.speech.2	-	-	-	-
+sagte	sagte	sagen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.2	-	intexpr.2	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Sg.Fem	no	-	frame.2	speaker.2	-	-
+;	;	;	$.	SYM.Pun.Sent	no	-	frame.2	-	-	-
+»	&quot;	&quot;	$(	N.Reg.Acc.Sg.Fem	no	direct.speech.2	-	-	-	-
+Gretchen	Gretchen	Gretchen	NE	N.Name.Nom.Sg.Neut	no	direct.speech.2	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct.speech.2	-	-	-	-
+sieh	sieh	sehen	VVIMP	VIMP.Full.2.Sg	no	direct.speech.2	-	-	-	-
+noch	noch	noch	ADV	ADV	no	direct.speech.2	-	-	-	-
+einmal	einmal	einmal	ADV	ADV	no	direct.speech.2	-	-	-	-
+nach	nach	nach	APPR	PART.Verb	no	direct.speech.2	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct.speech.2	-	-	-	-
+gieß	gieße	gießen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	direct.speech.2	-	-	-	-
+es	es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	direct.speech.2	-	-	-	-
+lieber	lieber	lieber	ADV	ADV	no	direct.speech.2	-	-	-	-
+ganz	ganz	ganz	ADV	ADV	no	direct.speech.2	-	-	-	-
+aus	aus	aus	PTKVZ	PART.Verb	no	direct.speech.2	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.2	-	-	-	-
+–	-	-	$(	SYM.Pun.Hyph	yes	direct.speech.2	-	-	-	-
+Kommt	Kommt	kommen	VVFIN	VIMP.Full.2.Pl	yes	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+wir	wir	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+wollen	wollen	wollen	VMFIN	VFIN.Mod.1.Pl.Pres.Ind	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+das	das	d	ART	ART.Def.Acc.Sg.Neut	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+Evangelium	Evangelium	Evangelium	NN	N.Reg.Acc.Sg.Neut	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+Johannis	Johannis	Johannis	NN	N.Name.Gen.Sg.*	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+beten	beten	beten	VVINF	VINF.Full.-	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct.speech.2|reported.speech.3.nonfact	-	-	-	-
+«	&quot;	&quot;	$(	N.Name.Nom.Sg.*	no	direct.speech.2	-	-	-	-
+Alles	Alles	alle	PIS	PRO.Indef.Subst.-.Nom.Sg.Neut	yes	-	-	-	-	-
+kniete	kniete	knieen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+nieder	nieder	nieder	PTKVZ	PART.Verb	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Acc.Sg.Fem	no	-	frame.4	-	-	-
+Hausfrau	Hausfrau	Hausfrau	NN	N.Reg.Acc.Sg.Fem	no	-	frame.4	speaker.4	-	-
+begann	begann	beginnen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.4	-	intexpr.4	-
+:	:	:	$.	SYM.Pun.Colon	no	-	frame.4	-	-	-
+»	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	yes	direct.speech.4	-	-	-	-
+Im	Im	im	APPRART	APPRART.Dat.Sg.Masc	no	direct.speech.4	-	-	-	-
+Anfang	Anfang	Anfang	NN	N.Reg.Dat.Sg.Masc	no	direct.speech.4	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct.speech.4	-	-	-	-
+das	das	d	ART	ART.Def.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+Wort	Wort	Wort	NN	N.Reg.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.speech.4	-	-	-	-
+das	das	d	ART	ART.Def.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+Wort	Wort	Wort	NN	N.Reg.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct.speech.4	-	-	-	-
+bei	bei	bei	APPR	APPR.Dat	no	direct.speech.4	-	-	-	-
+Gott	Gott	Gott	NN	N.Reg.Dat.Sg.Masc	no	direct.speech.4	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct.speech.4	-	-	-	-
+Gott	Gott	Gott	NN	N.Reg.Dat.Sg.Masc	no	direct.speech.4	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct.speech.4	-	-	-	-
+das	das	d	ART	ART.Def.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+Wort	Wort	Wort	NN	N.Reg.Nom.Sg.Neut	no	direct.speech.4	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct.speech.4	-	-	-	-
+«	&quot;	&quot;	$(	CARD	no	direct.speech.4	-	-	-	-
+Ein	Ein	eine	ART	ART.Indef.Nom.Sg.Masc	yes	-	-	-	-	-
+furchtbarer	furchtbarer	furchtbar	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Donnerschlag	Donnerschlag	Donnerschlag	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Alle	Alle	alle	PIS	PRO.Indef.Subst.-.Nom.Pl.*	yes	-	-	-	-	-
+fuhren	fuhren	fahren	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+zusammen	zusammen	zusammen	PTKVZ	PART.Verb	no	-	-	-	-	-
+;	;	;	$.	SYM.Pun.Sent	no	-	-	-	-	-
+dann	dann	dann	ADV	ADV	no	-	-	-	-	-
+furchtbares	furchtbares	furchtbar	ADJA	ADJA.Pos.Nom.Sg.Neut	no	-	-	-	-	-
+Geschrei	Geschrei	Geschrei	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Getümmel	Getümmel	Getümmel	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Treppe	Treppe	Treppe	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+heran	heran	heran	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+–	-	-	$(	SYM.Pun.Hyph	yes	-	-	-	-	-
+»	&quot;	&quot;	$(	N.Reg.Nom.Sg.Masc	no	direct.speech.5	-	-	-	-
+Um	Um	um	KOUI	APPR.Acc	no	direct.speech.5	-	-	-	-
+Gottes	Gottes	Gott	NN	N.Name.Gen.Sg.Masc	no	direct.speech.5	-	-	-	-
+willen	Willen	Willen	NN	N.Reg.Acc.Sg.Masc	no	direct.speech.5	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.5	-	-	-	-
+Brennt	Brennt	brennen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	yes	direct.speech.5	-	-	-	-
+es	es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	direct.speech.5	-	-	-	-
+?	?	?	$.	SYM.Pun.Sent	no	direct.speech.5	-	-	-	-
+«	&quot;	&quot;	$(	N.Name.Nom.Sg.*	no	direct.speech.5	-	-	-	-
+rief	rief	rufen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.5	-	intexpr.5	-
+Frau	Frau	Frau	NN	N.Reg.Acc.Sg.Fem	no	-	frame.5	speaker.5	-	-
+von	von	von	APPR	APPR.Dat	no	-	frame.5	speaker.5	-	-
+S.	S.	S.	NN	N.Reg.Dat.Sg.Fem	no	-	frame.5	speaker.5	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sank	sank	sinken	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	-	-	-	-	-
+dem	dem	d	ART	ART.Def.Dat.Sg.Neut	no	-	-	-	-	-
+Gesichte	Gesichte	Gesicht	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+auf	auf	auf	APPR	APPR.Auf	no	-	-	-	-	-
+den	den	d	ART	ART.Def.Acc.Sg.Masc	no	-	-	-	-	-
+Stuhl	Stuhl	Stuhl	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	Die	d	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Türe	Türe	Türe	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+ward	wurde	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+aufgerissen	aufgerissen	aufreissen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+herein	herein	herein	PTKVZ	ADV	no	-	-	-	-	-
+stürzte	stürzte	stürzen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+Frau	Frau	Frau	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+des	des	d	ART	ART.Def.Gen.Sg.Masc	no	-	-	-	-	-
+Juden	Juden	Jude	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+Aaron	Aaron	Aaron	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+bleich	bleich	bleich	ADJD	ADJD.Pos	no	-	-	-	-	-
+wie	wie	wie	KOKOM	CONJ.Comp.-	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Tod	Tod	Tod	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+das	das	d	ART	ART.Def.Acc.Sg.Neut	no	-	-	-	-	-
+Haar	Haar	Haar	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+wild	wild	wild	ADJD	ADJD.Pos	no	-	-	-	-	-
+um	um	um	APPR	APPR.Acc	no	-	-	-	-	-
+den	den	d	ART	ART.Def.Acc.Sg.Masc	no	-	-	-	-	-
+Kopf	Kopf	Kopf	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	-	-	-	-	-
+Regen	Regen	Regen	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+triefend	triefend	triefen	VVPP	ADJD.Pos	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Sie	Sie	sie	PPER	PRO.Pers.Subst.3.Nom.Sg.Fem	yes	-	-	-	-	-
+warf	warf	werfen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+sich	sich	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+vor	vor	vor	APPR	APPR.Vor	no	-	-	-	-	-
+dem	dem	d	ART	ART.Def.Dat.Sg.Masc	no	-	-	-	-	-
+Gutsherrn	Gutsherrn	Gutsherr	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+auf	auf	auf	APPR	APPR.Auf	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Acc.Pl.Neut	no	-	-	-	-	-
+Knie	Knie	Knie	NN	N.Reg.Acc.Pl.Neut	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+»	&quot;	&quot;	$(	ADJA.Pos.Acc.Sg.Fem	yes	direct.speech.6	-	-	-	-
+Gerechtigkeit	Gerechtigkeit	Gerechtigkeit	NN	N.Reg.Acc.Sg.Fem	no	direct.speech.6	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.6	-	-	-	-
+«	&quot;	&quot;	$(	N.Reg.Acc.Sg.Neut	no	direct.speech.6	-	-	-	-
+rief	rief	rufen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.6	-	intexpr.6	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Sg.Fem	no	-	frame.6	speaker.6	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	frame.6	-	-	-
+»	&quot;	&quot;	$(	CARD	no	direct.speech.6	-	-	-	-
+Gerechtigkeit	Gerechtigkeit	Gerechtigkeit	NN	N.Reg.Acc.Sg.Fem	no	direct.speech.6	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.6	-	-	-	-
+Mein	Mein	mein	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Masc	yes	direct.speech.6	-	-	-	-
+Mann	Mann	Mann	NN	N.Reg.Nom.Sg.Masc	no	direct.speech.6	-	-	-	-
+ist	ist	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct.speech.6	-	-	-	-
+erschlagen	erschlagen	erschlagen	VVPP	VPP.Full.Psp	no	direct.speech.6	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.6	-	-	-	-
+«	&quot;	&quot;	$(	N.Reg.Acc.Sg.Neut	no	direct.speech.6	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sank	sank	sinken	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ohnmächtig	ohnmächtig	ohnmächtig	ADJD	ADJD.Pos	no	-	-	-	-	-
+zusammen	zusammen	zusammen	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Es	Es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	-	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+nur	nur	nur	ADV	ADV	no	-	-	-	-	-
+zu	zu	zu	PTKA	PART.Deg	no	-	-	-	-	-
+wahr	wahr	wahr	ADJD	ADJD.Pos	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+nachfolgende	nachfolgende	nachfolgend	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	-	-	-	-
+Untersuchung	Untersuchung	Untersuchung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+bewies	bewies	beweisen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Jude	Jude	Jude	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+Aaron	Aaron	Aaron	NN	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+durch	durch	durch	APPR	APPR.Acc	no	-	-	-	-	-
+einen	einen	eine	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+Schlag	Schlag	Schlag	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+an	an	an	APPR	APPR.An	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Schläfe	Schläfe	Schläfe	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	-	-	-	-	-
+einem	einem	eine	ART	ART.Indef.Dat.Sg.Neut	no	-	-	-	-	-
+stumpfen	stumpfen	stumpf	ADJA	ADJA.Pos.Dat.Sg.Neut	no	-	-	-	-	-
+Instrumente	Instrumente	Instrument	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+wahrscheinlich	wahrscheinlich	wahrscheinlich	ADJD	ADJD.Pos	no	-	-	-	-	-
+einem	einem	eine	PIS	ART.Indef.Dat.Sg.Masc	no	-	-	-	-	-
+Stabe	Stabe	staben	VVFIN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+sein	sein	sein	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Neut	no	-	-	-	-	-
+Leben	Leben	Leben	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+verloren	verloren	verlieren	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+durch	durch	durch	APPR	APPR.Acc	no	-	-	-	-	-
+einen	einen	eine	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+einzigen	einzigen	einzig	ADJA	ADJA.Pos.Acc.Sg.Masc	no	-	-	-	-	-
+Schlag	Schlag	Schlag	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+An	An	an	APPR	APPR.An	yes	-	-	-	-	-
+der	der	d	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+linken	linken	link	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	-	-	-	-
+Schläfe	Schläfe	Schläfe	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+blaue	blaue	blau	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Fleck	Fleck	Fleck	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+sonst	sonst	sonst	ADV	ADV	no	-	-	-	-	-
+keine	keine	keine	PIAT	PRO.Indef.Attr.-.Acc.Sg.Fem	no	-	-	-	-	-
+Verletzung	Verletzung	Verletzung	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	-	-	-	-	-
+finden	finden	finden	VVINF	VINF.Full.-	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	Die	d	ART	ART.Def.Nom.Pl.Fem	yes	-	frame.7	-	-	-
+Aussagen	Aussagen	Aussage	NN	N.Reg.Nom.Pl.Fem	no	-	frame.7	-	intexpr.7	-
+der	der	d	ART	ART.Def.Gen.Sg.Fem	no	-	frame.7	-	-	-
+Jüdin	Jüdin	Judein	NN	N.Reg.Gen.Sg.Fem	no	-	frame.7	speaker.7	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	frame.7	-	-	-
+ihres	ihres	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Masc	no	-	frame.7	-	-	-
+Knechtes	Knechtes	Knecht	NN	N.Reg.Gen.Sg.Masc	no	-	frame.7	-	-	-
+Samuel	Samuel	Samuel	NE	N.Name.Nom.Sg.Masc	no	-	frame.7	speaker.7	-	-
+lauteten	lauteten	lauten	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	frame.7	-	-	-
+so	so	so	ADV	ADV	no	-	frame.7	-	-	-
+:	:	:	$.	SYM.Pun.Colon	no	-	frame.7	-	-	-
+Aaron	Aaron	Aaron	NE	N.Name.Nom.Sg.Masc	yes	direct freeIndirect.speech.7	frame.8	speaker.8	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	frame.8	-	-	-
+vor	vor	vor	APPR	APPR.Vor	no	direct freeIndirect.speech.7	frame.8	-	-	-
+drei	drei	drei	CARD	CARD	no	direct freeIndirect.speech.7	frame.8	-	-	-
+Tagen	Tagen	Tag	NN	N.Reg.Dat.Pl.Masc	no	direct freeIndirect.speech.7	frame.8	-	-	-
+am	am	am	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	frame.8	-	-	-
+Nachmittage	Nachmittage	Nachmittag	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	frame.8	-	-	-
+ausgegangen	ausgegangen	ausgehen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	frame.8	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	frame.8	-	-	-
+um	um	um	KOUI	CONJ.SubInf.-	no	direct freeIndirect.speech.7	frame.8	-	-	-
+Vieh	Vieh	Vieh	NN	N.Reg.Acc.Sg.Neut	no	direct freeIndirect.speech.7	frame.8	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct freeIndirect.speech.7	frame.8	-	-	-
+kaufen	kaufen	kaufen	VVINF	VINF.Full.-	no	direct freeIndirect.speech.7	frame.8	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	frame.8	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	frame.8	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	frame.8	-	-	-
+dabei	dabei	dabei	PAV	PROADV.Dem	no	direct freeIndirect.speech.7	frame.8	-	-	-
+gesagt	gesagt	sagen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	frame.8	-	intexpr.8	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	frame.8	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+werde	werde	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Subj	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+wohl	wohl	wohl	ADV	ADV	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+über	über	über	APPR	APPR.über	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+Nacht	Nacht	Nacht	NN	N.Reg.Acc.Sg.Fem	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+ausbleiben	ausbleiben	ausbleiben	VVINF	VINF.Full.-	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7|indirect.speech.8	-	-	-	-
+da	da	da	KOUS	CONJ.SubFin.-	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+noch	noch	noch	ADV	ADV	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+einige	einige	einige	PIAT	PRO.Indef.Attr.-.Nom.Pl.Masc	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+böse	böse	böse	ADJA	ADJA.Pos.Nom.Pl.Masc	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+Schuldner	Schuldner	Schuldner	NN	N.Reg.Nom.Pl.Masc	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+B.	B.	B.	NN	N.Name.*.*.*	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+S.	S.	S.	NN	N.Name.*.*.*	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+mahnen	mahnen	mahnen	VVFIN	VINF.Full.-	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+seien	seien	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Subj	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7|indirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+In	In	in	APPR	APPR.In	yes	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+diesem	diesem	diese	PDAT	PRO.Dem.Attr.-.Dat.Sg.Masc	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+Falle	Falle	Falle	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+werde	werde	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Subj	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+B.	B.	B.	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+beim	beim	beim	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+Schlächter	Schlächter	Schlächter	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+Salomon	Salomon	Salomon	NE	N.Name.Nom.Sg.*	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+übernachten	übernachten	übernachten	VVINF	VINF.Full.-	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7|indirect freeIndirect.speech.10	-	-	-	-
+Als	Als	als	KOUS	CONJ.SubFin.-	yes	direct freeIndirect.speech.7	-	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+am	am	am	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+folgenden	folgenden	folgend	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Tage	Tage	Tag	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+nicht	nicht	nicht	PTKNEG	PART.Neg	no	direct freeIndirect.speech.7	-	-	-	-
+heimkehrte	heimkehrte	heimkehren	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+seine	seine	seine	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Fem	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+Frau	Frau	Frau	NN	N.Reg.Nom.Sg.Fem	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+sehr	sehr	sehr	ADV	ADV	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+besorgt	besorgt	besorgt	ADJD	VPP.Full.Psp	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+geworden	geworden	werden	VAPP	VPP.Aux.Psp	no	direct freeIndirect.speech.7|reported.thought.11.border=feel	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+sich	sich	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	direct freeIndirect.speech.7	-	-	-	-
+endlich	endlich	endlich	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+heute	heute	heute	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+um	um	um	APPR	APPR.Acc	no	direct freeIndirect.speech.7	-	-	-	-
+drei	drei	drei	CARD	CARD	no	direct freeIndirect.speech.7	-	-	-	-
+nachmittags	nachmittags	nachmittags	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct freeIndirect.speech.7	-	-	-	-
+Begleitung	Begleitung	Begleitung	NN	N.Reg.Dat.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+ihres	ihres	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Knechtes	Knechtes	Knecht	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+des	des	d	ART	ART.Def.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+großen	großen	groß	ADJA	ADJA.Pos.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Schlächterhundes	Schlächterhundes	Schlächterhund	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+auf	auf	auf	APPR	APPR.Auf	no	direct freeIndirect.speech.7	-	-	-	-
+den	den	d	ART	ART.Def.Acc.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Weg	Weg	Weg	NN	N.Reg.Acc.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gemacht	gemacht	machen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Beim	Beim	beim	APPRART	APPRART.Dat.Sg.Masc	yes	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+Juden	Juden	Jude	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+Salomon	Salomon	Salomon	NE	N.Name.Dat.Sg.*	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+wußte	wußte	wissen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+man	man	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+nichts	nichts	nichts	PIS	PRO.Indef.Subst.-.*.*.Neut	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+Aaron	Aaron	Aaron	NE	N.Name.Nom.Sg.Masc	no	direct freeIndirect.speech.7|reported.thought.12.nonfact.border=state	-	-	-	-
+;	;	;	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+gar	gar	gar	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+nicht	nicht	nicht	PTKNEG	PART.Neg	no	direct freeIndirect.speech.7	-	-	-	-
+da	da	da	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+gewesen	gewesen	sein	VAPP	VPP.Sein.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Nun	Nun	nun	ADV	ADV	yes	direct freeIndirect.speech.7	-	-	-	-
+waren	waren	sein	VAFIN	VFIN.Sein.3.Pl.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	direct freeIndirect.speech.7	-	-	-	-
+zu	zu	zu	PTKA	APPR.Dat	no	direct freeIndirect.speech.7	-	-	-	-
+allen	allen	alle	PIAT	PRO.Indef.Attr.-.Dat.Pl.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Bauern	Bauern	Bauer	NN	N.Reg.Dat.Pl.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gegangen	gegangen	gehen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	direct freeIndirect.speech.7	frame.13	-	-	-
+denen	denen	die	PRELS	PRO.Rel.Subst.-.Dat.Pl.Masc	no	direct freeIndirect.speech.7	frame.13	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	direct freeIndirect.speech.7	frame.13	speaker.13	-	-
+wußten	wußten	wissen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	direct freeIndirect.speech.7	frame.13	-	intexpr.13	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	frame.13	-	-	-
+daß	daß	daß	KOUS	CONJ.SubFin.-	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+Aaron	Aaron	Aaron	NE	N.Name.Nom.Sg.Masc	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+einen	einen	eine	ART	ART.Indef.Acc.Sg.Masc	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+Handel	Handel	Handel	NN	N.Reg.Acc.Sg.Masc	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+ihnen	ihnen	sie	PPER	PRO.Pers.Subst.3.Dat.Pl.*	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Neut	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+Auge	Auge	Auge	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7|indirect.thought.13.border=state|reported.thought.14.border=state	-	-	-	-
+Nur	Nur	nur	ADV	ADV	yes	direct freeIndirect.speech.7	-	-	-	-
+zwei	zwei	zwei	CARD	CARD	no	direct freeIndirect.speech.7	-	-	-	-
+hatten	hatten	haben	VAFIN	VFIN.Haben.3.Pl.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+ihn	ihn	er	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gesehen	gesehen	sehen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+zwar	zwar	zwar	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+an	an	an	APPR	APPR.An	no	direct freeIndirect.speech.7	-	-	-	-
+demselben	demselben	demselben	PDAT	PRO.Dem.Attr.-.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Tage	Tage	Tag	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+an	an	an	APPR	APPR.An	no	direct freeIndirect.speech.7	-	-	-	-
+welchem	welchem	welche	PRELS	PRO.Rel.Subst.-.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+er	er	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+ausgegangen	ausgegangen	ausgehen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Es	Es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	direct freeIndirect.speech.7	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+darüber	darüber	darüber	PAV	PROADV.Dem	no	direct freeIndirect.speech.7	-	-	-	-
+sehr	sehr	sehr	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+spät	spät	spät	ADJD	ADJD.Pos	no	direct freeIndirect.speech.7	-	-	-	-
+geworden	geworden	werden	VAPP	VPP.Aux.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Die	Die	d	ART	ART.Def.Nom.Sg.Fem	yes	direct freeIndirect.speech.7	-	-	-	-
+große	große	groß	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+Angst	Angst	Angst	NN	N.Reg.Nom.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+trieb	trieb	treiben	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+das	das	d	ART	ART.Def.Acc.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Weib	Weib	Weib	NN	N.Reg.Acc.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+nach	nach	nach	APPR	APPR.Dat	no	direct freeIndirect.speech.7	-	-	-	-
+Haus	Haus	Haus	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+wo	wo	wo	PWAV	PROADV.Inter	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+ihren	ihren	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Masc	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+Mann	Mann	Mann	NN	N.Reg.Acc.Sg.Masc	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+wiederzufinden	wiederzufinden	wiederfinden	VVIZU	VINF.Full.zu	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+eine	eine	eine	ART	ART.Indef.Acc.Sg.Fem	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+schwache	schwache	schwach	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+Hoffnung	Hoffnung	Hoffnung	NN	N.Reg.Acc.Sg.Fem	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+nährte	nährte	nähren	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7|reported.thought.15.border=feel	-	-	-	-
+So	So	so	ADV	ADV	yes	direct freeIndirect.speech.7	-	-	-	-
+waren	waren	sein	VAFIN	VFIN.Sein.3.Pl.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	direct freeIndirect.speech.7	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Brederholz	Brederholz	Brederholz	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+vom	vom	vom	APPRART	APPRART.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Gewitter	Gewitter	Gewitter	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+überfallen	überfallen	überfällen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+worden	worden	werden	VAPP	VPP.Aux.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+hatten	hatten	haben	VAFIN	VFIN.Haben.3.Pl.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+unter	unter	unter	APPR	APPR.Unter	no	direct freeIndirect.speech.7	-	-	-	-
+einer	einer	eine	ART	ART.Indef.Dat.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+großen	großen	groß	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+am	am	am	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Berghange	Berghange	Berghang	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+stehenden	stehenden	stehend	ADJA	ADJA.Pos.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Buche	Buche	Buche	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Schutz	Schutz	Schutz	NN	N.Reg.Acc.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gesucht	gesucht	suchen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+;	;	;	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Hund	Hund	Hund	NN	N.Reg.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+unterdessen	unterdessen	unterdessen	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+auf	auf	auf	APPR	APPR.Auf	no	direct freeIndirect.speech.7	-	-	-	-
+eine	eine	eine	ART	ART.Indef.Acc.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+auffallende	auffallende	auffallend	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+Weise	Weise	Weise	NN	N.Reg.Acc.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+umhergestöbert	umhergestöbert	umherstöbern	VVPP	VFIN.Full.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+sich	sich	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	direct freeIndirect.speech.7	-	-	-	-
+endlich	endlich	endlich	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+trotz	trotz	trotz	APPR	APPR.Gen	no	direct freeIndirect.speech.7	-	-	-	-
+allem	allem	alle	PIS	PRO.Indef.Subst.-.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Locken	Locken	Locke	NN	N.Reg.Acc.Pl.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Walde	Walde	Wald	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+verlaufen	verlaufen	verlaufen	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Mit	Mit	mit	APPR	APPR.Dat	yes	direct freeIndirect.speech.7	-	-	-	-
+einemmale	einemmal	einemmal	ADV	N.Name.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+sieht	sieht	sehen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+Frau	Frau	Frau	NN	N.Reg.Nom.Sg.Fem	no	direct freeIndirect.speech.7	-	-	-	-
+beim	beim	beim	APPRART	APPRART.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Leuchten	Leuchten	Leuchte	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+des	des	d	ART	ART.Def.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Blitzes	Blitzes	Blitz	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+etwas	etwas	etwas	PIAT	PRO.Indef.Subst.-.*.*.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Weißes	Weißes	Weiß	NN	ADJA.Pos.Nom.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+neben	neben	neben	APPR	APPR.Nom	no	direct freeIndirect.speech.7	-	-	-	-
+sich	sich	sich	PRF	PRO.Refl.Subst.3.Dat.Sg.*	no	direct freeIndirect.speech.7	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Moose	Moose	Moos	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Es	Es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	direct freeIndirect.speech.7	-	-	-	-
+ist	ist	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Stab	Stab	Stab	NN	N.Reg.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+ihres	ihres	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Mannes	Mannes	Mann	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+fast	fast	fast	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+selben	selben	selb	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Augenblicke	Augenblicke	Augenblick	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+bricht	bricht	brechen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Hund	Hund	Hund	NN	N.Reg.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+durchs	durchs	durchs	APPRART	APPRART.Acc.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Gebüsch	Gebüsch	Gebüsch	NN	N.Reg.Acc.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	direct freeIndirect.speech.7	-	-	-	-
+trägt	trägt	tragen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+etwas	etwas	etwas	PIS	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+Maule	Maule	Maul	NN	N.Reg.Dat.Sg.Neut	no	direct freeIndirect.speech.7	-	-	-	-
+:	:	:	$.	SYM.Pun.Colon	no	direct freeIndirect.speech.7	-	-	-	-
+es	es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	direct freeIndirect.speech.7	-	-	-	-
+ist	ist	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Schuh	Schuh	Schuh	NN	N.Reg.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+ihres	ihres	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Mannes	Mannes	Mann	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+Nicht	Nicht	nicht	PTKNEG	PART.Neg	yes	direct freeIndirect.speech.7	-	-	-	-
+lange	lange	lange	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct freeIndirect.speech.7	-	-	-	-
+so	so	so	ADV	ADV	no	direct freeIndirect.speech.7	-	-	-	-
+ist	ist	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct freeIndirect.speech.7	-	-	-	-
+in	in	in	APPR	APPR.In	no	direct freeIndirect.speech.7	-	-	-	-
+einem	einem	eine	ART	ART.Indef.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+mit	mit	mit	APPR	APPR.Dat	no	direct freeIndirect.speech.7	-	-	-	-
+dürrem	dürrem	dürr	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Laube	Laube	Laube	NN	N.Name.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gefüllten	gefüllten	gefüllt	ADJA	ADJA.Pos.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Graben	Graben	Graben	NN	N.Reg.Dat.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Leichnam	Leichnam	Leichnam	NN	N.Reg.Nom.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+des	des	d	ART	ART.Def.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+Juden	Juden	Jude	NN	N.Reg.Gen.Sg.Masc	no	direct freeIndirect.speech.7	-	-	-	-
+gefunden	gefunden	finden	VVPP	VPP.Full.Psp	no	direct freeIndirect.speech.7	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	direct freeIndirect.speech.7	-	-	-	-
+–	-	-	$(	SYM.Pun.Hyph	yes	-	-	-	-	-
+Dies	Dies	diese	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	yes	reported.speech.16	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	reported.speech.16	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Sg.Fem	no	reported.speech.16	-	-	-	-
+Angabe	Angabe	Angabe	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.16	-	-	-	-
+des	des	d	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.16	-	-	-	-
+Knechtes	Knechtes	Knecht	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.16	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	reported.speech.21	-	-	-	-
+der	der	d	ART	ART.Def.Dat.Sg.Fem	no	reported.speech.21	-	-	-	-
+Frau	Frau	Frau	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.21	-	-	-	-
+nur	nur	nur	ADV	ADV	no	reported.speech.21	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Neut	no	reported.speech.21	-	-	-	-
+allgemeinen	allgemeinen	allgemein	ADJA	ADJA.Pos.Dat.Sg.Neut	no	reported.speech.21	-	-	-	-
+unterstützt	unterstützt	unterstützen	VVPP	VPP.Full.Psp	no	reported.speech.21	-	-	-	-
+;	;	;	$.	SYM.Pun.Sent	no	-	-	-	-	-
+ihre	ihre	ihr	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Fem	no	-	-	-	-	-
+übergroße	übergroße	übergroß	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	-	-	-	-
+Spannung	Spannung	Spannung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+hatte	hatte	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	-	-	-	-	-
+nachgelassen	nachgelassen	nachlassen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+und	und	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Sg.Fem	no	-	-	-	-	-
+schien	schien	scheinen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+jetzt	jetzt	jetzt	ADV	ADV	no	-	-	-	-	-
+halb	halb	halb	ADJD	ADJD.Pos	no	-	-	-	-	-
+verwirrt	verwirrt	verwirrt	ADJD	ADJD.Pos	no	-	-	-	-	-
+oder	oder	oder	KON	CONJ.Coord.-	no	-	-	-	-	-
+vielmehr	vielmehr	vielmehr	ADV	ADV	no	-	-	-	-	-
+stumpfsinnig	stumpfsinnig	stumpfsinnig	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+–	-	-	$(	SYM.Pun.Hyph	yes	-	-	-	-	-
+»	&quot;	&quot;	$(	ADJA.Pos.Acc.Sg.Neut	no	direct.speech.17	-	-	-	-
+Aug	Auge	Auge	NN	N.Reg.Acc.Sg.Neut	no	direct.speech.17	-	-	-	-
+'	'	'	$(	SYM.Quot.Right	no	direct.speech.17	-	-	-	-
+um	um	um	APPR	APPR.Acc	no	direct.speech.17	-	-	-	-
+Auge	Auge	Auge	NN	N.Reg.Acc.Sg.Neut	no	direct.speech.17	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	direct.speech.17	-	-	-	-
+Zahn	Zahn	Zahn	NN	N.Reg.Acc.Sg.Masc	no	direct.speech.17	-	-	-	-
+um	um	um	APPR	APPR.Acc	no	direct.speech.17	-	-	-	-
+Zahn	Zahn	Zahn	NN	N.Reg.Acc.Sg.Masc	no	direct.speech.17	-	-	-	-
+!	!	!	$.	SYM.Pun.Sent	no	direct.speech.17	-	-	-	-
+«	&quot;	&quot;	$(	CARD	no	direct.speech.17	-	-	-	-
+dies	dies	diese	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	no	-	frame.17	-	-	-
+waren	waren	sein	VAFIN	VFIN.Sein.3.Pl.Past.Ind	no	-	frame.17	-	-	-
+die	die	d	ART	ART.Def.Nom.Pl.Neut	no	-	frame.17	-	-	-
+einzigen	einzigen	einzig	ADJA	ADJA.Pos.Nom.Pl.Neut	no	-	frame.17	-	-	-
+Worte	Worte	Wort	NN	N.Reg.Nom.Pl.Neut	no	-	frame.17	-	intexpr.17	-
+,	,	,	$,	SYM.Pun.Comma	no	-	frame.17	-	-	-
+die	die	die	PRELS	PRO.Rel.Subst.-.Acc.Pl.Neut	no	-	frame.17	-	-	-
+sie	sie	sie	PPER	PRO.Pers.Subst.3.Nom.Sg.Fem	no	-	frame.17	speaker.17	-	-
+zuweilen	zuweilen	zuweilen	ADV	ADV	no	-	frame.17	-	-	-
+hervorstieß	hervorstieß	hervorstoßen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.17	-	intexpr.17	-
+.	.	.	$.	SYM.Pun.Sent	no	-	frame.17	-	-	-
+In	In	in	APPR	APPR.In	yes	-	-	-	-	-
+derselben	derselben	dieselbe	PDAT	PRO.Dem.Attr.-.Dat.Sg.Fem	no	-	-	-	-	-
+Nacht	Nacht	Nacht	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+noch	noch	noch	ADV	ADV	no	-	-	-	-	-
+wurden	wurden	werden	VAFIN	VFIN.Aux.3.Pl.Past.Ind	no	-	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Pl.Masc	no	-	-	-	-	-
+Schützen	Schützen	Schütze	NN	N.Reg.Nom.Pl.Masc	no	-	-	-	-	-
+aufgeboten	aufgeboten	aufbieten	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+um	um	um	KOUI	CONJ.SubInf.-	no	-	-	-	-	-
+Friedrich	Friedrich	Friedrich	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+zu	zu	zu	PTKZU	PART.Zu	no	-	-	-	-	-
+verhaften	verhaften	verhaften	VVINF	VINF.Full.-	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Der	Der	d	ART	PRO.Dem.Subst.-.Nom.Sg.Masc	yes	reported.speech.18.nonfact	-	-	-	-
+Anklage	Anklage	Anklage	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.18.nonfact	-	-	-	-
+bedurfte	bedurfte	bedürfen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.speech.18.nonfact	-	-	-	-
+es	es	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.speech.18.nonfact	-	-	-	-
+nicht	nicht	nicht	PTKNEG	PART.Neg	no	reported.speech.18.nonfact	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+da	da	da	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+Herr	Herr	Herr	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	-	-	-	-	-
+S.	S.	S.	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+selbst	selbst	selbst	ADV	ADV	no	-	-	-	-	-
+Zeuge	Zeuge	Zeuge	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+eines	eines	eine	ART	ART.Indef.Gen.Sg.Masc	no	-	-	-	-	-
+Auftritts	Auftritts	Auftritt	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+gewesen	gewesen	sein	VAPP	VPP.Sein.Psp	no	-	-	-	-	-
+war	war	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	der	die	PRELS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	reported.thought.19	-	-	-	-
+den	den	d	ART	ART.Def.Acc.Sg.Masc	no	reported.thought.19	-	-	-	-
+dringendsten	dringendsten	dringend	ADJA	ADJA.Sup.Acc.Sg.Masc	no	reported.thought.19	-	-	-	-
+Verdacht	Verdacht	Verdacht	NN	N.Reg.Acc.Sg.Masc	no	reported.thought.19	-	-	-	-
+auf	auf	auf	APPR	APPR.Auf	no	reported.thought.19	-	-	-	-
+ihn	ihn	er	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	reported.thought.19	-	-	-	-
+werfen	werfen	werfen	VVINF	VINF.Full.-	no	reported.thought.19	-	-	-	-
+mußte	mußte	müssen	VMFIN	VFIN.Mod.3.Sg.Past.Ind	no	reported.thought.19	-	-	-	-
+;	;	;	$.	SYM.Pun.Sent	no	-	-	-	-	-
+zudem	zudem	zudem	PAV	PROADV.Dem	no	reported.speech.20	-	-	-	-
+die	die	d	ART	ART.Def.Nom.Sg.Fem	no	reported.speech.20	-	-	-	-
+Gespenstergeschichte	Gespenstergeschichte	Gespenstergeschichte	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.20	-	-	-	-
+von	von	von	APPR	APPR.Dat	no	reported.speech.20	-	-	-	-
+jenem	jenem	jen	PDAT	PRO.Dem.Attr.-.Dat.Sg.Masc	no	reported.speech.20	-	-	-	-
+Abende	Abende	Abend	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.20	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+das	das	d	ART	ART.Def.Nom.Sg.Neut	no	-	-	-	-	-
+Aneinanderschlagen	Aneinanderschlagen	Aneinanderschlagen	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Gen.Pl.Masc	no	-	-	-	-	-
+Stäbe	Stäbe	Stab	NN	N.Reg.Gen.Pl.Masc	no	-	-	-	-	-
+im	im	im	APPRART	APPRART.Dat.Sg.Neut	no	-	-	-	-	-
+Brederholz	Brederholz	Brederholz	NE	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+,	,	,	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Schrei	Schrei	Schrei	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+aus	aus	aus	APPR	APPR.Dat	no	-	-	-	-	-
+der	der	d	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Höhe	Höhe	Höhe	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+.	.	.	$.	SYM.Pun.Sent	no	-	-	-	-	-

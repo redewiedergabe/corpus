@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Posten der Frau</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Der_Posten_der_Frau.tg45_1.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Der Posten der Frau</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><said id="2" mode="reported" content="speech" level="2">Ich danke Ihnen, Frau Gräfin, ich danke vieltausendmal!</said>«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Nun, auch ich habe keine Lust, mich lächerlich zu machen, und darum auf Wiedersehen in der Menuett, Herr Graf.«</said> 
+                  <said id="4" mode="reported" content="speech" level="1">Mit dieser Schlußerklärung</said> und einer spöttischen Verbeugung wendete die stolze Dame sich nach der Tür; der gereizte Eheherr aber schien nicht geneigt, als Überwundener auf dem Kampfplatze sich mit dem Nachsehen zu begnügen. <said id="5" mode="direct" content="speech" level="1">»Lore, du bleibst!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">rief</seg> <seg id="5" type="speaker">er</seg> aufgebracht</seg>, sie bei der Hand zurückhaltend. Da aber just der Urheber seines Unwillens in den Saal zurückkehrte, führte er diese Hand mit bewundernswerter Fassung in tändelnder, ehemännischer Laune an seine Lippen. Seine Gemahlin entzog sie ihm rasch mit verächtlicher Miene; unwillkürlich strich sie mit den Kanten ihres Taschentuches darüberhin, als ob sie die Spuren heuchlerischer Feigheit von ihrem Körper löschen wollte. 
+                  Herr von Crillon war unterdessen näher getreten, <said id="6" mode="reported" content="speech" level="1">der schönen Frau mit einer schmeichelhaften Apostrophe</said>, würdig eines Voltaire, <said id="7" mode="reported" content="thought" level="1" nonfact="yes" border="yes">leider aber unsrer Kenntnis verbaliter nicht aufbewahrt</said>, ein Bukett feinster, den natürlichen gleich duftender Pariser Blumen darbietend. Stumm, geteilt zwischen Verlangen und Verlegenheit, zögerte sie, es entgegenzunehmen, bis der Gemahl lächelnd, mit der glücklichsten Unbefangenheit die Mittlerrolle ergriff und, nicht ohne obligate Verbeugung gegen den Geber, es aus seiner Hand in die ihre legte. <said id="8" mode="direct" content="speech" level="1">»Mit dem Schwert in der Hand, oder mit dem Minnezeichen,«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">rief</seg> <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">aus</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»preux chevalier und <said id="9" mode="reported" content="thought" level="2" border="yes">seines Sieges gewiß.</said>«</said> 
+                  <said id="10" mode="reported" content="speech" level="1">Noch war der allseitige Dank und Gegendank für dieses kavaliere Impromptu in tiefen Reverenzen nicht erledigt</said>, <said id="11" mode="reported" content="speech" level="1">als der Kammerdiener von neuem auftrat, die harrende Equipage des Herrn Grafen anzumelden.</said> Der Herzog faßte die Fingerspitzen der Dame, sie ihrem Vehikel zuzuführen, der Eheherr blieb einen Moment im Saale zurück, den sich Entfernenden einen Blick nachschleudernd, so grimmig, als es seinem im Grunde ziemlich harmlosen Augenpaare möglich schien. 
+                  <said id="12" mode="direct" content="speech" level="1">»Sie trotzt mir,«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">murmelte</seg> <seg id="12" type="speaker">er</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">»Nun denn Trotz gegen Trotz, Madame. Noch ist es Zeit! Glücklicher Zufall, daß ich die Kundschaft oben bei dem Hildburghausen attrappiert habe. – Die Garnison rückt in der Frühe über den Fluß. Zurück, immer wieder zurück, dieser Soubise. Aber diesmal mir erwünscht. – Am Nachmittag brechen wir auf nach Dresden, nach Warschau, wenn es sein muß, sie darf, sie soll diesen Franzosen nicht wiedersehen.«</said> 
+                  Befriedigt lächelnd folgte er den Vorangegangenen und langte im Hausflur an, als eben die vergoldete Portechaise seiner Gemahlin aus derselben getragen ward. Gast und Wirt bestiegen alsobald die bereitstehende Karosse und fuhren einmütig selbander zu dem Feste, das zu Ehren der fremden Freunde und Erretter gefeiert werden sollte. In kaum einer Minute standen sie, des überholten Tragsessels harrend, in der Torfahrt zum »Goldenen Scheffel«. 
+                  <said id="14" mode="reported" content="thought" level="1" nonfact="yes">Die Kultur in unserm Städtchen war vor mehr als hundert Jahren keineswegs so weit gediehen, um auch die Propyläen einer Ergötzlichkeit einer Dekoration bedürftig zu erachten.</said> Der unverdeckte Rinnstein floß inmitten eines halsbrechenden Pflasters, der Blick in einen morastigen, mit Schuppen und Karren gefüllten Hof lag frei geöffnet, die Düfte nachbarlicher Ställe mischten sich mit denen des Wildbratens und polnischen Karpfens, mit dem Bier und Tabaksqualm, die aus Küche wie Schenkstube drangen. Der kurfürstliche Kammerherr bemerkte und erwiderte achselzuckend das epigrammatische Lächeln seines hohen Gastes von der Seine, dabei aber verneigte er sich höflich grüßend nach allen Seiten, reichte den eintretenden Huldinnen des Kreises seinen Arm zum Geleit bis an die Treppe, welche nach dem Tanzsaal im oberen Stockwerke führte, <said id="15" mode="reported" content="speech" level="1"><said id="20" mode="reported" content="thought" level="2">erinnerte die stattliche Gemahlin des Herrn Amtshauptmanns an <said id="16" mode="reported" content="speech" level="3">ihre Zusage der ersten Menuett</said></said></said>, küßte mehr als einer Schönen zum Willkomm die zarte Hand, er lächelte, <said id="17" mode="reported" content="speech" level="1">er lispelte</said>, <said id="19" mode="reported" content="speech" level="1">er witzelte</said>, er schwebte auf und nieder, mit einem Worte: er war ein würdiger Epigone der großen Epoche des galanten Sachsens, der kurfürstliche Kammerherr Moritz Graf von Fink; nicht das seelenkundigste Auge hätte auf dieser wolkenlosen Stirn gelesen, <said id="18" mode="reported" content="thought" level="1" border="yes">daß ein gewaltiger Entschluß in ihrem Innern reif geworden war.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

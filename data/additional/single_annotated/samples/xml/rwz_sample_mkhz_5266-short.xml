@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Tugendpreise.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig036_1843_9.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Tugendpreise.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Tugendpreise.
+                        
+            
+            
+               D ie Französische Akademie hat jährlich eine Anzahl von
+                        Preisen für tugendhafte Personen zu vertheilen, von denen
+                        zwei an Personen gekommen sind, die derselben allerdings
+                        sehr würdig sind. Einen Preis von 2000 Francs erhielt eine
+                        Magd von 76 Jahren, deren Beispiel von Aufopferung
+                        unsere innigste Bewunderung in Anspruch nimmt. Maria
+                        Girard, seit ihrem elften Jahre die einzige Stütze ihrer kranken Ältern, nahm nach deren Tode Dienste bei einer wohlhabenden Familie in Etampes. Während 39 Jahren
+                        ersparte sie sich 3200 Francs, die sie dem Geschäfte ihrer Herrschaft übergab; aber Unfälle kamen, brachen die
+                        Handlung und mit ihr ging das mühsam Errungene
+                        Mariens verloren. Die treue Dienerin aber, <said id="1" mode="reported" content="thought" level="1">sich als
+                        Glied der Familie betrachtend</said>, verließ die ins Elend Gerathenen nicht. Von ihrem Verdienste als Tagelöhnerin
+                        erhielt sie mehre Jahre lang zum Theil mit ihre Herrschaft. Jetzt gestalteten sich deren Verhältnisse günstiger
+                        und nach Verlauf einiger Zeit hatte Marie Girard wieder
+                        1200 Francs im Besitz. Hierauf errichtete der Sohn ihrer
+                        Herrschaft in Rouen ein Geschäft. Aber auch er geräth
+                        ins Unglück und wird krank. Die alte Magd, die ihm
+                        ihr Ersparniß übergeben hatte, reist zu ihm und pflegt
+                        ihn fünf Monate. Aber er stirbt und die Gläubiger nehmen Alles hinweg, Maria's Erspartes, selbst das Haus
+                        der Ältern des jungen Herrn. Nun stirbt auch die Mutter, und Maria Girard, weit entfernt, von so viel Unglück abgeschreckt zu sein, übernimmt die Verpflegung des
+                        alterschwachen Mannes, den sie bis jetzt mit ihrer Hände
+                        Arbeit unterstützt und <said id="2" mode="reported" content="thought" level="1" border="yes">dem sie selbst die gewohnte Unterhaltung zu verschaffen weiß.</said> -- Der zweite Preis, eine
+                        Ehrenmedaille von 1000 Francs an Werth, kam an die
+                        Tochter des Kaufmanns Josserand zu Provins, deren Ehrgefühl und aufopfernde Thätigkeit bewundernswerth sind.
+                        <seg id="3" type="frame" pos="start">Jn ihrem vierzehnten Jahre war <seg id="3" type="speaker">sie</seg> <seg id="3" type="intExpr">entschlossen</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">mit einem kleinen Ersparniß in ein Kloster zu gehen</said>, als ihr
+                        Vater zahlungsunfähig ward und nach Verlust seiner
+                        ganzen Habe noch 4000 Francs schuldig blieb. <said id="4" mode="reported" content="thought" level="1">Jetzt änderte sie ihren Entschluß.</said> Das junge Mädchen übernahm
+                        den Unterhalt der ganzen Familie, Vater, Mutter, Großmutter und jüngerer Bruder, und nach zwanzig Jahren
+                        der unermüdlichsten Arbeit hatte sie nicht nur die Schulden ihres Vaters bezahlt, sondern ihren Bruder auch so
+                        weit gebracht, daß er ein eigenes Geschäft gründen konnte.
+                        Solche Erfolge haben die Thätigkeit, der Fleiß und die
+                        Sparsamkeit, wenn sie von Liebe geleitet werden.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

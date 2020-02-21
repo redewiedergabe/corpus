@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Rüstungen des Kaisers Napoleon.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341807_362043.txt_36.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Rüstungen des Kaisers Napoleon.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="17" mode="reported" content="speech" level="1">Die luxemburger Frage</said> ist völlig vom Tisch ge 
+            
+            schoben. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Wir</seg> <seg id="1" type="intExpr">wissen</seg> zwar,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß die Festung in Wahrheit nicht geschleift wird</said>,
+                        wie doch der Vertrag bestimmte, und daß von Frankreich her unaufhörlich
+                        die Katzenpfoten danach ausgestreckt werden, aber die Bundesregierung will
+                        das nicht sehen und <said id="2" mode="reported" content="speech" level="1" nonfact="yes">hat darüber keinerlei Bemerkungen gemacht.</said> <said id="18" mode="reported" content="speech" level="1">Alle andern
+                        Fragen</said>, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">welche von deutschen Verräthern und fremden Intriganten gern als
+                        Handhabe zu einem Kriege aufgerührt würden</said>, haben im Augenblick kaum
+                        eine andere Bedeutung, <said id="4" mode="reported" content="writing" level="1">als die Spalten der Zeitungen zu füllen.</said> Es hat
+                        gute Wege mit der Mainlinie, Nordschleswig ärgert nur aus alter Gewohnheit die dänischen Zeitungen, <said id="5" mode="reported" content="thought" level="1"><said id="16" mode="reported" content="speech" level="2">die Mainzer Besatzungsfrage</said> ist wohl nur ein
+                        bundesfreundlicher Einfall der Herren v. Dalwigk und Frank in Hessen-Darmstadt</said>, <said id="19" mode="reported" content="speech" level="1">im Orient soll nach allgemeinem Beschluß der Großmächte in diesem
+                        Jahre Friede gehalten werden</said>, und sorgfältig werden dort alle glimmenden
+                        Kohlen verdeckt; kurz der officielle Verkehr der Staaten wandelt so gemächlich, daß es eine Freude sein könnte.
+            <seg id="7" type="frame" pos="start">Und doch <seg id="7" type="intExpr">wissen</seg> <seg id="7" type="speaker">wir</seg> in Deutschland,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß der Kaiser in einer Weise rüstet, welche auf Krieg und nicht auf Frieden deutet, <said id="8" mode="reported" content="thought" level="2" nonfact="yes">ja welche völlig unbegreiflich ist, <said id="9" mode="reported" content="thought" level="3" nonfact="yes">wenn er nicht den Krieg als nahe bevorstehend betrachtet.</said></said></said> Daß
+                        die Reorganisation der französischen Armee mit größter Energie betrieben
+                        wurde, hatte nichts auffallendes; daß diese Reorganisation den ausgesprochenen Zweck hatte, eine schnell disponible Kriegsmacht aufzustellen, welche der
+                        Heereskraft des deutschen Bundes überlegen sei, <said id="10" mode="reported" content="thought" level="1" nonfact="yes">hat uns bei dem Stolz und
+                        kriegerischen Sinn der Franzosen nicht gewundert.</said> So lange diese Ausrüstung der französischen Nation geräuschvoll und mit offenbar demonstrativer
+                        Tendenz vor sich ging, <said id="11" mode="reported" content="thought" level="1" nonfact="yes" border="yes">war kein Grund zur Besorgniß</said> und <said id="12" mode="reported" content="thought" level="1" border="yes"><said id="13" mode="reported" content="thought" level="2" border="yes">die Absicht</said> klar.</said>
+                        Aber was seitdem geschehen ist und noch geschieht, <said id="14" mode="reported" content="thought" level="1" nonfact="yes">läßt sich beim besten Willen nicht mehr als eine Rüstung zur Erhaltung des Friedens deuten.</said> Die
+                        sämmtlichen Festungen der französischen Ostseite sind völlig kriegsmäßig armirt,
+                        mit Geschützen, Munition und Kriegsbesatzung versehen. Die Vorberge der
+                        Vogesen bedecken sich mit einer Linie von Verschanzungen, dem verschwundenen Dannewerk an Stärke und Großartigkeit der Anlage weit überlegen,
+                        die ganze Ostgrenze gegen Deutschland starrt von Kanonenreihen. Trotz
+                        der Mißernte sind die letzten Hafervorräthe in Frankreich aufgekauft worden und in ungeheuren Magazinen gesammelt. So hastig und rücksichtslos wurde gekauft, daß der Landwirthschaft Frankreichs das Saatgut fehlt
+                        und <said id="15" mode="reported" content="speech" level="1">die Landleute bitter klagen</said>, und es wurde gekauft in der Theuerung zu
+                        enormen Preisen, was man in diesem Herbst nach der neuen Ernte um viele
+                        Millionen billiger haben konnte. Ebenso hastig und ohne Rücksicht auf den
+                        Preis war der massenhafte Ankauf der Pferde, die Zahl derselben ist auf
+                        mehr als hunderttausend gebracht, nur etwa der siebente Theil mußte wieder
+                        an kleine Landwirthe ausgeliehen werden, weil der französischen Landwirth 
+            
+            schaft die Pferde zur Frühjahrbestellung fehlten, aber auch diese können in
+                        kürzester Frist zum Dienst eingezogen werden. Das ganze östliche Frankreich
+                        sieht aus wie ein unermeßliches Heerlager; die kaiserliche Garde, die Armee
+                        von Paris und die Armee von Lyon (1. und 4. Corps) sind so marschbereit, daß
+                        sie jeden Tag aufbrechen können. Ferner stehen 50,000 Mann zwischen Lille
+                        und Straßburg und eine zweite Armee wird in Chalons aus den Süd- und Westprovinzen zusammengezogen, dazu die Truppen schleunigst auf der
+                        Eisenbahn befördert; die Lager sind zu der ungewöhnlichsten, und für die
+                        Landescultur nachtheiligsten Zeit angeordnet, sie sollen bis Anfang Mai,
+                        respective bis Anfang Juli ihre completen Armeen umfassen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>
