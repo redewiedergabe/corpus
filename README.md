@@ -23,9 +23,9 @@ This is a collection of several types of additional annotated material produced 
 
 |                            | Files | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 |           |   [Description](resources/docs/single_annotated_samples.md)
-| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|           |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
-| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|           |  [Description](resources/docs/full_texts.md)
+| [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 | 4,353          |   [Description](resources/docs/single_annotated_samples.md)
+| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|   5,931        |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
+| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
 
 More additional material will be added in the future.
 
@@ -65,7 +65,7 @@ Each sample contains metadata with information about the publication time, text 
 # Annotation
 The corpus contains detailed annotation of instances of speech, thought and writing representation (STWR). We distiguish four main types: direct STWR (_Er sagte: "Ich bin hungrig."_), indirect STWR (_Er sagte, er sei hungrig._), free indirect STWR (_Wo sollte er jetzt etwas zu Essen herbekommen?_) and reported STWR (_Er sprach über Restaurants._), as well as the main media speech, thought and writing. In addition to that, we annotate attributes like embedding level, non-factual STWR, borderline cases, pragmatic and metaphoric use, as well as frames, introductory expressions and speakers. 
 
-Each corpus sample was annotated independently by two different people. The final annotation was created by a third person on the basis of those annotations. 
+Each sample of the main corpus was annotated independently by two different people. The final annotation was created by a third person on the basis of those annotations. 
 
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
 
