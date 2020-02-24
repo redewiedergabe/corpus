@@ -56,7 +56,7 @@ This collection consists of complete magazine and newspaper articles. The source
 | rwz_full_mkhz_5884 | - | Social-Politische Blätter | 1873 | 5,118 |
 | rwz_full_grenz_10479 | Die Tragik in Werken der hellenischen Plastik | Die Grenzboten | 1880 | 6,609 |
 | rwz_full_mkhz_10107 | Die Versammlung der deutschen Vertrauensmänner in Brünn | Mährisches Tageblatt | 1887 | 6,418 |
-| rwz_full_10440 | Die 15. Hauptversammlung des Deutschen Schulvereins | Mährisches Tageblatt | 1895 | 6,257 |
+| rwz_full_mkhz_10440 | Die 15. Hauptversammlung des Deutschen Schulvereins | Mährisches Tageblatt | 1895 | 6,257 |
 | rwz_full_mkhz_2733 | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
 | rwz_full_grenz_20389 | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
 | rwz_full_grenz_23110 | Die Stellung Belgiens zum alten Reiche | Die Grenzboten | 1915 | 5,091 |
