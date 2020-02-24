@@ -4,7 +4,7 @@ Possible use cases in different disciplines:
 
 
 **NLP:**
-- test and training data for the detection of differenz forms of representation, media, frame, introductional expressions, speaker etc.
+- test and training data for the detection of different forms of representation, media, frame, introductional expressions, speaker etc.
 - test and training data depending on perspective, on fictionality, on time (see [metadata](metadata.md) for further use cases)
 - use of the automatic recognizer to annotate other data, for genre studies, comparison of authors etc.
 
