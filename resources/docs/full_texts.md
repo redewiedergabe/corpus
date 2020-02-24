@@ -40,7 +40,7 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 
 
 ## Non-fictional full texts
-Folder: [data/additional/single_annotated/full_nonfict](../../data/additional/single_annotated/nonfull_fict)
+Folder: [data/additional/single_annotated/full_nonfict](../../data/additional/single_annotated/full_nonfict)
 
 This collection consists of complete magazine and newspaper articles. The sources were different periodicals from the [Mannheimer Korpus Historischer Zeitungen und Zeitschriften](http://www.deutschestextarchiv.de/doku/textquellen#mkhz) and the journal ['Die Grenzboten'](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) . 
 
