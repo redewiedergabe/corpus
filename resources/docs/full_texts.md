@@ -10,28 +10,29 @@ Folder: [data/additional/single_annotated/full_fict](../../data/additional/singl
 
 This collection consists of complete narrative texts. The source was [Digitale Bibliothek](https://textgrid.de/digitale-bibliothek).
 
-**NOTE**: The annotation guidelines regarding the **speaker** annotation have been adjusted for some of the texts in the following way: For the forms *direct* and *indirect* only real character names (or other content words unambigously refering to a character) were annotated as *speaker*, even if they were far away from the corresponding ST&WR instance. The goal of this procedure was to assign the direct and indirect representations more precisely to a character and thus allow for evaluations of the character's representation in the text. 
+**NOTE**: The annotation guidelines regarding the **speaker** annotation have been adjusted for some of the texts in the following way: For the forms *direct* and *indirect* only real character names (or other content words unambigously refering to a character) were annotated as *speaker*, even if they were far away from the corresponding ST&WR instance. This change was made to be able to assign the direct and indirect representations more precisely to a character and thus allow for evaluations of the character's representation in the text. 
 
 This change affected only the following texts: *Der Gefangene*, *Die Doppelgängerin*, *Die Judenbuche*, *Der arme Spielmann*, *Das Erdbeerimareili*, *Bergmilch*, *Phosphorus Hollunder*, *Die schwarze Galeere*, *Die zwölf Apostel*, *Eine Malerarbeit* and *Der Leuchtturm von Livorno*.
 
 ### Statistics
+(Titles in cursive indicate adjusted speaker annotation)
 
 | filename | author | title | year | tokens |
 |----------|--------|-------|------|--------|
-| rwz_full_digbib_5004 | Malsberg, Otto Freiherr von der | Der Gefangene | 1822 |  |
-| rwz_full_digbib_5007 | Ungern-Sternberg, Alexander von | Die Doppelgängerin | 1834 |  |
+| rwz_full_digbib_5004 | Malsberg, Otto Freiherr von der | *Der Gefangene* | 1822 |  |
+| rwz_full_digbib_5007 | Ungern-Sternberg, Alexander von | *Die Doppelgängerin* | 1834 |  |
 | rwz_full_digbib_2473 | Poe, Edgar Allan | Hinab in den Maelström | 1841 |  |
-| rwz_full_digbib_1136 | Droste-Hülshoff, Annette von | Die Judenbuche | 1842 |  |
-| rwz_full_digbib_1199 | Grillparzer, Franz | Der arme Spielmann | 1847 |  |
+| rwz_full_digbib_1136 | Droste-Hülshoff, Annette von | *Die Judenbuche* | 1842 |  |
+| rwz_full_digbib_1199 | Grillparzer, Franz | *Der arme Spielmann* | 1847 |  |
 | rwz_full_digbib_3228 | Wildermuth, Ottilie | Aus dem Leben einer Hausfrau der neuen Zeit | 1847 |  |
-| rwz_full_digbib_5002 | Gotthelf, Jeremias | Der Erdbeerimareili | 1850 |  |
-| rwz_full_digbib_5006 | Stifter, Adalbert | Bergmilch | 1853 |  |
-| rwz_full_digbib_5001 | François, Louise von | Phosphorus Hollunder | 1857 |  |
-| rwz_full_digbib_5005 | Raabe, Wilhelm | Die schwarze Galeere | 1861 |  |
+| rwz_full_digbib_5002 | Gotthelf, Jeremias | *Das Erdbeerimareili* | 1850 |  |
+| rwz_full_digbib_5006 | Stifter, Adalbert | *Bergmilch* | 1853 |  |
+| rwz_full_digbib_5001 | François, Louise von | *Phosphorus Hollunder* | 1857 |  |
+| rwz_full_digbib_5005 | Raabe, Wilhelm | *Die schwarze Galeere* | 1861 |  |
 | rwz_full_digbib_2649 | Riehl, Wilhelm Heinrich von | Amphion | 1862 |  |
-| rwz_full_digbib_5003 | Marlitt, E. | Die zwölf Apostel | 1865 |  |
-| rwz_full_digbib_3153 | Storm, Theodor | Eine Malerarbeit | 1867 |  |
-| rwz_full_digbib_5000 | Eckstein, Ernst | Der Leuchtturm von Livorno | 1871 |  |
+| rwz_full_digbib_5003 | Marlitt, E. | *Die zwölf Apostel* | 1865 |  |
+| rwz_full_digbib_3153 | Storm, Theodor | *Eine Malerarbeit* | 1867 |  |
+| rwz_full_digbib_5000 | Eckstein, Ernst | *Der Leuchtturm von Livorno* | 1871 |  |
 | rwz_full_digbib_3152 | Storm, Theodor | Eine Halligfahrt | 1871 |  |
 | rwz_full_digbib_1208 | Heyking, Elisabeth von | Gewesen | 1905 |  |
 | rwz_full_digbib_2632 | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 |  |
@@ -42,7 +43,7 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 ## Non-fictional full texts
 Folder: [data/additional/single_annotated/full_nonfict](../../data/additional/single_annotated/full_nonfict)
 
-This collection consists of complete magazine and newspaper articles. The sources were different periodicals from the [Mannheimer Korpus Historischer Zeitungen und Zeitschriften](http://www.deutschestextarchiv.de/doku/textquellen#mkhz) and the journal ['Die Grenzboten'](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) . 
+This collection consists of complete magazine and newspaper articles. The sources were the journal ['Die Grenzboten'](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) and different periodicals from the [Mannheimer Korpus Historischer Zeitungen und Zeitschriften](http://www.deutschestextarchiv.de/doku/textquellen#mkhz). 
 
 **Statistics
 
