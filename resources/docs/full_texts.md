@@ -18,23 +18,23 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 
 | filename | author | title | year | tokens |
 |----------|--------|-------|------|--------|
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
-|  |  |  |  |  |
+|  | Malsberg, Otto Freiherr von der | Der Gefangene | 1822 |  |
+|  | Ungern-Sternberg, Alexander von | Die Doppelgängerin | 1834 |  |
+|  | Poe, Edgar Allan | Hinab in den Maelström | 1841 |  |
+|  | Droste-Hülshoff, Annette von | Die Judenbuche | 1842 |  |
+|  | Grillparzer, Franz | Der arme Spielmann | 1847 |  |
+|  | Wildermuth, Ottilie | Aus dem Leben einer Hausfrau der neuen Zeit | 1847 |  |
+|  | Gotthelf, Jeremias | Der Erdbeerimareili | 1850 |  |
+|  | Stifter, Adalbert | Bergmilch | 1853 |  |
+|  | François, Louise von | Phosphorus Hollunder | 1857 |  |
+|  | Raabe, Wilhelm | Die schwarze Galeere | 1861 |  |
+|  | Riehl, Wilhelm Heinrich von | Amphion | 1862 |  |
+|  | Marlitt, E. | Die zwölf Apostel | 1865 |  |
+|  | Storm, Theodor | Eine Malerarbeit | 1867 |  |
+|  | Eckstein, Ernst | Der Leuchtturm von Livorno | 1871 |  |
+|  | Storm, Theodor | Eine Halligfahrt | 1871 |  |
+|  | Heyking, Elisabeth von | Gewesen | 1905 |  |
+|  | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 |  |
 | **total** | **17 files** |  |  | **218,940** |
 
 
