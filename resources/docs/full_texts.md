@@ -45,7 +45,7 @@ Folder: [data/additional/single_annotated/full_nonfict](../../data/additional/si
 
 This collection consists of complete magazine and newspaper articles. The sources were the journal ['Die Grenzboten'](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) and different periodicals from the [Mannheimer Korpus Historischer Zeitungen und Zeitschriften](http://www.deutschestextarchiv.de/doku/textquellen#mkhz). 
 
-**Statistics
+###Statistics
 
 | filename | title | periodical | year | tokens |
 |----------|-------|------------|------|--------|
