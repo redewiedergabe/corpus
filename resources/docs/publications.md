@@ -31,3 +31,5 @@ Publications in chronological order; newest first
 - Brunner/Engelberg/Jannidis/Tu/Weimer: Projektvorstellung - Redewiedergabe. Eine literatur- und sprachwissenschaftliche Korpusanalyse, DHd-Conference Cologne 2018.
 
 - Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe: Annotation and beyond - Using ATHEN, DHd-Conference Cologne 2018.
+
+- Brunner: Automatische Erkennung von Redewiedergabe. Ein Beitrag zur quantitativen Narratologie, 2015.
