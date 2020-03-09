@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die deutsche Bühne. Ein trauriges Lustspiel.</title>
+             <author>Boas, Eduard</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341548_269416.txt_8.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Die deutsche Bühne. Ein trauriges Lustspiel.</f>
+         <f name="author">Boas, Eduard</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1">Was gibt es?
+                        Kommt ein Ballet vor?</said>
+                         
+            <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Redacteur</seg>.</seg> <said id="2" mode="direct" content="speech" level="1"><seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Sie</seg> sollen die Güte haben, gerad heraus zu <seg id="3" type="intExpr">erklären</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2" nonfact="yes">welche Dramen Sie am liebsten sehn, ob bürgerliche, historische, romantische, classische--?</said></said>
+                         
+            <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Publicum</seg> (schläfrig).</seg> <said id="4" mode="direct" content="speech" level="1">Mir ist Alles egal!</said>
+                         
+            <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Redacteur</seg>.</seg> <said id="5" mode="direct" content="speech" level="1">Schrecklich ist diese Theilnahmlosigkeit, aber sie
+                        ist sehr natürlich bei den Gaben, die dem Publicum geboten werden.
+                        Unsre Bühnen führen ja einen zweiten englisch-chinesischen Opiumkrieg wider das Volk. Man will nicht, daß es auf den Brettern
+                        sein Spiegelbild erblicke, man will nicht, daß es stolz werde im Anschaun 
+            
+             seiner Größe, oder beschämt, wo ihm seine Schwäche entgegentritt.
+ </said>           <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Director</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">Aber Herr Redacteur--!</said>
+                         
+            <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Redacteur</seg>.</seg> <said id="7" mode="direct" content="speech" level="1"><said id="19" mode="reported" content="speech" level="2" nonfact="yes">Unterbrechen Sie <said id="22" mode="reported" content="speech" level="3">mich</said> nicht!</said> Herr Director!
+                        Das ist mein Fach! — Das deutsche Volk ist reif für eine reife
+                        Bühne, und jenen Indifferentismus, mit dem es die prunkende Armuth antiker und moderner Flitter anstarrt, ehre ich, <said id="20" mode="reported" content="speech" level="2" nonfact="yes">anstatt ihn zu tadeln.</said> Der Dichter, welcher den Funken der Begeisterung in die
+                        ruhende Pulvertonne werfen will, er greife nur in's Leben hinaus,
+                        in das Herz des Volkes, in sein eigenes Herz. Dort findet er
+                        Trauerspiele genug, rührende, gewaltige Trauerspiele; <said id="21" mode="reported" content="writing" level="2" nonfact="yes">er schreibe sie
+                        getreulich nieder</said>, und ein blühender Lorbeer entgeht ihm nicht.</said>
+            <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Attaché</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">Sehr brav, sehr gut! Auch ich liebe <said id="36" mode="reported" content="thought" level="2" border="yes">die freie Meinung</said>, wenn nur in den Dramen Nichts gegen die Regierungen vorkommt.</said>
+            <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Redacteur</seg>.</seg> <said id="9" mode="direct" content="speech" level="1">Herr Attaché! <said id="24" mode="reported" content="writing" level="2" nonfact="yes">Man schreibt niemals gegen die
+                        Regierungen, <said id="25" mode="reported" content="writing" level="3">wenn man für's Volk schreibt.</said></said> Vom Wohl des Volkes
+                        hängt das Wohl der Regierung ab.</said>
+            <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Fräulein</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">Verzeihen Sie, Herr Redacteur! Bei den Stücken,
+                        <said id="26" mode="reported" content="speech" level="2">welche Sie fordern</said>, ist wohl alle Romantik dahin?</said>
+                         
+            <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Redacteur</seg>.</seg> <said id="11" mode="direct" content="speech" level="1">Bewahre, gnädiges Fräulein! Sie werden Romantik genug bringen! Romantik in Lumpen und in Gold!</said>
+                         
+            <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Professor</seg>.</seg> <said id="12" mode="direct" content="speech" level="1">Ach, <said id="27" mode="reported" content="thought" level="2">ich hatte so schöne Träume vom Wiedererwachen reiner Classicität!</said> <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">hoffte</seg> <seg id="28" type="speaker">ich</seg> doch sogar,</seg> <said id="28" mode="indirect" content="thought" level="2" border="yes">den Chor hervorgerufen zu sehn</said>; nun ist es aus.</said>
+            <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Redacteur</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">Und warum denn? Der Chor hat bisher in
+                        Deutschland freilich keine Wurzeln schlagen können. Dieses bedeutende Zusammenwirken der Menge, diese Wichtigkeit jedes Einzelnen,
+                        als Glied des Ganzen, blieb uns leider fremd. <said id="29" mode="reported" content="thought" level="2">Wir verstanden nur
+                        bestimmt isolirte Erscheinungen und den Haufen stummer, theilnahmloser Statisten.</said> Die Griechen lebten im jugendfrischen Weltalter des
+                        Gemeinsinns, wir im entnervten Jahrhundert des Egoismus. Zwar
+                        sind manche künstlerische Versuche gemacht worden, den Chor bei uns
+                        herzustellen, aber sie mußten mißglücken, denn allein auf moralischem
+                        Wege kann errungen werden, was auf moralischem Wege verloren
+                        ging.</said> 
+            <seg id="30" type="frame" pos="start"><seg id="30" type="speaker">Commerzienrath</seg>.</seg> <said id="30" mode="direct" content="speech" level="1"><seg id="31" type="frame" pos="start">Einen <seg id="31" type="intExpr">Rath</seg> will <seg id="31" type="speaker">ich</seg> Ihnen <seg id="31" type="intExpr">geben</seg>, Herr
+                         
+            
+            Redacteur!</seg> <said id="31" mode="direct" content="speech" level="2">Lassen Sie die Chöre nur ja componiren.</said> Es geht doch
+                        Nichts über das musikalische Drama! Gott, ich bin ganz verliebt in
+                        Mendelssohn's Antigone!</said>
+                         
+            <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Dichter</seg>.</seg> <said id="15" mode="direct" content="speech" level="1">Gewiß wäre es schön, wenn wir aus dem trüben
+                        Lampendunst unserer Theateratmosphäre plötzlich in freie Luft hinaustreten könnten. Aber scheint es denn möglich? <said id="32" mode="reported" content="writing" level="2">Wohl haben in neuester Zeit deutsche Dichter versucht, tüchtige Stücke zu schreiben</said>, <said id="37" mode="reported" content="speech" level="2" nonfact="yes">und
+                        die Censur sogar fand Nichts dagegen zu erinnern</said>, und doch gab es
+                        Mittel, ihnen die Bühnen zu verschließen!</said>*)
+                         
+            <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Attaché</seg> (erzürnt.)</seg> <said id="16" mode="direct" content="speech" level="1">Mein Herr!</said>
+                         
+            <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Director</seg> (beschwichtigend.)</seg> <said id="17" mode="direct" content="speech" level="1"><said id="34" mode="reported" content="speech" level="2">Ich bitte--</said></said> 
+            <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Redacteur</seg>.</seg> <said id="18" mode="direct" content="speech" level="1"><said id="35" mode="reported" content="speech" level="2">Des Dichters Klagen</said> haben gerechten Grund,
+                        indeß es gibt Hilfe dagegen. Soll eine deutsche Nationalbühne ihre
+                        Kraft entfalten, dann muß sie aller engherzigen Einflüsse enthoben
+                        und nur vom Gesetz überwacht sein.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

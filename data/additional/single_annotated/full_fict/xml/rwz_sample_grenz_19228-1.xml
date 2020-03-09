@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Spanisches</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341879_295218.txt_60.xml</f>
+         <f name="year">1904</f>
+         <f name="decade">1900</f>
+         <f name="title">Spanisches</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech" level="1"><said id="2" mode="reported" content="thought" level="2">Napoleon
+                        gedachte den Mönchen Furcht einzuflößen</said>, aber sie fürchteten sich nicht und
+                        <said id="6" mode="reported" content="speech" level="2">wiegelten die Nation gegen ihn auf.</said>"</said>
+                         
+            <said id="7" mode="reported" content="speech" level="1" border="yes">Nur zu gern ließ diese sich aufwiegeln</said>, denn sie haßte die Franzosen
+                        und hatte schon jedem Reformversuch der vier Bourbonenkönige als einem
+                        Angriff auf ihren Nationalgeist und ihre Nationalheiligtümer Widerstand geleistet. <said id="5" mode="reported" content="thought" level="1" nonfact="yes">Der Franzose findet das sehr unverständig</said>; <said id="8" mode="indirect freeIndirect" content="speech" level="1">die spanischen Bourbonen
+                        seien gewiß keine Genies, aber mit den drei letzten Habsburgern verglichen
+                        Sterne erster Größe gewesen, hätten auch manches Gute geschaffen.</said> Und er
+                        bedauert <said id="24" mode="reported" content="thought" level="1" nonfact="yes">diese „unverständige" Feindschaft.</said> <said id="9" mode="indirect freeIndirect" content="speech" level="1">Das Ideal der französischen Staatsmänner des achtzehnten Jahrhunderts sei ein enges Bündnis der drei romanischen Nationen, zunächst gegen die englische Seemacht gewesen, und in einem
+                        solchen liege heute die einzige Möglichkeit, ihnen eine ehrenvolle Zukunft zu
+                        sichern.</said>
+            Die Ereignisse des 2. Mai 1808 findet jeder in seinem Handbuch der
+                        Weltgeschichte. Nachdem schon <said id="11" mode="reported" content="speech" level="1">mancherlei Kundgebungen</said> die Stimmung der
+                        Madrilenen verraten hatten, brach der Aufruhr aus, als sich die letzten noch
+                        auf spanischem Boden weilenden Glieder der Königsfamilie zur Abreise an- 
+            
+            schickten: die abgesetzte Königin von Etrurien, des Prinzen von Asturien und
+                        nachmaligen Königs Ferdinand des Siebenten Schwester und ihre Kinder.
+                        <seg id="12" type="frame" pos="start">Man <seg id="12" type="intExpr">erfuhr</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1" border="yes">daß der vierzehnjährige Infant Francisco sich weinend sträube
+                        und nicht in den Wagen steigen wolle</said>; die Weiber heulten, die Männer gerieten in Wut. Eine Dynastie, ein Monarch mag noch so jämmerlich und
+                        verachtet sein, bei einer Bedrohung durch das Ausland schätzt das Volk die fürstlichen Personen als Symbole und Bürgen der nationalen Unabhängigkeit.
+                        Der Kampf am Tage und die auf <said id="13" mode="reported" content="speech" level="1">Murats Befehl</said> in der Nacht vollzoguen
+                        Füsilladen kosteten ungefähr zwölfhundert Menschen das Leben. <said id="14" mode="reported" content="speech" level="1">Desdevises
+                        erzählt den Verlauf der Revolte ausführlich.</said> <seg id="15" type="frame" pos="start">Am 3. Mai <seg id="15" type="intExpr">bemerkte</seg> <seg id="15" type="speaker">Murat</seg>
+                        in einer Beratung mit den spanischen Ministern:</seg> <said id="15" mode="direct" content="speech" level="1">„Der gestrige Tag sichert
+                        dem Kaiser den Besitz Spaniens."</said> <seg id="16" type="frame" pos="start">Der Kriegsminister <seg id="16" type="speaker">O'Farrill</seg> <seg id="16" type="intExpr">erwiderte</seg>:</seg>
+                        <said id="16" mode="direct" content="speech" level="1">„<seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">Sagen</seg> <seg id="17" type="speaker">Sie</seg> vielmehr,</seg> <said id="17" mode="indirect" content="speech" level="2" nonfact="yes">er hat es ihm für immer geraubt.</said>"</said> Nicht 80000,
+                        sondern 300000 Mann mußte Napoleon fünf Jahre lang in Spanien kämpfen
+                        lassen, und der Kampf war vergebens. Freilich kamen den Spaniern die
+                        Engländer zu Hilfe. <said id="19" mode="reported" content="thought" level="1"><said id="18" mode="reported" content="speech" level="2">Bei deren Nennung</said> erinnern wir uns einer Anekdote</said>,
+                        die wir vor langen Jahren in einem der vielen historischen Werke Wolfgang
+                        Menzels gelesen haben, und die sich beim Einzuge eines englischen Generals
+                        — <said id="20" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob es Wellington war</said><seg id="20" type="frame" pos="end">, <seg id="20" type="intExpr">wissen</seg> <seg id="20" type="speaker">wir</seg> nicht mehr</seg> — in eine spanische Stadt
+                        ereignet haben soll. Der protzenhafte Engländer fing an, Geld unter das
+                        Volk zu werfen. Da verstummte der Jubel, niemand bückte sich, die Geldstücke aufzuheben; <seg id="21" type="frame" pos="start">ein armer <seg id="21" type="speaker">Mann</seg> trat an das Pferd des Lords heran und
+                        <seg id="21" type="intExpr">sagte</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">Wir begrüßen Sie mit Jubel, weil Sie uns in unserm Freiheitskämpfe
+                        zu Hilfe kommen; Ihr Geld wollen wir nicht.</said>
+            <said id="25" mode="reported" content="thought" level="1"><said id="22" mode="reported" content="writing" level="2">Nach den Schilderungen heutiger Reisefeuilletons</said> zu urteilen</said> hat sich
+                        der spanische Volkscharakter, <said id="26" mode="reported" content="thought" level="1">wie sich bei der Dauerhaftigkeit von Rasseneigentümlichkeiten ja auch erwarten ließ</said>, in den letzten hundert Jahren nicht
+                        geändert. Und obwohl Spanien jetzt in der hohen Politik übergangen zu
+                        werden scheint, wird doch auch in Zukunft die Diplomatie gut tun, <said id="23" mode="reported" content="thought" level="1" nonfact="yes">diesen Volkscharakter im Gedächtnis und im Ange zu behalten.</said> Anlässe zu Reibungen
+                        können immerhin noch entstehn, und wenn bei einer solchen ein Großstaat
+                        Spanien von oben herab behandelt oder ihm Ehrenkränkendes zumutet, so
+                        kann er einen Kampf heraufbeschwören, worin er zwar siegen wird, dessen
+                        Opfer aber der Ertrag nicht aufwiegt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

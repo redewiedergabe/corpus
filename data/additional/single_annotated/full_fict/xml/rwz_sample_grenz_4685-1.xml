@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Briefe des Herzogs Friedrich Wilhelm von Braunschweig-Oels aus der Campagne von 1793.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341594_108721.txt_8.xml</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Briefe des Herzogs Friedrich Wilhelm von Braunschweig-Oels aus der Campagne von 1793.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Gnädiger Herr! Ihre Geburt als Printz erlaubt Ihnen kein anderes
+                        Metier als das eines Soldaten, als Souverän und als Vater, bleibt der
+                        Hertzog der eintzige der Ihr Schicksal dirigiren kan, blinde Unterwerfung
+                        Seines Willens ist Ihre Obliegenheit; Der Durchl. Hertzog liebt Ihnen, <seg id="1" type="frame" pos="start">ja
+                        <seg id="1" type="speaker">ich</seg> darf <seg id="1" type="intExpr">sagen</seg></seg> <said id="1" mode="indirect" content="speech" level="1">Sie sind Seine eintzige Hofnung</said>; <said id="2" mode="reported" content="thought" level="1">Aber Dero Herr Vater hält
+                        Sie für flüchtig, hitzig und auf Ihren Kopf bestehende.</said> <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Er</seg> <seg id="3" type="intExpr">glaubt</seg></seg> <said id="3" mode="indirect" content="thought" level="1">daß alles
+                        dieses Ihnen an der fonctieren Application in Ihren Dienst und an der
+                        stricten Subordination gegen Ihre Höhern abhielte.</said> <said id="17" mode="reported" content="thought" level="1">Seine Absicht ist Ihnen
+                        zu beugen durch mortifications, unangenehme Lage und das monotonische in
+                        Linien Dienst weich zu machen, und wenn Er Seinen Entzweck erreicht hat,
+                        als dann Ihnen wieder doppelt von neuen empfinden zu lassen das Angenehme, welches aus Seiner Gnade entspriessen muß</said>; Vielleicht soll Ihre
+                        jetzige Lage auch eine Strafe seyn für verschiedene Auftritte die in vorigen
+                        Jahr sich leider ereignet haben. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> bin <seg id="4" type="intExpr">überzeugt</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes"><said id="5" mode="reported" content="thought" level="2" border="yes">daß der Herr Vater weis
+                        alles was Sie unternehmen</said>, und in der Proportion wie Sie Freunde oder
+                        Feinde haben werden <said id="18" mode="reported" content="speech" level="2">diese Rapports</said> gut oder nachtheilig seyn.</said> Diese ob
+                        zwar harte quarantaine müssen Sie aushalten, erstlich weil Sie den kürzesten
+                        ziehen wenn Sie gegen Ihres Herrn Vaters Willen agiren; Zweitens weil
+                        kein anderer Dienst sich für Ihnen schicket, und drittens, weil Sie ohne Ihres
+                        Herrn Vaters Willen in keinen Dienst Ihr Glück machen. Werden Sie also
+                        Sich völlig willig Ihren Schicksal unterwerfen, das ausführen <said id="6" mode="reported" content="speech" level="1">was Ihnen
+                        von Ihren Oberen befohlen wird</said>, die müssigen Stunden <said id="7" mode="reported" content="thought" level="1" nonfact="yes">zum Nachdenken</said> und
+                        an <said id="19" mode="reported" content="thought" level="1" nonfact="yes" border="yes">das studiren Ihres Metier</said> anwenden, hauptsächlich aber die Liebe und
+                        das Vertrauen Ihrer Oberen erwerben (und diese Gabe besitzen Sie complet wenn Sie wollen) werden Sie wieder gewinnen des Hertzogs Freunde in
+                        Braunschweig wovon F:*) à la tête ist, <said id="8" mode="reported" content="speech" level="1">wie ich Ihnen so inständig bat als
+                        Sie letzthin hier waren</said>, <said id="20" mode="reported" content="speech" level="1" nonfact="yes">so wird der Hertzog von allen Seiten gute Raports
+                        auf Ihr Sujet erhalten.</said> <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Er</seg> wird Sich <seg id="21" type="intExpr">schmeicheln</seg></seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes">daß <said id="9" mode="reported" content="thought" level="2">die ausgedachte
+                        quarantaine</said> geholfen hat.</said> <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Er</seg> wird <seg id="10" type="intExpr">glauben</seg></seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes">Sie wären genug gestraft</said>, zeigen Sie Ihm alsdann ein bisgen Attention und Attachement, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">lassen die
+                        Braunschweiger Freunde absonderlich F . . . für sich sprechen</said>, das weiche
+                         
+            <note>*) Ist hier der braunschweigsche Geheimrath v. Ferrure gemeint.
+                        </note>
+            
+            Vaterhertz wird alsdann wieder kommen, und hundertfältig kan und wird Er
+                        Ihnen wieder ersehen <seg id="12" type="frame" pos="start">was <seg id="12" type="speaker">Sie</seg> <seg id="12" type="intExpr">glauben</seg></seg> <said id="12" mode="indirect" content="thought" level="1">anitzo durch Seine scheinbare Härte
+                        und Ungnade, verlohren zu haben.</said> Sie, gnädiger Herr! scheinen jaloux zu
+                        seyn auf einen andern Obrist Lieutenant. Der Fall ist gantz verschieden,
+                        diessen muß man in der ersten Jugend poussiren, weil er nachmals nach
+                        seiner Tour lange genug warten muß bis Er zu einen soliden établissement
+                        kommen thut. Alles dieses ist der Fall nicht bey Ew. Hochfürstl. Durchl.
+                        einmahl ernstlich ausgesöhnet mit Ihren Herrn Vater, <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Er</seg>, <seg id="13" type="intExpr">überzeugt</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß
+                        Sie ihn in allen willig folgen und in allen Gelegenheiten zuverlässig sind</said>,
+                        so überspringen Sie bald alle die momentane Nachsetzung, ein Regiment und
+                        General machen alles dies gut <seg id="22" type="frame" pos="start">was <seg id="22" type="speaker">Sie</seg> nunmehr <seg id="22" type="intExpr">glauben</seg></seg> <said id="22" mode="indirect" content="thought" level="1">verlohren zu
+                        haben.</said>
+            Dieses sind die Gebannten eines wahren Freundes <said id="15" mode="reported" content="speech" level="1" nonfact="yes">der nicht schmeichelt</said>,
+                        der es aber gut mit Ihnen meynet, im Anfang werden Sie böse seyn, <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Sie</seg>
+                        werden <seg id="16" type="intExpr">sagen</seg></seg> <said id="16" mode="indirect" content="speech" level="1" nonfact="yes">der alte Schulmeister will mich zu einer Schlaf Mütze machen.</said>
+                        Aber nein,
+
+
+</p>
+      </body>
+   </text>
+</TEI>

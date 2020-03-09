@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das lauenburgische Annexionsgesuch.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341799_360480.txt_28.xml</f>
+         <f name="year">1864</f>
+         <f name="decade">1860</f>
+         <f name="title">Das lauenburgische Annexionsgesuch.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Nicht Patriotismus war die Triebfeder, sondern Egoismus:
+                        man entging einer Verbindung, welche mit schweren Steuern drohte, man
+                        conservirte sich so möglicherweise Zustände, die in jener Verbindung sich kaum
+                        gehalten hätten. Im Uebrigen sah sich die Sache an, wie wenn ein langer
+                        Herr mit einem großen Regenschirm von einem kleinen ersucht wird, ihm an
+                        den Arm fassen und mit unterschlüpfen zu dürfen.
+            Unter die Politiker sind die Lauenburger mit diesem Schritt nicht gegangen.
+                        Politik treiben, Weltgeschichte mitmachen wollen, <said id="1" mode="reported" content="thought" level="1" nonfact="yes">fiel ihnen bisher nicht im
+                        Traum ein</said>, <said id="2" mode="reported" content="speech" level="1">und wo von Außen einmal die Nöthigung dazu an sie herantrat</said>,
+                        <said id="3" mode="reported" content="speech" level="1">wiesen sie sie ab</said>, verdrießlich über die Störung, wie Schlafende, die wegen
+                        einer Kleinigkeit geweckt werden. <said id="4" mode="reported" content="speech" level="1" border="yes">Im Allgemeinen als Stille im Lande zu
+                        bezeichnen</said>, geberdeten sie sich, <said id="5" mode="reported" content="thought" level="1">wo eine Ahnung von politischen Dingen ihnen
+                        ausging</said>, als Fanatiker der Ruhe. Selten begab sichs, daß der Blick über
+                        Familie und Gemeinde hinausschweifte. Die Raupe im Krautkopf kann nicht
+                        viel unschuldiger an den Dingen, die das deutsche Volk seit einem halben Jahrhundert bewegen, nicht viel geruhiger, harmloser und apathischer dahin vegetiren
+                        als dieses für gewisse Staatsmänner mustergiltige Geschlecht großer und kleiner
+                        Bauern. Man lebte, nahm ein Weib und starb. Man nährte sich, spielte
+                        Schafkopf oder nach Befinden Lhombre dazu und befleißigte sich daneben der
+                        Obliegenheiten eines getreuen Unterthans, gleichviel, ob Hinz oder Kunz das
+                        Scepter trug. <seg id="6" type="frame" pos="start">Wenn <seg id="6" type="intExpr">Zweifel</seg> darüber obwalten,</seg> <said id="6" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wo heutzutage der Normal 
+            
+            mensch noch anzutreffen ist, ob in gewissen Kreisen Schleswig-Holsteins oder in
+                        Schwaben</said>, <seg id="7" type="frame" pos="start">darüber läßt sich nicht <seg id="7" type="intExpr">streiten</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1" nonfact="yes">daß in Lauenburg der normale Conservative die Mehrzahl der Bevölkerung bildet.</said> Nur den lübecker Kaufleuten
+                        könnte die erste Schleswig-holsteinische Erhebung mehr zuwider gewesen sein, als
+                        dem Nachbar an der Steckenitz und Wakenitz. Waren die Steuern etwa zu
+                        hoch oder trübten die Dänen etwa dem Lauenburger das Wasser? Und was
+                        gab der Productenhändler für das neue Gewächs der Nationalität? Sehr ungern und nur durch die Noth gedrungen ließ man sich, <said id="8" mode="reported" content="speech" level="1">als jetzt nach vierzehn
+                        Jahren <said id="9" mode="reported" content="thought" level="2">dieselben Gedanken</said> sich wieder Luft machten</said>, zu einer Art von Betheiligung herbei. Am liebsten wäre man beim Alten, bei Dänemark geblieben,
+                        und da das nicht ging, suchte man sich ähnlich zu betten. Das ist das Geheimniß des heutigen Annexionsgesuchs. <said id="10" mode="direct" content="speech" level="1">„Preußen werden — verhüte der
+                        Himmel! Lauenburger bleiben ist unser Ziel! Einen Stein zum Bau der
+                        deutschen Einheit legen — <seg id="11" type="frame" pos="start">ja wenn <seg id="11" type="speaker">man</seg> <seg id="11" type="intExpr">wüßte</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß es was sparte oder einbrächte</said>, <seg id="12" type="frame" pos="start">wenn <seg id="12" type="speaker">man</seg> überhaupt <seg id="12" type="intExpr">wüßte</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was es wäre!</said>"</said>
+                         
+            <said id="14" mode="indirect" content="speech" level="1">Wie Preußen <said id="13" mode="reported" content="speech" level="2">den Beschluß der Achtzehn minus Vier</said> in Ratzeburg aufnehmen wird</said><seg id="14" type="frame" pos="end">, <seg id="14" type="intExpr">deutet</seg> das officiöse <seg id="14" type="speaker">Organ</seg> in Berlin <seg id="14" type="intExpr">an</seg>.</seg> <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Man</seg> wird den Abgesandten hoher Ritter- und Landschaft <seg id="15" type="intExpr">antworten</seg>,</seg> <said id="15" mode="indirect" content="speech" level="1" nonfact="yes">daß man ihr Entgegenkommen
+                        zu würdigen wisse und nicht unterlassen werde, auf eine den „Wünschen der
+                        Bevölkerung" entsprechende Ordnung der Dinge hinzuwirken, daß man aber
+                        dabei Rücksicht auf Oestreich nehmen müsse, welches durch seine Allianz mit
+                        Preußen und durch den Frieden das Recht erworben habe, <said id="16" mode="reported" content="speech" level="2">mit über das Land
+                        zu disponiren.</said></said> <said id="17" mode="reported" content="thought" level="1"><said id="18" mode="reported" content="thought" level="2" border="yes">Diese Ansicht</said> scheint uns correct</said>; <said id="19" mode="reported" content="speech" level="1">wenigstens wird man sich
+                        im Allgemeinen mit ihr einverstanden erklären dürfen.</said> Daß man <said id="20" mode="reported" content="speech" level="1">die Meinung
+                        des Alliirten</said> zu hören hat, ist sicher unbequem, es wird aber nothwendig sein,
+                        und man hat es ja so gewollt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

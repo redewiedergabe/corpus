@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Söhne des Senators</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Die_Soehne_des_Senators.tg248_1.xml</f>
+         <f name="year">1880</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Söhne des Senators</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Laß Er nur, Meister«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> <seg id="1 2" type="speaker">Herr Christian Albrecht</seg></seg> und legte beschwichtigend die Hand auf den Arm des neben ihm Stehenden. <said id="2" mode="direct" content="speech" level="1">»Seine Arbeit ist auch diesmal rechtschaffen; <seg id="3" type="frame" pos="start">aber <seg id="3" type="speaker">Er</seg> <seg id="3" type="intExpr">weiß</seg> doch,</seg> <said id="3" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was ein Hauskontrakt bedeutet?</said>«</said> Und damit schob er ihm das vergilbte Schriftstück zu, welches aufgeschlagen auf dem Pulte lag. 
+                  Der Meister zog seine Messingbrille hervor und studierte lange und bedächtig unter Beistand seines Zeigefingers den ihm bezeichneten Paragraphen; endlich klappte er die Brille zusammen und steckte sie wieder in das Futteral. 
+                  <said id="4" mode="direct" content="speech" level="1">»Nun?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">frug</seg> <seg id="4" type="speaker">Herr Christian Albrecht</seg>.</seg> 
+                  <said id="5" mode="reported" content="speech" level="1" nonfact="yes">Der <seg id="5" type="speaker">Meister</seg> <seg id="5" type="intExpr">antwortete</seg> nicht</said>; er fuhr mit seinen Fingern in die Westentasche und suchte nach einem Endchen Kautabak, womit er in schwierigen Umständen seinen Verstand zu ermuntern pflegte. 
+                  <said id="7" mode="direct" content="speech" level="1">»Nicht wahr, Meister«</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">sagte</seg> der <seg id="7" type="speaker">Senator</seg> wieder,</seg> <said id="7" mode="direct" content="speech" level="1">»da steht es klar und deutlich?«</said> 
+                  
+                     <said id="8" mode="reported" content="speech" level="1">Der <seg id="8" type="speaker">Meister</seg> kam nun doch zu <seg id="8" type="intExpr">Worte</seg>.</said> <said id="10" mode="direct" content="speech" level="1">»Mag sein, Herr«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">erwiderte</seg> <seg id="10" type="speaker">er</seg> stockend,</seg> <said id="10" mode="direct" content="speech" level="1">»aber es ist mir denn doch alles voll und richtig ausbezahlt!«</said> 
+                  Der <seg id="11" type="speaker">Senator</seg> ließ sich das nicht anfechten. <said id="11" mode="direct" content="speech" level="1">»Freilich, Meister; aber die eine Hälfte war ja nicht Herr Friedrich Jovers, sondern ich Ihm schuldig! Das macht auf den Punkt einhundertundzwanzig Reichstaler. Hier sind sie, wohlgezählt in Kron- und Markstücken; und nun gehe Er zu Herrn Friedrich Jovers und zahle Er ihm zurück, was Er von ihm zuviel empfangen hat!«</said> 
+                  Meister Hansen zögerte noch; in seinem Kopfe mochte die Vorstellung von einem etwas kuriosen Umwege auftauchen, aber bevor er mit <said id="12" mode="reported" content="thought" level="1"><seg id="12" type="speaker">seinen</seg> schwerbeweglichen <seg id="12" type="intExpr">Gedanken</seg></said> darüber ins reine kam, war schon das Geld in seiner Tasche und er selbst zur Tür hinaus. 
+                  <seg id="13" type="speaker">Herr Christian Albrecht</seg> rieb sich vergnügt die Hände. <said id="13" mode="direct" content="speech" level="1">»<said id="14" mode="reported" content="speech" level="2" nonfact="yes">Was wird <seg id="14" type="speaker">Bruder Friedrich</seg> dazu <seg id="14" type="intExpr">sagen</seg>?</said> Stillhalten muß er schon; hier steht's!«</said> Und er tupfte mit den Fingern dreimal zuversichtlich auf den alten Hauskontrakt. 
+                  Da wurde an die Tür gepocht. Der Schreiber seines Sachwalters überbrachte ihm einen Brief. 
+                  Als der Überbringer sich entfernt und Herr Christian Albrecht den Brief gelesen hatte, war der eben noch so vergnügliche Ausdruck seines Angesichts mit einem Mal wie fortgeblasen. <said id="16" mode="direct" content="speech" level="1">»Musche Peters«</said><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">sagte</seg> <seg id="16 22 24 27" type="speaker">er</seg> kleinlaut, indem er die Tür zur großen Schreibstube öffnete,</seg> <said id="16" mode="direct" content="speech" level="1">»<seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">bitte</seg> <seg id="17" type="speaker">Er</seg> doch die <seg id="18" type="speaker">Frau Senatorin</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2" nonfact="yes">auf ein paar Augenblicke <said id="18" mode="reported" content="speech" level="3" nonfact="yes">bei mir <seg id="18" type="intExpr">vorzusprechen</seg>!</said></said>«</said> 
+                  Die Frau Senatorin ließ nicht auf sich warten. <said id="21" mode="direct" content="speech" level="1">»Da hast du mich, Christian Albrecht!«</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">rief</seg> <seg id="21 23" type="speaker">sie</seg> fröhlich,</seg> <said id="21" mode="direct" content="speech" level="1">»aber«</said> – – und sie schaute ihm ganz nahe in die Augen, <said id="21" mode="direct" content="speech" level="1">»fehlt dir etwas? Es ist doch kein Unglück geschehen?«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Freilich ist ein Unglück geschehen, Christinchen; da – lies nur diesen Brief!«</said> 
+                  Ihre Augen flogen über das Papier. <said id="23" mode="direct" content="speech" level="1">»Aber, Christian Albrecht, du hast ja den Prozeß gewonnen!«</said> 
+                  
+                     <said id="24" mode="direct" content="speech" level="1">»Freilich, <seg id="25" type="speaker">Christinchen</seg>, hab ich ihn gewonnen.«</said> 
+                  <said id="25" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="speech" level="2" nonfact="yes">Und das <seg id="26" type="intExpr">nennst</seg> <seg id="26" type="speaker">du</seg> ein Unglück?</said> Da hast du ja alles nun in deiner Hand!«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»<said id="28" mode="direct" content="speech" level="2" nonfact="yes">Hatte ich in meiner Hand</said><seg id="28" type="frame" pos="end">, mußt <seg id="28" type="speaker">du</seg> <seg id="28" type="intExpr">sagen</seg>!</seg> Fünf Minuten vor Empfang dieses Schreibens habe ich durch Meister Hansen die Hälfte der unseligen Mauergelder an Bruder Friedrich abgesandt.«</said> 
+                  <seg id="30" type="speaker">Frau Christine</seg> schlug die Hände ineinander. <said id="30" mode="direct" content="speech" level="1">»Das wird eine schöne Geschichte werden! – Du!?«</said> – und sie drohte ihm mit dem Finger – <said id="30" mode="direct" content="speech" level="1">»<said id="31" mode="reported" content="speech" level="2"><seg id="31" type="speaker">ich</seg> hatte es dir <seg id="31" type="intExpr">vorhergesagt</seg>!</said>«</said>
+                         
+                  Und es wurde eine schöne Geschichte; denn zu derselben Zeit stand im Nachbarhause der Meister Hansen vor dem Herrn Friedrich Jovers.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

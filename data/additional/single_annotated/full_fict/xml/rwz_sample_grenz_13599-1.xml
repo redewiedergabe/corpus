@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Freihandelslehre in Geschichte und Wissenschaft.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341847_203434.txt_31.xml</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Freihandelslehre in Geschichte und Wissenschaft.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Der wirtschaftliche Polizeistaat, das eigennützige Interesse des Staates und bevorrechteter
+                        Stände mußten den Zusammenbruch der bestehenden Verhältnisse unvermeidlich
+                        herbeiführen.
+            <said id="1" mode="reported" content="speech" level="1">Die Kritik der Physiokraten gegen den Merkantilismus war lediglich <said id="2" mode="reported" content="thought" level="2">eine
+                        rationalistische.</said></said> <said id="26" mode="reported" content="speech" level="1">Sie erklärte das Individuum als ein von Natur und ursprünglich freies, ungebundenes und unbeschränktes Wesen, welches, wenn seinen
+                        „natürlichen" Eigenschaften kein Zwang angethan werde, alle Kräfte und Fähigkeiten entfalte, die ihm von der Natur verlieben seien, woraus der natürlichste
+                        und glücklichste Zustand aller menschlichen Lebensverhältnisse hervorgehe. Eine
+                        derartige soziale Ordnung beruhe auf der natürlichen, <said id="27" mode="reported" content="speech" level="2">von Gott vorgeschriebenen Ordnung.</said></said> <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Sie</seg> vertraten damit gegenüber der Beschränktheit des damaligen Erwerbslebens mit Entschiedenheit die <seg id="5" type="intExpr">Forderung</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">daß jeder frei und
+                        ungehindert seinem Vorteile nachgehen könne</said>; <said id="6" mode="indirect freeIndirect" content="speech" level="1">das persönliche Interesse werde
+                        dabei nicht nur als Anreger der Produktion wirken — und zwar der wirtschaftlichsten, d. i. möglichst großer Erfolg mit möglichst kleinem Aufwande von
+                        Kapital und Arbeit —, sondern auch als Bestimmungsgrund der Einschränkung
+                        der Produktion, wenn sie nicht mehr lohne, so daß jede obrigkeitliche Einwirkung auf sie hinfällig würde, weil sie durch das Interesse des einzelnen am
+                         
+            
+            sichersten und einträglichsten geregelt werde. Aus dem freien Schalten der menschlichen und natürlichen wirtschaftlichen Kräfte ergebe sich von selbst eine Ausgleichung zwischen Bedarf und Mittel der Befriedigung, werde die Harmonie
+                        in der Güterwelt und namentlich in der Verteilung der Gütereingänge von
+                        selbst hergestellt.</said>
+            <said id="20" mode="reported" content="writing" level="1">Adam Smith hat jedoch für die Praxis der Durchführung seiner Theorie
+                        manche Ausnahme und Einschränkung vorgezeichnet.</said> <said id="21" mode="reported" content="writing" level="1">Er ließ die Abwehr oder
+                        Erschwerung fremder Konkurrenz und einseitigen Schutz der heimischen Industrie
+                        sogar unter Bedingungen zu, die als wesentliche Bestandteile in den späteren
+                        schutzzöllnerischen Systemen öfters wiederkehren.</said> <said id="11" mode="reported" content="speech" level="1" nonfact="yes" border="yes">Er kann also durchaus nicht
+                        ein „unbedingter" Freihändler genannt werden.</said> <said id="12" mode="reported" content="thought" level="1">Gewiß galt ihm die Freiheit
+                        als die Regel und die Einschränkung als die Ausnahme</said>, <said id="13" mode="reported" content="thought" level="1">aber er dachte sich
+                        den vollkommenen Freihandel doch nur so, <said id="14" mode="reported" content="thought" level="2">wie Kant den ewigen Frieden</said>, nur
+                        als ideales Ziel, als utopische Idee (Moritz Meyer).</said> Er durchbricht die Lehre
+                        von der Freiheit des wirtschaftlichen Verkehrs nach vier Richtungen hin, <said id="22" mode="reported" content="writing" level="1">in
+                        denen er den Schutzzoll als gerechtfertigt anerkennt.</said> <said id="23" mode="reported" content="writing" level="1">Für Industriezweige, wegen
+                        deren ein Interesse für die Landesverteidigung besteht, fordert er unbedingt
+                        einen Schutzzoll, zur Vergeltung fremder Schutzzölle aber Retorsionszölle und
+                        Ausgleichszölle, wenn die fremde Industrie durch geringere Steuerlasten als
+                        die einheimische beschwert und dadurch konkurrenzfähiger ist</said>, <said id="24" mode="reported" content="writing" level="1">und schließlich
+                        billigt er die Erteilung von Handelsmonopolen und Privilegien, wenn Kaufleute bei einer Unternehmung in fernen, unkultivirten Ländern ein besondres
+                        Risiko eingehen.</said> Er übersieht zugleich nicht die Gefahren, die bei einem scharfen
+                        Übergange vom Schutzzoll zum Freihandel drohen, <said id="25" mode="reported" content="writing" level="1">und befürwortet deshalb nur
+                        ein langsames Übergehen zum Freihandel, da sonst die fremden Waaren so
+                        schnell auf dem Markte zusammenströmen würden, daß tausende von Inländern
+                        ihre gewöhnliche Arbeit und ihre Erwerbsmittel verlören, woraus unstreitig eine
+                        große Störung entstehen müsse.</said> Nach der Aufhebung der Kontinentalsperre
+                        erzeugte das plötzliche Eindringen der in England aufgestapelten Massen billiger Waaren in Deutschland einen Zustand, <said id="19" mode="reported" content="writing" level="1">der dem von Adam Smith geschilderten</said> völlig entspricht. Kein Land hatte so darunter zu leiden, wie unser damals ohnehin schon so unglückliches, politisch und wirtschaftlich gleich zerrissenes
+                        Vaterland. Frankreich, die Wiege des Physiokratismus, hingegen errichtete
+                        sofort die alten Schlagbäume, um das Eindringen des gefährlichen englischen
+                        Feindes abzuhalten.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Schicksal des Freiherrn von Leisenbohg</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Das_Schicksal_des_Freiherrn_von_Leisenbohg.tg289_1.xml</f>
+         <f name="year">1904</f>
+         <f name="decade">1900</f>
+         <f name="title">Das Schicksal des Freiherrn von Leisenbohg</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">an dem wir im Bristol miteinander soupierten und du mich auf die Bahn begleitetest?«</said> 
+                  <seg id="2" type="speaker">Leisenbohg</seg> nickte wieder. 
+                  <said id="2" mode="direct" content="speech" level="1">»<seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Du</seg> hast wohl nicht <seg id="3" type="intExpr">geahnt</seg>, </seg><said id="3" mode="indirect" content="thought" level="2" nonfact="yes">daß im selben Zuge mit mir Kläre Hell von Wien abreiste.</said>«</said> 
+                  Leisenbohg ließ den Kopf schwer auf die Brust herabsinken ...
+                  <said id="4" mode="direct" content="speech" level="1">»<said id="5" mode="reported" content="thought" level="2" nonfact="yes"><seg id="5" type="speaker">Ich</seg> habe es so wenig <seg id="5" type="intExpr">geahnt</seg> als du</said>,«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fuhr</seg> <seg id="4 6" type="speaker">Sigurd</seg> <seg id="4" type="intExpr">fort</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">»Erst am nächsten Morgen auf der Frühstückstation hab' ich Kläre gesehen. Sie saß mit Fanny Ringeiser im Speisesaal und trank Kaffee. Ihr Benehmen ließ mich vermuten, daß ich diese Begegnung nur dem Zufall verdankte. Es war kein Zufall.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Weiter,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sagte</seg> der <seg id="7" type="speaker">Baron</seg></seg> und betrachtete den grünen Plaid, der sich leise bewegte. 
+                  <said id="8" mode="direct" content="speech" level="1">»<seg id="9" type="frame" pos="start">Später hat <seg id="9" type="speaker">sie</seg> mir nämlich <seg id="9" type="intExpr">gestanden</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2">daß es kein Zufall war.</said> – Von diesem Morgen an blieben wir zusammen, Kläre, Fanny und ich. An einem eurer entzückenden kleinen österreichischen Seen ließen wir uns nieder. Wir bewohnten ein anmutiges Haus zwischen Wasser und Wald, fern von allen Menschen. Wir waren sehr glücklich.«</said> 
+                  <said id="10" mode="reported" content="speech" level="1"><seg id="8 10" type="speaker">Er</seg> <seg id="10" type="intExpr">sprach</seg></said> so langsam, daß <said id="11" mode="reported" content="thought" level="1" border="yes"><seg id="11" type="speaker">Leisenbohg</seg> toll zu werden <seg id="11" type="intExpr">glaubte</seg>.</said> 
+                  <said id="12" mode="direct" content="thought" level="1">Wozu <said id="14" mode="reported" content="speech" level="2">hat <seg id="14" type="speaker">er</seg> mich <seg id="14" type="intExpr">hierhergerufen</seg>?</said></said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">dachte</seg> <seg id="12 13" type="speaker">er</seg>.</seg> <said id="13" mode="direct" content="thought" level="1">Was will er von mir? ... <said id="15" mode="reported" content="speech" level="2" nonfact="yes">Hat <seg id="15" type="speaker">sie</seg> ihm <seg id="15" type="intExpr">gestanden</seg> –?</said> ... Was geht's ihn an? ... Warum blickt er mir so starr ins Gesicht? ... Weshalb sitz ich hier in Molde auf einer Veranda mit einem Pierrot? ... Ist es 
+nicht am Ende doch ein Traum? ... Ruh ich vielleicht in Klärens Armen? ... Ist es am Ende noch immer dieselbe Nacht? ...</said> – Und unwillkürlich riß er die Augen weit auf. 
+                  <said id="16" mode="direct" content="speech" level="1">»Wirst du mich rächen?«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">fragte</seg> <seg id="16 19" type="speaker">Sigurd</seg> plötzlich.</seg> 
+                  <said id="17" mode="direct" content="speech" level="1">»Rächen? ... Ja warum? was ist denn geschehen?«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">fragte</seg> der <seg id="17" type="speaker">Freiherr</seg></seg> und hörte <said id="18" mode="reported" content="speech" level="1"><seg id="18" type="speaker">seine</seg> eigenen <seg id="18" type="intExpr">Worte</seg></said> wie von ferne her. 
+                  <said id="19" mode="direct" content="speech" level="1">»Weil sie mich zugrunde gerichtet hat, weil ich verloren bin.«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»<said id="21" mode="reported" content="speech" level="2" nonfact="yes"><seg id="21" type="intExpr">Erzähle</seg> mir endlich</said>,«</said><seg id="20" type="frame" pos="end"> <seg id="20" type="intExpr">sagte</seg> <seg id="20" type="speaker">Leisenbohg</seg> mit harter, trockener Stimme.</seg> 
+                  <said id="22" mode="direct" content="speech" level="1">»Fanny Ringeiser war mit uns,«</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">fuhr</seg> <seg id="22 21 23" type="speaker">Sigurd</seg> <seg id="22" type="intExpr">fort</seg>.</seg> <said id="23" mode="direct" content="speech" level="1">»Sie ist ein gutes Mädchen, nicht wahr?«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»Ja, sie ist ein gutes Mädchen,«</said> <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">erwiderte</seg> <seg id="24 26" type="speaker">Leisenbohg</seg></seg> und sah mit einem Male das halbdunkle Zimmer vor sich mit den blausamtenen Möbeln und den Ripsvorhängen, <said id="25" mode="reported" content="speech" level="1">wo <seg id="25" type="speaker">er</seg> vor mehreren hundert Jahren mit Fannys Mutter <seg id="25" type="intExpr">gesprochen</seg> hatte.</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Sie ist ein ziemlich dummes Mädchen, nicht wahr?«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»<said id="28" mode="reported" content="thought" level="2" border="yes"><seg id="28" type="speaker">Ich</seg> <seg id="28" type="intExpr">glaube</seg></said>«</said><seg id="27" type="frame" pos="end">, <seg id="27" type="intExpr">erwiderte</seg> der <seg id="27" type="speaker">Freiherr</seg>.</seg> 
+                  <said id="29" mode="direct" content="speech" level="1">»<said id="30" mode="reported" content="thought" level="2" border="yes"><seg id="30" type="speaker">Ich</seg> <seg id="30" type="intExpr">weiß</seg> es</said>,«</said> <seg id="29" type="frame" pos="end"><seg id="29" type="intExpr">sagte</seg> <seg id="29 31" type="speaker">Sigurd</seg>.</seg> <said id="31" mode="direct" content="speech" level="1">»<seg id="32" type="frame" pos="start"><seg id="32" type="speaker">Sie</seg> <seg id="32" type="intExpr">ahnte</seg> nicht,</seg> <said id="32" mode="indirect" content="thought" level="2" nonfact="yes">wie glücklich wir waren.</said>«</said> <said id="33" mode="reported" content="speech" level="1" nonfact="yes">Und <seg id="33" type="speaker">er</seg> <seg id="33" type="intExpr">schwieg</seg> lange.</said> 
+                  <said id="34" mode="direct" content="speech" level="1">»Weiter,«</said> <seg id="34" type="frame" pos="end"><seg id="34" type="intExpr">sagte</seg> <seg id="34" type="speaker">Leisenbohg</seg></seg> und wartete. 
+                  <said id="35" mode="direct" content="speech" level="1">»Eines Morgens schlief Kläre noch,«</said> <seg id="35" type="frame" pos="end"><seg id="35" type="intExpr">begann</seg> <seg id="35 36" type="speaker">Sigurd</seg> von neuem.</seg> <said id="36" mode="direct" content="speech" level="1">»Sie schlief immer weit in den Morgen hinein. Ich aber ging im Walde spazieren. Da kam plötzlich <seg id="37" type="speaker">Fanny</seg> hinter mir hergelaufen. <said id="37" mode="direct" content="speech" level="2">›Fliehen Sie, Herr Ölse, eh' es zu spät ist; reisen Sie ab, denn Sie befinden sich in höchster Gefahr!‹</said> Sonderbarerweise wollte <seg id="38" type="speaker">sie</seg> mir anfangs durchaus <said id="38" mode="reported" content="speech" level="2" nonfact="yes">nicht mehr <seg id="38" type="intExpr">sagen</seg>.</said> <said id="39" mode="reported" content="speech" level="2">Aber <seg id="39 40" type="speaker">ich</seg> <seg id="39" type="intExpr">bestand darauf</seg></said> <seg id="40" type="frame" pos="start">und <seg id="40" type="intExpr">erfuhr</seg> endlich,</seg> <said id="40" mode="indirect" content="speech" level="2" border="yes"><said id="41" mode="reported" content="thought" level="2">was für eine Gefahr mir <seg id="41" type="speaker">ihrer</seg> <seg id="41" type="intExpr">Meinung</seg> nach drohte.</said></said> Ah, <seg id="42" type="frame" pos="start"><seg id="42" type="speaker">sie</seg> <seg id="42" type="intExpr">glaubte</seg>,</seg> <said id="42" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß ich noch zu retten wäre</said>, <said id="43" mode="reported" content="speech" level="2">sonst hätte <seg id="43" type="speaker">sie</seg> mir gewiß nichts <seg id="43" type="intExpr">gesagt</seg>!</said>«</said> 
+                  Der grüne Plaid auf dem Geländer blähte sich auf wie ein Segel, das Lampenlicht auf dem Tisch flackerte ein wenig. 
+                  <said id="44" mode="direct" content="speech" level="1">»<said id="45" mode="reported" content="speech" level="2" nonfact="yes">Was hat dir <seg id="45" type="speaker">Fanny</seg> <seg id="45" type="intExpr">erzählt</seg>?</said>«</said> <seg id="44" type="frame" pos="end"><seg id="44" type="intExpr">fragte</seg> <seg id="44" type="speaker">Leisenbohg</seg> streng.</seg> 
+                  <said id="47" mode="direct" content="speech" level="1">»<said id="49" mode="reported" content="thought" level="2" nonfact="yes"><seg id="49" type="intExpr">Erinnerst</seg> <seg id="49" type="speaker">du</seg> <seg id="49" type="intExpr">dich</seg> des Abends,</said>«</said><seg id="47" type="frame" pos="mid"> <seg id="47" type="intExpr">fragte</seg> <seg id="47" type="speaker">Sigurd</seg>,</seg> <said id="47" mode="direct" content="speech" level="1">»<said id="49" mode="reported" content="thought" level="2">an dem wir alle in Klärens Haus zu Gaste waren?</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

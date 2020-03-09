@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Buchbinder. Handwerkernovelle.</title>
+             <author>Boas, Eduard </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341548_270058.txt_27.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Ein Buchbinder. Handwerkernovelle.</f>
+         <f name="author">Boas, Eduard </f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Dem zugewanderten Gesellen gefiel es hier, und mit größerer Freundlichkeit, als ihm sonst
+                        eigen war, da er es vorzog, sich stets einen gewissen verbrießlichen
+                        Ernst zu bewahren, <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">bat</seg> <seg id="1" type="speaker">er</seg> den Meister um Arbeit.</said>
+               <said id="2" mode="direct" content="speech" level="1">— Ei nun!</said> <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">antwortete</seg> <seg id="2 3" type="speaker">Trappe</seg></seg>, indem er höflich sein grünes
+                        Saamtkäppchen auf dem Haupte rückte. <said id="3" mode="direct" content="speech" level="1">An Arbeit fehlt es, Gott
+                        sei Dank! nicht, und mein Gesell hat sich vor acht Tagen aus Un- 
+               
+               vorsichtigkeit so in die Hand geschnitten, daß er jetzt im Lazareth liegen muß. Zeigen Sie mir doch einmal Ihre Papiere?</said>
+                         
+               Bims holte die Brieftasche heraus, gab Kundschaft und Zeugnisse dem Meister, und da dieser darin nur Löbliches fand, so waren die Bedingungen bald geschlossen. Der Parchwitzer holte seine
+                        Felleisen-Equipage aus der Herberge ab, bezahlte die kleine Zeche,
+                        und nach einer Stunde saß er bereits, mit blauer Leinwandschürze
+                        angethan, an der Heftlade in Trappe's Werkstätte.
+               Er mußte sich wohl behaglich fühlen in der neuen Umgebung,
+                        denn in dem Hause des Buchbinders war es still, hell und sauber,
+                        wie in einem Kirchlein. Betrat man den kühlen Hausflur, so lag
+                        zur rechten Hand die Arbeitsstube mit ihren Schränken und Pressen,
+                        mit dem eigen aufgeschichteten Vorrath von Pappen, mit den blanken Messingstempeln zum Vergolden und den Leim- und Kleistertiegeln. Nirgends sah man Lederstreifen oder Papierschnitzel unordentlich umherliegen, sondern das Alles wurde gleich sorgsam unter den
+                        großen Tisch gefegt, und die Sonnenstrahlen fielen angenehm durch
+                        grüne Leinwandrouleaur herein. Gegenüber befand sich das Wohn-,
+                        Putz- und Speisezimmer der Familie Trappe, und hier blitzten Möbel und Scheiben, Gardinen und Tischdecken voll Reinlichkeit. Eine
+                        Hauptzierde des Gemaches war der blankpolirte Glasschrank, in dem
+                        die fertig gebundenen Bibeln und Bücher mit ihrer schimmernden
+                        Vergoldung standen, und dazwischen waren hin und wieder buntgemalte Porzellantassen angebracht, in denen dunkelrothe, guterhaltene Aepfel lagen.
+               Dies Zimmer war aber auch die Freude der Frau Trappe,
+                        eines kleinen, blonden Weibchens von etwa vierzig Jahren. Ihre
+                        Haube, ihre faltige Schürze zeigten sich immer weiß, wie frischgefallener Schnee, und ihr lächelndes, gesundes Antlitz konnte über
+                        nichts so mürrisch werden, als wenn Jemand Schmutzflecke in die
+                        gute Stube brachte. Sie ließ den ganzen Tag scheuern, putzen und
+                        waschen, half selbst dabei, und ihre Gardinen hinter den spiegelklaren Scheiben sahen gewöhnlich sauberer und zierlicher aus, als es
+                        bei manchen vornehm stolzen Nachbarsleuten der Fall war. Frau
+                        Trappe fand Wohlgefallen an dem neuen Gesellen, <seg id="4" type="frame" pos="start">denn <seg id="4" type="speaker">man</seg> <seg id="4" type="intExpr">merkte</seg>
+                        wohl,</seg> <said id="4" mode="indirect" content="thought" level="1">daß er ordentlicher Leute Kind sei.</said> Er machte niemals Kleisterflecke, und ehe er Mittags zu Tische kam, wusch er sich und zog
+                         
+               
+               den Sonntagsrock an. <seg id="5" type="frame" pos="start">Dafür <seg id="5" type="intExpr">begrüßte</seg> ihn aber auch ein recht freundliches:</seg> <said id="5" mode="direct" content="speech" level="1">Guten Tag, Mosjöh Bims! Wollen Sie sich nicht setzen?</said>
+                        und er bekam stets ein braunes, saftiges Stückchen, wenn es Braten gab.
+               Es gefiel der Meisterin ebenfalls, das der Gesell sich nicht so
+                        viel auf der Herberge umhertrieb, sondern sich bessere Gesellschaft
+                        suchte. Die Buchbinder haben nämlich ihre Herbergen und Handwerksgebräuche wie andere Innungen, <said id="6" mode="reported" content="thought" level="1" nonfact="yes" border="yes">aber <seg id="6" type="speaker">Zebedäus</seg> <seg id="6" type="intExpr">wußte</seg> beinahe
+                        nichts davon.</said> In Parchwitz wohnte nur ein einziger Buchbinder,
+                        und seit mehrern Menschenaltern hatte sich dieses Fach in der Bims'schen Familie fortgeerbt. Die jungen Bimse wanderten nicht, sondern lernten das Handwerk bei ihrem Vater und unterstützten ihn,
+                        bis er ihnen später die Buchbinderei übergab.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

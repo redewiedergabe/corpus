@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Heilige</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Der_Heilige.tg386_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Heilige</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="reported" content="thought" level="1">Der König hielt <said id="27" mode="reported" content="thought" level="2" nonfact="yes">dieses staunenswerte Ereignis für erfunden</said>, <said id="2" mode="reported" content="speech" level="2" nonfact="yes">oder wenigstens von den Neidern und Feinden seines Lieblings ins Große getrieben.</said></said> <said id="3" mode="reported" content="speech" level="1">Er machte sich über seine normännischen Hofleute lustig, die solches neue und unerhörte Ding verdroß.</said> 
+                     <said id="4" mode="direct" content="speech" level="1">›Herren‹</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">schäkerte</seg> <seg id="4" type="speaker">er</seg> mit ihnen,</seg> <said id="4" mode="direct" content="speech" level="1">›<seg id="26" type="frame" pos="start">das <seg id="26" type="intExpr">müßt</seg> <seg id="26" type="speaker">ihr</seg> meinem Kanzler schon <seg id="26" type="intExpr">lassen</seg>,</seg> <said id="26" mode="indirect" content="speech" level="2" nonfact="yes"><said id="5" mode="reported" content="thought" level="3" border="yes">über Miene und schickliche Tracht jeden Standes weiß er Bescheid.</said></said> In allem zeigt er Geschmack! Euch hat er in der Vollendung des Höflings vorgeleuchtet und euch alle an feinem ritterlichen Anstand übertroffen. Jetzt gibt er seinen neuen Standesgenossen, den Bischöfen, das hohe Beispiel der echten apostolischen Lebensart. Ein seltener, oh, ein einziger Mann!‹</said> 
+                     Als <said id="28" mode="reported" content="speech" level="1">neue Kunden</said> <said id="29" mode="reported" content="speech" level="1">die erste</said> bestätigten, <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">hinzufügend</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">der Primas habe sein kostbares Bischofsgewand gleich nach der feierlichen Handlung der Weihe wieder abgelegt und wandle mit magerem, verfastetem Angesicht in einer groben Kutte durch die Straßen von Canterbury, seine Gäste, die sächsischen Bettler, wo er gehe und stehe, hinter sich herziehend</said>, da wurde Herr Heinrich unsicher und <said id="9" mode="reported" content="speech" level="1" nonfact="yes">die scherzhaften Anwandlungen vergingen ihm</said>; <seg id="10" type="frame" pos="start">doch bald hatte <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">erraten</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1">daß der unvergleichlich Kluge die Maske eines heiligen Mannes nur vorgenommen, um gegen den Papst <said id="11" mode="reported" content="speech" level="2" nonfact="yes">in den bevorstehenden Unterhandlungen</said> über die geistliche Gerichtsbarkeit in Engelland eine Macht zu gewinnen.</said> 
+                     <seg id="12" type="frame" pos="start">Immerhin <seg id="12" type="intExpr">beschloß</seg> <seg id="12" type="speaker">er</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1">selbst zu der Sache zu sehen</said>, und beschleunigte seine Überfahrt nach Engelland.
+                     Unterwegs zwischen Dover und London wurde er zu wiederholten Malen von normännischen Herren erwartet und <said id="13" mode="reported" content="speech" level="1">um Recht angerufen gegen den neuen Primas, seinen Kanzler</said>, <said id="14" mode="indirect" content="speech" level="1">der sich weigere, ihnen ihre entlaufenen sächsischen Knechte zurückzugeben, welche</said> <seg id="14" type="frame" pos="mid">– so <seg id="14" type="intExpr">klagten</seg> die <seg id="14" type="speaker">Herren</seg> –</seg> <said id="14" mode="indirect" content="speech" level="1">jetzt haufenweise den Klöstern zueilen, um sich das Haupt scheren zu lassen</said>, wozu Herr Heinrich mißmutig das seinige schüttelte. 
+                     Am Morgen nach seiner Ankunft in Windsor versammelte sich in der großen Halle des Schlosses aller Adel, um die heimgekehrte Majestät zu begrüßen. Sie schlummerte noch. Ich aber bewachte die Tür, durch welche mein König in die Halle zu treten pflegte, und von wo sich die glänzende Versammlung leicht überschauen ließ. 
+                     <said id="15" mode="reported" content="speech" level="1">Unter all den Herren war von nichts anderem die Rede als von der unerklärlich plötzlichen Verwandlung des Herrn Thomas</said> Sie waren gespannt auf seine Erscheinung; <seg id="16" type="frame" pos="start">denn <seg id="16" type="speaker">sie</seg> <seg id="16" type="intExpr">wußten</seg>;</seg> <said id="16" mode="indirect" content="thought" level="1" border="yes">daß er kommen würde, die Majestät zu begrüßen</said>, <said id="17" mode="reported" content="speech" level="1">und unterhielten sich lebhaft mit gedämpften Stimmen</said>, wie es sich in königlichen Gemächern geziemt. Nur Herr Rollo, der Greis, der sie alle um Haupteslänge überragte, tat sich keine Gewalt an und <said id="18" mode="reported" content="speech" level="1">seine Rede grollte wie ein dumpf rollender Donner.</said> 
+                     Er stand auf der rechten Seite des Saales in einem Kreise bejahrter Herren, die hagerste, trockenste Gestalt unter ihnen, <said id="19" mode="reported" content="speech" level="1">und lästerte nach seiner Art gegen die Gesamtheit der Geschorenen und den neuen Primas insbesondere.</said> 
+                     <said id="20" mode="direct" content="speech" level="1">›<said id="21" mode="reported" content="thought" level="2" nonfact="yes">Nie traute ich ihm Mannestreue zu</said>‹</said><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">schalt</seg> der <seg id="20" type="speaker">Waffenmeister</seg>, </seg><said id="20" mode="direct" content="speech" level="1">›<said id="21" mode="reported" content="thought" level="2" nonfact="yes">dieser blassen Memme!</said> Der falsche und feige Sklave duckt seinen dünnen Leib in die Kutte, <said id="22" mode="reported" content="thought" level="2">weil er ihn dort mehr in Sicherheit glaubt, als unter dem Schilde seines Königs.</said> Hätt ich mit dem Heuchler angebunden, solange er ein Schwert trug! Ihr werdet erleben, der Ränkeschmied stiftet uns schweres Unheil an!‹</said> 
+                     <said id="23" mode="reported" content="speech" level="1">Und die Herren stimmten ihm bei.</said> 
+                     <said id="24" mode="reported" content="speech" level="1">Auf der anderen Seite höhnten und kicherten die Jüngern</said>, denen Herr Wilhelm Tracy sein Mokierbüchlein wies.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

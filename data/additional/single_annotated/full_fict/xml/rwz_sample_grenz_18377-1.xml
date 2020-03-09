@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Maßgebliches und Unmaßgebliches</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341875_238787.txt_24.xml</f>
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Maßgebliches und Unmaßgebliches</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Fühlt sich ein Bauherr in dieser Beziehung nicht sicher, so mag
+                        er sich an einen Innungsmeister wenden, und daß hierzu reichliche Gelegenheit
+                        durch Unterstützung des Innungswesens und der fakultativen Meisterprüfungen gegeben werde, das scheint allerdings wünschenswert.
+            Die Behauptungen unter 2 und 3 werden einfach durch den Hinweis auf das
+                        Widerlegt, was seit den letzten dreißig Jahren im Baugewerbe geleistet worden ist.
+                        Wo so zahlreiche Bauten in anerkannt tüchtiger und gediegner Ausführung hergestellt worden sind, da müssen eben auch die Meister dafür vorhanden sein. Freilich
+                        sind es nicht gerade solche Meister wie die, die das Baugewerbe vor 1870 beherrschten. Damals waren es Maurer- und Zimmernleister, die mit ihren durch die
+                        Prüfung bewiesenen, für die gute Ausübung des Handwerks genügenden Kenntnissen
+                        die meisten Privatbauten in wenig künstlerischer aber sonst tüchtiger Weise nach
+                        Hnndwerlsgebrauch und Gewohnheit ausführten; heute sind es zahlreiche akademisch
+                        gebildete Architekten, die mit ungleich größerer Sachkenntnis, mit einer Ausbildung,
+                        die in nichts gegen die der Baukünstler andrer Länder zurücksteht, die führende
+                        Rolle im Privatbauwesen spielen. <said id="1" mode="indirect" content="speech" level="1">Daß uuter ihrer Leitung das Bauhandwerk in
+                        seiner Fertigkeit in den technischen Leistungen im Rückgange begriffen sei</said><seg id="1" type="frame" pos="end">, ist eine
+                         
+            
+            <seg id="1" type="intExpr">Behauptung</seg>, die der Augenschein so sehr widerlegt, daß es weiterer Nachweise
+                        dafür nicht bedarf.</seg>
+            Die Behauptung unter 4 kann auch nur für gewisse Spekulationsbauten
+                        als berechtigt anerkannt werden. Es ist richtig, daß wucherische Spekulanten unsolide Leute als ihre Bauunternehmer wählen, die dann mit wenig geschickten oder
+                        unzuverlässigen Gehilfen den Bau billig und schlecht ausführen. Dieses Verfahren
+                        wird wesentlich dadurch unterstützt, daß die Revision der Baupläne und die Kontrolle
+                        der Bauausführung dnrch die Baupolizeibeamten immer strenger geworden ist. So
+                        unwahrscheinlich das klingt, ist es doch zutreffend. Der Bauherr ist durch die baupolizeiliche Kontrolle der Pläne und der Ausführung gegenüber der Behörde vollkommen gedeckt, er kann sein Ziel, aus dem Unternehmer das Möglichste zu erpressen —<said id="2" mode="reported" content="speech" level="1" nonfact="yes" prag="yes"> <seg id="2" type="speaker">wir</seg> wollen nicht <seg id="2" type="intExpr">sagen</seg> mit Seelenruhe</said> — aber doch mit vollkommner
+                        Sicherheit verfolgen. Seine Wahl des unfähigen oder unzuverlässigen Unternehmers
+                        bringt es mit sich, daß die von der Polizei als sicher bescheinigten Konstruktionen
+                        von ungeschickten oder lässigen Arbeitern mangelhaft ausgeführt, und daß schlechte
+                        Baumaterialien verwandt werden,<said id="6" mode="reported" content="thought" level="1" border="yes"> nicht selten gegen besseres <seg id="6" type="intExpr">Wissen</seg> des <seg id="6" type="speaker">Unternehmers</seg></said>, aber unter dem Druck der ihm bewilligten Preise. Kommt dann ein
+                        Unfall auf der Baustelle vor, dann fühlt sich der Bauherr ohne jede Verschuldung
+                        — er ist ja nicht Sachverständiger —, aber wegen des Geldverlustes, der ihn
+                        dabei trifft, ist er entrüstet über die mangelhafte Kontrolle der Polizei; <said id="4" mode="reported" content="speech" level="1" prag="yes"><seg id="4" type="speaker">er</seg> <seg id="4" type="intExpr">ruft</seg>
+                        nach ihrer Verschärfung</said>, <said id="3" mode="reported" content="speech" level="1" prag="yes">und das große <seg id="3" type="speaker">Publikum</seg>, gewöhnt die Behörden für alle
+                        Unfälle verantwortlich zu machen, <seg id="3" type="intExpr">ruft</seg> mit.</said> Wollte die Behörde aber erreichen,
+                        daß alle Arbeiten regelrecht ausgeführt und schlechte Materialien nicht verwandt
+                        würden, so müßte sie jeden Bau unter ständige polizeiliche Bauleitung stellen, weil
+                        sie sonst den betreffenden Beamten nicht für vorgekommne Fehler verantwortlich
+                        machen könnte. Das hieße den Teufel mit Beelzebub austreiben, denn unsre Behörden folgen schon jetzt <said id="7" mode="reported" content="speech" level="1">dem <seg id="7" type="intExpr">Rufe</seg> nach baupolizeilicher Kontrolle</said> viel weiter, <said id="5" mode="reported" content="thought" level="1">als
+                        im Interesse der Allgemeinheit <seg id="5" type="intExpr">erwünscht</seg> ist.</said>
+            Wer die verschiednen Bauordnungen mit sachverständigen Blick durchsieht, wird
+                        nicht selten finden, daß darin die bau- und die feuerpolizeilichen Rücksichten den
+                        Bau kleiner Wohnhäuser mit kostspieligen Ausführungen belasten, die in ihrem ganzen
+                        Umfange nur für so große Mietkasernen begründet sind, wie die Verordnung sie
+                        noch eben zuläßt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

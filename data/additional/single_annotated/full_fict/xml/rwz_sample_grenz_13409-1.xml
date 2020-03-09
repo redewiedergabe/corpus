@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der deutsche Bund.</title>
+             <author>Pape, R.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341847_202098.txt_27.xml</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Der deutsche Bund.</f>
+         <f name="author">Pape, R.</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Daß
+                        diese beiden Monarchen am liebsten so schleunig wie möglich aus dem deutschen
+                        Bunde ausgetreten wären, <said id="1" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">bedarf kaum einer <seg id="1" type="intExpr">Bemerkung</seg>.</said> Ebenso wenig, daß
+                        sie bestrebt waren, die Kräfte dieser deutschen Bundesstaaten nur im Interesse
+                        ihres Gesamtstaates zu verwerten. Daraus folgt dann von selbst, daß diese
+                        Bundeslande nicht nur tote Glieder am Körper Deutschlands waren, sondern
+                        daß namentlich ihre finanziellen und militärischen Hilfsmittel nicht nur für
+                        Zwecke ausgenutzt wurden, die Deutschland fremd, sondern häufig auch für solche,
+                        welche ihm geradezu nachteilig und schädlich waren. <said id="2" mode="indirect" content="thought" level="1">Daß Dänemark ein halbes
+                        Jahrhundert lang sein ganzes Streben darauf richtete, zunächst Schleswig und
+                        dann Lauenburg dem Gesamtstaate völlig einzuverleiben</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">ist</seg> ja aus der allgemeinen Geschichte <seg id="2" type="intExpr">bekannt</seg> genug.</seg> Wäre ihm dies gelungen, so kam Holstein
+                        an die Reihe, und dann waren die „meerumschlungenen Lande" ganz für Deutschland verloren. Wenn der König der Niederlande mit Luxemburg, das, gleich
+                        den Elbherzogtümern, mit dem Hauptstaate nur durch Personalunion verknüpft
+                        war, nicht ebenso verfuhr, so lag das wesentlich nur daran, daß die starke
+                        preußische Besatzung in der Bundesfestung Luxemburg allen solchen Plänen von
+                        vornherein im Wege stand. Daß es der holländischen Negierung nicht an dem
+                        guten Willen fehlte, die Interessen Deutschlands zu schädigen, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">dafür ließen sich
+                        viele Beispiele <seg id="3" type="intExpr">anführen</seg></said>, z. B. der bekannte Streit über die Rheinzölle. <said id="9" mode="reported" content="thought" level="1">Wie
+                        wenig <seg id="9" type="intExpr">Wert</seg> aber überhaupt der <seg id="9" type="speaker">König-Großherzog</seg> persönlich auf den Besitz
+                        seines Großherzogtums <seg id="9" type="intExpr">legte</seg></said>, dafür bietet den schlagendsten Beweis jener be 
+            
+            rüchtigte Schacher mit Napoleon III. im Jahre 1867, der Luxemburg mit seiner
+                        starken Festung den Franzosen in die Hände spielen und ihnen somit, neben
+                        Straßburg und Metz, ein drittes Ausfallsthor gegen Deutschland liefern sollte.
+            Diese fünf (später vier) Staaten waren, neben ihrer Eigenschaft als Mitglieder des Bundes, zugleich auch „europäische Mächte," und ihre „europäischen,"
+                        namentlich aber auch ihre nationalen Interessen überwogen, abgesehen von
+                        Preußen, ihre deutschen Interessen bei weitem oder liefen ihnen gar schnurstracks
+                        zuwider. Die übrigen Bundesstaaten, von denen allerdings die etwas größern
+                        auch mit mehr oder weniger Erfolg selbständige Großmächte zu spielen suchten,
+                        genossen zwar nicht des Vorzuges, als „europäische" Mächte angesehen zu werden;
+                        <seg id="4" type="frame" pos="start">wenn <seg id="4" type="speaker">man</seg> aber <seg id="4" type="intExpr">glauben</seg> wollte,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß sie an einem Strange gezogen, daß sie als
+                        ihre wahren Interessen nur die allgemein-deutschen anerkannt und nur diese verfolgt hätten</said>, so würde man sehr irren. Der Sondervorteil der Fürstenhäuser
+                        und des damit zusammenhängenden Adels- und Beamtenstandes, der engherzige
+                        und kurzsichtige Partikularismus der Bevölkerungen, <said id="5" mode="reported" content="speech" level="1">den <seg id="5" type="speaker">man</seg> als berechtigte
+                        Eigentümlichkeit der von jeher getrennten deutschen Stämme zu <seg id="5" type="intExpr">bezeichnen</seg> liebte</said>,
+                        verhinderten stets jegliche Einigkeit, jegliches gemeinsame Zusammengehen. Zwar
+                        fiel der wahre Vorteil der Dynastien und der der Bevölkerung fast niemals
+                        zusammen, (<said id="6" mode="reported" content="thought" level="1" nonfact="yes" prag="yes"><seg id="6" type="speaker">man</seg> <seg id="6" type="intExpr">denke</seg> nur an den Zollverein, an Münz-, Maß- und Gewichtseinheit, Freizügigkeit, gemeinsames Indigenat u. s. w.</said>); zwar war jeder der
+                        größern Staaten aus verschiednen deutschen Stämmen willkürlich zusammengesetzt, z. B. enthielt das „bairische Reich," <seg id="7" type="frame" pos="start">wie <seg id="7" type="speaker">man</seg> damals gern <seg id="7" type="intExpr">sagte</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">Baiern,
+                        Schwaben, Alemannen, Ostfranken, Rheinfranken, Obersachsen und sogar einige
+                        tausend Wallonen in der Pfalz</said>; aber das schadete nichts,<said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes"> solche Thatsachen durften
+                        dem <seg id="8" type="speaker">Volke</seg> ja nicht<seg id="8" type="intExpr"> zum Bewußtsein kommen</seg></said>; so etwas lernte man damals weder
+                        auf deutschen Gymnasien, noch auf deutschen Universitäten.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

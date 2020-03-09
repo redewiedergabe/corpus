@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung036_1852_9.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Zeitungsschau.
+                        
+            
+            Bremen. Am 1. Mai lief das Schiff „Arnold Böninger“, ca. 800 Last
+                        groß ( eins der „kleinen Tabackschiffe“ der „Posaune“ ) , vom Stapel; es ist
+                        dies das größte Schiff, welches bis jetzt von der Weser gefahren. Gebaut
+                        wurde dasselbe auf der Werft des Hrn. Lange zu Vegesack für Rechnung
+                        der Herren Böninger in Duisburg.
+            Hamburg, 30. April. Mit der größten bis jetzt von hier aus auf
+                        einem Schiffe abgesegelten Passagierzahl, nämlich 363, verließ heute das
+                        neue Schiff „Java“ den Hafen, um seine erste Reise nach Newyork
+                         anzutreten.
+            ( C. B. ) Berlin, 29. April. <seg id="1" type="frame" pos="start">Es ist kürzlich davon <seg id="1" type="intExpr">die Rede gewesen</seg>, </seg><said id="1" mode="indirect" content="speech" level="1">daß
+                        bei der großen Ausdehnung, welche die Auswanderung jetzt nehme, <said id="2" mode="reported" content="speech" level="2">die Reactivirung verschiedener Bestimmungen über Erhebung von Abfahrts= und Abschoßgeld bei unserer <seg id="2" type="speaker">Regierung</seg> <seg id="2" type="intExpr">zur Sprache gebracht</seg> worden sei.</said> </said>Wie wir
+                        hören, ist dieselbe jedoch durchaus allen Beschränkungen der Auswanderungsfreiheit, und als solche wären jene Bestimmungen doch auch anzusehen, abgeneigt.
+            St. Lonis, 3. März. <said id="3" mode="reported" content="thought" level="1">Unsere <seg id="3" type="speaker">Leser</seg> werden sich des mysteriösen Verschwindens unseres deutschen Mitbürgers Eilers im vergangenen Januar,
+                        sowie des schweren Verdachtes, der dadurch gegen seinen Schwager Ohlendorf entstanden war und Ursache gerichtlichen Einschreitens wurde, <seg id="3" type="intExpr">erinnern</seg>.</said>
+                        <said id="5" mode="reported" content="speech" level="1">Gestern nun kam <seg id="5" type="speaker">Eilers</seg> selbst, in eigener Person, lebendig und munter
+                        hier an und <seg id="5" type="intExpr">stellte</seg> <seg id="5" type="intExpr">sich</seg> seinen erstaunten Freunden <seg id="5" type="intExpr">vor</seg>. </said><seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Er</seg> giebt über die
+                        Affaire die <seg id="6" type="intExpr">Auskunft</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß er am Tage seines Verschwindens an Bord des
+                        „Aleck Scott“ gegangen und dort, da er etwas angetrunken gewesen, in
+                        Schlaf gefallen sei.</said> Als er erwachte, fand er, daß das Boot abgegangen
+                        und auf dem Wege nach Neworleans sei, wohin er unfreiwillig mitreiste.
+                        Nachdem er dort kurze Zeit geblieben, kehrte er als Deckarbeiter nach
+                        Louisville zurück, vernahm dort von der gegen Ohlendorf erhobenen
+                        Anklage, und kam dann hierher, um durch sein persönliches Erscheinen die
+                        Unschuld seines Schwagers darzuthun. Er und sein angeblicher Mörder
+                        stehen auf dem besten Fuß und sind, <seg id="4" type="frame" pos="start">wie <seg id="4" type="speaker">Eilers</seg> <seg id="4" type="intExpr">sich ausdrückt</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">„ geschworene Brüder“.
+ </said>           Auf der Panama=Bahn gehen vom 3. April regelmäßig Personenzüge bis Buena Vista,<seg id="7" type="frame" pos="start"> und <seg id="7" type="intExpr">hofft</seg> <seg id="7" type="speaker">man</seg></seg> <said id="7" mode="indirect" content="thought" level="1">am 18. schon die Strecke bis
+                        Freola eröffnen zu können</said>, wo dann bloß zwölf Meilen zu Wasser zu
+                        machen wären.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

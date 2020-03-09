@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Marthe und ihre Uhr</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Marthe_und_ihre_Uhr.tg198_1.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Marthe und ihre Uhr</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dann gingen sie an den Tisch, aber nach der Weise des Hauses ohne Hast und <said id="1" mode="reported" content="speech" level="1" nonfact="yes">laute Freudenäußerung</said>, und betrachteten was ihnen das Christkind einbeschert hatte. Das waren nun freilich keine teuern Spielsachen, auch nicht einmal wohlfeile; sondern lauter nützliche und notwendige Dinge, ein Kleid, ein Paar Schuhe, eine Rechentafel, ein Gesangbuch und dergleichen mehr; aber die Kinder waren gleichwohl glücklich mit ihrer Rechentafel und ihrem neuen Gesangbuch, und sie gingen eins ums andere dem Vater die Hand zu küssen, der währenddessen zufrieden lächelnd in seinem Lehnstuhl geblieben war. Die Mutter mit ihrem milden freundlichen Gesicht unter dem enganliegenden Scheiteltuch band ihnen die neue Schürze vor und <said id="6" mode="reported" content="writing" level="1">malte ihnen Zahlen und Buchstaben <said id="5" mode="reported" content="writing" level="2" nonfact="yes">zum Nachschreiben</said> auf die neue Tafel.</said> Doch sie hatte nicht gar lange Zeit, sie mußte in die Küche und Apfelkuchen backen; denn das war für die Kinder eine Hauptbescherung am Weihnachtabend; die mußten notwendig gebacken werden. <seg id="2" type="frame" pos="start">Da schlug der <seg id="2" type="speaker">Vater</seg> das neue Gesangbuch auf und <seg id="2" type="intExpr">stimmte</seg> mit seiner klaren Stimme <seg id="2" type="intExpr">an</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Frohlockt, lobsinget Gott«</said>; <seg id="3" type="frame" pos="start">die <seg id="3" type="speaker">Kinder</seg> aber, die alle Melodien kannten, <seg id="3" type="intExpr">stimmten ein</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Der Heiland ist gekommen«</said>; und so sangen sie den Gesang zu Ende, indem sie alle um des Vaters Lehnstuhl herumstanden. Nur in den Pausen hörte man in der Küche das Hantieren der Mutter und das Prasseln der Apfelkuchen. – – 
+                  Tick, tack! ging es wieder; tick, tack! immer härter und 
+eindringlicher. Marthe fuhr empor; da war es fast dunkel um sie her, draußen auf dem Schnee nur lag trüber Mondschein. Außer dem Pendelschlag der Uhr war es totenstill im Hause. Keine Kinder sangen in der kleinen Stube, kein Feuer prasselte in der Küche. Sie war ja ganz allein zurückgeblieben; die andern waren alle, alle fort. – <said id="7" mode="freeIndirect" content="thought" level="1">Aber was wollte die alte Uhr denn wieder?</said> – Ja, <said id="15" mode="reported" content="speech" level="1" metaph="yes">da warnte es auf elf</said> – <said id="8" mode="reported" content="thought" level="1">und ein anderer Weihnachtabend tauchte in Marthens Erinnerung auf, ach! ein ganz anderer; viele, viele Jahre später!</said> Der Vater und die Brüder waren tot, die Schwestern verheiratet; die Mutter, welche nun mit Marthen allein geblieben war, hatte schon längst des Vaters Platz im braunen Lehnstuhl eingenommen und <said id="16" mode="reported" content="thought" level="1">ihrer Tochter die kleinen Wirtschaftssorgen übertragen</said>; denn sie kränkelte seit des Vaters Tode, ihr mildes Antlitz wurde immer blässer, und ihre freundlichen Augen blickten immer matter; endlich mußte sie auch den Tag über im Bette bleiben. Das war schon über drei Wochen, und nun war es Weihnachtabend. Marthe saß an ihrem Bett und horchte auf den Atem der Schlummernden; es war totenstill in der Kammer, nur die Uhr pickte. <said id="14" mode="reported" content="speech" level="1" metaph="yes">Da warnte es auf elf</said>, die Mutter schlug die Augen auf und <said id="10" mode="reported" content="speech" level="1">verlangte zu trinken.</said> <said id="11" mode="direct" content="speech" level="1">»Marthe«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">sie</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»wenn es erst Frühling wird und ich wieder zu Kräften gekommen bin, dann wollen wir deine Schwester Hanne besuchen; ich habe ihre Kinder eben im Traume gesehen – du hast hier gar zu wenig Vergnügen.«</said> – <seg id="12" type="frame" pos="start">Die <seg id="12" type="speaker">Mutter</seg> hatte ganz <seg id="12" type="intExpr">vergessen</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1" nonfact="yes">daß Schwester Hannes Kinder im Spätherbst gestorben waren</said>; <said id="13" mode="reported" content="thought" level="1" nonfact="yes">Marthe erinnerte sie auch nicht daran</said>, sie nickte schweigend mit dem Kopf und faßte ihre abgefallenen Hände. Die Uhr schlug elf. – 
+                  Auch jetzt schlug sie elf – aber leise, wie aus weiter, weiter Ferne.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

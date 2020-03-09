@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erlebnisse eines preußischen Kaufmanns während des galizischen Aufstandes im Jahre 1846.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341801_283352.txt_5.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Erlebnisse eines preußischen Kaufmanns während des galizischen Aufstandes im Jahre 1846.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Es war inzwischen dunkel geworden,
+                        <seg id="1" type="frame" pos="start">und <seg id="1" type="speaker">ich</seg> <seg id="1" type="intExpr">überlegte</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">was ich thun sollte, ob es besser wäre, ins Freie zu flüchten
+                        und im Schutze der Dunkelheit den Bauern zu entwischen, oder mich in den
+                        Krug zu begeben und <said id="2" mode="reported" content="speech" level="2" nonfact="yes">beim Krüger oder irgendeinem Verständigern unter den
+                        Bauern Schutz zu erbitten.</said></said> In dem Gaststalle konnte ich nicht bleiben, in der
+                        Winterkälte, ohne Nahrung und Wärme, aus Kopfwunden blutend, hätte ich
+                        von dem Ersten Besten, der allein in den Stall gekommen wäre, niedergeschlagen
+                        werden können; im Freien hätte ich vielleicht eine der benachbarten Hütten
+                        erreichen und mich bei einem mitleidigen Menschen verstecken können, vielleicht
+                        aber auch nicht, und wäre ich fliehend erreicht worden, so würde der Tod mein
+                        sicheres Loos gewesen sein. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Ich</seg> <seg id="3" type="intExpr">beschloß</seg> also</seg> <said id="3" mode="indirect" content="thought" level="1">durch eine vom Stall direct in
+                        den Krug führende Thür in die Hinterstube des Krügers zu schleichen und mich
+                        dort oder irgendwo anders von demselben verstecken zu lassen.</said> Aber in dem
+                        Augenblick, wo ich mich aufraffte, mußten meine Bewegungen wohl von einem
+                        der wachehaltenden Bauern bemerkt worden sein; denn sie stürzten mit Geschrei
+                         
+            
+            mir nach und drängten mich auf der Flucht in die Schenkstube, die von betrunkenen Bauern wimmelte. Ich drängte mich, den Kopf nach unten haltend,
+                        durch sie hindurch, um hinter den Schenktisch zu gelangen, <seg id="4" type="frame" pos="start">aber <seg id="4" type="speaker">Niezgoda</seg> hielt
+                        mich fest und <seg id="4" type="intExpr">rief</seg> dem Krüger <seg id="4" type="intExpr">zu</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">„Gieb die Stricke her, wir müssen den
+                        Racker aufhängen!"</said> Alsbald legte man mir eine Schlinge um den Hals, und
+                        als ich mich in Todesangst dagegen sträubte, hieb der trunkene Haufe auf mich
+                        los. Ein fürchterlicher Schlag über den Hirnschädel betäubte mich fast, ein heißer
+                        Strom Blutes rann mir über das Gesicht. Doch behielt ich — was vermag
+                        der Mensch nicht in solcher Gefahr? — noch so viel Kraft und Besinnung,
+                        daß ich die Hand in die Schleife steckte, die ohnehin an meinem Rockkragen
+                        anhakte, so daß ich dadurch vor der Erdrosselung geschützt wurde. Wüthend
+                        rissen mich die Bestien an dem Stricke hin und her, und ein vierschrötiger
+                        Kerl hieb mir mit einem Faustschläge die vier obern Borderzähne ein, so daß
+                        ich sie ausspie. In meiner Angst und bei dem namenlosen Schmerze, den mir
+                        namentlich der Verlust der Zähne verursachte, die an den Wurzeln abgebrochen
+                        waren, <said id="5" mode="reported" content="speech" level="1">schrie ich alles durcheinander, <said id="6" mode="reported" content="thought" level="2">was mir an Worten einfiel, die sie vielleicht zur Milde stimmen konnten.</said></said> <said id="7" mode="reported" content="speech" level="1" nonfact="yes">Doch endlich versagte mir die Stimme</said>, der
+                        Strick zog sich trotz aller Gegenwehr fester und fester, und ich wäre sicherlich
+                        erstickt, wenn nicht ein alter, weißhaariger Bauer in die Stube getreten wäre,
+                        <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">der</seg> <said id="8" mode="reported" content="speech" level="1">meine letzten Worte</said> hörte und sich beschwichtigend an seine Kameraden
+                        <seg id="9" type="intExpr">wandte</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">„Ich war,"</said> <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">er</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">„im französischen Kriege; da haben wir es so
+                        gemacht, <said id="10" mode="reported" content="speech" level="2">wenn einer Pardon rief</said>, dann haben wir ihm das Leben geschenkt!"</said>
+                        <said id="11" mode="reported" content="speech" level="1">Mit diesen Worten</said> wehrte er die Andern ab, indem er sich breitbeinig über
+                        mich stellte, schleppte mich, da mich meine Kräfte verließen, auf eine Bank im
+                        Winkel der Stube nahe dem Schenktisch, und nahm schnell den Strick vom
+                        Halse. Wilk, so hieß mein Retter, setzte sich vor mich und wehrte die Andern,
+                        <said id="12" mode="reported" content="speech" level="1">die nach einem Augenblick verdutzter Scheu, wieder mit wildem Geschrei nach
+                        meinem Leben verlangten</said>, mit Ruhe ab.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

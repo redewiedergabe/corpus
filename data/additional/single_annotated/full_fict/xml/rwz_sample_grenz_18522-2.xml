@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>König Laurin</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341877_239555.txt_66.xml</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">König Laurin</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">2</f>
+         <f name="narrative">no</f>
+         <f name="textype">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+Für die bisherigen Wildenbruchschen Dramen ließe sich leicht etwas ähnliches
+                        herstellen:
+                         
+            Anders,
+                        <said id="1" mode="reported" content="thought" level="1" border="yes"><seg id="1" type="intExpr">Begreif</seg> <seg id="1" type="speaker">ich</seg> wohl</said>, als sonst in Menschenköpfen,
+                        Malt sich in diesem Kopf die Welt-
+            Die Figuren würden alle den echt Wildenbruchschen bald naiven, bald zu derben,
+                        bald phantastischen, immer aber vorzeitlichen und etwas geschwollnen Typus tragen,
+                        und der Beschauer dürfte ebensowenig aus der Bewunderung für Wildenbruchs reckenhafte Gefühle wie aus dem Unbehagen über seine eigenwillige, bisweilen etwas schablonenhafte Darstellung herauskommen.
+            In einem Trauerspiel, dessen Held und Heldin dem Gotenstamme angehören,
+                        wie in König Laurin, fällt diese Unbequemlichkeit der Wildenbruchschen Muse kaum
+                        in Betracht, denn wo es sich um Ravenna und die Nachfolger des großen Theuderichs, die Amalungen handelt, sind wir alle gern bereit, für die Annahme des
+                        Gewaltigen, Außerordentlichen etwas übriges zu tuu und uns mit den Handlungen
+                        und Gefühlen von Übermenschen, dem eigentlichen Lebenselemente Wildenbrnchs,
+                        abzufinden. Die heroische Haltung des Ganzen und die einfache, darum aber nicht
+                        weniger wirkungsvolle und in der Katastrophe geradezu großartige Handlung des
+                        Stückes machen dieses in gewissem Sinne wirklich zu einem Meisterwerke,<said id="2" mode="reported" content="speech" level="1" nonfact="yes"> so ungern <seg id="2" type="speaker">man</seg> anderseits <said id="3" mode="reported" content="thought" level="2"><seg id="3" type="speaker">seine</seg> <seg id="3" type="intExpr">Bedenken</seg> wegen des alle Grenzen überschreitenden
+                        Großsprechertnms Wildenbruchs und seiner Helden und wegen der Art</said> <seg id="2" type="intExpr">verschweigen</seg>
+                        möchte</said>, in der er den Kaiser Justinian und dessen Hof gezeichnet hat.
+            <said id="4" mode="reported" content="writing" level="1" prag="yes">Für die Freunde der Grenzboten, die König Laurin weder gesehen noch gelesen haben sollten</said> — eine Unterlassung, die in unsrer durch soviel brennende
+                        Interessen in Anspruch genommenen Zeit nicht unbegreiflich wäre —,<said id="4" mode="reported" content="writing" level="1" prag="yes"> sei der Gang
+                        des Stückes nebst dessen hauptsächlichsten Szenen hier <seg id="4" type="intExpr">geschildert</seg></said>: <said id="5" mode="reported" content="writing" level="1" nonfact="yes">es wird sich dabei
+                        auch ab und zu eine <seg id="5" type="intExpr">Bemerkung</seg> über wahrgenommene besondre Schönheiten oder
+                        interessante Sonderbarkeiten einflechten lassen</said>, <said id="11" mode="reported" content="writing" level="1" nonfact="yes" prag="yes">und die <seg id="11" type="intExpr">Wiedergabe</seg> der Eindrücke,
+                        die mir das Stück gemacht hat, müßte sehr schlecht gelingen</said>, <said id="12" mode="reported" content="thought" level="1" nonfact="yes">wenn der <seg id="12" type="speaker">Leser</seg> nicht
+                        trotz der Ausstellungen einen aufrichtigen und von der Zukunft viel erwartenden
+                        Bewundrer des Wildenbruchschen Talents in mir <seg id="12" type="intExpr">erkennen</seg> sollte.</said>
+            Amalasunta, die Tochter Theoderichs des Großen, herrscht als Witwe des
+                        letzten Gotenkönigs Eutarich in Ravenna. Sie herrscht, aber unter den sonderbarsten Verhältnissen. <said id="6" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Die <seg id="6" type="speaker">Goten</seg> wollen von einer Königin nichts <seg id="6" type="intExpr">wissen</seg></said>, sie sind
+                        nur einem Manne zu gehorchen geneigt, und die Königin, ein Überweib in jeder
+                        Beziehung, würde nach gewöhnlichem menschlichem Ermessen nichts besseres tun
+                         
+            
+            können, als sich je eher je lieber mit dem besten und tapfersten ihrer Goten zu
+                        vermählen. Dem verstorbnen Gatten weint sie keine Träne nach: <said id="7" mode="reported" content="speech" level="1" prag="yes">es ist von ihm
+                        in dem Stück nur einmal beiläufig als dem Vater ihres gleichfalls verstorbnen
+                        Söhnchens Athalarich die <seg id="7" type="intExpr">Rede</seg></said>, und sie scheint keine guten Erfahrungen in der
+                        Ehe gemacht zu haben, denn sie will keinem zweiten Goten die Hand reichen,
+                        sie will nicht, <seg id="8" type="frame" pos="start">wie <seg id="8" type="speaker">sie</seg> sich etwas drastisch <seg id="8" type="intExpr">ausdrückt</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">„in den Stall des Manns
+                        heruntersteigen,"</said> <said id="13" mode="reported" content="speech" level="1">und <seg id="13" type="speaker">sie</seg> <seg id="13" type="intExpr">bezeichnet</seg> das von den Goten an sie gestellte Verlangen, sich wieder zu vermählen, als schnöde</said>, weil die Wahl ihr aufgezwungen
+                        wird. — <seg id="9" type="frame" pos="start">Die <seg id="9" type="speaker">Königin Elisabeth</seg> <seg id="9" type="intExpr">sagt</seg> ganz ähnlich:</seg> <said id="9" mode="direct" content="speech" level="1">„Und der Gebieter wird mir
+                        aufgedrungen."</said>
+                         
+            <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">bekenne</seg> offen, </seg><said id="10" mode="indirect" content="speech" level="1" prag="yes">daß mir das großsprecherische, phantastische Überweib im
+                        Grunde ein wenig zuwider ist</said>, aber sie einem zuwiderzumachen ist nicht Wildenbruchs Absicht, denn sie ist die Heldin des Stücks, und wenn die Darstellerin der
+                        Rolle von stattlicher Erscheinung ist, schöne Arme und üppige blonde Haare hat,
+                        so müßte es mit Kräutern zugehn, wenn sie einem nicht schließlich doch gefiele,
+                        <said id="14" mode="reported" content="speech" level="1">namentlich da ihre Gegner, das byzantinische Kaiserpaar, Justinian und seine Theodora, von Wildenbruch als ein so gottvergeßnes, elendes Pack, <said id="15" mode="indirect" content="speech" level="2" prag="yes">als solche Bagasch</said><seg id="15" type="frame" pos="end">,
+                        wie der <seg id="15" type="speaker">Wiener</seg> <seg id="15" type="intExpr">sagt</seg></seg>, <seg id="14" type="intExpr">geschildert</seg> werden</said>, daß man sich schon um des Gegensatzes
+                        willen in Amalasunta verliebt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Märchen von den drei Spinnfrauen</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Das_Maerchen_von_den_drei_Spinnfrauen.tg261_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Das Märchen von den drei Spinnfrauen</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Es war aber schon Abend, und die Sterne schienen klar auf die Erde, und als sie so <said id="1" mode="reported" content="thought" level="1">in trüben Gedanken</said> den alten Weg wieder einschlug, da fiel ein Stern vom Himmel, der blieb in ihrer Schürze liegen auf dem Flachs; <seg id="2" type="frame" pos="start">da <seg id="2" type="intExpr">dachte</seg> <seg id="2" type="speaker">sie</seg> dran,</seg> <said id="2" mode="indirect" content="thought" level="1"><seg id="3" type="frame" pos="start">daß ihre <seg id="3" type="speaker">Mutter</seg> ihr immer <seg id="3" type="intExpr">gesagt</seg> habe,</seg> <said id="3" mode="indirect" content="speech" level="2">das bedeute Glück</said></said>, und als sie etwas weiter gegangen war, da fand sie beim Sternenschein eine Kleevier und steckte sie ans Mieder; und als sie noch etwas weiter gegangen war, da gesellte sich ein schneeweißes Lamm zu ihr, dem ging sie nach, und so kamen beide an eine Hütte; da saß drinnen eine alte freundliche Frau am Spinnrad, die war so breit, daß sie auf drei Stühlen nicht Platz hatte. <seg id="4" type="frame" pos="start">Die <seg id="4" type="speaker">Frau</seg> aber <seg id="4" type="intExpr">fragte</seg> das Mädchen,</seg> <said id="4" mode="indirect" content="speech" level="1">was sie herführe.</said> <said id="5" mode="direct" content="speech" level="1">»Es muß Gottes Schickung sein«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">antwortete</seg> <seg id="5" type="speaker">sie</seg></seg> und <said id="6" mode="reported" content="speech" level="1">erzählte ihr alles</said>; <seg id="7" type="frame" pos="start">und die <seg id="7" type="speaker">Frau</seg> <seg id="7" type="intExpr">versprach</seg> ihr,</seg> <said id="7" mode="indirect" content="speech" level="1">das Garn zu spinnen, unter der Bedingung, daß sie mit zur Hochzeit käme.</said> Das Mädchen aber ging frohen Herzens nach Hause, und als nun der Sonntag kam, da zeigte sie dem Bräutigam das Gespinste, das schöner war als alles andre. <seg id="8" type="frame" pos="start">Da vermochte <seg id="8" type="speaker">er</seg> der Schönheit des Mädchens nicht länger zu widerstehn und <seg id="8" type="intExpr">sagte</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»Morgen soll die Hochzeit sein«</said>; <said id="9" mode="reported" content="thought" level="1">die Braut aber gedachte mit Angst <said id="10" mode="reported" content="speech" level="2">ihres Versprechens.</said></said> <said id="11" mode="direct" content="speech" level="1">»Ich habe drei alte Bekannte«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">sie</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»<seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">erlaubt</seg> mir,</seg> <said id="12" mode="indirect" content="speech" level="2" nonfact="yes"><said id="13" mode="reported" content="speech writing" level="3" nonfact="yes">daß ich sie mit zur Hochzeit lade.</said></said>«</said> <seg id="14" type="frame" pos="start">Der <seg id="14" type="speaker">Bräutigam</seg> aber <seg id="14" type="intExpr">sagte</seg> es ihr willig <seg id="14" type="intExpr">zu</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1"><said id="15" mode="reported" content="speech writing" level="2" nonfact="yes">sie möchte laden, was sie an Freunden und Sippschaft hätte.</said></said> 
+                  Als nun der Tag vorüber war, so war die Hochzeit; da ging's lustig her, und waren viel feine und saubre Leute zu Gast, denn der Bräutigam war wohl angesehen. Als nun die Gäste beinahe versammelt waren, so hielten noch drei Kutschen vor der Tür; da kam aus der ersten die mit den breiten Lippen, aus der zweiten die mit der langen Nase, und aus der dritten – – – nein, die dritte kam nicht heraus, denn die Kutschentür war zu eng, die mußte mit Stricken herausgezogen werden. Die drei gingen nun in den Hochzeitssaal und pflanzten sich unter den andern Frauen der Reihe nach auf. <said id="24" mode="reported" content="thought" level="1" border="yes">Die Gäste erstaunten sehr</said>, <seg id="16" type="frame" pos="start">und der <seg id="16" type="speaker">Bräutigam</seg> <seg id="16" type="intExpr">fragte</seg> die Braut:</seg> <said id="16" mode="direct" content="speech" level="1">»Wie kamst du zu der garstigen Freundschaft?«</said> <seg id="17" type="frame" pos="start">Dann ging <seg id="17" type="speaker">er</seg> zu der ersten und <seg id="17" type="intExpr">fragte</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">»Liebe Frau, habt Ihr allzeit solche breite Lippen gehabt?«</said> – <said id="18" mode="direct" content="speech" level="1">»Ei, mein Söhnchen«</said><seg id="18" type="frame" pos="mid">, <seg id="18" type="intExpr">antwortete</seg> <seg id="18" type="speaker">sie</seg>,</seg> <said id="18" mode="direct" content="speech" level="1">»wie sollte man nicht breite Lippen haben, wenn man so lange am Spinnrad sitzt und den Faden leckt.«</said> <seg id="19" type="frame" pos="start">Darauf ging <seg id="19" type="speaker">er</seg> zu der andern und <seg id="19" type="intExpr">fragte</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Liebe Frau, habt Ihr allzeit eine so entsetzlich lange Nase gehabt?«</said> – <said id="20" mode="direct" content="speech" level="1">»Ei, mein Söhnchen«</said><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">antwortete</seg> <seg id="20" type="speaker">die</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»da muß einem die Nase wohl ausschießen, wenn man so lange Jahre sitzt und nickt und tritt das Rad und stößt mit der Nase den Flachs auseinander.«</said> <seg id="21" type="frame" pos="start">Endlich ging <seg id="21" type="speaker">er</seg> auch zur dritten und <seg id="21" type="intExpr">fragte</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">»Liebe Frau, seid Ihr allzeit so gewaltig breit gewesen?«</said> – <said id="22" mode="direct" content="speech" level="1">»Ei, mein Söhnchen«</said><seg id="22" type="frame" pos="mid">, <seg id="22" type="intExpr">antwortete</seg> <seg id="22" type="speaker">sie</seg>,</seg> <said id="22" mode="direct" content="speech" level="1">»da muß man wohl breit werden, wenn man so lange Jahre am Spinnrad sitzen muß.«</said> <seg id="23" type="frame" pos="start">Da befiel den <seg id="23" type="speaker">Bräutigam</seg> auf einmal eine <seg id="23" type="intExpr">Angst</seg>,</seg> <said id="23" mode="indirect" content="thought" level="1" border="yes">daß seine Braut wegen des vielen Spinnens auch schon zu solchen Mißgestaltungen ansetzen möchte.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

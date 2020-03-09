@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein stiller Musikant</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Ein_stiller_Musikant.tg239_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Ein stiller Musikant</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+– – Etwas beklommener als sonst betrat ich am andern Abend unsern Konzertsaal; er war so gedrängt voll, daß selbst einzelne Damen nicht zum Sitzen gelangen konnten. Aber die Gesänge, mit denen wir nun den Anfang machten, gingen bescheidenen Ansprüchen nach vortrefflich; denn war auch unser Tenor geschwächt, so besaßen wir immerhin noch Kräfte, um die mancher große Verein uns hätte beneiden können; schon der Nachtwächter und unser dicker Schulrektor waren ein paar Füllebässe, die in alle Ritzen quollen, welche die dünneren Stimmen offengelassen hatten. Es wurde lebhaft applaudiert; das singende und das hörende Städtchen waren im besten Einverständnis. 
+                  So rückte denn das Programm allmählich bis zur Phantasie-Sonate vor. Der Beifall nach Ludwig Bergers schönem Liede ›Als der Sandwirt von Passeier‹ verhallte eben, als ich mich ans Klavier setzte; und eine erwartungsvolle Stille war eingetreten. Mit ein paar tiefen Atemzügen schlug ich die Noten auf; dann warf ich darüberhin einen flüchtigen Blick in den Saal; aber die vielen Gesichter, die mich alle anstarrten, übten eine Art von Schrecken auf mich aus. Da zum Glück entdeckte ich auch Ännchens braune Augen, die groß und freudig zu mir hinblickten; und im selben Augenblicke hatte das vielköpfige Ungeheuer sich in ein mir hold geneigtes Wesen umgewandelt. Mutig schlug <seg id="1" type="speaker">ich</seg> ein paar Akkordfolgen an, um den Beginn meines Spieles anzukündigen; <seg id="1" type="frame" pos="start">und dann:</seg> <said id="1" mode="direct" content="thought" level="1">›O heiliger Meister, ich will sie ihnen schon ans Herz legen, deine goldenen Töne! Alle, alle sollen durch dich selig werden!‹</said> So flog es durch mich hin, und ich begann meinen Mozart, das Adagio zuerst. – – <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Ich</seg> <seg id="2" type="intExpr">glaube</seg> wirklich,</seg><said id="2" mode="indirect" content="thought" level="1" border="yes"> ich habe damals gut gespielt</said>; denn mich erfüllte nichts als die Schönheit des Werkes und der begeisterte Drang, die Freude des Verständnisses auch andern mitzuteilen; <said id="3" mode="indirect" content="thought" level="1"><said id="4" mode="reported" content="speech" level="2" nonfact="yes">meine alte <seg id="4" type="speaker">Meisterin</seg> hätte mich <seg id="4" type="intExpr">gelobt</seg></said></said><seg id="3" type="frame" pos="end">, so <seg id="3" type="intExpr">denke</seg> <seg id="3" type="speaker">ich</seg> noch jetzt</seg>; aber sie besuchte niemals eine öffentliche Aufführung. 
+                  Schon war ich auf der letzten Seite des Andantino, als hie und da ein Flüstern aus dem Saale mir zwischen meine Töne drang. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ich</seg> <seg id="5" type="intExpr">erschrak</seg>:</seg> <said id="5" mode="direct" content="thought" level="1">sie hörten nicht! Das lag an mir; am Mozart konnte es nicht liegen!</said> – – Mit einem Gefühl von Unbehagen begann ich das Allegro der Sonate; um so mehr, da ich eine Stelle im zweiten Teile besonders hatte üben müssen. <seg id="6" type="frame" pos="start">Aber <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">beruhigte mich</seg>;</seg> <said id="6" mode="direct" content="thought" level="1">es gab ja Menschen, denen nur Trompetenmusik verständlich war; was gingen sie mich an!</said> Nur eines störte mich; der dicke Schulrektor war während meines Spieles mir immer näher auf den Leib gerückt. Er konnte allerlei böse Absichten hegen; er wollte vielleicht die Lichter putzen, wobei die große messingene Lichtschere auf die Tasten fallen konnte, oder gar mir die Notenblätter umwenden, was ich durchaus von keinem andern leiden konnte! Ich eilte mich, die zweite Blattseite herunterzuspielen, damit nur seine dicke Hand mir nicht zu früh in meine Noten griffe. Das half; der Rektor blieb wie gebannt auf seinem Platze stehen; schon hatte ich umgeschlagen und spielte ganz mutig auf die heikle Stelle los; – da hörte ich unten die Tür des Saales knarren und konnte nicht umhin, zu sehen, wie überall die Köpfe sich nach rückwärts wandten.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

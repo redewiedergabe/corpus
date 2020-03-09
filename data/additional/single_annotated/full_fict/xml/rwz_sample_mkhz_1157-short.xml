@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung048_1852_4.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Anzeige</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Berechnung der Reisekosten eines Auswanderers
+                        
+               auf den verschiedenen Routen von Cassel nach Bremen
+               
+               * )
+                        A. Auf dem Wege per Eisenbahn nach Carlshafen und von da
+                        per Dampfboot nach Bremen.
+                        
+           <seg id="1" type="frame" pos="start"> Es ist dabei <seg id="1" type="intExpr">angenommen</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß der Auswanderer 120 
+                  P
+                Gepäck per
+                        Kopf bei sich hat, und eine Familie, bestehend aus Mann, Frau und zwei
+                        Kindern, welche nicht Säuglinge sind, bildet.</said> Die Reisekosten betragen
+                        für obengenannte 4 Personen:
+                         
+            
+               a. von Cassel nach Carlshafen, à 10 Sgr. 10 Heller 21 Sgr. 8 Hl. 
+                  )
+                1 
+                  xf
+                2Sgr. 6Hl.
+                        2, à 5 Sgr. 5 Heller.......... 10 „ 10 „ 
+                  )
+                1 
+                  xf
+                2Sgr. 6Hl.
+                        b. von Carlshafen nach Pr.=Minden, à 1 
+                  xf
+                1 Sgr. 3 Heller.. 4 „ 5 „ -- „
+                        c. von Pr.=Minden nach Bremen 2 Personen à 20 Sgr., 2 dito
+                        
+               à 10 Sgr...................... 2 „ -- „ -- „
+                        Ferner beträgt die Gepäcküberfracht bei 120 
+                  P
+                Gepäck
+                        per Kopf:
+                        a. von Cassel nach Carlshafen, bei 100 
+                  P
+                Freigewicht für
+                        Erwachsene und 50 
+                  P
+                dito für Kinder......... 1 „ 2 „ 5 „
+                        b. von Carlshafen nach Pr.=Minden, bei 40 
+                  P
+                Freigewicht per Kopf 1 „ 3 „ -- „
+                        c. von Pr.=Minden nach Bremen, bei 100 
+                  P
+                Freigewicht für
+                        Erwachsene und 50 
+                  P
+                dito für Kinder......... -- „ 13 „ 6 „
+                        ------------------- Summa 9 
+                  xf
+                26 Sgr. 5 Hl.
+            mithin durchschnittlich à Person 2 
+                  Rl
+                14 Sgr.1 1 / 2 Heller, wozu noch
+                        bei ein= oder zweimaliger Uebernachtung resp. 10 oder 20 Sgr. für einen
+                        Erwachsenen und resp. 5 oder 10 Sgr. für ein Kind zu rechnen sind.
+            Auf dieser Route betragen ferner die Reisekosten 
+                  ec.
+                für eine erwachsene Person mit 120 
+                  P
+                Gepäck:
+                         
+            
+               a. von Cassel nach Carlshafen.............. -- 
+                  xf
+                10 Sgr. 10 Hl.
+                        Ueberfracht für 20 
+                  P
+                Gepäck............. -- „ 3 „ 8 „
+                        b. von Carlshafen nach Pr.=Minden............ 1 „ 1 „ 3 „
+                        Ueberfracht für 50 
+                  P
+                Gepäck............. -- „ 12 „ -- „
+                        c. von Pr.=Minden nach Bremen............. -- „ 20 „ -- „
+                        Ueberfracht für 20 
+                  P
+                Gepäck............. -- „ 1 „ 6 „
+                        ------------------- Summa 2 
+                  xf
+                19 Sgr. 3 Hl.
+            wozu noch bei ein= oder zweimaliger Uebernachtung resp. 10 oder 20 Sgr.
+                        hinzuzurechnen sind.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

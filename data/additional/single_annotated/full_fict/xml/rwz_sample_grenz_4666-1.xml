@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das englische Blaubuch über Italien.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341594_108721.txt_57.xml</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das englische Blaubuch über Italien.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+In der That werden wir auch an den in den Zwischenraum
+                        fallenden Depeschen wenig verloren haben, das neue Ministerium beschäftigte sich nur eifrig damit, den Krieg zu localisiren und als Probe dieser Thätigkeit haben wir schon im Sommer die berühmt ungeschickte Depesche Russells
+                        vom 22. Juni an Lord Bloomfield kennen lernen, <seg id="1" type="frame" pos="start">in der Deutschland <seg id="1" type="intExpr">erklärt</seg> wurde,</seg>
+                        <said id="1" mode="indirect" content="writing" level="1">daß es kein Interesse bei dem ausgebrochenen Kriege habe.</said> <said id="2" mode="reported" content="writing" level="1">Später in einer
+                        Depesche vom 7. Juli lehnte die englische Regierung <said id="3" mode="reported" content="speech" level="2">die von Preußen vorgeschlagenen <said id="37" mode="reported" content="speech" level="3" nonfact="yes">Konferenzen</said></said> ab, weil sie in dem Augenblick keine Aussicht auf
+                        Erfolg bieten würden.</said>
+            Wenn man sich nun durch den vorliegenden dicken Folioband von 275
+                        Seiten hindurchgearbeitet hat, so wird man seine Mühe nicht im Verhältniß
+                        belohnt finden, denn die Ausbeute ist nicht groß, die meisten Thatsachen, <said id="5" mode="reported" content="writing" level="1">welche
+                        in den Depeschen als Neuigkeiten berichtet werden</said>, sind derzeit längst bekannt;
+                        indeß bietet eine solche Sammlung von Ackerstücken, in denen wol nicht die
+                        ganze Wahrheit, aber doch viel von der Wahrheit liegt, den Vortheil, die
+                        Strömung der Ereignisse übersichtlich verfolgen und <said id="7" mode="reported" content="speech" level="1">namentlich <said id="6" mode="reported" content="thought" level="2">die Auffassung
+                        der verschiedenen Regierungen</said> genauer bestimmen zu können.</said> Dies wollen
+                        wir, <said id="8" mode="reported" content="thought" level="1">indem wir die allgemeinen Thatsachen als bekannt voraussetzen</said>,*) für
+                        die italienischen Angelegenheiten hier versuchen.
+            Wir beginnen zunächst mit der Stellung, welche England dazu nach Villafranca genommen hat.
+            <said id="26" mode="reported" content="thought" level="1" border="yes">Nachdem Lord John Russell von <said id="27" mode="reported" content="speech" level="2" nonfact="yes">den Präliminarien</said> allgemeine Kenntniß</said>
+                         
+            <note>*) Anm. cf. die Art. die Ereignisse in Mittelitalien seit dem Frieden von Villafranca.
+                        No. 4. 5. 6. dsr. Blätter.
+                        </note>
+            
+            <said id="26" mode="reported" content="thought" level="1" border="yes">erhalten hat</said>, <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">fragte</seg> <seg id="10" type="speaker">er</seg> zunächst durch Lord Cowley bei Graf Walewski an,</seg>
+                        <said id="10" mode="indirect" content="writing" level="1">was die päpstliche Ehrenpräsidentschaft des italienischen Bundes bedeute, ob
+                        der Papst durch einen Legaten präsidiren oder en Laie zum wirklichen Präsidenten gewählt werden solle?</said> <seg id="11" type="frame" pos="start">Der französische <seg id="11" type="speaker">Minister</seg> <seg id="11" type="intExpr">antwortet</seg>,</seg> <said id="11" mode="indirect" content="writing" level="1">es sei damit nur gemeint, daß der Sitz des Bundesorganes in Rom sein sollte und
+                        der Vertreter des Papstes bei feierlichen Gelegenheiten den Vortritt vor denen
+                        der andern Bundesstaaten haben würde.</said> <said id="12" mode="indirect freeIndirect" content="writing" level="1">Der wirkliche (working) Präsident
+                        solle der Repräsentant von Neapel oder Sardinien sein.</said> Darauf hören wir
+                        im ganzen Blaubuch nichts mehr von <said id="38" mode="reported" content="writing" level="1">dieser Frage</said>, <said id="14" mode="reported" content="thought" level="1">die Lord John Russell
+                        mit Recht wol als secundäre cura posterior betrachtet.</said> <said id="16" mode="reported" content="writing" level="1">Desto mehr ist von <said id="15" mode="reported" content="writing" level="2">der
+                        zweiten Frage des englischen Ministers</said> die Rede, nämlich über Venetien</said>; <said id="29" mode="direct" content="writing" level="1">wenn
+                        der Kaiser von Oestreich</said><seg id="29" type="frame" pos="mid">, <seg id="29" type="intExpr">heißt es</seg>,</seg> <said id="29" mode="direct" content="writing" level="1">in den Bund eintritt, so wird er es mit
+                        der ganzen moralischen und politischen Macht seines Reiches thun, wird er sich
+                        aber darauf beschränken, Venetien rein national zu regieren?</said> <seg id="33" type="frame" pos="start"><seg id="33" type="speaker">Graf Walewski</seg>
+                        muß darauf zunächst in seiner Erzählung der Zusammenkunft von Villafranca
+                        <seg id="33" type="intExpr">antworten</seg>,</seg> <said id="33" mode="indirect" content="speech" level="1"><said id="36" mode="reported" content="speech" level="2" nonfact="yes">daß der Kaiser Franz Joseph verweigert hat, in Bezug auf <said id="30" mode="reported" content="thought" level="3" nonfact="yes">seine
+                        unzweifelhaften Rechte über Venetien</said> irgend ein Zugeständnis zu machen</said>, er
+                        hat es entschieden abgelehnt, einen Erzherzog als Vicekönig an die Spitze der
+                        Regierung zu stellen, <said id="32" mode="indirect freeIndirect" content="speech" level="2">er wolle eher das Land verlieren wie die Lombardei, als
+                        sich hinsichtlich der künftigen Verwaltung desselben binden.</said> <seg id="34" type="frame" pos="start"><seg id="34" type="speaker">Er</seg> könne nur
+                        <seg id="34" type="intExpr">sagen</seg>,</seg> <said id="34" mode="indirect" content="speech" level="2"><seg id="20" type="frame" pos="start">daß <seg id="20" type="speaker">er</seg> selbst <seg id="20" type="intExpr">einsehe</seg>,</seg> <said id="20" mode="indirect" content="thought" level="3">daß große Reformen nöthig seien</said>, und weigere
+                        sich nicht, <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">sein Ehrenwort zu geben</seg>,</seg> <said id="21" mode="indirect" content="speech" level="3">daß in seinen Händen Venedig „serait
+                        non seulement heureuse, mais satisfaite."</said></said></said> <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Graf Walewski</seg> <seg id="22" type="intExpr">hofft</seg> noch,</seg> <said id="22" mode="indirect" content="thought" level="1" border="yes"><said id="35" mode="reported" content="speech" level="2" nonfact="yes">daß
+                        Oestreich thatsächlich Concessionen machen werde</said></said>, <said id="23" mode="reported" content="speech" level="1">und führt als Vorbild für die
+                        künftige Stellung Venetiens zu dem Bunde die Luxemburgs zu Deutschland
+                        an</said>, <seg id="24" type="frame" pos="start">später geht <seg id="24" type="speaker">er</seg> weiter und <seg id="24" type="intExpr">sagt</seg>:</seg> <said id="24" mode="direct" content="speech" level="1">wenn nicht Oestreich bereit ist, Venetien
+                        zu einem rein italienischen Staate zu machen mit einer nationalen Regierung
+                        und Armee, wenn nicht wenigstens zwei Festungen Bundesfestungen, und das
+                        Land nicht allen Bundesgesetzen unterworfen ist, <seg id="25" type="frame" pos="start">so sind <seg id="25" type="speaker">wir</seg> die ersten zu
+                        <seg id="25" type="intExpr">sagen</seg>,</seg> <said id="25" mode="indirect" content="speech" level="2" nonfact="yes">daß eine Konföderation unmöglich ist.
+
+</said></said>
+</p>
+      </body>
+   </text>
+</TEI>

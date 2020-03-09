@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Gesetz zum Schutze der Einwanderer</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswanderer24_1848.txt_7.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Das Gesetz zum Schutze der Einwanderer</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sampled">1</f>
+         <f name="narrative">no</f>
+         <f name="textype">Nachrichten</f>
+         <f name="source">mkhz.auswanderer</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Das Gesetz zum Schutze der Einwanderer
+                        
+               
+               wird in Newyork sowohl gegen Gastwirthe als gegen Runners
+                         kräftig gehandhabt; unterm 10. und 12. Mai wurden zwei solche
+                        unbefugte Mäkler arretirt und sofort bestraft. Preislisten sind
+                        schon von der Mehrzahl der Beförderungsbureaus ausgehängt, und nur
+                        in Albany, wo bisher das unverantwortlichste Treiben der Mäkler
+                        stattfand und das in Beziehung auf die armen Einwanderer <said id="1" mode="reported" content="speech" level="1">ein wahres
+                        Raubnest <seg id="1" type="intExpr">genannt</seg> werden konnte</said>, will man sich noch nicht so recht in
+                        die neue Ordnung finden und hat noch keine Preise festgestellt. Der
+                        von dort aus, angeblich wegen Uebervortheilung eines Irländers, angegriffene Newyorker Passage-Agent Schoyer macht sich soeben um
+                        die Aufdeckung zweier Raub-Systeme sehr verdient. Näheres enthält
+                        der „Newyork Herald“ --<said id="2" mode="reported" content="thought" level="1"> Eine Beschwerde wegen unnöthiger
+                        Beschränkung der Lebensmittel zur See wurde kürzlich zu
+                        Gunsten der Deckpassagiere des „Aberfoyle“ von Liverpool <seg id="2" type="intExpr">entschieden</seg>.</said> Diese Passagiere bewiesen die Unzulänglichkeit der ihnen gereichten Lebensmittel, und obgleich eingewendet wurde, sie könnten iher
+                        Ansprüche nur gegen die Schiffseigner als Charterer für diese Reise,
+                        oder gegen den sie angenommen habenden Makler, oder endlich gegen
+                        den Capitän, der sich mit unzureichendem Proviant zufrieden gestellt
+                        habe, geltend machen, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">sprach sich</seg> doch das <seg id="3 4" type="speaker">Gericht</seg> dahin <seg id="3" type="intExpr">aus</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">daß
+                        das Schiff, sobald es Passagiere contractlich zu befördern habe, für Haltung der betr. Contracte einzustehen,
+                        mithin auch für gehörige Beköstigung und Beherbergung der Passagiere zu haften habe</said>; <said id="4" mode="indirect freeIndirect" content="speech" level="1">nur wenn die Eigner
+                        vollständige Verproviantirung des Schiffes und Uebergabe derselben an
+                        den Capitän nachweisen könnten, der letztere mithin die Vorenthaltung
+                        der Lebensmittel ( short allowance ) eigenmächtig und unnöthig sich
+                        erlaubt habe, sei der Anspruch lediglich gegen den Cäpitain zu richten.</said>
+                        <said id="5" mode="reported" content="speech" level="1">Den Passagieren des Schiffes „Aberfoyle“ wurde demnach als Entschädigung Rückerstattung ihres Passagegeldis nebst Zinsen von Anstellung der Klage an, und Ersatz der Kosten
+                        <seg id="5" type="intExpr">zugesprochen</seg>.</said>
+                  ( Wes. Z. )
+                        
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

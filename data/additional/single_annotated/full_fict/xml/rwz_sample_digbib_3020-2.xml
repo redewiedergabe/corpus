@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erwartet auf den vazierenden Gott</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Er_wartet_auf_den_vazierenden_Gott.tg231_1.xml</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Erwartet auf den vazierenden Gott</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">2</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Selbst <said id="1" mode="reported" content="speech" level="1">dieses bescheidene <seg id="1" type="intExpr">Lob</seg></said> regte mich mächtig an. <said id="2" mode="direct" content="thought" level="1">Also wer?</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">fragte</seg> <seg id="2" type="speaker">ich</seg> mich selber eifrig.</seg> Ein entthronter Fürst zum Beispiel – <said id="3" mode="reported" content="thought" level="1"><seg id="3" type="speaker">ich</seg> kann mir das sehr gut <seg id="3" type="intExpr">denken</seg></said> –, er hat den Purpurmantel über den Arm geworfen, wie gewöhnliche Menschen den Überzieher; die Krone hat er schief aufgesetzt und strabanzt durch die Welt ...
+                  <seg id="4" type="frame" pos="start">Der Blick <seg id="4" type="speaker">Albins</seg> schien mich <seg id="4" type="intExpr">fragen</seg> zu wollen,</seg> <said id="4" mode="indirect" content="speech" level="1" nonfact="yes">ob ich scherzte.</said> Und mir war es so heiliger Ernst! Immer hin hielt ich inne. 
+                  <said id="5" mode="direct" content="speech" level="1">Hier – – hier</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">rief</seg> plötzlich <seg id="5" type="speaker">Albin</seg></seg>, indem er zum Fenster des Kaffeehauses hinausdeutete. 
+                  Ich sah ein junges Mädchen stolz mit einer Musikmappe vorüberwandeln und betrachtete sie aufmerksam, bis sie dem Auge entschwunden war. Mit einem gewissen kühnen Lächeln, welches ich nur furchtsam zu erwidern mich getraute, blickte Albin mich an. Dann machte er eine fragende Gebärde, die im Laufe 
+ einiger Sekunden sich so entschieden, beinahe drohend gestaltete, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">daß <seg id="6" type="speaker">ich</seg> unbedingt etwas auf diese Gebärde <seg id="6" type="intExpr">antworten</seg> mußte.</said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">rief</seg> daher:</seg> <said id="7" mode="direct" content="speech" level="1">Ah! Ja – sie ist's! –</said> 
+                  <said id="8" mode="direct" content="speech" level="1">Die vazierende Göttin</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg> mit sonorer Stimme</seg>, und ich hatte das Gefühl der Beschämung und Erlösung zugleich. 
+                 <said id="10" mode="direct" content="speech" level="1"> Ja, ja</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">bestätigte</seg> <seg id="10" type="speaker">ich</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">die Göttin ohne Engagement ...</said>
+                  <said id="12" mode="direct" content="speech" level="1">Da geht sie hin</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">Albin</seg>, den Stempel des Genius auf der Stirn,</seg> <said id="12" mode="direct" content="speech" level="1">aber <said id="13" mode="reported" content="thought" level="2" nonfact="yes"><seg id="13" type="speaker">wer</seg> <seg id="13" type="intExpr">weiß</seg> es</said> außer den Sehenden? Das Erkennen ist eine schwere Kunst, und die Welt ist blind!</said> 
+                  <said id="14" mode="direct" content="speech" level="1">Blind, blind!</said> <seg id="14" type="frame" pos="end">– <seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">ich</seg> erschüttert aus.</seg> 
+                  <said id="16" mode="direct" content="speech" level="1">Vazierender Gott</said> <seg id="16" type="frame" pos="mid">– <seg id="16" type="intExpr">phantasierte</seg> <seg id="16" type="speaker">er</seg> fort –,</seg> <said id="16" mode="direct" content="speech" level="1">mancher vaziert freilich so lange in tiefen Sphären umher, bis die letzte Spur seines herrlichen Wesens verlorengeht ...</said>
+                  <said id="18" mode="direct" content="speech" level="1">Ja</said><seg id="18" type="frame" pos="mid">, <seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">ich</seg>,</seg> <said id="18" mode="direct" content="speech" level="1">und die wallenden Gewänder schleppen im Kote nach.</said> 
+                  <seg id="21" type="frame" pos="start"><said id="20" mode="direct" content="speech" level="1"><seg id="21" type="intExpr">Weißt</seg> <seg id="21" type="speaker">du</seg></said></seg><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">wandte</seg> <seg id="20 22" type="speaker">er</seg> <seg id="20" type="intExpr">sich</seg> jetzt lebhaft <seg id="20" type="intExpr">an</seg> mich,</seg> <said id="20" mode="direct" content="speech" level="1"><said id="21" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß auch der Gott der Bibel einmal nichts zu tun hatte?</said></said> 
+                  <said id="22" mode="reported" content="speech" level="1">Diese <seg id="22" type="intExpr">Bemerkung</seg></said> setzte mich in Erstaunen. 
+                  <seg id="23" type="frame" pos="start"><seg id="23 24" type="speaker">Er</seg> aber <seg id="23" type="intExpr">fuhr fort</seg>:</seg> <said id="23" mode="direct" content="speech" level="1">Jetzt freilich hat er genug zu tun; aber was tat er denn, bevor er die Welt erschuf; vor den gewissen sechs Tagen, an deren letztem er den Vater unseres unglückseligen Geschlechts erschuf?</said> 
+                  <said id="24" mode="reported" content="speech" level="1">Bei diesen <seg id="24" type="intExpr">Worten</seg></said> <said id="25" mode="reported" content="writing" level="1">nahm <seg id="25" type="speaker">er</seg> Notizbuch und Bleistift, um dieses Aperçu rasch <seg id="25" type="intExpr">aufzunotieren</seg>.</said> Es wird der Nachwelt erhalten bleiben. 
+                  Ich schaute durch das große Spiegelfenster auf die Straße, und meine Phantasie suchte in jedem harmlosen Bummler den vazierenden Gott zu entdecken. Die Leute sahen aber so gewöhnlich aus ... Vazierend erschien mir wohl der eine oder andere; aber nach dem Stempel der Göttlichkeit spähte ich vergebens. 
+                  <seg id="26" type="frame" pos="start">Mit einem Male <seg id="26" type="intExpr">nahm</seg> <seg id="26" type="speaker">Albin</seg> das <seg id="26" type="intExpr">Wort</seg>:</seg> <said id="26" mode="direct" content="speech" level="1">Die Genies, denen die letzte Inspiration fehlt, sind es! Verstehe mich wohl! Die letzte Inspiration; denn wie diese käme, so könnten sie das Wunderbare, Vollendete schaffen, das sie zum Himmel emporträgt – als Götter, die ihre Heimat gefunden. Aber die Genies, <said id="27" mode="reported" content="thought" level="2" nonfact="yes" border="yes">an denen die <seg id="27" type="speaker">Natur</seg> sozusagen die letzte Feile <seg id="27" type="intExpr">vergessen</seg></said>, die sie als Torso mitten auf den Markt der großen Geister warf und die nun mit dem Funken aus einer anderen Welt im Busen unter den Menschen umherwandeln – sie sind es! Das sind die vazierenden Götter!</said> 
+                  Ich nickte beifällig mit dem Kopfe. <said id="28" mode="direct" content="speech" level="1">Der Vergleich paßt im allgemeinen</said><seg id="28" type="frame" pos="end">, <seg id="28" type="intExpr">sagte</seg> <seg id="28" type="speaker">ich</seg>.</seg> <said id="30" mode="direct" content="speech" level="1">Aber</said><seg id="30" type="frame" pos="mid">, <seg id="30" type="intExpr">setzte</seg> <seg id="30" type="speaker">ich</seg> zögernd <seg id="30" type="intExpr">hinzu</seg>,</seg> <said id="30" mode="direct" content="speech" level="1">sind es doch 
+nicht eher diejenigen, welche eigentlich alles vollbringen könnten und denen nicht die letzte Inspiration fehlt, sondern, welche diese Inspiration vorübergehen lassen und mit allen ihren großartigen Plänen gemütlich weiterbummeln, ohne was Rechtes anzufangen, und sich genügen lassen im Bewußtsein ihrer himmlischen Würde?</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

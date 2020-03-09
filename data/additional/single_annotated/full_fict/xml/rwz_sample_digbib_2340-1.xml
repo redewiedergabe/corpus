@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>529. Die schwarze Dorte</title>
+             <author>Müllenhoff, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Muellenhoff,_Karl_529__Die_schwarze_Dorte.tg660_1.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">529. Die schwarze Dorte</f>
+         <f name="author">Müllenhoff, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sampled">1</f>
+         <f name="narrative">yes</f>
+         <f name="textype">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="speech" level="1" border="yes">Man nannte sie nur die witte Dorte</said>, denn stets ließ sie sich auf dem Turm des Schlosses sehen in einem nebelartigen weißen Gewande, so oft ein Glück oder Unglück bevorstand. Sie hat sich da lange Jahre auf dem Turm aufgehalten und war recht der Schutzgeist des Schlosses und seiner Bewohner; als aber ihr Beschützer Heinrich Ranzau starb, zeigte sie sich nur in schwarzen Kleidern, <said id="2" mode="reported" content="speech" level="1" border="yes">und darum nennt man sie seit der Zeit stets die swarte Dorte.</said> 
+                  
+                     <seg id="3" type="frame" pos="start">Einst <seg id="3" type="intExpr">faßten</seg> die <seg id="3" type="speaker">Bauern</seg> des Guts heimlich den <seg id="3" type="intExpr">Beschluß</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">den Gutsherrn gefangen zu nehmen und sich seiner Herrschaft zu entledigen.</said> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Ob ihr Wohlstand sie übermütig gemacht, oder der Herr durch Härte sie erbittert hatte</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">weiß</seg> <seg id="4" type="speaker">man</seg> nicht</seg>; genug, sie stürmten alle bewaffnet aufs Schloß, <seg id="5" type="frame" pos="start">und <seg id="5" type="intExpr">dachten</seg></seg> <said id="5" mode="indirect" content="thought" level="1">den Herrn zu fangen</said>, aber sie fanden nur das leere Haus, der Herr, <said id="6" mode="reported" content="speech" level="1">gewarnt</said>, war eben vorher abgereist. Nun fielen die Bauern über das Schloß her und wollten es zerstören; <seg id="7" type="frame" pos="start">vergebens <seg id="7" type="intExpr">warnte</seg> und <seg id="7" type="intExpr">ermahnte</seg> sie ein alter <seg id="7" type="speaker">Bauer</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">davon abzulassen und ruhig nach Hause zu gehn</said>; sie hörten nicht auf ihn und begannen ihr Werk. Wütend tobten sie durch das ganze Schloß; als es aber gegen Abend kam und sie in den großen Saal eindrangen, trat ihnen drohend und mit zorniger Gebärde die schwarze Dorte entgegen. Voller Schrecken wichen sie zurück und flohen; aber <said id="8" mode="reported" content="speech" level="1">der Fluch der schwarzen Frau</said> folgte ihnen. Noch in derselben Nacht stand das ganze Dorf in Flammen; da liefen die Bauern eilig nach dem nahen Teiche, um Wasser zum Löschen zu holen, aber keiner kehrte zurück, denn alle wurden mit Frau und Kind in Frösche verwandelt, und wo bisher das Dorf gewesen war, steht von dieser Zeit an der Teich mitten in einer großen grünen Wiese. Die große schöne Eiche, <said id="9" mode="reported" content="thought" level="1" border="yes">die unter dem Namen des Pfannekuchenbaums in der ganzen Gegend bekannt ist</said> (<said id="10" mode="reported" content="speech" level="1">und sie erhielt diesen Namen</said>, weil die Arbeiter unter ihr gewöhnlich ihr Frühstück verzehren), hat vormals auch zu dem untergegangenen Dorfe gehört. Darunter saß damals in tiefer Trauer der alte Bauer, <said id="11" mode="reported" content="speech" level="1">der die andern gewarnt hatte</said> und hindern wollte; er allein und seine Tochter waren verschont geblieben, aber Hab und Gut waren nun verloren. <seg id="12" type="frame" pos="start">Da setzte sich ein wunderschönes <seg id="12" type="speaker">Vöglein</seg> über ihnen auf einen Zweig und <seg id="12" type="intExpr">sang</seg> mit heller Stimme:</seg>
+                         
+                  
+                     
+                        <said id="12" mode="direct" content="speech" level="1">Kumm, Vatter, kumm geswinde!
+                     
+                     
+                        Hier buten weit de Winde.
+                     
+                     
+                        <said id="13" mode="reported" content="speech" level="2">Swart Doortje hett mi hęr bestellt</said>,
+                     
+                     
+                        <said id="19" mode="reported" content="speech" level="2">Ik sall di gęwen vęles Geld,
+                     
+                     
+                        Du schast en nees Huus di maken</said>,
+                     
+                     
+                        Swart Doortje gifft di schöne Saken.
+                     
+                     
+                        <said id="18" mode="reported" content="thought" level="2" nonfact="yes"><said id="14" mode="reported" content="thought" level="3" border="yes">Wo ik dit wisen do</said></said>,
+                     
+                     
+                        Da, Vatter, <said id="15" mode="reported" content="thought" level="2" nonfact="yes">blief</said> un bo!</said>
+                        
+                     
+                  
+                  Da stand der Alte auf und folgte dem Vogel, der langsam vor ihm hin flog und bald an dem Orte sich niederließ, wo jetzt das Dorf Mehlbek steht. Sogleich verschwand der Vogel; aber unter einem Baume lag ein schwerer Geldsack, <seg id="16" type="frame" pos="start">darauf stand <seg id="16" type="intExpr">geschrieben</seg>:</seg> <said id="16" mode="direct" content="writing" level="1">Meinem treuen Helfer in der Not.</said> Da fing der Alte an und ließ ein neues Haus bauen, <seg id="17" type="frame" pos="start">und bald folgten mehr <seg id="17" type="speaker">Leute</seg> seinem Beispiele in der <seg id="17" type="intExpr">Hoffnung</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1" border="yes">daß auch ihnen solches Glück zuteil werde.</said> Allein die schwarze Dorte hat nur einmal ein solches Wunder getan.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
