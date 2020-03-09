@@ -84,3 +84,4 @@ Annelen Brunner: Automatische Erkennung von Redewiedergabe, 2015.
 
 Elena Semino and Mick Short: Corpus Stylistics, 2004.
 
+further literatur can be found [here]().
