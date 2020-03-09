@@ -12,7 +12,7 @@ Publications in chronological order; newest first
 
 - Weimer/Brunner/Engelberg/Jannidis/Tu: Das Redewiedergabe-Korpus - Eine Ressource für empirisch-linguistische Fragestellungen, GAL-Sektionentagung Halle (Saale) 2019.
 
--Tu: How sentimental are quotation expressions? A sentiment analysis, 2nd Heidelberg Summer School of Computational Humanitites 2019.
+- Tu: How sentimental are quotation expressions? A sentiment analysis, 2nd Heidelberg Summer School of Computational Humanitites 2019.
 
 - Weimer/Brunner/Tu: The "Redewiedergabe-Korpus", 2nd Heidelberg Summer School of Computational Humanitites 2019.
 
