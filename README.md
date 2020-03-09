@@ -47,6 +47,10 @@ In addition, the following people participated in the annotation: Sarah Gorke, A
 
 Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
+# Publications
+
+A complete list of all publications can be found [here]()
+
 # License
 
 The "Redewiedergabe" corpus is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
