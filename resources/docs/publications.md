@@ -13,3 +13,7 @@ Publications in chronological order; newest first
 - Weimer/Brunner/Engelberg/Jannidis/Tu: Das Redewiedergabe-Korpus - Eine Ressource für empirisch-linguistische Fragestellungen, GAL-Sektionentagung Halle (Saale) 2019.
 
 - Weimer/Brunner/Tu: The "Redewiedergabe-Korpus", 2nd Heidelberg Summer School of Computational Humanitites 2019.
+
+- Tu/Krug/Brunner: Automatic recognition of direct speech without quotation marks. A rule-based approach, DHd-Conference Mainz/Frankfurt am Main 2019.
+
+- Brunner/Weimer/Tu/Engelberg/Jannidis: Das Redewiedergabe-Korpus, DHd-Conference Mainz/Frankfurt am Main 2019.
