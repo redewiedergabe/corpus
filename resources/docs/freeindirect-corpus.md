@@ -8,4 +8,4 @@ The corpus is still work in progess; detailled statistical data will follow soon
 
 ## Statistics
 
-A list of all texts including author, title and year of publicationcan be found [here](/resources/docs/metadata_fi.xlsx)
+A list of all texts including author, title and year of publicationcan be found [here](/resources/docs/metadata_fi.xlsx).
