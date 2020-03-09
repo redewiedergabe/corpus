@@ -76,4 +76,11 @@ The detailed annotation guidelines are available at [redewiedergabe.de/richtlini
 
 An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
 
+# Related literature
+
+The following texts are predecessors of our project:
+
+Annelen Brunner: Automatische Erkennung von Redewiedergabe, 2015.
+
+Elena Semino and Mick Short: Corpus Stylistics, 2004.
 
