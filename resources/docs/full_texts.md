@@ -37,7 +37,7 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 |  | Keller, Gottfried | Kleider machen Leute | 1874 |  |
 | rwz_full_digbib_1208 | Heyking, Elisabeth von | Gewesen | 1905 |  |
 | rwz_full_digbib_2632 | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 |  |
-| **total** | **17 files** |  |  | **218,940** |
+| **total** | **18 files** |  |  | **218,940** |
 
 
 
