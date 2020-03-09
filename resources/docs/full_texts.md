@@ -34,6 +34,7 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 | rwz_full_digbib_3153 | Storm, Theodor | **Eine Malerarbeit** | 1867 |  |
 | rwz_full_digbib_5000 | Eckstein, Ernst | **Der Leuchtturm von Livorno** | 1871 |  |
 | rwz_full_digbib_3152 | Storm, Theodor | Eine Halligfahrt | 1871 |  |
+|  | Keller, Gottfried | Kleider machen Leute |  |
 | rwz_full_digbib_1208 | Heyking, Elisabeth von | Gewesen | 1905 |  |
 | rwz_full_digbib_2632 | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 |  |
 | **total** | **17 files** |  |  | **218,940** |
