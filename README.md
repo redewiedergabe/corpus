@@ -49,7 +49,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # Publications
 
-A complete list of all publications can be found [here]()
+A complete list of all publications can be found [here](resources/docs/publications.md)
 
 # License
 
