@@ -49,9 +49,9 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # Publications
 
-Most recent publication: 
+Most recent publication: Brunner/Engelberg/Jannids/Tu/Weimer: Corpus REDEWIEDERGABE, *LREC-Conference* Marseille, May 11th-16th 2020.
 
-A complete list of all publications can be found [here](resources/docs/publications.md)
+A complete list of all publications can be found [here](resources/docs/publications.md).
 
 # License
 
