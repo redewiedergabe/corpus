@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Begleiter</title>
+             <author>Heiseler, Henry von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heiseler,_Henry_von_Der_Begleiter.tg21_1.xml</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Begleiter</f>
+         <f name="author">Heiseler, Henry von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="indirect" content="speech" level="1">Es sei nicht gut danach zu forschen</said><seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">sie</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">es bedeute nichts Schlimmes, sie kenne das ebenso wie viele ihrer Stammesgenossen, <said id="2" mode="reported" content="speech" level="2" nonfact="yes"><seg id="2" type="speaker">man</seg> dürfe nur nicht <seg id="2" type="intExpr">fragen</seg></said> und sich nicht dagegen wehren, auch habe sie es immer für etwas Gutes und Heiliges gehalten, das sie vermissen würde, wenn es je einmal fehlen sollte.</said> Als Kyrill die Tür der Wohnung hinter sich und Sara zuschließen wollte, fühlte er einen leichten Druck gegen das Holz und erst mit einer gewissen Anstrengung gelang es ihm, die Tür zuzuwerfen und den Schlüssel umzudrehen. <seg id="3" type="frame" pos="start">Gleich darauf aber <seg id="3" type="intExpr">überzeugte</seg> <seg id="3 4" type="speaker">er</seg> <seg id="3" type="intExpr">sich</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1">daß er den Begleiter nicht hatte abschütteln können</said>, denn das Echo ging beharrlich neben seinen Schritten her und ein heftiges Grauen überkam den Rittmeister, <said id="4" mode="reported" content="thought" level="1" border="yes">als seinen geschärften Sinnen ein Unterschied zwischen den eigenen und den Schritten des Verfolgers <seg id="4" type="intExpr">auffiel</seg></said> – den Gang Kyrills begleitete ein leises Klingeln der Sporen, dem Echo hingegen fehlte der Sporenklang. 
+                  Die Liebe der beiden in dieser Nacht war ein Alpdruck für Kyrill, für Sara ein schwindelnder Sturz in den Abgrund der Leidenschaft. Es begann sogleich mit dem ersten Kuß: Sara fühlte den Boden nicht mehr unter den Füßen und mußte sich an Kyrill klammern, um nicht zu fallen, ihm aber griff eine körperlose Hand ins Haar und zog seinen Kopf langsam und stark mit immer erneutem zähen Druck von Saras Lippen zurück. <said id="14" mode="reported" content="thought" level="1">Und später <seg id="14" type="intExpr">wußte</seg> <seg id="14" type="speaker">Sara</seg> nichts mehr als ein Versinken, 
+ein Stürzen, dann ein jähes Aufschrecken, um gleich wieder zu sinken, zu stürzen und aufzuschrecken.</said> So empfand sie die Qual Kyrills nur undeutlich und entfernt wie in einem Traum und während sich Kyrill vor dem unsichtbaren Gegner immer wieder in den Sturm der Leidenschaft hineinrettete, flogen die Sinne der Zigeunerin über grüngoldne Wiesen hinweg, durch Blumenwälder und zwischen fallenden Sternen hindurch. Dann legte sich das Dunkel eines wunderbaren Schlafes um Saras Bewußtsein und <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Kyrill</seg> löste sich aus ihren Armen mit dem unbestimmten <seg id="6" type="intExpr">Entschluß</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">seinem mitleidlosen Verfolger standzuhalten und den ungleichen Kampf durchzukämpfen.</said> <seg id="7" type="speaker">Er</seg> brannte die Kerzen an und setzte sich auf das Sofa hinter dem Schreibtisch, <said id="7" mode="reported" content="thought" level="1" nonfact="yes">um über die Mittel des Angriffs oder wenigstens der Verteidigung <seg id="7" type="intExpr">nachzudenken</seg>.</said> Eine leichte Erschütterung zeigte an, daß auch schon der Besucher in der anderen Sofaecke neben ihm saß. <seg id="15 16" type="speaker">Er</seg> bezwang seinen Schauder und <said id="15" mode="reported" content="thought" level="1">begann zu <seg id="15" type="intExpr">überlegen</seg>.</said> <said id="16" mode="freeIndirect" content="thought" level="1">Es war Krankheit, es mußte Krankheit sein – vielleicht ein Fieber</said> – und er legte seine Uhr vor sich hin und versuchte den Puls zu zählen. Kyrill war ungeübt und verstand es nicht richtig, <seg id="10" type="frame" pos="start">doch mußte <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">merken</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">daß der Puls regelmäßig ging, eher sogar ein wenig matter als gewöhnlich, <said id="11" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">so daß von Fieber keine <seg id="11" type="intExpr">Rede</seg> sein konnte.</said></said> <seg id="17" type="frame" pos="start">Dann <seg id="17" type="intExpr">besann</seg> <seg id="17" type="speaker">er</seg> sich darauf,</seg> <said id="17" mode="indirect" content="thought" level="1">wie sinnlos es sei, einem Verfolger davonzulaufen – ihn aufsuchen müsse er, um ihn zu erkennen, zu stellen und anzugreifen.</said> Er streckte rasch die Hand neben sich aus, fühlte aber nichts als den Stoff der Sofalehne und hörte sich selbst über seinen Fehlgriff lachen – <seg id="13" type="frame" pos="start">im nächsten Augenblick aber <seg id="13" type="intExpr">fiel</seg> <seg id="13" type="speaker">ihm</seg> <seg id="13" type="intExpr">ein</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1">daß er in diesem Zustand der Angst und der Verzweiflung gewiß nicht lachen könne, und es müsse der Andere gewesen sein, der seine grobe körperliche Art des Angreifens verlache.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

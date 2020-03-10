@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Phosphorus Hollunder</title>
+             <author>François, Louise von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">François,_Louise_von_Phosphorus_Hollunder.tg46_1.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Phosphorus Hollunder</f>
+         <f name="author">François, Louise von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     Später am Abend führte auch Herr von
+                        Hohenwart, der bisher nicht getanzt hatte, Blanka auf ihren Platz
+                        zurück.
+                     Ihr Busen wogte, die Wangen glühten, die Augen waren weit
+                        geöffnet und die Lippen halb, wie die eines lächelnden Kindes.
+                     So engelleicht war sie noch nie im Arme eines Tänzers durch den
+                        Saal geflogen, mit solcher Inbrunst hatte noch niemals einer sie dicht an
+                        sich heran gepreßt.
+                     Sie hatte die Lider nicht vom Boden erhoben, <seg id="1" type="frame" pos="start">aber <seg id="1" type="speaker">sie</seg> <seg id="1" type="intExpr">wußte</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß
+                        alle Blicke auf dem unvergleichlichen Paare geruht hatten.</said>
+                     Sie fühlte sich gefeiert und beneidet wie noch nie.
+                     <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Herr von Hohenwart</seg> <seg id="2" type="intExpr">fragte</seg> sie,</seg> <said id="2" mode="indirect" content="speech" level="1">ob sie den eben beginnenden
+                        Kotillon noch für ihn frei habe.</said>
+                     <said id="3" mode="reported" content="speech" level="1"><seg id="3" type="speaker">Sie</seg> mußte <seg id="3" type="intExpr">ablehnen</seg>.</said>
+                  
+                  
+                     
+                        <said id="4" mode="direct" content="speech" level="1">»Die Tanzlust kommt Ihnen spät, Herr von
+                        Hohenwart,«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">sie</seg> scherzend.</seg>
+                  
+                  
+                     <said id="5" mode="direct" content="speech" level="1">»Sie gönnten mir den Vorzug eines Tanzes nicht früher,
+                        Gnädigste,«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">entgegnete</seg> <seg id="5 6" type="speaker">er</seg></seg>, indem sein dunkles Auge das ihre suchte.
+                     <said id="6" mode="direct" content="speech" level="1">»<seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">Meinen</seg> <seg id="7" type="speaker">Sie</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes">daß ich noch wie ein Fähnrich tanze, um zu tanzen?</said>«</said>
+                     
+                  
+                  
+                     Sie fühlte eine Blutwoge über ihre Wangen gleiten.
+                     Hatte sie selbst heute zum ersten Male doch getanzt nicht bloß,
+                        um zu tanzen.
+                     <seg id="8" type="frame" pos="start">Mit gezwungenem Lächeln <seg id="8" type="intExpr">fragte</seg> <seg id="8 10" type="speaker">sie</seg>:</seg> 
+                  
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»Aber was gewährt Ihnen ein Ball, wenn nicht den Tanz?«</said> 
+                  
+                  
+                     <said id="9" mode="direct" content="speech" level="1">»Was?«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">erwiderte</seg> <seg id="9" type="speaker">er</seg>.</seg>
+                     <said id="10" mode="direct" content="speech" level="1">»Nun, was das Leben überhaupt: einen Moment der Schönheit und
+                        außerdem – Langeweile.«</said> 
+                  
+                  
+                     <said id="11" mode="direct" content="speech" level="1">»Langeweile?«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">rief</seg> <seg id="11" type="speaker">Herr Hollunder</seg></seg>, der herbeigetreten war, um
+                        Blankas Nachbarin zum Kotillon zu führen, da auch für ihn die Gefeierte vom
+                        letzten Balle her versagt gewesen war.
+                     Wie gern würde er die Krone der Tänze, hinter ihrem Stuhle
+                        harrend, überschlagen haben, hätte seine Dirigentenpflicht nicht mächtig in
+                        ihm pulsiert und das gute Herz ihn gedrängt, ein ältliches Mauerblümchen
+                        eine frohe Stunde hindurch wieder blühen zu machen.
+                  
+                  
+                     <said id="12" mode="direct" content="speech" level="1">»Langeweile?«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">wiederholte</seg> <seg id="12" type="speaker">er</seg>.</seg>
+                     <said id="13" mode="direct" content="speech" level="1">»Ach, <said id="20" mode="reported" content="speech" level="2">da <seg id="20" type="intExpr">beklage</seg> <seg id="20" type="speaker">ich</seg> Sie</said>, mein Herr Leutnant.
+                     Ich habe noch niemals Langeweile empfunden.«</said> 
+                  
+                  
+                     <said id="14" mode="direct" content="speech" level="1">»Pillendrehen ist auch eine unterhaltende Beschäftigung,«</said>
+                        <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">versetzte</seg> <seg id="14" type="speaker">Herr von Hohenwart</seg></seg>, zu Blanka gewendet, unbekümmert, daß <seg id="13" type="speaker">Hollunder</seg>
+                        die Bemerkung hören konnte.
+                  
+                  
+                     <said id="15" mode="direct" content="speech" level="1">»Jedenfalls nützlicher als Schnurrbartdrehen,«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">gab</seg> <seg id="15" type="speaker">dieser</seg>
+                        <seg id="15" type="intExpr">zurück</seg></seg>, vom Zorne schlagfertig inspiriert.
+                     Denn, wenngleich unser Freund im allgemeinen von den Dämonen des Kleinlebens die Empfindlichkeit und
+                        üble Laune so wenig kannte als die Langeweile, durch den Hohn aus diesem
+                        Munde und in dieser Gegenwart fühlte er sich empört.
+                  
+                  
+                     Er führte seine Dame in die Reihe, und <seg id="21" type="speaker">Herr von Hohenwart</seg> lachte
+                        so unbefangen, <said id="22" mode="reported" content="speech" level="1" prag="yes">als ob von <said id="21" mode="reported" content="speech" level="2">einer <seg id="21" type="intExpr">Beleidigung</seg> aus diesem Munde</said> nicht <seg id="22" type="intExpr">die Rede
+                        sein</seg> könne.</said>
+                  
+                  
+                     <said id="16" mode="direct" content="speech" level="1">»Ich gratuliere Ihnen zu diesem Prachtexemplar von einem
+                        Verehrer, Gnädigste,«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16 17" type="speaker">er</seg>.</seg>
+                     <said id="17" mode="direct" content="speech" level="1">»Ein närrischer Kauz, wie alle Apotheker.«</said> 
+                  
+                  
+                     Blanka zitterte, ihre Pulse flogen, Glut und Blässe wechselten
+                        auf ihren Wangen; <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">sie</seg> <seg id="18" type="intExpr">wußte</seg> nicht,</seg> <said id="18" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob vor Scham, vor Zorn, vor welchen
+                        überwältigenden Empfindungen.</said>
+                  
+                  
+                     <said id="19" mode="direct" content="speech" level="1">»Wie schön Sie sind!«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">rief</seg> <seg id="19" type="speaker">Herr von Hohenwart</seg> entzückt.</seg>
+                  
+                  
+                     Sie erhob sich hastig und folgte ihrem herbeieilenden Tänzer in
+                        die Reihe.
+                  
+                  
+                     Der vortanzende Herr Hollunder überbot sich in sinnvoll
+                        erfundenen Touren.
+                     <said id="23" mode="reported" content="speech" level="1">Fräulein von Horneck ward mit seinen Blumen und Gaben
+                        überschüttet, seine exzentrische Huldigung zum <seg id="23" type="intExpr">Geflüster</seg> der
+                        <seg id="23" type="speaker">Gesellschaft</seg>.</said>
+                     Wiederum fühlte sie alle Blicke auf sich gerichtet, aber wie
+                        krampfte jetzt das Herz sich ihr zusammen unter diesen Blicken.
+                  
+                  
+                     Nach dem Neuerfundenen kam nun aber auch das
+                        Altbewährte an die Reihe.
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

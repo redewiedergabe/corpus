@@ -1,0 +1,168 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Grete Minde</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Grete_Minde.tg704_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">Grete Minde</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  <said id="1" mode="direct" content="speech" level="1">Und sein Vater
+                                                  hat es noch erlebt.«</said> 
+                                                  
+                                                  
+                                                  <said id="2" mode="direct" content="speech" level="1">»Aber <seg id="1" type="speaker">Grete</seg>, <said id="3" mode="reported" content="thought" level="2" nonfact="yes" border="yes">woher <seg id="3" type="intExpr">weißt</seg> <seg id="3" type="speaker">du</seg> nur das
+                                                  alles?</said>
+                                                  <said id="4" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Die Geschichte von der großen
+                                                  Tangerschlacht und von dem Tangermünder Schatze,
+                                                  die <seg id="4" type="intExpr">weißt</seg> <seg id="4" type="speaker">du</seg> nicht</said>, <said id="5" mode="reported" content="thought" level="2" border="yes">und die von dem
+                                                  Fischbecker Pastor <seg id="5" type="intExpr">weißt</seg> <seg id="5" type="speaker">du</seg> so genau!</said>«</said> 
+                                                  
+                                                  
+                                                  <seg id="6 12 14" type="speaker">Grete</seg> lachte.
+                                                  <said id="6" mode="direct" content="speech" level="1">»<seg id="7" type="frame" pos="start">Und <seg id="7" type="intExpr">weißt</seg> <seg id="7" type="speaker">du</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="8" mode="reported" content="thought" level="3" border="yes">wie lang <seg id="8" type="speaker">ich</seg> sie
+                                                  <seg id="8" type="intExpr">weiß</seg>?</said></said>
+                                                  Seit gestern.
+                                                  <said id="9" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Und <seg id="9" type="intExpr">weißt</seg> <seg id="9" type="speaker">du</seg> von wem?</said>
+                                                  Von Gigas.«</said> 
+                                                  
+                                                  
+                                                  <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="speech" level="2" nonfact="yes">Das mußt <seg id="11" type="speaker">du</seg> mir <seg id="11" type="intExpr">erzählen</seg>.</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="12" mode="direct" content="speech" level="1">»Freilich.
+                                                  Das will ich auch.
+                                                  Aber da muß ich weit ausholen.«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="13" mode="direct" content="speech" level="1">»Tu's nur.
+                                                  Wir haben ja Zeit.«</said> 
+                                                  
+                                                  
+                                                  <said id="14" mode="direct" content="speech" level="1">»Nun sieh, <seg id="13 10 2" type="speaker">Valtin</seg>, <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">du</seg> <seg id="15" type="intExpr">weißt</seg>,</seg> <said id="15" mode="indirect" content="thought" level="2" border="yes">ich
+                                                  bin immer weit fort; <said id="45" mode="reported" content="thought" level="3">weit fort in <seg id="45" type="speaker">meinen</seg>
+                                                  <seg id="45" type="intExpr">Gedanken</seg>.</said></said>
+                                                  <seg id="16" type="frame" pos="start">Und <seg id="16" type="speaker">du</seg> <seg id="16" type="intExpr">weißt</seg> auch,</seg> <said id="16" mode="indirect" content="thought" level="2" border="yes">um deshalb halt
+                                                  ich's aus.</said>
+                                                  Und immer abends, wenn ich mit der
+                                                  Regine bin, les ich von Kindern oder schönen
+                                                  Prinzessinnen, die vor einem bösen König oder
+                                                  einer bösen Königin geflohen sind, und es gibt
+                                                  viele solche Geschichten, und nicht bloß in
+                                                  Märchenbüchern, <said id="18" mode="reported" content="thought" level="2" nonfact="yes">viel, viel mehr, als <seg id="18" type="speaker">du</seg> dir <seg id="18" type="intExpr">denken</seg>
+                                                  kannst</said>, <seg id="19" type="frame" pos="start">und mitunter <seg id="19" type="intExpr">ist</seg> es <seg id="19" type="speaker">mir</seg>,</seg> <said id="19" mode="indirect" content="thought" level="2">als wären alle
+                                                  Menschen irgendeinmal ihrem Elend entlaufen.</said>«</said>
+                                                  
+                                                  
+                                                  
+                                                  <seg id="24" type="speaker">Valtin</seg> schüttelte den Kopf.
+                                                  
+                                                  
+                                                  <said id="20" mode="direct" content="speech" level="1">»Du schüttelst den Kopf.
+                                                  Und sieh, das tu ich auch.
+                                                  Oder doch von Zeit zu Zeit.
+                                                  Und so war es auch gestern, denn
+                                                  ich hatte wieder einen Traum gehabt, wieder von
+                                                  Flucht, und es war, als flög ich, und mir war im
+                                                  Fliegen so wohl und so leicht.
+                                                  Aber als ich aufwachte, war ich
+                                                  bedrückt und unruhig in meinem Gemüt.
+                                                  <seg id="46" type="frame" pos="start">Und da <seg id="46" type="intExpr">dacht</seg> <seg id="46" type="speaker">ich</seg>,</seg> <said id="46" mode="indirect" content="thought" level="2">das soll ein Ende
+                                                  haben: <said id="21" mode="reported" content="speech" level="3" nonfact="yes"><seg id="21" type="speaker">du</seg> wirst Gigas <seg id="21" type="intExpr">fragen</seg></said>, <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">der</seg> soll dir <seg id="22" type="intExpr">sagen</seg>,</seg>
+                                                  <said id="22" mode="indirect" content="speech" level="3" nonfact="yes">ob es etwas Böses ist, zu fliehen.</said></said>
+                                                  Und so ging ich zu ihm, gestern um
+                                                  die Mittagsstunde, <seg id="23" type="frame" pos="start">trotzdem ich wohl <seg id="23" type="intExpr">gehört</seg> hatte,</seg>
+                                                  <said id="23" mode="indirect" content="speech" level="2" border="yes">daß er selber in Sorg und Unruh sei.</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="24" mode="direct" content="speech" level="1">»Und wie fandest du ihn?«</said> 
+                                                  
+                                                  
+                                                  <said id="25" mode="direct" content="speech" level="1">»Ich fand ihn in seinem Garten
+                                                  zwischen den Beeten, und <seg id="47" type="speaker">wir</seg> gingen auf und ab,
+                                                  wie er's gern tut, <said id="47" mode="reported" content="speech" level="2">und <seg id="47" type="intExpr">sprachen</seg> vielerlei, und
+                                                  zuletzt auch von unserm Herrn Kurfürsten</said>, <seg id="48" type="speaker"><said id="27" mode="indirect" content="thought" level="2" border="yes">der</said></seg><seg id="27" type="frame" pos="mid">, wie
+                                                  <seg id="27" type="speaker">wir</seg> ja schon <seg id="27" type="intExpr">wußten</seg>,</seg> <said id="27" mode="indirect" content="thought" level="2" border="yes"><said id="48" mode="reported" content="thought" level="3">eine Nacht und einen Tag auf
+                                                  seiner Tangermünder Burg zu verbleiben
+                                                  <seg id="48" type="intExpr">gedenke</seg>.</said></said>
+                                                  Und als ich sah, daß er sich in
+                                                  seinem Gewissen sorgte, gerade so, <said id="29" mode="reported" content="speech" level="2">wie sich's <seg id="29" type="speaker">Trud</seg>
+                                                  und <seg id="29" type="speaker">Gerdt</seg>, <said id="49" mode="reported" content="speech" level="3">als <seg id="49" type="speaker">sie</seg> von ihm <seg id="49" type="intExpr">sprachen</seg></said>, in unsrem
+                                                  Hause schon <seg id="29" type="intExpr">zugeflüstert</seg> hatten</said>, <seg id="30" type="frame" pos="start">da faßt <seg id="30 50" type="speaker">ich</seg> mir
+                                                  ein Herz und <seg id="30" type="intExpr">fragt</seg> ihn:</seg> <said id="30" mode="indirect" content="speech" level="2">was er wohl mein'.</said> <said id="50" mode="indirect freeIndirect" content="speech" level="2">Ob
+                                                  Flucht allemalen ein bös und unrecht Ding
+                                                  sei.
+                                                  Oder ob es nicht auch ein
+                                                  rechtmäßig und zuständig Beginnen sein könne.</said>«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="33" mode="direct" content="speech" level="1">»<said id="34" mode="reported" content="speech" level="2" nonfact="yes">Und was <seg id="34" type="intExpr">antwortete</seg> <seg id="34" type="speaker">er</seg> dir?</said>«</said> 
+                                                  
+                                                  
+                                                  <said id="35" mode="direct" content="speech" level="1">»<said id="51" mode="reported" content="speech" level="2" nonfact="yes"><seg id="51" type="speaker">Er</seg> <seg id="51" type="intExpr">schwieg</seg> eine ganze Weile.</said>
+                                                  Als wir aber an die Bank kamen, die
+                                                  zu Ende des Mittelganges steht, <seg id="36" type="frame" pos="start"><seg id="36" type="intExpr">sagte</seg> <seg id="36 37" type="speaker">er</seg>:</seg> <said id="36" mode="direct" content="speech" level="2">›Setz
+                                                  dich, <seg id="35" type="speaker">Gret</seg>.
+                                                  <seg id="37" type="frame" pos="start">Und nun <seg id="37" type="intExpr">sage</seg> mir,</seg> <said id="37" mode="indirect" content="speech" level="3" nonfact="yes">wie kommst du zu
+                                                  solcher Frag?</said>‹</said> <said id="38" mode="reported" content="speech" level="2" nonfact="yes">Aber <seg id="38 39" type="speaker">ich</seg> <seg id="38" type="intExpr">gab</seg> ihm keine <seg id="38" type="intExpr">Antwort</seg></said> und
+                                                  <said id="39" mode="reported" content="speech" level="2"><seg id="39" type="intExpr">wiederholte</seg> nur alles</said> und sah ihn fest dabei
+                                                  an.
+                                                  Und all das konnt ich, ohne mich
+                                                  ihm zu verraten, <seg id="40" type="frame" pos="start">denn <seg id="40" type="speaker">ich</seg> hatte wohl <seg id="40" type="intExpr">bemerkt</seg>,</seg> <said id="40" mode="indirect" content="thought" level="2" border="yes"><said id="41" mode="reported" content="thought" level="3">daß
+                                                  <seg id="41" type="speaker">er</seg> an nichts als an den gnädigen und gestrengen
+                                                  Herrn Kurfürsten <seg id="41" type="intExpr">dachte</seg></said>, der genferisch geworden,
+                                                  und daß er immer nur alles Fährliche vor Augen
+                                                  sah, was ihm selber noch bevorstehen könne.</said>
+                                                  <seg id="42" type="frame" pos="start">Und endlich nahm <seg id="42" type="speaker">er</seg>
+                                                  meine Hand und <seg id="42" type="intExpr">sagte</seg>:</seg> <said id="42" mode="direct" content="speech" level="2">›Ja, Grete, das ist eine
+                                                  schwere Frag, <seg id="43" type="frame" pos="start">und <seg id="43" type="speaker">ich</seg> <seg id="43" type="intExpr">denke</seg>,</seg> <said id="43" mode="indirect" content="thought" level="3"><seg id="44" type="frame" pos="start"><seg id="44" type="speaker">wir</seg> müssen zum ersten
+                                                  allemal <seg id="44" type="intExpr">beten</seg>,</seg> <said id="44" mode="indirect" content="speech" level="4" nonfact="yes" border="yes">daß wir nicht in Versuchung fallen,
+                                                  und zum zweiten, daß uns die Gnade Gottes überall,
+                                                  wo wir zweifelhaft und unsicher in unsrem Gemüte
+                                                  sind, den rechten Weg finden lasse.</said></said></said></said>
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                          </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>32. Der Soldat und das Feuerzeug</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_32__Der_Soldat_und_das_Feuerzeug.tg683_1.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">32. Der Soldat und das Feuerzeug</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="speech" level="1"><seg id="1 2" type="speaker">Er</seg> <seg id="1" type="intExpr">erkundigte sich</seg> gleich nach dem vornehmsten Gasthofe</said>, ging hinein und <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="intExpr">verlangte</seg> Herberge</said> und weil er so zerlumpt und schmutzig aussah, brachte ihn der Wirth in die Bedientenstube. <said id="21" mode="direct" content="speech" level="1">»Das ist ja hier eine elende Wirthschaft«</said><seg id="21" type="frame" pos="mid">, <seg id="21" type="intExpr">sprach</seg> der <seg id="21" type="speaker">Soldat</seg>;</seg> <said id="21" mode="direct" content="speech" level="1">»bringt mir Wein her!«</said> <seg id="22" type="frame" pos="start">Da ging der<seg id="22" type="speaker"> Wirth</seg> hin und holte ein Flasche von der schlechtesten Sorte und <seg id="22" type="intExpr">meinte</seg>,</seg> <said id="22" mode="indirect" content="speech" level="1">die wäre für so einen Lump wohl gut genug</said>; <seg id="5" type="frame" pos="start">aber der <seg id="5 19" type="speaker">Soldat</seg>, der in dem verwünschten Schlosse den köstlichen Wein getrunken hatte, <said id="19" mode="reported" content="thought" level="1" border="yes"><seg id="19" type="intExpr">wußte</seg> wohl was gut schmeckte</said>, probte den Wein, schnitt ein Gesicht und <seg id="5" type="intExpr">rief</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Bah! der Wein ist ja gar nicht zu genießen! Bringt bessern her!«</said> Der Wirth bequemte sich und holte eine Flasche von der Mittelsorte; <seg id="6" type="frame" pos="start">aber der <seg id="6" type="speaker">Soldat</seg>, da er ihn geprobt hatte, <seg id="6" type="intExpr">rief </seg>wieder:</seg> <said id="6" mode="direct" content="speech" level="1">»Bah! bringt bessern her! Es koste, was es will; hier ist Geld!«</said> Damit warf er ein paar Goldstücke auf den Tisch. Als das der Wirth sah, wurde er auf einmal ganz höflich, ging in den Keller und brachte eine Flasche vom besten.<said id="7" mode="direct" content="speech" level="1"> »So!«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">sprach</seg> der <seg id="7" type="speaker">Soldat</seg>,</seg><said id="7" mode="direct" content="speech" level="1"> »der läßt sich trinken. Nun gebt mir auch ein besseres Quartier, daß ich aus diesem elenden Loche komme.«</said> Da brachte ihn der Wirth mit tiefen Bücklingen in das schönste Zimmer, das er im Hause hatte. <said id="8" mode="direct" content="speech" level="1">»Jetzt, Herr Wirth!«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">sprach</seg> der <seg id="8" type="speaker">Soldat</seg>, </seg><said id="8" mode="direct" content="speech" level="1">»bringt mir einen Juden her, daß er mir Kleider und Wagen und Pferde schafft.«</said> Der Jude kam. <said id="9" mode="direct" content="speech" level="1">»Hör mal Jude,«</said> <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">sprach</seg> der <seg id="9" type="speaker">Soldat</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»du kannst mir wohl schöne Kleider schaffen, wie sie der König trägt, auch drei Kutschen und zu jeder Kutsche sechs Pferde; sechs Schimmel, sechs schwarze und sechs Isabellen.«</said> <said id="10" mode="direct" content="speech" level="1">»Das ist recht schön!«</said> <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">schmunzelte</seg> der <seg id="10" type="speaker">Jud</seg>; </seg><said id="10" mode="direct" content="speech" level="1">»aber hat der <seg id="11" type="speaker">Herr</seg> auch Geld dazu,<said id="11" mode="reported" content="speech" level="2"> mit Verlaub zu <seg id="11" type="intExpr">fragen</seg>?</said>«</said> <said id="18" mode="direct" content="speech" level="1">»Hier, Jude, hast du Geld,« </said><seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">sprach</seg> der <seg id="18" type="speaker">Soldat</seg></seg>, griff in die Tasche und warf ein paar Hände voll Goldstücke auf den Tisch. Der Jude strich das Geld schmunzelnd ein und ging unter tiefen Bücklingen zur Thür hinaus. Er hatte auch bald alles aufs beste besorgt, <said id="23" mode="reported" content="speech" level="1">wie es der <seg id="23" type="speaker">Soldat</seg> <seg id="23" type="intExpr">gewünscht</seg> hatte.</said> Der lebte nun alle Tage in Saus und Braus, und jeden Mittag, wenn er gegessen hatte, fuhr er in seiner Kutsche durch die Stadt und vor des Königs Schlosse vorbei. 
+                  Es hatte der König aber drei Töchter, die sahen von ihrem Fenster aus, wie der Soldat in seinem prächtigen Kleide und in seiner schönen Kutsche da jeden Tag vorbei fuhr. <seg id="13" type="frame" pos="start">Da <seg id="13" type="intExpr">sprach</seg> die <seg id="13" type="speaker">älteste</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Das ist gewiß ein reicher Prinz,<said id="24" mode="reported" content="speech" level="2" nonfact="yes"> den will <seg id="24" type="speaker">ich</seg> mal zu Gaste <seg id="24" type="intExpr">bitten</seg>.</said>«</said> Sie schickte ihren <seg id="15" type="speaker">Diener</seg> nach dem Gasthofe und ließ <said id="15" mode="reported" content="speech" level="1">den Soldaten zu sich <seg id="15" type="intExpr">einladen</seg>.</said> Er kam auch und brachte eine ganze Tasche voll Goldstücke mit. Nach dem Essen wurde 
+Karten gespielt; der Soldat spielte aber so unglücklich, daß er all sein Geld verlor, was er mitgebracht hatte. Den andern Abend ließ <said id="20" mode="reported" content="speech" level="1">ihn die <seg id="20" type="speaker">zweite Prinzessin</seg> <seg id="20" type="intExpr">einladen</seg></said>; da erging es ihm auch so unglücklich beim Spiele, daß er wieder sein mitgenommenes Geld verspielte, und das war sein letztes. Den dritten Abend <said id="25" mode="reported" content="speech" level="1">wurde er zu der <seg id="25" type="speaker">jüngsten und schönsten Prinzessin</seg> <seg id="25" type="intExpr">eingeladen</seg></said>, und weil er da für sein Leben gern hinging, sein Geld aber zu Ende war, so verkaufte er Wagen und Pferde und bekam eine hübsche Summe dafür.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

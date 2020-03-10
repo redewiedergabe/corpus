@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>589. Die sieben Steinebei Spornitz</title>
+             <author>Bartsch, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bartsch,_Karl_589__Die_sieben_Steine_bei_Spornitz.tg782_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">589. Die sieben Steinebei Spornitz</f>
+         <f name="author">Bartsch, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Auf dem Spornitzer Felde, nicht weit von der Parchimschen Landwehr (der Stadtfeldgrenze) liegen dicht an der Chaussée sieben große längliche 
+                        
+                        
+                        1
+                      Steine, sechs dicht bei einander, der siebente etwas davon ab 
+                        
+                        
+                        2
+                     . Sie haben stellenweise blutrothe Flecken 
+                        
+                        
+                        3
+                     . <said id="8" mode="reported" content="speech" level="1">Von ihnen <seg id="8" type="intExpr">erzählt</seg> <seg id="8" type="speaker">man</seg> sich Folgendes.</said> 
+                  In früheren Zeiten, als die Bauern ihre Pferde des Abends und des Nachts weiden ließen, hüteten mal sieben Knaben die Pferde von Spornitzer Bauern 
+                        
+                        
+                        4
+                     . Um sich die Zeit zu vertreiben, verfielen sie aufs Kegelspiel, und da sie nicht Kegel noch Kugeln hatten, so machten sie aus den Würsten, die sie als Zehrung mitbekommen, Kegel 
+                        
+                        
+                        5
+                      und aus Brotkrume Kugeln 
+                        
+                        
+                        6
+                     . Da kam ein kleiner <seg id="9" type="speaker">Mann</seg> zu einem der Knaben, der dem Spiel blos zugesehen hatte 
+                        
+                        
+                        7
+                      <seg id="9" type="frame" pos="start">und <seg id="9" type="intExpr">gebot</seg> ihm,</seg> <said id="9" mode="indirect" content="speech" level="1">schnell fortzulaufen und sich ja nicht umzusehen 
+                        
+                        
+                        8
+                     .</said> Die sechs andern wurden in Stein verwandelt; der weglaufende, neugierig, zu erfahren, was aus seinen Kameraden geworden, sah, um so das Gebot zu umgehen, zwischen seinen Beinen hindurch und wurde zur Strafe ebenfalls Stein 
+                        
+                        
+                        9
+                     . <said id="10" mode="reported" content="thought" level="1"><seg id="10" type="speaker">Man</seg> <seg id="10" type="intExpr">glaubt</seg> noch die Halfterstricke zu erkennen, welche die Knaben um ihre Schultern gehängt hatten 
+                        
+                        
+                        10
+                     .</said> 
+                  Der Spornitzer Müller 
+                        
+                        
+                        11
+                      nahm mal einen der Steine mit nach Hause, um ihn bei seiner Gartenmauer 
+                        
+                        
+                        12
+                      zu verwenden. Da fing der Stein an zu bluten, der Müller erschrak und brachte ihn eilends an seine Stelle zurück 
+                        
+                        
+                        13
+                     . Seitdem liegen die Steine ungestört und auch bei dem Baue der so nahe liegenden Chaussée hat man sie unberührt gelassen.
+                  
+                     Vier Aufzeichnungen, die ich durch A B C D bezeichne.
+                   
+               
+               
+                  Fußnoten
+                  <note>
+                     
+                        
+                        1 In fast kreisrunder Form D.
+                  </note>
+                  <note>
+                     
+                        
+                        2 Der Eingang fehlt B.
+                  </note>
+                  <note>
+                     
+                        
+                        3 Nur in C.
+                  </note>
+                  <note>
+                     
+                        
+                        4 Säben Hörjungs E; sieben viehhütende Knaben D.
+                  </note>
+                  <note>
+                     
+                        
+                        5 Nach A aus dem mitbekommenen Speck; in C fehlt Beides.
+                  </note>
+                  <note>
+                     
+                        
+                        6 Nach C machen sie aus Brot die Kegel.
+                  </note>
+                  <note>
+                     
+                        
+                        7 Der nur mit Widerstreben an dem Spiel theilgenommen hatte B.
+                  </note>
+                  <note>
+                     
+                        
+                        8 In D ein großer <seg id="11" type="speaker">Mann</seg> in weißem Gewande, <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">der</seg> die Knaben <seg id="4" type="intExpr">warnt</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1">die Gottesgabe nicht zu mißbrauchen</said>, <said id="11" mode="reported" content="speech" level="1">auf welche <seg id="11" type="intExpr">Warnung</seg></said> aber nur einer achtet, während die andern fortfahren, worauf er wiederkehrt, diesmal in schwarzem Gewande; in B keine Erscheinung, der Knabe erhält von Gott Verzeihung unter der Bedingung, sich nicht umzusehen. In C fehlt der Satz ganz.
+                  </note>
+                  <note>
+                     
+                        
+                        9 Dei Ein wull noch weglopen, œwer as hei sik dörch dei Bein dörch kiken wull, würr hei ok tau Stein C.
+                  </note>
+                  <note>
+                     
+                        
+                        10 Fehlt C; <said id="6" mode="reported" content="thought" level="1">nach D <seg id="6" type="intExpr">glaubte</seg> <seg id="6" type="speaker">man</seg> früher Spuren einer Hand auf einem der Steine zu erkennen.</said>
+                  </note>
+                  <note>
+                     
+                        
+                        11 Ein Bauer A, ein Spornitzer Bauer, dessen Namen man im Orte kennt D. In B allgemein: Die Steine dürfen nicht verrückt werden; geschieht es, so fangen sie an zu bluten.
+                  </note>
+                  <note>
+                     
+                        
+                        12 In einer Mauer A, beim Fundament einer Scheune D.
+                  </note>
+                  <note>
+                     
+                        
+                        13 Statt dieses Satzes hat A: Je näher er aber dem Dorfe kam, desto schwerer wurde der Stein, und als er ihn doch vermauerte, ließ es ihm Nachts keine Ruhe, bis er ihn wieder an seine Stelle gebracht. In D bringt er bald darauf ihn Nachts wieder zurück, ohne den Grund angeben zu wollen; <seg id="7" type="frame" pos="start">die <seg id="7" type="speaker">Leute</seg> <seg id="7" type="intExpr">sagen</seg> aber,</seg> <said id="7" mode="indirect" content="speech" level="1">es sei Blut aus dem Steine geflossen.</said>
+
+</note>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

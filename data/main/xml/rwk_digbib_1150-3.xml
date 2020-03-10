@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Vorzugsschüler</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Vorzugsschueler.tg125_1.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Vorzugsschüler</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Einem oder dem andern fiel auf, wie sonderbar »verloren« er aussah. 
+                  <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Keiner</seg> hatte Lust und Zeit, ihn zu <seg id="1" type="intExpr">fragen</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes">was ihm sei.</said> <seg id="2" type="frame" pos="start">Ein <seg id="2" type="speaker">Tischlerjunge</seg> nur, der einen Handwagen schleppte und an den er angestoßen war, <seg id="2" type="intExpr">rief</seg> ihm zu:</seg> <said id="2" mode="direct" content="speech" level="1">»Hüo! wo hast dein Schädel? Anhaut mitsamt der Mitzen?«</said> 
+                  Unwillkürlich griff Georg nach seinem Kopfe. Er war barhaupt, hatte seine Mütze in der Schule gelassen und auch seine Lernsachen. Daran lag aber nichts. <said id="3" mode="reported" content="speech" level="1" nonfact="yes">Ihn würde <seg id="3" type="speaker">niemand</seg> nach ihnen <seg id="3" type="intExpr">fragen</seg>.</said> Er konnte ja nicht mehr heim. <said id="4" mode="direct" content="speech" level="1">»Komm mir nicht nach Hause mit einer schlechten Note!«</said> <said id="18" mode="reported" content="speech" level="1">Diese <seg id="18" type="intExpr">Worte</seg></said> dröhnten unablässig an <seg id="19" type="speaker">sein</seg> Ohr. <said id="19" mode="freeIndirect" content="thought" level="1">Jetzt mußte er sie bekommen, die schlechte Note, die erste wirklich schlechte. Was würde der <seg id="4 18" type="speaker">Vater</seg> jetzt mit ihm tun? Und wie würde die Mutter sich kränken... Nein, nein, Vater und Mutter, er wagt es nicht, er kommt nicht mehr zurück, er geht, wohin schon mancher unglückliche Schüler gegangen ist: in die Donau.</said> <said id="5" mode="reported" content="thought" level="1">Und dieser eine <seg id="5" type="intExpr">Gedanke</seg>, je länger <seg id="5 20 6" type="speaker">er</seg> ihn vor sich sah als das Unabwendbare, einzige, je mehr befreundete er sich mit ihm.</said> <said id="20" mode="reported" content="thought" level="1">Dieser <seg id="20" type="intExpr">Gedanke</seg> mit dem dunklen Kerne</said> hatte eine blendende Atmosphäre und fing an eine große Helligkeit zu verbreiten. <seg id="6" type="frame" pos="start">Er <seg id="6" type="intExpr">gestaltete</seg> sich jetzt so:</seg> <said id="6" mode="direct" content="thought" level="1">Ich muß in die Donau, ich will aber auch, und gern. Wie gut ist es, tot zu sein, nicht mehr hören müssen: Lern! Wie gut auch, wenn es keinen Zwiespalt mehr zwischen den Eltern gibt.</said> <said id="7" mode="direct" content="thought" level="1">Aber du begehst einen Selbstmord</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">fuhr</seg> es <seg id="7" type="speaker">ihm</seg> <seg id="7" type="intExpr">durch</seg> <seg id="7" type="intExpr">den</seg> <seg id="7" type="intExpr">Sinn</seg>,</seg> <said id="7" mode="direct" content="thought" level="1">und ein Selbstmord ist eine Todsünde.</said> Ihn schauderte. <said id="8" mode="direct" content="speech" level="1">»Lieber Gott! Allgütiger!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">stöhnte</seg> <seg id="8 9" type="speaker">er</seg></seg> und blickte flehend zum Himmel empor. <said id="9" mode="direct" content="speech" level="1">»Rechne mir meinen Tod nicht als Sünde an! Ich will keine Sünde begehen, ich will sterben für den Frieden meiner Eltern. Mein Tod ist ein Opfertod.«</said> 
+                  Ein Opfertod! 
+                  An dieses Wort klammerte er sich; es brachte ihm Trost. Es verwandelte die Tat der Verzweiflung in eine Heldentat und schwerste Schuld in ein Märtyrertum. Es ging auf vor dem armen, irrenden, suchenden <seg id="10 11 12 21" type="speaker">Kinde</seg> wie ein Stern in der Nacht. <said id="10" mode="reported" content="thought" level="1" nonfact="yes">Keine <seg id="10" type="intExpr">Erwägung</seg></said>, <said id="11" mode="reported" content="thought" level="1" nonfact="yes">keine <seg id="11" type="intExpr">Überlegung</seg></said>, <said id="12" mode="reported" content="thought" level="1" nonfact="yes">kein <seg id="12" type="intExpr">Zweifel</seg> mehr</said>, <said id="21" mode="reported" content="thought" level="1" nonfact="yes">nicht die geringste Fähigkeit, sich etwas anderes <seg id="21" type="intExpr">vorzustellen</seg></said>, nur die rasende, unbezwingliche Sehnsucht, Erlösung zu erfahren und Erlösung zu bringen.
+                  Er war am Ende der Straße angelangt, bog in die Seitengasse ein, die auf den Kai mündete. Bleierne Müdigkeit lag <seg id="22 14" type="speaker">ihm</seg> in den Gliedern, sein Kopf brannte und schmerzte bis zur Bewußtlosigkeit. <said id="22" mode="freeIndirect" content="thought" level="1">Die Donau, die ist ein kühles, weiches Bete, da findet man Ruhe und Labung. Nur sie erreichen, nur bis zu ihr hinkommen!</said> <seg id="14" type="frame" pos="start">Eine dumpfe <seg id="14" type="intExpr">Angst</seg>:</seg> <said id="14" mode="direct" content="thought" level="1">Sie mißgönnen mir die Erlösung, sind hinter mir, verfolgen mich</said>, jagte ihn vorwärts. Er begann zu laufen, <seg id="15" type="frame" pos="start">und dabei <seg id="15" type="intExpr">schien</seg> <seg id="15" type="speaker">ihm</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1" border="yes">daß er immer auf demselben Fleck bliebe.</said> Das war fürchterlich, noch einmal einen so argen Kampf mit dem Unüberwindlichen kämpfen zu müssen. 
+                  <said id="16" mode="direct" content="speech" level="1">»Wohin? Was sind Sie so eilig?«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sprach</seg> eine wohlbekannte <seg id="16" type="speaker">Stimme</seg> ihn <seg id="16" type="intExpr">an</seg>.</seg> Der Hausierer stand vor ihm. 
+                  <said id="17" mode="direct" content="speech" level="1">»Du?«</said> <seg id="17" type="frame" pos="mid"><seg id="17" type="intExpr">sagte</seg> <seg id="17" type="speaker">er</seg>,</seg> <said id="17" mode="direct" content="speech" level="1">»du, Salomon?«</said> 
+                  Ein wenig Zeit nahm er sich zum Abschied von dem Armen. Auch der war elend, dem es Seligkeit gewesen wäre, in der Schule zu sitzen, aus der Georg entflohen war, und der auf und ab wandeln mußte vom frühen Morgen bis in die späte Nacht in Staub und Sonnenbrand, und sah so krank aus, und seine schmächtige Gestalt war schon ganz schief vom Tragen des schweren Warenkastens.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

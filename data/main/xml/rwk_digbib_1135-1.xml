@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bei uns zu Lande auf dem Lande</title>
+             <author>Droste-Hülshoff, Annette von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Droste-Huelshoff,_Annette_von_Bei_uns_zulande_auf_dem_Lande.tg262_1.xml</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Bei uns zu Lande auf dem Lande</f>
+         <f name="author">Droste-Hülshoff, Annette von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="freeIndirect" content="thought" level="1">Bin ich nicht im Lande meiner Vorfahren? Das Land, was mein Ahn Hans Everwin so betrübten Herzens verließ und in sauberm Mönchslatein besang wie eine Nachtigall in der Perücke? O angulus ridens! o prata fontesque susurro etc. etc.</said> – <seg id="9" type="frame" pos="start"><seg id="9 1 8" type="speaker">Ich</seg> <seg id="9" type="intExpr">weiß</seg> es,</seg> <said id="9" mode="indirect" content="thought" level="1" border="yes">wie mich einst freuen wird, diese Blätter zu lesen, wenn dieses fremdartige Intermezzo meines Lebens weit hinter mir liegt, <said id="13" mode="reported" content="thought" level="2" border="yes">vielleicht mehr, als <seg id="13" type="speaker">ich</seg> jetzt noch <seg id="13" type="intExpr">glaube</seg></said>, <seg id="14" type="frame" pos="start">denn es <seg id="14" type="intExpr">ist</seg> <seg id="14" type="speaker">mir</seg> zuweilen,</seg> <said id="14" mode="indirect" content="thought" level="2">als wolle das zwanzigfach verdünnte westfälische Blut sich noch geltend in mir machen.</said></said> <said id="8" mode="freeIndirect" content="thought" level="1">Gott bewahre! ich bin ein echter Lausitzer – vive la Lusace! und nun!</said> das hat Mühe gekostet, bis ich an diesen Kamin gelangt bin – schlechte, schlechte Wege habe ich durchackert und Gefahren ausgestanden zu Wasser und Lande. Dreimal habe ich den Wagen zerbrochen und einmal dabei auf dem Kopfe gestanden, was weder angenehm noch malerisch war. Mit einem Spitzgespann (<said id="15" mode="reported" content="speech" level="1" border="yes">so <seg id="15" type="intExpr">nennt</seg> <seg id="15" type="speaker">man</seg> hier ein Dreigespann</said>) von langhaarigen Bauernpferden habe ich mich durch den Sand gewühlt und mit einem Male den vordern Renner in einer sogenannten Welle versinken sehen, einer tückischen, wandernden Rasse von Quellen, die ich sonst nirgends angetroffen und die hier manchen Fahrwegen Annex ist, sich das ganze Jahr stille hält, um im Frühlinge irgendeine gute münsterische Seele zu packen, zur Strafe der Sünde, die sie nicht begangen hat. Ich bin aus dem Wagen gesprungen wie ein Pfeil, denn – bei Gott – mir war so konfus, <said id="11" mode="reported" content="thought" level="1">daß <seg id="11" type="speaker">ich</seg> an die Nordsee und Unterspülen <seg id="11" type="intExpr">dachte</seg></said>; von meinem Pferdchen war nur noch ein Stück Nase und die Ohren sichtbar, mit denen es erbärmlich zwinkerte; zum Glück waren <seg id="3" type="speaker">Bauern</seg> in der Nähe, die Heidrasen stachen und geschickt genug Hand anlegten: <said id="3" mode="direct" content="speech" level="1">»He! Hans! up! up!«</said> Ja – Hans konnte nicht auf und spartelte sich immer tiefer hinein; endlich ward er doch herausgegabelt und zog niedergeschlagen und kläglich triefend weiter voran, wie der bei der Serenade übel begossene Philister. – <seg id="12 16" type="speaker">Ich</seg> fand vorläufig den Boden unter meinen Füßen sicherer und stapfte nebenher durch das feuchte Heidekraut, <said id="12" mode="reported" content="thought" level="1">immer an unsern <seg id="7" type="speaker">Ahn</seg> <seg id="12" type="intExpr">denkend</seg></said> und sein horazisches <said id="7" mode="direct" content="speech" level="1">»o angulus ridens!«</said> und was denn hier wohl lachen möge? <said id="16" mode="freeIndirect" content="thought" level="1">der Sand? oder das kotige Pferd? oder mein Fuhrmann in seinem bespritzten Kittel, der das Ave-Maria pfiff, daß die Heidschnucken davon melancholisch werden sollten? oder vollends ich, der wie ein Storch von einem Maulwurfshügel zum andern stelzte?</said> – Doch – ich war es, der am Ende lachend in den Wagen stieg, dreimal selig, schon vor Jahrhunderten im kleinsten Keime diesem glückseligen Arabien entflohen zu sein, was sich mir in diesem Augenblicke von dem klassischen durch nichts zu unterscheiden schien, als nur durch den Mangel an Sträußen und Überfluß an Pfützen. <said id="5" mode="direct" content="thought" level="1">O Gott!</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">dachte</seg> <seg id="5" type="speaker">ich</seg>,</seg> <said id="5" mode="direct" content="thought" level="1">wie mag die Halle deiner Väter beschaffen sein, du guter Everwin!</said> – Eine halbe Tagereise weiter, und die Gegend klärte sich allmählich auf; die Heiden wurden kleiner, blumicht und beinahe frisch und fingen an, sich mit ihren auffallend bunten Viehherden und unter Baumgruppen zerstreuten Wohnungen fast idyllisch auszunehmen; rechts und links Gehölz und, soweit <seg id="6" type="speaker">ich</seg> es unterscheiden konnte, frischer, kräftiger Baumschlag, aber überall traten dem Blick mannshohe Erdwälle entgegen, die, vom Gebüsch überschattet, jeden Fahrweg unerläßlich einengten –<said id="6" mode="freeIndirect" content="thought" level="1"> wozu?
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

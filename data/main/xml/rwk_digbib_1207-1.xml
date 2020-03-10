@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Tag Anderer</title>
+             <author>Heyking, Elisabeth von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyking,_Elisabeth_von_Der_Tag_Anderer.tg74_1.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Tag Anderer</f>
+         <f name="author">Heyking, Elisabeth von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Und all das mußte sie opfern wegen zweier fröhlicher Kinder, <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">die</seg> wahrscheinlich viel weniger als Aga zu <seg id="1" type="intExpr">sagen</seg> vermocht hätten,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes">wie sie zu dem gekommen waren, <said id="2" mode="reported" content="speech" level="2">was <seg id="2" type="speaker">diese</seg> ihre Verliebtheit <seg id="2" type="intExpr">genannt</seg> hatte</said></said> – die aber das eine besaßen, was ein Recht zu allem Schönen gibt – die Jugend. 
+                  Nun hielt sie die Feder in der Hand. 
+                  <said id="19" mode="freeIndirect" content="thought" level="1"><said id="25" mode="reported" content="writing" level="2" nonfact="yes">Wie sollte <seg id="25 19" type="speaker">sie</seg> ihn wohl <seg id="25" type="intExpr">anreden</seg>?</said></said> 
+                  Und <said id="3" mode="direct" content="writing" level="1">»Lieber Freund!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">begann</seg> <seg id="3" type="speaker">sie</seg> dann schließlich</seg>, denn das konnte er ihr doch immer bleiben. 
+                  Dann setzte sie wieder ab. 
+                  <said id="26" mode="freeIndirect" content="thought" level="1">Ach, <said id="27" mode="reported" content="thought" level="2">wie anders hatte <seg id="27 26" type="speaker">sie</seg> sich doch vorhin <said id="5" mode="reported" content="writing" level="3">das <seg id="5" type="intExpr">Schreiben</seg> dieses Briefes</said> <seg id="27" type="intExpr">vorgestellt</seg>!</said></said> 
+                  <said id="6" mode="reported" content="thought" level="1">Und wie <seg id="6" type="speaker">sie</seg> das <seg id="6" type="intExpr">dachte</seg></said>, <said id="20" mode="reported" content="writing" level="1"><seg id="20" type="intExpr">formten sich</seg> <seg id="20 7" type="speaker">ihr</seg> auch schon die <seg id="20" type="intExpr">Worte</seg> unter der Feder:</said> <said id="7" mode="direct" content="writing" level="1">»Es sollte ein ganz andrer Brief werden, <said id="8" mode="reported" content="speech" level="2" nonfact="yes"><seg id="8" type="speaker">ich</seg> wollte Ihnen <seg id="8" type="intExpr">sagen</seg></said> – aber es ist ja nun ganz einerlei, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">was <seg id="9" type="speaker">ich</seg> Ihnen <seg id="9" type="intExpr">sagen</seg> wollte</said>, denn es bleibt nur das, <said id="10" mode="reported" content="speech" level="2" nonfact="yes">was <seg id="10" type="speaker">ich</seg> Ihnen <seg id="10" type="intExpr">sagen</seg> muß.</said>«</said> 
+                  <said id="11" mode="reported" content="writing" level="1">Und dann <seg id="11" type="intExpr">schrieb</seg> <seg id="11" type="speaker">sie</seg> ihm alles, alles.</said> <seg id="28" type="frame" pos="start">Und es <seg id="28" type="intExpr">war</seg> <seg id="28" type="speaker">ihr</seg> dabei,</seg> <said id="28" mode="indirect" content="thought" level="1" border="yes">als durchschritte sie mit ihm noch 
+einmal ihr ganzes vergangenes Leben, dessen Schatten sie gefangen hielten; als durchschritte sie auch das mit ihm, was doch nie sein würde, was sich vor ihr ausbreitete wie gelobtes Land, zu dem die Brücke führte, die sie nimmer betreten durfte.</said> <seg id="12" type="frame" pos="start">Und <seg id="12" type="speaker">sie</seg> <seg id="12" type="intExpr">sagte</seg> ihm,</seg> <said id="12" mode="indirect" content="writing" level="1">warum es nicht sein konnte.</said> <said id="13" mode="reported" content="writing" level="1">Die ganze Nacht <seg id="13" type="intExpr">schrieb</seg> <seg id="13" type="speaker">sie</seg> ihm</said> – diese eine Nacht sollte ihm ganz gehören – und <said id="14" mode="reported" content="writing" level="1">bei dem <seg id="14" type="intExpr">Schreiben</seg></said> sank es über sie <said id="24" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">wie müdes <seg id="24" type="intExpr">Entsagen</seg></said>, <said id="15" mode="reported" content="writing" level="1">während des <seg id="15" type="intExpr">Schreibens</seg></said> fühlte sie, wie sie in dieser Nacht in Wirklichkeit alt ward. 
+                  Sie hielt wohl manchmal inne, als könne sie nicht weiter, weil es gar zu wehe tat, <seg id="29" type="frame" pos="start">weil <seg id="29" type="speaker">sie</seg> sich gar zu sehr danach <seg id="29" type="intExpr">sehnte</seg>,</seg> <said id="29" mode="indirect" content="thought" level="1">daß er doch plötzlich dastehen möchte und sie in die Arme schlösse und sie sich an seiner Schulter ausschluchzen könne.</said> Aber wenn es auch viele Verluste und manchen Schmerz gibt, um die wir in den Armen eines andern weinen können – um ungelebtes Leben, da weint ein jeder ganz allein! Und <seg id="30" type="speaker">sie</seg> nahm die Feder wieder auf in altgewohnter Tapferkeit. – <said id="30" mode="freeIndirect" content="thought" level="1">War es denn nicht schon Glück,<said id="21" mode="reported" content="writing" level="2"> es ihm doch einmal alles sagen zu dürfen?</said> Und er würde es ja alles verstehen, würde fühlen, daß sie ihm da in diesem Briefe ihre sterbende Jugend schenkte.</said> Das einzige Lied der stummen Harfe, die scheu gehütete Perle auf Muschelsgrund, die sehnsüchtig duftenden
+ Blüten der vergessenen Insel, alles, was sie ihm in der Dauer des kommenden Lebens hatte schenken wollen – das sollte, zu einziger Gabe vereint, dieser eine Brief ihm bringen. 
+                  So ward in Schmerzen wahr, <seg id="31" type="frame" pos="start">was <seg id="31 23" type="speaker">sie</seg> vorhin in Seligkeit <seg id="31" type="intExpr">gedacht</seg>:</seg> <said id="31" mode="indirect" content="thought" level="1">der eine Zweck ihres armen Daseins war es, <said id="23" mode="reported" content="writing" level="2">diesen einen Brief zu <seg id="23" type="intExpr">schreiben</seg>.</said></said> 
+                  Nachdem sie zu Ende gekommen war, starrte sie lange sinnend auf die beschriebenen Bogen. <seg id="32" type="frame" pos="start">Es <seg id="32" type="intExpr">war</seg> <seg id="32" type="speaker">ihr</seg>,</seg> <said id="32" mode="indirect" content="thought" level="1" border="yes">als sei sie in dieser Nacht gestorben und als läge sie da in diesen Blättern begraben.</said> <seg id="33" type="frame" pos="start">Dabei <seg id="33" type="intExpr">fiel</seg> <seg id="33" type="speaker">ihr</seg> <seg id="33" type="intExpr">ein</seg>,</seg> <said id="33" mode="indirect" content="thought" level="1">daß viele Menschen gestorben sein mußten, <said id="18" mode="reported" content="writing" level="2">während <seg id="18 34" type="speaker">sie</seg> den Brief <seg id="18" type="intExpr">geschrieben</seg> hatte</said>, weil ja in jeder Nacht viele sterben.</said> <said id="34" mode="indirect freeIndirect" content="thought" level="1">Die brauchten keiner Sonne Aufgang je mehr zu sehen.</said> 
+                  Nun erhob sie sich, trat ans Fenster und schob die Vorhänge zurück.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

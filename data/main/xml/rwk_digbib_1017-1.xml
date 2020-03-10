@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eduards Traum</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_Eduards_Traum.tg643_1.xml</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Eduards Traum</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Und was die Flöhe sind, wer da nicht aufpaßt beim ersten Griff, weg hupfen's bis in die Wolken. 
+                  Zwar hupfen konnt ich auch, wie nur einer. Aber mit mir war das was anders. Ich hatte Fond. – 
+                  Wie ihr seht, meine Lieben; <said id="1" mode="reported" content="speech" level="1" nonfact="yes">eine <seg id="1" type="intExpr">Ausrede</seg> zugunsten der eigenen Vortrefflichkeit</said> stellt selbst im Traume sich ein! 
+                  Übrigens hatt ich die leeren Gestalten dieser eingebildeten Welt jetzt satt gekriegt und beeilte mich wegzukommen. <said id="2" mode="reported" content="speech" level="1">Am Ausgange wurde ich mit einer fetten Baßstimme von einem <seg id="2" type="speaker">Unbekannten</seg> <seg id="2" type="intExpr">angeredet</seg></said>, der so rund und dick war, daß er die ganze Tür versperrte. 
+                  Er entpuppte sich als mein ehemaliger Reisebegleiter, das mathematische Pünktchen. 
+                  Durch eine gewandte Drehung in der Ebene hatte er's dort bald zu einem umfangreichen Kreise gebracht, war darauf in den dreidimensionalen Raum ausgewandert, hatte sich hier durch ähnliche Umtriebe zur wohlbeleibten Kugel entwickelt und wollte sich nun mit Hilfe eines geeigneten Mediums materialisieren lassen, um dann später, ein Streber wie er war, als Globus an die Realschule zu gehn. 
+                  Aus dem nichtssagenden Kerlchen war ein richtiger Protz geworden, der mich behaglich wohlwollend zu behandeln gedachte. Da ich mir das aber von einem bloß aufgeblasenen Punkte, denn das sind alle seinesgleichen, nicht gefallen lassen wollte, so tat ich, ohne mich weiter zu verabschieden, einen eleganten Seitensatz durch die Bretterwand, <said id="8" mode="indirect" content="thought" level="1">hinter welcher</said><seg id="8" type="frame" pos="mid">, so <seg id="8" type="intExpr">meint</seg> <seg id="8" type="speaker">ich</seg>, </seg><said id="8" mode="indirect" content="thought" level="1">die vollständige Welt lag.</said> Es war aber nur Stückwerk.
+                  Zunächst geriet ich in ein Kommunalwesen von lauter Köpfen, die sich auf der Höhe eines Berges in einem altdeutschen Gehölze eingenistet hatten. Hinter jedem Ohre besitzt jeder einen Flügel; eine zweckentsprechende Umbildung des bekannten Muskels, den wir Kopfnicker nennen. An den Sümpfen herum sitzen die Wasserköpfe, blinzeln träge mit den Augen und lassen sich die Sonne ins Maul scheinen. 
+                  
+                     Querköpfe, welche die Eitelkeit ihrer Meinung besitzen, streiten und stoßen sich in der Luft herum; fast jeder hat Beulen grün und blau. Sie leben vom Wind. Was sie sonst brauchen, verdienen sie sich als Redner und Bänkelsänger. Zum Ohrfeigen, zum Hinausschmeißen, zum Balbieren und Frisieren mieten sie sich die geeigneten Hände; ebenso, um sich die Nase putzen zu lassen, was besonders kostspielig, wenn einer den Schnupfen hat. Hosenstoffe gebrauchen sie nicht. Manche sind niedlich. Ihrer zwei, ein <seg id="9" type="speaker">Männchen</seg> und ein <seg id="9" type="speaker">Weibchen</seg>, saßen zärtlich zusammengeschmiegt in einem Baum voll grüner Notenblätter und <said id="9" mode="reported" content="speech" level="1" border="yes"><seg id="9" type="intExpr">sangen</seg> das schöne Duett: »Du hast mein Herz und ich das deine«, und wie's weiter geht. </said>
+                  Etwas tiefer am Berg hinab, in Hütten und Krambuden, leben, weben und schweben die Hände apart für sich. Sie sind teils Schreiber und Schrupper und sonst dergleichen für die Köpfe weiter oben, teils Strumpfwirker und Streichmusikanten und sonst dergleichen für die Füße, die unten im Tale hausen. Ihre Geschicklichkeit ist mitunter nicht unerheblich. Ein Barbier, der mit wenig Seife viel Schaum schlagen konnte, war kürzlich unter die Literaten gegangen. <said id="10" mode="indirect" content="speech" level="1" border="yes">Er hatte großen Erfolg</said><seg id="10" type="frame" pos="mid">, wie <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">hörte</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1">trug bereits drei Brillantringe an jedem Finger und wollte sich demnächst mit einer Köchin verheiraten, die ohne Schwierigkeit ein einziges Eiweiß zu mehr als fünfzig Schaumklößen aufbauschte, also auch noch was leisten konnte.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

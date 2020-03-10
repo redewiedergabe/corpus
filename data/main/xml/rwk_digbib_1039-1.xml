@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der einsame Spatz</title>
+             <author>Christen, Ada</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Christen,_Ada_Der_einsame_Spatz.tg328_1.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Der einsame Spatz</f>
+         <f name="author">Christen, Ada</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">– Laternenanzünder! Braucht dazu der Mensch eine schöne Stimm?«</said> 
+                  
+                     <said id="2" mode="direct" content="speech" level="1">»Och God! Och God! Was in dem Mann alles gesteckt ist«</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">jammerte</seg> seine runde <seg id="2" type="speaker">Frau</seg></seg> und rang verzweifelt die Hände. 
+                  <seg id="3" type="frame" pos="start"><seg id="3 1" type="speaker">Er</seg> machte eine beruhigende Bewegung nach ihr hin und <seg id="3" type="intExpr">sagte</seg> dann tröstend:</seg> <said id="3" mode="direct" content="speech" level="1">»Aber unser alter Geiger, der ist was, der hat eine Crimineser. Der kann was! <said id="4" mode="reported" content="speech" level="2">Das haben schon gescheitere <seg id="4" type="speaker">Leut</seg> <seg id="4" type="intExpr">gesagt</seg>, als wir alle miteinander sind</said>, <seg id="5" type="frame" pos="start">und der alte <seg id="5" type="speaker">Herr</seg> wird schon <seg id="5" type="intExpr">wissen</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was der einsame Spatz inwendig ist.</said>«</said> 
+                  Der Laternenanzünder behielt in der Tat recht; <seg id="6" type="frame" pos="start">der alte <seg id="6" type="speaker">Musikant</seg> <seg id="6" type="intExpr">wußte</seg> wirklich seit jenem Ostermontag,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes">wie es in der Seele des Schreibers aussah ...</said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Er</seg> <seg id="7" type="intExpr">wußte</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß es gewisse Tage gibt, an welchen gewisse <seg id="8" type="speaker">Menschen</seg> aus ihrem Geleise kommen und <said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">nichts Klares mit sich anzufangen <seg id="8" type="intExpr">wissen</seg>.</said></said> Entweder scheint ihnen da die Sonne zu hell in ihre dunkle Stimmung, oder der trübe Tag legt sich bleischwer auf ihr Gemüt, <seg id="9" type="frame" pos="start">oder der <seg id="9" type="speaker">Wind</seg> trägt ihnen Töne aus verwehten Zeiten heran und <seg id="9" type="intExpr">raunt</seg> ihnen zu,</seg> <said id="9" mode="indirect" content="speech" level="1" metaph="yes">was sie vor Jahren genau an diesem Tage und genau zu derselben Stunde geträumt, gehofft, gefühlt und versäumt haben</said>, und dazwischen läuten plötzlich die Glocken allerwärts, <said id="20" mode="reported" content="speech" level="1" metaph="yes">sogar aus dem versunkenen Vineta herauf klingen <seg id="20" type="speaker">sie</seg> und <seg id="20" type="intExpr">mahnen</seg> ... mahnen ... mahnen ...</said>
+                  <said id="12" mode="reported" content="speech" level="1" border="yes">Feiertage werden solche Tage <seg id="12" type="intExpr">genannt</seg></said>, das gewöhnliche, eintönige Arbeitsleben ist gestaut, <said id="15" mode="reported" content="thought" level="1" nonfact="yes">wie sollte da der <seg id="15" type="speaker">Gewohnheitsmensch</seg> nicht <seg id="15" type="intExpr">stutzig werden</seg>?</said> Und wenn es nun gar Frühling ist und Ostern!... Ach, da ist ja die ganze Luft erfüllt von einer törichten, weichen Sehnsucht, die gewissen Leute atmen sie ein und hauchen sie aus und gehen mit empfindlich geschärften Sinnen in den Frühling hinein ... Erst wenn die Glocken verstummen und der Tag verblaßt, sind sie wieder so verständig, wie es sich für zweibeinige Dutzendware und für die Werkeltage des Lebens schickt. 
+                  Zum Glück gibt es nicht viele solche gewisse Menschenkinder, die vielleicht unentstandene Künstler sind, in deren Seelen an solchen Tagen die Schatten der Schöpfungen spuken, die nicht lebendig werden durften, die aber dennoch Gewalt haben, wenn die Stunde schlägt, und den Einsamen zwingen, weit hinauszulaufen, von den Glocken und <seg id="17" type="speaker"><seg id="17" type="intExpr"><said id="17" mode="reported" content="speech" level="1">Menschenstimmen</said></seg></seg> weit weg. 
+                  Der Advokatenschreiber, der am Ostersonntag hinausging vor die Stadt, war wirklich solch ein sonderbares Geschöpf. Zuerst nahm er seinen sauberen glatten Hut ab, lockerte mit fünf Fingern die flach niedergebürsteten Haare, so daß sie beinahe gefällig um die freie Stirn flatterten, dann nahm er vorsichtig die Brille ab und steckte sie behutsam in ihr Futteral, nun öffnete er langsam Knopf um Knopf an seinem festanliegenden Rocke, zog seinen knappen weißen Hemdkragen weiter auseinander, machte ein, zwei tiefe Atemzüge und schritt dann mit vorgestreckter Brust rasch hinaus durch die breite Allee ... Je weiter er hinauskam zwischen den alten knospenden Bäumen, desto stiller wurde es um ihn, nur gedämpft schwammen die Glockenstimmen durch die laue Luft ihm nach. Rechts und links auf den Feldern war die Saat schon handhoch aus dem Boden und stand so gleichmäßig und frisch da wie kostbarer grüner Sammet, und die Sonne schaute helleuchtend herab auf diese junge Pracht. Sogar ein ganz kleiner Schmetterling mit blauen Flügeln, der viel zu früh erwacht war, flatterte wie ein bewegliches Veilchen zuerst über ein Stücklein Feld und dann immer einige Schritte vor dem einsamen Manne, der wie im Traum einherging.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

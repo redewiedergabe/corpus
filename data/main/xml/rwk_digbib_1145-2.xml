@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Agave</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Agave.tg126_1.xml</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Agave</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  
+                     
+                        <seg id="1" type="frame" pos="start">Der <seg id="1 2" type="speaker">Jüngling</seg> war Zeuge des Wiedersehens
+                           Masolinos und Masaccios und <seg id="1" type="intExpr">fragte</seg> sich,</seg> <said id="1" mode="indirect" content="thought" level="1"><seg id="2" type="frame" pos="start">ob denn auch wahr und <seg id="2" type="intExpr">denkbar</seg>
+                           sei,</seg> <said id="2" mode="indirect" content="thought" level="2" nonfact="yes">was er erlebe.</said></said>
+                        Die er immer nur in Sternenweite über sich gesehen,
+                           unerreichbar hoch und fern, mit denen durfte er nun eine Luft atmen, sich
+                           versenken in ihren Anblick, durfte mit ihnen verkehren.
+                        Die Ehrfurcht, die Masaccio seinem ehemaligen Lehrer
+                           bezeigte, verdoppelte die Ehrfurcht Antonios für seinen Meister, der sich
+                           immer noch als Schüler fühlte.
+                     
+                     
+                        Beide Maler hatten die Ausschmückung des Gewölbes
+                           beendigt.
+                        Guidi zeichnete den Entwurf zu den Figuren des ersten
+                           Menschenpaares nach dem Sündenfall, die am Eingangsbogen das Seitenstück
+                           zu den von Masolino gemalten Stammeltern unter dem Baume bilden
+                           sollten.
+                        Die Fresken in der Kapelle selbst waren bestimmt, eine
+                           Verherrlichung der Taten und Wunder der Apostel Petrus und Paulus zu
+                           sein, und die erste Aufgabe, die Masolino für sich wählte, war die
+                           Wiedererweckung der Tabita.
+                     
+                     
+                        Er hatte die Arbeit eben begonnen, <said id="4" mode="reported" content="speech" level="1">als ein <seg id="4" type="intExpr">Ruf</seg> des <seg id="4" type="speaker">Kardinals</seg>
+                           Branda di Castiglione ihn nach Rom beschied.</said>
+                     
+                     
+                        <seg id="5" type="frame" pos="start">Einige Tage nach seiner Abreise <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">Guidi</seg> zu Antonio:</seg>
+                           <said id="5" mode="direct" content="speech" level="1">»Jetzt hat er den Kardinal schon gesprochen und wird nach San Clemente
+                           gegangen sein und meine Bilder kennengelernt haben.«</said> 
+                     
+                     
+                        
+                           Die Unruhe und bange Spannung, die
+                           den großen Künstler erfüllten, taten seinem Jünger leid.
+                        Alles Lob, alle Bewunderung, die Masaccios Werke ihrem
+                           Schöpfer eingetragen hatten, waren vergessen.
+                        Von dem Urteil Masolinos schien allein die Entscheidung über
+                           ihren Wert oder Unwert abzuhängen.
+                     
+                     
+                        <said id="6" mode="reported" content="speech" level="1">Inzwischen verbreitete sich in Florenz ein seltsames
+                           <seg id="6" type="intExpr">Gerücht</seg>.</said>
+                        <said id="12" mode="indirect freeIndirect" content="speech" level="1"><seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Filippo Scolari</seg>, der im Dienst des Königs Sigismund stand und
+                           die Würde eines Obergespans von Temesvar bekleidete, sollte den berühmten
+                           Masolino unter glänzenden Anerbietungen <seg id="7" type="intExpr">eingeladen</seg> haben,</seg> <said id="7" mode="indirect" content="speech writing" level="2">nach Ungarn zu
+                           kommen, um dort seine Kunst auszuüben.</said></said>
+                        Die Kühnheit dieser Zumutung erweckte allgemein Staunen,
+                           Entrüstung und Spott.
+                     
+                     
+                        <said id="8" mode="direct" content="speech" level="1">»Scolari hat den Verstand verloren«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagten</seg> die <seg id="8 13" type="speaker">Mitglieder
+                           der Malergilde</seg>.</seg>
+                        <said id="13" mode="direct" content="speech" level="1">»<seg id="14" type="frame" pos="start">Unmöglich könnte <seg id="14" type="speaker">er</seg> sonst von einem, der bei uns ein großer
+                           Maler geworden ist, <seg id="14" type="intExpr">verlangen</seg>,</seg> <said id="14" mode="indirect" content="speech" level="2">daß er die Früchte seiner Meisterschaft
+                           den Barbaren vorwerfe.</said>«</said> 
+                     
+                     
+                        Früher, als man erwartet hatte, kam Masolino aus Rom
+                           zurück.
+                        Masaccio fand ihn eines Morgens in der Kapelle.
+                        Sein Herz klopfte, als er den Verehrten grüßte.
+                        Der betrachtete prüfend das eben beendete Bild der
+                           Vertreibung aus dem Paradiese.
+                        Er studierte jede Linie an den Gestalten des unseligen ersten
+                           Menschenpaares, die Modellierung der Körper, den Ausdruck jammervoller
+                           Verzweiflung im Angesicht des Weibes, der Trostlosigkeit und glühenden
+                           Scham, mit der der Mann das seine in den Händen vergräbt.
+                        Über ihnen schwebt der Bote des Herrn und treibt sie von der
+                           Stätte der Schönheit und des Friedens in eine fremde, feindliche
+                           Welt.
+                     
+                     
+                        Sehnlich wartete Masaccio auf <said id="15" mode="reported" content="speech" level="1" nonfact="yes">ein <seg id="15" type="intExpr">Wort</seg> des Lobes – oder des
+                           Tadels.</said>
+                        Auf eine Unterbrechung nur des grausamen, beschämenden
+                           Schweigens.
+                        Und nicht minder heiß verlangte Antonio, der in seines
+                           <seg id="16" type="speaker">Meisters</seg> Seele durch dieses Stummsein litt, nach <said id="16" mode="reported" content="speech" level="1" nonfact="yes">einem befreienden
+                           <seg id="16" type="intExpr">Wort</seg>.</said>
+                     
+                     
+                        Masolino stieg auf das Gerüst, das an der oberen Hälfte der
+                           Linkswand vor seiner Freske angebracht war, die Schüler gingen an die
+                           Einteilung der anderen Wände nach seinen Plänen.
+                        <said id="11" mode="reported" content="speech" level="1"><seg id="11" type="speaker">Sie</seg> <seg id="11" type="intExpr">sprachen</seg> nur flüsternd miteinander.</said>
+                        Die Verstimmung der beiden Meister teilte
+                           sich allen mit, lastete auf allen.
+                     
+                  
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

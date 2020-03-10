@@ -1,0 +1,194 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der gute Mond</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_gute_Mond.tg120_1.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Der gute Mond</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  Stutzt nicht
+                                                  einmal bei meinem Anblick, zieht nur die Brauen
+                                                  finster zusammen, <said id="1" mode="reported" content="speech" level="1">als <seg id="1" type="speaker">ich</seg> mich <seg id="1" type="intExpr">nenne</seg></said>, und wird nur
+                                                  bleicher, <seg id="35" type="frame" pos="start">während <seg id="35" type="speaker">ich</seg> ihr kurz und bündig <seg id="35" type="intExpr">melde</seg>,</seg>
+                                                  <said id="35" mode="indirect" content="speech" level="1">wie die Sachen stehen.</said>
+                                                  
+                                                  
+                                                  <said id="3" mode="direct" content="speech" level="1">»<said id="36" mode="reported" content="thought" level="2" nonfact="yes" prag="yes">Und was <seg id="36" type="intExpr">gedenken</seg> <seg id="36" type="speaker">Sie</seg> jetzt zu tun</said>,
+                                                  Herr von Bauer?«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">fragt</seg> <seg id="3" type="speaker">sie</seg>.</seg>
+                                                  
+                                                  
+                                                  <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Das <seg id="6" type="intExpr">weiß</seg> <seg id="6" type="speaker">ich</seg> nicht</said>, Gnädigste«</said><seg id="5" type="frame" pos="end">,
+                                                  <seg id="5" type="intExpr">antworte</seg> <seg id="5 9 11" type="speaker">ich</seg>.</seg>
+                                                  
+                                                  
+                                                  Sie richtet die Augen auf das
+                                                  Kruzifix, <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">ich</seg> <seg id="7" type="intExpr">glaube</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1"><said id="37" mode="reported" content="thought" level="2" nonfact="yes" border="yes">daß <seg id="37" type="speaker">sie</seg> <seg id="37" type="intExpr">gebetet</seg> hat.</said></said>
+                                                  
+                                                  
+                                                  <seg id="8" type="frame" pos="start">Dann wendet <seg id="8 10 12" type="speaker">sie</seg> sich wieder in
+                                                  ihrer steinernen Hoheit zu mir und <seg id="8" type="intExpr">fragt</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»Sind
+                                                  Sie verheiratet?«</said> 
+                                                  
+                                                  
+                                                  <said id="9" mode="direct" content="speech" level="1">»Nein, Gnädigste.«</said> 
+                                                  
+                                                  
+                                                  <said id="10" mode="direct" content="speech" level="1">»Ist Ihr Herz frei?«</said> 
+                                                  
+                                                  
+                                                  <said id="11" mode="direct" content="speech" level="1">»Ja, Gnädigste.«</said> 
+                                                  
+                                                  
+                                                  <said id="12" mode="direct" content="speech" level="1">»Sie haben gegen kein weibliches
+                                                  Wesen Ihres oder eines anderen Standes
+                                                  irgendwelche bindende Verpflichtung?«</said> 
+                                                  
+                                                  
+                                                  Ich mußte lächeln.
+                                                  
+                                                  
+                                                  Eine bindende Verpflichtung –
+                                                  ich!
+                                                  Ich hatte nie eine Liebschaft
+                                                  gehabt und mit den Weibern überhaupt so wenig als
+                                                  möglich zu tun.
+                                                  <said id="13" mode="indirect" content="thought" level="1">Sie verdienen keinen Respekt</said><seg id="13" type="frame" pos="end">,
+                                                  <seg id="13" type="intExpr">meinte</seg> <seg id="13" type="speaker">ich</seg> damals</seg>, und fühlte höchstens Mitleid
+                                                  mit ihnen, wenn ich sah, wie sie dem Franz
+                                                  nachliefen, an dem ja gar nichts war, einzig  und allein wegen
+                                                  seines hübschen Gesichtes und seiner verdammten
+                                                  Versschmiederei.
+                                                  
+                                                  
+                                                  <seg id="14" type="speaker">Ich</seg> mußte also lächeln und
+                                                  <said id="14" mode="reported" content="speech" level="1"><seg id="14" type="intExpr">verneinte</seg>.</said>
+                                                  
+                                                  
+                                                  <seg id="15" type="frame" pos="start">Die <seg id="15" type="speaker">Dame</seg> sah mich mit Augen an</seg>, mit
+                                                  Augen, wie ich vorher keine gesehen hatte und
+                                                  nachher keine gesehen habe, Augen, die Herz und
+                                                  Nieren prüfen, <seg id="15" type="frame" pos="start">und <seg id="15" type="intExpr">sagte</seg>:</seg> <said id="15" mode="direct" content="speech" level="1">»Sie sind brav und
+                                                  redlich.«</said> 
+                                                  
+                                                  
+                                                  Ja – <said id="16" mode="direct" content="speech" level="1">Sie sind!</said>
+                                                  <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16 17 38" type="speaker">sie</seg></seg> und <seg id="17" type="frame" pos="start">nicht, wie es doch
+                                                  natürlich gewesen wäre:</seg> <said id="17" mode="direct" content="speech" level="1" nonfact="yes">Ich halte Sie für brav und
+                                                  redlich.</said>
+                                                  
+                                                  
+                                                  Noch einen Blick nach dem Kruzifix,
+                                                  <said id="38" mode="reported" content="thought" level="1" nonfact="yes" border="yes">noch ein Stoßgebet</said>, <seg id="18" type="frame" pos="start">und <seg id="18 20" type="speaker">sie</seg> <seg id="18 20" type="intExpr">sprach</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Der gute Name
+                                                  meiner Nichte fordert, daß meine Nichte heute mit
+                                                  Herrn Franz von Bauer vor den Traualtar trete.«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="19" mode="direct" content="speech" level="1">»Fordert?
+                                                  würde fordern«</said><seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">versetzte</seg> <seg id="19" type="speaker">ich</seg> –</seg> <said id="19" mode="direct" content="speech" level="1">»es
+                                                  gibt leider kein Auskunftsmittel.«</said> 
+                                                  
+                                                  
+                                                  <said id="20" mode="direct" content="speech" level="1">»Es gibt eines, Herr von Bauer, ein
+                                                  gefährliches allerdings ... Herr von Bauer, wollen
+                                                  Sie verhindern, daß ein unbescholtenes Mädchen
+                                                  Schmach erfahre durch ein Mitglied Ihrer Familie?«</said>
+                                                  
+                                                  
+                                                  
+                                                  <said id="21" mode="direct" content="speech" level="1">»<seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Gott</seg> <seg id="22" type="intExpr">weiß</seg>,</seg> <said id="22" mode="indirect" content="thought" level="2" border="yes" prag="yes">daß ich's verhindern
+                                                  wollte!</said>«</said> <seg id="21" type="frame" pos="end"><seg id="22" type="intExpr">rief</seg> <seg id="21 23" type="speaker">ich</seg>.</seg>
+                                                  <said id="23" mode="direct" content="speech" level="1">»Wäre ich sonst hier?
+                                                  Hätte <seg id="39" type="speaker">ich</seg> mich sonst zum
+                                                  Überbringer <said id="39" mode="reported" content="speech" level="2">der elendesten <seg id="39" type="intExpr">Botschaft</seg></said> gemacht?
+                                                  Meine Schuld ist es nicht, daß ich
+                                                  zu spät gekommen bin!«</said> 
+                                                  
+                                                  
+                                                  <said id="24" mode="direct" content="speech" level="1">»Nicht zu spät«</said><seg id="24" type="frame" pos="mid">, lautete <seg id="24" type="speaker">ihre</seg>
+                                                  <seg id="24" type="intExpr">Entgegnung</seg>,</seg> <said id="24" mode="direct" content="speech" level="1">»wenn Sie sich entschließen könnten,
+                                                  Ihren wortbrüchigen Verwandten zu vertreten.«</said>
+                                                  
+                                                  
+                                                  
+                                                  Da wurde mir schwindelig, und <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">ich</seg>
+                                                  <seg id="26" type="intExpr">fragte</seg>:</seg> <said id="26" mode="direct" content="speech" level="1">»Am Traualtar?«</said> 
+                                                  
+                                                  
+                                                  Sie erhob die rechte Hand wie aus
+                                                  Wellen von allerlei Spitzenzeug, das um sie
+                                                  herumflutete, und sah mich an.
+                                                  <said id="27" mode="direct" content="speech" level="1">Eine Norne</said><seg id="27" type="frame" pos="mid">, <seg id="27" type="intExpr">sag</seg> <seg id="27" type="speaker">ich</seg> euch,</seg> <said id="27" mode="direct" content="speech" level="1">eine
+                                                  Sibylle!</said>
+                                                  <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">Ich</seg> <seg id="28" type="intExpr">sag</seg> euch –</seg> <said id="28" mode="direct" content="speech" level="1">etwas
+                                                  Überirdisches.</said>
+                                                  
+                                                  
+                                                  <said id="29" mode="direct" content="speech" level="1">»Nur am Traualtar«</said><seg id="29" type="frame" pos="end">, <seg id="29" type="intExpr">sprach</seg> <seg id="29 31 30" type="speaker">sie</seg>
+                                                  feierlich</seg>, ging an den Schreibtisch, schellte und
+                                                  <seg id="30" type="frame" pos="start">gab dem herbeieilenden Diener <seg id="30" type="intExpr">Befehl</seg>,</seg> <said id="30" mode="indirect" content="speech" level="1"><said id="31" mode="reported" content="speech" level="2" nonfact="yes">ihre Nichte
+                                                  zu rufen.</said></said>
+                                                  
+                                                  
+                                                  Liebe Jungens, da kam euch ein Kind
+                                                  herein, ein Kind im Brautschleier und Myrtenkranz,
+                                                  das holdeste, das die Welt je gesehen, keine
+                                                  Schönheit, etwas tausend- und tausendmal
+                                                  Lieblicheres als eine Schönheit.
+                                                  
+                                                  
+                                                  <seg id="40" type="speaker">Ich</seg> habe immer meinen Spaß gehabt
+                                                  an den plötzlichen Verliebungen, die in Romanen
+                                                  und in Theaterstücken vorkommen,  <seg id="40" type="frame" pos="start">und <seg id="40" type="intExpr">gesagt</seg>,</seg> <said id="40" mode="indirect" content="speech thought" level="1">mir selbst muß
+                                                  sowas passieren, <said id="33" mode="reported" content="thought" level="2" nonfact="yes">sonst <seg id="33" type="intExpr">glaub</seg> <seg id="33" type="speaker">ich</seg>'s nicht ... </said></said>Als
+                                                  das Kind im Myrtenkranz hereintrat, da hat mich's
+                                                  gepackt ... <said id="41" mode="reported" content="thought" level="1" nonfact="yes" prag="yes"><seg id="41" type="intExpr">Versteht</seg> mich!</said>
+                                                  Nicht à la Romeo; behüt der
+                                                  Himmel!
+                                                  in viel sanfterer
+                                                  Manier, aber mit einer großen Macht ... <said id="34" mode="direct" content="thought" level="1">Wo ist
+                                                  denn nur geschwind eine Gefahr, aus der <seg id="34" type="speaker">ich</seg> dich
+                                                  retten könnte?</said>
+                                                  
+                                                  
+                                                  
+                                                  
+                                    </p>
+      </body>
+   </text>
+</TEI>

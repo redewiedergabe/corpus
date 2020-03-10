@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>1630. Himmelsbrief: Ein Graf hatte einen Diener</title>
+             <author>Bartsch, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bartsch,_Karl_1630___Himmelsbrief__Ein_Graf_hatte_einen_Diener_.tg2957_1.xml</f>
+         <f name="year">1879</f>
+         <f name="decade">1870</f>
+         <f name="title">1630. Himmelsbrief: Ein Graf hatte einen Diener</f>
+         <f name="author">Bartsch, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Wer diesen geschrieben bei sich trägt, dem wird nichts schaden, es wird ihn nichts treffen, das Geschütz und Waffen wird Gott bemächtigen und des Feindes Geschütz auch. Vor Diebe und Mörder soll ihm nichts schaden, es sein Pistolen oder Gewehre müssen stille stehen, alle sichtbaren und unsichtbaren <said id="2" mode="reported" content="speech" level="1">durch den <seg id="2" type="intExpr">Befehl</seg> des <seg id="2" type="speaker">Engels Michaelis</seg> in dem Namen des Vaters, des Sohnes und des heiligen Geistes.</said> Gott sei mit mir. Wer diesen Segen bei sich trägt gegen die Feinde, der wird vor Geschütz und Gewehr stehen bleiben. <said id="5" mode="reported" content="thought" level="1" nonfact="yes"><seg id="5" type="speaker">Wer</seg> dieses nicht <seg id="5" type="intExpr">glauben</seg> will</said>, <said id="6" mode="reported" content="writing" level="1" nonfact="yes"><seg id="6" type="speaker">der</seg> <seg id="6" type="intExpr">schreibe</seg> es <seg id="6" type="intExpr">ab</seg></said>, und hänge es einem Hund vor und schieße nach ihm, so wird er sehen, daß es wahr sei. Wer diesen Brief bei sich trägt, der wird nicht gefangen, noch von des Feindes Waffen verletzt werden, so wahr als daß Christus gestorben und gen Himmel gefahren ist, so wahr er auf Erden gewandelt hat, kann nichts gestohlen, gestoßen noch verletzt werden, Fleisch und Glieder Alles soll mir unbeschädigt bleiben. <said id="36" mode="reported" content="speech" level="1" border="yes"><seg id="36" type="speaker">Ich</seg> <seg id="36" type="intExpr">beschwöre</seg> alle Gewehre und Waffen bei dem lebendigen Gott</said>, im Namen Gottes des Vaters, des Sohnes und des heiligen Geistes. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">bitte</seg> im Namen Jesus Christus Blut,</seg> <said id="8" mode="indirect" content="speech" level="1">daß mich keine Kugel treffen thut, sie seien von Gold oder Silber oder Blei, Gott macht mich von allen frei.</said> Im Namen Gottes des Vaters, des Sohnes und des heiligen Geistes. Dieser <seg id="9" type="speaker">Brief</seg> ist vom Himmel gefallen und in Holstein gefunden worden 1774, <said id="9" mode="reported" content="writing" level="1">er war mit goldenen Buchstaben <seg id="9" type="intExpr">geschrieben</seg></said>, schwebte über die Taufe gehalten zu Rudena. Wie man ihn ergreifen wollte, wich er zurück, <seg id="10" type="frame" pos="start">bis 1794 sich <seg id="10 11 12" type="speaker">Jemand</seg> den <seg id="10" type="intExpr">Gedanken</seg> machte,</seg> <said id="10" mode="indirect" content="thought" level="1"><said id="11" mode="reported" content="writing" level="2" nonfact="yes">ihn abzuschreiben</said> und <said id="12" mode="reported" content="speech" level="2" nonfact="yes">der Welt ihn <seg id="12" type="intExpr">mitzutheilen</seg></said></said>; zu diesem richtete sich der Brief. <seg id="35" type="frame" pos="start">In dem <seg id="35" type="speaker">Brief</seg> <seg id="35" type="intExpr">stand</seg>,</seg> <said id="35" mode="direct" content="writing" level="1">von eurem Reichthume sollt ihr den Armen geben, ihr sollt nicht sein wie die unwürdigen jungen Thiere. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">gebiete</seg></seg> <said id="13" mode="indirect" content="speech" level="2">sechs Tage zu arbeiten, und den siebenten sollt ihr Gottes Wort hören, wenn ihr es nicht thut, so will ich euch strafen bei theurer Zeit mit Pestilenz und Krieg.</said> <seg id="37" type="frame" pos="start"><seg id="37" type="speaker">Ich</seg> <seg id="37" type="intExpr">gebiete</seg>,</seg> <said id="37" mode="indirect" content="speech" level="2">daß <seg id="18 20" type="speaker">ihr</seg> Sonnabends nicht so sehr arbeitet, Jedermann, er sei wer er sei Jung oder Alt, <said id="16" mode="reported" content="speech" level="3" nonfact="yes"><seg id="16" type="speaker">er</seg> soll hier seine Sünden <seg id="16" type="intExpr">abbitten</seg></said>, daß sie ihm vergeben werden</said>, <said id="18" mode="reported" content="speech" level="2" nonfact="yes"><seg id="18" type="intExpr">schwört</seg> nicht bei dem Namen Gottes</said>, begehret nicht Gold oder Silber, schämt euch vor Menschen-List, Begierde. So geschwinde wie ihr erschaffen seid, so geschwinde könnt ihr verschüttet sein. Sei nicht mit den Zungen falsch, ehret Vater und Mutter und <said id="20" mode="reported" content="speech" level="2" nonfact="yes"><seg id="20" type="intExpr">redet</seg> nicht falsch Zeugniß wieder euren Nächsten</said>, dem gebe ich Gesundheit und Frieden. <said id="21" mode="reported" content="thought" level="2" nonfact="yes"><seg id="21" type="speaker">Wer</seg> dieses nicht <seg id="21" type="intExpr">glaubt</seg></said> und darnach nicht thut, der ist verlassen, und soll keine Hilfe haben. <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Ich</seg> <seg id="22" type="intExpr">sage</seg> euch,</seg> <said id="22" mode="indirect" content="speech" level="2"><said id="23" mode="reported" content="writing" level="3">daß <seg id="23" type="speaker">Jesus Christus</seg> den Brief <seg id="23" type="intExpr">geschrieben</seg> hat</said></said>, <said id="24" mode="reported" content="thought" level="2" nonfact="yes"><seg id="24 25" type="speaker">wer</seg> dieses nicht <seg id="24" type="intExpr">glauben</seg> will</said> und <said id="25" mode="reported" content="speech" level="2" nonfact="yes">dem <seg id="25" type="intExpr">widerspricht</seg></said>, der ist verlassen, wer diesen Brief hat und nicht offenbart, der ist verpflichtet der christlichen Kirche. <said id="26" mode="reported" content="writing" level="2" nonfact="yes">Dieser <seg id="26" type="speaker">Brief</seg> soll immer von einander <seg id="26" type="intExpr">abgeschrieben</seg> werden</said>, und wenn <seg id="28" type="speaker">ihr</seg> so viele Sünden gethan habt, als Sand am Meer und Laub auf den Bäumen, so sollen sie euch vergeben werden, <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">glaubt</seg> gewiß,</seg> <said id="28" mode="indirect" content="thought" level="2" nonfact="yes">daß ich den ehre</said>, <said id="29" mode="reported" content="thought" level="2" nonfact="yes">und <seg id="29" type="speaker">wer</seg> nicht <seg id="29" type="intExpr">glaubt</seg></said>, der soll des Todes sterben, bekehret euch, sonst werdet ihr vergeblich gestraft, denn werde ich euch bestrafen am jüngsten Tag, <said id="30" mode="reported" content="speech" level="2" nonfact="yes">so <seg id="30" type="speaker">ihr</seg> keine <seg id="30" type="intExpr">Antwort geben</seg> könnt, ein jeglicher über seine Sünde.
+</said></said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
