@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Maske des roten Todes</title>
+             <author>Poe, Edgar Allan</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Poe,_Edgar_Allan_Die_Maske_des_roten_Todes.tg47_1.xml</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Die Maske des roten Todes</f>
+         <f name="author">Poe, Edgar Allan</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Das vierte war orangefarben eingerichtet und hatte orangefarbene Beleuchtung. Das fünfte war weiß, das sechste violett. Die Wände des siebenten Zimmers aber waren dicht mit schwarzem Sammet bezogen, der sich auch über die Deckenwölbung spannte und in schweren Falten auf einen Teppich von gleichem Stoffe niederfiel. Und nur in diesem Raume glich die Farbe der Fenster nicht derjenigen der Dekoration: hier waren die Scheiben scharlachrot – wie Blut. 
+                  Nun waren sämtliche Gemächer zwar reich an goldenen Ziergegenständen, die an den Wänden entlang standen oder von der Decke herabhingen, kein einziges aber besaß einen Kandelaber oder Kronleuchter. Es gab weder Lampen- noch Kerzenlicht. Statt dessen war draußen auf der an den Zimmern hinlaufenden Galerie vor jedem Fenster ein schwerer Dreifuß aufgestellt, der ein kupfernes Feuerbecken trug, dessen Flamme ihren Schein durch das farbige Fenster hereinwarf und so den Raum schimmernd erhellte. Hierdurch wurden die phantastischsten Wirkungen erzielt. In dem westlichsten oder schwarzen Gemach aber war der Glanz der Flammenglut, der durch die blutig roten Scheiben in die schwarzen Sammetfalten fiel, so gespenstisch und gab den Gesichtern der hier Eintretenden ein derart erschreckendes Aussehen, daß nur wenige aus der Gesellschaft kühn genug waren, den Fuß über die Schwelle zu setzen. 
+                  
+                      In diesem Gemach befand sich an der westlichen Wand auch eine hohe Standuhr in einem riesenhaften Ebenholzkasten. Ihr Pendel schwang mit dumpfem, wuchtigem, eintönigem Schlag hin und her; und wenn der Minutenzeiger seinen Kreislauf über das Zifferblatt beendet hatte und die Stunde schlug, so kam aus den ehernen Lungen der Uhr ein voller, tiefer, sonorer Ton, dessen Klang so sonderbar ernst und so feierlich war, daß bei jedem Stundenschlag die Musikanten des Orchesters, von einer unerklärlichen Gewalt gezwungen, ihr Spiel unterbrachen, um diesem Ton zu lauschen. So mußte der Tanz plötzlich aussetzen, und eine kurze Mißstimmung befiel die heitere Gesellschaft. So lange die Schläge der Uhr ertönten, sah man selbst die Fröhlichsten erbleichen, und die Älteren und Besonneneren strichen mit der Hand über die Stirn, als wollten <seg id="6" type="speaker">sie</seg> wirre Traumbilder oder <said id="6" mode="reported" content="thought" level="1" nonfact="yes">unliebsame <seg id="6" type="intExpr">Gedanken</seg></said> verscheuchen. Kaum aber war der letzte Nachhall verklungen, so durchlief ein lustiges Lachen die Versammlung. Die <seg id="2" type="speaker">Musikanten</seg> schämten sich lächelnd ihrer Empfindsamkeit und Torheit,<seg id="2" type="frame" pos="start"> und flüsternd <seg id="2" type="intExpr">vereinbarten</seg> sie,</seg> <said id="2" mode="indirect" content="speech" level="1">daß der nächste Stundenschlag sie nicht wieder derart aus der Fassung bringen solle.</said> Allein wenn nach wiederum sechzig Minuten (dreitausendsechshundert Sekunden der flüchtigen Zeit) die Uhr von neuem anschlug, trat dasselbe allgemeine Unbehagen ein, dasselbe Bangen und Sinnen wie vordem. 
+                  Doch wenn man hiervon absah, war es eine prächtige Lustbarkeit. Der Prinz hatte einen eigenartigen Geschmack bewiesen. Er hatte ein feines Empfinden für Farbenwirkungen. Alles Herkömmliche und Modische war ihm zuwider, er hatte seine eigenen kühnen Ideen, und seine Phantasie liebte seltsame glühende Bilder. Es gab Leute, <said id="7" mode="reported" content="thought" level="1"><seg id="7" type="speaker">die</seg> ihn für wahnsinnig <seg id="7" type="intExpr">hielten</seg>.</said> <seg id="4" type="frame" pos="start">Sein <seg id="4" type="speaker">Gefolge</seg> aber <seg id="4" type="intExpr">wußte</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">daß er es nicht wahr.</said> Doch <seg id="8" type="speaker">man</seg> mußte ihn sehen und kennen, <said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes">um dessen  <seg id="8" type="intExpr">gewiß</seg> zu <seg id="8" type="intExpr">sein</seg>.</said> 
+                  Die Einrichtung und Ausschmückung der sieben Gemächer war eigens für dieses Fest ganz <said id="5" mode="reported" content="speech writing" level="1">nach des <seg id="5" type="speaker">Prinzen</seg> eigenen <seg id="5" type="intExpr">Angaben</seg></said> gemacht worden, und sein eigener merkwürdiger Geschmack hatte auch den Charakter der Maskerade bestimmt.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>a. Die Geiß und der Bär</title>
+             <author>Spiegel, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Spiegel,_Karl_a__Die_Geiss_und_der_Baer.tg21_1.xml</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">a. Die Geiß und der Bär</f>
+         <f name="author">Spiegel, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="writing" level="1"><said id="2" mode="direct" content="speech" level="2">»o, mei goas,«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">soad</seg> <seg id="2" type="speaker">a</seg>,</seg> <said id="2" mode="direct" content="speech" level="2">»i ka s frei nima aushoin, so we tuad mia da bau!«</said> <said id="3" mode="direct" content="speech" level="2">»ge,«</said> <seg id="3" type="frame" pos="mid">had d'<seg id="3" type="speaker">goas</seg> <seg id="3" type="intExpr">gsoad</seg>,</seg> <said id="3" mode="direct" content="speech" level="2">»wannst as probiaratst und kuglatst dö an öttlas moi übas bahafada aba, ebba wuas bössa«.</said> da wi(ll) sö da bea übas bahafada abakugln, aba ön wearadn kugln is eam da bau afbrocha und d' stui hand eam ausa gfoi(ll)n und da bea is dond gwen.</said>
+                  
+                     <said id="12" mode="reported" content="writing" level="1"><seg id="12" type="intExpr">Aufgeschrieben</seg> durch <seg id="12 1" type="speaker">Herrn Gymnasiallehrer Gg. Maurer</seg> in Neustadt a.H.</said>, gestorben 1913 als Professor in Münnerstadt. Dem Verein übergeben 1898. (Urschrift.)
+                        
+                  
+                     ** Die wörtliche Übertragung ins Schriftdeutsche.
+                        
+                   
+                  Einmal ist eine Geiß gewesen und die hat drei Kitzlein (Kitzel) gehabt und da ist sie halt oft für die Kitzlein ins Laub gegangen (ins Futterholen). Einmal ist sie auch wieder fort und hat ihren Kitzlein recht aufgetragen (gut anbefohlen): <said id="4" mode="direct" content="speech" level="1">»Meine Heweln </said>(Heppeln)<said id="4" mode="direct" content="speech" level="1">,«</said> <seg id="4" type="frame" pos="mid">hat <seg id="4 13" type="speaker">sie</seg> <seg id="4" type="intExpr">gesagt</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»sperrt euch gut zu und laßt niemand ein, und wenn ich komme, <seg id="5" type="frame" pos="start">dann klopfe <seg id="5" type="speaker">ich</seg> und <seg id="5" type="intExpr">sage</seg>:</seg> <said id="5" mode="direct" content="speech" level="2" nonfact="yes">meine Heweln, macht auf, ich hab [für] euch ein Laub und ein Euter voll Milch darauf</said>«</said> (darnach, hernach), und <said id="13" mode="reported" content="speech" level="1">noch im <seg id="13" type="intExpr">Reden</seg></said> (»aso« = so sprechend) ist sie fort. Das Ding ist recht. Derweil ist der Bär vorm (vor dem) Fenster außen gestanden und hat gelust (gelauscht) und hat alles gehört. Nach einer hübschen Zeit klopft er in die Tür. <said id="6" mode="direct" content="speech" level="1">Na</said> (na nun)<said id="6" mode="direct" content="speech" level="1">, und wer außen ist!</said> <seg id="6" type="frame" pos="end">haben die <seg id="6" type="speaker">Kitzlein</seg> <seg id="6" type="intExpr">geschrien</seg>.</seg> <said id="7" mode="direct" content="speech" level="1">Na</said><seg id="7" type="frame" pos="mid">, hat der <seg id="7" type="speaker">Bär</seg> <seg id="7" type="intExpr">gesagt</seg> und hat eine hohe krächzende Stimme 
+ angenommen:</seg> <said id="7" mode="direct" content="speech" level="1">»Eure Mutter ist es, macht auf, ich hab' [für] euch ein Laub und ein Dittel darauf!«</said> Da haben ihm die Kitzlein voller Freuden aufgemacht, aber der Bär hat sie alle drei gerade auf der Stelle (gleich darauf) geschluckt. Dann hat er sich nieder gelegt und ist schlafend geworden. Derweil ist die Geiß heim gekommen, und wie sie den Bären liegen sieht und die Kitzlein sind hin (fort), <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">denkt</seg> <seg id="8" type="speaker">sie</seg> sich gleich,</seg> <said id="8" mode="indirect" content="thought" level="1">daß etwas vorgekommen ist</said> (»daß sich etwas geschickt hat«), aber sie darf sich nichts ankennen (anmerken) lassen. <said id="9" mode="direct" content="speech" level="1">»O, meine Geiß,«</said> <seg id="9" type="frame" pos="mid">hat da der <seg id="9" type="speaker">Bär</seg> <seg id="9" type="intExpr">gesagt</seg>, wie er sie gesehen hat,</seg> <said id="9" mode="direct" content="speech" level="1">»mir ist gar nicht gut und die Läuse beißen mich so viel, wenn du mir nur grad ein wenig suchtest!«</said> Da hat ihm die Geiß Läuse gesucht, und wie sie eine Weile sucht, ist der Bär wieder schlafend geworden. Jetzt hat ihm nachher die Geiß den Bauch aufgeschnitten und die Heweln sind außer gesprungen. Dann (daraufhin, hintennach) hat sie ihm den Bauch voll Steinen eingetan und hat wieder zugenäht, nur keinen Knopf hat sie nicht gemacht [an den Faden]. Wie der Bär aufkommt (aufsteht), jammert er halt noch besser: <said id="10" mode="direct" content="speech" level="1">»O, meine Geiß«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">sagt</seg> <seg id="10" type="speaker">er</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»ich kann es frei nimmer aushalten, so weh tut mir der Bauch!«</said> <said id="11" mode="direct" content="speech" level="1">»Geh'!«</said> (fränkisch: ei! gelt!) <seg id="11" type="frame" pos="mid">hat die <seg id="11" type="speaker">Geiß</seg> <seg id="11" type="intExpr">gesagt</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»wenn du es probierest und kugelest dich etliche mal über das Backofendach hinunter, etwa (vielleicht) wird es besser.«</said> Da will sich der Bär über das Backofendach hinabkugeln, aber im Kugln ist ihm der Bauch aufgebrochen und die Steine sind ihm herausgefallen und der Bär ist tot gewesen.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

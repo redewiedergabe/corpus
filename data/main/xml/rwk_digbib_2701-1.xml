@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Dem Anderl sein Tabakgeld.</title>
+             <author>Rosegger, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Rosegger,_Peter_Waldheimat__Erzaehlungen_aus_der_Jugendzeit.tg27_1_18.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Dem Anderl sein Tabakgeld.</f>
+         <f name="author">Rosegger, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Dann hatte er noch eine silberne Uhr gehabt, die war verspielt worden. Hernach hette er sich auf das Bauerndienen verlegt, dabei war er alt geworden. Alt, mühselig und arm. All das Bedürfnis und Glück des einst so herrischen, anspruchsvollen Mannes hatte jetzt in einer Tabakspfeife Platz – so gut hatte ihn das Leben erzogen. Schwerhörig und halbblind, den Krampf in den Händen und die Gicht in den Füßen! Wenn's nur in der Pfeife gloste und er am Rohre sog, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">so machte <seg id="1" type="speaker">er</seg> keinen <seg id="1" type="intExpr">Einwand</seg></said> und war in säuerlich-süßer Laune. 
+                  In die Kirche gehen wollte er manchmal, <seg id="2" type="frame" pos="start">denn der <seg id="2" type="speaker">Anderl</seg> <seg id="2" type="intExpr">stellte sich vor</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">er habe sein Lebtag hübsch christlich gelebt</said>, und so mochte er den guten Brauch in den alten Tagen nicht gerne abkommen lassen. Aber die Gicht, das war ein höllisch gottloser Kamerad, die hinderte ihn an dem Besuche des Amtes und der Predigt, <seg id="3" type="frame" pos="start">und so <seg id="3" type="intExpr">wimmerte</seg> der <seg id="3" type="speaker">Alte</seg> manchmal in einer frommen Sehnsucht:</seg> <said id="3" mode="direct" content="speech" level="1">Wenn ich nur wenigstens ins Dorf zum Tabakkrämer kannt kommen!</said> Auch das war ihm versagt, <said id="9" mode="reported" content="speech" level="1">und so <seg id="9" type="intExpr">wendete</seg> <seg id="9" type="speaker">er</seg> sich eines Tages zu mir</said>, der ich ein Knabe war in demselben Hause. 
+                  
+                     <said id="4" mode="direct" content="speech" level="1">»Heut' ist der heilige Christtag schon wieder,«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> <seg id="4 5" type="speaker">er</seg>.</seg> <said id="5" mode="direct" content="speech" level="1">»Gehst du in die Kirchen, Peter, so sei halt barmherzig und trag' mir mein Vermögen mit. Kauf' damit beim Kramer drei Packeln Tabak – ordinären – kriegst acht ganze Kreuzer heraus und bring' mir alles sein und fleißig heim. Nachher bist dafür brav eine ganze Wochen lang.«</said> Damit gab er mir einen Silberzwanziger, den er am heiligen Abend vom Armenvater als seinen Teil des eingegangenen Armengeldes erhalten hatte. 
+                  <seg id="10" type="speaker">Ich</seg> war nämlich gerne bereit, <said id="10" mode="reported" content="speech" level="1">mein Bravsein auf eine ganze Woche lang zu <seg id="10" type="intExpr">versichern</seg></said>, übernahm den Auftrag und ging in die Kirche, wo ich hübsch noch zum Rosenkranz zurecht kam. Ich war schon zur selben Zeit manchmal sehr andächtig, und schon zur selben Zeit manchmal gegen die unrechte Seite hin. 
+                  Als das Hochamt kam, auf dem Chore die Pauken und Trompeten schallten, <said id="6" mode="reported" content="speech" level="1">am kerzenumstrahlten Altare der <seg id="6" type="speaker">Pfarrer</seg> stand und die Messe <seg id="6" type="intExpr">las</seg></said>, huben die Leute plötzlich an, in ihren Stühlen aufzustehen, und begannen (nicht bloß die Weiber, auch die Männer) im Gänsemarsch durch die Kirche zu wandeln, um nen Hochaltar herum, und dann wieder zurück in die Stühle. Der Opfergang. An hohen Festtagen pflegten nämlich die Leute während des Amtes einen solchen Rundgang zu machen, um an dem Altare im Angesichte des Pfarrers auf einen dafür bereitstehenden Zinnteller kleine Geldgaben für die Kirche hinzulegen. Ich hatte mich an solchem Opfergange jedesmal beteiligt, um entweder <said id="7" mode="reported" content="speech" level="1">im <seg id="7" type="intExpr">Auftrage</seg> meines <seg id="7" type="speaker">Vaters</seg></said>, oder aus eigenem Antriebe einen oder ein paar Kreuzer auf den Teller zu legen. Machte dabei auch allemal eine gute Meinung, sei das Opfer nun zur Erlangung eines fruchtbaren Jahres, oder zur Genesung eines Kranken, oder um Segen für ein anderes, irgend etwas wollte ich für meinen Kreuzer haben; <seg id="8" type="frame" pos="start">hatte doch der <seg id="8" type="speaker">Pfarrer</seg> einmal <seg id="8" type="intExpr">gepredigt</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»Es wird alles vergolten. Geschenkt braucht der Herr des Himmels und der Erde nichts von euch.«</said> 
+                  Natürlich erhob an diesem Christtage auch ich mich und schloß mich der Reihe an, in welcher jeder und jede unterwegs zum Altar in den Sack griff und aus dem Geldtäschlein die Münze hervornestelte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

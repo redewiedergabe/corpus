@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Sappho</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Sappho.tg361_1.xml</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Sappho</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="2" mode="direct" content="speech" level="1"><said id="16" mode="reported" content="writing" level="2">Die <seg id="16" type="speaker">Dichterin</seg>, <said id="1" mode="reported" content="speech" level="3">von der <seg id="1 2" type="speaker">ich</seg> <seg id="1" type="intExpr">sprach</seg></said>, hat ihn mir <seg id="16" type="intExpr">geschrieben</seg>.</said> Denn ich habe in ihrem Dasein eine kurze, aber bedeutungsvolle Rolle gespielt. Da sie längst nicht mehr atmet und<said id="24" mode="reported" content="thought" level="2" nonfact="yes" border="yes"> mit dem wenigen, das sie hervorgebracht, verschollen und <seg id="24" type="intExpr">vergessen</seg> ist</said>, <said id="26" mode="reported" content="speech" level="2" nonfact="yes">so kann <seg id="26" type="speaker">ich</seg> Ihnen das Erlebnis <seg id="26" type="intExpr">mitteilen</seg></said>, <said id="17" mode="reported" content="thought" level="2">das jetzt mit allen Einzelheiten in der <seg id="17" type="intExpr">Erinnerung</seg> vor <seg id="17" type="speaker">mir</seg> auftaucht.</said>«</said>
+                         
+                     
+                        *
+                        *
+                        *
+                        
+                      
+                     <said id="15" mode="direct" content="speech" level="1">»Es war vor ungefähr fünfundzwanzig Jahren. <seg id="15" type="speaker">Ich</seg> hatte schon damals angefangen, aus der Mode zu kommen. In meinem Schaffen war ein Stillstand eingetreten, und die allgemeine Aufmerksamkeit wandte sich neuen, glänzenderen Erscheinungen zu. Dennoch verkehrte ich noch in der großen Welt, da sich einmal angeknüpfte Beziehungen nicht so leicht abbrechen lassen. 
+                     So fand ich mich auch bei einer Soiree ein, die noch nach Schluß der Saison in einem prachtliebenden plutokratischen Hause stattfand. Gleich bei meinem Eintritt kam der Hausherr, der mit seiner Gattin zum Empfang der Gäste nahe der Tür stand, auf mich zu. <said id="3" mode="direct" content="speech" level="2">›Sie können mir eine große Gefälligkeit erweisen‹</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">sagte</seg> <seg id="3 4" type="speaker">er</seg></seg>, mich vertraulich unter dem Arm fassend. <said id="4" mode="direct" content="speech" level="2">›Es ist heute eine junge Dame hier, die verwaiste Tochter eines höheren Beamten, mit dem einst mein Vater in Verbindung gestanden. Sie versucht sich als Schriftstellerin, <seg id="5" type="frame" pos="start">und meine <seg id="5" type="speaker">Frau</seg>, die sich für sie interessiert, <seg id="5" type="intExpr">bestand darauf</seg>,</seg><said id="5" mode="indirect" content="speech" level="3"> <said id="18" mode="reported" content="speech writing" level="4" nonfact="yes">daß sie <seg id="18" type="intExpr">eingeladen</seg> werde.</said> </said><seg id="27" type="frame" pos="start"><seg id="27" type="speaker">Ich</seg> <seg id="27" type="intExpr">dachte</seg>,</seg> <said id="7" mode="reported" content="speech writing" level="3" nonfact="yes"><said id="27" mode="indirect" content="thought" level="3">sie würde sich <seg id="7" type="intExpr">entschuldigen</seg> lassen</said></said>, denn sie lebt ganz zurückgezogen in bescheidensten Verhältnissen. Nun ist sie aber doch gekommen und dürfte sich unter den vielen ihr unbekannten Menschen ziemlich vereinsamt fühlen. Da wäre es denn sehr edel von Ihnen, wenn Sie sich ihrer ein bißchen annehmen wollten. Möglicherweise ist Ihnen auch ihr Name nicht mehr ganz unbekannt, da sie doch schon einiges veröffentlicht hat.‹</said> 
+                     Es zeigte sich nun, <said id="8" mode="reported" content="thought" level="2">daß <seg id="8" type="speaker">ich</seg> wirklich eine Novelle in <seg id="8" type="intExpr">Erinnerung</seg> hatte, die in einer Tageszeitung erschienen und mir durch <said id="28" mode="reported" content="writing" level="3">sehr lebendige <seg id="28" type="intExpr">Milieuschilderung</seg></said> angenehm aufgefallen war. </said>Sie spielte irgendwo auf einem adeligen Gute und war offenbar unter dem Einflusse Turgenjews entstanden, der damals viel gelesen wurde. Auch hatte ich in einem poetischen Jahrbuche von derselben Verfasserin zwei Gedichte gefunden, die eine ungewöhnlich tiefe Empfindung bekundeten. 
+                     Obgleich ich der persönlichen Bekanntschaft mit Autoren beiderlei Geschlechtes immer gern aus dem Wege ging, so konnte ich jetzt doch nicht umhin, <said id="9" mode="reported" content="speech" level="2">dem Hausherrn <seg id="9" type="speaker">meine</seg> Bereitwilligkeit <seg id="9" type="intExpr">auszusprechen</seg>. </said>
+                     <said id="10" mode="direct" content="speech" level="2">›Schön. <said id="11" mode="reported" content="speech" level="3" nonfact="yes">Da werde <seg id="11" type="speaker">ich</seg> Sie gleich <seg id="11" type="intExpr">vorstellen</seg></said>‹</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> <seg id="10 19" type="speaker">er</seg> </seg>und lenkte mich durch den bereits stark gefüllten Saal in ein Nebengemach, wo sich sitzende und stehende Gruppen von Herren und Damen befanden. In der Ecke eines kleinen Sofas war eine weißgekleidete Frauengestalt zu erblicken, die eine rote Kamelie im schlicht gescheitelten blonden Haar trug. <said id="12" mode="reported" content="speech" level="2"><seg id="12" type="speaker">Sie</seg> befand sich im <seg id="12" type="intExpr">Gespräch</seg> mit einem noch sehr jungen <seg id="12" type="speaker">Manne</seg></said>, einem nahen Anverwandten des Hauses, der neben ihr in einem Fauteuil saß. Es war eine Dichterin und ihr Nachbar erhob sich sofort wie erlöst, <said id="19" mode="reported" content="speech" level="2">als jetzt die <seg id="19" type="intExpr">Vorstellung</seg> erfolgte. </said><seg id="29 14" type="speaker">Ich</seg> nahm seinen Platz ein und <said id="29" mode="reported" content="speech" level="2"><seg id="29" type="intExpr">sagte</seg> der Dame einiges Verbindliche über ihre mir bekannten Leistungen.</said> 
+                     Sie errötete bis unter die Stirnhaare. <said id="13" mode="direct" content="speech" level="2">›Sie kennen also meine Versuche?‹</said><seg id="13" type="frame" pos="end"> <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">sie</seg> mit vibrierender, etwas klangloser Stimme.</seg> 
+                     <said id="14" mode="direct" content="speech" level="2">›Gewiß. <seg id="25" type="frame" pos="start">Und <seg id="25" type="speaker">ich</seg> kann nur <seg id="25" type="intExpr">wiederholen</seg>, </seg><said id="25" mode="indirect" content="speech" level="3">daß sie mir sehr gefallen haben.</said>‹ 
+
+</said></said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

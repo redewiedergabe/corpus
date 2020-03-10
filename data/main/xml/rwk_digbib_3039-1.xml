@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Havanna 1816</title>
+             <author>Sealsfield, Charles</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sealsfield,_Charles_Havanna_1816.tg27_1.xml</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Havanna 1816</f>
+         <f name="author">Sealsfield, Charles</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="speech" level="1">Der Unglückliche ließ <seg id="1" type="speaker">ihn</seg> nicht <seg id="1" type="intExpr">ausreden</seg>.</said> <seg id="2" type="speaker">Er</seg> faßte seine Hand, preßte sie wie ein Ertrinkender, stöhnte, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">versuchte es zu <seg id="2" type="intExpr">reden</seg>, vermochte es aber nicht.</said> <seg id="3" type="frame" pos="start">Endlich <seg id="3" type="intExpr">brachte</seg> <seg id="3" type="speaker">er</seg> schluchzend und gebrochen <seg id="3" type="intExpr">heraus</seg>:</seg> 
+                  <said id="3" mode="direct" content="speech" level="1">»Hört, Kapitän, ich bin geborner Kolumbier, Offizier in der Patriotenarmee, wurde kriegsgefangen in der unglücklichen Schlacht von Cachiri, von da mit meinen Unglücksgefährten nach der Havanna abgeführt. <said id="4" mode="reported" content="speech" level="2">Meiner Frau und Kindern wurde <seg id="4" type="intExpr">erlaubt</seg>, mir zu folgen</said>, um – eine der ersten Familien Kolumbiens ganz in Gewalt zu haben. Vier Monate lag ich in einem der entsetzlichsten Kerker, Seekrebse und Ratten und giftiges Ungeziefer aller Art waren meine einzigen Gesellschafter. Bloß meiner starken Konstitution verdanke ich es, daß ich noch lebe. Von siebenhundert meiner Unglücksgefährten sind alle bis auf einige wenige Opfer der spanischen Grausamkeit geworden. Ein vollständiges Gerippe, holte man mich vor vierzehn Tagen aus meinem Kerker hervor, quartierte mich in die Stadt ein, um mich wieder zu einigen Kräften zu bringen und dann – abermals lebendig einzumauern. <seg id="17" type="frame" pos="start">Bereits ist der <seg id="17" type="intExpr">Befehl</seg> gegeben,</seg> <said id="17" mode="indirect" content="speech" level="2">mich in die vorige grausame Haft zurückzubringen.</said> <said id="18" mode="indirect" content="thought" level="2" border="yes">Daß ich in dieser keine acht Tage mehr aushalten kann</said><seg id="18" type="frame" pos="mid">, davon bin <seg id="18" type="speaker">ich</seg> so <seg id="18" type="intExpr">gewiß</seg>, </seg><said id="18" mode="indirect" content="thought" level="2" border="yes">als daß ein Gott im Himmel ist.</said> Ein <seg id="7" type="speaker">Freund</seg>, der ungeachtet der großen Gefahr sich unserer Lage erbarmte, hat uns einen Paß und Geld verschafft, <said id="7" mode="reported" content="speech" level="2">mich an Euch <seg id="7" type="intExpr">angewiesen</seg>.</said> Der Paß gehörte einem am Gelben Fieber verstorbenen Spanier; <said id="28" mode="reported" content="thought" level="2">mit ihm und durch Euch <seg id="28" type="intExpr">hoffte</seg> <seg id="28" type="speaker">ich</seg> Rettung.</said> <said id="29" mode="reported" content="thought" level="2">In Euch beruht <seg id="29" type="speaker">meine</seg>, meiner armen <seg id="29" type="speaker">Frau</seg>, meiner <seg id="29" type="speaker">Kinder</seg> einzige <seg id="29" type="intExpr">Hoffnung</seg>, Leben oder Tod!</said> Gebt Ihr mich auf, so ist mir dieser gewiß, <seg id="20" type="frame" pos="start">aber <seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">schwöre</seg> es Euch:</seg> <said id="20" mode="direct" content="speech" level="2">ehe ich mich zurückbringen und abermals einmauern lasse zu Leiden, deren Gräßlichkeit ich nicht beschreiben kann, bin ich fest entschlossen zu sterben.</said> Nein, nun und nimmermehr lasse ich mich zurückliefern in die Hand des entsetzlichen Spaniers. 
+                  Armes Weib! Arme Kinder! Armes Vaterland!«</said> 
+                  Der Kapitän, ohne eine Miene zu verziehen, stand, an seinem Kautabak schneidend, fuhr dann mit der Hand über die Stirn und trat rasch auf das Verdeck. <seg id="21" type="frame" pos="start">Den Matrosen <seg id="21" type="intExpr">befahl</seg> <seg id="21" type="speaker">er</seg>,</seg> <said id="21" mode="indirect" content="speech" level="1">die Koffer und Portemanteaux der Familie auf das Verdeck – aber nicht in das Boot zu bringen</said>; dann prüfte <seg id="9" type="speaker">er</seg> Himmel und Wetter und <said id="9" mode="reported" content="speech" level="1"><seg id="9" type="intExpr">wisperte</seg> angelegentlich mit dem Leutnant.</said> <seg id="11" type="frame" pos="start">Noch <seg id="11" type="intExpr">raunte</seg> <seg id="11" type="speaker">er</seg> dem Steward zu,</seg> <said id="11" mode="indirect" content="speech" level="1">den Soldaten und Bootsleuten ein paar Bouteillen Rum zu reichen</said>, und stieg dann die Kajütentreppe hinab. Wie er diese betrat, <seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">murmelte</seg> <seg id="12" type="speaker">er</seg>, ohne den Patrioten anzusehen, die Worte:</seg> <said id="12" mode="direct" content="speech" level="1">»Vertraut auf ihn, der dann hilft, wenn die Not am größten ist!«</said> 
+                  <said id="13" mode="reported" content="speech" level="1">Kaum hatte <seg id="13" type="speaker">er</seg> diese Worte <seg id="13" type="intExpr">gemurmelt</seg></said>, als der Spanier aus der Kajüte heraussprang, <seg id="14" type="frame" pos="start">und wie <seg id="14" type="speaker">er</seg> den Staatsgefangenen erblickte, diesem finster <seg id="14" type="intExpr">rief</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">sogleich ins Boot hinabzusteigen.</said> <seg id="26" type="frame" pos="start">Aber der <seg id="26 23 27" type="speaker">Kapitän</seg> trat vor und <seg id="26" type="intExpr">bat</seg>,</seg> <said id="26" mode="indirect" content="speech" level="1"><seg id="23" type="frame" pos="start">doch zu <seg id="23" type="intExpr">erlauben</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2" nonfact="yes">daß sein unglücklicher Passagier noch ein Glas – einen Valettrunk nähme.</said></said> <said id="27" mode="indirect freeIndirect" content="speech" level="1">Er sei Soldat und er als Kapitän auch ein halber, <seg id="24" type="frame" pos="start">und <seg id="24" type="speaker">er</seg> sei <seg id="24" type="intExpr">überzeugt</seg>,</seg> <said id="24" mode="indirect" content="thought" level="2"><seg id="25" type="frame" pos="start">daß der tapfere und großmütige <seg id="25" type="speaker">Spanier</seg>, und jeder Spanier sei tapfer und großmütig, ihn nicht <seg id="25" type="intExpr">zwingen</seg> werde,</seg> <said id="25" mode="indirect" content="speech" level="3" nonfact="yes">einen Unglücklichen ungastlich von seinem Verdecke zu lassen.</said></said></said> 
+                  Der junge Offizier war kein harter Mann, er nickte beifällig, trat selbst zur Treppe, und die Hand bietend, geleitete er den Kolumbier diese herab in die Kajüte ein.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Morgen im Paradiese</title>
+             <author>Sealsfield, Charles</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sealsfield,_Charles_Ein_Morgen_im_Paradiese.tg29_1.xml</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Ein Morgen im Paradiese</f>
+         <f name="author">Sealsfield, Charles</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Es konnte nicht täuschen, dieses idealschöne Gesicht! Zwar schien es etwas kalt zu sein. Wirklich galt auch Alexandrine Murky für kalt; wenigen jungen Damen waren während ihrer kurzen Erscheinung in den Salons der Pariser beau monde so zahlreiche Huldigungen zuteil geworden – spurlos waren sie jedoch alle an ihr vorübergegangen; <said id="28" mode="reported" content="speech" level="1" nonfact="yes" metaph="yes">aber Kälte <seg id="28" type="intExpr">sprach</seg> doch nicht aus diesen tiefblauen, von langen seidenen Wimpern beschatteten <seg id="28" type="speaker">Augen</seg></said>, eher inniges, tiefes, poetisches Gefühl. Ah, sie war eine jener seltenen Erscheinungen, die mit einem festen, ja energischen Sinne die zarteste Gemütlichkeit, mit einem heitern, klaren Verstande jene zarte, schmiegsame Weiblichkeit paaren, die so unwiderstehlich anziehen, in Fesseln schlagen! Ein Blick, ein Lächeln, und ihr ganzes Wesen leuchtete im rosigsten Sonnenschein auf, eine Bewegung, und man hätte anbetend vor ihr niedersinken mögen! 
+                  Offenbar war sie aber jetzt überrascht; in dem ersten Momente zuckte, schrak sie beinahe zusammen, starrte ihn erbleichend wie einen vom Himmel Gefallenen an; allmählich aber erholte sie sich, ein zartes Rot trat an die Stelle der Scheu, wurde zur holdesten Überraschung. <said id="2" mode="reported" content="speech" level="1" nonfact="yes"><seg id="2" type="speaker">Sie</seg> <seg id="2" type="intExpr">sprach</seg> jedoch nicht</said>, <said id="29" mode="reported" content="speech" level="1" nonfact="yes">auch <seg id="29" type="speaker">er</seg> nicht</said>; denn auch er war erbleicht, seine Brust hob sich krampfhaft, die Lippen zuckten ihm; ihr Erblassen schien ihm in die Seele hineingeschnitten zu haben. 
+                  Der Onkel unterbrach endlich die einigermaßen peinliche Pause. 
+                  <said id="4" mode="direct" content="speech" level="1">»Erlauben Sie, Miß Murky«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sprach</seg> <seg id="4" type="speaker">er</seg> achtungsvoll,</seg> <said id="4" mode="direct" content="speech" level="1">»Ihnen meinen Neffen, General Morse, aufzuführen!«</said> 
+                  Jetzt schlug sie die Augen auf. 
+                  <said id="5" mode="direct" content="speech" level="1">»Ich habe das Vergnügen, General Morse bereits –«</said> <seg id="5" type="frame" pos="end">und dann <seg id="5" type="intExpr">stockte</seg> <seg id="5" type="speaker">sie</seg> so anmutig!</seg> 
+                  <said id="6" mode="direct" content="speech" level="1">»Miß Murky war –«</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">stockte</seg> wieder der <seg id="6" type="speaker">General</seg>.</seg> 
+                  Und jetzt wagte auch er, den Blick zu ihr zu erheben; <said id="7" mode="reported" content="speech" level="1" nonfact="yes">abermals jedoch versagte <seg id="7 30" type="speaker">ihm</seg> die <seg id="7" type="intExpr">Sprache</seg></said>, <said id="30" mode="reported" content="speech" level="1" nonfact="yes">und statt zu <seg id="30" type="intExpr">reden</seg></said>, zupfte er an seiner Reitpeitsche. 
+                  Und so standen sie wohl zwei Minuten verblüfft, die Augen zur Erde geschlagen, wechselsweise errötend, erblassend, bis der Kapitän und der Onkel seitwärts tretend sie allein ließen. 
+                  Da erst schienen sich die erstarrten Lippen zu lösen. 
+                  <said id="9" mode="direct" content="speech" level="1">»<seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> hatte nicht <seg id="10" type="intExpr">gehofft</seg> – <seg id="10" type="intExpr">erwartet</seg></seg>«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">verbesserte</seg> <seg id="9" type="speaker">sie</seg> <seg id="9" type="intExpr">sich</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="indirect" content="thought" level="2" nonfact="yes">Sie hier am Mississippi zu sehen</said>, General Morse!«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Werden Sie meine Kühnheit verzeihen, teuerste Miß Murky, daß ich es wagte –«</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">stammelte</seg> <seg id="11" type="speaker">er</seg>.</seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»Mister Duncan also Ihr Onkel?«</said> <seg id="13" type="frame" pos="mid"><seg id="13" type="intExpr">versetzte</seg> <seg id="13 15" type="speaker">sie</seg> ausweichend,</seg> <said id="13" mode="direct" content="speech" level="1">»nicht wahr, ein liebliches Plätzchen, ein wonniges. Sie sehen es zum ersten Male?«</said> 
+                 <said id="14" mode="direct" content="speech" level="1"> »Es ist ein Paradies!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">sprach</seg> <seg id="14" type="speaker">er</seg> leise.</seg> 
+                  
+                     <said id="15" mode="direct" content="speech" level="1">»<said id="31" mode="indirect" content="thought" level="2">Im Lande der Blüten und Blumen</said><seg id="31" type="frame" pos="end">, wie <seg id="31" type="speaker">Chateaubriand</seg> so schön <seg id="31" type="intExpr">sagt</seg>.</seg>«</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»Ja, jetzt ist's das Land der Blüten und Blumen, jetzt, jetzt!«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">stammelte</seg> <seg id="17" type="speaker">er</seg>.</seg> 
+                  <said id="19" mode="direct" content="speech" level="1">»Ich habe der Gärten viele und schöne in Frankreich gesehen«</said><seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">hob</seg> <seg id="19 22" type="speaker">sie</seg> wieder nach einer kurzen Pause <seg id="19" type="intExpr">an</seg>,</seg> <said id="19" mode="direct" content="speech" level="1">»aber keinen so wahrhaft genial – so heiter – so ganz im Einklänge mit der Natur des Landes gleichsam hervorgezauberten.«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="frame" pos="start">Und doch <seg id="21" type="intExpr">sagt</seg> <seg id="21" type="speaker">man</seg>,</seg> <said id="21" mode="indirect" content="speech" level="2">unsere Southrons haben keinen Sinn für Gartenkultur</said>«</said><seg id="20" type="frame" pos="end">, <seg id="20" type="intExpr">bemerkte</seg> <seg id="20" type="speaker">er</seg> etwas kühner.</seg> 
+                  <said id="22" mode="direct" content="speech" level="1">»Hier haben Sie aber den Gegenbeweis; wollen Sie ihn nicht näher sehen?«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»Aber Alexandrine!«</said> <seg id="24" type="frame" pos="mid"><seg id="24" type="intExpr">mahnte</seg> der <seg id="24" type="speaker">Vater</seg> herüber,</seg> <said id="24" mode="direct" content="speech" level="1">»General Morse ist von der Kajüte heraufgekommen, und also fünf Meilen geritten; vielleicht ist er ermüdet, zieht es vor, einige Erfrischungen zu nehmen.«</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Oh, was das betrifft, Kapitän Murky«</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">versetzte</seg> plötzlich lachend der <seg id="26" type="speaker">General</seg>,</seg> <said id="26" mode="direct" content="speech" level="1">»so sind wir in Texas gewohnt, größere Touren zu machen, <said id="27" mode="reported" content="thought" level="2" nonfact="yes">ehe <seg id="27" type="speaker">wir</seg> an Erfrischungen denken <seg id="27" type="intExpr">dürfen</seg>.</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

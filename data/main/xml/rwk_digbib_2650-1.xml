@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Stadtpfeifer</title>
+             <author>Riehl, Wilhelm Heinrich von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Riehl,_Wilhelm_Heinrich_von_Der_Stadtpfeifer.tg6_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Der Stadtpfeifer</f>
+         <f name="author">Riehl, Wilhelm Heinrich von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<seg id="16" type="frame" pos="start">So schneidend war es <seg id="16" type="speaker">ihm</seg> noch nicht <seg id="16" type="intExpr">in die Seele eingegangen</seg>,</seg> <said id="16" mode="indirect" content="thought" level="1">welch große Verantwortung er auf sich nehme durch die Verheiratung in so Ungewissen Tagen</said>, als jetzt, wo die Kanonen ihm zum Altare läuteten. Die Braut an seiner Seite hatte nicht geweint; die roten Wangen des Bauernmädchens waren blaß geworden, aber sie stand fest und heftete den Blick voll Zuversicht unverwandt auf den Geistlichen. 
+                    <said id="3" mode="direct" content="speech" level="1"> »<seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ihr</seg> werdet's vielleicht Kindern und Enkeln noch <seg id="4" type="intExpr">erzählen</seg>,</seg>«</said><seg id="3" type="frame" pos="mid"> <seg id="3" type="intExpr">sprach</seg> der <seg id="3 9 10" type="speaker">Pfarrer</seg>, </seg><said id="3" mode="direct" content="speech" level="1">»<said id="4" mode="indirect" content="speech" level="2" nonfact="yes">daß der 14. Juli 1760, ein Tag der Angst, euer Hochzeittag war.</said> <said id="5" mode="direct" content="speech" level="2" nonfact="yes">Da</said><seg id="5" type="frame" pos="mid">, werdet<seg id="5" type="speaker"> ihr</seg><seg id="5" type="intExpr"> sagen</seg>,</seg> <said id="5" mode="direct" content="speech" level="2" nonfact="yes">war kein lustiger Tanz, kein fröhliches Schmausen, die Franzosen spielten zur Hochzeit auf im tiefsten Baß, und den Spielleuten selber brachte es wohl gar den Tod.</said> Aber Heil euch<seg id="7" type="frame" pos="start">, wenn <seg id="7" type="speaker">ihr</seg> dann <seg id="7" type="intExpr">hinzufüget</seg>:</seg> <said id="7" mode="direct" content="speech" level="2" nonfact="yes">In Sorgen begannen wir den Ehestand, darum ist es nachgehends so hell und fröhlich geworden in unserem Hause.<said id="8" mode="reported" content="thought" level="3" nonfact="yes" border="yes"> Zuerst <seg id="8" type="intExpr">erkannten</seg> <seg id="8" type="speaker">wir</seg> die schweren Pflichten des eigenen Herdes</said>, dann schmeckten wir dessen stille Süßigkeit.</said> Stehet fest! Kummer und Trübsal sind groß, aber ein treues Weib macht uns eitel Freude daraus.« 
+ </said>                    Der Stadtpfeifer hatte aufgehorcht <said id="9" mode="reported" content="speech" level="1">bei diesen <seg id="9" type="intExpr">Worten</seg>.</said> Er war ernst von Aussehen und doch eine leicht gefugte Seele, bei der es gar flink von einer Tonart in die andere überging. Wer von der Musik leben muß, der wird das rasche Modulieren gewohnt.So verließ ihn auch <said id="10" mode="reported" content="speech" level="1">bei dieser <seg id="10" type="intExpr">Ansprache</seg></said> plötzlich das qualvolle Zagen. Er blickte auf seine Christine, wie sie so mutig dastand, und eine helle Freude durchleuchtete sein Gemüt; und weil just die Kanonen doppelt stark brummten, war es ihm, als sei er ein Fürst, und als donnerten da draußen die Jubelsalven, weil der Priester Christinens Hand in die seine legte. 
+                     Als der Hochzeitzug die Kirche verließ, schwirrte und summte schon das ganze Dorf wie ein gestörter Bienenstand. Ganz Ebersbach war vor Schreck toll geworden. Es waren Fronhäuser Fuhrleute gekommen, <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">die</seg> <seg id="12" type="intExpr">erzählten</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">heute noch müsse das Dillenburger Schloß fallen; morgen stünden die Franzosen in Ebersbach; denn auch General Chabot rücke jetzt von Siegen und Graf Guerchy von Hachenburg gegen die Dill herab, – da werde es Einquartierung geben, Erpressung, Plünderung, – wenn man so einem<said id="13" mode="reported" content="speech" level="2" prag="yes"> <seg id="13" type="intExpr">verfluchten</seg></said> Franzosen nicht die Perücke mit Goldstaub pudere, die Stiefel mit Mandelöl schmiere und das Gewissen mit Kronenthalern, dann schlage er das ganze Haus zusammen. </said>
+                     Auf<said id="14" mode="reported" content="speech" level="1"> diese <seg id="14" type="intExpr">Botschaft</seg></said> hin gingen die wenigen Hochzeitgäste durch, ohne Abschied, als wären sie nicht bloß Nassau-Oranier, sondern wirkliche ganze Holländer gewesen. Und wenn sie sich nun auch gewaltsam zum Schmause niedergelassen hätten! Die Stühle würden mit ihnen davongelaufen sein, so wirbelte die Angst in den armen Teufeln. 
+                     Im Hause der Braut, einem stattlichen Bauernhause, stand ein langer Tisch gedeckt, der des Morgens, als die Gäste warmes Bier – die Brautsuppe –vor dem Kirchgange genossen hatten, noch dicht besetzt gewesen war. Jetzt fand sich niemand an der Tafel ein, als das Paar und der Vater der Braut, und wer sonst zur Verwandtschaft gehörte. Selbst der Pfarrer blieb zu Hause, und der Küster kam nur, um sich seinen Braten und Kuchen und sein Geldgeschenk heimzutragen, bevor sich die Franzosen an den gedeckten Tisch setzten. 
+                     Der alte <seg id="15" type="speaker">Hans Schneider</seg>, der Vater der Braut, ließ sich nicht merken, <said id="15" mode="reported" content="thought" level="1">wieviel Unheimliches ihm eine solche Hochzeit <seg id="15" type="intExpr">vorbedeute</seg>.
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

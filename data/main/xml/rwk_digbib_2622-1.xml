@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Gänse von Bützow</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Die_Gaense_von_Buetzow.tg229_1.xml</f>
+         <f name="year">1866</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Gänse von Bützow</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><said id="2" mode="reported" content="speech" level="2"><seg id="2" type="speaker">Wer</seg> <seg id="2" type="intExpr">unkt</seg> dort unten?</said> <seg id="4" type="frame" pos="start"><said id="3" mode="reported" content="speech" level="2" nonfact="yes"><seg id="4 3" type="speaker">Man</seg> <seg id="3" type="intExpr">nenne</seg> sich</said> und <seg id="4" type="intExpr">gebe Kunde</seg>,</seg> <said id="4" mode="indirect" content="speech" level="2" nonfact="yes">was man will zu solcher Zeit und Stunde!</said>«</said> 
+                     Horch, abermals ein Ächzen, ein Geseufz und Wimmern wie aus dem Grabe Werthers und dann
+                         
+                     
+                        Erklang es von der Straße
+                        Gar greulich durch die Nase:
+                        
+                     
+                     <said id="5" mode="direct" content="speech" level="1">»Herr Kollege! Herr Kollege! Um Gottes willen öffne Er! Ich bin's, ich der Magister Albus. Das Fatum und die Desperation sind mir auf den Fersen! Vae misero mihi! Ich bin's, Herr Kollege, der Magister Albus! Pro dii immortales, ich kann nicht mehr; bei allem, was Ihm heilig ist, Kollege, mache Er kein Aufsehn und mache Er die Türe auf!«</said> 
+                     Noch niemalen in meinem Leben war <seg id="1" type="speaker">ich</seg> so schnell die Treppe hinunter gekommen; noch niemalen in meinem Leben hatte es mir solche Schwierigkeit verursachet, das Schlüsselloch zu finden. Meine Hände zitterten, und draußen wimmerte der Magister immer herzzerbrechender. Endlich, endlich öffnete sich das rostige Schloß, der Wind blies mir das Licht aus, <seg id="6" type="frame" pos="start">und schwer stürzte mir der <seg id="6 5" type="speaker">Kollaborator</seg> auf den Leib mit dem <seg id="6" type="intExpr">Ruf</seg>:</seg> 
+                     <said id="6" mode="direct" content="speech" level="1">»Ich bin verloren! Ich bin hin!«</said> 
+                     <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> schüttelte ihn ab, schloß schnell die Türe wieder, schob die Riegel vor und <seg id="7" type="intExpr">rief</seg>:</seg> 
+                     <said id="7" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2" border="yes"><seg id="10" type="speaker">Er</seg> <seg id="10" type="intExpr">weiß</seg> den Weg</said> – vorwärts – nur Ruhe, Magister – Sammlung! Die Treppe hinauf! Besinnung, Besinnung, Kollege! Vorsichtig auf der Treppe – meines Schutzes ist Er sicher – das Haus ist wohl verproviantieret – wir können schon eine Blockade aushalten. Er hat mir heute abend ein großes Pläsier bereitet, Kollege Albus – da sind wir, vivat die Gänsefreiheit!«</said> 
+                     Während ich in meinem Museo die Lampe wieder anzuzünden bemüht war, hatte sich der Magister in einen Sessel geworfen,noch immer ächzend und die Stirn mit der Hand schlagend. Als ich ihn mit der brennenden Lampe beleuchtete, erschrak ich wirklich und wahrhaftig, erschrak ich nicht weniger, als meine Magd vorhin über mich selber zusammengefahren war; nie
+                         
+                     
+                        war Hermann so schön,
+                        So hat's ihm nie vom Auge geflammt!
+                        
+                     
+                     Der Magister sah bedenklich aus und schien in der Tat viel durchgemacht und erlebt zu haben seit dem Augenblicke, in welchem er triumphierend in der Honoratiorenstube im Erbherzog vom Stuhle sprang, um auf der Hausflur in die Arme des Doktor Wübbke zu sinken. Sein Jabot war zerrissen und blutbesudelt, seine Nase von einem kraftvoll geführten Schlag arg geschwollen, dito sein rechtes Auge. Ein Schoß seines schwarzen Schulmeisterröckleins war in den Händen seiner Feinde geblieben, seine Kniebänder waren geplatzt, und seine Strümpfe hingen hernieder wie die des dänischen Prinzen Hamlet in der wunderschönen, aber grauligen Tragödie von William Shakespeare. <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Man</seg> <seg id="11" type="intExpr">sah</seg> und <seg id="11" type="intExpr">roch</seg> es ihm an,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">daß er aus einer gewaltigen Bataille kam und daß er tapfer für seine Sache gekämpft habe</said>; man konnte nur zwischen Mitleid und Bewunderung schwankend observieren, <seg id="8" type="frame" pos="start">und nur mit Schauder konnte <seg id="8" type="speaker">man</seg> an die Möglichkeit <seg id="8" type="intExpr">denken</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1">gezwungen zu werden, in gleicher Weise wie er pro aris et focis, die Mamsell Hornborstel oder die Gänse von Bützow kämpfen zu müssen.</said> <said id="9" mode="reported" content="speech" level="1">Hatte der <seg id="9" type="speaker">Magister Albus</seg> vorhin als Held <seg id="9" type="intExpr">geredet</seg></said>, wo war er jetzt zum Ritter geschlagen worden; von Zeit zu Zeit griff er schmerzlich atmend in die Seite, nach dem Kreuze oder nach der Schulter; er schien arge Püffe in Empfang genommen zu haben, und wenn er so viele austeilte, wie er eingenommen hatte, so gab es in dieser Nacht mehr als einen blauen Fleck am Leibe mehr als eines Bewohners der friedlichen Stadt Bützow an der Warnow.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

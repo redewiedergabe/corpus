@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>32. Mönch</title>
+             <author>Sommer, Emil</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sommer,_Emil_32__Moench.tg38_1.xml</f>
+         <f name="year">1846</f>
+         <f name="decade">1840</f>
+         <f name="title">32. Mönch</f>
+         <f name="author">Sommer, Emil</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Wenn auf dem Amte zu Beesen bei Halle früher die Euter der Kühe einmal über Nacht zu voll wurden, so melkte sie der Mönch, der auf dem Amte diente, deckte den Melkeimer sorgsam zu, damit kein Staub hinein fiel, und dann fand man am Morgen die Milch. Obwohl die Mönche für alles Vieh auf dem Hofe sorgen, haben sie doch gewöhnlich unter jeder Gattung ein Lieblingsstück: 
+wenn darum ein Pferd oder eine Kuh besonders gedeiht, so sieht man daran daß sie der Mönch mehr als die andern pflegt; und wenn man den Lieblingsthieren des Mönches auch weit schlechteres Futter giebt als den übrigen, so werden sie doch fetter und kräftiger. 
+                  In der Regel dient auf jedem Gute nur ein Mönch, doch bisweilen auch mehrere. Beim Gastwirth in Bendorf bei Mansfeld hört man, wenn ein theures Jahr kommen soll, den Winter zuvor oft die Mönche bei Nacht das Getreide auf dem Boden zusammen schaufeln, einsacken, die Treppe herunter tragen und aufladen: doch am Morgen liegt es unversehrt auf dem Boden. Wenn ein Knecht oder eine Magd nicht fleißig genug ist, oder wenn sie gar das Futter verkaufen statt es dem Vieh zu geben, so nimmt sie der Mönch bei Nacht aus dem Bett und wirft sie aus dem Bodenfenster auf den Misthaufen, wo sie am Morgen zwar ohne körperlichen Schaden, doch übel zugerichtet gefunden werden. – Wer neugierig ist und den Mönch gern sehen möchte, dem zeigt er sich nie. Zwei Pferdejungen zu Besenstedt legten sich am Abend quer vor die Thür mit den Köpfen an einander, damit der Mönch, wenn er mit seinen kleinen Schritten heran käme, auf sie treten müßte und sie davon aufgeweckt würden und ihn fangen könnten: doch als sie am Morgen aufwachten, lag der eine in der rechten, der andre in der linken Ecke des Stalles, und der Mönch hatte die Pferde doch gefüttert. 
+In Wettin hauste früher ein Mönch auf dem Amte, einer auf dem Winkel und einer in der Schäferei; und der auf dem Winkel hatte seine besondere Kammer, welche noch jetzt die Mönchskammer heißt. In Halle zeigt sich ein Mönch in der Saline; auch geht er um Mitternacht oft quer über den Markt und an dem einzeln stehenden Thurm auf der Leipziger Straße auf und ab: auf diesem Thurme sah er früher auch manchmal bei Tage aus den Schallöchern und pflegte die Uhr vorzustellen, wenn ein Feuer ausbrechen sollte. <said id="3" mode="reported" content="thought" level="1">Viele alte <seg id="3" type="speaker">Leute</seg> in Halle <seg id="3" type="intExpr">entsinnen</seg> sich noch den Mönch in der Garnisonkirche, die seitdem abgebrochen ist, gesehen zu haben.</said> Besonders bekannt ist in der Umgegend der Mönch vom Petersberge; er geht in unterirdischen Gängen nach Krosigk, Löbejün, Wettin und Gutenberg, pflegt überall das Vieh, doch vorzüglich auf dem Amte am Petersberge: dort hat er stets ein Lieblingsfohlen, auf welchem man ihn oft beim Mondschein auf dem Gipfel des Berges umherreiten sieht. <seg id="4" type="frame" pos="start">Für seine Dienste <seg id="4" type="intExpr">fordert</seg> der <seg id="4" type="speaker">Mönch</seg> gewöhnlich nur</seg> <said id="4" mode="indirect" content="speech" level="1">daß man freundlich mit ihm umgeht</said>; <seg id="2" type="frame" pos="start">doch zu Giebichenstein auf dem Amte <seg id="2" type="intExpr">verlangte</seg> <seg id="2" type="speaker">er</seg> einst</seg> <said id="2" mode="indirect" content="speech" level="1">daß an einem Tage des Jahres jedem Armen, <said id="5" mode="reported" content="speech" level="2"><seg id="5" type="speaker">der</seg> sich <seg id="5" type="intExpr">meldete</seg></said>, ein Stück Brot und ein Hering gereicht würde</said>; und wenn man dies einmal unterließ, so tobte er so lange in den Ställen und ängstigte das Vieh, daß es blökte und winselte, bis die Armen gespeist waren.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

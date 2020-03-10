@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die schwarze Galeere</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Die_schwarze_Galeere.tg221_1.xml</f>
+         <f name="year">1861</f>
+         <f name="decade">1860</f>
+         <f name="title">Die schwarze Galeere</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Noch drei Stunden, und das genuesische Schiff trat seine Fahrt an, um sich mit den vier vorangegangenen Galeeren bei Biervliet zur Jagd auf die schwarze Galeere zu vereinigen. Das Schiffsvolk benutzte die kurze Frist, die ihm noch gegeben war, zum Schlaf, selbst die Wachtmannschaft an Deck schlief, und die Lunte des <seg id="9" type="speaker">Mannes</seg> an der Laufplanke war erloschen, wie alle andern Lunten an Bord.<said id="9" mode="freeIndirect" content="thought" level="1"> Lag das Schiff nicht sicher genug unter den Mauern der Stadt und den Wällen der Zitadelle?</said> 
+                     Vom Hauptmast wirft die Schiffslaterne ein unruhiges flackerndes Licht über das Verdeck. Aus den Fenstern der Kajüte fällt ein schwaches Leuchten auf die dunkeln Fluten der Schelde, die darunter vorüberschießen. 
+                     In der Kajüte richtet sich von dem Lager Antonio Valanis der Leutnant Leone della Rota in die Höhe. 
+                     <said id="1" mode="direct" content="speech" level="1">»Es ist vorüber!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagt</seg> <seg id="1 2" type="speaker">er</seg>.</seg> <said id="2" mode="direct" content="speech" level="1">»Er ist tot, hörst du, bella Fiamminga, er ist tot, und – Kapitän an Bord dieses Schiffes ist Leone della Rota! Hörst du, Schönste; ich trete meine Erbschaft an – auch du bist mein; mit dem letzten Atemzuge des Freundes bist du mein geworden.«</said> 
+                     Von neuem füllte der <seg id="3" type="speaker">Leutnant</seg> Spinolas den Becher mit Wein. 
+                     <said id="3" mode="direct" content="speech" level="1">»Was wendest du dich ab und schauderst, schöne Myga? Er ist tot – sein Herz hat ausgeschlagen, aber meins schlägt noch wild und hoch. Wohl war er mein Freund; aber in deiner Liebe räche ich ja seinen Tod.«</said> 
+                     <seg id="6" type="speaker">Er</seg> hob den Becher und trank ihn aus. 
+                     <said id="6" mode="direct" content="speech" level="1">»Ich bringe es dir, armer Antonio – auf hohem Meer sollst du ein edles Seemannsgrab haben. Nicht am Lande sollen sie dich verscharren; unter den lustigen Wogen sollst du schlafen, wie's einem genuesischen Kinde zukommt. In den Armen der Meerfräulein sollst du schlafen –«</said> 
+                     <said id="5" mode="direct" content="speech" level="1">»Erbarmen, heiliger Gott, sende den Tod, rette mich, rette mich!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">wimmerte</seg> das verzweifelnde <seg id="5" type="speaker">Mädchen</seg></seg>; aber der trunkene <seg id="4" type="speaker">Leone</seg> lachte wild und gell. 
+                     <said id="4" mode="direct" content="speech" level="1">»Sieh mich nicht so an, Königin – heute mir, morgen einem andern – das ist der Krieg, das ist das Leben. <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">Meinst</seg> <seg id="10" type="speaker">du</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2" nonfact="yes"><said id="11" mode="reported" content="speech" level="3" nonfact="yes"><seg id="11" type="speaker">ich</seg> soll <seg id="11" type="intExpr">jammern</seg> und <seg id="11" type="intExpr">Gebete murmeln</seg> wie ein Pfaff am Leichnam des Freundes?</said></said> Ha, wären wir am Strande des Ligurischen Meeres, mit Rosen und Myrten wollten wir uns die Haare kränzen, die schöne Nacht zu feiern! Im Namen der Rache, im Namen des Sieges, so komm in meine Arme, du wilde Geusin, so komm und sei mein, du holde Ketzerin.« </said>
+                     Mit einem gellenden Schrei klammerte sich Myga van Bergen an den Pfosten des Lagers, auf welchem der bleiche, blutige Leib Antonio Valanis ausgestreckt lag. Bei dem Toten suchte sie Schutz; aber mit wildem Lachen riß Leone della Rota die Unglückliche empor und in seine Arme. Mit glühenden Küssen bedeckte er ihren Mund und ihre nackten Schultern – da klang ein dumpfer Fall über seinem Haupte, daß die Lampe an der Decke davon erzitterte. Ein Schrei – ein Ringen – ein zweiter Fall – ein Stampfen und Trappeln vieler Füße – ein wildes Geschrei – der scharfe Knall eines Handrohres – <seg id="7" type="frame" pos="start">der schreckensvolle, unheilvolle <seg id="7" type="intExpr">Ruf</seg>:</seg> 
+                     <said id="7" mode="direct" content="speech" level="1">»Die Geusen! Die Geusen! Die Geusen an Bord! Verrat! Verrat! All' arme! All' arme!«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Was ist das? Diavolo!«</said><seg id="8" type="frame" pos="end"> <seg id="8" type="intExpr">rief</seg> der <seg id="8" type="speaker">Leutnant</seg>, das Mädchen freilassend und nach dem Schwerte greifend.</seg>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

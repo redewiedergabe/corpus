@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der »Exzellenzherr«</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Der__Exzellenzherr_.tg208_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der »Exzellenzherr«</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Es war ein etwa handgroßer, vergilbter <seg id="3" type="speaker">Zettel</seg>, <said id="3" mode="reported" content="writing" level="1">mit wenigen Worten <seg id="3" type="intExpr">beschrieben</seg>.</said> 
+                  <said id="1" mode="direct" content="speech" level="1">»Ist es nicht eigentümlich?«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagte</seg> <seg id="1 2 5" type="speaker">er</seg>.</seg> <said id="2" mode="direct" content="speech" level="1">»Dieses Stück Papier hatte ich vor Jahren verlegt und habe späterhin alle meine Mappen, meine Schriften und Briefe – ja meine ganze Bibliothek durchstöbert, ohne es finden zu können, <said id="15" mode="reported" content="thought" level="2">so daß <seg id="15" type="speaker">ich</seg> es für verloren <seg id="15" type="intExpr">hielt</seg>.</said> Und heute entdecke ich es zufällig in jenem kleinen alten Sekretär, woselbst es zwischen einem der vielen Schubfächer und der Hinterwand eingeklemmt gesteckt hatte.«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Und welche Bewandtnis hat es mit diesem Zettel?«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Er schien einst bestimmt gewesen zu sein, in meinem Leben einen Wendepunkt herbeizuführen – hat es aber nicht vermocht. <said id="16" mode="reported" content="speech" level="2" nonfact="yes"><seg id="16" type="speaker">Ich</seg> will Ihnen, wenn Sie nichts dagegen haben, die Geschichte, die sich daran knüpft, heute <seg id="16" type="intExpr">erzählen</seg>.</said> Spannen Sie jedoch Ihre Erwartungen nicht zu hoch; <said id="17" mode="reported" content="speech" level="2" nonfact="yes" border="yes">was <seg id="17" type="speaker">Sie</seg> <seg id="17" type="intExpr">hören</seg> werden</said>, ist eigentlich nur für den Erzähler von Wert und Bedeutung. <seg id="8" type="frame" pos="start">Da <seg id="8" type="speaker">ich</seg> jedoch <seg id="8" type="intExpr">weiß</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2" border="yes">daß Sie mir eine ungewöhnliche Teilnahme schenken</said>, so kann ich es immerhin wagen. Übrigens wird sich aus diesen Mitteilungen so ziemlich mein ganzes Wesen vor Ihnen entwickeln – und dabei manches Streiflicht auf die Zeit fallen, in der ich gelebt und gewirkt. Ich kann also in dieser Hinsicht vielleicht auch Ihr objektives Interesse in Anspruch nehmen: ist doch das Leben jedes Einzelnen ein Stück Weltgeschichte.«</said> 
+                  Der Kammerdiener brachte den Tee; <seg id="9" type="frame" pos="start">bald darauf lehnte sich der <seg id="9" type="speaker">Präsident</seg> im Sofa zurück und <seg id="9" type="intExpr">begann</seg>:</seg>
+                         
+                  
+                     *
+                     *
+                     *
+                        
+                   
+                  <said id="9" mode="direct" content="speech" level="1">»Es war vor sechzehn Jahren, daß ich meine Vaterstadt Wien, von der mich der Staatsdienst längere Zeit hindurch fast ununterbrochen ferne gehalten, auf die Dauer wiedersah. Meine ersten Dienstjahre hatte ich in einer kleineren Provinzstadt zugebracht; späterhin wurde ich – mit bereits ziemlich hohem Range – in Ungarn verwendet. Als dort ein Umschwung eintrat, erwuchs eine große Überzahl an deutschen Beamten, die man einstweilen auf Wartegebühr setzte. Dieses Los traf auch mich. Obgleich ich nun niemals zu den Ehrgeizigen und Vielgeschäftigen, auch nicht zu jenen gehört habe, die da meinen, daß von ihrem Eingreifen das Heil der Welt abhänge, so kam es mir doch sehr unerwünscht, in diesem Augenblicke sozusagen kaltgestellt zu werden. Denn eben jetzt, wo ein neuer staatlicher Frühling anzubrechen schien, <seg id="11" type="frame" pos="start">hatte <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">hoffen</seg> dürfen,</seg> <said id="11" mode="indirect" content="thought" level="2">eine freiere und ersprießlichere Tätigkeit, als bisher, entfalten zu können.</said> Aber zuletzt ergab ich mich doch leichten Herzens in die Umstände; denn ich war noch jung und konnte mich gedulden. <seg id="12" type="frame" pos="start">Zudem <seg id="12" type="intExpr">erkannte</seg> <seg id="12" type="speaker">ich</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2" border="yes"><said id="13" mode="reported" content="speech thought" level="3" nonfact="yes">daß jedem, wer er auch sei, ein paar Jahre ruhiger Sammlung und Einkehr in sich selbst nur zu <seg id="13" type="intExpr">wünschen</seg> seien</said> – und daß gerade mir ein besonderer Vorteil daraus erwachsen könne.</said> Ich war als Knabe und Jüngling kein besonders fleißiger Schüler gewesen. Unstät und träumerisch, hatte ich in die Welt wie in ein bewegtes Bild hineingeblickt, <said id="14" mode="reported" content="thought" level="2">wobei <seg id="14" type="speaker">ich</seg> mir zwar sehr früh über Menschen und Dinge ein selbständiges <seg id="14" type="intExpr">Urteil bildete</seg></said>, aber auch in den meisten Lehrgegenständen zurückblieb, und wenn ich dennoch die vorgeschriebenen Prüfungen bestand, so hatte ich dies den geringen Anforderungen zu danken, die man damals stellte. Es mußte mir daher bei reisender Einsicht immer deutlicher werden, wie unwissend ich in mancher Hinsicht geblieben war, und schon seit einigen Jahren hatte ich mit leidenschaftlichem Eifer fast jede freie Stunde benützt, Versäumtes nachzuholen und Neues in mich aufzunehmen.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

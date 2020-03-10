@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die schwarze Galeere</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Die_schwarze_Galeere.tg221_1.xml</f>
+         <f name="year">1861</f>
+         <f name="decade">1860</f>
+         <f name="title">Die schwarze Galeere</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Mönche aller Orden drängten sich hohnlächelnd oder drohend den gedemütigten, still weinenden oder grollenden Ketzern in den Weg, ihre Rosenkränze frohlockend erhebend. 
+                     Wie lange war es her, seit sie <seg id="4" type="frame" pos="start">vor dem <seg id="4" type="intExpr">Ruf</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Papen uyt! Papen uyt! Die Pfaffen fort! Fort mit den Pfaffen!«</said> diesen selben <seg id="4" type="speaker">Ketzern</seg> hatten weichen müssen? 
+                     So wechseln die Geschicke der Menschen, so wechseln Triumphe und Niederlagen im Kampfe der Geister. 
+                     Am zwanzigsten August bestand noch in voller Kraft und großem Ansehen das Handlungshaus van Bergen und Norris; – am siebenundzwanzigsten August löste sich die Firma. Alexander Farnese zog mit großem Pomp in die gewonnene Stadt ein; Jan Geerdes Norris verließ sie mit seinem zehnjährigen Söhnlein und vielen andern, welche die spanische Gewalt nicht ertragen wollten. In der Stadt zurück blieb Michael van Bergen mit seinem sechsjährigen Töchterchen. Jeder der beiden Kompagnons handelte nach seinem Charakter, der starkmütige, zornmütige Norris und der ängstliche, weiche van Bergen. Der eine trotzte dem Verhängnis, solang es ging, und wich, als der Kampf entschieden war, an dieser Stelle, um ihn anderswo wieder aufzunehmen. Der andere beugte sich den Verhältnissen und litt schweigend, was er nicht zu ändern vermochte. 
+                     Doch das ist lange vorüber, und unsere beiden Helden sind nicht Geerdes Norris und Michael van Bergen, sondern Jan Norris und Myga van Bergen, die Kinder der einst so berühmten Firma. 
+                     In was für einer schreckenvollen, verwüsteten, grauenhaften Welt hatten die beiden Armen das Licht erblickt. Wie oft waren die Wiegenlieder der Mutter durch das Krachen der Geschütze nah und fern zum Schweigen gebracht worden. Wie oft hatten die Väter Söhnchen und Töchterlein niedersetzen müssen von den Knien, weil die Notglocke sie hinausrief auf die Wälle oder zum Rathaus! 
+                     Arme kleine Wesen! Niemals hatten sie gleich andern, in glücklicheren Zeiten geborenen Kindern gefahrlos in schattigen Wäldern, auf grünen Wiesen sich umhertummeln dürfen. Niemals hatten sie die blauen Kornblumen, den roten Feldmohn vom Rande der Ackerfelder zum Kranze winden dürfen. 
+                     Die Wälder füllten ja die streifenden Parteien des katholischen Königs, die wilden Rotten der Waldgeusen, das rechtlose, heillose, versprengte Gesindel aller Völker Europas. 
+                     Auf den grünen Wiesen schlugen die Heere Spaniens, die Söldnerhaufen aus Deutschland, England, Frankreich, Italien, die Krieger der Provinzen, des Prinzen von Oranien ihre Hütten und Gezelte auf. 
+                     Die Kornfelder fielen, noch ehe die goldene Frucht reifte, noch ehe die roten und blauen Blumen blühten, den Rossen und Fußtritten der ziehenden Heeresscharen zum Opfer. 
+                     Wo war ein friedliches Fleckchen zu finden auf diesem zertretenen Erdenwinkel, <said id="5" mode="reported" content="speech" level="1" border="yes">welchen der <seg id="5" type="speaker">König von Spanien</seg> sein Eigentum <seg id="5" type="intExpr">nannte</seg>?</said> 
+                     In den engen, dunkeln Gassen der Stadt Antwerpen hinter den hohen Mauern, Wällen und Türmen Paciottis hatten die armen Kinder ihre Spielplätze, und oft genug waren auch diese unsicher und gefahrbringend. Oft genug verwandelten sich die Häuser der Bürger in Kerker, in welchen die Bewohner sich selbst einschließen, in welchen sie ihre eigenen Kerkermeister sein mußten, um sich vor dem draußen umgehenden Unheil zu schützen. 
+                     Ganz anders mußte sich die Weltanschauung dieser beiden Kinder als anderer, glücklicherer gestalten, und manche schöne Blüte wurde durch das finstere, kalte Gewölk, das über den Zeiten hing, in der Knospe erstickt und vernichtet.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
