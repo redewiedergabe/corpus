@@ -8,6 +8,8 @@
 
 - Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe (2018): Annotation and beyond - Using ATHEN. *DHd-Conference* Cologne, Germany: 19-21.
 
+- Semino/Short: Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing, London: Routledge 2004.
+
 ## Corpora
 
 - Elson/McKeown (2010): Automatic Attribution of Quoted Speech in Literary Narrative. *AAAI-10-Conference* Atlanta, Georgia: 1013-1019.
