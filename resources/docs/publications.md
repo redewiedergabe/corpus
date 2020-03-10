@@ -30,8 +30,8 @@ Publications in chronological order; newest first
 
 - Engelberg/Tu: Redeeinleiter, *DGfS-Conference* Stuttgart 2018.
 
-- Brunner/Engelberg/Jannidis/Tu/Weimer: Projektvorstellung - Redewiedergabe. Eine literatur- und sprachwissenschaftliche Korpusanalyse, *DHd-Conference* Cologne 2018.
+- Brunner/Engelberg/Jannidis/Tu/Weimer: Projektvorstellung - Redewiedergabe. Eine literatur- und sprachwissenschaftliche Korpusanalyse, *DHd-Conference* Cologne 2018, pp. 19-21. [Link](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf)
 
-- Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe: Annotation and beyond - Using ATHEN, *DHd-Conference* Cologne 2018.
+- Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe: Annotation and beyond - Using ATHEN, *DHd-Conference* Cologne 2018, pp. 458-460. [Link](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf)
 
 - Brunner: Automatische Erkennung von Redewiedergabe. Ein Beitrag zur quantitativen Narratologie, 2015.
