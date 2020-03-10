@@ -6,4 +6,4 @@ The indirect-corpus is only available in column-based text format. Further infor
 
 ## Statistics
 
-A list of all texts including author, title and year of publicationcan be found [here](/resources/docs/metadata_indirect.xlsx).
+A list of all texts including author, title, year of publicationcan and information on fictionality be found [here](/resources/docs/metadata_indirect.xlsx).
