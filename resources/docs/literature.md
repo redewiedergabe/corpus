@@ -42,10 +42,10 @@
 
 - Akbik/Bergmann/Blythe/Rasul/Schweter/Vollgraf (2019): FLAIR: An Easy-to-Use Framework for State-of-the-Art NLP. NAACL-HLT Minneapolis, Minnesota: 54-59.
 
-- Bojanowski/Grave/Joulin/Mikolov
+- Bojanowski/Grave/Joulin/Mikolov (2016): Enriching Word Vectors with Subword Information. CoRR, abs/1607.04606.
 
-- Devlin/Chang/Lee/Toutanova
+- Devlin/Chang/Lee/Toutanova (2019): BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding. CoRR, abs/1810.04805.
 
-- Huang/Xu/Yu
+- Huang/Xu/Yu (2015): Bidirectional LSTM-CRF Modelsfor Sequence Tagging. CoRR, abs/1508.01991.
 
-- Tu/Krug/Brunner
+- Tu/Krug/Brunner (2019): Automatic recognition of direct speech without quotation marks: A rule-based approach. DHd-Conference Mainz/Frankfurt am Main, Germany: 87-89.
