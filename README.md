@@ -49,6 +49,8 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # Publications
 
+Most recent publication: 
+
 A complete list of all publications can be found [here](resources/docs/publications.md)
 
 # License
