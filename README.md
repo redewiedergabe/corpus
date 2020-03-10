@@ -77,13 +77,3 @@ Each sample of the main corpus was annotated independently by two different peop
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
 
 An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
-
-# Related literature
-
-The following texts are predecessors of our project:
-
-Annelen Brunner: Automatische Erkennung von Redewiedergabe, 2015.
-
-Elena Semino and Mick Short: Corpus Stylistics, 2004.
-
-further literature can be found [here](resources/docs/literature.md).
