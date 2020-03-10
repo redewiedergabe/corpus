@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die zwölf Apostel</title>
+             <author>Marlitt, Eugenie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Marlitt,_Eugenie_Die_zwoelf_Apostel.tg121_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die zwölf Apostel</f>
+         <f name="author">Marlitt, Eugenie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Seit der Zeit sah man hinter den vergitterten Fenstern statt der bleichen Nonnengesichter bärtige Züge, oder den Kopf einer emsig flickenden und <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">keifenden</seg> <seg id="1" type="speaker">Hausmutter</seg></said>, während auf den ausgewaschenen Steinplatten des Hofes, welche früher nur die leise Sohle und die klösterliche Schleppe der frommen Schwestern berührt hatten, eine Schar wilder zerlumpter Kinder sich tummelte. Außer dem blühenden Gärtchen auf der Mauer aber hatte das alte Haus noch eine freundliche Seite, auf welcher der Blick ausruhen konnte, wenn er all das hier zusammengedrängte menschliche Elend gesehen hatte. Die Ecke, an welche die Stadtmauer stieß, zeigte vier sauber gewaschene Fenster mit weißen Vorhängen, von denen das letzte so auf das Gärtchen mündete, daß es bequem als Thür benutzt werden konnte, was jedenfalls auch geschah, denn an gewissen Tagen in der Woche war es weit geöffnet. Ein Seil voll feiner Wäsche zog sich von da zum Kastanienbaum, und man konnte sehen, wie eine weibliche Gestalt, die aufgesteckte Schürze voll Klammern, geschäftig aus- und einstieg. Das war die alte Jungfer Hartmann. Sie hieß eigentlich Suschen, <said id="2" mode="reported" content="speech" level="1" border="yes">wurde aber in der ganzen Stadt schon so lange »die Seejungfer« (Libelle) <seg id="2" type="intExpr">genannt</seg></said>, <said id="3" mode="reported" content="thought" level="1" nonfact="yes" border="yes">daß viele <seg id="3" type="speaker">Leute</seg> ihren eigentlichen Namen gar nicht mehr <seg id="3" type="intExpr">wußten</seg>.</said> Und das kam von ihrem absonderlichen Aeußern, nicht etwa um ihrer flüchtigen Grazie oder Farbenschönheit willen – die haben mit dem sechzigsten Lebensjahr selten mehr etwas gemein – es geschah vielmehr des seltsam huschenden, scheuen Ganges wegen, mit dem diese lange, gestreckte Gestalt durch die Straßen eilte. Im übrigen glich sie viel eher einer Fledermaus, vermöge ihrer scharfgebogenen, fast durchsichtig mageren Nase, ihrer aschfarbenen Haut und der großen, glanzlosen Augen, welche sich meist schüchtern unter den äußerst dünnen Augendeckeln verbargen. Dieser Eindruck wurde durch das schwarze Bürgerhäubchen vervollständigt, das, knapp anschließend, kein Haar auf der Stirn sehen ließ und zu beiden Seiten abstehende Spitzengarnierungen hatte. <seg id="5" type="frame" pos="start">Die Seejungfer war das Kind eines sehr armen <seg id="5" type="speaker">Schusters</seg>, der sie und ihren etwas älteren Bruder Leberecht streng und gottesfürchtig erzogen hatte und für beide Kinder keine kühneren <seg id="5" type="intExpr">Wünsche</seg> <seg id="5" type="intExpr">hegte</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">als daß Suschen später im Dienst ihr redliches Brot erwerbe und sein Erstgeborener ihm dereinst auf dem Dreibein gegenübersitzen und das ehrsame Schusterhandwerk betreiben werde.</said> Das stille, sanfte Suschen, für dessen Ideenkreis die engen Wände der Schusterstube vollkommen genügten, war ganz mit dem Lebensziel einverstanden, das der Vater ihr vorgesteckt. Dem jungen Leberecht jedoch wuchsen die Flügel um ein beträchtliches länger, ja, sie reichten sogar bis zur Gottesgelahrtheit hinan. Er besaß glänzende geistige Fähigkeiten, welche ein eiserner Fleiß unterstützte, und so gelang es ihm denn auch, mittels eines Stipendiums Theologie zu studieren. <seg id="9" type="speaker">Er</seg> hatte bereits sein Examen ausgezeichnet bestanden <said id="9" mode="reported" content="speech" level="1">und einige Male bei großem Zudrang in seiner Vaterstadt vortrefflich <seg id="9" type="intExpr">gepredigt</seg></said>, als er infolge <said id="10" mode="reported" content="thought" level="1"><seg id="10" type="speaker">seiner</seg> rastlosen <seg id="10" type="intExpr">geistigen Thätigkeit</seg></said> auf das Krankenlager sank, um sich nie wieder zu erheben – er starb an der Lungenschwindsucht. 
+                  Suschen, die den Bruder wie ein höheres Wesen verehrt hatte, erlag fast ihrem Schmerz, aber sie hatte ein halbverwaistes Kind zu pflegen und zu erziehen; deshalb mußte sie sich aufraffen, was sie auch redlich that. Mit dem Kind hatte es folgende Bewandtnis.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

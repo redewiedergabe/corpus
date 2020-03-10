@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Leiden eines Knaben</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Das_Leiden_eines_Knaben.tg406_1.xml</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Leiden eines Knaben</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="10" mode="direct" content="speech" level="1"><said id="2" mode="direct" content="speech" level="2">Es ist Tatsache, daß die Väter damit anfingen, ihn zu hätscheln und in Baumwolle einzuwickeln. Seine Kameraden, auch mein Halunke, haben sich oft darüber aufgehalten. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Ich</seg> <seg id="1" type="intExpr">begreife</seg>,</seg> <said id="1" mode="indirect" content="thought" level="3" border="yes">daß die Väter, wie sie beschaffen sind, das Kind hassen, seit der Marschall das Mißgeschick hatte, sie zu entlarven.</said> Aber warum sie, denen der Marschall gleichgültig war, einen Vorteil darin fanden, das Kind zuerst über die dem Schwachen gebührende Schonung hinaus zu begünstigen, das entgeht mir.‹</said> 
+                  <said id="3" mode="direct" content="speech" level="2">›Hm‹</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">machte</seg> <seg id="3" type="speaker">ich</seg>.</seg> 
+                  <said id="4" mode="direct" content="speech" level="2">›<said id="20" mode="reported" content="thought" level="3" nonfact="yes" border="yes">Und gerade das muß <seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">wissen</seg></said>, Fagon.‹</said> 
+                  <said id="5" mode="direct" content="speech" level="2">›Nun denn, <seg id="2 4" type="speaker">Argenson</seg>‹</said><seg id="5" type="frame" pos="mid">, begann <seg id="5" type="speaker">ich</seg> mein <seg id="5" type="intExpr">Bekenntnis</seg></seg> – auch dir, Majestät, lege ich es ab, denn dich zumeist habe ich beleidigt – <said id="5" mode="direct" content="speech" level="2">›da <seg id="21" type="speaker">ich</seg> Julian bei den Vätern um jeden Preis warm betten 
+wollte und <said id="21" mode="reported" content="thought" level="3" nonfact="yes" border="yes">ihm keine durchschlagende Empfehlung <seg id="21" type="intExpr">wußte</seg></said> – <said id="7" mode="reported" content="speech" level="3"><seg id="7" type="speaker">man</seg> <seg id="7" type="intExpr">plaudert</seg> ja zuweilen ein bißchen</said>, <seg id="8" type="frame" pos="start">und so <seg id="8" type="intExpr">erzählte</seg> <seg id="8 22" type="speaker">ich</seg> den Vätern Rapin und Bouhours, die ich in einer Damengesellschaft fand,</seg> <said id="8" mode="indirect" content="speech" level="3">Julians Mutter sei dir, dem Könige, eine angenehme Erscheinung gewesen.</said> Die reine Wahrheit. <said id="22" mode="reported" content="speech" level="3" nonfact="yes">Kein <seg id="22" type="intExpr">Wort</seg> darüber hinaus</said>, bei meiner Ehre, Argenson!‹</said> Dieser verzog das Gesicht. 
+                  Du, Majestät, zeigest mir ein finsteres und ungnädiges. Aber, Sire, trage ich die Schuld, wenn die Einbildungskraft der Väter Jesuiten das Reinste ins Zweideutige umarbeitet? 
+                  <said id="9" mode="direct" content="speech" level="2">›Als sie dann‹</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">fuhr</seg> <seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">fort</seg>,</seg> <said id="9" mode="direct" content="speech" level="2">›den Marschall zu hassen und sich für ihn zu interessieren begannen, lauschten und forschten sie nach ihrer Weise, erfuhren aber nichts, als daß Julians Mutter das reinste Geschöpf der Erde war, bevor sie der Engel wurde, der jetzt über die Erde lächelt. Leider kamen die Väter zur Überzeugung ihres Irrtums gerade, da das Kind desselben am meisten bedurft hätte.‹</said> Argenson nickte.«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»<seg id="10" type="speaker">Fagon</seg>«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> der <seg id="11" type="speaker">König</seg> fast strenge,</seg> <said id="11" mode="direct" content="speech" level="1">»das war deine dritte und größte Freiheit. Spieltest du so leichtsinnig mit meinem Namen und dem Rufe eines von dir angebeteten Weibes, hättest du mir wenigstens diesen Frevel verschweigen sollen, selbst wenn deine Geschichte dadurch unverständlicher geworden wäre. <seg id="23" type="frame" pos="start">Und <seg id="23" type="intExpr">sage</seg> mir, <seg id="23" type="speaker">Fagon</seg>:</seg> <said id="23" mode="indirect" content="speech" level="2" nonfact="yes">hast du da nicht nach dem verrufenen Satze gehandelt, daß der Zweck die Mittel heilige?</said> Bist du in den Orden getreten?«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Wir alle sind es ein bißchen, Majestät«</said><seg id="14" type="frame" pos="mid">, lächelte <seg id="14" type="speaker">Fagon</seg> und <seg id="14" type="intExpr">fuhr fort</seg>:</seg> 
+                  <said id="14" mode="direct" content="speech" level="1">»Mitte Weges begegneten wir dem Père Amiel, der wie ein Unglücklicher umherirrte und, meinen Wagen erkennend, sich so verzweifelt gebärdete, daß ich halten ließ. Am Kutschenschlage entwickelte er seine närrische Mimik und war im Augenblicke von einem Kreise toll lachender Gassenjungen umgeben. <said id="15" mode="reported" content="speech" level="2"><seg id="15" type="speaker">Ich</seg> <seg id="15" type="intExpr">hieß</seg> <seg id="17" type="speaker">ihn</seg> einsteigen.</said> 
+                  <said id="16" mode="direct" content="speech" level="2">›<seg id="17" type="frame" pos="start">Der Mutter Gottes sei <seg id="17" type="intExpr">gedankt</seg>,</seg> <said id="17" mode="indirect" content="speech" level="3" prag="yes">daß ich Euch finde</said>, Herr Fagon! Dem Julian, welchen Ihr beschützet, ist ein Leid geschehen, und unschuldig ist er, wie der zerschmetterte kleine Astyanax!‹</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">deklamierte</seg> der <seg id="16 24" type="speaker">Nasige</seg>.</seg> <said id="24" mode="direct" content="speech" level="2">›Wenn Ihr, Herr Fagon, den seltsamen Blick gesehen hättet, welchen der Knabe gegen seinen Henker erhob, diesen Blick des Grauens und der Todes angst!‹</said> <seg id="18" type="speaker">Père Amiel</seg> schöpfte Atem. <said id="18" mode="direct" content="speech" level="2">›Flöhe ich über Meer, mich verfolgte dieser Blick! Begrübe ich mich in einen finstern Turm, er dränge durch die Mauer! Verkröche ich mich –‹</said> 
+                  
+                     
+<said id="19" mode="direct" content="speech" level="2">›Wenn Ihr Euch nur nicht verkriechet, Professor‹</said><seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">unterbrach</seg> ihn der <seg id="19" type="speaker">Minister</seg>,</seg> <said id="19" mode="direct" content="speech" level="2">›jetzt, da es gilt, <said id="25" mode="reported" content="speech" level="3" nonfact="yes">dem Père Tellier</said> – denn zu diesem fahren wir und Ihr fahret mit – <said id="25" mode="reported" content="speech" level="3" nonfact="yes">ins Angesicht <seg id="25" type="intExpr">Zeugnis</seg> <seg id="25" type="intExpr">abzulegen</seg>!</said></said>
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

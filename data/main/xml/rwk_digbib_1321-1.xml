@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Liebeswunder</title>
+             <author>Janitschek, Maria</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Janitschek,_Maria_Liebeswunder.tg69_1.xml</f>
+         <f name="year">1900</f>
+         <f name="decade">1900</f>
+         <f name="title">Liebeswunder</f>
+         <f name="author">Janitschek, Maria</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Seit diesem Abend trug er sie noch mehr auf Händen als früher. <seg id="1" type="frame" pos="start">Seit diesem Abend <seg id="1" type="intExpr">glaubte</seg> <seg id="1 2" type="speaker">er</seg></seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">sie zu kennen.</said> <said id="2" mode="freeIndirect" content="thought" level="1">Ging sie nicht wie ein fremdes, einfältiges Kind hin, das vor allem, was ihm schön dünkt, stehen bleibt?</said> Er konnte sie gewähren lassen, <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">er</seg> <seg id="3" type="intExpr">wußte</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">daß ein allen andern unsichtbarer Panzer ihre Tugend beschützte.</said> <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">Sie</seg> hatte ihm Ehrlichkeit <seg id="4" type="intExpr">versprochen</seg>.</said><seg id="5" type="frame" pos="start"> <seg id="5" type="speaker">Er</seg> konnte bei ihrem Stolz <seg id="5" type="intExpr">voraussetzen</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">daß, wenn einmal ein stärkeres Gefühl über sie kommen würde, er der erste wäre, <said id="33" mode="reported" content="speech" level="2" nonfact="yes">dem <seg id="33" type="speaker">sie</seg> es <seg id="33" type="intExpr">mitteilte</seg>.</said></said> Vor diesem Augenblick graute ihm, <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">er</seg> <seg id="6" type="intExpr">hoffte</seg>,</seg><said id="6" mode="indirect" content="thought" level="1"> ihn nicht mehr zu erleben.</said> – 
+                     <said id="7" mode="reported" content="thought" level="1">Ihre Ehe galt für sehr glücklich; nur <seg id="7" type="speaker">einer</seg> <seg id="7" type="intExpr">hielt</seg> sie nicht <seg id="7" type="intExpr">dafür</seg>:</said> Doktor Klausner, dessen scharfblickenden Augen Steinwalds schlechtes Befinden nicht entging.<said id="8" mode="reported" content="speech" level="1"> Einmal <seg id="8" type="intExpr">sprach</seg> <seg id="8" type="speaker">er</seg> mit Marie Therese über ihn.</said> Leonhart hatte in der Nacht mit fürchterlicher Atemnot zu kämpfen gehabt, und sie war geeilt, ihn an das Krankenbett zu holen. 
+                     <said id="9" mode="direct" content="speech" level="1">»Was treibt er,«</said> <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">wandte</seg> sich der <seg id="9 12" type="speaker">Arzt</seg> unmutig <seg id="9" type="intExpr">zu</seg> ihr,</seg> <said id="9" mode="direct" content="speech" level="1">»er hat an Gewicht verloren, welche Aufregungen bringen ihn so herunter? Ich kenne seinen Organismus genau. Mit Vorsicht und Geduld war er zu retten.«</said> <seg id="10 13 15 17" type="speaker">Marie Therese</seg> zuckte die Schultern. <said id="10" mode="direct" content="speech" level="1">»Vorsicht, Geduld? Ein solches Dasein ist ja kein Leben mehr, sondern ein künstliches Vegetieren. Leonhart ist zu klug dazu, <said id="11" mode="reported" content="thought" level="2">um <seg id="11" type="speaker">sich</seg> dies zu <seg id="11" type="intExpr">wünschen</seg>.</said>«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Und Sie?«</said> 
+                     Sie sah ihn auf seine brüske Frage ruhig an. 
+                     
+                        <said id="13" mode="direct" content="speech" level="1">»Was nicht leben kann, soll sterben.«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Gott sei Dank, daß Sie nicht Krankenwärterin sind!«</said> 
+                     <said id="15" mode="direct" content="speech" level="1">»Haben Sie keine Sorge! Die meisten Menschen sind zu dumm, um das Klügere einzusehen. Sie lassen sich von euch Ärzten erst halbtot machen, bevor sie ganz tot werden.«</said> 
+                     <said id="16" mode="direct" content="speech" level="1">»Sie haben eine glücklich veranlagte Natur, meine Gnädigste.«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Nicht wahr, mich wird nie etwas überraschen, weil ich auf alles gefaßt bin.«</said> 
+                     Der <seg id="14 16" type="speaker">Doktor</seg> entfernte sich mit einer ironischen Verbeugung. 
+                     <said id="18" mode="direct" content="speech" level="1">»Deine goldene Gesundheit muß ja geradezu beleidigend auf ihn wirken,«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">scherzte</seg> der <seg id="18" type="speaker">Professor</seg> später</seg>,<said id="19" mode="reported" content="speech" level="1"> als <seg id="19" type="speaker">sie</seg> ihm <said id="34" mode="reported" content="speech" level="2"><seg id="34" type="speaker">ihre</seg> <seg id="34" type="intExpr">Unterredung</seg></said> <seg id="19" type="intExpr">erzählte</seg>.</said> Am anderen Morgen kam Born hergeeilt. 
+                     <said id="20" mode="direct" content="speech" level="1">»Ich hab' mich bloß etwas verschluckt,«</said> <seg id="20" type="frame" pos="mid"><seg id="20" type="intExpr">sagte</seg> <seg id="20 22 23 26" type="speaker">Leonhart</seg> zu dem Freunde,</seg> <said id="20" mode="direct" content="speech" level="1">»in einigen Tagen werden wir wieder auf Posten sein. Übrigens könntest du mir einen Gefallen thun. Hol' meine Frau täglich zu einem Spaziergang ab. Sie kommt fast garnicht an die Luft, wenn ich selbst nicht hinausgehe.«</said> 
+                     <seg id="21 24" type="speaker">Born</seg> errötete leicht und sah <seg id="25" type="speaker">Marie Therese</seg> fragend an. <said id="21" mode="direct" content="speech" level="1">»Möchten Sie 's auch?«</said> 
+                     <said id="22" mode="direct" content="speech" level="1">»<said id="35" mode="reported" content="speech" level="2" nonfact="yes"><seg id="35" type="intExpr">Frag</seg>' <seg id="35" type="speaker">sie</seg> doch erst nicht</said>, hol' sie einfach.«</said> 
+                     <said id="23" mode="direct" content="speech" level="1">»Wollen wir gleich nachher den Versuch machen, ob wir Schritt halten können?«</said> 
+                     <said id="24" mode="direct" content="speech" level="1">»Ja, thu's, Marie Therese!«</said> 
+                     
+                        <said id="25" mode="direct" content="speech" level="1">»Und du?«</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Ich schlafe indessen, ich bin müde.«</said> 
+                     Sie ging zögernd, sich den Pelz umzulegen, den er ihr kürzlich geschenkt hatte. <seg id="27" type="frame" pos="start">Auf der Straße <seg id="27" type="intExpr">sagte</seg> <seg id="27 30" type="speaker">sie</seg> zu <seg id="29" type="speaker">Born</seg>:</seg> <said id="27" mode="direct" content="speech" level="1">»<seg id="36" type="frame" pos="start"><seg id="36" type="speaker">Ich</seg> <seg id="36" type="intExpr">glaube</seg>,</seg> <said id="36" mode="indirect" content="thought" level="2">er ist selbst daran schuld, daß er kränker wird.</said> Er fühlt sich auf einmal überflüssig.«</said> 
+                     <said id="29" mode="direct" content="speech" level="1">»Überflüssig? Wieso?«</said> 
+                     <said id="30" mode="direct" content="speech" level="1">»Sehen Sie mich nicht so bös an, ich kann nicht dafür, daß die Natur eine große Utilistin ist. Seit sein Name Boden gefunden hat, wacht er nicht mehr so über sein Wohlergehen.«</said> 
+                     <seg id="31" type="speaker">Born</seg> schüttelte den Kopf. <said id="31" mode="direct" content="speech" level="1">»Das ist unrichtig, <said id="32" mode="reported" content="speech" level="2" nonfact="yes">das könnten <seg id="32" type="speaker">Sie</seg> erst <seg id="32" type="intExpr">sagen</seg>, wenn Sie ihm ein Kind geschenkt hätten.</said>«</said> 
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

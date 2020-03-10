@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Angela Borgia</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Angela_Borgia.tg421_1.xml</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Angela Borgia</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="reported" content="speech" level="1" nonfact="yes"><seg id="1" type="intExpr">Beleidigte</seg> oder <seg id="1" type="intExpr">verneinte</seg> <seg id="1" type="speaker">er</seg> die Gottheit?</said> <said id="2" mode="reported" content="speech" level="1" nonfact="yes"><seg id="2 3" type="intExpr">Beschuldigte</seg> <seg id="2" type="speaker">er</seg> seine Brüder?</said> <said id="3" mode="reported" content="speech" level="1" nonfact="yes">Oder sie, die ohne sein Wissen neben <seg id="3" type="speaker">ihm</seg> saß?</said> <said id="4" mode="reported" content="speech" level="1" nonfact="yes"><seg id="4" type="intExpr">Beweinte</seg> <seg id="4" type="speaker">er</seg> seine Verirrungen?</said> 
+                     Nichts von alledem. Die Mittagsruhe, die Stunde des Pan träumte auf seinen Zügen. Don Giulio trieb ein seltsames Geistesspiel, <said id="6" mode="reported" content="thought" level="1">das <seg id="6" type="speaker">sie</seg> erst nach und nach <said id="7" mode="reported" content="speech" level="2">aus <seg id="7" type="speaker">seinen</seg> abgebrochenen <seg id="7" type="intExpr">Worten</seg> und <seg id="7" type="intExpr">geflüsterten</seg> Verszeilen</said> <seg id="6" type="intExpr">erriet</seg> und zusammensetzte.</said> 
+                     Nach der Zeichnung der Danteschen Hölle, wie sie jedem italienischen Geiste innewohnt, beschäftigte er sich damit, nicht zwar den trichterförmigen Höllenabgrund zu bevölkern, sondern einen Krater des Unglücks zu graben, dessen Stufen er auch nicht mit Verdammten und Unseligen des geisterhaften Jenseits, sondern mit den Elenden, den Leidenden, den Verzweifelnden dieses irdischen Lebens füllte – immer eine Stufe unseliger als die andere, wobei er ohne Bedenken in die unterste dunkelste Kluft die Blinden versetzte. 
+                     Mit grausamem Genusse malte er, vor sich hin singend, diesen Ort aus. Wie sich Blinde Blinden als Führer anboten und mit ihnen in den Abgrund stürzten! Blinde Jünglinge rochen Rosenduft, aber wenn sie die Hände zum Pflücken ausstreckten, stolperten sie über Totengerippe. 
+                     Er sang die Terzinen reimlos, oder wie sie der Zufall reimte. <seg id="12" type="frame" pos="start"><said id="21" mode="reported" content="thought" level="1">Nun <seg id="21" type="intExpr">dachte</seg> <seg id="21 12" type="speaker">er</seg> offenbar an seinen Bruder Ferrante</said>, den er in einer höher gelegenen Kluft unter den fruchtlos Ehrgeizigen erblickte:</seg>
+                         
+                     
+                        <said id="12" mode="direct" content="speech" level="1">»Du willst, o Bruder, nach der Krone greifen!
+                        Doch reckst du in die Höhe dich vergebens!
+                        Doch wehren die Dämonen dir den Reifen!
+                     
+                     
+                        O harte Qual des bodenlosen Schwebens! –
+                        Ich aber bin ein König ... und entthront ...
+                        In Wahrheit war ich König dieses Lebens!
+                     
+                     
+                        Ich hatte Götteraugen, war gewohnt
+                        Zu herrschen – was sie sahen, war mein eigen.
+                        Doch weh, der Mörder hat mich nicht verschont ...
+                        
+                     
+                     Ich bin geblendet! Elend ohnegleichen!«</said>
+                         
+                     <said id="13" mode="direct" content="speech" level="1">»Don Giulio«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> dicht neben ihm eine weiche <seg id="13" type="speaker">Stimme</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»es gibt einen noch tieferen Abgrund des Elends – es gibt Unseligere als du bist! Das sind die, welche die Wonne ihres Lebens unbedacht und ungewollt selber auf ewig vernichten!«</said> 
+                     Und <seg id="14" type="speaker">er</seg> hörte gewaltsam schluchzen und spürte einen warmen Hauch und einen Schauer von Tränen, die auf seine Hände fielen. 
+                     <said id="14" mode="freeIndirect" content="thought" level="1">Träumte oder wachte er?</said> Er streckte bebend seine Hände aus und ergriff zwei andere, die in den seinigen zitterten. 
+                     <said id="15" mode="direct" content="speech" level="1">»Wer bist du?«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagte</seg> <seg id="15 22" type="speaker">er</seg>.</seg> <said id="22" mode="direct" content="speech" level="1">»<said id="16" mode="reported" content="speech" level="2" nonfact="yes" border="yes"><seg id="16" type="speaker">Wer</seg> darf sich noch unglücklicher <seg id="16" type="intExpr">nennen</seg> als der verstoßene Blinde?</said>«</said> 
+                     <seg id="17" type="frame" pos="start">Und die <seg id="17" type="speaker">Stimme</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">»Ich bin Angela Borgia, die deine Augen über alles liebte und sie zerstörte, dadurch daß sie einem Bösen ihre Schönheit lobte.«</said> 
+                     Er ließ ihre Hände fahren und sprang erbleichend auf, wie wenn er fliehen wollte, stieß sich aber an der Ecke der Steinbank und schwankte. 
+                     <seg id="19" type="frame" pos="start">Mit einem Strome von Tränen stürzte <seg id="19" type="speaker">sie</seg> vor ihm nieder und umschlang und stützte seine Knie:</seg> 
+                     <said id="19" mode="direct" content="speech" level="1">»Es ist unmöglich, daß du mir verzeihst! ... O könnte ich dir meine eigenen Augen geben, ich risse sie mir aus dem Haupte! ... Aber, was ich dir nahm, kann ich nie dir ersehen! ... Wo ist meine Sühne? Wie soll ich büßen?«</said> 
+                     
+                        <said id="20" mode="direct" content="speech" level="1">»Arme Angela«</said><seg id="20" type="frame" pos="mid">, <seg id="20" type="intExpr">sagte</seg> <seg id="20" type="speaker">er</seg> sanft, indem er sich von ihr zu lösen suchte, </seg><said id="20" mode="direct" content="speech" level="1">»geschehen ist geschehen! <said id="23" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Deine Schuld <seg id="23" type="intExpr">verstehe</seg> <seg id="23" type="speaker">ich</seg> nicht</said> – aber ich sehe, daß auch du in das Tal des Unglücks verstoßen bist.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

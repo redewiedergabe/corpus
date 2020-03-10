@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Angela Borgia</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Angela_Borgia.tg421_1.xml</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">Angela Borgia</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+<said id="1" mode="direct" content="speech" level="1">
+
+Wir steuern mit den flavianischen Gütern Donna Angela Borgia aus und vermählen sie mit dem Erben der Rechtsansprüche der Contrarier, dem liebenswürdigen Grafen Ettore. Unter uns, <said id="2" mode="reported" content="thought" level="2"><seg id="2" type="speaker">ich</seg> <seg id="2" type="intExpr">wünsche</seg> das Mädchen weg.</said> Sie bringt mich und den Staat Ferrara um unsern unvergleichlichen und unersetzlichen Kardinal Ippolito.«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»<seg id="4" type="speaker">Ich</seg> mag sie auch nicht und <said id="4" mode="reported" content="thought" level="2"><seg id="4" type="intExpr">wünsche</seg> sie in den Mond!</said> Kuppeln wir sie mit dem Pedanten! ...«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">scherzte</seg> der <seg id="3" type="speaker">Richter</seg> mit wüster Heiterkeit</seg>, nicht anders, als wäre er trunken. 
+                     <said id="5" mode="direct" content="speech" level="1">»<seg id="6" type="frame" pos="start">Du mußt <seg id="6" type="intExpr">wissen</seg>, mein <seg id="6" type="speaker">Herkules</seg></seg>«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">fuhr</seg> der <seg id="5 1" type="speaker">Herzog</seg> <seg id="5" type="intExpr">fort</seg>, anscheinend ohne sich an dem ärgerlichen Benehmen des Richters zu stoßen,</seg> <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="indirect" content="thought" level="2" border="yes">daß es eigentlich Donna Lucrezia ist, welche ihre Base aussteuert.</said> Die flavianischen Güter bilden ihr Wittum, aber es ist ein unsicherer Besitz, <said id="23" mode="reported" content="speech" level="2" nonfact="yes">da unsre <seg id="23" type="speaker">Gerichte</seg> noch nicht endgültig <seg id="23" type="intExpr">gesprochen</seg> haben ...</said>
+                     <said id="8" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Du hast davon <seg id="8" type="intExpr">gehört</seg>, mein <seg id="8" type="speaker">Herkules</seg>?</said>«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»Wie sollt' ich nicht?«</said> <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">höhnte</seg> der <seg id="9" type="speaker">Richter</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»da ganz Italien davon widerhallte! <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">Wer</seg> kann <seg id="24" type="intExpr">vergessen</seg>,</seg> <said id="24" mode="indirect" content="thought" level="2" nonfact="yes">wie Papst Alexander von Herzog Herkules überlistet wurde, wie maßlos das alte Laster sich gebärdete und <said id="11" mode="reported" content="speech" level="3">welche unnachsprechlichen <seg id="11" type="intExpr">Worte</seg> <seg id="11" type="speaker">es</seg> ausstieß</said>, als es sich geprellt sah!</said>«</said> 
+                     Und Strozzis Lache dröhnte unter der niederen Wölbung. 
+                     Zugleich hörte Angela durch die Mauerluke, an der sie saß, aus dem nächtlich stillen Hofe herauf den weichen Tenor wieder, dessen Kantilene sie bewegt hatte, als sie in der Siestastunde vor der Ankunft des Herzogs mit Lucrezia am Fenster saß. Es war dasselbe Liebeslied ... <said id="12" mode="direct" content="thought" level="1">»Ist es ein mit dem Herzog verabredetes Zeichen, daß Strozzis Mörder bereitstehen?«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">fragte</seg> <seg id="12" type="speaker">sie</seg> <seg id="12" type="intExpr">sich</seg> mit klopfendem Herzen.</seg> 
+                     Von diesem Moment an schien des Richters herausforderndes Wesen dem Herzog zuviel zu werden. 
+                     <said id="13" mode="direct" content="speech" level="1">»So unterhaltend deine Gesellschaft ist, mein Strozzi«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">er</seg> freundlich,</seg> <said id="13" mode="direct" content="speech" level="1">»ich muß dich nun entlassen. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Du</seg> <seg id="14" type="intExpr">weißt</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2" border="yes">ich bin heute scharf geritten</said> und, in der Tat, ich fühle mich müde. Wir kommen wohl auf unsern Gegenstand zurück. Glückselige Nacht!«</said> 
+                     Und er beurlaubte das Opfer. 
+                     Da Strozzi an der im Halbdunkel sitzenden Angela vorüberging und sich hinuntersteigend in die schwach erhellten Schloßgänge vertiefte, blieb diese wie versteinert, denn die unheimliche Lustigkeit Strozzis war ihr ein Vorzeichen seines Untergangs, und die unerschöpfliche Geduld des Herzogs erfüllte sie mit Grauen. 
+                     Als sie eine Weile später mit ihrem gefundenen Schlüssel neben dem Herzog stand, der aus dem Archiv getreten war und es abschloß, kehrte der Richter, wie tastend, wieder zurück. 
+                     <said id="16" mode="direct" content="speech" level="1">»<seg id="25" type="frame" pos="start"><seg id="25" type="speaker">Ich</seg> <seg id="25" type="intExpr">weiß</seg> nicht,</seg> <said id="25" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie mir geschieht</said>, Hoheit«</said><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">stotterte</seg> <seg id="16" type="speaker">Strozzi</seg>, dessen Lustigkeit verschwunden war,</seg> <said id="16" mode="direct" content="speech" level="1">»<seg id="18" type="speaker">ich</seg> finde den Ausgang nicht und <said id="18" mode="reported" content="speech" level="2"><seg id="18" type="intExpr">bitte</seg> um eine Fackel.</said>«</said> 
+                     <said id="19" mode="reported" content="speech" level="1">Der <seg id="19" type="speaker">Herzog</seg> <seg id="19" type="intExpr">rief</seg> nach einer</said>, die ein Diener dem Richter vortrug, welcher ihr wankend folgte. 
+                     Nun floh Angela in ihre Kammer, die sie in verwirrender Angst fest verrammelte, mit ihren klopfenden Pulsen den Lebensrest des Richters zählend und seinen Todesschrei erwartend. 
+                     Da ertönte er – entsetzlich und lang – und drang ihr durch das innerste Mark. 
+                     Mit zitternden Händen warf <seg id="21" type="speaker">sie</seg> einen Mantel um, ergriff ihre kleine Leuchte, glitt die einsamen Stiegen hinunter und stürzte aus dem Palast. <said id="21" mode="freeIndirect" content="thought" level="1">Hilfe zu bringen? ... Nein, sie zu suchen bei Lucrezia, im Kloster! ...</said> <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Sie</seg> <seg id="26" type="intExpr">wußte</seg> nicht,</seg> <said id="26" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was sie wollte.</said> 
+                     An der Ecke der Burg stieß ihre Fußspitze an den Toten. Sie leuchtete ihm ins Antlitz, konnte aber die bleichen, verzerrten Züge nicht lange betrachten.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

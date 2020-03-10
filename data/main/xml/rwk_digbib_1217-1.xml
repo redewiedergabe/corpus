@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Andrea Delfin</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyse,_Paul_Andrea_Delfin.tg565_1.xml</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Andrea Delfin</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Andrea verneigte sich zum Zeichen, daß er mit allem einverstanden sei. 
+                  <said id="1" mode="direct" content="speech" level="1">Hier ist Euer deutscher Paß</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> der <seg id="1 10" type="speaker">Sekretär</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">Eure Wohnung ist dem Palast der Gräfin Amidei benachbart. Es wird Euch ein leichtes sein, mit ihrer Kammerfrau ein Verhältnis anzuknüpfen, dessen Kosten Euch erstattet werden sollen. <said id="11" mode="indirect" content="speech" level="2" nonfact="yes"><said id="12" mode="reported" content="speech" level="3" border="yes">Was <seg id="12" type="speaker">Ihr</seg> auf diesem Wege über die Beziehungen der Gräfin zu vornehmen Venezianern <seg id="12" type="intExpr">erfahrt</seg></said></said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">berichtet</seg> <seg id="11" type="speaker">Ihr</seg> an diesem Ort.</seg> <seg id="13" type="frame" pos="start">Die <seg id="13" type="speaker">Republik</seg> <seg id="13" type="intExpr">erwartet</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" border="yes">daß Ihr treu und gewissenhaft Eure Aufgabe erfüllt.</said> Sie verpflichtet Euch nicht durch einen Eid, weil, wenn die Scheu vor den irdischen Strafen, die wir verhängen, Euch nicht in der Pflicht zurückhielte, Ihr kein Menschenblut in den Adern haben müßtet und also auch der himmlischen Gerechtigkeit spotten würdet. Ihr seid entlassen. </said>
+                  Andrea verbeugte sich wiederum und wandte sich nach der Tür. <said id="4" mode="reported" content="speech" level="1">Der <seg id="4" type="speaker">Sekretär</seg> <seg id="4" type="intExpr">rief</seg> ihn <seg id="4" type="intExpr">zurück</seg>.</said> 
+                  <said id="5" mode="direct" content="speech" level="1">Noch eins</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">sagte</seg> <seg id="5 14" type="speaker">er</seg>, indem er ein Kästchen aufschloß, das auf dem Tische stand. </seg><said id="14" mode="direct" content="speech" level="1">Tretet heran und betrachtet den Dolch in diesem Kästchen. Es sind große Waffenfabriken in Brescia. <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">Entsinnt</seg> <seg id="6" type="speaker">Ihr</seg> Euch,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes">dort irgend eine ähnliche Arbeit gesehen zu haben?</said></said> 
+                  Andrea blickte, mit letzter Kraft sich bezwingend, in den Behälter, den ihm der Sekretär entgegenhielt. Er erkannte die Waffe nur zu wohl. Es war ein zweischneidiges Messer, der Griff, ebenfalls stählern, in Kreuzesform. Auf der Klinge, vom Blut noch nicht gereinigt,<seg id="7" type="frame" pos="start"> standen die <seg id="7" type="speaker">Worte</seg> eingegraben:</seg> <said id="7" mode="direct" content="writing" level="1">»Tod allen Staatsinquisitoren«.</said> 
+                  Nach einer längeren Prüfung schob er mit fester Hand das Kästchen zurück. <said id="8" mode="direct" content="speech" level="1">Ich entsinne mich nicht</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">einen ähnlichen Dolch in den Kaufläden von Brescia gesehen zu haben.</said> 
+                  <said id="15" mode="direct" content="speech" level="1">Es ist gut. </said>
+                  Der <seg id="15" type="speaker">Sekretär</seg> verschloß das Kästchen wieder und winkte ihm mit der Hand, zu gehen. Langsam schritt Andrea hinaus. Die Hellebardiere ließen ihn passieren; wie im Traum ging er den hallenden Korridor entlang, und erst als er auf der dunkeln Treppe war, gönnte er sich's, einen Augenblick auf einer der Marmorstufen niederzusitzen. Seine Kniee drohten einzubrechen; der kalte Schweiß bedeckte seine Stirn, die Zunge klebte ihm am Gaumen. 
+                  Als er ins Freie hinaustrat, atmete er tief auf, richtete den Kopf mutig in die Höhe und nahm seine entschiedene Haltung wieder an. Am Portal draußen, das sich nach der Piazetta öffnet, sah er einen Haufen Volkes dicht beisammen stehen, vertieft in die Lesung eines großen Anschlages, der an eine der Säulen angeheftet war. <said id="16" mode="reported" content="writing" level="1"><seg id="16" type="speaker">Er</seg> trat ebenfalls hinzu und <seg id="16" type="intExpr">las</seg>, daß vom <seg id="17" type="speaker">Rat</seg> der Zehn mit hoher Bewilligung des Dogen eine Belohnung von tausend Zechinen und <said id="17" mode="reported" content="speech" level="2">die Begnadigung eines Verbannten oder Verurteilten demjenigen <seg id="17" type="intExpr">verheißen</seg> werde</said>, <said id="18" mode="reported" content="speech" level="2"><seg id="18" type="speaker">der</seg> über den Mörder Veniers <seg id="18" type="intExpr">Auskunft</seg> zu <seg id="18" type="intExpr">geben</seg> wisse.</said></said> Das Volk strömte vor der Säule ab und zu, und nur einige lauernde Gesichter tauchten beharrlich immer wieder unter den Arkaden auf und bewachten die Mienen der Lesenden. Auch Andrea entging ihnen nicht. Aber mit der Gleichgültigkeit eines völlig unbeteiligten Fremden machte er, nachdem er das Blatt überflogen, anderen Neugierigen Platz und stieg ruhig am großen Kanal in eine Gondel, die ihn nach dem Hotel des österreichischen Gesandten bringen sollte. 
+                  Als er nach einer längeren Fahrt vor dem ziemlich abgelegenen Palast ausstieg, der den doppelköpfigen Adler über dem Eingang trug, bewegte gerade ein hochgewachsener junger Mann den Klopfer am Tor.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Spiegel, das Kätzchen. Ein Märchen</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Spiegel__das_Kaetzchen__Ein_Maerchen.tg806_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Spiegel, das Kätzchen. Ein Märchen</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="4" mode="direct" content="speech" level="1">Darum ist ein Tau darauf gefallen, ohne daß sich eine Schnepfe fing, und war also eine gute Handlung daran schuld. Als er des andern Tages hinging, um das Garn abermals auszuspannen, kam eben ein Reiter daher, welcher einen schweren Mantelsack hinter sich hatte; in diesem war ein Loch, aus welchem von Zeit zu Zeit ein Goldstück auf die Erde fiel. Da ließ der Jäger das Garn abermals liegen und lief eifrig hinter dem Reiter her und sammelte die Goldstücke in seinen Hut, bis der Reiter sich umkehrte, es sah und voll Grimm seine Lanze auf ihn richtete. <seg id="1" type="frame" pos="start">Da bückte der <seg id="1" type="speaker">Jäger</seg> sich erschrocken, reichte ihm den Hut dar und <seg id="1" type="intExpr">sagt</seg></seg> <said id="1" mode="direct" content="speech" level="2">›Erlaubt, gnädiger Herr, Ihr habt hier viel Gold verloren, das ich Euch sorgfältig aufgelesen!‹</said> Dies war wiederum eine gute Handlung, indem das ehrliche Finden eine der schwierigsten und besten ist; er war aber so weit von dem Schnepfengarn entfernt, daß er es die zweite Nacht im Walde liegenließ und den nähern Weg nach Hause ging. Am dritten Tag endlich, nämlich gestern, als er eben wieder auf dem 
+ Wege war, traf er eine hübsche Gevattersfrau an, die dem Alten um den Bart zu gehen pflegte und der er schon manches Häslein geschenkt hat. <seg id="2" type="frame" pos="start"><said id="18" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Darüber <seg id="18" type="intExpr">vergaß</seg> <seg id="2 18" type="speaker">er</seg> die Schnepfen gänzlich</said> und <seg id="2" type="intExpr">sagte</seg> am Morgen</seg> <said id="2" mode="direct" content="speech" level="2">›Ich habe den armen Schnepflein das Leben geschenkt; auch gegen Tiere muß man barmherzig sein!‹</said> <seg id="3" type="frame" pos="start">Und um dieser drei guten Handlungen willen <seg id="3" type="intExpr">fand</seg> <seg id="3" type="speaker">er</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2">daß er jetzt zu gut sei für diese Welt</said>, und ist heute vormittag beizeiten in ein Kloster gegangen. So liegt das Garn noch ungebraucht im Walde, und ich darf es nur holen.«</said> – <said id="5" mode="direct" content="speech" level="1">»Holt es geschwind!«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">sagte</seg> <seg id="5 8" type="speaker">Spiegel</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»es wird gut sein zu unserm Zweck!«</said> – <said id="6" mode="direct" content="speech" level="1">»Ich will es holen«</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">sagte</seg> die <seg id="6 4" type="speaker">Eule</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">»steht nur so lang Wache für mich in diesem Loch, und <seg id="7" type="frame" pos="start">wenn etwa die <seg id="7" type="speaker">Meisterin</seg> den Schornstein <seg id="7" type="intExpr">hinaufrufen</seg> sollte,</seg> <said id="7" mode="indirect" content="speech" level="2" nonfact="yes">ob die Luft rein sei?</said> <seg id="8" type="frame" pos="start">so <seg id="8" type="intExpr">antwortet</seg>, indem Ihr meine Stimme nachahmt</seg> <said id="8" mode="direct" content="speech" level="2" nonfact="yes">Nein, es stinkt noch nicht in der Fechtschul!</said>«</said> Spiegel stellte sich in die Nische, und die Eule flog still über die Stadt weg nach dem Wald. <seg id="9" type="frame" pos="start">Bald kam <seg id="9" type="speaker">sie</seg> mit dem Schnepfengarn zurück und <seg id="9" type="intExpr">fragte</seg></seg> <said id="9" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="speech" level="2" nonfact="yes">Hat <seg id="19" type="speaker">sie</seg> schon <seg id="19" type="intExpr">gerufen</seg>?</said>«</said> <said id="10" mode="direct" content="speech" level="1">»Noch nicht!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">Spiegel</seg>.</seg> 
+                  Da spannten sie das Garn aus über den Schornstein und setzten sich daneben still und klug; die Luft war dunkel, und es ging ein leichtes Morgenwindchen, in welchem ein paar Sternbilder flackerten. <said id="11" mode="direct" content="speech" level="1">»Ihr sollt sehen«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">flüsterte</seg> die <seg id="11" type="speaker">Eule</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»wie geschickt die durch den Schornstein heraufzusäuseln versteht, ohne sich die blanken Schultern schwarz zu machen!«</said> – <said id="12" mode="direct" content="speech" level="1">»Ich hab sie noch nie so nah gesehen«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">erwiderte</seg> <seg id="12" type="speaker">Spiegel</seg> leise,</seg> <said id="12" mode="direct" content="speech" level="1">»wenn sie uns nur nicht zu fassen kriegt!«</said> 
+                  <seg id="14" type="frame" pos="start">Da <seg id="14" type="intExpr">rief</seg> die <seg id="14" type="speaker">Hexe</seg> von unten</seg> <said id="14" mode="direct" content="speech" level="1">»Ist die Luft rein?«</said> <seg id="15" type="frame" pos="start">Die <seg id="15" type="speaker">Eule</seg> <seg id="15" type="intExpr">rief</seg></seg> <said id="15" mode="direct" content="speech" level="1">»Ganz rein, es stinkt herrlich in der Fechtschul!«</said> und alsobald kam die Hexe heraufgefahren und wurde in dem Garne gefangen, welches die Katze und die Eule eiligst zusammenzogen und verbanden. <said id="16" mode="direct" content="speech" level="1">»Halt fest!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16" type="speaker">Spiegel</seg></seg> und <said id="17" mode="direct" content="speech" level="1">»Binde gut!«</said> <seg id="17" type="frame" pos="end">die <seg id="17" type="speaker">Eule</seg>.</seg> Die Hexe zappelte und tobte mäuschenstill wie ein Fisch im Netz; aber es half ihr nichts, und das Garn bewährte sich auf das beste.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

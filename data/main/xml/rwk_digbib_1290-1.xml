@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das wunderbare Stöcklein</title>
+             <author>Jahn, Ulrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Jahn,_Ulrich_Das_wunderbare_Stoecklein.tg7_1.xml</f>
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">Das wunderbare Stöcklein</f>
+         <f name="author">Jahn, Ulrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="thought" level="1" border="yes">Das <seg id="1" type="intExpr">kam</seg> <seg id="1" type="speaker">ihm</seg> so bekannt <seg id="1" type="intExpr">vor</seg></said>, <said id="2" mode="reported" content="speech" level="1">und als <seg id="2" type="speaker">er</seg> auf einem Hofe <seg id="2" type="intExpr">ansprach</seg></said>, um dort zu übernachten, war es seines Vaters Haus. Der lachte den dummen Michel aus, und Krischan und Hans spotteten auch; <seg id="5" type="frame" pos="start">aber <seg id="5" type="speaker">Michel</seg> <seg id="5" type="intExpr">rief</seg> zornig:</seg> 
+                  <said id="5" mode="direct" content="speech" level="1">»Versucht ihr es nur, es wird euch nicht besser gelingen!«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Das will ich auch thun,«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">antwortete</seg> <seg id="6" type="speaker">Krischan</seg></seg>, <said id="7" mode="reported" content="speech" level="1">und der <seg id="7" type="speaker">Bauer</seg> <seg id="7" type="intExpr">gab</seg> die <seg id="7" type="intExpr">Erlaubnis</seg> dazu</said>, und die Mutter packte ihm ebenfalls die schönsten Leckerbissen in den Korb; und am andern Morgen, als die Sonne aufging, war Krischan unterwegs und wanderte der Stadt zu. 
+                  Es ging ihm aber nicht anders, als seinem älteren Bruder. Da er eben so gierig und hartherzig war, wie Michel, und dem alten Graumännlein nichts abgeben wollte von seinem Überfluß, so verblendete dasselbe ihm 
+die Augen; und als er am Abend einkehrte, um ein Nachtlager zu suchen, befand er sich gleichfalls auf seines Vaters Hof. 
+                  Jetzt war das Spotten bei Michel. 
+                  <said id="8" mode="direct" content="speech" level="1">»Guten Abend, Herr Hofjäger,«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»wie ist es doch so leicht, in die Stadt zu kommen.«</said> 
+                  <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Hans</seg> aber lachte seine beiden Brüder aus und schüttelte sich vor Vergnügen und <seg id="10" type="intExpr">sprach</seg>:</seg> 
+                  <said id="10" mode="direct" content="speech" level="1">»Ich sehe wohl, ich muß mich auf den Weg machen; sonst ist es mit dem Hofjäger nichts.«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Du Kiek-in-die-Welt und Taugenichts, bleib du nur hinter dem Ofen sitzen!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">riefen</seg> <seg id="12" type="speaker">Michel</seg> und <seg id="12" type="speaker">Krischan</seg> zornig.</seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»Und daß du ihm nichts mit auf den Weg giebst, Mutter!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">fügte</seg> der alte <seg id="13" type="speaker">Bauer</seg> <seg id="13" type="intExpr">hinzu</seg>.</seg> 
+                  Aber Hans kümmerte das wenig, er ging zu dem Mehlsack, rührte sich einen Teig und briet auf dem Herde drei Aschenbacke; dann steckte er die paar Thaler, die er sich erspart hatte, in die Tasche, und als die Sonne aufging, machte er sich auf den Weg und pfiff ein munteres Lied vor sich hin. Als es Mittagszeit war, ließ er sich nieder, holte einen Aschenback hervor und biß hinein. <seg id="14" type="frame" pos="start">Indem kam auch schon das kleine <seg id="14" type="speaker">Graumännchen</seg> auf ihn zu und <seg id="14" type="intExpr">sagte</seg> zu ihm:</seg> 
+                  <said id="14" mode="direct" content="speech" level="1">»Guten Tag, Hans, mich hungert so! Giebst du mir nicht ein wenig ab von deinem Mahle?«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Recht gern, liebes Graumännchen,«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">antwortete</seg> <seg id="15" type="speaker">Hans</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">»es wird dir nur nicht schmecken.«</said> 
+                  Damit gab er ihm genau die Hälfte von seinem Vorrat, einen ganzen Aschenback und einen halben. 
+                  
+                     
+<said id="16" mode="direct" content="speech" level="1">»Auch einen Thaler sollst du bekommen!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">fuhr</seg> <seg id="16 22" type="speaker">er</seg> <seg id="16" type="intExpr">fort</seg>.</seg> <said id="22" mode="direct" content="speech" level="1">»Zwei hab' ich, und ich bin gesund und stark und werde mir wieder etwas verdienen können.«</said> 
+                  <said id="17" mode="reported" content="speech" level="1">Das <seg id="17" type="speaker">Männchen</seg> <seg id="17" type="intExpr">bedankte</seg> sich schön</said> und ging seiner Wege. 
+                  Gegen Abend trat es wieder auf den Jungen zu, als er sein Abendbrot verzehrte. 
+                  <said id="18" mode="direct" content="speech" level="1">»Guten Abend, Hans,«</said> <seg id="18" type="frame" pos="mid"><seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">es</seg>,</seg> <said id="18" mode="direct" content="speech" level="1">»ich bin so hungrig, gieb mir etwas zu essen!«</said> 
+                  <seg id="19" type="frame" pos="start"><seg id="19 20" type="speaker">Hans</seg> <seg id="19" type="intExpr">dachte</seg>,</seg> <said id="19" mode="indirect" content="thought" level="1">es sei ein anderes Graumännlein</said> und <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">sprach</seg> zu ihm:</seg> <said id="20" mode="direct" content="speech" level="1">»Das meiste habe ich zwar schon fortgegeben; aber es wird doch noch für uns beide reichen. Hier hast du einen halben Aschenback und einen halben Thaler, und das ist genau die Hälfte.«</said> 
+                  <said id="21" mode="direct" content="speech" level="1">»Hab Dank, lieber Hans!«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">sprach</seg> das <seg id="21" type="speaker">Graumännchen</seg></seg> und steckte seinen Teil zu sich und ging davon. 
+                  Hans aber kletterte auf einen Baum, band sich dort fest, daß ihn die wilden Tiere nicht fräßen, und schlief ein.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>603.Die dümmste Frau</title>
+             <author>Müllenhoff, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Muellenhoff,_Karl_603__Die_duemmste_Frau.tg745_1.xml</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">603.Die dümmste Frau</f>
+         <f name="author">Müllenhoff, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+603. Die dümmste Frau. 
+                  Es war einmal ein Schlachter, der machte Bankrott. <seg id="1" type="frame" pos="start">Da <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg> zu seiner Frau:</seg> <said id="1" mode="direct" content="speech" level="1">»Nun will ich graben und auf Tagelohn arbeiten.«</said> Als er aber ein paar Tage gegraben hatte, da waren ihm seine Hände wund, und <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">sprach</seg> zu seiner Frau:</seg> <said id="2" mode="direct" content="speech" level="1">»Ich muß nur wieder schlachten.«</said> Er ging also aufs Land, sich ein Kalb zu kaufen, und als er in ein Dorf kam, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">fragte</seg> <seg id="3" type="speaker">er</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">ob sie nicht ein Kalb zu verkaufen hätten?</said> <said id="4" mode="direct" content="speech" level="1">»Nein«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagten</seg> die <seg id="4" type="speaker">Leute</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»wir haben nichts; aber hier nahebei wohnt ein Müller, der hat fünf Ochsen.«</said> <seg id="5" type="frame" pos="start">Da <seg id="5" type="intExpr">sagte</seg> der <seg id="5" type="speaker">Schlachter</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Die kann ich auch brauchen«</said> und ging nach der Mühle. 
+                  Als er nun nach der Mühle kam, war der Müller nicht zu Hause. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Der</seg> aber hatte, als er ausging, zu seiner Frau <seg id="6" type="intExpr">gesagt</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Wenn da jemand kommen sollte und wollte auf die Ochsen handeln, so kannst du sie nur für fünfzig Taler das Stück losschlagen; für weniger aber sind sie nicht feil.«</said> »Nun kam der Schlachter; <seg id="9" type="frame" pos="start">er <seg id="9" type="intExpr">fragte</seg> die <seg id="9" type="speaker">Frau</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">ob sie nicht die Ochsen verkaufen wollte?</said>« <said id="10" mode="direct" content="speech" level="1">»Ja«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">sie</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»für fünfzig Taler das Stück, für weniger aber nicht.«</said> Der Schlachter war's zufrieden und wollte so viel geben; <said id="12" mode="direct" content="speech" level="1">»aber«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">er</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»ich habe jetzt nicht so viel bar Geld bei mir; wenn ich alle fünf auf einmal nehme, so können wir's ja so abmachen, daß ich zwei gleich mitnehme und dafür die drei übrigen ihr so lange zum Pfande lasse, bis ich komme und das volle Kaufgeld bringe.«</said> <seg id="14" type="frame" pos="start">Die <seg id="14" type="speaker">Frau</seg> <seg id="14" type="intExpr">sagte</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1">daß er's machen könnte, wies ihm eben paßte</said>, und war froh, einen so schnellen und vorteilhaften Handel abgeschlossen zu haben. 
+                  Als nun ihr Mann nach Hause kam, <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">fragte</seg> <seg id="16" type="speaker">er</seg> sie gleich:</seg> <said id="16" mode="direct" content="speech" level="1">»Na, hast du die Ochsen verkauft?«</said> <said id="17" mode="direct" content="speech" level="1">»Jawohl«</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">sagte</seg> die <seg id="17" type="speaker">Frau</seg>,</seg> <said id="17" mode="direct" content="speech" level="1">»alle fünf auf einmal an einen Schlachter aus der Stadt, das Stück für fünfzig Taler und um keinen Schilling weniger.«</said> <said id="18" mode="direct" content="thought" level="1">»Das ist ein guter Handel«</said><seg id="18" type="frame" pos="end">, <seg id="18" type="intExpr">dachte</seg> der <seg id="18" type="speaker">Mann</seg></seg>, aß erst ein wenig und nachdem er gegessen, <seg id="19" type="frame" pos="start"><seg id="19" type="intExpr">verlangte</seg> <seg id="19" type="speaker">er</seg></seg> <said id="19" mode="indirect" content="speech" level="1">das Geld zu sehen.</said> <seg id="20" type="frame" pos="start">Da <seg id="20" type="intExpr">antwortete</seg> die <seg id="20" type="speaker">Frau</seg>:</seg> <said id="20" mode="direct" content="speech" level="1">»Das Geld habe ich noch nicht bekommen, der Schlachter aber wird es in vierzehn Tagen bringen, wenn er die drei letzten Ochsen abholt; die hat er so lange zum Pfand hier gelassen, zwei hat er gleich mitgenommen.«</said> <said id="21" mode="direct" content="speech" level="1">»Nun«</said><seg id="21" type="frame" pos="mid">, <seg id="21" type="intExpr">sagte</seg> der <seg id="21 22" type="speaker">Mann</seg>,</seg> <said id="21" mode="direct" content="speech" level="1">»da ist doch auf Gottes weiter Welt kein dummeres Frauenzimmer, als du bist«</said>, und er ward ärgerlich genug; <said id="22" mode="direct" content="speech" level="1">»ich will noch vierzehn Tage warten, aber kommt binnen der Zeit der Schlachter nicht, so reise ich weg und komme in meinem Leben nicht wieder, wenn ich nicht eine dummere finde, als du bist.«</said> Der Müller wartete nun noch vierzehn Tage; aber wer nicht kam, das war der Schlachter; der Müller reiste also fort. 
+                  Er war nun schon ziemlich lange gereist, und nirgend in der Welt hatte er noch eine dummere Frau gefunden, als die, welche er zu Hause gelassen. Endlich aber kam er bei einem Schlosse an, wo eine verwitwete Gräfin wohnte; da sprang der Müller immer hoch auf und gaffte in den Himmel.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

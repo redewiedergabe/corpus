@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Betrogene</title>
+             <author>Janitschek, Maria</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Janitschek,_Maria_Der_Betrogene.tg106_1.xml</f>
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Betrogene</f>
+         <f name="author">Janitschek, Maria</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Keiner wird den Mut haben, dich zu heiraten.«</said> 
+                 <said id="2" mode="direct" content="speech" level="1"> »<said id="3" mode="reported" content="speech" level="2"><seg id="3" type="intExpr">Rede</seg> nicht so wunderlich.</said> Deine Bewerber, das heisst die <seg id="3" type="speaker">du</seg> vor dreissig Jahren hattest, würden allerdings –«</said> 
+                  <said id="28" mode="direct" content="speech" level="1">»Das soll die Ehrerbietung sein, die man seinen Eltern schuldig ist!«</said> 
+                  <said id="29" mode="direct" content="speech" level="1">»Ehrerbietung!?«</said> <seg id="29 2 6" type="speaker">Elline</seg> warf sich aufkreischend im Bett herum. <said id="6" mode="direct" content="speech" level="1">»Soll das Ehrerbietung herausfordern, wenn ich meiner <seg id="7 8" type="speaker">Mutter</seg> keinen Gutenachtkuss geben darf, weil sie <said id="7" mode="direct" content="speech" level="2">»zur Konservierung des Teints«</said> ihr Gesicht mit Kalbfleisch belegt hat? Wenn ich des Morgens nicht in ihr Zimmer darf, weil sie <said id="8" mode="direct" content="speech" level="2">»zur Konservierung des Teints«</said> noch die Guttaperchamaske trägt?Wer hat mich denn zur Siebenschläferin gemacht als du? Deine Thüre war ja stets geheimnisvoll verschlossen für mich. Dein Körperkult grenzt ja ans Wahnsinnige. Wachsmaske, Haarfärberei, Massage und noch anderes –« </said>
+                  Ein leises Aufschluchzen liess sie innehalten. 
+                  <seg id="1 28" type="speaker">Frau Tavadar</seg> hatte sich vor das Bett geworfen und drückte ihr Gesicht in die Hände. 
+                  <said id="9" mode="direct" content="speech" level="1">»Was soll ich denn thun?«</said><seg id="9" type="frame" pos="mid"> <seg id="9" type="intExpr">stiess</seg><seg id="9" type="speaker"> sie</seg> weinend <seg id="9" type="intExpr">hervor</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="speech" level="2">wenn die <seg id="10" type="speaker">Männer</seg> Jugend, Jugend und nichts als sie <seg id="10" type="intExpr">fordern</seg>.</said> Wenn du dich heute verheiratest, was bleibt mir denn dann übrig, als mich um einen Lebensgefährten umzusehen? Meinen Passionenmich hinzugeben erlauben mir leider meine Vermögensverhältnisse nicht. Ich muss mich versorgen ...«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»<seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">Glaubst</seg> <seg id="12" type="speaker">du</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2" nonfact="yes">dass die Kalbfleischumschläge und Wachsmasken dir zu einem Manne verhelfen?</said>«</said> <seg id="11 13 16" type="speaker">Elline</seg> blickte mitleidslos auf die Schluchzende, die augenblicklich abschreckend widerwärtig aussah. <said id="13" mode="direct" content="speech" level="1">»Also <said id="14" mode="reported" content="speech" level="2">dann <seg id="14" type="intExpr">giebst</seg> <seg id="14" type="speaker">du</seg> mir ja <seg id="14" type="intExpr">zu</seg>, dass nicht unsere Tugend die Männer reizt.</said>«</said> <said id="15" mode="reported" content="speech" level="1"><seg id="15" type="speaker">Sie</seg> <seg id="15" type="intExpr">sprach</seg> das Wort Tugend mit ätzendem Hohn aus.</said> <said id="16" mode="direct" content="speech" level="1">»Weshalb dann dein Komödienspiel mir gegenüber? Nein, <said id="17" mode="reported" content="speech" level="2" nonfact="yes">zu <seg id="17" type="intExpr">verteidigen</seg> brauchst <seg id="17" type="speaker">du</seg> dich nicht</said>, <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">ich</seg> <seg id="18" type="intExpr">weiss</seg> ja längst,</seg> <said id="18" mode="indirect" content="thought" level="2">dass alles<said id="19" mode="reported" content="thought" level="3"> blosse <seg id="19" type="intExpr">Spekulation</seg></said> ist.</said> Aber jener wegen, die nur unsere Haut reizt, so viel Umstände machen,hahaha! ...«</said> <seg id="20" type="speaker">Sie</seg> sprang mit beiden Füssen aus dem Bett und wies herrisch auf die Thür. <said id="20" mode="direct" content="speech" level="1">»Geh, ich will mich ankleiden.«</said> Die Mutter drückte sich wie ein geprügelter Hund hinaus. 
+                  Elline machte Toilette. Nach anderthalb Stunden trat sie in einem langen seidnen Hausrock ins Wohnzimmer. Das Mädchen brachte ein Mahl, das ebensogut Mittagessen als Frühstück sein konnte. Es bestand aus Thee und mehreren Fleischgerichten. Während des Essens las Elline ein paar Journale durch, <said id="21" mode="reported" content="speech" level="1" nonfact="yes">nach der Mutter <seg id="21" type="intExpr">fragte</seg> <seg id="21" type="speaker">sie</seg> gar nicht.</said> Auch einige angekommene Briefe durchflog sie. Ihr schönes, südländisches Gesicht drückte dabei die verschiedensten Empfindungenaus. Die interessante Kroatin galt bei vielen als orientalische Schönheit. Sie war so klug, <said id="22" mode="reported" content="speech" level="1">die abenteuerlichen <seg id="22" type="intExpr">Gerüchte</seg>, die über sie kursierten</said>, auf jede Weise zu unterstützen. Sie kannte die Schwäche der modernen Menschen, allem, was vom Ausland stammt, seien es nun Schmucksachen oder Frauen, den Vorzug zu geben. Die Tochter des kleinen kroatischen Gutsbeamten wurde zur geheimnisvollen Emigrantin, deren Familie eine Frevelthat des Vaters ins Elend gestürzt hatte. Elline verstand die Schwäche der Menschen auszunützen. Ihre Mama hatte, bevor sie der arme kleine Gutsbeamte geheiratet hatte, eine bunte Vergangenheit durchlebt ...
+                  
+                     Fräulein Tavadar warf mit einer heftigen Bewegung das dunkle Haar zurück, das sie daheim gelöst trug. Unter den Briefen hatte sich einer befunden, <said id="23" mode="reported" content="writing" level="1" nonfact="yes">den <seg id="23" type="speaker">sie</seg> sofort <seg id="23" type="intExpr">beantworten</seg> wollte.</said> Sie liess sich an ihrem Schreibtisch nieder. Ein sarkastisches Lächeln überflog ihr Gesicht, als <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">sie</seg> <seg id="24" type="intExpr">begann</seg>:</seg>
+                         
+               
+               
+                  <said id="24" mode="direct" content="writing" level="1">Lieber Baron! 
+                  Sie brauchen kein Eau de Cologne mitzubringen. (<said id="25" mode="freeIndirect" content="writing" level="2">Überhaupt welch schrecklich veraltetes Toilettenmittel!</said>) So starke Nerven, um den Anblick einer Hinrichtung zu ertragen, besitze ich noch. <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Ich</seg> bin sehr <seg id="26" type="intExpr">gespannt</seg></seg>, <said id="26" mode="indirect" content="thought" level="2">ob <said id="27" mode="reported" content="thought" level="3"><seg id="27" type="speaker">meine</seg> <seg id="27" type="intExpr">Erwartungen</seg></said> erfüllt werden.</said> In diesem Fall kannder Vorgang zur Bereicherung meines Wissens dienen.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Beate und Mareile</title>
+             <author>Keyserling, Eduard von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keyserling,_Eduard_von_Beate_und_Mareile.tg41_1.xml</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Beate und Mareile</f>
+         <f name="author">Keyserling, Eduard von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Hier doch nich.«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Jawoll«</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">meinte</seg> <seg id="2 3" type="speaker">Amelie</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">»<said id="4" mode="reported" content="speech" level="2" nonfact="yes"><seg id="4" type="speaker">Ich</seg> muß dich <seg id="4" type="intExpr">sprechen</seg>.</said>«</said> 
+                     <seg id="1" type="speaker">Beckmann</seg> blieb stehen, steckte das Kinn tief in den hohen Hemdkragen und seine Waden in den weißen Strümpfen zitterten vor Kälte. <said id="5" mode="direct" content="speech" level="1">»Na – los«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">brummte</seg> <seg id="5" type="speaker">er</seg>.</seg> <seg id="6" type="speaker">Amelie</seg> lehnte sich an ihn, strich mit ihren kleinen roten Händen über seinen Rockärmel. <said id="6" mode="direct" content="speech" level="1">»<seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> muß doch <seg id="7" type="intExpr">wissen</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was nu sein wird.</said>«</said> 
+                     <said id="8" mode="direct" content="speech" level="1">»Immer die alte Jacke,«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">schnarrte</seg> <seg id="8" type="speaker">Beckmann</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»das Vergnügen wollt ihr, und später sind wir schuld.«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="speech" level="2" nonfact="yes"><seg id="11" type="speaker">Wer</seg> <seg id="11" type="intExpr">sagt</seg> denn von Schuld</said>, Beckmann«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">flehte</seg> <seg id="10" type="speaker">Amelie</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">»<seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Ich</seg> <seg id="12" type="intExpr">frag'</seg> nur,</seg> <said id="12" mode="indirect" content="speech" level="2">was is nu?</said> <said id="13" mode="reported" content="speech" level="2">Die <seg id="13" type="speaker">anderen</seg> <seg id="13" type="intExpr">sprechen</seg> schon.</said> Ich geh' zur Frau Gräfin.«</said> 
+                     Die weiße Lakaiennase hob sich streng zu den Sternen auf. 
+                     <said id="14" mode="direct" content="speech" level="1">»<said id="21" mode="reported" content="speech" level="2" nonfact="yes">Von mir kein <seg id="21" type="intExpr">Wort</seg></said>«</said><seg id="14" type="frame" pos="end">, <seg id="14" type="intExpr">befahl</seg> <seg id="14" type="speaker">er</seg>.</seg> 
+                     <said id="15" mode="direct" content="speech" level="1">»Aber Beckmann, <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">ich</seg> muß doch <seg id="16" type="intExpr">sagen</seg>,</seg> <said id="16" mode="indirect" content="speech" level="2" nonfact="yes">wer der Vater zu dem Kind is.</said>«</said> <seg id="15" type="speaker">Amelie</seg> weinte nur leise. 
+                     <said id="17" mode="direct" content="speech" level="1">»<said id="22" mode="reported" content="speech" level="2" nonfact="yes">Kein <seg id="22" type="intExpr">Wort</seg></said>«</said><seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">wiederholte</seg> <seg id="17" type="speaker">Beckmann</seg>.</seg> 
+                     Jetzt schüttelte das Weinen den ganzen, runden Mädchenkörper. 
+                     <said id="18" mode="direct" content="speech" level="1">»Hör',«</said> <seg id="18" type="frame" pos="mid"><seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">Beckmann</seg> mit seiner diskreten, leblosen Dienerstimme,</seg> <said id="18" mode="direct" content="speech" level="1">»das Flennen hilft so nichts. <said id="19" mode="reported" content="speech" level="2" nonfact="yes">Wenn <seg id="19" type="speaker">du</seg> von mir nichts <seg id="19" type="intExpr">sagst</seg></said> – hm – verstehst du? Wenn du mir nicht den Dienst verdirbst, nachher geb' ich das Geld, damit du im Dorfe deine Sache abmachst. Das wird hübsch kosten.«</said> Amelie drängte sich noch an ihn heran, sie lächelte, nahm seine Hand und stützte ihre tränenfeuchte Wange darauf. <said id="20" mode="direct" content="speech" level="1">»Und später – <seg id="23" type="speaker">Beckmann</seg> – <said id="23" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="23" type="intExpr">sag</seg>'</said> – später?«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">hauchte</seg> <seg id="20" type="speaker">sie</seg>.</seg> 
+                     
+                        <said id="24" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Von später <seg id="26" type="intExpr">weiß</seg> <seg id="26" type="speaker">ich</seg> nichts</said>«</said><seg id="24" type="frame" pos="end">, <seg id="24" type="intExpr">meinte</seg> <seg id="24 25" type="speaker">Beckmann</seg> kühl.</seg> <said id="25" mode="direct" content="speech" level="1">»Jetzt muß ich gehen.«</said> Er wandte sich ab, <seg id="38" type="frame" pos="start">als <seg id="38" type="intExpr">bemerkte</seg> <seg id="38" type="speaker">er</seg> es nicht,</seg> <said id="38" mode="indirect" content="thought" level="1" border="yes">wie das Mädchen sich auf die Fußspitzen stellte, um mit dem Gesicht an seine schmalen, bleichen Lippen zu reichen.</said> 
+                     Als Beckmann fort war, wischte Amelie sich mit der Schürze die Augen und starrte trübselig auf den Hof hinaus, der in der bleichen Schneedämmerung sehr still zwischen den hohen, weißen Häusern lag. Ein grellgoldener Schein fiel auf den Schnee. Drüben bei Inspektors wurde der Weihnachtsbaum angesteckt. Amelie wandte sich ab. Das Herz war ihr voll Zorn gegen die Herrschaft, die sie fürchten mußte, und so voll von Liebe zu Beckmann, daß sie wieder weinte. 
+                     Am ersten Weihnachtstage saß Beate in ihrem Ankleidezimmer und wartete auf Amelie. Der letzte Abendschein war schon hinter den Parkbäumen verglommen. Beate war in einen leichten Halbschlummer verfallen. Als jemand in das Zimmer trat, <seg id="27" type="frame" pos="start"><seg id="27" type="intExpr">fragte</seg> <seg id="27" type="speaker">sie</seg>:</seg> <said id="27" mode="direct" content="speech" level="1">»Sind Sie es, Amelie? Dann stecken Sie die Lampe an.«</said> Da es still und finster blieb, <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">sagte</seg> <seg id="28" type="speaker">Beate</seg>:</seg> <said id="28" mode="direct" content="speech" level="1">»Machen Sie doch Licht. Ich muß mich ankleiden.«</said> 
+                     Jetzt rauschte etwas neben ihr auf den Teppich nie der, ein nasses Gesicht legte sich auf ihre Hände. <said id="29" mode="direct" content="speech" level="1">»Sind Sie's, Amelie?«</said> <seg id="29" type="frame" pos="end"><seg id="29" type="intExpr">fragte</seg> <seg id="29 30" type="speaker">Beate</seg>.</seg> <said id="30" mode="direct" content="speech" level="1">»Warum weinen Sie? Haben Sie etwas getan?«</said> 
+                     <said id="31" mode="direct" content="speech" level="1">»Schlecht – schlecht hab' ich getan!«</said> <seg id="31" type="frame" pos="end"><seg id="31" type="intExpr">schluchzte</seg> das <seg id="31 32" type="speaker">Mädchen</seg>.</seg> <said id="32" mode="direct" content="speech" level="1">»Und die Schande jetzt. Was soll ich tun? Frau Gräfin werden Erbarmen haben – verzeihen – ach! ach!«</said> 
+                     <said id="34" mode="reported" content="speech" level="1">Während <seg id="34 39" type="speaker">Amelie</seg> <seg id="34" type="intExpr">sprach</seg></said>, <seg id="35" type="frame" pos="start"><seg id="35" type="intExpr">fühlte</seg> <seg id="35" type="speaker">sie</seg>,</seg> <said id="35" mode="indirect" content="thought" level="1" border="yes">wie Beate allmählich vor ihr zurückwich, die Hand, das Knie, das Amelie umschlungen hielt, fortzog.</said> <said id="33" mode="direct" content="speech" level="1">»Stehen Sie auf«</said><seg id="33" type="frame" pos="end">, <seg id="33" type="intExpr">sagte</seg> <seg id="33 36" type="speaker">Beate</seg> leise</seg>, aber das geschulte Zofenohr hörte <said id="39" mode="reported" content="speech" level="1">aus diesen <seg id="39" type="intExpr">Worten</seg></said> doch Strenge und Widerwillen heraus. <said id="36" mode="direct" content="speech" level="1">»Wie konnten Sie das tun – <said id="40" mode="reported" content="thought" level="2" border="yes"><seg id="40" type="speaker">Sie</seg> <seg id="40" type="intExpr">wissen</seg> doch ...</said>«</said> 
+                     <seg id="37" type="frame" pos="start"><seg id="37" type="speaker">Amelie</seg> <seg id="37" type="intExpr">schluchzte</seg> unter ihrer Schürze, die sie über den Kopf geschlagen hatte:</seg> <said id="37" mode="direct" content="speech" level="1">»Ja – ja – <said id="41" mode="reported" content="thought" level="2" border="yes"><seg id="41" type="speaker">ich</seg> <seg id="41" type="intExpr">weiß</seg>.</said></said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

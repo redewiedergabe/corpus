@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Romeo und Julia auf dem Dorfe</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Romeo_und_Julia_auf_dem_Dorfe.tg803_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Romeo und Julia auf dem Dorfe</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Er küßte es, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">damit <seg id="1" type="speaker">es</seg> <seg id="1" type="intExpr">schweige</seg></said>, heftig auf den Mund, <said id="2" mode="reported" content="thought" level="1" nonfact="yes" border="yes" prag="yes">da <seg id="2" type="speaker">es</seg> sich ganz <seg id="2" type="intExpr">vergessen</seg> hatte</said> und laut sang. <said id="3" mode="reported" content="thought" level="1" border="yes"><seg id="3" type="speaker">Es</seg> <seg id="3" type="intExpr">verstand</seg> ihn endlich</said>, und sie standen still und lauschend, bis ihr tobendes Hochzeitgeleite das Feld entlanggerast war und, ohne sie zu vermissen, am Ufer des Stromes hinauf sich verzog. Die Geige, das Gelächter der Mädchen und die Jauchzer der Bursche tönten aber noch eine gute Zeit durch die Nacht, bis zuletzt alles verklang und still wurde. 
+                  <said id="4" mode="direct" content="speech" level="1">»Diesen sind wir entflohen«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> <seg id="4 6 8" type="speaker">Sali</seg>, </seg><said id="4" mode="direct" content="speech" level="1">»aber wie entfliehen wir uns selbst? Wie meiden wir uns?«</said> 
+                  <said id="5" mode="reported" content="speech" level="1" nonfact="yes"><seg id="5 7 10" type="speaker">Vrenchen</seg> war nicht imstande zu <seg id="5" type="intExpr">antworten</seg></said> und lag hochaufatmend an seinem Halse. <said id="6" mode="direct" content="speech" level="1">»Soll ich dich nicht lieber ins Dorf zurückbringen und Leute wecken, daß sie dich aufnehmen? Morgen kannst du ja dann deines Weges ziehen, und gewiß wird es dir wohl gehen, du kommst überall fort!«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Fortkommen, ohne dich!«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="9" type="speaker">Du</seg> mußt mich <seg id="9" type="intExpr">vergessen</seg>!</said>«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Das werde ich nie! Könntest denn du es tun?«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Darauf kommt's nicht an, mein Herz!«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">Sali</seg></seg> und streichelte <seg id="12" type="speaker">ihm</seg> die heißen Wangen, je nachdem es sie leidenschaftlich an seiner Brust herumwarf, <said id="11" mode="direct" content="speech" level="1">»es handelt sich jetzt nur um dich; du bist noch so ganz jung, und es kann dir noch auf allen Wegen gut gehen!«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Und dir nicht auch, du alter Mann?«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Komm!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">Sali</seg> und zog es fort.</seg> Aber sie gingen nur einige Schritte und standen wieder still, um sich bequemer zu umschlingen und zu herzen. Die Stille der Welt sang und musizierte 
+ihnen durch die Seelen, man hörte nur den Fluß unten sacht und lieblich rauschen im langsamen Ziehen. 
+                  <said id="15" mode="direct" content="speech" level="1">»Wie schön ist es da rings herum! Hörst <seg id="16 18" type="speaker">du</seg> nicht etwas tönen, wie ein schöner Gesang oder ein Geläute?«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Es ist das Wasser, das rauscht! Sonst ist alles still.«</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»Nein, es ist noch etwas anderes, hier, dort hinaus, überall tönt's!«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»<seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Ich</seg> <seg id="19" type="intExpr">glaube</seg>,</seg> <said id="19" mode="indirect" content="thought" level="2" border="yes">wir hören unser eigenes Blut in unsern Ohren rauschen!</said>«</said> 
+                  Sie horchten ein Weilchen auf diese eingebildeten oder wirklichen Töne, welche von der großen Stille herrührten oder welche sie mit den magischen Wirkungen des Mondlichtes verwechselten, welches nah und fern über die weißen Herbstnebel wallte, welche tief auf den Gründen lagen. <said id="20" mode="reported" content="thought" level="1">Plötzlich <seg id="20" type="intExpr">fiel</seg> <seg id="20" type="speaker">Vrenchen</seg> etwas <seg id="20" type="intExpr">ein</seg></said>; <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">es</seg> suchte in seinem Brustgewand und <seg id="21" type="intExpr">sagte</seg>:</seg> <said id="21" mode="direct" content="speech" level="1">»Ich habe dir noch ein Andenken gekauft, das ich dir geben wollte!«</said> Und es gab ihm den einfachen Ring und steckte ihm denselben selbst an den Finger. Sali nahm sein Ringlein auch hervor und steckte ihn an Vrenchens Hand, <seg id="22" type="frame" pos="start">indem <seg id="22" type="speaker">er</seg> <seg id="22" type="intExpr">sagte</seg>:</seg> <said id="22" mode="direct" content="speech" level="1">»<said id="24" mode="reported" content="thought" level="2">So haben <seg id="24" type="speaker">wir</seg> die gleichen <seg id="24" type="intExpr">Gedanken</seg> gehabt!</said>«</said> Vrenchen hielt seine Hand in das bleiche Silberlicht und betrachtete den Ring. <said id="23" mode="direct" content="speech" level="1">»Ei, wie ein feiner Ring!«</said> <seg id="23" type="frame" pos="mid"><seg id="23" type="intExpr">sagte</seg> <seg id="23" type="speaker">es</seg> lachend;</seg> <said id="23" mode="direct" content="speech" level="1">»nun sind wir aber doch verlobt und versprochen, du bist mein Mann und ich deine Frau, <said id="26" mode="reported" content="thought" level="2" nonfact="yes"><seg id="26" type="speaker">wir</seg> wollen es einmal einen Augenblick lang <seg id="26" type="intExpr">denken</seg></said>, nur bis jener Nebelstreif am Mond vorüber ist oder <said id="27" mode="reported" content="speech thought" level="2" nonfact="yes">bis <seg id="27" type="speaker">wir</seg> zwölf <seg id="27" type="intExpr">gezählt</seg> haben!</said> Küsse mich zwölfmal!«</said> 
+                  Sali liebte gewiß ebenso stark als Vrenchen, aber die Heiratsfrage war in ihm doch nicht so leidenschaftlich lebendig als ein bestimmtes Entweder – Oder, als ein unmittelbares Sein oder Nichtsein, wie in Vrenchen, welches nur das Eine zu fühlen fähig war und mit leidenschaftlicher Entschiedenheit unmittelbar Tod oder Leben darin sah.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Lady Makbeth des Mzensker Landkreises</title>
+             <author>Leskov, Semënovič Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Die_Lady_Makbeth_des_Mzensker_Landkreises.tg27_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Lady Makbeth des Mzensker Landkreises</f>
+         <f name="author">Leskov, Semënovič Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Unsere Sache steht jetzt wohl sehr schlecht.«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Warum sollte sie schlecht stehen, Sserjoscha?«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Weil die Erbschaft geteilt werden wird. Wie willst du wirtschaften, wenn dir kein Geld im Geschäfte bleibt?«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">Glaubst</seg> <seg id="5" type="speaker">du</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" nonfact="yes">daß es für dich nicht langen wird</said>, Sserjoscha?«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">spreche</seg> nicht von mir</said>, <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">glaube</seg> nur,</seg> <said id="8" mode="indirect" content="thought" level="2">daß wir beide jetzt nicht mehr so glücklich werden leben können.</said>«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2">Warum <seg id="10" type="intExpr">glaubst</seg> <seg id="10" type="speaker">du</seg> das</said>, Sserjoscha?«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Ich liebe Sie, Katerina Lwowna, und möchte Sie als wirkliche Dame sehen und nicht in der Lage, in der Sie vor Ihrer Heirat gelebt haben,«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">antwortete</seg> <seg id="11 6 3 1 20 13" type="speaker">Ssergej Philippowitsch</seg>.</seg> <said id="20" mode="direct" content="speech" level="1">»Nun wird aber das Kapital so sehr verringert, daß Sie noch ärmer sein werden, als Sie es als Mädchen waren.«</said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Brauche ich denn das viele Geld, Sserjoscha?«</said> 
+                     <said id="13" mode="direct" content="speech" level="1">»Es ist wohl möglich, Katerina Lwowna, daß Sie für das Geld gar kein Interesse haben. Ich achte Sie aber so sehr, daß es mir schmerzlich sein wird, zu sehen, wie die gemeinen und neidischen Menschen Sie anschauen werden. <said id="15" mode="reported" content="thought" level="2" nonfact="yes"><seg id="15" type="speaker">Sie</seg> können darüber natürlich <seg id="15" type="intExpr">urteilen</seg>, wie es Ihnen beliebt</said>, <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">ich</seg> bin aber der <seg id="16" type="intExpr">Ansicht</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2">daß ich dann unmöglich so glücklich sein kann, wie ich es bisher gewesen.</said>«</said> 
+                     <seg id="17" type="frame" pos="start">Und <seg id="17 19" type="speaker">er</seg> <seg id="17" type="intExpr">redete</seg> in einem fort,</seg> <said id="17" mode="indirect" content="speech" level="1">daß dieser Fedja Ljamin ihn zum unglücklichsten Menschen mache und daß er nicht mehr die Möglichkeit habe, sie, <seg id="2 4 9 12" type="speaker">Katerina Lwowna</seg>, vor den Augen der ganzen Kaufmannschaft zu erhöhen und zu ehren.</said> <said id="19" mode="indirect freeIndirect" content="speech" level="1">Wenn dieser Fedja nicht wäre, so bekäme Katerina Lwowna, nachdem sie vor Ablauf der neunmonatlichen Frist nach dem Verschwinden ihres Mannes ein Kind geboren haben würde, das ganze Kapital; dann würde ihr gemeinsames Glück ganz grenzenlos sein.</said> 
+                  
+               
+            
+            
+               
+                  
+                     X
+                     <said id="21" mode="reported" content="speech" level="1" nonfact="yes">Nach einiger Zeit hörte aber <seg id="21" type="speaker">Ssergej</seg> ganz auf, von der Erbschaft zu <seg id="21" type="intExpr">sprechen</seg>.</said> <said id="22" mode="reported" content="thought" level="1">Dafür nahm jetzt Fedja Ljamin alle <seg id="22" type="intExpr">Gedanken</seg> und Regungen <seg id="22" type="speaker">Katerina Lwownas</seg> gefangen.</said> Sie war nun immer nachdenklich und gegen Ssergej oft sogar unfreundlich. Ob <seg id="23" type="speaker">sie</seg> schläft, oder den Geschäften nachgeht,<said id="23" mode="reported" content="speech" level="1" border="yes"> oder <seg id="23" type="intExpr">betet</seg></said>, – <seg id="24" type="frame" pos="start">immer <seg id="24" type="intExpr">denkt</seg> <seg id="24" type="speaker">sie</seg> an das eine:</seg> <said id="24" mode="direct" content="thought" level="1">»Wie ist es nun? Warum muß ich seinetwegen das ganze Kapital verlieren? Ich habe so viel durchgemacht, habe eine solche Sünde auf mich genommen, und er kommt gefahren und nimmt mir ruhig alles ab ... Wenn er wenigstens ein erwachsener Mensch wäre, aber er ist nur ein kleines Kind ...«</said> 
+                     In diesem Jahre kamen die Fröste früh. Von Sinowij Borissowitsch war natürlich nichts zu hören. Katerina Lwowna nahm von Tag zu Tag an Leibesumfang zu und war immer nachdenklich.<seg id="25" type="frame" pos="start"> In der Stadt <seg id="25" type="intExpr">sprachen</seg> die <seg id="25" type="speaker">Leute</seg> nur noch von ihr:</seg> <said id="25" mode="direct" content="speech" level="1">die junge Ismajlowa ist doch immer kinderlos und mager gewesen, und nun ist sie plötzlich so aufgedunsen. Das ist doch seltsam!</said> Der junge Miterbe Fedja Ljamin ging aber indessen in einem leichten Halbpelz aus Eichhornfellen auf dem Hofe herum und brach mit den Absätzen das Eis in den Pfützen ein. 
+                     <said id="26" mode="direct" content="speech" level="1">»Du, Fjodor Ignatjewitsch!«</said> <seg id="26" type="frame" pos="end"><seg id="26" type="intExpr">schrie</seg> ihm manchmal die <seg id="26 27" type="speaker">Köchin Aksinja</seg> zu.</seg> <said id="27" mode="direct" content="speech" level="1">»Paßt es denn für dich, den Kaufmannssohn, in den Pfützen herumzustapfen?«</said> 
+                     Der Miterbe, der Katerina Lwowna und ihrem Geliebten solche Sorgen machte, sprang aber so vergnügt wie ein Böcklein den ganzen Tag herum; nachts schlief <seg id="28" type="speaker">er</seg> ruhig und sorglos unter der Obhut seiner Großtante und <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">dachte</seg> gar nicht daran,</seg> <said id="28" mode="indirect" content="thought" level="1" nonfact="yes">daß jemand ihm in den Weg treten und sein glückliches Dasein verdunkeln könnte.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

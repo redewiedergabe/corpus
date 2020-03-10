@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Heiteretei und ihr Widerspiel</title>
+             <author>Ludwig, Otto</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ludwig,_Otto_Die_Heiteretei_und_ihr_Widerspiel.tg64_1.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Die Heiteretei und ihr Widerspiel</f>
+         <f name="author">Ludwig, Otto</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Ihr seid ja das ander Pferd am selben Wagen mit ihm«.</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Kann sein,«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">lachte</seg> der <seg id="2" type="speaker">Bursche</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»daß das einmal ist gewest. Aber im Kalender heißt jeder Tag anders.«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Ja,«</said> <seg id="3" type="frame" pos="mid"><seg id="3" type="intExpr">sagte</seg> der <seg id="3 1 5" type="speaker">Schmied</seg>,</seg> <said id="3" mode="direct" content="speech" level="1">»Ihr habt jetzt was auf den Holders-Fritz. Er läßt Euch nicht mehr in sein Haus.«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Er läßt?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">tat</seg> der <seg id="4" type="speaker">Adams-Lieb</seg> höhnisch</seg>, aber höhnisch wie ein Mann. <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="indirect" content="speech" level="2">Ja, sie sind sauer</said><seg id="6" type="frame" pos="mid">, hat der <seg id="6" type="speaker">Fuchs</seg> <seg id="6" type="intExpr">gemeint</seg>,</seg> <said id="6" mode="indirect" content="speech" level="2">wie die Träubel zu hoch haben gehängt.</said> Es gibt mehr solche, wo die Leut' nicht hereinlassen, die von selber außenbleiben.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Seit der Geschicht in der Schwane,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">begann</seg> der <seg id="7 8" type="speaker">Schmied</seg> duchsig wieder.</seg> <said id="8" mode="direct" content="speech" level="1">»Aber so sind die Leut'. <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Sie</seg> <seg id="9" type="intExpr">sagen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2">er hätt' Euch 'raus geräumt.</said> Am End' ist's umgekehrt gewesen.«</said> 
+                  Der <seg id="10" type="speaker">Adams-Lieb</seg> spuckte wichtig aus. <said id="10" mode="direct" content="speech" level="1">»Ja, die Leut' hören immer läuten, aber nicht zusammenschlagen.«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Und <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">ich</seg> <seg id="12" type="intExpr">meint'</seg>,</seg>«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">versetzte</seg> der <seg id="11" type="speaker">Schmied</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»<said id="12" mode="indirect" content="thought" level="2">es müßt' ein tüchtig Zusammenschlagen gewesen sein.</said> Die Zimmerleut' sind tüchtige Glockenknöppel. Wer da seinen Kopf zur Glocken muß hergeben!«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Ich hab' ihn wollen abwehren,«</said> <seg id="13" type="frame" pos="mid"><seg id="13" type="intExpr">sagte</seg> der <seg id="13" type="speaker">Adams-Lieb</seg>; </seg><said id="13" mode="direct" content="speech" level="1">»da hat er auch über mich wollen kommen. Ich hab's ihm aber gewiesen. Das ist die ganze Sach'.«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="thought" level="2">Hab' <seg id="15" type="speaker">ich</seg>'s doch <seg id="15" type="intExpr">gedacht</seg>!</said>«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">meinte</seg> der <seg id="14 17" type="speaker">Schmied</seg>,</seg> indem eine unsichtbare Hand ihm einen Ruck gab, <seg id="16" type="frame" pos="start">daß <seg id="16" type="speaker">man</seg>, wär sein Gesicht nicht so ernst, <seg id="16" type="intExpr">glauben</seg> konnte,</seg> <said id="16" mode="indirect" content="thought" level="1">es komme von innerlichem Lachen.</said> <said id="17" mode="direct" content="speech" level="1">»Ja, die Leut'! <seg id="28" type="frame" pos="start">Da haben <seg id="28 29" type="speaker">sie</seg> <seg id="28" type="intExpr">gesagt</seg>,</seg> <said id="28" mode="indirect" content="speech" level="2">Ihr hättet an dem Fritz gehetzt</said>, und Ihr habt ihn doch wollen abhalten. <said id="29" mode="indirect freeIndirect" content="speech" level="2">Und der Fritz wäre so in der Rage gewesen, <seg id="30" type="frame" pos="start">daß <seg id="30" type="speaker">er</seg> hätt' <seg id="30" type="intExpr">gemeint</seg>,</seg> <said id="30" mode="indirect" content="speech" level="3">Ihr wärt auch Zimmerleut'</said>, und hätt' nicht geruht, bis er ganz allein im Saal wär gewest. Und da hätt' ihm das Alleinsein so gefallen, und er hätt's auch daheim eingeführt.</said>«</said> 
+                  <said id="31" mode="direct" content="speech" level="1">»Da seht Ihr's doch gleich,«</said> <seg id="31" type="frame" pos="end"><seg id="31" type="intExpr">sagte</seg> der <seg id="31 20" type="speaker">Adams-Lieb</seg> überlegen.</seg> <said id="20" mode="direct" content="speech" level="1">»Wenn's so wär gewest, <seg id="21" type="frame" pos="start">so will <seg id="21" type="speaker">ich</seg> einmal <seg id="21" type="intExpr">annehmen</seg>,</seg> <said id="21" mode="indirect" content="thought" level="2" border="yes">er tät' uns nicht hereinlassen.</said> Aber er läßt gar keinen Menschen herein. Ich hab's nicht probiert. Es ist schon lang keine Ehr' mehr gewest, mit dem zu gehn. <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">Ich</seg> hab' nur immer noch <seg id="22" type="intExpr">gedacht</seg>,</seg> <said id="22" mode="indirect" content="thought" level="2">ich wollt' ihn zurecht bringen.</said> Zuletzt hab' ich gesehn, es ist umsonst. Und jeder ist am End' sich selber der Nächst'. <said id="23" mode="reported" content="speech" level="2">Haben die <seg id="23" type="speaker">Leut'</seg> doch schon angefangen zu <seg id="23" type="intExpr">reden</seg></said>, als macht ich die Kügele und der Holders-Fritz tät sie nur verschießen.«</said> 
+                  <seg id="24" type="frame" pos="start">Der alte <seg id="24" type="speaker">Meister Schramm</seg> <seg id="24" type="intExpr">verwunderte</seg> sich,</seg> <said id="24" mode="indirect" content="thought" level="1"><said id="32" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="32" type="speaker">er</seg> von der Sache nur <seg id="32" type="intExpr">reden</seg> wollte.</said></said> <said id="25" mode="direct" content="speech" level="1">»Ja,«</said> <seg id="25" type="frame" pos="mid"><seg id="25" type="intExpr">zitterte</seg> <seg id="25" type="speaker">er</seg>,</seg> <said id="25" mode="direct" content="speech" level="1">»er läßt gar keinen zu sich, und wär' ich nicht sein Lehrmeister gewest – aber angekommen bin ich schlecht genug. <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Ich</seg> hab' <seg id="26" type="intExpr">gemeint</seg>,</seg><said id="26" mode="indirect" content="thought" level="2"> als sein alter Lehrmeister müßt' ich eine Vermahnung tun.</said> <seg id="27" type="frame" pos="start">Aber <seg id="27" type="speaker">er</seg> hat <seg id="27" type="intExpr">gemeint</seg>,</seg> <said id="27" mode="indirect" content="speech" level="2">eben weil's mir und den Leuten nicht recht wär', wollt er's noch wilder treiben, und wir sollten die Hand' über den Kopf zusammenschlagen, was er nun noch angeben wollt'.</said> Dabei hat er so mit dem Beil in die Reif hineingehauen, daß mir die Stücken um den Kopf geflogen sind, und ich hab' gemacht, daß ich noch mit gesunden Gliedern bin herausgekommen, eh' er über mich selber geraten ist.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

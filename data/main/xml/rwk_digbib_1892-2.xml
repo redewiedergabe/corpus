@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die zwölf Apostel</title>
+             <author>Marlitt, Eugenie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Marlitt,_Eugenie_Die_zwoelf_Apostel.tg121_1.xml</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die zwölf Apostel</f>
+         <f name="author">Marlitt, Eugenie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Magdalene sah erstaunt und erschreckt auf. <seg id="1" type="frame" pos="start">Aber <seg id="1 6" type="speaker">er</seg> <seg id="1" type="intExpr">fuhr fort</seg>:</seg> 
+                  <said id="1" mode="direct" content="speech" level="1">»<seg id="35" type="frame" pos="start">Vor einigen Stunden haben <seg id="35 36" type="speaker">Sie</seg> mir <seg id="35" type="intExpr">erklärt</seg>,</seg> <said id="35" mode="indirect" content="speech" level="2">daß Sie mich hassen ...</said> <seg id="3" type="frame" pos="start">jetzt <seg id="3" type="intExpr">bitte</seg> <seg id="3" type="speaker">ich</seg> Sie,</seg><said id="3" mode="indirect" content="speech" level="2"> mir hier <said id="36" mode="reported" content="speech" level="3" nonfact="yes">diese wenigen <seg id="36" type="intExpr">Worte</seg></said> zu wiederholen.</said>«</said> 
+                  
+                     
+<seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Magdalene</seg> entzog ihm hastig die Hand und <seg id="5" type="intExpr">stammelte</seg> kaum hörbar:</seg> <said id="5" mode="direct" content="speech" level="1">»Wozu das?«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»<said id="8" mode="reported" content="speech" level="2" nonfact="yes">Das will <seg id="8" type="speaker">ich</seg> Ihnen nachher <seg id="8" type="intExpr">erklären</seg></said> – <said id="9" mode="reported" content="speech" level="2" nonfact="yes"><seg id="9" type="intExpr">wiederholen</seg> <seg id="9" type="speaker">Sie</seg>!</said>«</said> 
+                  Das junge Mädchen lief in heftigster Bewegung tiefer in das Zimmer hinein. Sie kehrte Werner den Rücken zu und rang in stummer Angst die Hände. <seg id="7" type="frame" pos="start">Plötzlich drehte <seg id="7" type="speaker">sie</seg> sich um, drückte die verschränkten Hände vor die Augen und <seg id="7" type="intExpr">rief</seg> mit erstickter Stimme:</seg> 
+                  <said id="7" mode="direct" content="speech" level="1">»Ich – kann es nicht!«</said> 
+                  Da fühlte sie sich stürmisch von zwei Armen umschlungen. 
+                  <said id="44" mode="direct" content="speech" level="1">»Du kannst es nicht, und warum nicht? ... weil du mich liebst, Magdalene! Ja, du liebst mich!«</said> <seg id="44" type="frame" pos="end"><seg id="44" type="intExpr">rief</seg> <seg id="44 10" type="speaker">Werner</seg> jubelnd und löste ihr die Hände vom Gesicht.</seg> <said id="10" mode="direct" content="speech" level="1">»Laß mich deine Augen sehen! ... Ist das ein Gefühl, dessen du dich zu schämen hättest? ... Sieh' mich an, wie glücklich und stolz ich bin, <seg id="11" type="frame" pos="start">indem <seg id="11" type="speaker">ich</seg> dir <seg id="11" type="intExpr">sage</seg>:</seg> <said id="11" mode="direct" content="speech" level="2">ich liebe dich, <seg id="12" type="speaker">Magdalene</seg>!</said>«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Das ist unmöglich! ... Jene Eiseskälte, die mich zur Verzweiflung brachte –«</said> 
+                  <said id="37" mode="direct" content="speech" level="1">»War genau so gemeint, wie deine Schroffheit, die mich jedoch durchaus nicht verzweifeln ließ,«</said> <seg id="37" type="frame" pos="end"><seg id="37" type="intExpr">unterbrach</seg> sie <seg id="37 13" type="speaker">Werner</seg> lächelnd.</seg> <said id="13" mode="direct" content="speech" level="1">»Kind, mit deiner Verstellungskunst war es nicht weit her. <said id="14" mode="reported" content="speech" level="2">Was <seg id="14" type="speaker">deine</seg> Lippen mit herben, bitteren <seg id="14" type="intExpr">Worten</seg> gegen mich sündigten</said>, das sühnten deine Augen ... Ich habe dich geliebt seit jenem Augenblick, wo ich dich auf dem Turme sah. <said id="38" mode="reported" content="speech" level="2">Die <seg id="38" type="intExpr">Erzählungen</seg> des alten <seg id="38" type="speaker">Jakob</seg></said>, die ich herauslockte, <said id="16" mode="reported" content="thought" level="2" nonfact="yes" border="yes">ohne daß <seg id="16" type="speaker">er</seg> es <seg id="16" type="intExpr">merkte</seg></said>, enthüllten mir deine ganze innere Welt <seg id="39" type="frame" pos="start">und ließen <seg id="39" type="speaker">mich</seg> <seg id="39" type="intExpr">erkennen</seg>,</seg> <said id="39" mode="indirect" content="thought" level="2">daß es mir beschieden sei, einen kostbaren Schatz zu heben, an welchem Hunderte vorübergegangen waren, <said id="40" mode="reported" content="thought" level="3" nonfact="yes" border="yes">ohne <seg id="40" type="speaker">ihn</seg> zu <seg id="40" type="intExpr">bemerken</seg> ...</said></said> <seg id="19" type="frame" pos="start">Aber <seg id="19" type="speaker">ich</seg> <seg id="19" type="intExpr">wußte</seg> auch,</seg> <said id="19" mode="indirect" content="thought" level="2" border="yes">daß der Vogelsteller, der dies seltene Vöglein einfangen wollte, auf seiner Hut sein müsse, denn es war scheu und blickte mit mißtrauischen Augen in die Welt.</said> Deshalb hatte ich den Panzer einer kalten Ruhe angelegt und vermied jede heftige Bewegung, sowohl in dem, <said id="20" mode="reported" content="speech" level="2">was <seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">sagte</seg></said>, wie in meinen Zügen ... Ich habe dich unzähligemal beobachtet, <said id="21" mode="reported" content="thought" level="2" nonfact="yes" border="yes">während <seg id="21" type="speaker">du</seg> keine <seg id="21" type="intExpr">Ahnung</seg> von meiner Nähe hattest.</said> In der alten stillen Kirche, im Klostergarten, in Jakobs Stube, wo du meine Orangen verschmähtest, und auf dem Mauergärtchen, wenn du den Nachbarskindern Blumen hinabwarfst ... Willst du mein Weib sein, Magdalene?«</said> 
+                  <seg id="22" type="speaker">Sie</seg> richtete sich hoch, mit strahlenden Augen, in seinen Armen 
+auf und hielt ihm, <said id="22" mode="reported" content="speech" level="1" nonfact="yes">ohne ein Wort zu <seg id="22" type="intExpr">reden</seg></said>, beide Hände hin. Und so war der Bund zwischen zwei Menschen geschlossen, <seg id="23" type="frame" pos="start">von denen noch vor wenigen Augenblicken jeder fremde <seg id="23" type="speaker">Beobachter</seg> <seg id="23" type="intExpr">geglaubt</seg> haben würde,</seg> <said id="23" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß sie sich abstießen wie Eis und Feuer.</said> 
+                  <seg id="41" type="frame" pos="start"><seg id="41 25 34" type="speaker">Magdalene</seg> <seg id="41" type="intExpr">verbarg</seg> dem Geliebten nun nicht länger,</seg> <said id="41" mode="indirect" content="speech" level="1">wie tief sie in der letzten Zeit gelitten</said>,<said id="25" mode="reported" content="speech" level="1"> und <seg id="25" type="intExpr">erzählte</seg> ihm ihr unterirdisches Abenteuer, <said id="42" mode="reported" content="speech" level="2" nonfact="yes">wobei <seg id="43 42" type="speaker">sie</seg> auch nicht <said id="43" mode="reported" content="thought" level="3">einen <seg id="43" type="intExpr">Gedanken</seg></said> <seg id="42" type="intExpr">verschwieg</seg>, der ihr da drunten durch die Seele geflutet war.</said></said> 
+                  <said id="27" mode="direct" content="speech" level="1">»<seg id="28" type="frame" pos="start">Also den sagenhaften zwölf Aposteln habe <seg id="28" type="speaker">ich</seg>'s zu <seg id="28" type="intExpr">danken</seg>,</seg> <said id="28" mode="indirect" content="speech" level="2">daß ich schneller an mein glückliches Ziel kam, <said id="29" mode="reported" content="thought" level="3" nonfact="yes">als ich zu hoffen wagte!</said></said>«</said> <seg id="29" type="frame" pos="end"><seg id="29" type="intExpr">rief</seg> <seg id="29 27 30" type="speaker">Werner</seg> lachend.</seg> <said id="30" mode="direct" content="speech" level="1">»<seg id="31" type="frame" pos="start"><seg id="31" type="intExpr">Weißt</seg> <seg id="31" type="speaker">du</seg> auch noch,</seg> <said id="31" mode="indirect" content="thought" level="2" nonfact="yes"><said id="33" mode="reported" content="speech" level="3">was <seg id="33 32" type="speaker">ich</seg> dir <said id="32" mode="reported" content="speech" level="4">bei unserem ersten, so stürmisch endenden <seg id="32" type="intExpr">Gespräch</seg></said> <seg id="33" type="intExpr">wünschte</seg>?</said></said>«</said> 
+                  <said id="34" mode="direct" content="speech" level="1">»Gewiß – jener Apostel ...«</said> 
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
