@@ -1,5 +1,9 @@
 # Selected literature
 
+- Brunner (2015): Automatische Erkennung von Redewiedergabe: Ein Betrag zur quantitativen Narratologie, Berlin: de Gruyter.
+
+- Semino/Short (2004): Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing, London: Routledge.
+
 ## Annotation
 
 - Gius/Jacke (2017): The Hermeneutic Profit of Annotation: On Preventing and Fostering Disagreementin Literary Analysis. *International Journal of Humanities and Arts Computing* 11(2): 233-254.
@@ -7,8 +11,6 @@
 - Hovy/Lavid (2010): Towards a 'Science' of Corpus Annotation: A New Methodological Challenge for Corpus Linguistics. *International Journal of Translation* 22(1): 13-36.
 
 - Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe (2018): Annotation and beyond - Using ATHEN. *DHd-Conference* Cologne, Germany: 19-21.
-
-- Semino/Short: Corpus Stylistics: Speech, Writing and Thought Presentation in a Corpus of English Writing, London: Routledge 2004.
 
 ## Corpora
 
