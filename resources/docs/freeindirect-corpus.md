@@ -6,6 +6,6 @@ To prepare the documents, we used our automatic recognizer to annotate the texts
 
 ## Statistics
 
-**142** files, consisting of **2,647,924** tokens with	**2,136** instances.
+**142 files**, consisting of **2,647,924 tokens** with	**2,136 instances**.
 
 A list of all texts including author, title and year of publicationcan be found [here](/resources/docs/metadata_fi.xlsx).
