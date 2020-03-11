@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Paulla. Capriccio von Norbert Falck.</title>
+             <author>Falck, Norbert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1893_12_29.txt_3.xml</f>
+         <f name="year">1893</f>
+         <f name="decade">1890</f>
+         <f name="title">Paulla. Capriccio von Norbert Falck.</f>
+         <f name="author">Falck, Norbert</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+<said id="1" mode="direct" content="speech" level="1">Lache
+                        doch mit uns, freue Dich doch, wie wir! Gott
+                        schenkt den Juni aus, trinke doch, trinke, trinke!“</said>
+                        Und weil ich einmal heiterer Natur bin und
+                        mein Temperament so frischblütig ist und ich
+                        nicht lachen sehen kann, ohne gleich mitzulachen,
+                        ließ ich mich fortschwemmen von den tausend
+                        sonnenglitzernden Wellen und freute mich. So eine
+                        thränenlustige Freude überkam mich, so eine unnennbar süße Weltwehwonne, daß ich die Arme
+                        hätte ausbreiten mögen und die ganze, ganze
+                        Welt an mein heißes Herz drücken. Die ganze
+                        Welt?! Ich höre Euch lachen. Nicht wahr, wo
+                        nähme ich die Gigantenarme dazu her? Und
+                        dennoch hätte ich sie an mich pressen können, die
+                        ganze, weite Welt, an mich mit sehnendem, glücklichen Drucke, denn sie hatte sich mit allen ihren
+                        Wundern in einen Leib versteckt, ihre Rosen
+                        blühten in einem süßen Munde, ihre Sonnen
+                        und Sterne leuchteten aus zwei dunklen Augen.
+                        Die Liebe, die Liebe lag in mir mit allen süßen
+                        Schauern der Sehnsucht, mit all der verhaltenen
+                        Trauer der Entsagung, mit aller bebenden Verzweiflung des unfreiwilligen Verzichtes. Und dennoch freute <seg id="2" type="speaker">ich</seg> mich, dennoch war mir tänzerisch,
+                        weil ein Rosenwölkchen Hoffnung mir muthig eine
+                        Zukunft log.
+               <said id="2" mode="freeIndirect" content="thought" level="1">O süße Lüge!</said> —
+                         
+               In Träumen, die nach Norden zogen, wandelte ich durch den Volksgarten. Jede Gesellschaft
+                        hätte mir wehe gethan, denn unter tausend Menschen einsam sein, darin liegt ein frohes Leid,
+                        von einem herben Dufte und ich fühlte mich so
+                        ferne, ferne, wie ganz außerhalb der Welt, <seg id="3" type="frame" pos="start">bis
+                        mich die helle <seg id="3" type="intExpr">Stimme</seg> eines kleinen <seg id="3" type="speaker">Blumenmädchens</seg> aus den Träumen riß:</seg> <said id="3" mode="direct" content="speech" level="1">„Schöne Rosen,
+                        angenehm? Bitte, schöne Rosen!“</said>
+                         
+               Auf einem weißen Teller hielt mir das kleine
+                        Mädchen eine Auswahl von wunderschönen Rosen
+                        entgegen, aber <seg id="4" type="speaker">ich</seg> schüttelte den Kopf und wehrte
+                        ab. <said id="4" mode="direct" content="thought" level="1">Wozu sollten mir Rosen? Rosen kauft man
+                        doch nur, um sie zu verschenken, wem sollte ich
+                        meine Rose schenken? Ich habe doch Niemand!
+                        Der ich sie geben würde, ach, die ist fern. Nein,
+                        meine Kleine, ich brauche keine Rosen, geh zu
+                        Andern, Glücklicheren!</said>
+                         
+               Aber das Mädchen sah mich so bittend an
+                        und die Rosen waren so einzig schön und <seg id="6" type="speaker">ich</seg>
+                        kaufte die zwei schönsten, frischesten, duftendsten.
+                        Aber sie sahen mich so verwundert an, so kühl
+                        und platonisch, <seg id="5" type="frame" pos="start">als wollten <seg id="5" type="speaker">sie</seg> <seg id="5" type="intExpr">sagen</seg>:</seg> <said id="5" mode="direct" content="speech" level="1" nonfact="yes" metaph="yes">„Wie kommen wir zu Dir? Wir, duftende Lieb e sgaben,
+                        wir waren für die junge Brust eines schönen
+                        Mädchens gebrochen, aber nicht für den schwarzen
+                        Rock eines verbitterten Verschmähten, für das
+                        melancholische Knopfloch eines Ungeliebten!“</said>
+                         
+               <said id="6" mode="freeIndirect" content="thought" level="1">Ach, wie süß dufteten die rothen Rosen!</said> —
+                         
+               <seg id="7" type="speaker">Ich</seg> sog Erinnerung aus ihnen, einen Traum
+                        von zwei märchentiefen Augen, von einer kosenden
+                        Stimme und von braunen Haaren. <said id="7" mode="freeIndirect" content="thought" level="1">Ach, ist das
+                        die goldene Jugend, die vielgepriesene, die sich in
+                        so tiefen Schmerzen zerquält, die ein fortgesetztes
+                        Leid ist? O, wie weh thust Du mir, Du schöne
+                        Jugend! Wie beneide ich Dich, Du alter, grauer
+                        Bettler, der Du im zerrissenen Gewande um
+                        milde Gaben flehst! Wie gerne gäbe ich Dir
+                        meine Kraft und Jugend, mein frisches,
+                        rothes Blut und meine sehenden Augen, wenn
+                        Du mir Deine Ruhe geben könntest, Deinen
+                        leisen Schmerz und Dein bald vollendetes Leben!</said>
+                         
+               Es war eine traurige <seg id="8" type="speaker">Gestalt</seg>, die an der
+                        Gittermauer des Gartens lehnte und <said id="8" mode="reported" content="speech" level="1">um Almosen <seg id="8" type="intExpr">bat</seg>.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

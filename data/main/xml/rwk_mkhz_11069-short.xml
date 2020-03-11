@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Schiffsuntergang. Arbeiterbewegung. Kleine Rundschau.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">CAZ_1910_11_04.txt_8.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">Schiffsuntergang. Arbeiterbewegung. Kleine Rundschau.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.czernowitzer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Schiffsuntergang.
+                        
+               
+               
+                  KB. 
+                  
+                     Aberdeen, 3. November. date
+                  (Tel. der „Cz. Allg. Ztg.“)
+                        
+                  <seg id="1" type="frame" pos="start">Der <seg id="1" type="speaker">Kapitän</seg> des hier eingetroffenen Fischereidampfers
+                        „Präsident Herwig“ <seg id="1" type="intExpr">meldet</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">er sei vorgestern auf der Höhe
+                        von Fair Isle mit dem Fischereidampfer „Augsburg“
+                         zusammengestoßen; dieser sei untergegangen.</said> Sechs
+                        Mannder Besatzung ertranken, die restlichen dreizehn
+                        wurden in Aberdeen gelandet.
+               
+               
+                  KB. 
+                  
+                     London, 3. November. date
+                  (Tel. der „Cz. Allg. Ztg.“)
+                        
+                  <seg id="2" type="frame" pos="start">Einer <seg id="2" type="speaker">Lloydsmeldung</seg> <seg id="2" type="intExpr">zufolge</seg></seg> <said id="2" mode="indirect" content="writing" level="1" metaph="yes">ist die „Augsburg“ mit
+                        voller Ladung 300 Meilen von Irland gesunken.</said> Kapitän
+                        Maat, der zweite Ingenieur und vier Matrosen wurden
+                        gerettet, sechs Matrosen sind ertrunken.
+               
+            
+            
+            
+               
+                  Arbeiterbewegung.
+                        
+               
+               
+                  New-York, 2. November. date
+               Der Streik der Gepäckträger
+                        greift immer weiter um sich. <said id="3" mode="reported" content="speech writing" level="1">Alle <seg id="3" type="speaker">Lastwagen- und Droschkenkutscher</seg> haben um Anschluß <seg id="3" type="intExpr">ersucht</seg>.</said> Am schlimmsten leiden die
+                        Bankiers unter dem Ausstande, weil die Bargeldsendungen
+                        ausschließlich durch die Expreßgesellschaften besorgt werden.
+                        Die Tätigkeit dieser Expreßgesellschaften hat aber in der ganzen
+                        Stadt vollständig aufgehört. Die Erbitterung wächst auf beiden
+                        Seiten, die Zusammenstöße werden immer zahlreicher.
+            
+            
+            
+               
+                  Kleine Rundschau.
+                        
+               
+               
+                  KB. 
+                  
+                     München, 3. November. date
+                  (Tel. der „Cz. Allg. Ztg.“)
+                        
+                  Die bayrische meteorologische Zentralstation nimmt gegenwärtig
+                        mit der Zugspitze Versuche zur Einrichtung der drahtlosen
+                        Telegraphie vor.
+               
+               
+                  
+                     Rom, 2. November. date
+                  <seg id="4" type="frame" pos="start">In italienischen <seg id="4" type="speaker">Blättern</seg> wird
+                        die wenig glaubwürdige <seg id="4" type="intExpr">Nachricht</seg> verbreitet,</seg> <said id="4" mode="indirect" content="writing" level="1"><seg id="5" type="frame" pos="start">daß die <seg id="5" type="speaker">Gräfin
+                        Tarnowska</seg> die <seg id="5" type="intExpr">Absicht</seg> <seg id="5" type="intExpr">geäußert</seg> habe,</seg> <said id="5" mode="indirect" content="speech" level="2">sofort nach ihrer Freilassung aus dem Gefängnisse ihren Geliebten, Dr. Naumov
+                        zu heiraten.</said></said> Die Gräfin ist bekanntlich im Mai d. J. wegen
+                        Ermordung ihres Gatten, des Grafen Komarowski, zu acht
+                        Jahren und 4 Monaten Gefängnis verurteilt worden und
+                        verbüßt gegenwärtig diese Strafe.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>(Zur Bürgermeisterwahl.)(Personales.)(Auszeichnung.)(Ausdem Stadtverordneten-Collegium.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1892_10_24.txt_7.xml</f>
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">(Zur Bürgermeisterwahl.)(Personales.)(Auszeichnung.)(Ausdem Stadtverordneten-Collegium.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Locales und Provinzielles.
+                        
+            
+            
+               Olmütz, 24. October.
+                         date
+            
+               
+                  (Zur Bürgermeisterwahl.)
+               
+               Wenn unsere
+                        neugewählte Stadtvertretung im nächsten Monate
+                        sich anschicken wird, die Würde des Bürgermeisters
+                        unserer Stadt neuerdings Herrn v. Engel zu
+                        übertragen, werden nahezu 20 Jahre verflossen
+                        sein, <said id="1" mode="reported" content="speech" level="1">seitdem Herr Josef v. Engel zum ersten
+                        Male zu diesem Amte <seg id="1" type="intExpr">berufen</seg> wurde.</said> Am 16.
+                        November 1872 nach dem Tode Dr. Carl
+                        Schrötters wurde er zum Bürgermeister gewählt.
+                        Das Vertrauen der Bevölkerung zu ihm war es,
+                        welches seine Wahl von den Stadtverordneten
+                        forderte, von denen einzelne nicht mit vollem
+                        Herzen dem freisinnigen Manne ihre Stimmen
+                        gaben, <seg id="2" type="frame" pos="start">von dem <seg id="2" type="speaker">sie</seg> <seg id="2" type="intExpr">wußten</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">daß er ein Mann
+                        des Fortschritts sei.</said> Unverändert ist seither das
+                        Vertrauen der Bevölkerung ihm zur Seite gestanden, die Liebe der Stadtbewohner zu ihrem
+                        Oberhaupte hat sich vermehrt und erhöht, und
+                        die Stadtverordneten sind eines Sinnes mit der
+                        Bevölkerung und dem Bürgermeister. Diese schöne
+                        segensreiche Eintracht wird nuumehr ihren vollen
+                        Ausdruck in der demnächst bevorstehenden einhelligen Wiederwahl Josef v . Engels zum Bürgermeister unserer Stadt finden.
+            
+            
+               
+                  (Personales.)
+               
+               Herr Stadrath August
+                        Kornauth ist seit einigen Tagen ans Krankenbett gefessel t. Hoffentlich wird derselbe seinem
+                        Berufe bald wieder nachkommen können.
+            
+            
+               
+                  (Auszeichnung.)
+               
+               Der Kaiser hat dem Briefträger Johann Doschla in Brünn anläßlich
+                        der Versetzung desselben in den bleibenden Ruhestand in Anerkennung seiner vieljährigen treuen
+                        und belobten Dienstleistung das silverne Verdienstkreuz verliehen.
+            
+            
+               
+                  (Aus dem Stadtverordneten-Collegium.)
+                        
+               
+               Die Tagesordnung der heutigen Sitzung des Stadtverordneten Collegiums ist folgende: Bewerbungsgesuche um ein ausgeschriebenes Josef Wallendasches Stipendium für einen schulbesuchenden Knaben.
+                        — Gesuch eines Schuldieners um Gehaltsvorschuß. — <said id="3" mode="reported" content="speech" level="1" nonfact="yes"><seg id="3" type="intExpr">Bericht</seg> der <seg id="3" type="speaker">2. Section</seg> über das Gesuch
+                        der Frau Kath. Nikolai um unentgeltliche Zulassung ihrer Tochter zum französischen Sprachunterrichte an der Mädchen-Bürgerschule.</said> — <said id="4" mode="reported" content="speech" level="1" nonfact="yes"><seg id="4" type="intExpr">Bericht</seg> der <seg id="4" type="speaker">2. Section</seg> über das Gesuch mehrerer
+                        durch Brandschaden getroffener Bewohner von
+                        Lodenitz um Unterstützung.</said> — <said id="5" mode="reported" content="speech" level="1" nonfact="yes"><seg id="5" type="intExpr">Bericht</seg> der
+                        <seg id="5" type="speaker">2. Section</seg> über das Gesuch der Kunstwärterswitwe Frau Josefa Strnadl um eine Unterstützung mit Brennholz.</said> — Vorlage des <said id="6" mode="reported" content="writing" level="1">mit
+                        <seg id="6" type="speaker">Herrn Franz Lerch</seg> ausgenommenen <seg id="6" type="intExpr">Protocolles</seg>
+                        über die Durchführung des städt. Ankündigungswesens im Pachtwege.</said> — Gesuch der Badhausbesitzerin Frau Theresia Rösner um Ermäßigung
+                        des Preises für den Wasserbezug. — Gesuch
+                        eines städt. R e vierförsters um Vorrückung in die
+                        höhere Gehaltsstufe. — Vorlage des Gemeindevoranschlages für das Jahr 1893 nach verstrichener
+                        Auflegungsfrist. — <said id="7" mode="reported" content="speech" level="1" nonfact="yes"><seg id="7" type="intExpr">Bericht</seg> der <seg id="7" type="speaker">2. Section</seg> über
+                        den Ankauf eines Mikroskopes zu bacteriologischen Untersuchungen.</said>
+               
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1885_08_31.txt_7.xml</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+   
+    
+     
+     <said id="1" mode="direct" content="speech" level="1"> „Was mich einigermaßen aus der Fassung brachte“</said><seg id="1" type="frame" pos="mid">, so <seg id="1" type="intExpr">fuhr</seg> <seg id="1" type="speaker">Frau Wolter</seg> <seg id="1" type="intExpr">fort</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">„war der Umstand, daß der
+       unsichtbare König am Schlusse des Actes kein Zeichen des Beifalles gab.
+      Allein man bequemt sich, so rasch selbst den ungewohntesten Eindrücken an, daß
+       ich ihm für sein Stillschweigen Dank wußte. <said id="2" mode="reported" content="speech" level="2"><seg id="2" type="speaker">Man</seg> hat über die Manie des Königs, ausschließlich
+       für seine Person Schauspiele aufführen zu lassen, viel <seg id="2" type="intExpr">gespöttelt</seg></said>, <seg id="3" type="frame" pos="start">aber <seg id="3" type="speaker">ich</seg> muß <seg id="3" type="intExpr">gestehen</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2"><said id="4" mode="reported" content="thought" level="3">daß
+       <seg id="4" type="speaker">ich</seg> sie vollkommen <seg id="4" type="intExpr">begreife</seg>.</said></said>
+      Der König hält in dieser Weise Alles fern, was den Künstler und den Zuhörer
+       stören kann.
+      <said id="5" mode="reported" content="speech" level="2">Es gibt da keine laut gesprochenen kritisirenden <seg id="5" type="intExpr">Bemerkungen</seg></said>, kein Rücken der
+       Sitze, kein Geräusch der Fächer, nichts, als das dramatische Werk, die Darsteller desselben
+       und den einzigen Zuschauer, den wir so sehr in die Welt der Illusion versetzen, <said id="6" mode="reported" content="thought" level="2">daß <seg id="6" type="speaker">er</seg> die
+       wahre Pompadour zu sehen <seg id="6" type="intExpr">glaubt</seg></said>, <said id="7" mode="reported" content="thought" level="2">daß <seg id="7" type="speaker">er</seg> die Dichtung <seg id="7" type="intExpr">für</seg> Wahrheit <seg id="7" type="intExpr">hält</seg>.</said>
+      <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">sage</seg> nicht,</seg> <said id="8" mode="indirect" content="speech" level="2" nonfact="yes">daß es mir angenehm wäre, immer unter solchen Umständen zu
+       spielen</said>, allein es ist mir lieb, daß ich auch diese Probe durchmachte, denn ich wurde durch
+       einen neuen Eindruck meiner Kunst bereichert.
+</said>     
+     
+      <said id="9" mode="direct" content="speech" level="1"><seg id="10" type="frame" pos="start">Als gegen 4 Uhr Morgens der letzte Act zu Ende und der Vorhang gefallen war,
+       <seg id="10" type="intExpr">befahl</seg> <seg id="10" type="speaker">man</seg> uns,</seg> <said id="10" mode="indirect" content="speech" level="2">bewegungslos auf der Bühne zu bleiben, damit der König nicht gestört
+       werde.</said>
+      Er pflegt nämlich noch einige Zeit lang in der Loge bleiben und <said id="11" mode="reported" content="thought" level="2">über das, was
+       <seg id="11" type="speaker">er</seg> gesehen, <seg id="11" type="intExpr">nachzusinnen</seg></said>, wie ein Mensch, dem es Mühe kostet, wieder in die Wirklichkeit
+       zurückzukehren. Endlich belehrte uns ein Glockenzeichen, daß Se. Majestät das Theater
+       verlassen habe und daß wir frei seien.
+      Bald darauf erhielt ich den Besuch des alten Kammerherrn, der mir von Seite des
+       Königs ein ungeheures Bouquet überbrachte und <said id="12" mode="reported" content="speech" level="2">dabei alle Titel Sr. erhabenen und huldreichen
+       Majestät, angefangen vom „König von Baiern“ bis zum bescheidenen „Landgrafen von Bayreuth“</said> —
+       es waren wohl an zwanzig —<said id="12" mode="reported" content="speech" level="2"> mit nachdrücklicher Betonung <seg id="12" type="intExpr">herzählte</seg>.</said>
+      Zugleich überreichte er mir einen Schmuckgegenstand.
+      <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">bat</seg> den Kammerherrn,</seg> <said id="13" mode="indirect" content="speech" level="2">daß er den Ausdruck meiner Dankbarkeit Sr. Majestät
+       überbringen möge</said>, <seg id="14" type="frame" pos="start">allein <seg id="14" type="speaker">er</seg> <seg id="14" type="intExpr">antwortete</seg>,</seg> <said id="14" mode="indirect" content="speech" level="2">es sei üblich, <said id="15" mode="reported" content="writing" level="3">daß die <seg id="15" type="speaker">Künstler</seg> dem Könige
+       <seg id="15" type="intExpr">schriftlich danken</seg> müssen.</said></said>
+      <seg id="16 17" type="speaker">Ich</seg> war zum Umfallen müde und<seg id="16" type="frame" pos="start"> <seg id="16" type="intExpr">entgegnete</seg> daher,</seg> <said id="16" mode="indirect" content="speech" level="2">daß ich am nächsten Morgen die
+       Ehre haben würde, <said id="17" mode="reported" content="writing" level="3">Sr. Majestät zu schreiben.</said></said>
+     <seg id="18" type="frame" pos="start"> Darauf <seg id="18" type="intExpr">erwiderte</seg> der alte <seg id="18" type="intExpr">Herr</seg>,</seg> <said id="18" mode="indirect" content="speech" level="2">m a n dürfte den König
+       nicht warten lassen, Se. Majestät erwarte das Dankschreiben zur festgesetzten Stunde;
+       übrigens werde <seg id="19 18" type="speaker">er</seg> die Ehre haben, <said id="19" mode="reported" content="speech" level="3">mir den Brief in der durch das Hofceremoniel
+       vorgeschriebenen Form zu <seg id="19" type="intExpr">dictiren</seg>.</said></said> Ich fügte mich und um 5 Uhr Morgens konnte ich endlich in
+       meine Wohnung zurückkehren.
+      Ich habe den König weder vor, noch während, noch nach der Vorstelung gesehen;
+       er kreuzte meine künstlerische Laufbahn, wie ein unsichtbarer Schatten.
+     <seg id="20" type="frame" pos="start"> Selbst in diesem Augenblicke <seg id="20" type="intExpr">frage</seg> <seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">mich</seg> noch,</seg> <said id="20" mode="indirect" content="thought" level="2">ob das Alles auch wahr sei
+       und <said id="21" mode="reported" content="speech" level="3">ob <seg id="21" type="speaker">ich</seg> Ihnen nicht einen Traum <seg id="21" type="intExpr">erzähle</seg>.</said></said>“ 
+     
+     
+     
+      <said id="22" mode="reported" content="speech" level="2">So weit die <seg id="22" type="speaker">Erzählung</seg> der <seg id="22" type="intExpr">Frau Wolter</seg>.</said> <said id="23" mode="direct" content="speech" level="2">„Und wie verhält es sich
+       denn“</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">fragte</seg> <seg id="23" type="speaker">ich</seg> hierauf</seg> <said id="23" mode="direct" content="speech" level="2">„mit der berühmten Million, die der König Ihnen geschickt haben
+       soll?“</said> <seg id="24" type="frame" pos="start">Die große <seg id="24" type="speaker">Künstlerin</seg> <seg id="24" type="intExpr">antwortete</seg> lächelnd, </seg><said id="24" mode="indirect" content="speech" level="2">sie habe außer dem erwähnten
+       Schmuckgegenstand nur eine unbedeutende Summe erhalten; sie sei übrigens zufrieden, denn sie
+       habe nicht wegen des Geldes, sondern wegen der Ehre gespielt.</said></said>
+     
+    
+   
+  </p>
+      </body>
+   </text>
+</TEI>

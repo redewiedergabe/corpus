@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt33_1868_5.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="8" mode="reported" content="thought" level="1">Und so arm, als <seg id="8" type="speaker">man</seg> gewöhnlich <seg id="8" type="intExpr">meint</seg></said>, ist meine Heimath auch
+                        nicht, Vorpommern nun schon lange nicht, <said id="2" mode="reported" content="thought" level="1" nonfact="yes">auch wenn <seg id="2" type="speaker">ich</seg> dabei nicht
+                        an Rügen <seg id="2" type="intExpr">denken</seg> will</said>, an dieses köstliche Eiland, das neben dem
+                        Reichthum, den seine fischreichen Seen und das Meer ihm zuwenden,
+                        üppige Getreidefelder und herrliche Buchenwälder zur Zierde hat.
+                        Freilich, in Hinterpommern sieht's strichweise traurig genug aus. Da
+                        fährt man meilenweit durch Fichtenhaiden und Sandwüsten, oder durch
+                        viele nur mit Haidekraut bewachsene Steppen, in denen ringsum kein
+                        Dorf, kein Haus sichtbar wird. Dort, am Ostseestrand, strecken sich
+                        die unfruchtbaren Dünen hin, auf denen nur spärlicher Strandhafer
+                        wächst, der zu nichts nütze ist, als daß er den Sandwegen einige
+                        Festigkeit verleiht, so daß sie nicht gleich bei jedem heftigen Wind hin
+                        und her geweht werden. Das ist freilich traurig und öde; aber man
+                        würde dem Lande Unrecht thun, <seg id="3" type="frame" pos="start">wenn <seg id="3" type="speaker">man</seg> <seg id="3" type="intExpr">meinen</seg> wollte,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes">es sei
+                        überall so traurig bestellt, wie in manchen Strandgegenden.</said> Jm
+                        Binnenland giebt es Kreise, die sich des schönsten Lehmbodens und
+                        eines ergiebigen Ackerlandes erfreuen. Dahin gehört die Gegend bei
+                        Stargard und vor allen die um Pyritz, <said id="4" mode="reported" content="speech" level="1">die <seg id="4" type="speaker">man</seg> gewöhnlich mit dem
+                        Namen „Weizacker“ <seg id="4" type="intExpr">bezeichnet</seg></said>, und nicht mit Unrecht. Hier herrscht
+                        viel Wohlhabenheit und oft Reichthum in den Städten und besonders auf dem Lande, und der Weizacker Bauer spielt eine recht
+                        stattliche Figur unter den deutschen Bauern und darf sich unter ihnen
+                        schon sehen lassen in seiner reichen, kleidsamen Tracht, seinem langen,
+                        mit mehreren dichten Reihen silberner Knöpfe besetzten Ueberrock,
+                        seiner rothen, eben so reich garnirten, hier Bostdook ( Brusttuch ) genannten Weste. Erst recht aber können sich die hübschen, frischen,
+                        vollen Weizacker Mädchen und Frauen in ihrer gefälligen Tracht mit
+                        den vielen buntgestreiften, nur bis an die Wade reichenden wollenen
+                        Röcken, den bunten Zwickelstrümpfen, ihren Schuhen mit spitzen Absätzen und großen silbernen Schnallen den Bauertöchtern aus anderen
+                        Gauen unsers Vaterlandes dreist an die Seite stellen, sie werden von
+                        ihnen nicht beschämt werden. Wenn so ein Weizacker Bauer mit
+                        seinen jungen, wohlgepflegten Pferden zur Stadt fährt, wenn die
+                        munteren, selbstgezogenen Rosse vor dem nicht allzu schwer beladenen
+                        Wagen einhertanzen, nur ungern dem Zügel gehorchend und niemals
+                        durch einen Schlag der Peitsche angespornt, wenn sein munteres
+                        Weibchen, ein Bild der Gesundheit und des Frohsinns, ihm zur Seite
+                        sitzt und der kleine Sproß des glücklichen Ehepaars in derselben Tracht
+                        wie der Vater stolzirend, auf dem blondhaarigen Kopf die rothe Pudelmütze mit silberner Quaste, keck in die Welt schaut und mit neugierigen Augen Alles um sich her betrachtet, dann möchte ich den sehen,
+                        der sich glücklicher fühlen könnte, als dieser pommersche Bauer, und
+                        ich möchte wohl hören, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">ob der <seg id="6" type="speaker">Märker</seg> oder der <seg id="6" type="speaker">Schlesier</seg>, wenn er
+                        die Züge von solchen Bauerwagen mit ihrem Weizen zur Stadt fahren
+                        sieht, meine Heimath noch arm und verkommen <seg id="6" type="intExpr">schelten</seg> wird.</said> Solcher
+                        Gegenden giebt's aber mehrere im lieben Pommernland, und dabei
+                        fehlt es demselben auch nicht an Naturschönheiten, an Landschaften,
+                        die wohl dem Pinsel eines Malers zum Vorwurf dienen können.
+            <said id="9" mode="reported" content="thought" level="1"><seg id="9" type="speaker">Jch</seg> <seg id="9" type="intExpr">denke</seg> dabei nicht allein an Rügen mit seinen pittoresken
+                        Kreidefelsen auf Stubbenkammer, seinen prächtigen Buchenwäldern
+                        und seinen herrlichen Buchten und Seen, nicht nur an die malerischen
+                        Oderufer, die namentlich unterhalb Stettins den Fluß auf seiner
+                        linken Seite als eine beträchtliche, hier und da mit Laubwerk gezierte
+                        Hügelkette begleiten</said>; ich kenne auch noch andere, mit herrlichen Wäldern, saftreichen Wiesen und mit Bächen und Flüssen gesegnete
+                        Strecken in Pommern, die ganze Meilen tiefen, öden Sandes in der
+                        Mark und selbst in Sachsen an Fruchtbarkeit und an Schönheit weit
+                        hinter sich lassen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kammermusikabend. Repertoir des Stadttheaters. Konzertanzeiger.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">CAZ_1911_10_24.txt_10.xml</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Kammermusikabend. Repertoir des Stadttheaters. Konzertanzeiger.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.czernowitzer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Theater, Kunst und Literatur.
+                        
+               
+            
+            Czernowitz, 23. Oktober.
+                        
+            
+               
+                  Kammermusikabend.
+               
+               Der Verein zur Förderung der
+                        Tonkunst trat am Freitag zum ersten Male in dieser Saison mit einer Produktion vor die Oeffentlichkeit. Das
+                        Programm des Kammermusikabends bestritten Frau
+                        Eigermann und Herr Sandru neben den heimischen Kammermusikern, Direktor-Stellvertreter Schlüter, Professor Krämer, Dr. Wachtel, Direktor
+                        Horner, Mr. Storfer und Herrn Stefanowicz. Haydn’s Streichquartet B-dur Nr. 49 bildete eine
+                        liebenswürdige, gut gespielte und dankbar aufgenommene
+                        Einleitung. Die genannten Herren vereinigten sich noch
+                        dann in der Wiedergabe des wunderbaren Sextettes von
+                        Dvorzak, dessen leidenschaftlichem Temperament und
+                        ganzer Innigkeit gerecht zu werden, sie sich bemühten. Der
+                        Liederkomponist des Abends war Camillo Horn, kein Unbekanter mehr. Diesen Werkchen ist vornehme Art, Sinn
+                        für Polyphonie zu eigen, nebst dem ersichtlichen Bestreben, ältere Liedkunst mit moderner Harmonik zu schmücken. Die hübschen Sachen verraten im Allgemeinen mehr
+                        konstruktives Denken als Intuition. Daher die beste Wirkung in deklamierenden Liedern, wie „Das Meiselein“,
+                        das aber auch sonst hübsche Erfindung zeigt. Frau Eigermann, die schon lange nicht mehr vor das Publikum getreten ist, nahm sich der Horn’schen Lieder mit ihrer ganzen Kunst an. Sie glänzte ebenso stimmlich im innigen
+                        „Wiegenlied“, wie deklamatorisch in der wagnerisierenden
+                        „Thusnelda“. Herrn Sandru, den wir zum ersten Male
+                        hörten, ist eine wohlklingende und geschulte, manchmal
+                        wie von einem dunkleren Hauch umschattete Tenorstimme
+                        zu eigen. Beide Solisten, Sängerin und Sänger, fanden
+                        beim zahlreichen <seg id="1" type="speaker">Publikum</seg> glänzenden Applaus als Zeichen, <said id="1" mode="reported" content="thought" level="1">daß man sie auch fernerhin öfter am Podium zu
+                        hören <seg id="1" type="intExpr">wünscht</seg>.</said>
+            
+            
+            
+               
+                  Repertoir des Stadttheaters.
+                        
+               
+               
+                  Dienstag, 24. Oktober: „Die große Gemeinde, Lustspiel
+                        in 3 Aufzügen von Leop. Lippschütz und Rudolf Lothar.
+                         
+                  Mittwoch, 25. Oktober: „Sommerspuck“, ein fröhliches
+                        Spiel in vier Akten von Karl Küchler.
+                         
+                  Donnerstag, 26. Oktober: „Zigeunerliebe“, Romantische
+                        Operette in 3 Akten von A. M. Willner und Robert
+                        Bodanzky. Musik von Franz Lehar.
+                         
+               
+            
+            
+            
+               
+                  Konzertanzeiger.
+                        
+               
+               
+                  Kartenvorverkauf Konzertdirektion B. Klein, Rathausstraße Nr. 17.
+                         
+                  27. Oktober: Lieder- und Arienabend des Kammersängers
+                        Karl Jörn.
+                        
+                   
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1888_12_31.txt_5.xml</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+               In der Volksschule zu St. Ulrich wird deshalb seit Jahren schon fast ausschließlich deutsch
+                        unterrichtet; der italienischen Sprache werden nur
+                        2—3 Stunden wöchentlich gewidmet. In den
+                        Volksschulen zu Pufels, Christina und Wolkenstein empfangen die Kinder den Unterricht ebenfalls fast nur in deutscher Sprache. Der Religionsunterricht jedoch wird allen Kindern auch
+                        den deutschen, nur in grödnerischer Mundart oder
+                        in italienischer Sprache ertheilt, nicht von den
+                        Lehrern, die Freunde der deutschen Sache sind,
+                        sondern von den Geistlichen, <said id="1" mode="indirect" content="writing" level="1">die</said><seg id="1" type="frame" pos="mid">, wie der „Grz.
+                        Tagespost“ geschrieben wird,</seg><said id="1" mode="indirect" content="writing" level="1"> der Verbreitung
+                        deutscher Sprache und Sitte im Grödner Thale
+                        hindernd im Wege stehen.</said> Trotzdem hat der
+                        Clerus auch in der Kirche den Deutschen manche
+                        Zugeständnisse machen müssen: <said id="2" mode="reported" content="speech" level="1">in dem Hauptorte
+                        St. Ulrich wird jetzt monatlich einmal deutscher
+                        <seg id="2" type="intExpr">Gottesdienst</seg> <seg id="2" type="intExpr">abgehalten</seg></said>; <said id="3" mode="reported" content="speech" level="1">in Christina und Wolkenstein <seg id="3" type="intExpr">predigt</seg> der <seg id="3" type="speaker">Pfarrer</seg> wenigstens an den
+                        hohen Festen einmal in deutscher Sprache.</said> Mit
+                        der Zeit wird sich die deutsche Sprache, in Folge
+                        der fast ganz deutschen Schulen, immer weiter im
+                        Grödner Thale ausbreiten und das alte Idiom,
+                        das trotz der vielfachen Versuche und Bemühungen des nunmehr verstorbenen Curators Vian zu
+                        einer Schriftsprache nicht erhoben werden konnte,
+                        immer weiter zurückdrängen, bis nach einigen
+                        Menschenaltern die Grödner Mundart abgestorben sein wird.
+               Auch in dem von Ostladinern bewohnten
+                        Enneberger Thale nimmt in neuerer Zeit die
+                        Kenntniß der deutschen Sprache immer mehr zu;
+                        das Deutsche wird in den Schulen zum Theile
+                        recht eifrig betrieben, <said id="4" mode="reported" content="speech" level="1">seit der Deutsche <seg id="4" type="speaker">Schulverein</seg>
+                        ein Unterstützung <seg id="4" type="intExpr">zugesagt</seg> und gegeben hat.</said> Die
+                        Geistlichkeit jedoch will auch in diesem Thale
+                        nichts von der deutschen Sprache wissen und
+                        sucht das Italienische in Kirche und Schule zu begünstigen. Aber auch hier werden die Verhältnisse, welche engen Anschluß an das deutsche
+                        Sprachgebiet im Pusterthale erheischen, stärker
+                        sein als der Wille des Clerus. <seg id="5" type="frame" pos="start">So darf <seg id="5" type="speaker">man</seg>
+                        gewiß die nicht unbegründete <seg id="5" type="intExpr">Hoffnung</seg> hegen,</seg>
+                       <said id="5" mode="indirect" content="thought" level="1" nonfact="yes"> daß den Deutschen im südlichen Tirol für die
+                        starken Verinste in früheren Jahrhunderten in
+                        den nächsten Jahrzehnten ein nicht unansehnlicher
+                        Ersatz zu Theil werden wird.</said>
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

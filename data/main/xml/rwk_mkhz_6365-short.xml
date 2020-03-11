@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die „Holtenschue“ und „Klotzen“ in Schleswig</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt32_1868_7.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Die „Holtenschue“ und „Klotzen“ in Schleswig</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german none</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Lose Blätter.
+                        
+            
+            
+            
+               M. D ie „Holtenschue“ und „Klotzen“ in Schleswig. Jedem Fremden müssen die im Herzogthum Schleswig und selbst bis nach Holstein verbreiteten Holzschuhe auffallen, die der gemeine Mann, alle Dienstboten,
+                        und sehr häufig auch die Kinder in Städten und Dörfern tragen. Diese
+                        Fußbekleidung mag zweckmäßig sein, weil sie wohlfeil ist und den Fuß
+                        trocken hält; sie ist aber unästhetisch, giebt dem Fuß etwas überaus
+                        Plumpes und ruinirt somit alle Schönheit des Ganges. Menschen, die
+                        immer diese plumpen „Holtenschue“ an den Füßen herumschleppen, bekommen zuletzt einen so wackligen Gang, daß sie sich mehr fortwälzen als
+                        gehen. Und damit diese abscheuliche Fußbekleidung länger halte, wird in
+                        der Mitte der Sohle noch ein fingerdicker Querbalken angebracht, so daß
+                        der Schuh selbst gleichsam auf einer zweiten Sohle ruht.
+            Eine Abart der „Holtenschue“ sind die „Klotzen“, Pantoffeln von Holz
+                        mit sehr hohen Absätzen; diese haben etwas mehr Form, da nur die Sohle
+                        von Holz, die eigentliche Fußbedeckung aber von Leder ist. Es klappert aber
+                        in Nordschleswig, und zumal im Sundewitt, Jedermann darin herum.
+                        Daß die Leute beim Treppensteigen nicht Hals und Beine in diesen
+                        „Klotzen“ brechen, ist zu bewundern. „Klotzen“ tragen übrigens auch die
+                        reichsten Leute. Es soll für den Flensburger Großhändler nach beendetem
+                        Geschäft kein größeres Vergnügen geben, als mit „Klotzen“ an den Füßen
+                        in seinem Garten herumzuwandeln und sich von den ebenfalls „beklotzten“
+                        Töchtern Thee und Belegtes aufwarten zu lassen.
+            
+               M. S ternschnuppen. <said id="2" mode="direct" content="writing" level="1">Nach der rohen Volksphysik</said> <seg id="2" type="frame" pos="mid">-- <seg id="2" type="intExpr">sagt</seg> <seg id="2" type="speaker">Humboldt</seg> in
+                        seinem „Kosmos“ --</seg> <said id="2" mode="direct" content="writing" level="1">schneuzen und putzen sich die Himmelslichter, und das
+                        sind die Sternschnuppen.</said> Jn der Waldgegend von Orinocco, an den einsamen Ufern des Cassiquiare, <said id="3" mode="reported" content="speech" level="1" border="yes">werden die Sternschnuppen von den <seg id="3" type="speaker">Eingeborenen</seg> noch trivialer, „Harn der Sterne“, und der Thau, welcher perlartig die schönen Blätter der Helikonien bedeckt, „Speichel der Sterne“ <seg id="3" type="intExpr">genannt</seg>.</said> Edler und erfreulicher offenbart sich dagegen die symbolisirende
+                        Einbildungskraft in dem litthauischen Mythus: Die Spinnerin, werpega,
+                         beginnt den Schicksalsfaden des neugeborenen Kindes am Himmel zu spinnen, und jeder dieser Fäden endet in einem Stern. Naht nun der Tod
+                        dem Menschen, so zerreißt sein Faden und der Stern fällt erbleichend zur
+                        Erde nieder.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

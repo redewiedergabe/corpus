@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1887_02_07.txt_11.xml</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Telegramme
+                        
+            
+            
+               
+                  Wien, 7. Februar. date
+               (Orig.-Tel. d. „Mähr.
+                        Tagbl.“)
+               Wie wir erfahren, <said id="11" mode="reported" content="thought" level="1">ist die Verlängerung
+                        des Ausgleichs auf ein Jahr als ziemlich gewiß
+                        <seg id="11" type="intExpr">anzusehen</seg>.</said> <said id="13" mode="reported" content="speech" level="1">Die <seg id="13" type="intExpr">Verhandlungen</seg> der beiden <seg id="13" type="speaker">Ministerien</seg></said> haben trotz des oftmaligen Zusammentretens noch nicht die geringste Basis gewonnen
+                        und nachdem die Mandatsdauer des ungarischen
+                        Abgeordnetenhauses schon im Monate Mai l. J.
+                        abläuft und die Durchberathung nahezu unmöglich ist, muß man zu dem Provisorium greifen.
+            
+            
+               
+                  Wien, 7. Februar date
+               (Orig.-Tel. d. „Mähr.
+                        Tagbl.“)
+               Die Dachsteinpappe-Fabrik von Pozmansky und Streulitz in Laa wurde ein Raub
+                        der Flammen.
+            
+            
+               
+                  Wien, 7. Februar date
+               (Orig.-Tel. d. „Mähr.
+                        Tagbl.“)
+               Hofschauspieler Meixner war anläßlich seiner Schauspieler-Jubiläumsfeier der Gegenstand schmeichelhafter Ovationen. Zahlreiche
+                        Beglückwünschungs-Telegramme sind eingelangt.
+                        General-Intendant Baron Bezeczny überreichte
+                        Meixner den ihm vom Kaiser verliehenen
+                        Franz-Josef-Orden.
+            
+            
+               
+                  Brünn, 7. Februar. date
+               (Orig.-Telg. des „M.
+                        Tagbl.“)
+               Die Candidatur Serenys an Stelle
+                        Schroms wurde fallen gelassen. Als Candidaten
+                        sind die tschechischen Landtagsabgeordneten Stanzel
+                        und Roskošny in Aussicht genommen.
+            
+            
+               
+                  Prag, 7. Februar date
+               (Ortg-Tel. d. „Mähr.
+                        Tagbl.“)
+               <seg id="2" type="frame" pos="start">Der <seg id="2" type="speaker">Handelsminister</seg> <seg id="2" type="intExpr">erklärte</seg> auf <said id="14" mode="reported" content="speech" level="1">eine
+                        private <seg id="14" type="intExpr">Interpellation</seg> <seg id="14" type="speaker">Trojans</seg> betreffs der verspäteten Offertausschreibung der böhm.-mähr.
+                        Transversalbahn</said>,</seg> <said id="2" mode="indirect" content="speech" level="1">daß diese deshalb so spät erfolge, weil der böhm. Statthalter Baron Kraus
+                        noch nicht das Verzeichniß und den Bericht vorgelegt,
+                        daß jene Beitrags l eistungen, zu welchen sich die
+                        tschechischen Städte und Ortschaften verpflichtet
+                        haben, thatsächlich erlegt worden seien.</said>
+            
+            
+               
+                  Prag, 7. Februar. date
+               (Orig-Telegr. des
+                        „Mähr. Tagbl.“)
+               Sämmtliche Clubs der Rechten
+                        werden bei dem Krankenversicherungsgesetz Amendements im autonomistischen Sinne stellen.
+            
+            
+               
+                  Brüssel, 7. Februar. date
+               (Origl.-Telg. d. „M.
+                        Tagbl.“)
+               Die königliche Botschaft, welche morgen
+                        erfolgt, wird 80 Millionen zu Rüstungszwecken
+                        verlangen.
+            
+            
+               
+                  Madrid, 7. Februar. date
+               (Origl-Tegr. des
+                        „Mähr. Tagbl.“)
+             <seg id="4" type="frame" pos="start">  Die <seg id="4" type="speaker">Regierung</seg> <seg id="4" type="intExpr">erklärte</seg> der
+                        Deputirten-Kammer</seg><said id="4" mode="indirect" content="speech" level="1"> aus der Tabakfrage (Verpachtung der Tabakregie) eine Cabinetsfrage zu
+                        machen.</said> Der Antrag der Regierung wurde mit
+                        128 gegen 62 Stimmen angenommen.
+            
+            
+               
+                  Rom, 7. Februar. date
+               (Orig.-Teleg. d. „M.
+                        Tagbl.“)
+              <seg id="5" type="frame" pos="start"> Ein <seg id="5" type="intExpr">Bericht</seg> des <seg id="5" type="speaker">Schiffscommandanten</seg>
+                        in Massauah vom 22. Jänner an den Marineminister <seg id="5" type="intExpr">besagt</seg>, </seg><said id="5" mode="indirect" content="writing" level="1"><seg id="6" type="frame" pos="start"><seg id="6 8" type="speaker">Ras Alula</seg> ließ den Oberbefehlshaber der italienischen Streitkräfte <seg id="6" type="intExpr">auffordern</seg>,</seg> <said id="6" mode="indirect" content="speech" level="2">die
+                        vorgeschobenen Forts zu räumen und sich auf die
+                        alleinige Occupation von Massauah zu beschränken.</said> </said><seg id="7" type="frame" pos="start"><seg id="7" type="speaker">General Gené</seg> <seg id="7" type="intExpr">erwiderte</seg>, </seg><said id="7" mode="indirect" content="speech" level="1">er könne <said id="8" mode="reported" content="speech" level="2">diese <seg id="8" type="intExpr">Aufforderung</seg></said> nicht annehmen, die genannten Forts
+                        dienen zum Schutze der Karawanen und er sei
+                        bereit, <said id="12" mode="reported" content="speech" level="2">die <seg id="12" type="intExpr">Drohungen</seg> der <seg id="12" type="speaker">Abyssinier</seg></said> zurückzuweisen.</said>
+            
+            
+               
+                  Rom, 7. Februar. date
+               (Orig.-Telg. des „M.
+                        Tagbl.“)
+               <said id="9" mode="reported" content="writing" level="1">Die oppositionellen <seg id="9" type="speaker">Journale</seg> <seg id="9" type="intExpr">sprechen</seg>
+                        beharrlich von der Demission Robilants, Tajanis
+                        und Ricottis.</said> — Der „Popolo Romano“ glaubt
+                        nicht an die Möglichkeit einer Krise in diesem
+                        Momente.
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

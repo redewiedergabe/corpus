@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1898_02_21.txt_5.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Das Theater
+                        ist ein hübsches Gebäude, aber die Vorstellungen
+                        mehr als mittelmäßig, und es wäre manchmal
+                        wünschenswerth und vortheilhaft, wenn auch der
+                        einzige Zuschuß, den die Stadt gewährt, die
+                        Beleuchtung nämlich, unterbliebe. Concerte werden — wie auch in Genf — schier übergenug
+                        veranstaltet, aber leider verirrt sich nur selten
+                        eine unserer Berühmtheiten hierher,<said id="1" mode="reported" content="thought" level="1"> obwohl <seg id="1" type="speaker">sie</seg>
+                        auf ein dankbares Publicum und reichen Zuspruch
+                        <seg id="1" type="intExpr">rechnen</seg> dürfte.</said> Die Gesellschaftskreise sind streng
+                        geschieden und die Fremden darum meist darauf
+                        angewiesen, sich ihren eigenen Landsleuten anzuschließen. Die Deutschen haben ihren Verein, in
+                        dem sie sich zwanglos zusammensinden, die
+                        Engländer bilden in dem etwas tiefer am See
+                        gelegenen Ouchy eine Colonie für sich, und die
+                        Russen, Männlein und Weiblein, die in größerer
+                        Anzahl hier studieren, halten ebenso getreulich
+                        zusammen. Die größte Rolle spielen die Studenten, was in einer Stadt, die so ungezählte Pensionen mit so ungezählten Mädchen hat, die sich
+                        nicht allein zu Damen ausbilden, sondern auch
+                        flirten und tanzen wollen, wohl kein Wunder ist.
+                        Eine Studentenverbindung, die „Société de
+                        belles-lettres“ veranstaltet alljährlich vor Weihnachten eine Theateranfführung, in der nach
+                        classischer Sitte auch die weiblichen Rollen von
+                        Herren dargestellt werden, und zwar so vorzüglich, <seg id="2" type="frame" pos="start">daß <seg id="2" type="speaker">man</seg> fast <seg id="2" type="intExpr">vergessen</seg> kann,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß es Herren Damen sind, die mit so viel Geschick und Grazie
+                        die überreich gespendeten Blumen und Kränze in
+                        Empfang nehmen.</said> Die Anerkennung, die diese
+                        Liebesmühe in klingender Münze einbringt, wird
+                        größtentheils für wohlthätige Zwecke verwendet.
+                        Im großen Ganzen aber machen die hiesigen
+                        Studenten nicht den kecken, frischen Eindruck, wie
+                        in den deutschen Universitätsstädten die studierende
+                        Jugend. Von der sogenannten akademischen
+                        Schneidigkeit läßt sich nicht viel entdecken, auch
+                        dann nicht, wenn die „flotten Burschen“ in festlichem Wichs erscheinen.
+               Das zu beobachten, hatte man erst kürzlich, am
+                        24. Jänner, die beste Gelegenheit. An diesem Tage
+                        nämlich feierte Lausanne und mit ihm zugleich der
+                        Canton Waadt den 100jährigen Gedenktag an
+                        die Befreiung von den Bernern. <said id="3" mode="reported" content="speech" level="1">Schon wochenlang vorher war beinahe von nichts anderem
+                        die <seg id="3" type="intExpr">Rede</seg></said>, <said id="9" mode="reported" content="speech" level="1">und auch jetzt noch bildet dieses
+                        Ereigniß einen Theil des <seg id="9" type="intExpr">Tagesgesprächs</seg>.</said> Das
+                        Festprogramm ließ denn auch an Reichhaltigkeit
+                        nichts zu wünschen übrig. Kanonendonner eröffnete den Tag und schon Früh um 8 Uhr
+                        wurde in Gegenwart der versammelten Schuljugend und einer Menge Volks der Freiheitsbaum
+                        gepflanzt. In allen Kirchen, und auch in der
+                        großen Kathedrale, die sonst das ganze Jahr
+                        über geschlossen ist, <said id="6" mode="reported" content="speech" level="1">fanden Gottesdienst und <seg id="6" type="intExpr">Festpredigt</seg> statt.</said> An einem wirklich hübsch arrangirten Festzuge, der Gelegenheit gab, die malerischen alten Schweizertrachten zu bewundern,
+                        betheiligten sich auch die Studenten, sowie alle
+                        Vereine und Gewerkschaften. Das Endziel des
+                        Zuges war die große freie Place Beaulion, <said id="7" mode="reported" content="speech" level="1">wo
+                        dann die schwungvollsten <seg id="7" type="intExpr">Reden</seg> gehalten</said> und
+                        <said id="8" mode="reported" content="speech" level="1" border="yes">zum Schluß unter allgemeiner Begeisterung die
+                        Nationalhymne <seg id="8" type="intExpr">abgesungen</seg> wurde.</said> Eine besondere Weihe erhielt das Fest dadurch, daß der
+                        derzeitige Bundespräsident der Schweiz, selbst
+                        ein Waadtländer, eigens von Bern nach Lausanne gekommen war, um die Feier mitzubegehen.
+                        Die Stadt hatte ein hochzeitliches Gewand angethan: Kränze, Festons und Fahnen, wohin
+                        das Auge nur blickte. Besonders bot die alte
+                        Stadt ein entzückendes Bild, in deren schmalen
+                        Gassen die Guirlanden und die Fahnen so dicht
+                        hingen, daß man wie unter einem Baldachin
+                        dahinschritt.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
