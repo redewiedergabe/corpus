@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_augsburg68_1871.txt_15.xml</f>
+         <f name="year">1871</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.augsburg</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Emil Behrend, Verwaltungsrathsmitglied der Vereinsbank in Wien. Unmittelbar nach der Generalversammlung constituirte sich der
+                        Aufsichtsrath und wählte Hrn. Commercienrath Wilhelm Herz zum Vorsitzenden
+                        und zu dessen Stellvertreter die HH. Bankier Julius Nelke und Major Arthur
+                        v. Mayer. Bis zur Einsetzung einer definitiven Direction wurde außerdem vom
+                        Aufsichterath ein interimistischer Vorstand aus seiner Mitte bestimmt, und zu dessen
+                        Mitgliedern die HH. Commercienrath Liebermann, Bankiers Schiff und Krause
+                        designirt. Auch machte der Aufsichterath noch von seiner Befugniß durch eigene
+                        Cooptation seine Mitgliederzahl bis auf 16 zu erhöhen insoweit Gebrauch, <said id="2" mode="reported" content="speech" level="1" border="yes">als <seg id="2" type="speaker">er</seg>
+                        die HH. Rechtsanwalt beim Obertribunal und Reichstagsabgeordneten Dr. Braun
+                        hierselbst und Coloman Reisch in Wien zu Aufsichtsrathsmitgliedern <seg id="2" type="intExpr">eraannte</seg>.</said> <said id="3" mode="reported" content="speech writing" level="1">Die
+                        Eintragung der Bank beim Handelsgericht ist bereits <seg id="15" type="intExpr">beantragt</seg></said>, und wird alsbald
+                        darauf auch die Wirksamkeit des Jnstituts beginnen. 
+                
+            
+            
+               
+                  * Erfurt, 4 März. Productenmarkt. Die abgelaufene Woche brachte
+                        uns milde, schöne Witterung. Wenn sich am heutigen Getreidemarkte größere
+                        Lebhaftigkeit nicht entwickeln konnte, so hat dieß wohl seinen Grund in den wieder
+                        nur mäßigen Zufuhren und den in Folge dessen erhöhten Forderungen seitens der
+                        Verkäufer. Weizen machte sich in feiner Waare knapp, weßhalb selbst für geringere
+                        Qualitäten höhere Preise bewilligt wurden. Roggen blieb gefragt; Gerste preishaltend; Hafer in fester Haltung. Weizen per Scheffel 84--86 Pfund 72--80 Thlr.
+                        per Wispel. Roggen pr. Sch. 82--83 Pfd. 60--63 Thlr. pr. W. Gerste pr. Sch.
+                        70--74 Pfd. 43--47 Thlr. pr. W., gute Brauwaare 70--74 Pfd. 48--53 Thlr.
+                        pr. W. Hafer pr. Sch. 47--49 Pfd. 29--30 Thlr. pr. W. Erbsen 100 Pfd.
+                        2 3 / 4 --3 5 / 6 Thlr. pr. W.
+            
+            
+               <seg id="15" type="frame" pos="start">Der „N. Bad. Landes=Ztg.“ wird aus Straßburg <seg id="15" type="intExpr">geschrieben</seg>:</seg><said id="15" mode="direct" content="writing" level="1"> Die gesammten Handelsverhältnisse Straßburgs haben nichts weniger als günstige
+                        Aussichten</said>; <said id="16" mode="reported" content="writing" level="1">so läßt sich im „Niederrh. Kurier“ ein <seg id="16" type="speaker">Geschäftsmann</seg> über die Bankverhältnisse Straßburgs <seg id="16" type="intExpr">vernehmen</seg>.</said> Wir ersehen aus diesem Artikel daß die hiesige Filiale der Bank von Frankreich von jeher Handel, Jndustrie und Ackerban
+                        wesentlich unterstützte, sich aber seit der Belagerung lediglich darauf beschränkte die
+                        von Kaufleuten, Jndustriellen und Landwirthen in Händen habenden Wechsel im
+                        Betrag von 12--15 Mill. Fr. in ihr Portefeuille zu legen, da die Zahlungsfristen von Termin zu Termin verlängert wurden. <said id="10" mode="direct" content="writing" level="1">„Verläßt nun die Bank,“</said>
+                        <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">heißt</seg> <seg id="10" type="intExpr">es</seg> <seg id="10" type="intExpr">weiter</seg>,</seg> <said id="10" mode="direct" content="writing" level="1">„Straßburg, so handelt es sich um Rückzahlung dieser 12 bis
+                        15 Millionen, und die Art und Weise wie solches geschehen könnte bildet seit
+                        Monaten eine der wichtigsten Erwägungen hiesiger Bankhäuser, durch deren Vermittelung die Fonds in die verschiedenen Unternehmungen flossen. Daß die
+                        Schuldner unter dem Drucke der gegenwärtigen Verhältnisse augenblicklich außer
+                        Stande sind zurückzuzahlen, <said id="11" mode="reported" content="speech writing" level="2" nonfact="yes">bedarf wohl keiner weiteren <seg id="11" type="intExpr">Erklärung</seg>.</said>“</said>
+                         
+            
+            
+               Jn Frankreich tauchen bereits die finanziellen Scandalgeschichten
+                         aus der Kriegsepoche auf, und bis man nur ein wenig ruhiger wird geworden
+                        sein, wird gewiß auch von der Nationalversammlung eine Untersuchung eingeleitet
+                        werden. <seg id="13" type="frame" pos="start">So z. B. wird aus Lyon <seg id="13" type="intExpr">erzählt</seg></seg> <said id="13" mode="indirect" content="speech" level="1">daß <seg id="14" type="speaker">man</seg> zur Zeit als die Jnvasion
+                        bevorstand, <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">fürchtete</seg></seg> <said id="14" mode="indirect" content="thought" level="2">man werde nicht genug Kohlen zur Gaserzeugung erhalten</said></said>;
+                        es wurde deßhalb die Beleuchtung mit Oel vorbereitet und auf eine enorme Quantität Oel zu einem den Marktpreis um ein Drittel überragenden Betrag ein Abschluß gemacht, zugleich wurden so viele Dochte angekauft daß man wohl 20 Jahre
+                        damit auskommen könnte.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

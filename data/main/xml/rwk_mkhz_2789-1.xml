@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_2.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+M. d. R.
+                        
+            Die Finanzlage eines Landes spiegelt sich im Kurs seiner Anleihen,
+                        wenn es staatliches Papiergeld ausgibt oder eine unterwertige Metallwährung
+                        hat, im Kurs seiner Valuta wider. Da jeder Krieg Werte zerstört, Arbeit
+                        teils lahmlegt, teils von der Erzeugung produktiver auf die unproduktiver
+                        Artikel ablenkt, hat er die Wirkung, die Finanzlage der ihn führenden Länder
+                        je nach Dauer und Verlauf zu verschlechtern. <seg id="1" type="frame" pos="start">Es <seg id="1" type="intExpr">erscheint</seg> zeitgemäß,</seg> <said id="1" mode="indirect" content="thought" level="1">dies
+                        an einigen Beispielen aus der Geschichte des 19. Jahrhunderts zu illustrieren.</said>
+            Nehmen wir zunächst <seg id="2" type="speaker">Oesterreich</seg> in der Zeit der nachmärzlichen Reaktion, wo seine politische Lage eine ähnliche war, wie heute die Rußlands.
+            Am 31. Dezember 1858, am Vorabend des italienischen Krieges, ward
+                        an der Berliner Börse der Wiener Wechselkurs mit97 1 / 2 Prozent, der Kurs
+                        der fünfprozentigen Oesterreichischen Nationalanleihe mit84 1 / 2 Prozent, der
+                        einer andern fünfprozentigen Anleihe, der sogenannten Metalliques, mit
+                        84 Prozent notiert. Keine sechs Monate später, am 8. Juni 1859,
+                        als die Niederlage bei Magenta feststand, waren die betreffenden Preise auf
+                        67 1 / 2 Prozent,46 1 / 2 Prozent,41 1 / 2 Prozent gesunken. Gegen den Kurs von
+                        Ende Dezember eine Einbuße der Valuta um 30,77 Prozent, der Nationalanleihe um 44,97 Prozent, der Metalliques um 50,59 Prozent im Wert!
+                         
+            <said id="2" mode="reported" content="speech writing" level="1">Der <seg id="2" type="intExpr">Friedensschluß</seg> nach der Niederlage von Solferino</said> brachte nur eine
+                        schwache Erholung von diesem Sturz. Die österreichischen Finanzen waren zerrüttet und blieben es auf lange. Am 31. Mai 1866, dem Vorabend des
+                        preußisch=österreichischen Krieges, notierte die österreichische Valuta 80 Prozent,
+                        die Nationalanleihe 48 Prozent, die Metalliques 42 Prozent, um am 4. Juli
+                        des gleichen Jahres, am Tage nach der Schlacht bei Königgrätz, 73 Prozent,
+                        44 1 / 2 Prozent und 40 Prozent zu stehen. Und nur der Umstand, daß die entscheidenden Schläge so schnell fielen, verhinderte ein noch weiteres Sinken.
+                        Aber auch nach dem Friedensschluß und <said id="3" mode="reported" content="speech" level="1">der in seinem <seg id="3" type="speaker">Gefolge</seg> einsetzenden
+                        <seg id="3" type="intExpr">Berufung</seg> eines bürgerlich liberalen Ministeriums</said>, dauerte es noch Jahrzehnte und bedurfte es u. a. einer Konversion der Staatsanleihen, bis die
+                        österreichischen Finanzen einigermaßen auf einen grünen Zweig kamen.
+            <seg id="4" type="speaker">Frankreich</seg> ist ein ungleich reicheres Staatswesen als Oesterreich, seine
+                        Staatspapiere sind seit langem auf Grund des Rentenprinzips konsolidiert
+                        und haben bei der sparsamen Bevölkerung des Landes einen sehr willigen
+                        und aufnahmefähigen inneren Markt. Gradmesser des Staatskredits ist
+                        hier der Kurs der dreiprozentigen Rente. Sie notierte am 31. Dezember 1869
+                        an der Pariser Börse 72,85 Prozent, am 8. Juli 1870, zwei Tage vor
+                        <said id="4" mode="reported" content="speech writing" level="1">der <seg id="4" type="intExpr">Kriegserklärung</seg> an Deutschland</said>, 70,50 Prozent. Am 20. August 1870
+                        aber, zwei Tage nach der Schlacht bei Gravelotte, war der Kurs auf 63 Prozent,
+                        und am 6. September, vier Tage nach der Schlacht bei Sedan und zwei
+                        Tage nach dem Sturz des Kaiserreichs, 51,75 Proz. gefallen. Auf diesem Niveau
+                        stand er noch Ende Februar 1871, bei Beginn <said id="5" mode="reported" content="speech" level="1">der <seg id="5" type="intExpr">Friedensverhandlungen</seg> in
+                        Versailles</said>, und kaum höher, nämlich 52,95 Prozent, notierte zur gleichen Zeit
+                        die inzwischen aufgenommene fünfprozentige Kriegsanleihe. Das reiche
+                        Frankreich mußte seine Kriegsschuld faktisch mit zehn Prozent verzinsen, und
+                        seine Rente war um 29 Prozent im Wert gefallen!
+                         
+            Noch reicher wie Frankreich ist England, noch größer sein Staatskredit.
+                        Seine konsolidierte Staatsschuld, die2 3 / 4 Prozent tragenden unkündbaren
+                        Konsols, waren in den neunziger Jahren des abgelaufenen Jahrhunderts auf
+                        einen Kurs von 114 Prozent gestiegen, so daß der Staat beim Erwerb der
+                        für den jährlichen Rückkauf angesetzten Posten Konsols gewaltig zusetzte und
+                        <seg id="6" type="frame" pos="start">der damalige <seg id="6" type="speaker">Finanzminister Goschen</seg> eines Tages sich zu der <seg id="6" type="intExpr">Erklärung</seg> veranlaßt sah,</seg> <said id="6" mode="indirect" content="speech" level="1">es werde notwendig werden, den Rückkauf solange zu sistieren, bis
+                        die Konversion des Zinssatzes der Konsols auf2 1 / 2 Prozent vollzogen sei.</said>
+                        Der Burenkrieg kam indes dieser Eventualität zuvor und sorgte für einen
+                        gründlichen Preissturz der Konsols.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

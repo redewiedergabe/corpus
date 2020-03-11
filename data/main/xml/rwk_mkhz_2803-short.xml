@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0113_1905_13.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            *
+                        
+            Es war mit dem geregelten Respektsgefühl eines Kulturvolkes, das sich
+                        allem Großen und Bedeutenden gegenüber zu verhalten und zu enthusiasmieren
+                        weiß, sich in seinem sicheren Verhalten und geleiteten Jnstinkten selbst beschmeichelnd, daß man sich in Paris die Joachimkonzerte anhörte. Man geht
+                        hier nicht gerne zu Altären, man zieht ihnen das joyeuse Leben vor. Die
+                        Musik ist eine Molligkeit, in deren umplätschernde Wärmen man sich zu
+                        illusionären Trunkenheiten auflöst. Joachim=Beethoven hat diese Leichtigkeit nicht. Er stellt eine Aufgabe von genußreicher Schwere. Und alles, was
+                        der Franzose sonst an der Musik liebt, dem sie eben das vornehmste „Spiel“
+                        ist, das hat dieses Spiel nicht, das so himmelhoch über allen Spielen steht: das
+                        Blendende, Blitzende, Blinkende, das Süße und Süßelnde, <said id="1" mode="reported" content="speech" level="1">das, was <seg id="1" type="speaker">er</seg> mit
+                        Temp é rament und Mouvement so gern <seg id="1" type="intExpr">bezeichnet</seg>.</said> Jnnerlich muß sich der
+                        Franzose eigentlich gegen dieses Spiel wehren, das so wenig seinem Charakter und seinen Bedürfnissen entspricht. Und unbewußt tut er es wohl auch. <said id="2" mode="reported" content="thought" level="1" border="yes"><seg id="2" type="intExpr">Bewußt</seg> wird es <seg id="2" type="speaker">ihm</seg></said>, <said id="3" mode="reported" content="speech" level="1">wenn <seg id="3" type="speaker">er</seg> von der kühlen Altarkunst der deutschen Schule
+                        <seg id="3" type="intExpr">spricht</seg>.</said> Aber das beleuchtet nur das Genie Joachims heller. Denn bei ihm,
+                        wo die vollkommenste Kühle ist, ist auch die vollkommenste Wärme. Es überträgt sich nur alles und vereinigt sich alles in dem Gehalt des Kunstwerks,
+                        es bindet sich in dem Respekt davor und befreit sich in einer PersönlichkeitsJntensität, die in den Weltgeist der höchsten Schöpfungen einführt. Dieser
+                        Größe und Vollendung und Vollkommenheit, dieser legendären Meisterschaft
+                        beugte sich der Franzose und <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="intExpr">bejubelte</seg> sie mit der feurigen Begeisterung, deren
+                        <seg id="4" type="speaker">er</seg> fähig ist.</said>
+            Und so trug der junge Greis <seg id="5" type="speaker">Joachim</seg> den großen Strauß weißer Schneebälle im Arme <said id="5" mode="direct" content="speech writing" level="1">„ comme un petit bébé“</said> als seines Triumphes Zeichen und
+                        als Dank der Weltstadt.
+            Ob sie ihm noch blühen? -- -- -- Uns blühen sie noch!...
+         
+      </p>
+      </body>
+   </text>
+</TEI>

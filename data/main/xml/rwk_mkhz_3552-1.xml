@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal039_1848_2.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="frame" pos="start">Wenn
+                        aber der Abgeordnete <seg id="1" type="speaker">Schmitt</seg> bei dieser Gelegenheit <seg id="1" type="intExpr">behauptet</seg>,</seg>
+                        <said id="1" mode="indirect" content="speech" level="1">die Pfalz sey durch die gerichtliche und administrative Einschreitung gegen jenen Aufruf in große Aufregung versetzt</said>, so ist er
+                        zum Wenigsten schlimm berichtet. Entrüstung herrscht überall
+                        gegen Jene, welche mit dem öffentlichen Frieden und mit der geheiligten Ordnung der Gesellschaft ein so frevelhaftes Spiel treiben. Steigt diese gerechte Entrüstung, die durch Stadt und
+                        Dorf geht, bis zur Aufregung, so ist allerdings eine solche vorhanden.
+            
+               * * Fulda 20. Juli. Unsere Stadt war gestern in freudiger
+                        Bewegung; die Uebernahme des Reichsverweseramtes ward gefeiert, und weil die Freude eine allgemeine, so war es auch die
+                        Theilnahme, so daß bei dem veranstalteten Festessen in bunter
+                        Mischung Bürger und Militär, Turner und Geistliche sich beisammenfanden. Für den kommenden Sonntag soll auch dieß
+                        frohe Ereigniß kirchlich gefeiert werden, wie dasselbe bereits <said id="2" mode="reported" content="speech" level="1">auf
+                        <seg id="2" type="intExpr">Wunsch</seg> des <seg id="2" type="speaker">Großherzogs von Weimar</seg></said> in dem dortigen Großherzogthume der Fall gewesen ist. Jm Fuldaer Land ist übrigens
+                        jetzt Alles ruhig; man vertraut der Nationalversammlung und
+                        dem Reichsverweser; für Republik finden sich gar keine Sympathieen
+                         
+            
+               
+                  sym37
+                Wiesbaden 22. Juli. Unsere Kammer hat an dem Präsidenten des Dillenburger Hofgerichtes, Herrn Raht, welcher an
+                        die Stelle des in der Nationalversammlung eingetretenen Abgeordneten Schenk zum Volksabgeordneten gewählt worden ist, ein
+                        neues, sehr rühriges Mitglied erhalten. Herr Raht war von
+                        Mitte März bis Mitte April provisorischer Chef unseres Staatsministeriums und ist von jeher als ein strenger, untrüglicher
+                        Bureauchef bekannt. Als indeß in jüngster Zeit die Wahlbewerbungen an der Tagesordnung waren, sah man den Herrn Präsidenten gar häufig an Orten, wo er früher zu erscheinen mit seiner
+                        hohen Stellung für unvereinbarlich gehalten hat; er wurde „ volksfreundlich.“ Genug, nachdem Raht das Ministerportefeuille
+                        nicht definitiv erhalten konnte, auch bei der Wahl ins Parlament
+                        nicht reüssirte, so gelang es ihm doch einen Sitz in der nassauischen
+                        Ständeversammlung zu erringen. Jn der vorigen Sitzung am
+                        20. Juli eingetreten, fing <seg id="23 24" type="speaker">er</seg> gleich damit an, <said id="23" mode="reported" content="speech" level="1">die von unserer Regierung wegen der hiesigen Emeute getroffenen Maßregeln bitter
+                        zu <seg id="23" type="intExpr">tadeln</seg></said> und <said id="24" mode="reported" content="speech" level="1"><seg id="24" type="intExpr">kündigte</seg> in dieser Beziehung eine besondere Motion
+                        auf heute an.</said> <seg id="25" type="frame" pos="start"><seg id="25" type="intExpr">Bemerkt</seg> muß werden,</seg> <said id="25" mode="indirect" content="speech" level="1">daß, <said id="5" mode="reported" content="writing" level="2">wie <seg id="5" type="speaker">ich</seg> schon in meinem
+                        letzten Bericht <seg id="5" type="intExpr">angegeben</seg> habe</said>, <seg id="6" type="frame" pos="start">die ganze <seg id="6 7" type="speaker">Kammer</seg> mit 34 gegen
+                        3 Stimmen förmlich <seg id="6" type="intExpr">beschlossen</seg> hat,</seg> <said id="6" mode="indirect" content="speech" level="2"><said id="7" mode="reported" content="speech" level="3">der Regierung ihre Zustimmung, ja sogar ihren Dank für die Ergreifung jener Maßregeln
+                        <seg id="7" type="intExpr">auszusprechen</seg>.</said></said></said> <said id="26" mode="reported" content="speech" level="1">Heute hat also <seg id="26 10" type="speaker">Herr Raht</seg> seinen Antrag in
+                        einer weitläufigen Schrift, die er vorlas, <seg id="26" type="intExpr">gerechtfertigt</seg></said>, <seg id="27" type="frame" pos="start">und zwar
+                        <seg id="27" type="intExpr">ging</seg> die <seg id="27" type="speaker">Motion</seg> dahin:</seg> <said id="27" mode="indirect" content="writing" level="1">1 ) daß binnen 24 Stunden die <said id="10" mode="direct" content="writing" level="2">„fremden
+                        Truppen“</said> wieder von Wiesbaden abziehen; 2 ) daß die hiesige
+                        Bürgerwehr sofort ihre Waffen wieder erhalte; 3 ) daß eine Untersuchung gegen die Regierung von Seiten der Kammer eingeleitet werde, um zu erörtern, ob dieselbe bei Ergreifung der außerordentlichen Maßregeln ihre Befugnisse nicht überschritten hat.</said>
+                        <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Ministerpräsident Hergenhahn</seg> <seg id="11" type="intExpr">zeigte</seg> zuvörderst <seg id="11" type="intExpr">an</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">daß die
+                        Reichstruppen zur Hälfte morgen und der ganze Rest der selben
+                        am 25. d. M. von hier wieder abziehen werden, so wie, daß die
+                        Reorganisation und Bewaffnung der hiesigen Bürgerwehr bereits
+                        stattfinde</said>; <said id="12" mode="reported" content="speech" level="1">darauf widerlegte <seg id="12" type="speaker">er</seg> in glänzender <seg id="12" type="intExpr">Rede</seg> die Sophismen des Abgeordneten Raht und wies nochmals die Nothwendigkeit seiner Anordnung nach.</said> <seg id="28" type="frame" pos="start">Der <seg id="28 13" type="speaker">Abg. v. Schütz</seg> <seg id="28" type="intExpr">drückte</seg> sein
+                        <seg id="28" type="intExpr">Bedauern</seg> darüber <seg id="28" type="intExpr">aus</seg>,</seg> <said id="28" mode="indirect" content="speech" level="1">daß das <said id="13" mode="direct" content="speech" level="2">„verehrliche jüngste <seg id="29 16" type="speaker">Mitglied</seg>“</said>
+                        so viel Zeit und Arbeit an <said id="29" mode="reported" content="speech" level="2">eine <seg id="29" type="intExpr">Jungfernrede</seg></said> verwendet habe, <said id="16" mode="reported" content="writing" level="2">deren Gegenstand eine genugsam <seg id="16" type="intExpr">erörterte</seg> und vollständig erledigte
+                        Sache ist</said>; <seg id="14" type="frame" pos="start">höchlich habe es <seg id="14" type="speaker">ihm</seg> aber <seg id="14" type="intExpr">gewundert</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2">daß <seg id="15" type="speaker">Raht</seg> sich
+                        vermüssigt gesehen habe, <said id="15" mode="reported" content="speech" level="3">an einem förmlichen Kammerbeschlusse
+                        noch zu <seg id="15" type="intExpr">mäkeln</seg></said></said></said>; <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">er</seg> <seg id="17" type="intExpr">gab</seg> diesem <seg id="17" type="intExpr">zu bedenken</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1"><seg id="18" type="frame" pos="start">daß die <seg id="18" type="speaker">Kammer</seg>
+                        schon damals <seg id="18" type="intExpr">gewußt</seg>,</seg> <said id="18" mode="indirect" content="thought" level="2" border="yes">was ihre Schuldigkeit war</said>, als sie noch
+                        nicht das Vergnügen hatte, den Herrn Raht in ihrer Mitte zu sehen.</said> <said id="20" mode="reported" content="speech" level="1"><seg id="20" type="speaker">Großmann</seg> <seg id="20" type="intExpr">beleuchtete</seg> den Antrag von der rechten Seite</said><seg id="30" type="frame" pos="start">,
+                        indem <seg id="30" type="speaker">er</seg> <seg id="30" type="intExpr">nachwies</seg>,</seg> <said id="30" mode="indirect" content="speech" level="1">daß der Antragsteller nichts mehr und nichts
+                        weniger wolle, als den jetzigen Ministerpräsidenten in Anklagestand versetzen; wolle er dies, <said id="31" mode="reported" content="speech" level="2" nonfact="yes">so solle <seg id="31 32" type="speaker">er</seg> es offen <seg id="31" type="intExpr">sagen</seg></said>, <said id="32" mode="reported" content="speech" level="2" nonfact="yes">dann
+                        aber auch bestimmte Anklagepunkte <seg id="32" type="intExpr">angeben</seg>.</said></said> Rahts Antrag fiel
+                        mit 11 Stimmen gegen 26 durch; die Linke stimmte mit ihm, sowie aus verwandschaftlichen Rücksichten die Abgeordneten Lottichius und Jung.
+                        
+             
+
+
+</p>
+      </body>
+   </text>
+</TEI>

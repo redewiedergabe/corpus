@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0113_1905_2.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Betrachten wir also die Politik, welche Delcass é und Bülow zur Zeit des
+                        französisch=englischen Marokko=Abkommens trieben, welche so verdrießliche
+                        Folgen in diesen Tagen herbeigeführt hat, so haben wir schon da das zweifelhafte Vergnügen, die Schale der Schuld bedenklich nach der Seite des Mannes
+                        hin sich neigen zu sehen, der an erster Stelle dazu berufen ist, deutsche Macht
+                        und deutsches Ansehen nach außen hin zu vertreten.
+            Nun aber sehen wir uns einmal genaner an, was wir in diesen letzten Wochen
+                        erlebt haben und noch erleben. <said id="1" mode="reported" content="speech" level="1" nonfact="yes"><seg id="1 2" type="speaker">Herr Delcass</seg> é mag den Fehler, den er seinerzeit
+                        begangen hat, nicht gern <seg id="1" type="intExpr">eingestehen</seg></said> und möchte ihn auch nicht einmal rückgängig machen. Dafür erhält er seine Quittung in <said id="11" mode="reported" content="speech" level="1">den nicht mißzuverstehenden <seg id="11" type="intExpr">Meinungsäußerungen</seg> fast aller französischer <seg id="11" type="speaker">Parteien</seg></said> und wenn nicht
+                        alles trügt, wird er in Kürze Gelegenheit haben, <said id="2" mode="reported" content="thought" level="1">ungestört durch amtliche Behinderungen über die Schlechtigkeit der Welt <seg id="2" type="intExpr">nachzudenken</seg></said>, welche nicht einsehen will, daß ein guter Wille bei einem Staatsmann dessen Fehler verzeihlich macht. 
+            
+            So Herr Delcass é. Was aber macht Graf Bülow und was wird die Folge
+                        seines Tuns sein? <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Graf Bülow</seg> <seg id="3" type="intExpr">glaubt</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1"><seg id="4" type="frame" pos="start">durch forsches Auftreten könne <seg id="4" type="speaker">er</seg>
+                        der Welt <seg id="4" type="intExpr">weismachen</seg>,</seg><said id="4" mode="indirect" content="speech" level="2"> er habe überhaupt niemals einen Fehler begangen, der
+                        Fehler läge ganz auf der anderen Seite.</said></said> Und wenn man die deutsche Presse
+                        verfolgt, scheint es fast, als ob sein Trick ihm gelingen wolle. Er hat ihn allerdings äußerst geschickt inszeniert, indem er ihn zwischen zwei Festdarbietungen
+                        einrahmte, eine unter grauem Himmel oben an der Nordsee mit <said id="13" mode="reported" content="speech" level="1">einer großen
+                        <seg id="13" type="speaker"><seg id="13" type="intExpr">Kaiserrede</seg></seg></said> und wenige Tage darauf schon eine andere unter südlichem Himmel
+                        am Mittelmeer mit <said id="12" mode="reported" content="speech" level="1">einer kleinen <seg id="12" type="speaker"><seg id="12" type="intExpr">Kaiserrede</seg></seg>.</said> Zeit und Raum scheint es nicht
+                        mehr zu geben für die Entfaltung kaiserlich deutscher Macht. Verwirrt, fast
+                        fasziniert starren Millionen auf das wundersame Schauspiel, das Graf Bülow
+                        ihnen arrangiert hat. Jmmerhin können wohl nur wenige bei diesem Anblick eine gewisses Unbehagen ganz unterdrücken und bald wird es offenbar
+                        werden, was dahinter steckt. Es wird sich herausstellen, daß Bülow jetzt dasselbe tat, was Delcass é beim Abschluß des englisch=französischen Abkommens,
+                        nämlich dauernde große Jnteressen seines Landes um eines Augenblickserfolges wegen -- ach nein um weniger als das, wegen des bloßen Glanzes
+                        eines scheinbaren Erfolges verletzte.
+            <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Jch</seg> <seg id="5" type="intExpr">fragte</seg> vorher,</seg> <said id="5" mode="indirect" content="speech" level="1">was die Folge seines Tuns sein wird.</said>
+            Sicherlich nicht seine Verabschiedung. Vielleicht wird er Fürst. <said id="14" mode="reported" content="speech" level="1">Beim
+                        Abschluß der Handelsverträge <seg id="14" type="intExpr">sprach</seg> <seg id="14" type="speaker">man</seg> schon davon</said>, <said id="7" mode="reported" content="speech" level="1">aber weil <seg id="7" type="speaker">man</seg> so früh
+                        davon <seg id="7" type="intExpr">sprach</seg></said>, wurde aus der Sache nichts. Eine Auszeichnung für Bülow
+                        ist jedenfalls fällig. Beim Abschluß der Kanalvorlage ist er leer ausgegangen,
+                        während Herr v. Budde doch den Schwarzen Adlerorden erhielt. ( Einigen
+                        neugierigen Fragern sei es ausdrücklich bemerkt, wirklich der Kanalvorlage und
+                        nicht etwa dem Bahnhofsverbot der „Europa“ verdankt Herr v. Budde diese
+                        Auszeichnung. )
+                         
+            <said id="9" mode="reported" content="speech" level="1" nonfact="yes">Was nun aber <seg id="9" type="intExpr">sagt</seg> das deutsche <seg id="9" type="speaker">Volk</seg> zu den Regisseurkunststückchen seines
+                        Reichskanzlers?</said> Aus der Presse, die doch das Spiegelbild der Volksstimmung sein
+                        soll, kann man jedenfalls auf eine besondere Entrüstung nicht schließen. Da läge es
+                        nun nahe, daß dieselben Kreise, welche seinerzeit den „Burenrummel“ und soeben
+                        erst den „Russenrummel“ arrangiert haben, dem „Marokkorummel“ des Grafen
+                        Bülow einen Franzosenrummel entgegenzustellen. Nie war die Gelegenheit
+                        günstiger, dem Nachbarvolk zu zeigen, <said id="10" mode="reported" content="thought" level="1">daß <seg id="10" type="speaker">man</seg> aufrichtig nicht nur Frieden,
+                        sondern herzliche Freundschaft mit ihm <seg id="10" type="intExpr">wünscht</seg></said>, als jetzt, do durch des leitenden
+                        Staatsmannes Schuld, die als des deutschen Volkes Schuld ausgelegt werden
+                        könnte, Frankreich in unnötiger und unverantwortlicher Weise brüskiert wurde.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

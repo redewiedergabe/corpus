@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung038_1852_3.xml</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+Burlington, Jowa, 10. April. 1852
+                         
+            Der Strom geht hoch, doch ohne Ueberschwemmung. Schöne Tage
+                        wechselten mit Schnee, Regen und gewaltigen Gewittern ab. Ein Gewitter
+                        dauerte über einen Tag lang.
+            Die Einwanderung, welche stromaufwärts kommt, geht zumeist nördlich,
+                        verhältnißmäßig stark bis in das Staatsgebiet Minnesota, wo im jüngsten
+                        Winter das Quecksilber gefror. Eben dahin gingen gegen 300 alte Colonisten
+                        aus dem Osten.
+            Jn den letzten Wochen passirten viele Wägen aus Jllinois, Jndiana
+                        und Ohio die Stadt Burlington nach Californien und Oregon. Wagner,
+                        Schmiede und namentlich Sattler hatten und haben fortwährend ausgezeichneten Verdienst. Fünfzehnhundert Wagen sollen nach den Küstenländern
+                        des stillen Meeres eben noch im Anzuge sein. Jeder Reisewagen ist mit
+                        4 Joch Ochsen oder 4 Pferden oder 4 Maulthieren bespannt. <said id="1" mode="reported" content="thought" level="1" border="yes"><seg id="1" type="speaker">Jch</seg> habe
+                        darunter die schönsten Gespanne <seg id="1" type="intExpr">bemerkt</seg>.</said> Jnteressant ist die fliegende Küche,
+                        welche auf den Wägen mitgeführt wird. Oben aus den mit Leintuch
+                        überspannten Wägen schaut der rauchende Schornstein hervor, und schöne
+                        Frauenzimmer mit zurückgeschlagenem Schleier backen im Jnnern der Wägen
+                        das Brod. Kräftige Männer führen den Zug. Die Welt gehört dem Menschen.
+            <said id="2" mode="reported" content="writing" level="1"><seg id="3" type="frame" pos="start">Aus <seg id="2" type="speaker">Privatbriefen</seg> <seg id="3" type="intExpr">weiß</seg> <seg id="3" type="speaker">ich</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" border="yes">daß Bergbeamte aus Kurhessen, Hannover
+                        und Preußen Bergwerkscolonieen im Nordwesten der Ver. Staaten beabsichtigen.</said></said> Sie mögen dort sowohl als hier, sehr vorsichtig sein, dort
+                        vorzugsweise rücksichtlich des allzu überschwenglichen ( deutschen ) Vertrauens,
+                        hier vorzugsweise rücksichtlich der ersten Anlage, welche nur und so lange
+                        im Betriebe von Ackerbau, Sägemühlen 
+                  ec.
+                bestehen darf, bis der Lebensunterhalt des Bergpersonals sicher gestellt ist. Das Geheimniß, mit dem
+                        sie sich in gewisser Beziehung umgeben, ist unnöthig und gleichgültig. Einen
+                        Agenten aber sollten sie hier haben, der reisen 
+                  ec.
+                müßte. Auch in Missouri
+                        und Kentucky läßt sich etwas machen, dort aber würde mehr Geld erfor 
+               
+               derlich sein. Auf Betheiligung Seitens amerikanischer Bürger wird im
+                        Allgemeinen dann nur gerechnet werden können, wenn die guten Deutschen
+                        recht viel Geld haben und hier sofort thatsächlich beweisen, daß sie etwas
+                        zu machen verstehen. Die deutsche Weisheit hilft dann hier nur etwas
+                        mehr als nichts. Alles wird hier anders getrieben und Jeder hat hier
+                        zu lernen. Dem Yankee würde es gerade so ergehen, wenn er in Deutschland etwas treiben wollte. Das Colonisiren, die Association 
+                  ec.
+                sind recht
+                        schöne Dinge, aber dazu gehört eine Bildung, welche den Egoismus aufhebt. Da indessen dieser in Amerika noch Princip ist, und zwar mindestens
+                        in dem Grade, wie in Europa, <seg id="4" type="frame" pos="start">so <seg id="4" type="intExpr">nehme</seg> <seg id="4" type="speaker">ich</seg> <seg id="4" type="intExpr">an</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1">daß die hiesige Luft
+                        ( wenn nicht schon der Ocean ) einen Strich durch die „Colonie“ macht</said>, es
+                        sei denn, daß alle Jnteressenten, und vorab die härtesten Arbeiter, eine
+                        zureichende Bildung 
+                  ec.
+                besitzen. Man hat im Westen Erfahrungen verschiedener Art.
+            Die Pachtverträge über Farmen reguliren sich gewöhnlich so: stellt
+                        der Pächter das Jnventar, so giebt er 1 / 3, stellt es der Eigenthümer, so
+                        giebt er diesem 1 / 2 der Ernte ab. Jn der Nähe wurde neulich eine Farm
+                        von 160 A., wovon mehr als 50 A. bebaut und 40 A. schöner Wald sind,
+                        um Geld, und zwar um 40 $ verpachtet.
+            Vor einigen Tagen flog bei St. Louis ein Dampfboot auf, wobei
+                        gegen 50 Menschenleben zu Grunde gingen. Ein Unglücksfall, keine
+                        Geldspekulation! (N.=Y. H.=B.)
+
+
+</p>
+      </body>
+   </text>
+</TEI>

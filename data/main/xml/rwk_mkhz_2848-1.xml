@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0114_1905_37.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Das bin ich gewöhnt, und ich pflege dem mit gutem
+                        Humor zuzuhören. <said id="13" mode="reported" content="writing" level="1">Die <seg id="13" type="intExpr">Ausführungen</seg> <seg id="13" type="speaker">Heinrich Schmidts</seg></said> haben mich jedoch
+                        in eine ganz besonders fröhliche Laune versetzt. <said id="1" mode="reported" content="writing" level="1"><seg id="1 2" type="speaker">Er</seg> <seg id="1" type="intExpr">protestiert</seg> im Namen der
+                        alten Logik, <said id="2" mode="direct" content="writing" level="2">„die sich denn doch noch nicht so abgewirtschaftet hat,“</said></said> -- und
+                        daß er, wie auch Haeckel, fest und ganz unerschüttert, <seg id="14" type="frame" pos="start">ja <seg id="14" type="speaker">ich</seg> möchte <seg id="14" type="intExpr">sagen</seg>,</seg> <said id="14" mode="indirect" content="speech" level="1" nonfact="yes" prag="yes">naiv
+                        und ahnungslos auf dem Boden dieser guten alten Logik steht</said>, das habe ich
+                        gerade sehr klar und deutlich gesehen. <said id="15" mode="reported" content="thought" level="1" border="yes">Und <seg id="15" type="speaker">ich</seg> bin mir sehr wohl der
+                        Schwierigkeit <seg id="15" type="intExpr">bewußt</seg>, die unserer Verständigung entgegensteht</said>, denn gerade
+                        diese alte Logik, diese Logik des Monismus, der Metaphysik, der Lehre vom
+                        Absoluten war meines Erachtens von jeher die Logik, welche alle Verständigung unmöglich machte und uns in den Wirrsal der Welträtsel und ewigen
+                        Streites stürzte. <said id="16" mode="reported" content="writing" level="1"><seg id="16 3" type="speaker">Mein</seg> Aufsatz Darwinismus und Monismus ist allerdings
+                        wesentlich mit <seg id="16" type="intExpr">geschrieben</seg> worden</said>, um Haeckel, den Logiker zu bekämpfen,
+                        <said id="3" mode="reported" content="writing" level="1">auf die Verquickung seiner neuen Entwickelungsweltanschauung mit einer
+                        alten Alleinheitslogik warnend <seg id="3" type="intExpr">hinzuweisen</seg></said> <seg id="4" type="frame" pos="start">und ihm die <seg id="4" type="intExpr">Frage</seg> vorzulegen,</seg>
+                        <said id="4" mode="indirect" content="writing" level="1">ob nicht eine Entwicklungslehre zu anderen Denkvoraussetzungen führt, andere
+                        Denkvoraussetzungen, eine andere Logik bedingt.</said>
+            <seg id="17" type="frame" pos="start"><said id="5" mode="reported" content="speech" level="1">Der heitere <seg id="5" type="intExpr">Spott</seg> <seg id="17 5" type="speaker">Dr. Heinrich Schmidts</seg></said> sollte mich nun vielleicht <seg id="17" type="intExpr">belehren</seg>,</seg> <said id="17" mode="indirect" content="speech" level="1">daß ich wenig Glück bei ihm haben werde.</said> Aber schließlich gibt er
+                        selber mir so viel Angel und Lockbissen, daß ich ihn fangen und fassen kann,
+                        er selber spielt mir die besten Waffen gegen sich so in die Hand, daß ich
+                        es dennoch einmal versuchen kann, <seg id="18" type="frame" pos="start">und <seg id="18" type="speaker">ich</seg> <seg id="18" type="intExpr">sehe</seg> wohl,</seg> <said id="18" mode="indirect" content="thought" level="1" border="yes">daß ich nicht so sehr
+                        die Ueberlegenheit Schmidts als Logiker zu fürchten, sondern es nur mit einem
+                        gewissen Mangel an Wissen zu tun habe.</said>
+            Als Julius Hart habe ich bei Heinrich Schmidt auf keinen guten Empfang
+                        und auf wenig Respekt zu rechnen, und Julius Hart'sche Logik erregt ihm
+                        Heiterkeit. Aber etwas tröstet mich dabei. Jn demselben Augenblick, <said id="6" mode="reported" content="speech" level="1">da
+                        <seg id="6" type="speaker">er</seg> über meine Logik <seg id="6" type="intExpr">spottet</seg></said>, steht er plötzlich stramm, legt die Hände an die
+                        Hosennaht, und ein Schauer unendlicher Ehrfurcht überfliegt sein Antlitz.
+                        Der Zar naht, vor dem sich Heinrich Schmidt tief verbeugt und <said id="20" mode="reported" content="speech" level="1"><seg id="20" type="speaker">dessen</seg> <seg id="20" type="intExpr">Worte</seg></said>
+                        für ihn die Wahrheit aller Wahrheiten bilden.
+            <said id="7" mode="reported" content="speech" level="1" border="yes">Mit freudigem Erstaunen <seg id="7" type="intExpr">höre</seg> <seg id="7" type="speaker">ich</seg>, <said id="21" mode="reported" content="speech" level="2">mit welcher Emphase <seg id="21 8" type="speaker">er</seg> von Heraklit
+                        <seg id="21" type="intExpr">redet</seg></said></said> und <said id="8" mode="direct" content="speech" level="1">„<said id="22" mode="reported" content="speech" level="2" metaph="yes">daß <seg id="22" type="speaker">Anatomie</seg> und <seg id="22" type="speaker">Ontogenie</seg>. <seg id="22" type="speaker">Philosophie</seg> und <seg id="22" type="speaker">Pathologie</seg> dem
+                        dunklen Philosophen von Ephesus <seg id="22" type="intExpr">recht geben</seg></said>“.</said> <said id="9" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">Aber nun <seg id="9" type="intExpr">sagen</seg> <seg id="9" type="speaker">Sie</seg> mir
+                        einmal, Herr Dr. Schmidt:</said> warum heißt Heraklit wohl eigentlich der Dunkle,
+                        warum geht er mit dem Beinamen „der Dunkle“ seit mehr als zweitausend
+                        Jahren durch die Weltgeschichte? <said id="23" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="23" type="intExpr">Glauben</seg> <seg id="23" type="speaker">Sie</seg> deshalb, weil er der Vater ist
+                        des geflügelten Wortes: „Alles fließt“?</said> <said id="24" mode="reported" content="thought" level="1" nonfact="yes">Aber dieses, daß Alles fließt, <seg id="24" type="intExpr">getraue</seg>
+                        <seg id="24" type="speaker">ich</seg> mir, jedem Kinde sofort verständlich zu machen</said>, und es ist etwas von vornherein durchaus Einleuchtendes. Nein, Heraklit heißt deshalb der Dunkle,
+                        weil er aus dieser unserer menschlichen Erkenntnis von dem unendlichen Fluß
+                        und der unaufhörlichen Bewegung aller Dinge eine Logik zog, weil er sie in
+                        eine abstrakte Formel goß, die im völligen Widerspruch steht, <said id="25" mode="reported" content="writing" level="1">gerade umgekehrt
+                        redet, als das, <said id="26" mode="reported" content="writing" level="2" border="yes">was <seg id="26" type="speaker">Sie</seg> die alte Logik <seg id="26" type="intExpr">nennen</seg></said></said>, <said id="27" mode="reported" content="thought" level="1">die <seg id="27" type="speaker">Sie</seg> für unwiderlegt und
+                        unwiderleglich und offenbar für die einzig mögliche, einzig vorhandene <seg id="27" type="intExpr">ansehen</seg>.</said> Aber das ist nur eine Primanerschulkenntnis, und Jhrer alten Logik, die in dem Jdentitätssatz wurzelt: a == a und kann niemals nicht a sein,
+                        steht eine ebenso alte Heraklitische Logik gegenüber, die auf einem principium
+                        coincidentiae oppositorum fußt und die Behauptung aufstellt: a == a ist
+                        gleich nicht a; darin steckt kein Widerspruch.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

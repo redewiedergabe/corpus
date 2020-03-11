@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswanderer61_1847.txt_2.xml</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.auswanderer</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">Bedenkt</seg> <seg id="1" type="speaker">man</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">daß es gar nichts seltenes ist, daß
+                        im Seehafen das Schiff zuweilen 6 -- 8 -- 10 Tage am Auslaufen
+                        durch widrige Winde und Stürme gehindert ist</said>, <seg id="2" type="frame" pos="start">so wird <seg id="2" type="speaker">man</seg>
+                        <seg id="2" type="intExpr">finden</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß schon durch diese Verzögerung allein dem Agenten
+                        pr. Kopf eine Entschädigung anwächst, welche den Mehransatz
+                        von 5 fl. beim Ueberfahrtspreis übersteigt.</said> Allein nicht blos im
+                        Hafen, sondern auch in den rheinischen Stationsplätzen und in
+                        Rotterdam ist der Auswanderer gegen alle Unfälle in Folge höherer
+                        Gewalt durch seine Mehrzahlung von 5 fl. verassecurirt; ja selbst
+                        wenn das Schiff bereits in See gegangen ist, jedoch durch die
+                        Elemente genöthigt wird, in einem andern Hafen einzulaufen, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">hat
+                        der <seg id="3" type="speaker">Auswanderer</seg> immerhin pr. Tag seine1 1 / 2 Franken zu <seg id="3" type="intExpr">verlangen</seg></said> und zu erhalten. <said id="4" mode="reported" content="thought" level="1" nonfact="yes"><seg id="4" type="intExpr">Erwägt</seg> <seg id="4" type="speaker">man</seg> dieses alles</said>, so ist der
+                        Mehrbetrag von 5 fl. für solche Garantieen nicht nur nicht zu
+                        hoch gegriffen, sondern man muß ihn sehr mäßig, billig und
+                        gerecht finden.
+            <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Die genannte <seg id="14" type="speaker">Regierung</seg> hatte auch Monate lang gegen diese
+                        Entschädigungs = Quote von 5 fl., für welche der Agent so große
+                        und ungewöhnliche Verpflichtungen übernimmt, nichts <seg id="14" type="intExpr">einzuwenden</seg></said>,
+                        und die Beförderung ging ihren regelmäßigen Gang. <seg id="6" type="frame" pos="start">Da endlich
+                        kommt kürzlich der <seg id="6" type="speaker">Consul</seg> im Seehafen mit seiner Weisheit
+                        und <seg id="6" type="intExpr">belehrt</seg> seine Regierung,</seg> <said id="6" mode="indirect" content="speech" level="1"><said id="7" mode="reported" content="speech" level="2">diese Entschädigung von 5 fl. sei
+                        von Seiten des <seg id="7" type="speaker">Agenten</seg> eine übertriebene <seg id="7" type="intExpr">Forderung</seg></said>, es sei eine
+                        Uebervortheilung der Auswanderer, da die Fälle, wo Auswanderer durch force majeure länger als 3 Tage an der Reise verhindert würden, zu den Seltenheiten gehörten, <said id="8" mode="indirect" content="thought" level="2">weßhalb</said><seg id="8" type="frame" pos="mid">, wie <seg id="8" type="speaker">er</seg>
+                        <seg id="8" type="intExpr">glaube</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2">ein Aequivalent von 1 -- 2 Franken für das größere
+                        Risiko des Agenten hinreichend sei.</said></said> <said id="15" mode="reported" content="speech" level="1">Und so <seg id="15" type="intExpr">redet</seg> ein <seg id="15" type="speaker">Consul</seg></said>,
+                        <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">der</seg> in einem Seehafen residirt und <seg id="9" type="intExpr">wissen</seg> muß,</seg> <said id="9" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß kein Geschäft so sehr den Launen der Elemente preisgegeben ist, als
+                        das Geschäft der Beförderung der Auswanderer!</said> <seg id="10" type="frame" pos="start">ein <seg id="10" type="speaker">Consul</seg>,
+                        der es sehr gut <seg id="10" type="intExpr">weiß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">daß bezeichneter Agent schon öfter einzelne Auswanderer=Transporte für Verzögerungen in Folge höherer
+                        Gewalt mit mehreren tausend Franken zu entschädigen hatte!</said> <seg id="11" type="frame" pos="start">ein
+                        <seg id="11" type="speaker">Consul</seg>, der es <seg id="11" type="intExpr">wissen</seg> muß,</seg> <said id="11" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß von Ende Februar an bis gegen
+                        Mitte Mai, also gerade in der eigentlichen Periode der Auswanderung, in jenem Seehafen kein Segler bei den vorherrschenden
+                        West=Nord=West = Winden seine nach einem gegebenen Fahrplan
+                        festgesetzten Abfahrtstage genau einhalten kann, sondern daß er
+                        fast regelmäßig in Folge widriger Winde die Abfahrt 6 -- 10
+                        Tage verschieben muß, während nur in den Monaten Juni, Juli
+                        und August, also gerade in der schwächsten ( ? ) Auswanderungsperiode, auf constante Winde und bestimmte Abfahrtstage zu zählen ist.
+ </said>                       Jst es möglich, einem Agenten zuzumuthen, er solle diese großen
+                        Verbindlichkeiten, diese fast zur Regel gehörigen Risikos gegen
+                        eine Vergütung von 1 -- 2 Franken übernehmen, während er selbst
+                        nur für eine eintägige Verzögerung1 1 / 2 Franken per Kopf Entschädigung zu geben verpflichtet ist? <seg id="12" type="frame" pos="start">Keinem billig denkenden
+                        <seg id="12 13" type="speaker">Geschäftsmann</seg> wird es <seg id="12" type="intExpr">einfallen</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1" nonfact="yes">einem Spediteur, wenn er Waaren
+                        mit großen Verantwortlichkeiten zu besorgen übernimmt, <said id="13" mode="reported" content="speech writing" level="2">die Spesen
+                        <seg id="13" type="intExpr">vorschreiben</seg> zu wollen</said></said>, um wie viel weniger kann man das bei
+                        dem mühseligen Geschäfte der Emigranten = Beförderung, das schon
+                        an sich mit so großen Verpflichtungen verknüpft ist, und bei dem
+                        die Garantieen gegen force majeure doch wohl gewiß durch eine
+                        der übernommenen Gefahr entsprechende Remuneration vergütet
+                        werden müssen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>
