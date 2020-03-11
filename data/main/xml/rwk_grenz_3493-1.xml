@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Freiherr von Stein.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341584_100992.txt_2.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Freiherr von Stein.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+   
+    
+     <said id="1" mode="direct" content="writing" level="1">„Wägt man die vier Stände nach ihrer specifiquen geistigen
+      Schwere ab, so finden sich im ersten und zweiten Stand 10 geschäftsfähige Mitglieder, also
+      beinahe 50%; im Stand der Städte 5 von 20, also nur 1/4 oder 25%; im Stand der Landgemeinden
+      6 oder beinahe 17%.
+     Dieses Mißverhältniß beweiset die Gleichgiltigkeit und den Leichtsinn, mit dem
+      bei den Wahlen, besonders in den Städten, verfahren worden, wo Gleichgiltigkeit oder
+      erbärmliche, selbstsüchtige Motive ihren Einfluß ausübten.
+     Prüft man den in jedem Stand vorherrschenden politischen Geist, so spricht sich
+      bei dem Adel Anhänglichkeit an das Bestehende, an die Monarchie, Stolz mit etwas Starrheit
+      aus; in dem dritten Stand Neuerungssucht, geleitet durch neidische Eitelkeit; im vierten Stand
+      Unbeholfenheit, Streben, sich eine Erleichterung der öffentlichen Lasten zu verschaffen und
+      sich auf Kosten der Gutsherrn zu bereichern.
+     Dieses Ziel hat dieser vierte Stand fest im Auge, in andern Dingen wird er von
+      irgendeinem Intriguanten geleitet."</said> — 
+    
+    
+     Die Theilnahmlosigkeit, <said id="3" mode="reported" content="writing" level="1">die hier <seg id="3 1" type="speaker">Stein</seg> dem Bürgerstande <seg id="3" type="intExpr">vorwirft</seg></said>, entspringt
+      aber aus ganz natürlichen Gründen.
+     Der wahrhaft intelligente Bürger sieht sich durch die Zunftwahl alles Einflusses
+      beraubt, ja er ist zum Theil ganz und gar ausgeschlossen; der Bürgerstand wird also nach dem
+      Princip der ständischen Gliederung in einem ganz falschen, verzerrten Bilde dargestellt.
+     Für die geheimen Wünsche der aristokratischen Partei ist das ganz zweckmäßig,
+      denn sie will eigentlich nur eine Adelsvertretung; für das wahre Interesse des Adels dagegen
+      ist es verhängnißvoll, denn es kann einem Stande nichts Schlimmeres widerfahren, <said id="5" mode="reported" content="thought" level="1" nonfact="yes">als daß <seg id="5" type="speaker">er</seg>
+      sein reales Verhältniß zu den übrigen Ständen unrichtig <seg id="5" type="intExpr">auffaßt</seg>.</said>
+     Durch die Einführung einer ständischen Verfassung wird die Nationalkraft des
+      Staats, die auf dem harmonischen Ineinandergreifen der verschiedenen Einzelnkräfte beruht,
+      nicht verstärkt, sondern geschwächt.
+    
+    
+     <said id="6" mode="reported" content="writing" level="1">In dieser <seg id="6" type="intExpr">Behandlung</seg> der innern Frage concentrirt sich das Hauptinteresse des
+      <seg id="6" type="speaker">Buchs</seg></said>; das andere, so interessant es uns auch sein muß, zu erfahren, <said id="8" mode="reported" content="thought" level="1">was <seg id="8" type="speaker">Stein</seg> über die
+      Emancipation Griechenlands und ähnliche Dinge <seg id="8" type="intExpr">gedacht</seg> 
+    
+    
+    
+     hat</said>, kommt doch erst in zweiter Linie.
+     Einzelne Scenen aus dem Privatleben des großen Mannes sind köstlich; sie zeigen,
+      daß seine Naturkraft, wo es sich um bestimmte Fragen handelte, durchaus nicht geschwächt
+      war.
+     Dazu rechnen wir namentlich seine Beziehungen zum Oberpräsidenten Vincke, mit
+      dem er nicht abgeneigt war, sich in den letzten Jahren seines Lebens noch einmal zu
+      duelliren.
+     Ferner die Behandlung des zweideutigen Grafen Reisach und ähnliches.
+     Den ehrlichen, schlichten Charakter des Mannes athmet <said id="10" mode="reported" content="writing" level="1">die von <seg id="10" type="speaker">ihm</seg> selbst
+      entworfene <seg id="10" type="intExpr">Lebensbeschreibung</seg></said>, <said id="11" mode="reported" content="writing" level="1">die der <seg id="11" type="speaker">Herausgeber</seg> in der Beilage S. 155 <seg id="11" type="intExpr">mittheilt</seg>.</said>
+     <seg id="12" type="frame" pos="start">Vortrefflich ist die <seg id="12" type="speaker">Darstellung</seg> seiner kurzen diplomatischen Laufbahn.</seg>
+     <said id="12" mode="direct" content="writing" level="1">„<said id="13" mode="reported" content="speech" level="2"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">bat</seg> um meine Zurückberufung</said>, da ich der Diplomatie immer abgeneigt war,
+      wegen der Wandelbarkeit der Politik der Höfe, des Wechsels von Müßiggang und einer schlau
+      berechneten Geschäftsthätigkeit, des Treibens, um Neuigkeiten und Geheimnisse zu erforschen,
+      der Nothwendigkeit, in der großen Welt zu leben, mit ihren Genüssen und Beschränkungen,
+      Kleinlichkeiten und Langweile mich zu befassen und wegen meines Hanges zur Unabhängigkeit und
+      meiner Offenheit und Reizbarkeit."</said> — <seg id="14" type="frame" pos="start">Sehr hart und zum Theil von persönlicher Abneigung
+      eingegeben ist <seg id="14" type="speaker">seine</seg> <seg id="14" type="intExpr">Charakteristik</seg> Hardenbergs.</seg>
+     <said id="14" mode="direct" content="writing" level="1">„Herr von Hardenberg hatte die Gutmüthigkeit und Freundlichkeit
+      sanguinischer, genußliebender Menschen, einen Verstand, der leicht faßte, Thätigkeit, ein
+      vortheilhaftes Aeußere.</said>
+    
+   
+  </p>
+      </body>
+   </text>
+</TEI>

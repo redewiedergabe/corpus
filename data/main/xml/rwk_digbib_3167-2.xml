@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>John Riew'</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_John_Riew_.tg255_1.xml</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">John Riew'</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Nun, die Gläser kamen, und die Herren hatten's immer nur mit dem einen Frauenzimmer, als wenn die Gummi-Elastiker sie gar nichts angingen, und sie gingen auch mich bald nichts mehr an, denn ich sah immer nur nach diesen vier Menschen. Da stößt meine Mutter mich in die Seite. <said id="2" mode="direct" content="speech" level="2">›Du‹</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">sagt</seg> <seg id="2" type="speaker">sie</seg>,</seg> <said id="2" mode="direct" content="speech" level="2">›<said id="28" mode="reported" content="thought" level="3" nonfact="yes" border="yes"><seg id="28" type="intExpr">kennst</seg> <seg id="28" type="speaker">du</seg> das Frauenzimmer in der lila Haube?</said>‹</said> <said id="29" mode="reported" content="speech" level="2">Und da <seg id="29" type="speaker">ich</seg> nein <seg id="29" type="intExpr">sage</seg></said> –: <said id="4" mode="direct" content="speech" level="2">›Frau Geyers‹</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">flüstert</seg> <seg id="4" type="speaker">sie</seg> mir <seg id="4" type="intExpr">zu</seg></seg>, und als die andere just den Kopf wendet: <said id="5" mode="direct" content="speech" level="2">›Herr Jesus!‹</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">ruf</seg> <seg id="5" type="speaker">ich</seg>,</seg> <said id="5" mode="direct" content="speech" level="2">›und da ist auch die Anna!‹</said> 
+                  In diesem Augenblick stand der vornehmere der Herren auf. <said id="6" mode="direct" content="speech" level="2">›Ihr Glas ist leer, Fräulein‹</said>, <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">sagt</seg> <seg id="6" type="speaker">er</seg> zu der Anna</seg>; aber, <seg id="7" type="frame" pos="start">indem <seg id="7" type="speaker">er</seg> sich wendet:</seg> <said id="7" mode="direct" content="speech" level="2">›Freund Jack, das war wohl eigentlich kein Getränk für Damen!‹</said> 
+                  <seg id="8" type="frame" pos="start">Der <seg id="8" type="speaker">andere</seg> <seg id="8" type="intExpr">lachte</seg>:</seg> <said id="8" mode="direct" content="speech" level="2">›Nur ein gustus, Edmund!‹</said> 
+                  <said id="9" mode="direct" content="speech" level="2">›Verzeihen Sie, meine Damen!‹</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">begann</seg> der <seg id="9" type="speaker">Vornehmere</seg> wieder</seg>; und <said id="10" mode="direct" content="speech" level="2">›Kellner! Kellner!‹</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">rief</seg> <seg id="10" type="speaker">er</seg> so laut</seg>, daß sie von allen Tischen ihn zornig ansahen und zu brummen anfingen; denn auf der Bühne ging jetzt ein Lustspiel vor sich. Aber er kehrte sich nicht daran, und <seg id="12" type="frame" pos="start">als der <seg id="12" type="speaker">Schlingschlang</seg> wieder vor ihm stand mit seinem atemlosen:</seg> <said id="12" mode="direct" content="speech" level="2">›<said id="13" mode="reported" content="speech" level="3" nonfact="yes"><seg id="13" type="speaker">Herrschaften</seg> <seg id="13" type="intExpr">befehlen</seg>?</said>‹</said>, <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">er</seg> :</seg> <said id="14" mode="direct" content="speech" level="2">›Champagner! Zwei Flaschen auf Eis!‹</said> 
+                  Nun, Kapitän, <seg id="30" type="frame" pos="start">das kann <seg id="30" type="speaker">ich</seg> Sie <seg id="30" type="intExpr">versichern</seg>,</seg> <said id="30" mode="indirect" content="speech" level="2">Anna hat nicht am wenigsten davon getrunken!</said> Ihr schmuckes Lärvchen brannte ordentlich, und daß sie mit der linken Hand sich auf den Tisch stützte, wenn sie sich erhob und mit den Herren anstieß, das war auch nicht von ungefähr! Hätte die Mutter nicht mit ziemlich trockenem Munde dabeigesessen, sie wäre nach dem Schauspiel wohl Gott weiß wohin gekommen ; denn der am vornehmsten aussah, der schien viel Gutes nicht mit ihr im Sinn zu haben!«</said> 
+                  Als das lustige <seg id="1" type="speaker">Mädchen</seg> mit ihrem Gespinst zu Ende war, <said id="15" mode="reported" content="speech" level="1" nonfact="yes"><seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">ich</seg> nichts</said>, denn mir war nicht eben wohl ums Herz, Nachbar; ich hörte nur, <said id="17" mode="reported" content="speech" level="1">daß jetzt die ältere <seg id="17" type="speaker">Schwester</seg> der jüngeren <seg id="17" type="intExpr">beistimmte</seg>.</said> <said id="16" mode="direct" content="speech" level="1">»<said id="31" mode="reported" content="speech" level="2" nonfact="yes"><seg id="31" type="speaker">Wir</seg> <seg id="31" type="intExpr">reden</seg> natürlich nicht davon</said>«</said><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">sagte</seg> <seg id="16" type="speaker">sie</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»aber ins Haus nehmen, das geht doch nicht!«</said> 
+                  <seg id="18" type="frame" pos="start">Und die <seg id="18" type="speaker">Jüngere</seg> warf den Kopf zurück:</seg> <said id="18" mode="direct" content="speech" level="1">»<said id="32" mode="reported" content="speech" level="2" prag="yes"><seg id="32" type="speaker">Ich</seg> <seg id="32" type="intExpr">danke</seg></said> – wenn der Herr Graf sie abends vor unserer Haustür erwartete – da könnte am Ende ich noch in den Geruch einer Gräfin kommen!«</said> 
+                  <said id="19" mode="direct" content="speech" level="1">»Sie haben völlig recht, Mamsell Nettchen, und das wäre wenig passend«</said><seg id="19" type="frame" pos="end">, <seg id="19" type="intExpr">sagte</seg> <seg id="19 20" type="speaker">ich</seg></seg> und <said id="20" mode="reported" content="speech" level="1"><seg id="20" type="intExpr">empfahl</seg> mich höflichst.</said> 
+                  – – <said id="21" mode="indirect" content="speech" level="1" nonfact="yes"><said id="22" mode="reported" content="speech" level="2">Daß ich beim Nachhausekommen mir unsere alte <seg id="22" type="speaker">Tugendhafte</seg> auf mein Zimmer <seg id="22" type="intExpr">bat</seg></said> und was <said id="33" mode="reported" content="speech" level="2">der Inhalt <seg id="33" type="speaker">unseres</seg> <seg id="33" type="intExpr">Gespräches</seg></said> gewesen</said><seg id="21" type="frame" pos="end">, brauche <seg id="21" type="speaker">ich</seg> Ihnen wohl nicht zu <seg id="21" type="intExpr">erzählen</seg></seg>; <seg id="34" type="frame" pos="start">aber soviel <seg id="34" type="intExpr">sah</seg> <seg id="34" type="speaker">ich</seg>,</seg> <said id="34" mode="indirect" content="thought" level="1" border="yes">die Apothekermädchen hatten jedenfalls nur mäßig übertrieben</said> ; die Herren aus der Zentralhalle aber waren freilich Biedermänner, der eine ein Graf, der andere ein Baron. 
+                  <said id="25" mode="direct" content="speech" level="1">»Riekchen, geht in Euch!«</said> <seg id="25" type="frame" pos="mid"><seg id="25" type="intExpr">rief</seg> <seg id="25" type="speaker">ich</seg>,</seg> <said id="25" mode="direct" content="speech" level="1">»besinnt Euch! Biedermänner, und Grafen und Barone? Und mit Euch in der Zentralhalle?«</said> 
+                  Das war zuviel. <said id="26" mode="direct" content="speech" level="1">»Ohm Riew'«</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">sagte</seg> <seg id="26" type="speaker">sie</seg>,</seg> <said id="26" mode="direct" content="speech" level="1">»unsere Anna ist ein Kind; – ich aber bin mein langes Leben hindurch eine ehrenwerte Frau gewesen! Wir werden sie nicht verunehrt haben!«</said> 
+                  Du lieber Gott! <seg id="27" type="frame" pos="start"><seg id="27" type="speaker">sie</seg> <seg id="27" type="intExpr">wußte</seg> nicht einmal,</seg> <said id="27" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">weshalb Rick Geyers in sein frühes Grab getaumelt war.</said> 
+                  
+                  Nicht lange darauf kam ich eines Abends spät nach Hause; da die Straßentür noch offenstand, so trat ich, ohne daß es schellte, in den Flur.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

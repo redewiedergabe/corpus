@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>5.Der alte Frey</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_5__Der_alte_Frey.tg10_1.xml</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">5.Der alte Frey</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="1" mode="reported" content="speech" level="1">Unheimliche <seg id="1" type="intExpr">Gerüchte</seg> liefen um über die Quelle seines Reichtums</said>, <seg id="3" type="frame" pos="start">zumal da <seg id="3" type="speaker">man</seg> <seg id="3" type="intExpr">behauptete</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">er glaube an keinen Gott und keinen Teufel; man sehe ihn nachts wie wütend in seinem Garten umherrasen, er habe seine Seele den Mächten der Finsternis verschrieben um Geld und Gut; auch verstehe er zu »knüpfen«, d.h. den Fall der Würfel im Spiele zu lenken.</said> Ja auch das Geheimnis, das den Tod seiner ersten Gattin deckte, sollte eine dunkle Tat verhüllen; <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">man</seg> <seg id="7" type="intExpr">flüsterte</seg> davon,</seg> <said id="7" mode="indirect" content="speech" level="1">er habe sie in einem Wutanfall mit der Papierschere erstochen.</said> 
+                  Wir aber wollen diese Geheimnisse ruhen lassen und uns an die Wirklichkeit halten. Der Frey war kein Engländer und kein indischer Nabob, er war sozusagen »nicht weit her«, ein eingeborenes Stadtkind. Aber von erlauchtem Geschlecht war er doch, wenngleich nur eines schlichten Bäckers Sohn; der erste Dichter des Schwabenlandes, der Ruhm und Glanz der kleinen Stadt, war sein leiblicher Vetter; ja, Freys Mutter hatte eine Zeitlang den Kleinen der Frau Hauptmann Schiller, ihrer Base, mit ihrem eigenen Knaben zugleich gestillt, und so hatte Frey dieselbe Muttermilch mit ihm getrunken. Und er war stolz auf diese glorreiche Verwandtschaft; <said id="9" mode="reported" content="speech" level="1">ja <seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">rühmte</seg> sich selbst eines Funkens von dem Dichtergeiste seines großen Milchbruders.</said> Zeuge des waren einige poetische Inschriften, die da und dort an Bäumen und auf Steinen in seinem Garten angebracht waren; <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">ich</seg> <seg id="28" type="intExpr">glaube</seg> aber </seg><said id="28" mode="indirect" content="thought" level="1" border="yes">seinem Dichterruhme mehr zu nützen, wenn ich der Phantasie des <seg id="12" type="speaker">Lesers</seg> überlasse, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">sich diese Verse selbst <seg id="12" type="intExpr">vorzudichten</seg></said>,<said id="29" mode="reported" content="speech" level="2" nonfact="yes"> als wenn <seg id="29" type="speaker">ich</seg> sie <seg id="29" type="intExpr">anführe</seg>.</said></said> 
+                  Vor langen Jahren war der Frey als ein rüstiger Bäckergesell in die Welt hinausgewandert, ein rasches, heißes, junges 
+Blut und ein heller Kopf; es ging Wien zu, dem Athen der Bäcker. <said id="30" mode="indirect" content="speech" level="1" nonfact="yes">Wie es ihm in der Fremde ergangen</said><seg id="30" type="frame" pos="end">, das kann <seg id="30" type="speaker">ich</seg> im einzelnen nicht <seg id="30" type="intExpr">erzählen</seg></seg>, <seg id="31" type="frame" pos="start">aus dem einfachen Grunde jenes <seg id="31" type="speaker">Juden</seg>:</seg> <said id="31" mode="direct" content="speech" level="1" border="yes">»i weiß aa nit«</said>; er kam in die stürmische Periode der Kriege mit Frankreich, und wenn er sich nicht als Krieger ins Schlachtgetümmel stürzte, so gelangte er doch dazu, sich selbst und dem Vaterlande zu dienen als Proviantkommissär. 
+                  <seg id="14" type="frame" pos="start">Die <seg id="14" type="speaker">Sage</seg> <seg id="14" type="intExpr">verlautet</seg> nicht,</seg> <said id="14" mode="indirect" content="speech writing" level="1" nonfact="yes">daß er jemals persönlichen Anteil am Kampf genommen</said>; zum Pulverriechen kam er jedenfalls. Der Glanzpunkt seiner Erinnerungen war, wie er einmal ganz in der Nähe des Generals Wurmser eine Talschlucht hinabgeritten, in einen Grund, wo das österreichische Heer sich aufstellen sollte. Mit dem praktischen Scharfblick, der ihm überall eigen war, <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">sah</seg> <seg id="16" type="speaker">er</seg> bald,</seg> <said id="16" mode="indirect" content="thought" level="1" border="yes">wie höchst unsicher die Position da unten werden würde</said>; <said id="17" mode="reported" content="speech" level="1"><seg id="17" type="speaker">er</seg> <seg id="17" type="intExpr">teilte</seg> die Bemerkung leise einem Subalternoffizier <seg id="17" type="intExpr">mit</seg></said>, <said id="19" mode="reported" content="speech" level="1"><seg id="19" type="speaker">der</seg> <seg id="19" type="intExpr">hieß</seg> ihn schweigen</said>; er wagte sich an den Adjutanten. <said id="21" mode="direct" content="speech" level="1">»<said id="22" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Was Donnerwetter will so ein <seg id="22" type="speaker">Mehlwurm</seg> <seg id="22" type="intExpr">wissen</seg>!</said>«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">schnauzte</seg> <seg id="21" type="speaker">der</seg> ihn an</seg>; <seg id="23" type="frame" pos="start">da faßte <seg id="23" type="speaker">er</seg> sich ein Herz und ritt an den General hinan:</seg> <said id="23" mode="direct" content="speech" level="1">»Aber Herr, so gehen wir alle zum Teufel!«</said> <seg id="24" type="speaker">Der</seg> schaute ihn mit großen Augen an, <said id="24" mode="reported" content="speech" level="1" nonfact="yes"><seg id="24" type="intExpr">fluchte</seg> aber nicht</said>; nach einer Weile ließ er halten und untersuchte mit dem Fernrohr nochmals das Gelände. <said id="25" mode="direct" content="speech" level="1">»Und Gott straf mich, er hat's geändert!«</said> <seg id="25" type="frame" pos="mid"><seg id="25" type="intExpr">rief</seg> der alte <seg id="25" type="speaker">Frey</seg> im höchsten Triumph;</seg> <said id="25" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="thought" level="2" border="yes" prag="yes"><seg id="26" type="intExpr">weiß</seg> <seg id="26" type="speaker">Gott</seg></said>, wir wären alle zum Teufel gegangen!«</said> 
+                  Mit einem Orden ist trotz dieses Verdienstes der Frey nicht heimgekehrt, wohl aber mit Errungenschaften von greifbarem Werte.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

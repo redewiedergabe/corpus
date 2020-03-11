@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Preußische Briefe.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341563_278509.txt_14.xml</f>
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Preußische Briefe.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+An eigentlichen Talenten fehlt es dieser Partei; <said id="1" mode="reported" content="thought" level="1">von <seg id="1" type="speaker">Professor Keller</seg>
+                        hatte man viel <seg id="1" type="intExpr">erwartet</seg></said>, aber er ist noch nicht hervorgetreten. Eben so wenig ist
+                        es den Regierungsräthen Stiehl und Ellwanger, von denen der erste in den
+                        Wahlversammlungen bedeutendes Aufsehn gemacht hatte, gelungen, mit ihrer Gottseligkeit das unruhige Publikum zu erbauen. <said id="27" mode="reported" content="speech" level="1">Die pommerschen Aristokraten,
+                        <seg id="27" type="speaker">Bismark-Schönhausen</seg>, <seg id="27" type="speaker">Kleist-Netzow</seg> u. s. w. sind wohl geeignet, den
+                        Gegnern von Zeit zu Zeit heilsame Grobheiten <seg id="27" type="intExpr">entgegenzuwerfen</seg></said>, aber sie stehen
+                        <said id="28" mode="reported" content="thought" level="1" prag="yes">den <seg id="28" type="intExpr">Ideen</seg> der neuen <seg id="28" type="speaker">Zeit</seg></said> zu fern, als daß sie einen wesentlichen Einfluß auf dieselbe ausüben könnten. <said id="23" mode="reported" content="speech" level="1">Dasselbe muß <seg id="23" type="speaker">ich</seg> von Bodelschwingh <seg id="23" type="intExpr">sagen</seg></said>; menschlich
+                        betrachtet, gewinnt man ihn lieb bei näherer Bekanntschaft, <said id="15" mode="reported" content="speech" level="1">aber von der staatsmännischen Haltung dieser tapfern Offiziere, denen der alte preußische <seg id="15" type="speaker">Staat</seg> seine
+                        Portefeuilles <seg id="15" type="intExpr">anvertraute</seg>, ist nicht viel zu rühmen.</said>
+               Der eigentliche Führer der Partei, die bis jetzt noch mit dem rechten Centrum gemeinsame Parteiversammlungen gehabt hat, die sich aber wohl in den
+                        nächsten Tagen unabhängig constituiren wird, ist Graf Arnim-Boitzenburg.
+                        Wäre er jetzt Minister, so würden wir wenigstens nicht täglich das klägliche
+                        Schauspiel erleben, daß die Regierung lediglich von der Gnade ihrer Freunde
+                        und von der Geduld ihrer Feinde lebt. Für die Zukunft ist er aber wohl unmöglich. <said id="6" mode="reported" content="thought" level="1">Diese feinen, vornehmen <seg id="6" type="speaker">Edelleute</seg> sind doch tiefer in die alten <seg id="6" type="intExpr">Ideen</seg>
+                        verrannt</said>, <said id="5" mode="reported" content="thought" level="1">als <seg id="5" type="speaker">ich</seg> <seg id="5" type="intExpr">geglaubt</seg> habe.</said>
+               
+               Das rechte Centrum — wir wollen den Namen beibehalten — enthält die
+                        alte ständische Opposition ans der Aristokratie und dem Bürgerstande und steht
+                        mit der Frankfurter Weidenbuschpartei, wie mit den Liberalen der ersten Kammer
+                        unter Graf Dyhrn in Verbindung. Sie hat nach der Revolution zwei Ministerien gebildet, aber nicht zum besondern Ruhm der Partei. Nachdem sich Pfuel
+                        unmöglich gemacht hatte, <said id="24" mode="reported" content="speech" level="1">war von einem dritten die <seg id="24" type="intExpr">Rede</seg></said>, einem Ministerium
+                        Beckerath; es kam nicht zu Stande. Gegenwärtig ist die bedeutendste Persönlichkeit dieser Partei, Vincke, auch ihr anerkannter Führer, <said id="16" mode="reported" content="thought" level="1">er <seg id="16" type="intExpr">ist</seg> aber den
+                        <seg id="16" type="speaker">Schwachen</seg> und <seg id="16" type="speaker">Halben</seg>, die sich in diesen Reihen nicht selten finden, zu <seg id="16" type="intExpr">schroff</seg></said>,
+                        <said id="17" mode="indirect" content="thought" level="1">und ob er als Minister die erforderliche Haltung bewahren würde</said><seg id="17" type="frame" pos="end">, läßt sich nach
+                        seinen beständigen Scharmützeln mit der Linken <seg id="17" type="intExpr">bezweifeln</seg>.</seg> Er war es, der die
+                        Organisation der rechten Seite leitete; er hat sie auch aufgelöst durch sein entschiednes Auftreten in der deutschen Frage. Für jetzt hat er nur einen sehr geringen Anhang, Schwerin ist in dieser Frage entschieden zur Rechten übergetreten, <said id="26" mode="indirect" content="thought" level="1">es ist</said><seg id="26" type="frame" pos="mid">, wie <seg id="26" type="speaker">ich</seg> <seg id="26" type="intExpr">glaube</seg>,</seg> <said id="26" mode="indirect" content="thought" level="1">nur die Partei Harkort, die mit Vincke hält.</said>
+               Der Natur der Sache nach, schien diese Partei bei einem etwaigen Rücktritt
+                        des Ministeriums Brandenburg zunächst geeignet, <said id="29" mode="reported" content="speech" level="1" nonfact="yes">an die Spitze der Verwaltung
+                        <seg id="29" type="intExpr">berufen</seg> zu werden.</said> Wäre die deutsche Angelegenheit erledigt, so hätte Gagern
+                        mit seiner mächtigen Persönlichkeit der Partei in der Regierung einen Halt gegeben. <said id="11" mode="reported" content="speech" level="1"><seg id="11 20" type="speaker">Man</seg> <seg id="11" type="intExpr">sprach</seg> von einer Combination Gagern — Beckerath — Camphausen
+                        - Vincke.</said> Wie die Sachen jetzt stehen, <said id="20" mode="reported" content="speech" level="1" nonfact="yes">ist davon vorläufig wenigstens keine
+                        <seg id="20" type="intExpr">Rede</seg> mehr.</said>
+               In den Bänken des linken Centrums sind aber die Aussichten nicht besser.
+                        Gesetzt, die <seg id="19" type="speaker">Krone</seg> käme in die Lage, <said id="19" mode="reported" content="thought" level="1" nonfact="yes" border="yes">die Antecedentien dieser Partei <seg id="19" type="intExpr">vergessen</seg>
+                        zu können</said>, <said id="14" mode="reported" content="speech" level="1" nonfact="yes"><seg id="14" type="speaker">sie</seg> <seg id="14" type="intExpr">beauftragte</seg> z. B. Hrn. v. Unruh mit der Bildung eines neuen
+                        Ministeriums</said>, so würde dieses muthmaßlich ebensowohl die eigentliche Linke als
+                        die gesammte Rechte gegen sich haben, da eine Coalition mit dem rechten Centrum
+                        nach den gehässigen Scenen der letzten Tage weniger Wahrscheinlichkeit für sich
+                        hat als je.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

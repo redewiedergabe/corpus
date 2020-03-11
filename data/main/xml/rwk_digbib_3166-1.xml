@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>In St. Jürgen</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_In_St__Juergen.tg232_1.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">In St. Jürgen</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Mein Gefährte blickte still vor sich hinaus. <said id="2" mode="direct" content="speech" level="1">»Ich bin dieser Unendlichkeit des Raumes so entwöhnt«</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">sagte</seg> <seg id="2" type="speaker">er</seg> einmal;</seg> <said id="2" mode="direct" content="speech" level="1">»mir ist jetzt hier, als sähe ich nach allen Seiten in die Ewigkeit.«</said> Dann schwieg er wieder, und ich störte ihn nicht. 
+                  Als wir etwa auf der Mitte des Weges aus einem Dorfe, durch das die Landstraße führte, wieder ins Freie kamen, <seg id="29" type="frame" pos="start"><seg id="29" type="intExpr">bemerkte</seg> <seg id="29" type="speaker">ich</seg>,</seg> <said id="29" mode="indirect" content="thought" level="1" border="yes">daß er den Kopf vorbeugte und eifrig auszulugen schien.</said> Dann beschattete er die Augen mit seiner Hand und wurde sichtbar unruhig. <said id="4" mode="direct" content="speech" level="1">»Ich sehe doch sonst noch so gut in die Ferne«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">er</seg> endlich,</seg> <said id="4" mode="direct" content="speech" level="1">»aber ich bemühe mich umsonst, unsern Turm von hier in Sicht zu bekommen, und doch hab ich ihn in meiner Jugend von hier aus immer zuerst begrüßt, wenn ich von einer Wanderung heimkehrte.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="reported" content="thought" level="2"><seg id="6" type="speaker">Sie</seg> müssen sich <seg id="6" type="intExpr">irren</seg></said>«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">erwiderte</seg> <seg id="5" type="speaker">ich</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»der niedrige Turm kann in solcher Entfernung noch nicht sichtbar sein.«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Niedrig!«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">rief</seg> der <seg id="7 12" type="speaker">Alte</seg> fast unwillig,</seg> <said id="7" mode="direct" content="speech" level="1">»der Turm hat seit Jahrhunderten auf viele Meilen in die See hin aus den Schiffern zum Wahrzeichen gedient!«</said> 
+                  <said id="8" mode="reported" content="thought" level="1">Da <seg id="8" type="intExpr">fiel</seg> es <seg id="8" type="speaker">mir</seg> <seg id="8" type="intExpr">bei</seg>.</said> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2" nonfact="yes"><seg id="10" type="speaker">Sie</seg> <seg id="10" type="intExpr">denken</seg> am Ende</said>«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">ich</seg> zögernd,</seg> <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2" nonfact="yes">noch an den Turm der alten Kirche, die vor reichlich vierzig Jahren abgebrochen wurde.</said>«</said> 
+                  Der Alte sah mich mit seinen großen Augen an, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">als ob <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">faselte</seg>.</said> <said id="12" mode="direct" content="speech" level="1">»Die Kirche abgebrochen – und vor über vierzig Jahren! Mein Gott, wie lange bin ich fort gewesen; ich habe niemals etwas davon erfahren!«</said> 
+                  Er faltete seine Hände und saß eine ganze Weile wie mutlos in sich zusammengesunken. <seg id="13" type="frame" pos="start">Dann <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">er</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Auf jenem schönen Turm, <said id="14" mode="reported" content="thought" level="2">der also nur in <seg id="14" type="speaker">meinen</seg> <seg id="14" type="intExpr">Gedanken</seg> noch vorhanden war</said>, <said id="26" mode="reported" content="speech" level="2">habe <seg id="26" type="speaker">ich</seg> vor nun bald fünfzig Jahren der das Wiederkommen <seg id="26" type="intExpr">versprochen</seg></said>, um deren willen ich jetzt diese weite Reise mache. <seg id="27" type="speaker">Ich</seg> will Ihnen, wenn Sie hören mögen, <said id="27" mode="reported" content="speech" level="2" nonfact="yes">dies Stück meines Lebens <seg id="27" type="intExpr">mitteilen</seg></said>; vielleicht, daß <seg id="31" type="speaker">Sie</seg> mir dann über die Hoffnung, die ich hege, <said id="31" mode="reported" content="speech" level="2" nonfact="yes">eine <seg id="31" type="intExpr">Auskunft</seg> zu geben vermögen.</said>«</said> 
+                  
+                     <said id="18" mode="reported" content="speech" level="1"><seg id="18" type="speaker">Ich</seg> <seg id="18" type="intExpr">versicherte</seg> den alten Herrn meiner Teilnahme</said>; und während unser Postillion in der warmen Mittagssonne auf seinem Sitze einnickte und die Räder langsam durch den Sand mahlten, <seg id="19" type="frame" pos="start"><seg id="19" type="intExpr">begann</seg> <seg id="19" type="speaker">er</seg> seine Erzählung:</seg> 
+                  <said id="19" mode="direct" content="speech" level="1">»In meiner Jugend hätte ich gern den Weg einer gelehrten Bildung eingeschlagen; da aber nach dem frühzeitigen Tode meiner Eltern die Mittel dazu nicht vorhanden waren, so blieb ich bei dem Handwerk meines Vaters, das heißt, ich wurde Tischler. Schon während ich als Geselle auf der Wanderschaft war, hatte ich nicht übel Lust, mich draußen anzusiedeln; denn es fehlte mir nicht ganz an Mitteln; aus dem Verkauf des väterlichen Hauses war mir ein rundes Sümmchen übriggeblieben, das für den Anfang schon genügte. Aber ich kehrte doch wieder heim, und das geschah um eines jungen blonden Mädchens willen. – <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Ich</seg> <seg id="20" type="intExpr">glaube</seg> nicht,</seg> <said id="20" mode="indirect" content="thought" level="2" nonfact="yes">daß ich jemals wieder so blaue Augen gesehen habe.</said> <seg id="21" type="frame" pos="start">Eine <seg id="21 23" type="speaker">Freundin</seg> <seg id="21" type="intExpr">sagte</seg> einmal im Scherz zu ihr:</seg> <said id="21" mode="direct" content="speech" level="2">›Agnes, ich pflück dir die Veilchen aus den Augen!‹</said> <said id="22" mode="reported" content="thought" level="2" border="yes"><said id="23" mode="reported" content="speech" level="3">Die <seg id="23" type="intExpr">Worte</seg></said> hab <seg id="22" type="speaker">ich</seg> nimmer <seg id="22" type="intExpr">vergessen</seg> können.</said>«</said> – Der Alte schwieg eine Weile und blickte verklärt vor sich hin, als sähe er noch einmal in diese Veilchenaugen seiner Jugend. Darauf, <said id="24" mode="reported" content="speech" level="1">während <seg id="24" type="speaker">ich</seg> fast unwillkürlich den Namen meiner alten Freundin in St. Jürgen bei mir selber <seg id="24" type="intExpr">sprach</seg></said>, <seg id="25" type="frame" pos="start"><seg id="25" type="intExpr">begann</seg> <seg id="25" type="speaker">er</seg> wieder:</seg> <said id="25" mode="direct" content="speech" level="1">»Sie war die Tochter eines Krämers, meines Vormundes.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

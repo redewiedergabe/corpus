@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Aus goldenem Kelch. Maria Magdalena</title>
+             <author>Trakl, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Trakl,_Georg_Aus_goldenem_Kelch__Maria_Magdalena.tg167_1.xml</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Aus goldenem Kelch. Maria Magdalena</f>
+         <f name="author">Trakl, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="2" mode="direct" content="speech" level="1">So gehen wir. Vielleicht ist eine Stunde gekommen, <said id="1" mode="reported" content="speech" level="2" nonfact="yes">da <seg id="1 2 11 12" type="speaker">ich</seg> es <seg id="1" type="intExpr">sagen</seg> werde können</said>, ohne <said id="11" mode="reported" content="speech" level="2">vor meinen eigenen <seg id="11" type="intExpr">Worten</seg></said> und <seg id="12" type="intExpr"><said id="12" mode="reported" content="thought" level="2">Gedanken</said></seg> erschaudern zu müssen.</said> (Sie gehen langsam den Weg nach Jerusalem zurück. Es ist Stille um sie.) 
+                  <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">MARCELLUS</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">Es ging vor sich in einer glühenden Sommernacht, da in der Luft das Fieber lauert und Mond die Sinne verwirrt. Da sah ich sie. Es war in einer kleinen Schenke. Sie tanzte dort, tanzte mit nackten Füßen auf einem kostbaren Teppich. Niemals sah ich ein Weib schöner tanzen, nie berauschter; der Rhythmus ihres Körpers ließ mich seltsam dunkle Traumbilder schauen, daß heiße Fieberschauer meinen Körper durchbebten. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Mir</seg> <seg id="4" type="intExpr">war</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2">als spiele dieses Weib im Tanz mit unsichtbaren, köstlichen, heimlichen Dingen, als umarmte sie göttergleiche Wesen, die niemand sah, als küßte sie rote Lippen, die sich verlangend den ihren neigten</said>; ihre Bewegungen waren die höchster Lust; es schien, als würde sie von Liebkosungen überschüttet. Sie schien Dinge zu sehen, die wir nicht sahen und spielte mit ihnen im Tanze, genoß sie in unerhörten Verzückungen ihres Körpers. Vielleicht hob sie ihren Mund zu köstlichen, süßen Früchten und schlürfte feurigen Wein, wenn sie ihren Kopf zurückwarf und ihr Blick verlangend nach oben gerichtet war. Nein! <said id="13" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="13" type="speaker">Ich</seg> habe das nicht <seg id="13" type="intExpr">begriffen</seg></said>, und doch war alles seltsam lebendig – es war da. Und sank dann hüllenlos, nur von ihren Haaren überflutet, zu unseren Füßen nieder. Es war, als hätte sich die Nacht in ihrem Haar zu einem schwarzen Knäuel zusammengeballt und entrückte sie uns. Sie aber gab 
+sich hin, gab ihren herrlichen Leib hin, gab ihn einem jeden, der ihn haben wollte, hin. Ich sah sie Bettler und Gemeine, sah sie Fürsten und Könige lieben. Sie war die herrlichste Hetäre. Ihr Leib war ein köstliches Gefäß der Freude, wie es die Welt nicht schöner sah. Ihr Leben gehörte der Freude allein. Ich sah sie bei Gelagen tanzen und ihr Leib wurde von Rosen überschüttet. Sie aber stand inmitten leuchtender Rosen wie eine eben aufgeblühte, einzig schöne Blume. Und ich sah sie die Statue des Dionysos mit Blumen kränzen, sah sie den kalten Marmor umarmen, wie sie ihre Geliebten umarmte, sie erstickte mit ihren brennenden, fiebernden Küssen. – – Und da kam einer, der ging vorbei, wortlos, ohne Geberde, und war gekleidet in ein härenes Gewand, und Staub war auf seinen Füßen. Der ging vorbei und sah sie an – und war vorüber. Sie aber blickte nach Ihm, erstarrte in ihrer Bewegung – und ging, ging, und folgte jenem seltsamen <seg id="14" type="speaker">Propheten</seg>, der sie vielleicht mit den Augen gerufen hatte, folgte <said id="14" mode="reported" content="speech" level="2">Seinem <seg id="14" type="intExpr">Ruf</seg></said> und sank zu Seinen Füßen nieder. Erniedrigte sich vor Ihm – und sah zu Ihm auf wie zu einem Gott; diente Ihm, wie Ihm die Männer dienten, die um Ihn waren.</said> 
+                  <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">AGATHON</seg>.</seg> <said id="5" mode="direct" content="speech" level="1">Du bist noch nicht zu Ende. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Ich</seg> <seg id="6" type="intExpr">fühle</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2"><said id="7" mode="reported" content="speech" level="3" nonfact="yes"><seg id="7" type="speaker">du</seg> willst noch etwas <seg id="7" type="intExpr">sagen</seg>.</said></said></said> 
+                  <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">MARCELLUS</seg>.</seg> <said id="8" mode="direct" content="speech" level="1"><said id="9" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Mehr <seg id="9" type="intExpr">weiß</seg> <seg id="9" type="speaker">ich</seg> nicht.</said> Nein! <seg id="10" type="frame" pos="start">Aber eines Tages <seg id="10" type="intExpr">erfuhr</seg> <seg id="10" type="speaker">ich</seg>,</seg> <said id="10" mode="indirect" content="speech" level="2" border="yes">daß sie jenen sonderlichen Propheten ans Kreuz schlagen wollten.</said> Ich erfuhr es von unserem Statthalter Pilatus. Und da wollte ich hinausgehen nach Golgatha, wollte Jenen sehen, wollte Ihn sterben sehen.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

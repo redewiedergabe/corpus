@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Nach dem Schluß des Zollparlaments.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341807_362043.txt_65.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Nach dem Schluß des Zollparlaments.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="reported" content="speech" level="1">Die <seg id="1" type="intExpr">Sprache</seg>, welche einige der <seg id="1" type="speaker">Heimgekehrten</seg> an ihre Wähler
+                        führen</said>, ist von so musterhafter Deutlichkeit und erinnert in ihrer Ungezwungenheit wieder so sehr an die schöne Zeit der rothen Plakate, daß <seg id="2" type="speaker">man</seg> das
+                        angelegentliche Bemühen sieht, sich <said id="2" mode="reported" content="thought" level="1">von jedem etwa angeflogenen <seg id="2" type="intExpr">Verdacht</seg>
+                        einer Besserung</said> aufs sorgfältigste zu reinigen. <seg id="3" type="frame" pos="start">Auch <seg id="3" type="intExpr">versichern</seg> die <seg id="3" type="speaker">Süddeutschen</seg> in ihrem officiellen Rechenschaftsbericht ausdrücklich,</seg> <said id="3" mode="indirect" content="writing" level="1">daß die eigene
+                        Anschauung der Dinge und Personen im Norden <said id="4" mode="reported" content="thought" level="2"><seg id="4" type="speaker">sie</seg> in ihren Ueberzeugungen nur <seg id="4" type="intExpr">befestigt</seg> hätte</said></said>, und <said id="5" mode="reported" content="thought" level="1">noch immer <seg id="5" type="intExpr">sehen</seg> <seg id="5" type="speaker">sie</seg> in den Verträgen nichts
+                        weiter als eine Garantie für die Selbständigkeit der Südstaaten und für
+                        deren Trennung vom politischen Leben des Nordens.</said>
+            Allein wenn auch eine Annäherung unserer <seg id="6" type="speaker">Schwaben</seg> an die nationalen
+                        und freisinnigen Parteien im Norden in keiner Weise stattgefunden hat, so
+                        ist doch die Thatsache, daß sie im Zollparlament überhaupt aushielten,<said id="6" mode="reported" content="speech" level="1"> <seg id="6" type="intExpr">mitberiethen</seg></said> und mitstimmten, — so wie die Dinge lagen — nicht zu unterschätzen. Ganz so eigenthümlich, wie man fürchten mußte, haben sie sich doch
+                        nicht erwiesen. Sie waren gewählt als die entschiedensten Feinde nicht blos
+                        des Nordhundes, sondern selbst des Zollparlaments. Wir wollen nicht wiederholen, <said id="8" mode="reported" content="speech" level="1">mit welchen schmeichelhaften <seg id="8" type="intExpr">Namen</seg> <seg id="8" type="speaker">sie</seg> diese Institution belegt hatten</said>,
+                        bevor sie sich selbst um Sitze in derselben bewarben. <seg id="9" type="frame" pos="start">Im Anfang war die
+                       <seg id="9" type="speaker"> Frage</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">ob sie überhaupt nach Berlin gehen oder mit einem Generalprotest
+                        zu Hause bleiben werden.</said> Es schien wirklich unmöglich, daß Moritz Mohl
+                        in einem Parlament sitze, <said id="10" mode="reported" content="speech" level="1">das der <seg id="10" type="speaker">König von Preußen</seg> nach seiner Hauptstadt <seg id="10" type="intExpr">berief</seg>.</said> Als sie doch nach Berlin gingen, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">hieß</seg> es,</seg> <said id="11" mode="indirect" content="speech" level="1">sie würden wenigstens die erste beste Gelegenheit ergreifen, mit einem Protest ihre Mandate
+                        niederzulegen.</said> <said id="12" mode="direct" content="speech" level="1">Protest, Protest!</said> <seg id="12" type="frame" pos="end">war die Mahnung, die ihnen täglich ihr
+                        <seg id="12" type="speaker">Organ</seg> nach Berlin <seg id="12" type="intExpr">zurief</seg>.</seg> In jedem Falle sollten sie dort eine rein negative Haltung einnehmen, gegen alle und jede Vorlage der Regierungen stimmen. Nichts von dem allen geschah. <seg id="13" type="frame" pos="start">Gleich im Beginn kam die überraschende <seg id="13" type="intExpr">Kunde</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">daß die erste Vorlage der Regierungen</said> — es war freilich
+                        nur der Handelsvertrag mit Spanien — <said id="13" mode="indirect" content="speech" level="1">einstimmig angenommen sei</said>, also
+                        auch die Süddeutschen hatten ihre Zustimmung nicht vorenthalten, sie waren
+                        mit bei der Arbeit. Und sie blieben dabei, auch als die Tage kamen<seg id="14" type="frame" pos="start">, von
+                        denen <seg id="14" type="speaker">sie </seg><seg id="14" type="intExpr">sagen</seg> mußten:</seg> <said id="14" mode="direct" content="speech" level="1">sie gefallen uns nicht.</said> Sie stimmten nicht nur mit,
+                        sondern <said id="15" mode="reported" content="speech" level="1"><seg id="15" type="speaker">sie</seg> <seg id="15" type="intExpr">redeten</seg> auch mit</said>, und so lebhaft war <said id="16" mode="reported" content="speech" level="1">ihre Betheiligung an den
+                        <seg id="16" type="intExpr">Debatten</seg></said>, daß einer der 17 Schwaben es war, welcher sich das schmückende
+                        Beiwort „der häufigste Redner des Parlaments" erwarb. Bei der Abstimmung über den französischen Handelsvertrag geschah sogar das unerwartete,
+                        daß sie sich spalteten in eine verträgliche und eine unverträgliche Hälfte, und
+                         
+            
+            somit der landsmannschaftliche Charakter, den sie sonst so ängstlich wahrten,
+                        erschüttert wurde. Es zeigte sich, daß, wenn <seg id="17" type="speaker">sie</seg> nur an den Arbeiten sich
+                        betheiligten, allmählich die sachlichen Momente auch <said id="17" mode="reported" content="thought" level="1">die eigensinnigsten <seg id="17" type="intExpr">Vorsätze</seg></said> durchbrechen mußten. Insofern kommen sie doch als andere von Berlin
+                        zurück als sie hingezogen sind. Auch insofern, <said id="18" mode="reported" content="speech" level="1">als <seg id="18" type="speaker">sie</seg> sich stets ganz nachdrücklich auf die Verträge <seg id="18" type="intExpr">beriefen</seg></said>, die ihnen innerlich so widerstreben und die
+                        ihnen jetzt unentbehrlich sind als der Anhalt für ihre Defensive. <said id="20" mode="reported" content="speech" level="1"><seg id="20" type="speaker">Thüngen</seg>
+                        und <seg id="20" type="speaker">Probst</seg> im Parlament selbst, <seg id="20" type="speaker">Oesterlen</seg> in der Volksversammlung vom
+                        18. Mai <seg id="20" type="intExpr">betheuerten</seg> um die Wette ihre Treue gegen die Verträge</said>, an welchen
+                        der Süden redlich festhalten werde, und <said id="22" mode="indirect" content="speech" level="1">die ja eigentlich</said><seg id="22" type="frame" pos="mid">, wie <seg id="22" type="speaker">Oesterlen</seg>
+                        meinte, </seg><said id="22" mode="indirect" content="speech" level="1">gar nicht nöthig gewesen wären, <seg id="23" type="frame" pos="start">da der <seg id="23" type="speaker">Süden</seg> ohnehin <seg id="23" type="intExpr">wisse</seg>,</seg> <said id="23" mode="indirect" content="thought" level="2" border="yes">was
+                        die nationale Pflicht erfordere</said></said>; <said id="24" mode="reported" content="writing" level="1">und noch im <seg id="24" type="speaker">Rechenschaftsbericht</seg> haben die
+                        vertragsmäßigen Pflichten ihre Stelle gefunden.
+</said>
+
+</p>
+      </body>
+   </text>
+</TEI>

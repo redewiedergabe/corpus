@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Blockade-Brecher</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Die_Blockade_Brecher.tg1931_1.xml</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Blockade-Brecher</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">dash chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">– Potz Tausend, Meister <seg id="2" type="speaker">Crockston</seg>, <said id="4" mode="reported" content="thought" level="2" nonfact="yes"><seg id="4" type="speaker">Du</seg> <seg id="4" type="intExpr">hältst</seg> wohl gar den Delphin für eine Schiffsjungenschule?</said></said> 
+                     <said id="2" mode="direct" content="speech" level="1">– Verachten Sie nicht die Schiffsjungen, Herr <seg id="1 3 21" type="speaker">Kapitän</seg>, es hat einmal Einen gegeben, aus dem ist der Admiral Nelson geworden, und noch Einen, aus dem wurde der Admiral Franklin.</said> 
+                     <said id="3" mode="direct" content="speech" level="1">– Potz Blitz! Freund, Du könntest mir gefallen. Bringe Deinen Neffen her, aber wenn sein Onkel solch ein tüchtiger Kerl nicht ist, wie er vorgiebt, wird er's mit mir zu thun bekommen. Mach Dich fort und sei in einer Stunde wieder hier.«</said> 
+                     <said id="21" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">Crockston ließ sich das nicht zwei Mal <seg id="21" type="intExpr">sagen</seg></said>, er grüßte ziemlich linkisch und begab sich auf den Kai zurück. Eine Stunde später traf er mit seinem Neffen, einem Bürschchen von vierzehn bis fünfzehn Jahren, wieder ein. Der kleine Kerl sah sehr furchtsam und erstaunt aus und schien eine ziemlich zarte Constitution zu haben, von den körperlichen Eigenschaften seines Onkels hatte er jedenfalls nicht viel geerbt. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Crockston</seg> mußte ihm sogar schon jetzt Muth <seg id="6" type="intExpr">einsprechen</seg>:</seg> 
+                     <said id="6" mode="direct" content="speech" level="1">»Nur immer dreist und munter</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">raunte</seg> <seg id="6" type="speaker">er</seg> ihm zu, als sie auf's Verdeck stiegen,</seg><said id="6" mode="direct" content="speech" level="1"> es ist immer noch Zeit zum Umkehren.</said> 
+                     <said id="7" mode="direct" content="speech" level="1">– Nein, nein!</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">rief</seg> der <seg id="7" type="speaker">Kleine</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">Gott bewahre uns davor!«</said> 
+                     <said id="8" mode="reported" content="writing" level="1">Noch an demselben Tage wurden der Matrose Crockston nebst seinem Lehrling John Stiggs in die Bemannungsliste des Delphin <seg id="8" type="intExpr">eingetragen</seg>.</said> 
+                     Am folgenden Morgen um fünf Uhr waren die Feuer unter den Kesseln kräftig geschürt, das Verdeck bebte unter den Schwingungen des Kessels, und der Dampf entwich zischend durch die Ventile. Die Stunde der Abfahrt war gekommen. 
+                     
+                        Eine Menge Volks drängte sich trotz der frühen Tageszeit auf den Kais und auf Glasgow-Bridge, um zum letzten Mal den Steamer zu grüßen, und auch <seg id="22 10 24" type="speaker">Vincent Playfair</seg> hatte sich eingefunden, <said id="22" mode="reported" content="speech" level="1" nonfact="yes">um sich von Kapitän James zu <seg id="22" type="intExpr">verabschieden</seg></said> und ihn zu umarmen; er benahm sich wie ein alter Römer aus längst vergangener Zeit; seine heroische Fassung verließ ihn keinen Augenblick, und die beiden kräftigen Küsse, die er seinem Neffen rechts und links auf die Wangen applicirte, ließen auf eine große Seele schließen. 
+                     <said id="10" mode="direct" content="speech" level="1">»Reise glücklich, <seg id="11" type="speaker">James</seg></said><seg id="10" type="frame" pos="mid">, lauteten seine <seg id="10" type="intExpr">Abschiedsworte</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">reife schnell und kehre noch schneller wieder heim. <seg id="11" type="frame" pos="start">Besonders aber <seg id="11" type="intExpr">vergiß</seg> nicht,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">die Situation auszunutzen</said>; verkaufe so theuer wie möglich und kaufe billig wieder ein; <said id="23" mode="reported" content="thought" level="2" nonfact="yes">die Achtung Deines Onkels soll <seg id="23" type="speaker">Dir</seg> dann <seg id="23" type="intExpr">gewiß</seg> sein.</said>«</said> 
+                     Nach <said id="24" mode="reported" content="speech" level="1">dieser letzten <seg id="24" type="intExpr">Anempfehlung</seg></said>, die aller Wahrscheinlichkeit nach dem »Handbuch des perfecten Kaufmanns« entlehnt war, trennten sich Neffe und Onkel, und alle Besucher verließen das Schiff. 
+                     Crockston und John Stiggs standen neben einander auf der Schanz, <seg id="13" type="frame" pos="start">und der <seg id="13" type="speaker">Matrose</seg> <seg id="13" type="intExpr">sagte</seg> zu dem Kleinen:</seg> 
+                     <said id="13" mode="direct" content="speech" level="1">»Du sollst es sehen, Alles geht prächtig. In zwei Stunden sind wir auf hoher See, <seg id="14" type="frame" pos="start">und <seg id="14" type="speaker">ich</seg> <seg id="14" type="intExpr">ahne</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2">daß <seg id="15" type="speaker">uns</seg> die ganze Reise <said id="15" mode="reported" content="thought" level="3">nach <seg id="15" type="intExpr">Wunsch</seg></said> gehen wird</said>, nun wir mit dem Anfang solch gutes Glück gehabt haben!«</said> 
+                     <said id="25" mode="reported" content="speech" level="1" nonfact="yes">Statt aller <seg id="25" type="intExpr">Antwort</seg></said> drückte der <seg id="25" type="speaker">Lehrling</seg> seinem Onkel die Hand. 
+                     <said id="16" mode="reported" content="speech" level="1"><seg id="16" type="speaker">James Playfair</seg> gab den letzten <seg id="16" type="intExpr">Befehl</seg> zur Abfahrt.</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Ist voller Dampf?</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">fragte</seg> <seg id="17" type="speaker">er</seg> den <seg id="18" type="speaker">Obersteuermann</seg>.</seg>
+                     
+                        Der Delphin entschwand bald den Augen der Menge. (S. 175.)
+                        
+                     
+                     <said id="18" mode="direct" content="speech" level="1">– Ja, Herr <seg id="19" type="speaker">Kapitän</seg>.</said> 
+                     <said id="19" mode="direct" content="speech" level="1">– Die Ankertaue aufwinden!«</said> 
+                     Das Manoeuvre wurde sofort ausgeführt, die Schrauben setzten sich in Bewegung, der Delphin ging zwischen den Schiffen, die im Hafen lagen, hindurch und entschwand bald den Augen der <seg id="20" type="speaker">Menge</seg>, <said id="20" mode="reported" content="speech" level="1">die ihm noch mit einem letzten Hurrah einen <seg id="20" type="intExpr">Gruß</seg> nachsandte.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

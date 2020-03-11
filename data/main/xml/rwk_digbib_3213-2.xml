@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frritt-Flacc!</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Frritt_Flacc_.tg1973_1.xml</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Frritt-Flacc!</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Frocc! – An der links an der Ecke der Messaglière-Straße gelegenen Thür des Sechs-Vier-Hauses ertönte bescheidenes Klopfen. Es ist eines der vornehmsten Häuser, <said id="24" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">wenn <seg id="24" type="speaker">man</seg> von einem solchen in Luktrop dieses <seg id="24" type="intExpr">Wort</seg> <seg id="24" type="intExpr">gebrauchen</seg> kann</said>, und eines der reichsten, <said id="25" mode="reported" content="speech" level="1" nonfact="yes" border="yes" prag="yes">wenn der Umstand, jahraus jahrein einige Tausend Fretzers zu verdienen, Reichthum <seg id="25" type="intExpr">genannt</seg> werden kann.</said> 
+                     Auf dieses Klopfen antwortete ein wüthendes, mit Geheul vermischtes Bellen, als rührte es von einem Wolfe her. Dann öffnete sich ein Schiebfenster über der Thüre des Sechs-Vier-Hauses. 
+                     <said id="1" mode="direct" content="speech" level="1">»Zum Teufel mit dem Störenfried!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">rief</seg> eine unangenehme, brummige <seg id="1 3 5 7" type="speaker">Stimme</seg>.</seg> 
+                     <seg id="2" type="frame" pos="start">Ein junges, von Regen fröstelndes und mit einer schlechten Hülle bekleidetes <seg id="2 4 6 8" type="speaker">Mädchen</seg> <seg id="2" type="intExpr">fragte</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">ob der Doctor Trifulgas zu Hause sei.</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Er ist da oder nicht – das kommt auf den Umstand an.</said> 
+                     <said id="4" mode="direct" content="speech" level="1">– Ich komme wegen meines Vaters, der im Sterben liegt.</said> 
+                     <said id="5" mode="direct" content="speech" level="1">– Wo stirbt er denn?</said> 
+                     
+                         <said id="6" mode="direct" content="speech" level="1">– Da, in der Richtung des Karniuthales, vier Kertses von hier.</said> <said id="7" mode="direct" content="speech" level="1">– Und er heißt?...</said>
+                     <said id="8" mode="direct" content="speech" level="1">– Vort Kartif.«</said> 
+                  
+               
+            
+            
+               
+                  
+                     III. 
+                     Es ist ein hartherziger Mann, dieser Doctor Trifulgas, der keine Theilnahme kennt und seine Hilfe nur gegen Vorausbezahlung gewährt. Sein alter Hurzof, ein Bastard von Bulldogge und Spürhund, besaß vielleicht mehr Herz als er. Das gegen arme Leute ungastliche Sechs-Vier-Haus öffnete sich nur für die Wohlhabenden und Reichen. Hier ging übrigens Alles nach Tarif, so viel für den Typhus, so viel für eine Congestion und so viel für eine Herzbeutelentzündung, und für andere Krankheiten, welche die Aerzte ja dutzendweise erfinden. Der Kringelbäcker Vort Kartif war aber ein armer Mann und von niedrigem Herkommen. Warum sollte sich da der Doctor Trifulgas belästigen und noch dazu in einer solchen Nacht! 
+                     <said id="11" mode="direct" content="speech" level="1">»Schon allein, daß ich aufstehen mußte</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">murmelte</seg> <seg id="11" type="speaker">er</seg>, sich wieder niederlegend,</seg> <said id="11" mode="direct" content="speech" level="1">müßte mindestens zehn Fretzers kosten!«</said> 
+                     Kaum waren zwanzig Minuten verflossen, als der eiserne Hammer an der Thür des Sechs-Vier-Hauses auf's Neue anschlug. 
+                     <seg id="12" type="frame" pos="start">Mit einer Verwünschung erhob sich der <seg id="12 14 16 18 20 21" type="speaker">Doctor</seg> wieder aus dem Bette und <seg id="12" type="intExpr">rief</seg> zum Fenster hinausgebeugt in die Nacht draußen:</seg> 
+                     <said id="12" mode="direct" content="speech" level="1">»Wer ist da?</said> 
+                     <said id="13" mode="direct" content="speech" level="1">– Ich bin die <seg id="13 15 17 19" type="speaker">Frau</seg> des Vort Kartif.</said> 
+                     <said id="14" mode="direct" content="speech" level="1">– Des Kringelbäckers aus dem Karnin-Thale?</said> 
+                     <said id="15" mode="direct" content="speech" level="1">– Ja, und wenn Sie es abschlagen, mitzukommen, wird er sterben.</said> 
+                     <said id="16" mode="direct" content="speech" level="1">– Nun gut, da würden Sie eben zur Witwe.</said> 
+                     <said id="17" mode="direct" content="speech" level="1">– Hier sind zwanzig Fretzers...</said>
+                     <said id="18" mode="direct" content="speech" level="1">– Zwanzig Fretzers, um bis nach dem Karnin-Thale, vier Kertses von hier, zu gehen!</said> 
+                     <said id="19" mode="direct" content="speech" level="1">– Thun Sie es aus Barmherzigkeit!</said> 
+                     
+                         <said id="20" mode="direct" content="speech" level="1">– Gehen Sie zum Teufel!«</said> 
+                     Das Fenster klappte wieder zu. <said id="21" mode="freeIndirect" content="thought" level="1">Zwanzig Fretzers! Das wäre eine Aussicht! Einen Schnupfen zu riskiren oder eine Gelenksteifigkeit für zwanzig Fretzers, vorzüglich wenn man am anderen Morgen in Kilteno bei dem reichen gichtbrüchigen Edzingow erwartet wird, dessen Gicht sich so hübsch mit fünfzig Fretzers für jeden Besuch ausbeuten läßt!</said> 
+                     Mit dieser höchst angenehmen Aussicht schlief Doctor Trifulgas noch fester als vorher wieder ein. 
+                  
+               
+            
+            
+               
+                  
+                     IV. 
+                     Frritt!... Flacc!... dann lauter schon Frocc!... Frocc!... Frocc...
+                     Durch das Toben des Sturmwindes tönen jetzt drei, schon mit entschiedener Hand geführte Thürhammerschläge. Der <seg id="23" type="speaker">Doctor</seg> schlief. Er erwachte von dem Schall, aber in welcher Laune! Als das Fenster aufging, drang der Orkan gleich einem Kartätschenhagel in's Zimmer. 
+                     <said id="22" mode="direct" content="speech" level="1">»Ich komme wegen des Kringelbäckers...</said>
+                     <said id="23" mode="direct" content="speech" level="1">– Immer wieder dieser Unselige...</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Literatur</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341588_105276.txt_68.xml</f>
+         <f name="year">1858</f>
+         <f name="decade">1850</f>
+         <f name="title">Literatur</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="frame" pos="start">Es ist zu <seg id="1" type="intExpr">hoffen</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">daß die edle Arbeit von Haupt zu neuen Untersuchungen
+                        anregen und dazu helfen wird, diese und andere Zweifel über Neidharts Poesie
+                        aufzuklären.</said>
+            Balbis allgemeine Erdbeschreibung oder Haushund des geographischen Wissens. Vierte Auflage. Bearbeitet von Dr. Bergbaus. 2 Bände.
+                        Pest, Wien und Leipzig. Verlag von C. U. Hartlebcn 1867 und 1858. Der
+                        Venetianer Adriano Balbi ist eine der ersten Großen auf dem Gebiete der Geographie und Statistik. Sein Atlas ethnographique du globe ist mit seinen reichen
+                        Zusammenstellungen und Uebersichten, bei denen auch die deutschen Forschungen
+                        berücksichtigt und namentlich die Resultate der vergleichenden Sprachkunde zur
+                        Anwendung gekommen sind, noch jetzt unübertroffen, <said id="11" mode="reported" content="writing" level="1">und sein Abrégé de géographie wurde fast in alle moderne Sprachen <seg id="11" type="intExpr">übersetzt</seg>.</said> Eine dieser Uebersetzungen
+                        ist die Grundlage des obigen Buchs, dessen frühere Auflagen eine ungewöhnliche
+                        Verbreitung gefunden haben, und welches in seiner jetzigen Gestalt allen Ansprüchen genügt, die man heutzutage an ein Handbuch' der Geographie zu stellen
+                        berechtigt ist. Namentlich zeichnet sich sein System durch Einfachheit und Uebersichtlichkeit aus, Eigenschaften, die sich nicht vielen Werken ähnlicher Art nachrühmen
+                        lassen. <said id="12" mode="reported" content="writing" level="1">Die <seg id="12" type="intExpr">Bearbeitung</seg> durch <seg id="12" type="speaker">Dr. Berghaus</seg></said> ist in den Hauptsachen durchaus
+                        gründlich und gewissenhaft. Mit sehr wenigen Ausnahmen fanden wir, daß dabei
+                        die zuverlässigsten Quellen über die einzelnen Gegenstände benutzt und alle wichtigeren
+                        geographischen Entdeckungen, alle irgend bedeutsamen Veränderungen auf dem
+                        Gebiete der Erdkunde bis auf das Jahr 1855 berücksichtigt worden waren. Mit besonderer Ausführlichkeit ist selbstverständlich Europa behandelt, und sind hier auf die Beschreibung Oestreichs allein mehr als acht Bogen von dem Format des brockhausschen Con- 
+            
+            versationslexikons und zum Theil sehr engem Druck, auf Preußen circa fünf Bogen, auf
+                        Frankreich ebenso viel verwendet. Daß kleine Irrthümer vorkommen, ist bei einem Werke,
+                        welches so umfassende Detailkenntniß voraussetzt, begreiflich. Wir machen nur auf
+                        einen aufmerksam, der in jetziger Zeit ganz vorzüglich eine Berichtigung erheischt.
+                        <seg id="3" type="frame" pos="start">Seite 810 <seg id="3" type="intExpr">heißt</seg> es,</seg> <said id="3" mode="indirect" content="writing" level="1">in Schleswig seien V» der Einwohner Dünen</said>, <seg id="4" type="frame" pos="start">und einige
+                        Zeilen weiter unten wird <seg id="4" type="intExpr">gesagt</seg>!</seg> <said id="4" mode="direct" content="writing" level="1">„Unter den 363,000 Einwohnern, welche das
+                        Herzogthum Schleswig 1845 hatte (es hat jetzt mehr als 400,000), befanden sich
+                        125,000, <said id="5" mode="reported" content="speech" level="2" border="yes"><seg id="5" type="speaker">welche</seg> deutsch in ihrer platten Mundart <seg id="5" type="intExpr">sprachen</seg></said>, 122,000 hatten die
+                        Districte, wo die dänische Sprache in Kirchen und Schulen gebräuchlich, und
+                        51,000 E. diejenigen ursprünglich dänischen Districte (inne?), wo dies nicht mehr
+                        der Fall war,<said id="6" mode="reported" content="speech" level="2" border="yes"> <seg id="6" type="speaker">36,000 E.</seg> <seg id="6" type="intExpr">sprachen</seg> sowol deutsch als dänisch</said>,<said id="7" mode="reported" content="speech" level="2" border="yes"> und <seg id="7" type="speaker">29,000 E.</seg>
+                       <seg id="7" type="intExpr"> bedienten sich</seg> der französischen Mundart.</said>"</said> Dies ist dahin abzuändern, daß die
+                        Dänen sich in Schleswig zu den Deutschen etwa wie 4 zu 5 verhalten,<said id="8" mode="reported" content="speech" level="1" border="yes"> daß von
+                        den <seg id="8" type="speaker">Einwohnern</seg> des Herzogthums mit Einschluß der Friesen reichlich 220,000
+                        sich des Deutschen als Umgangssprache <seg id="8" type="intExpr">bedienen</seg></said>, und daß durch das sogenannte
+                        Sprachrescript die dänische Kirchen- und Schulsprache über Districte, die von mehr
+                        als 40,000 dcutschredenden Schleswigern bewohnt sind, ausgedehnt worden ist.
+                        Ebenso unrichtig ist es, wenn der Bearbeiter das Amt Hütten, <said id="9" mode="reported" content="speech" level="1" nonfact="yes" border="yes">wo seit länger als
+                        hundert Jahren <seg id="9" type="speaker">niemand</seg> dänisch <seg id="9" type="intExpr">spricht</seg></said>, nur größtentheils von Deutschredenden,
+                        das Amt Gottorf, <said id="10" mode="reported" content="speech" level="1" border="yes">von dessen <seg id="10" type="speaker">Einwohnern</seg> nicht der zehnte Theil das dänische
+                        Patois Schleswigs <seg id="10" type="intExpr">redet</seg></said>, sogar hauptsächlich von Dänischsprechenden bewohnt sein
+                        läßt.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

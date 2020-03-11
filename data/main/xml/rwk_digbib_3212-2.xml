@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Drama in Mexico</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Ein_Drama_in_Mexico.tg1890_1.xml</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Ein Drama in Mexico</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+
+Einige Stunden später lag die Brigg Constanzia im inneren Hafen und wurde ihre Besatzung bei den freudig erregten Bewohnern von Acapulco einquartiert. 
+                     Als aber Martinez seine Leute zum Appell versammelte, waren Paplo und Jacopo spurlos verschwunden. – – 
+                     Von allen Ländern der Erde unterscheidet sich Mexico durch die Höhe und Ausdehnung des Plateaus, welches seine Mitte einnimmt. Die Kette der Cordilleren durchzieht unter dem allgemeinen Namen der Anden ganz Mittelamerika, durchfurcht Guatemala und theilt sich bei ihrem Eintritte in Mexico in zwei Arme, welche parallel den Küsten des Gebietes verlaufen. Diese beiden Arme bilden eigentlich nur die Abhänge des ungeheuren Plateaus von Anahuac, welches sich bis auf 2500 Meter über die benachbarten Meere erhebt. Diese Reihe von Stufenebenen, die weit ausgedehnter, aber ebenso einförmig sind als jene von Peru und Neu-Granada, nimmt etwa drei Fünftel des Landes ein. Mit ihrem Eintritte in das alte Territorium Mexicos nehmen die Cordilleren den Namen »Sierra Madre« an, und nach ihrer Theilung in drei Zweige, etwa in der Höhe der Städte San Miguel und Guanaxato, verbreiten und verlieren sie sich bis zum 57. Grade nördlicher Breite. 
+                     Zwischen dem Hafen Acapulco und der Stadt Mexico, einer Strecke von achtzig Lieues, gestaltet sich das Terrain weniger zerissen und treten die Bergabhänge weniger steil auf, als zwischen Mexico und Vera-Cruz. Nach Ueberschreitung der Granitgebirge in den dem Großen Ocean benachbarten Zügen, in welche auch der Hafen von Acapulco eingeschnitten ist, begegnet der Reisende nur noch jenen Porphyrfelsen, denen die Industrie den Gips, den Basalt, Urkalk, das Zinn, Kupfer, Eisen, Silber und Gold entnimmt.
+                     
+                        <said id="1" mode="direct" content="speech" level="1">»Beeilen wir uns!«</said><seg id="1" type="frame" pos="end"> <seg id="1" type="intExpr">mahnte</seg> <seg id="1" type="speaker">Martinez</seg>.</seg> (S. 418.)
+                        
+                     
+                     Gerade die Straße von Acapulco nach Mexico aber bietet herrliche Aussichtspunkte, ganz eigenthümliche Erscheinungen in der Pflanzenwelt, welche zwei neben einander, einige Tage nach dem Eintreffen der Brigg Constanzia dahin trabende Reiter manchmal beachteten, und manchmal ganz vernachlässigten. 
+                     Das waren Martinez und José. Der <seg id="2" type="speaker">Letztere</seg> kannte den Weg vollkommen.<said id="2" mode="freeIndirect" content="thought" level="1"> Wie oft hatte er nicht die Berge von Anahuac durchzogen! </said><said id="3" mode="reported" content="speech" level="1">Eben deshalb <seg id="3" type="intExpr">lehnten</seg> <seg id="3" type="speaker">sie</seg> auch <seg id="4" type="frame" pos="start">das <seg id="3" type="intExpr">Anerbieten</seg>,</seg> <said id="4" mode="indirect" content="speech" level="2">einen indianischen Führer mit zu nehmen</said>, <seg id="3" type="intExpr">ab</seg></said>, versorgten sich nur mit ausgezeichneten Pferden und ritten nun in schnellstem Schritte nach der Hauptstadt Mexicos. 
+                     Nach einem zweistündigen scharfen Trabe,<said id="5" mode="reported" content="speech" level="1" nonfact="yes"> der <seg id="5" type="speaker">sie</seg> am <seg id="5" type="intExpr">Sprechen</seg> hinderte</said>, machten sie Halt.
+                    <said id="6" mode="direct" content="speech" level="1"> »Schritt reiten, Lieutenant!</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">rief</seg> <seg id="6 8 12" type="speaker">José</seg> erschöpft.</seg> <said id="12" mode="direct" content="speech" level="1">Santa-Maria! Da würde ich es doch vorziehen, bei einem steifen Nordwest zwei Stunden lang auf dem großen Topmaste zu reiten.</said> 
+                   <said id="7" mode="direct" content="speech" level="1">  – Beeilen wir uns!</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">entgegnete</seg> <seg id="7 13" type="speaker">Martinez</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">– Du kennst doch die Straße gut, José, nicht wahr, ganz genau?.</said>
+                   <said id="8" mode="direct" content="speech" level="1">  – So gut wie Sie die Straße von Cadix nach Vera-Cruz, und hier haben wir weder die Stürme des Golfs, noch die Sandbänke von Taspan oder Santander zu fürchten, die uns aufhalten könnten!... Aber Schritt!</said> 
+                     <said id="9" mode="direct" content="speech" level="1">– Nein, lieber schneller</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">erwiderte</seg> <seg id="9 11 14" type="speaker">Martinez</seg>, indem er seinem Rosse die Sporen gab.</seg> <said id="14" mode="direct" content="speech" level="1">Ich fürchte dieses Verschwinden Pablo's und Jacopo's. Sollten sie allein bei dem Handel profitiren und unseren Antheil stehlen wollen?</said> 
+                    <said id="10" mode="direct" content="speech" level="1"> – Beim heiligen Jacobi Das fehlte noch</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">versetzte</seg> cynisch der <seg id="10" type="speaker">Mastwart</seg>,</seg><said id="10" mode="direct" content="speech" level="1"> – an solchen Dieben, wie wir sind, zu Dieben zu werden!</said> 
+                    <said id="11" mode="direct" content="speech" level="1"> – Wie viele, Tagereisen werden wir bis Mexico brauchen?
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

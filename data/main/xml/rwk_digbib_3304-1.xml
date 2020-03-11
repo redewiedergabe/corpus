@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Fischersohn, der Rappe und der Schimmel</title>
+             <author>Wolf, Johann Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wolf,_Johann_Wilhelm_Der_Fischerssohn__der_Rappe_und_der_Schimmel.tg7_1.xml</f>
+         <f name="year">1851</f>
+         <f name="decade">1850</f>
+         <f name="title">Der Fischersohn, der Rappe und der Schimmel</f>
+         <f name="author">Wolf, Johann Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">other</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+In einem großen Walde lag ein großer See, daran wohnte ein Fischer mit seiner Frau. Gott hatte ihnen fünf Söhne geschenkt, einer schöner als der andere. Jeden Tag, sobald der Morgen anbrach, zog der Fischer zu dem See und warf seine Netze aus und Abends zog er sie ein und stets hatte er sie voll guter, schöner Fische. Es war als ob ein besonderer Segen auf seiner Arbeit ruhe; der schien von einem kleinen grauen Männchen herzukommen, welches sich jeden Tag an dem See sehen ließ und in dem Kahne und an den Netzen herumsprang, als ob es den Fischen locke. 
+                  Als die Söhne größer wurden, mußten sie mit auf den Fischfang ausziehen und das ging der Reihe nach, jeden Tag ein andrer; die übrigen vier trugen derweil die Fische in die Stadt und verkauften sie um ein schön Stück Geld. Der Jüngste, welcher eben zwanzig Jahre alt war, zog auch eines Tages wieder mit zum See, aber das graue Männchen ließ sich an dem Morgen nicht blicken und Abends war kein Fisch im Netz. Schon wollten die Beiden heimgehn, <seg id="1" type="frame" pos="start">da kam <seg id="1 4" type="speaker">es</seg> daher gesprungen und <seg id="1" type="intExpr">frug</seg>:</seg><said id="1" mode="direct" content="speech" level="1"> ›Nun ihr Leutchen, ihr Leutchen, wie geht es heut?‹</said><said id="3" mode="direct" content="speech" level="1"> ›Schlecht, sehr schlecht,‹</said> <seg id="3" type="frame" pos="mid"><seg id="3" type="intExpr">sprach</seg> der <seg id="3" type="speaker">Fischer</seg>,</seg><said id="3" mode="direct" content="speech" level="1"> ›wir haben nicht einen Fisch gefangen.‹</said> <said id="4" mode="direct" content="speech" level="1">›Fischer, willst du mir dort deinen jüngsten Sohn verkaufen?‹</said> <said id="5" mode="direct" content="speech" level="1">›Um keinen Preis verkaufe ich mein eigen Fleisch und Blut‹</said> 
+<seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">rief</seg> der <seg id="5" type="speaker">Mann</seg>.</seg><said id="7" mode="direct" content="speech" level="1"> ›Ich fülle dir deinen Nachen mit purem gelbem Gold, so daß du ein reicher Mann bist auf ewige Zeit‹</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">sprach</seg> das <seg id="7 10" type="speaker">Männchen</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">›thust du es aber nicht, dann hast du keinen Vorsput mehr und hast gestern deinen letzten Fisch gefangen.‹</said> <seg id="8" type="frame" pos="start"><said id="20" mode="reported" content="thought" level="1">Da fing der <seg id="8 20" type="speaker">Fischer</seg> doch an sich die Sache zu <seg id="20" type="intExpr">überlegen</seg></said> und <seg id="8" type="intExpr">sprach</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">›<seg id="9" type="frame" pos="start">Ja wenn <seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">wüßte</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wo er bleibt und wie es ihm geht.</said>‹</said> <said id="10" mode="direct" content="speech" level="1">›Es geschieht ihm gar nichts zu Leide, er hat mir nur zu folgen und zwei Pferde zu füttern, einen Schimmel und einen Rappen. Uebrigens mag er spazieren gehn oder reiten und kann thun was er will, darf dich auch alle drei Monate besuchen.‹</said> <said id="12" mode="direct" content="speech" level="1">›Dann bin ich es zufrieden‹</said> <seg id="12" type="frame" pos="mid"><seg id="12" type="intExpr">sprach</seg> der <seg id="12" type="speaker">Fischer</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">›wenn nur mein Sohn will.‹</said> <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Der</seg> war aber ein herzensguter Mensch und <seg id="13" type="intExpr">sagte</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">›Vater, da ich euch glücklich machen kann, so gehe ich mit dem grauen Männchen.‹</said> Der Fischer nahm Abschied von ihm und dem Männchen; als er wieder zu seinem Nachen kam, da glänzten ihm helle Haufen Gold entgegen, so daß er ein steinreicher Mann war. 
+                  Der Jüngling folgte dem Männchen, welches ihn immer weiter im Walde führte bis in ein schönes Schloß. Dort zeigte es ihm alle Zimmer und die waren so prächtig, <said id="19" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">daß es nicht zu <seg id="19" type="intExpr">sagen</seg> ist.</said> In einem derselben stand eine Menge von Büchern:<said id="16" mode="direct" content="speech" level="1"> ›die darfst du alle lesen,‹</said> <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">sprach</seg> das <seg id="16" type="speaker">Männchen</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">›nur das eine dort in der Ecke nicht, es wäre dein Unglück.‹</said> Zuletzt führte es ihn in den Stall, da standen zwei Pferde, ein Schimmel und ein Rappe:<said id="18" mode="direct" content="speech" level="1"> ›Diese hast du zu füttern,‹</said><seg id="18" type="frame" pos="mid"> <seg id="18" type="intExpr">sprach</seg> das <seg id="18" type="speaker">Männchen</seg>,</seg><said id="18" mode="direct" content="speech" level="1"> ›und das ist deine einzige Arbeit. Den Schimmel darfst du nie reiten; du mußt ihm alle Tage zwei Maas Wein geben, viel gutes Brod, 
+ihn hart striegeln und sauber putzen, denn ich halte große Stücke auf ihn.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

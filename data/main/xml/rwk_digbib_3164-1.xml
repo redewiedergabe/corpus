@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Im Saal</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Im_Saal.tg199_1.xml</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Im Saal</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+<said id="11" mode="direct" content="speech" level="1">Darum war sie auch so bald mit dem Essen fertig; dann stand sie auf und schlich sich an den Stuhl ihres Vaters. <said id="1" mode="reported" content="speech" level="2"><seg id="1" type="speaker">Der</seg> aber <seg id="1" type="intExpr">sprach</seg> mit dem jungen Mann so eifrig über Konto und Diskonto</said>, daß dieser für die kleine Barbara gar keine Augen hatte. – Ja, ja, es ist achtzig Jahre her; <seg id="21" type="frame" pos="start">aber die alte <seg id="21" type="speaker">Großmutter</seg> <seg id="21" type="intExpr">denkt</seg> es noch wohl,</seg> <said id="21" mode="indirect" content="thought" level="2">wie die kleine <seg id="3" type="speaker">Barbara</seg> damals recht sehr ungeduldig wurde und <said id="3" mode="reported" content="speech" level="3" prag="yes">auf ihren guten Vater gar nicht zum besten zu <seg id="3" type="intExpr">sprechen</seg> war.</said></said> Die Uhr schlug zehn, <said id="22" mode="reported" content="speech" level="2" nonfact="yes">und nun mußte <seg id="22" type="speaker">sie</seg> gute Nacht <seg id="22" type="intExpr">sagen</seg>.</said> Als sie 
+zu deinem Großvater kam, <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">fragte</seg> <seg id="5" type="speaker">er</seg> sie:</seg> <said id="5" mode="direct" content="speech" level="2">›Schaukeln wir morgen?‹</said>, und die kleine Barbara wurde wieder ganz vergnügt. – <said id="6" mode="direct" content="speech" level="2">›Er ist ja ein alter Kindernarr, Er!‹</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">sagte</seg> der <seg id="6" type="speaker">Urgroßvater</seg></seg>; aber eigentlich war er selbst recht unvernünftig in sein kleines Mädchen verliebt. 
+                  Am andern Tage gegen Abend reiste dein Großvater fort. 
+                  Dann gingen acht Jahre hin. Die kleine Barbara stand oft zur Winterzeit an der Glastür und hauchte die gefrornen Scheiben an; dann sah <seg id="7" type="speaker">sie</seg> durch das Guckloch in den beschneiten Garten hinab und <said id="7" mode="reported" content="thought" level="2"><seg id="7" type="intExpr">dachte</seg> an den schönen Sommer, an die glänzenden Blätter und an den warmen Sonnenschein, an den Iritsch, der immer in den Spalieren nistete, und wie einmal die reifen Aprikosen zur Erde gerollt waren</said>, <said id="23" mode="reported" content="thought" level="2">und dann <seg id="23" type="intExpr">dachte</seg> <seg id="23" type="speaker">sie</seg> an einen Sommertag</said> und <said id="24" mode="reported" content="thought" level="2">zuletzt immer nur an diesen einen Sommertag, wenn <seg id="24" type="speaker">sie</seg> an den Sommer <seg id="24" type="intExpr">dachte</seg>.</said> – So gingen die Jahre hin; die kleine Barbara war nun doppelt so alt und eigentlich gar nicht mehr die kleine Barbara; <said id="10" mode="reported" content="thought" level="2">aber der eine Sommertag stand noch immer als ein heller Punkt in <seg id="10" type="speaker">ihrer</seg> <seg id="10" type="intExpr">Erinnerung</seg>.</said> – Dann war er endlich eines Tages wirklich wieder da.«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Wer?«</said> <seg id="12" type="frame" pos="mid"><seg id="12" type="intExpr">fragte</seg> lächelnd der <seg id="12" type="speaker">Enkel</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»der Sommertag?«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Ja«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> die <seg id=" 11 13" type="speaker">Großmutter</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»ja, dein Großvater. Es war ein rechter Sommertag.«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Und dann?«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fragte</seg> <seg id="14" type="speaker">er</seg> wieder.</seg> 
+                  <said id="15" mode="direct" content="speech" level="1">»Dann«</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">sagte</seg> die <seg id="15" type="speaker">Großmutter</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">»gab es ein Brautpaar, und die kleine Barbara wurde deine Großmutter, wie <seg id="25" type="speaker">sie</seg> hier unter euch sitzt und <said id="25" mode="reported" content="speech" level="2">die alten Geschichten <seg id="25" type="intExpr">erzählt</seg>.</said> – Soweit war's aber noch nicht. Erst gab es eine Hochzeit, und dazu ließ dein Urgroßvater den Saal bauen. Mit dem Garten und den Blumen war's nun wohl vorbei; es hatte aber nicht Not, er bekam bald lebendige Blumen zur Unterhaltung in seinen Mittagsstunden. Als der Saal fertig war, wurde die Hochzeit gehalten. Es war eine lustige Hochzeit, <said id="26" mode="reported" content="speech" level="2">und die <seg id="26" type="speaker">Gäste</seg> <seg id="26" type="intExpr">sprachen</seg> noch lange nachher davon.</said> – Ihr, die ihr hier sitzt und die ihr jetzt allenthalben dabei sein müßt, ihr waret freilich nicht dabei; aber eure Väter und Großväter, eure Mütter und 
+Großmütter, und das waren auch Leute, <said id="19" mode="reported" content="speech" level="2"><seg id="19" type="speaker">die</seg> ein Wort <seg id="19" type="intExpr">mitzusprechen</seg> wußten.</said> Es war damals freilich noch eine stille, bescheidene Zeit; <said id="27" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="27" type="speaker">wir</seg> wollten noch nicht alles besser <seg id="27" type="intExpr">wissen</seg>, als die Majestäten und ihre Minister</said>; und wer seine Nase in die Politik steckte, <said id="20" mode="reported" content="speech" level="2" border="yes">den <seg id="20" type="intExpr">hießen</seg> <seg id="20" type="speaker">wir</seg> einen Kannegießer</said>, und war's ein Schuster, so ließ man die Stiefeln bei seinem Nachbar machen. Die Dienstmädchen hießen noch alle Trine und Stine, und jeder trug den Rock nach seinem Stande. Jetzt tragt ihr sogar Schnurrbärte wie Junker und Kavaliere.
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
