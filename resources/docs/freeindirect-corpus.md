@@ -11,4 +11,4 @@ The annotations were generated semi-automatically: The texts were  tagged by one
 This corpus consists of **142 files**, containing **2,647,924 tokens** with	**2,136 instances** of free indirect STWR.
 
 
-A list of all texts including author, title and year of publicationcan be found [here](data/additional/simplified/free_indirect/txt/metadata_fi.tsv).
+A list of all texts including author, title and year of publicationcan be found [here](/data/additional/simplified/free_indirect/txt/metadata_fi.tsv).
