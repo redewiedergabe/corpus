@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zürich. Bern. Luzern. Glarus. Graubünden. Schaffhausen. Waadt. Wallis. Genf.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1896_06_03.txt_6.xml</f>
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Zürich. Bern. Luzern. Glarus. Graubünden. Schaffhausen. Waadt. Wallis. Genf.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+
+
+Also das Herz in St. Gallen, der Schatz in Luzern!
+                         
+               
+               
+                  — Im luzernischen Großratssaale tagte Sonntag den
+                        31. Mai die Delegiertenversammlung des Schweiz. Centralvereins vom Roten Kreuz. Die Versammlung war ca. 40
+                        Mann stark. Den Vorsitz führte der Zentralpräsident Dr. Stähelin.
+                  <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="speaker">Hr. Stähelin</seg> <seg id="1" type="intExpr">gab</seg> <seg id="1" type="intExpr">Aufschluß</seg> über das Verhältnis des Vereins
+                        zu dessen Gründer, Dunant.</said> <said id="2" mode="reported" content="writing" level="1">In der <seg id="2" type="speaker">Presse</seg>, namentlich in der
+                        ausländischen, ist wiederholt darauf <seg id="2" type="intExpr">hingewiesen</seg> worden auf die
+                        pekuniäre Verlegenheit, in der sich dieser befinde.</said> <said id="3" mode="reported" content="speech" level="1"><seg id="3" type="speaker">Hr. Dunant</seg>
+                        
+                     <seg id="3" type="intExpr">weist</seg> ındessen jede Unterstützüng, von woher sie auch komme,
+                        <seg id="3" type="intExpr">zurück</seg>.</said> <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">Man</seg> hat ihm in Zürich eine Wohnung <seg id="4" type="intExpr">offeriert</seg></said>, <said id="5" mode="reported" content="speech" level="1"><seg id="5 6" type="speaker">er</seg> hat
+                        es indessen <seg id="5" type="intExpr">abgelehnt</seg>, von dem Anerbieten Gebrauch zu machen</said>,
+                        <seg id="6" type="frame" pos="start">zugleich aber seine <seg id="6" type="intExpr">Verwunderung</seg> <seg id="6" type="intExpr">ausgesprochen</seg> darüber,</seg> <said id="6" mode="indirect" content="speech" level="1">daß ihm
+                        nicht eine ganze Auswahl von unentgeltlichen Wohnungen zur
+                        Verfügung gestellt werde.</said>
+                  Den größten Teil der Zeit nahmen <said id="7" mode="reported" content="speech" level="1">die <seg id="7" type="intExpr">Verhandlungen</seg> über
+                        die finanziellen Verhältnisse des Vereins</said> in Anspruch. Es wurden
+                        u. a. folgende Kredite bewilligt: 1800 Fr. für Samariterkurse,
+                        800 Fr. für Krankenwärterkurse, 100 Fr. für einen Hilfslehrerkurs für Samariter, 700 Fr. für Unterrichtsmaterial für den
+                        Samariterbund ec. <said id="8" mode="reported" content="speech" level="1">Ueber die Subventionierung der Samariterkurse <seg id="8" type="intExpr">gab</seg> <seg id="8" type="speaker">Reg.-Rat Steiger</seg> in Bern interessante <seg id="8" type="intExpr">Aufschlüsse</seg>.</said> <seg id="10" type="frame" pos="start"><seg id="10 19" type="speaker">Er</seg>
+                        <seg id="10" type="intExpr">wies</seg> namentlich darauf <seg id="10" type="intExpr">hin</seg>,</seg><said id="10" mode="indirect" content="speech" level="1"> wie sich oft <seg id="14 11" type="speaker">Teilnehmer</seg> für diese
+                        Kurse anmelden, <said id="14" mode="reported" content="thought" level="2" nonfact="yes">ohne die Sache vorher gehörig <seg id="14" type="intExpr">überlegt</seg> zu haben</said>;
+                        solche krebsen dann bald wieder zurück und verursachen so dem
+                        Zentralkomite nur unnütze Arbeit.</said> <said id="19" mode="indirect freeIndirect" content="speech" level="1"><seg id="11" type="frame" pos="start">Ferner <seg id="11" type="intExpr">herrsche</seg> vielfach die
+                        <seg id="11" type="intExpr">Meinung</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2">daß der Verein vom Roten Kreuz sämtliche Kosten eines
+                        Kurses übernehme, während derselbe höchstens ⅔ der Gesamtkosten leiste.</said></said> Der Rest muß durch die Kursteilnehmer oder die
+                        Samaritersektionen getragen werden.
+                  <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Dr. Schenker</seg> aus Aarau stellt die <seg id="12" type="intExpr">Motion</seg>,</seg><said id="12" mode="indirect" content="speech writing" level="1"> die Direktion
+                        möge die Frage prüfen, ob es nicht zweckmäßig sei, daß der
+                        Verein zum Roten Kreuz nicht nur für die Kriegs- sondern auch
+                        für die Friedenszeit organisiert werde und daß er sich zu diesem
+                        Zwecke mit dem Samariterbund vereinigen würde.</said> <said id="15" mode="reported" content="speech" level="1">Die Motion
+                        wurde erheblich <seg id="15" type="intExpr">erklärt</seg>.</said>
+                  Die bisherige Direktion wurde bestätigt, mit Ausnahme des
+                        Hrn. Kommissar von Ah, der durch Hrn. Professor Dr. Beck in
+                        Freiburg ersetzt wurde. <said id="17" mode="reported" content="speech" level="1">Als nächster Versammlungsort wurde
+                        Biel <seg id="17" type="intExpr">bezeichnet</seg>.</said>
+               
+               
+                  — Am Abend des 29. Mai brannte bei einem heftigen
+                        Gewitter in Entlebuch die dem Landwirt Joseph Hofsteter
+                        auf Blattegg gehörende Scheune infolge Blitzschlag gänzlich
+                        nieder. Sämtlicher Scheunevorrat, 10 Klafter Heu und
+                        40 Kilozenter Stroh, sowie die Scheunefahrhabe verbrannte.
+                        Ein Pferd und fünf Ziegen gingen ebenfalls zu Grunde,
+                        indem die Tiere durch den Blitzschlag erstickten. Die Scheune
+                        war für Fr. 5000 versichert. Hilfe konnte nicht geleistet
+                        werden, weder Spritzen noch Feuerwehr waren zur Stelle,
+                        die Fahrnisgegenstände sind indessen versichert.
+               
+            
+            
+               
+                  Glarus.
+                        
+               
+               
+                  Bei den montags stattgehabten Landratswahlen
+                        siegte die liberale Liste. Neu gewählt wurde Dr. Mercier.
+               
+            
+            
+               
+                  Graubünden.
+                        
+               
+               
+                  Der Verkehr für Fußgänger ist auf der
+                        Versamer Straße wieder hergestellt und eine Notbrücke für Einspänner in Angriff genommen.
+               
+            
+            
+               
+                  Schaffhausen.
+                        
+               
+               
+                  <said id="18" mode="reported" content="speech writing" level="1" border="yes">Der <seg id="18" type="speaker">Bundesrat</seg> hat dem Kanton Schaffhausen an die Korrektion der Wuttach einen Beitrag von 40
+                        Prozent, im Maximum 21 600 Franken, <seg id="18" type="intExpr">zugesichert</seg>.</said>
+               
+            
+            
+               
+                  Waadt.
+                        
+               
+               
+                  
+                     Lutry. 
+                  Letzten Sonntag morgen 2 Uhr
+                        fuhren nach einem Balle drei junge Leute mit einem Segelschiffchen auf den See hinaus. Einer derselben erkletterte den
+                        Mast, das Schiff kippte um und 2 Insaßen, der Souschef am
+                        Bahnhof und ein Schreiner, beide aus Romont, ertranken.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

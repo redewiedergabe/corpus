@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zürich. Zürich. Bern. — Uri. — Altdorf. — Schwyz. Nidwalden. Nidwalden. Zug. — Freiburg. Freiburg. Aargau. — Wallis.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1894_01_24.txt_4.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Zürich. Zürich. Bern. — Uri. — Altdorf. — Schwyz. Nidwalden. Nidwalden. Zug. — Freiburg. Freiburg. Aargau. — Wallis.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third </f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Der Platz für
+                        das Parlamentsgebäude kommt allein auf das anständige
+                        Sümmchen von Fr. 2,000,000, sage zwei Millionen
+                        Franken zu stehen.
+            
+            
+               — Uri.
+               
+               <seg id="1" type="frame" pos="start">Das <seg id="1" type="speaker">„Urner Wochenblatt“</seg> <seg id="1" type="intExpr">meldet</seg>:</seg> <said id="1" mode="direct" content="writing" level="1">„<seg id="8" type="frame" pos="start">Kaum
+                        haben die Russen vom <seg id="8" type="speaker">Bundesrate</seg> die <seg id="8" type="intExpr">Erlaubnis</seg> erhalten,</seg> <said id="8" mode="indirect" content="speech writing" level="2">bei
+                        der Teufelsbrücke ein Denkmal für ihre gefallenen Soldaten zu
+                        setzen</said>, so regt sich nun eine Pariser Gesellschaft „Souvenir
+                        français“, und will für die im Jahre 1799 gefallenen französischen Soldaten ebenfalls ein Gedenkstein im Gotthardmassiv
+                        errichten.</said>
+            
+            
+               — Altdorf. 
+               Letzten Freitag abend wurde Hr. Nationalrat
+                        Schmid, Advokat, von einem rasenden Bauern in seinem
+                        Bureau überfallen und mit einem Fleischermesser angegriffen.
+                        Glücklicherweise gelang es Herrn Schmid, unverletzt aus dem
+                        Bureau zu entfliehen, den Angreifer einzuschließen und der
+                        Polizei einzuhändigen.<seg id="2" type="frame" pos="start"> Wie <seg id="2" type="intExpr">gemeldet</seg> wird, </seg><said id="2" mode="indirect" content="writing" level="1">soll der rabiate
+                        Eindringling der Waisenvogt von Sisikon sein, der durch Herrn
+                        Schmid, als gegnerischen Anwalt, schon verschiedene Prozesse
+                        verloren habe.</said>
+            
+            
+               — Schwyz.
+               
+               <said id="9" mode="reported" content="writing" level="1">Der <seg id="9 10" type="speaker">Regierungsrat</seg> hat über das Tanzen
+                        und Maskengehen scharfe Anordnungen <seg id="9" type="intExpr">getroffen</seg></said>; <seg id="10" type="frame" pos="start">so wird u. a.
+                        <seg id="10" type="intExpr">verfügt</seg>,</seg> <said id="10" mode="indirect" content="writing" level="1">daß am „schmutzigen Donnerstag“, dem Hauptnarrentag der Karnevalszeit, nur bis nachts 12 Uhr getanzt werden
+                        dürfe, wegen des darauf folgenden Feiertages Mariä Lichtmeß.</said>
+               <said id="3" mode="reported" content="speech" level="1">Schon längst sind zwischen der Gemeinde <seg id="3" type="speaker">Freienbach</seg> und
+                        der <seg id="3" type="speaker">Nordostbahn</seg> <seg id="3" type="intExpr">Unterhandlungen</seg> gepflogen worden betr. Errichtung einer Eisenbahnstation Bäch</said> (zwischen den 6 Kilometer
+                        von einander entfernten Stationen Richtersweil und Pfäffikon).
+                        <said id="4" mode="reported" content="speech" level="1">Durch <seg id="4" type="intExpr">Vermittlung</seg> des <seg id="4" type="speaker">Regierungsrates</seg></said> soll nun der Bundesrat
+                        angegangen werden, diese Angelegenheit zur baldigen Erledigung
+                        zu bringen.
+            
+            
+               — In Galgenen sind zwei alte Jungfern im Alter von
+                        80 und 81 Jahren an der Influenza gestorben. Dieses
+                        Schwesternpaar lebte zeitlebens zusammen und <seg id="5" type="frame" pos="start">es war stets
+                        <seg id="5" type="speaker">ihr</seg> <seg id="5" type="intExpr">Wunsch</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">gemeinsam sterben zu können</said>, was nun tatsächlich
+                        zugetroffen ist.
+            
+            
+               
+                  Nidwalden.
+               
+               
+                  Ennetbürgen. Kirchenbau-Lotterie. Die tit. Baukommission hat am 6. Januar einstimmig
+                        die Ziehungstage definitiv auf den 9., 10., 11. und 12. April
+                        nächsthin festgesetzt. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Man</seg> <seg id="6" type="intExpr">hofft</seg> zuversichtlich,</seg><said id="6" mode="indirect" content="thought" level="1"> den Rest der Lose
+                        noch rasch verkaufen zu können</said>; denn in letzter Zeit haben sich
+                        die Bestellungen wieder erfreulich gemehrt. Wer noch Lose
+                        will, tut gut daran, solche bald zu beziehen. Es wird an der
+                        Lotterie allgemein die günstige Verteilung der Gewinne gerühmt.
+                        Was aber den guten Losabsatz vorzüglich verursacht, ist die
+                        hohe Verehrung, welche das christl. Volk dem hl. Antonius zollt.
+                        Daher bringt es auch gerne ein Opfer zu gunsten seiner Wallfahrtskirche. Schließlich sei zum Troste ängstlicher Seelen,<seg id="7" type="frame" pos="start"> <seg id="7" type="speaker">die</seg>
+                        <seg id="7" type="intExpr">meinen</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1">das Lotteriegeld sei schon alles verbaut</said>, <seg id="11" type="frame" pos="start">noch <seg id="11" type="intExpr">bemerkt</seg>,</seg>
+                        <said id="11" mode="indirect" content="writing" level="1">daß die 70 000 Fr. Gewinn blank und bar in der Kasse zu
+                        Stans liegen und da der Erlösung durch die glücklichen Gewinner harren.</said>
+            
+            
+               
+                  Nidwalden.
+               
+               Eine größere Anzahl bernischer Viehbesitzer scheint
+                        ihren Viehstand teilweise in Nidwalden, das vom trockenen Sommer
+                        wenig litt, zu überwintern. In der Gemeinde Buochs einzig sollen sich
+                        200 Bernerkühe in Pflege befinden.
+            
+            
+               
+                  Zug.
+               
+               (Einges.) Die theaterlustigen Studenten des hiesigen
+                        Knabenpensionates bei St. Michael bringen in dieser Fastnacht unter der
+                        meisterhaften Leitung des geehrten Herrn Rektor Hr. Al. Kaiser das von
+                        ihm für Schultheater bearbeitete Drama „Patriot und Rebell“ in fünf
+                        Akten zur Aufführung. Dem Stücke liegt das gleichnamige von Herrn
+                        Th. Lüscher von St. Gallen († 1823) zu Grunde, das im St. Gallerland
+                        schon oft über die Bretter ging. — Auch hierzulande treibt die böse
+                        Influenza ihr Unwesen.
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

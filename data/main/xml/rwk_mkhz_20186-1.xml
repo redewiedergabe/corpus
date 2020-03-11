@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MZ_1900_05_15.txt_6.xml</f>
+         <f name="year">1900</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.marburger</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+
+<said id="1" mode="direct" content="speech" level="1">Die Schwachen
+                        lässt man doch zurück. Sonst kommt kaum einer
+                        lebend an“</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> der <seg id="1" type="speaker">Ladendiener</seg></seg>, <said id="26" mode="reported" content="speech" level="1"><seg id="26" type="speaker">der</seg> augenscheinlich mit seiner Kenntnis dessen <seg id="26" type="intExpr">prahlte</seg>, was in der
+                        Ordnung war.</said>
+               Der Polizist richtete sich, nachdem er die
+                        Hemdenschnüre aufgelöst, in die Höhe und schaute
+                        um sich.
+               <said id="2" mode="direct" content="speech" level="1">„<said id="3" mode="direct" content="speech" level="2">Geht auseinander</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">sage</seg> <seg id="3" type="speaker">ich</seg>.</seg> Ist doch nicht
+                        eure Sache! Was steht ihr da zusammen?“</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">sagte</seg>
+                        <seg id="2" type="speaker">er</seg></seg> und wandte sich, Beifall suchend, an Nechljudow,
+                        und da er in seinen Augen keinem Beifall begegnete,
+                        schaute er den Escortesoldaten an.
+               Aber der <seg id="5" type="speaker">Escortesoldat</seg> stand auf der Seite,
+                        betrachtete seinen abgelaufenen Absatz und war ganz
+                        gleichgiltig gegen die Verlegenheit des Polizisten.
+               <said id="5" mode="direct" content="speech" level="1">„Die es angeht, die kümmern sich nicht darum,
+                        Ist denn das in der Ordnung, die Menschen zutode
+                        zu quälen?“</said>
+                         
+               <said id="6" mode="direct" content="speech" level="1">„Sträfling ist Sträfling, aber doch immer
+                        ein Mensch!“</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">hieß es</seg> in der Menge.</seg>
+               <said id="7" mode="direct" content="speech" level="1">„Legt ihm den Kopf höher und gebt ihm
+                        Wasser“</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">Nechljudow</seg>.</seg>
+               <said id="8" mode="direct" content="speech" level="1">„Sind schon nach Wasser gegangen“</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">antwortete</seg> der <seg id="8" type="speaker">Polizist</seg></seg>, fasste den Sträfling unter
+                        der Achsel und zog den Rumpf mit Mühe etwas
+                        höher.
+               <said id="9" mode="direct" content="speech" level="1">„Was ist da für ein Auflauf?“</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">ertönte</seg> plötzlich eine bestimmte <seg id="9" type="speaker">Befehlshaberstimme</seg></seg>, und zu dem
+                        Menschenhaufen um den Arrestanten trat mit
+                        schnellen Schritten ein Revieraufseher in ungewöhn lich sauberem und glänzendem Kittel und noch glänzenderen hohen Stiefeln. <said id="10" mode="direct" content="speech" level="1">„Auseinander gehen! Hier
+                        ist nichts zu stehen!“</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">schrie</seg> <seg id="10 11 14" type="speaker">er</seg> den Haufen <seg id="10" type="intExpr">an</seg></seg>, da
+                        er noch nicht sah, warum die Menge zusammengelaufen war.
+               Als er aber dicht herantrat und den sterbenden Arrestanten erblickte, machte er mit dem Kopf
+                        ein Zeichen der Bestätigung, als ob er eben
+                        dasselbe erwartet hätte und wandte sich an den
+                        Polizisten.
+               <said id="11" mode="direct" content="speech" level="1">„Wie ist das gekommen?“</said>
+                         
+               <seg id="12" type="frame" pos="start">Der <seg id="12" type="speaker">Polizist</seg> <seg id="12" type="intExpr">erzählte</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">dass der Zug marschiert
+                        sei und der Sträfling umgefallen wäre; <seg id="13" type="frame" pos="start">der <seg id="13" type="speaker">Escorteossicier</seg> hätte dann <seg id="13" type="intExpr">befohlen</seg>,</seg> <said id="13" mode="indirect" content="speech" level="2">ihn zurückzulassen.</said></said>
+               <said id="14" mode="direct" content="speech" level="1">„Also was? Muss aufs Revierbureau.
+                        Droschke!“</said>
+                         
+               <said id="15" mode="direct" content="speech" level="1">„Ein Hausknecht ist hingelaufen“</said><seg id="15" type="frame" pos="end">, <seg id="15" type="intExpr">sagte</seg> der
+                        <seg id="15" type="speaker">Polizist</seg></seg> und legte die Hand an den Mützenschirm.
+               <said id="16" mode="reported" content="speech" level="1">Der <seg id="16" type="speaker">Landendiener</seg> begann etwas von der Hitze
+                        zu <seg id="16" type="intExpr">reden</seg> ...</said>
+               <said id="17" mode="direct" content="speech" level="1">„Ist das Deine Sache? Ah? Geh deiner Wege“</said><seg id="17" type="frame" pos="end">,
+                        <seg id="17" type="intExpr">sagte</seg> der <seg id="17" type="speaker">Revieraufseher</seg></seg> und sah ihn so strenge an,
+                        <said id="18" mode="reported" content="speech" level="1" nonfact="yes">dass der <seg id="18" type="speaker">Ladendiener</seg> <seg id="18" type="intExpr">verstummte</seg>.</said>
+               <said id="19" mode="direct" content="speech" level="1">„Man muss ihm Wasser zu trinken geben“</said><seg id="19" type="frame" pos="end">,
+                        <seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">Nechljudow</seg>.</seg>
+               Der <seg id="20" type="speaker">Nevieraufseher</seg> sah auch Nechljudow strenge
+                        an, <said id="20" mode="reported" content="speech" level="1" nonfact="yes"><seg id="20" type="intExpr">sagte</seg> aber nichts.</said> Als aber der Hausknecht in
+                        einem Kruge Wasser brachte, <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">befahl</seg> <seg id="21" type="speaker">er</seg> dem Polizisten,</seg>
+                        <said id="21" mode="indirect" content="speech" level="1">es dem Sträfling anzubieten.</said> Der Polizist hob den
+                        herabgesunkenen Kopf in die Höhe und versuchte, das
+                        Wasser in den Mund zu gießeu, aber der Sträfling
+                        nahm es nicht; das Wasser floß heraus über den
+                        Bart, benässte die Jacke auf der Brust und das
+                        staubige Hemd aus Hanfleinwand.
+               <said id="22" mode="direct" content="speech" level="1">„Gieß es über den Kopf!“</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">commandierte</seg> der
+                        <seg id="22" type="speaker">Revieraufseher</seg></seg>, und der Polizist nahm die Pfannkuchenmütze ab und goß das Wasser über die röthlichen krausen Haare und den bloßen Schädel.
+               Die Augen des Sträflings öffneten sich weiter,
+                        gleichsam in Schreck, aber seine Lage änderte sich
+                        nicht. Ueber sein Gesicht flossen Schmutzbäche von
+                        Staub, aber der Mund schluchzte ebenso gleichmäßig
+                        und der ganze Körper zitterte.
+               <said id="23" mode="direct" content="speech" level="1">„Wer ist denn das? Nimm den!“</said> <seg id="23" type="frame" pos="end"><seg id="23" type="intExpr">wandte sich</seg>
+                        der <seg id="23 24" type="speaker">Revieraufseher</seg> an den Polizisten</seg> und deutete
+                        auf Nechljudows Droschkenkutscher. <said id="24" mode="direct" content="speech" level="1">„Komm her!
+                        He, Du!“</said>
+                         
+               <said id="25" mode="direct" content="speech" level="1">„Vesetzt“</said><seg id="25" type="frame" pos="end">, <seg id="25" type="intExpr">sagte</seg> der <seg id="25" type="speaker">Kutscher</seg> finster, ohne die
+                        Augen aufzuheben.</seg>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

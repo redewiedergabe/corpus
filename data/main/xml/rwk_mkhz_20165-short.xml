@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Kalender-Litteratur</title>
+             <author>Lampert, U. Dr. jur.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1897_08_04.txt_8.xml</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Kalender-Litteratur</f>
+         <f name="author">Lampert, U. Dr. jur.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               
+                  Literarisches.
+                        
+            
+            
+            
+               — Kalender-Litteratur. Als der erste Bote des kommenden Jahres
+                        erscheint auf unserem Redaktionstische der altbekannte und beliebte St.
+                        Ursen-Kalender aus Solothurn und zwar diesmal an Text und
+                        Illustrationen besonders reichhaltig.
+               Sein besonderes Gepräge erhält er durch eine ausführliche Darstellung des Einfalls der Franzosen in die Schweiz und in Solothurn
+                        im besondern, das gerade vor hundert Jahren stattgefunden hat. Mehrere
+                        interessante Illustrationen, der heutigen Welt größtenteils unbekannte Bildnisse der hervorragendsten Männer aus jener denkwürdigen Epoche, zieren
+                        die Schilderung. Unterhaltende, ernste und heitere Erzählungen werden
+                        gerne gelesen werden, und an kleinen Anekdoten und Schwänken fehlt
+                        es nicht, ebenso wenig als an belehrenden Mitteilungen. Den Anfang
+                        des Kalenders bildet wie gewohnt die ausführlıche Weltchronik, den Schluß
+                        der an Namen reiche Totenkalender, u. A. auch die Biographie des „Weltüberblickers.“ <said id="4" mode="reported" content="speech writing" level="1">Darum sei der neue Kalender nah und fern auf’s beste
+                        <seg id="4" type="intExpr">empfohlen</seg>.</said>
+            
+            
+               — <seg id="1" type="frame" pos="start">Durch die <seg id="1" type="speaker">Zeitungen</seg> lief vor einigen Wochen die beunruhigende
+                        <seg id="1" type="intExpr">Nachricht</seg>,</seg> <said id="1" mode="indirect" content="writing" level="1">daß unsern Kirschbäumen in diesem Jahre eine Epidemie drohe,
+                        indem der bekannte Pilz Monilia stellenweise so massenhaft auftrete, daß
+                        die Kirschbäume daran einzugehen drohen.</said> <said id="2" mode="reported" content="writing" level="1">Auf Veranlassung der Redaktion <seg id="2" type="intExpr">spricht</seg> sich in der neuesten Nummer des praktischen Ratgebers
+                        der bekannte <seg id="2" type="speaker">Professor Dr. Paul Sorauer</seg> über diese Monilia -Epidemie
+                        <seg id="2" type="intExpr">aus</seg> und zwar im allgemeinen beruhigend.</said> <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Er</seg> <seg id="3" type="intExpr">weist</seg> <seg id="3" type="intExpr">nach</seg>,</seg> <said id="3" mode="indirect" content="writing" level="1">daß an dem
+                        massenhaften Auftreten des in jedem Jahr: und an allen Obstsorten
+                        vorhandenen Pilzes Monilia die nasse Witterung schuld sei und daß
+                        man dieses epidemische Auftreten in jedem nassen Jahr beobachtet habe.</said>
+                        Die Nummer des praktischen Ratgebers mit dem betreffenden Aufsatze
+                        des Herrn Professor Sorauer wird Interessenten gern auf Verlangen
+                        umsonst zugeschickt von der Verlagshandlung Trowitzsch und Sohn
+                         in Frankfurt d. Oder.
+               
+               
+                  Redaktion: Dr. jur.
+                     U. Lampert, Fürsprech.
+                        
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>

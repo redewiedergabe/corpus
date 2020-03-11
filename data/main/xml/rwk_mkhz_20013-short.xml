@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Krieg im Balkan.—Sofia, 28. Nov.—Belgrad, 30. Nov.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1885_12_02.txt_7.xml</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Der Krieg im Balkan.—Sofia, 28. Nov.—Belgrad, 30. Nov.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Der Krieg im Balkan. 
+            
+            
+               
+                  — <seg id="1" type="frame" pos="start">Der <seg id="1" type="speaker">„Köln.
+                  Ztg.“</seg> wird unterm 27. Nov. aus dem bulgarischen Lager vor Pirot <seg id="1" type="intExpr">telegraphirt</seg>:</seg>
+                     <said id="1" mode="indirect" content="writing" level="1">„Begünstigt von wunderbarem Wetter, überschritt Fürst Alexander an der Spitze
+                     seiner Truppen heute Mittag 12 Uhr die Grenze unter unbeschreiblichem Jubel der
+                     Truppen.
+                  Nahe vor Zaribrod versuchten die Serben auf beiden Flanken einen leichten
+                     Widerstand, der mühelos gebrochen wurde.
+                  Als die Truppen sich in der Ebene vor Pirot ausbreiteten, traten ihnen zwei
+                     serbische Reiterregimenter entgegen.
+                  Sofort gingen im Galopp unter den Augen des Fürsten die Feldartillerie und
+                     anderthalb Reiterregimenter vor.
+                  Es war ein prachtvoller Anblick, als die begeisterte bulgarische Reiterei
+                     neben dem Fußvolk vorbeijagte, um, geführt von dem Oberstlieutenant von Corvin,
+                     den Serben das Gefecht 
+                     anzubieten.
+                  Einen Augenblick schien es, als ob die Serben das Gefecht annähmen, und mit
+                     fiebenhafter Aufregung verfolgten wir unsere vorgehende Reiterei.
+                  Leider schwenkten die Serben im letzten Augenblick ab und versagten damit
+                     unsern Reitern die Genugthuung eines Gefechtes.
+                  Inzwischen ging das bulgarische Fußvolk in der Ebene vor, stets vom Fürsten
+                     und dem fürstlichen Gefolge begleitet. So kamen wir um drei Uhr vor Pirot an,
+                     wo die Anwesenheit einer starken feindlichen Truppenmasse ein vorsichtigeres
+                     Vorgehen räthlich erschienen ließ.
+                  Schon vorher war die Vereinigung der Seitenkolonnen der von Gutschew
+                     befehligten rechten Flanke und der von Popow befehligten, über Trin Commenden
+                     linken Flanke erfolgt.
+                  Die Serben hatten sich vor der Abschneidung nur durch schleunige Flucht
+                     gerettet.
+                  Eine mächtige Artilleriestellung vor Pirot eröffnete ein äußerft starkes
+                     Feuer.
+                  Die einbrechende Dunkelheit verhinderte jedoch die Fortsetzung des Kampfes.“</said>
+                  
+               
+            
+            
+               
+                  — 
+                        Sofia, 28. Nov. date 
+               
+               
+                  Die Bulgaren haben gestern nach einem den ganzen Tag andauernden Kamvfe Pirot,
+                     das bisherige Hauptquartier der Serben, besetzt.
+                  Fürst Alexander wird heute seinen Einzug in Sosta halten.
+               
+            
+            
+               
+                  — 
+                        Belgrad, 30. Nov. date 
+               
+               
+                  Der Waffenstillstand ist besinitiv geschlossen.
+               
+            
+         
+      </p>
+      </body>
+   </text>
+</TEI>
