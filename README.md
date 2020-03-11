@@ -27,7 +27,7 @@ This is a collection of several types of additional annotated material produced 
 | [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   17   | 218,940|   5,931        |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
 | [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
 | [Single-annotated free indirect full texts (fictional)](TODO) | 142 |  | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: In this corpus only instances of *free indirect* representation are annotated
-| [Single-annotated indirect full texts](TODO) | 16| 51,864 |  | [Description](resources/docs/indirect-corpus.md) **Note**: In this corpus only instances of *indirect* representation are annotated
+| [Single-annotated indirect full texts](TODO) | 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: In this corpus only instances of *indirect* representation are annotated
 
 More additional material will be added in the future.
 
