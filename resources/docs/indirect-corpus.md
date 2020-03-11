@@ -2,7 +2,7 @@
 
 The following statistics are for the additional indirect-corpus. This subcorpus was created to generate training data especially for indirect representation. Therefore, only indirect representation is annotated, without specifying the media. Although it is fundamental for indirect representation, even the frame is not annotated nor are any other types of representation. This corpus was created by automatically tagging texts with indirect representation and then correcting the annotations.
 
-The indirect-corpus is only available in column-based text format. Further information concerning this format kann be found [here](/resources/docs/column_based_text_format.md).
+The indirect-corpus is only available in [column-based text format](/resources/docs/column_based_text_format.md). Click the link to get further information on this format.
 
 ## Statistics
 
