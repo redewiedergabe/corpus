@@ -1,11 +1,13 @@
 # Free indirect corpus
 
-The following statistics are for the additional free indirect-corpus. This subcorpus was created to generate training data especially for free indirect representation. Therefore, only free indirect representation is annotated. No other types of representation are annotated, neither are frame, speaker or intexpr.
+This subcorpus was created to generate training data training data for our recognizers specifically for **free indirect STWR**. The annotation system is strongly reduced, *only* specifying the type free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
 
-To prepare the documents, we used our automatic recognizer to annotate the texts. We then excluded texts with only few annotations. Afterwards, we looked at the automatically generated annotations and their immediate environment and, if necessary, deleted, corrected or extended the annotations. As a result, instances of free indirect are sometimes not found because the recognizer did not label them. We can therefore only guarantee that the existing annotations are wanted by us; however, we cannot exclude that or it is even likely to find further instances of free indirect in the texts.
+The annotations were generated semi-automatically: The texts were  tagged by one of our automatic free indirect recognizers. The annotations and their immediate environment were then checked by humans, who, if necessary, deleted, corrected or extended the annotations. 
+
+**NOTE:** As instances of free indirect that were not detected by the automatic recognizer were never presented to the humans, this data most likely contains **false negatives** (unlabled free indirect instances)!
 
 ## Statistics
 
 This corpus contains **142 files**, consisting of **2,647,924 tokens** with	**2,136 instances**.
 
-A list of all texts including author, title and year of publicationcan be found [here](/resources/docs/metadata_fi.xlsx).
+A list of all texts including author, title and year of publicationcan be found [here](data/additional/simplified/free_indirect/txt/metadata_fi.tsv).

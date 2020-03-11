@@ -26,8 +26,8 @@ This is a collection of several types of additional annotated material produced 
 | [Single-annotated samples](data/additional/single_annotated/samples) |  256    | 149,133 | 4,353          |   [Description](resources/docs/single_annotated_samples.md)
 | [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   18   | 235,493|   6,232        |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
 | [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
-| [Single-annotated free indirect full texts (fictional)](TODO) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: In this corpus only instances of *free indirect* representation are annotated
-| [Single-annotated indirect full texts](TODO) | 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: In this corpus only instances of *indirect* representation are annotated
+| [Indirect full texts](data/additional/simplified/indirect) | 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: Only instances of *indirect* STWR with a simplified annotation system
+| [Free indirect full texts (fictional) (semi-automatic)](data/additional/simplified/free_indirect) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: Only instances of *free indirect* STWR with a simplified annotation system
 
 More additional material will be added in the future.
 
