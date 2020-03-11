@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig028_1843_10.xml</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Naturgeschichtliches.
+                        
+            
+            
+               D er Fuchs zeichnet sich vor allen andern Thieren durch
+                        seine List aus. Er ist, wie er leibt und lebt, Symbol
+                        der List und wird durch die Nähe des Menschen und
+                        dessen stete Nachstellungen noch klüger und listiger. Für
+                        ihn ist das Leben eine eigentliche Schule, nur lernt er
+                        darin nichts Gutes, denn er lernt nur Bubenstreiche.
+                        <said id="1" mode="reported" content="speech" level="1">Von seinen Bubenstreichen wissen besonders alte <seg id="1" type="speaker">Jäger</seg>
+                        viel zu <seg id="1" type="intExpr">erzählen</seg>.</said> Sie mögen wol die Sache hier und
+                        da übertreiben, <said id="2" mode="reported" content="speech" level="1">aber Folgendes <seg id="2" type="intExpr">rührt aus dem Munde</seg>
+                        der glaubwürdigsten <seg id="2" type="speaker">Leute</seg>:</said> Man war eines Tages einem
+                        Fuchse auf der Spur. Die Fährte führte im Schnee
+                        zu einem hohlen Baume. Es wurde an den hohlen
+                        Baum geklopft und geschlagen, aber kein Fuchs erschien.
+                        <said id="3" mode="direct" content="thought" level="1">„Er will uns irre führen“</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">dachte</seg> <seg id="3" type="speaker">man</seg></seg> und schlug den
+                        Baum um, aber der Fuchs war nicht zu sehen. Da
+                        fand es sich bei genauerer Untersuchung, daß er in derselben Fährte zurückgegangen, in der er gekommen war.
+            Ein Jäger befand sich eines Abends im Halbdunkel
+                        auf dem Anstande. Jn einiger Entfernung von seinem
+                        Standorte befand sich ein abgehauener Baumstamm und
+                        nicht weit von diesem stand eine hohe Fichte mit einem
+                        Neste, in welchem junge Geier waren. Er hatte nicht
+                        lange gestanden, so kommt aus dem Walde ein Fuchs
+                        daher, umkreist den alten Baumstrunk und springt hinauf und springt wieder herunter. Hierauf vergräbt er
+                        sich in einen daran befindlichen Haufen dürren Laubs.
+                        Es dauert nicht lange, so springt er mit einem Satze
+                        aus dem Laube auf den Baumstrunk, begibt sich dann
+                        wieder herunter, vergräbt sich wieder in das Laub und
+                        macht bald darauf den Sprung unter denselben Umständen zum zweiten, dritten, vierten Male, bis er endlich,
+                        im Laube verborgen, liegen bleibt. Mit einem Male
+                        kommt der alte Geier geflogen und setzt sich auf den
+                        abgehauenen Baumstamm, um von hier aus bequemer
+                        zu seinen Jungen im Neste auffliegen zu können. Kaum
+                        aber haben seine Füße den Stamm berührt, als auch
+                        der schlaue Fuchs den früher eingeübten und sicher berechneten Sprung macht und sich seiner bemächtigt, <said id="4" mode="reported" content="thought" level="1" nonfact="yes">ehe
+                        der <seg id="4" type="speaker">Geier</seg> das Geringste von seiner Gefahr <seg id="4" type="intExpr">geahnet</seg> hat.</said>
+         
+      </p>
+      </body>
+   </text>
+</TEI>

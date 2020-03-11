@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_morgenblatt48_1856_1.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.morgenblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Es ist als ob ein Bann auf diesen
+                        obersten Gattungen läge, und was heute darin hervorgebracht wird, macht den Totaleindruck, wie wenn ein
+                        guter Kopf aus Noth oder Laune oder Uebermuth sich
+                        etwas abzwingt, das außer der Sphäre seines Talents
+                        liegt. Jn andern Fächern dagegen ist wenigstens Lebensfähigkeit vorhanden:<said id="1" mode="reported" content="writing" level="1" nonfact="yes"> hierkannpoetisch <seg id="1" type="intExpr">geschaffen</seg> werden</said>, wenn anders die Poeten dazu da sind. Wo es
+                        sich nicht von tiefen Geisteshintergründen, von Verkörperung großer Jdeen handelt, wo vielmehr scharfe, feine
+                        Beobachtung der Natur und des Menschen, und verständige oder auch nur witzige Anordnung den ganzen
+                        Aufzug für die webende Poesie bilden, da fühlt sich der
+                        Geist der Zeit sogleich zu Hause und die Kunstarbeit
+                        geht ihm oft gar nicht so übel von der Hand. So zeigt
+                        es sich namentlich, daß in Genre= und Landschaftsmalerei und in dem, <said id="2" mode="reported" content="speech" level="1" border="yes">was <seg id="2" type="speaker">man</seg> den socialen Roman <seg id="2" type="intExpr">genannt</seg>
+                        hat</said>, Pinselstrich und <seg id="3" type="intExpr"><said id="3" mode="reported" content="thought" level="1">Gedankengang</said></seg> dem allgemeinen
+                        
+               
+               geistigen Zuge keineswegs zuwider laufen. Gibt es
+                        nun aber Richtungen, in denen sich <said id="4" mode="reported" content="writing" level="1">die poetische <seg id="4" type="intExpr">Produktion</seg></said> frei bewegen kann, so gibt es andere, die durch
+                        die große geistige Bewegung der letzten Menschenalter
+                        überhaupt erst möglich geworden sind. So ist denn
+                        namentlich und zunächst dieDorfgeschichteoffenbar
+                        geradezu das literarische Corollarium aus wissenschaftlichen Sätzen, <said id="5" mode="reported" content="thought" level="1" border="yes">die dem <seg id="5" type="speaker">Menschen</seg> erst jetzt vollkommen
+                        <seg id="5" type="intExpr">klar geworden</seg> sind</said>, das Produkt von Anschauungen, die
+                        einer früheren, einer kurz verflossenen Zeit nicht anders
+                        als ferne seyn konnten.
+            Die Cultur mußte sich merkwürdig zugleich verbreitern und vertiefen<seg id="6" type="frame" pos="start">, bis es die gebildete lesende <seg id="6" type="speaker">Dame</seg>
+                        ganz <seg id="6" type="intExpr">in der Ordnung fand</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">daß sich die Herzen hinter
+                        Stallthüren und Heuschobern, zwischen Mistpfützen und
+                        Melkkübeln gerade so anziehen und abstoßen, plagen
+                        und beglücken, wie in Festsälen, hinter Theetischen und
+                        in den lauschigen Boskets köstlicher Villen; bis Hans
+                        und Grete der Tochter so heiße und so süße Thränen
+                        entlockte wie der Mutter einst der Assessor und des Präsidenten Tochter; bis zum Gefühl wurde<seg id="7" type="frame" pos="start">, was der <seg id="7" type="speaker">Verstand</seg>
+                        <seg id="7" type="intExpr">begriff</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2">daß beidemal das menschliche Geschick so gut eine
+                        und dieselbe Substanz ist, wie das Thränenwasser.</said>
+ </said>           Die Poesie hatte früher keineswegs eine Scheu, sich
+                        wenigstens gelegentlich mit den niedern Schichten der
+                        Gesellschaft zu befassen, aber sie that es in ihrer Weise
+                        und nach ihrem Vermögen. Das Zeitalter der Aufklärung, des religiösen und socialen Rationalismus, des
+                        aristokratischen Verstandes und des aufgeklärten Despotismus hatte noch viel zu viel mit dem Menschen als
+                        Masse zu thun, um für die geistigen und gesellschaftlichen Spielarten desselben ein scharfes Auge zu haben.
+                        Es hatte den besten Willen, das Volk, nachdem dieses
+                        seine Schuldigkeit gethan, zu beglücken, so weit es thunlich war; aber der sentimentale Philanthropismus ist
+                        ein sehr schlechter Beobachter. <said id="8" mode="indirect" content="thought" level="1">Daß der Bauer ein
+                        Mensch ist</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">unterlag keinem Zweifel</seg>, </seg>aber er war es
+                        eben nur, wie es auch der Chinese ist, und <said id="9" mode="reported" content="thought" level="1" border="yes">von beider
+                        Seyn und Wesen <seg id="9" type="intExpr">wußte</seg> <seg id="9" type="speaker">man</seg> ungefähr gleich viel</said> und
+                        machte es sich gleich leicht, <said id="10" mode="reported" content="writing" level="1" nonfact="yes">wenn <seg id="10" type="speaker">man</seg> es zu <seg id="10" type="intExpr">schildern</seg>
+                        unternahm.</said> <said id="11" mode="reported" content="speech" level="1" nonfact="yes">Von der Schäferpoesie soll gar nicht die
+                        <seg id="11" type="intExpr">Rede</seg> seyn</said>; dieses süße idyllische Hirtenvolk war nichts
+                        als diedii minorum gentium, die Faunen und Nymphen des idealisirten, frisirten Gesellschaftsolymps. Aber
+                        noch weit später hat alles, was der Dichter an Landund Bettelvolk, Zigeunern, Banditen u. dgl. vorführt,
+                        etwas Gemachtes, Conventionelles, absichtlich Verkleidetes,
+                        Theatermäßiges an sich. An der ausführlichen oder gelegentlichen heimischen ländlichen Scenerie, die der Roman
+                        vorführt, <said id="12" mode="reported" content="thought" level="1" border="yes"><seg id="12" type="intExpr">bemerkt</seg> <seg id="12" type="speaker">man</seg> nicht viel mehr Lokalfarbe und
+                        Naturwahrheit, ja kaum mehr guten Willen dazu, als
+                        in den damals üblichen philosophischen Romanen</said>, in
+                        denen antike, arabische, indische oder indianische Zustände kritischen und satirischen Absichten aller Art zur
+                        Folie dienen mußten. Der Dichter, der sich zum Volk
+                        herab ließ, konnte es nur fassen, indem er es zu sich
+                        in höhere Sphären heraufzog; verzerrte er es dadurch,
+                        wie er nicht anders konnte, so machte er den Schaden
+                        dadurch gut, daß er die verzogenen Figuren überfirnißte.
+                        Alles, was in der damaligen Literatur mehr oder weniger auf unsere Dorf= und Bauerngeschichte hinausläuft,
+                       <said id="13" mode="reported" content="thought" level="1"> <seg id="13" type="intExpr">erinnert</seg> so an die wohlbekannten englischen colorirten
+                        Kupferstiche aus dem vorigen Jahrhundert</said>, auf denen
+                        alle Gestalten gleich geleckt, frisch und rosig erscheinen,
+                        ob sie in der Hütte oder im Palast wohnen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

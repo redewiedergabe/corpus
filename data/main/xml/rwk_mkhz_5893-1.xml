@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Frauenarbeit in Fabriken und die Auflösung der Familie.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social04_1873_2.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Frauenarbeit in Fabriken und die Auflösung der Familie.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Die Entlassung ist Strafe genug, um in neun Fällen
+                        aus zehnen, wo nicht in neunundneunzig aus hundert, alles
+                        Widerstreben bei Mädchen, die ohnehin keine große Veranlassung zur Keuschheit haben, niederzuschlagen. Ist der
+                        Fabrikant gemein genug, so ist seine Fabrik zugleich sein
+                        Harem; und daß nicht alle Fabrikanten Gebrauch von ihrem
+                        Rechte machen, verändert die Sachlage in Beziehung auf
+                        die Mädchen durchaus nicht.
+            Die Fabrikanten führten das schändliche System des
+                        Nachtarbeitens ein; bei Einigen waren zwei stehende Klassen
+                        von Arbeitern, jede so stark, um die ganze Fabrik besetzen
+                        zu können, und die eine Klasse arbeitete die zwölf Tages-,
+                        die andre die zwölf Nachtstunden.
+            <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Man</seg> kann sich leicht <seg id="1" type="intExpr">denken</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">welche Folgen eine solche
+                        dauernde Beraubung der Nachtruhe, die durch einen Tagesschlaf nicht zu ersetzen ist, auf die körperliche Lage, namentlich kleiner und größerer Kinder und selbst Erwachsener,
+                        haben mußte.</said> Aufreizung des ganzen Nervensystems, verbunden mit allgemeiner Schwächung und Erschlaffung des
+                        ganzen Körpers, waren die nothwendigen Resultate.
+            Dazu die Beförderung und Aufreizung der Trunksucht,
+                        des regellosen Geschlechtsverkehrs; <seg id="2" type="frame" pos="start">ein <seg id="2" type="speaker">Fabrikant</seg> <seg id="2" type="intExpr">bezeugt</seg>
+                        in dieser Hinsicht,</seg> <said id="2" mode="indirect" content="speech" level="1">daß während zwei Jahren, wo in
+                        seiner Fabrik Nachts gearbeitet wurde, die doppelte Zahl
+                        unehelicher Kinder geboren und überhaupt eine solche Demoralisation producirt wurde, daß er das Nachtarbeiten habe
+                        aufgeben müssen.</said>
+            Das sind englische Zustände!
+                         
+            Ueber die verderbenbringende Wirkung der modernen
+                        Gesellschaft in Frankreich und die Zerstörung, welche
+                        sie im Familienleben anrichtet, <seg id="3" type="frame" pos="start">wollen wir <seg id="3" type="speaker">Louis Blanc</seg>
+                        <seg id="3" type="intExpr">reden</seg> lassen:</seg>
+                         
+            <said id="3" mode="direct" content="writing" level="1">Durch jede Verheirathung entsteht ein Zuwachs der
+                        Lasten: warum sollte sich die Armuth mit der Armuth verbinden? die Familienverhältnisse weichen daher den wilden
+                        Ehen. Den Armen werden Kinder geboren; wie sollen dieselben genährt werden? daher findet man so viele unglückliche Geschöpfe todt an den Straßenecken vor den Thüren
+                        einiger einsamen Kirchen und selbst unter dem Peristyl des
+                        Palastes, in welchem die Gesetze gegeben werden.
+            Und damit uns kein Zweifel über die Ursache der Kindermorde bleibe, so kommt uns auch hier wieder die Statistik
+                        zu Hülfe, und zeigt uns, daß die Kindermorde in den 14
+                        Departements, in welchen die meiste Gewerbsthätigkeit herrscht,
+                        sich zu den Kindermorden in ganz Frankreich, wie 40 zu 100
+                        verhalten.
+            Also stets das größte Elend da, wo die Industrie ihre
+                        Werkstätten aufgeschlagen hat! <seg id="5" type="frame" pos="start">Der <seg id="5" type="speaker">Staat</seg> mußte erst jeder
+                        armen Mutter entgegnen kommen und zu ihr <seg id="5" type="intExpr">sagen</seg>:</seg> <said id="5" mode="direct" content="speech" level="2" metaph="yes">„Ich
+                        nehme die Sorge für Deine Kinder auf mich. Ich öffne
+                        Hospitäler und Findelhäuser.“</said></said>
+                         
+            Das war aber noch zu wenig. Man hätte weiter gehen
+                        und die Hindernisse aus dem Wege räumen sollen, welche
+                        das System der Ohnmacht erforderlich machten.
+            <said id="6" mode="reported" content="speech" level="1"><seg id="6" type="speaker">Man</seg> hat der Mutter, welche sich ihres Kindes entsagt,
+                        Geheimhaltung <seg id="6" type="intExpr">zugesichert</seg></said>; wer wird aber die Fortschritte
+                        der wilden Ehen hemmen, da man sich jetzt den lockenden
+                        Freuden überlassen kann, ohne die Lasten befürchten zu müssen,
+                        welche auf dieselben folgen?
+                         
+            <said id="8" mode="reported" content="speech" level="1">Darauf haben die <seg id="8" type="speaker">Moralisten</seg> gleich von vorn herein
+                        <seg id="8" type="intExpr">aufmerksam gemacht</seg>.</said> <seg id="7" type="frame" pos="start">Dann kamen die herzlosen <seg id="7" type="speaker">Rechenknechte</seg>, und ihre <seg id="7" type="intExpr">Klagen</seg> waren noch lauter:</seg> <said id="7" mode="direct" content="speech" level="1">„Unterdrückt
+                        die Findelhäuser, unterdrückt die Findelhäuser, oder Ihr
+                        werdet die Zahl der Findelkinder in einem solchen Grade
+                        wachsen sehen, daß alle unsere vereinigten Staats-Einkünfte
+                        zur Unterhaltung derselben nicht hinreichen.“</said>
+                         
+            In der That sind die Zahlenverhältnisse seit Einrichtung der Findelhäuser fortwährend in Frankreich gestiegen.
+                        Im Jahre 1783 wurden 40,000 Findelkinder aufgenommen;
+                        1820 fand man deren 102,103; im Jahr 1831 waren es
+                        122,981 jetzt kann man jährlich etwa 130,000 annehmen.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

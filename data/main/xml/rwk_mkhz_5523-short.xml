@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hector Berlioz.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig111_1855_1.xml</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">Hector Berlioz.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Hector Berlioz.
+                        
+            
+            
+            
+            
+               D ieser ausgezeichnete französische Musiker, der in seinen großartigen Compositionen namentlich die Instrumentalmusik auf eine früher nicht dagewesene Höhe
+                        emporgebracht hat, ward am 11. December 1803 zu
+                        La-C ô te-St.-André im Departement Isère geboren,
+                        wo sein Vater als geschätzter Arzt wirkte. Der junge
+                        Hector war auch zunächst für die medicinische Laufbahn
+                        bestimmt und schlug die dahin abzielende Studienlaufbahn ein. Aber in Paris machte sich sein Drang zur
+                        Musik, der schon in dem Knaben sich offenbart hatte,
+                        Luft; er ließ sich nicht abschrecken, daß sein Vater ihm
+                        alle Unterstützung entzog, <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">er</seg> half sich als Chorist bei
+                        dem Theâtre des nouveautés fort, bald darauf als
+                        Gesanglehrer und <seg id="1" type="intExpr">sah</seg> sich dann in den Stand gesetzt,</seg>
+                        <said id="1" mode="indirect" content="thought" level="1">seine theoretischen Studien auf dem Conservatorium der
+                        Musik unter Reicha und Lesueur fortzusetzen und zu
+                        vollenden.</said> Symphonien, Ouverturen und Opern machten seinen Namen bald rühmlich bekannt, obschon er
+                        auch durch das Außergewöhnliche, welches er in seinen
+                        Compositionen anzubringen liebte, Zwiespalt unter die
+                        Kenner der Kunst brachte. Auf einer Kunstreise durch
+                        Belgien und Deutschland machte er auch das Ausland
+                        mit seinen Compositionen bekannt; zu einer allgemeinern Verbreitung hat er es aber bisjetzt noch nicht zu
+                        bringen vermocht und <said id="2" mode="reported" content="thought" level="1">die <seg id="2" type="intExpr">Meinungen</seg> der <seg id="2" type="speaker">Kunstverständigen</seg> über den Werth seiner Leistungen</said> sind noch
+                        immer getheilt.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eine Heirath auf Wechsel</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt09_1868_14.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Eine Heirath auf Wechsel</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="1" mode="direct" content="speech writing" level="1">Ein äußerst widriger Geruch drang uns entgegen, ohne indeß das Athmen zu erschweren. Nun
+                        befestigten wir einen der Hunde am Ende eines achtzehn Fuß langen Bambus und schoben ihn hinab. Jn etwa vierzehn Sekunden fiel er auf den
+                        Rücken, ohne ein Glied zu rühren oder sich umzusehen, doch fuhr er noch
+                        eine Viertelstunde fort zu athmen. Hierauf schickten wir den zweiten Hund
+                        hinein, der freiwillig bis zu der Stelle ging, wo sein Leidensgefährte lag.
+                        Hier stand er ganz still, fiel dann nach zehn Minuten vorn über und
+                        athmete ebenfalls noch sieben Minuten. Ein Vogel, den wir nahmen,
+                        starb in anderthalb Minuten; ein anderer, den wir hinein warfen, war
+                        todt, bevor er noch den Boden berührte.
+            „Während dieser Versuche wurden <seg id="1" type="speaker">wir</seg> von einem starken Regenschauer
+                        überrascht. Aber das schreckliche Schauspiel vor unseren Augen hielt uns
+                        in solcher Spannung, daß wir wenig darauf achteten, durchnäßt zu
+                        werden. Auf der entgegengesetzten Seite lag, nahe an einem großen Stein,
+                        das Gerippe eines Menschen, welcher, auf dem Rücken liegend und die
+                        rechte Hand unter dem Kopf, hier umgekommen sein mußte. Seine Gebeine waren von dem Wetter gebleicht und weiß wie Elfenbein. Gern
+                        hätte ich das Skelett gehabt; aber jeder Versuch, es zu erreichen, wäre
+                        Wahnsinn gewesen.“</said>
+                         
+            
+               M. E ine Heirath auf Wechsel. <seg id="2" type="frame" pos="start">Zu Kilkenny in den Vereinigten
+                        Staaten von Nordamerika <seg id="2" type="intExpr">versprach</seg> ein <seg id="2" type="speaker">Schneider</seg> Namens Sullivan einem
+                        jungen Mädchen,</seg> <said id="2" mode="indirect" content="speech" level="1">dasselbe vierzehn Tage nach dem Tode seiner Frau zu
+                        heirathen.</said> <seg id="3" type="frame" pos="start">Als Bürgschaft <seg id="3" type="intExpr">stellte</seg> <seg id="3" type="speaker">er</seg> einen Wechsel folgenden Jnhalts <seg id="3" type="intExpr">aus</seg>:</seg>
+                        <said id="3" mode="direct" content="writing" level="1">„Vierzehn Tage nach dem Tode meiner Frau verpflichte ich mich, Fräulein
+                        Elise Morand, oder auf ihre Ordre diejenige Dame zu heirathen, die mir
+                        diesen Wechsel im Werth einer Summe von sechszig Pfund Sterling
+                        präsentiren wird.“</said>
+                         
+            Die Jnhaberin des Wechsels verstarb aber bald nach Ausstellung desselben und vermachte ihn einer Freundin, die ebenfalls noch vor dem Tode der
+                        Schneiderfrau das Zeitliche segnete. Das Papier gerieth in den Besitz
+                        einer Cousine der Ersteren, <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">welche</seg> die Einlösung <seg id="4" type="intExpr">forderte</seg>.</said> Die Heirath
+                        fand wirklich statt, und die beiden Gatten sollen ganz glücklich mit einander leben.
+            
+               M. W asserspendende Bäume. Auf der Jnsel Ferro giebt es Bäume,
+                        welche Menschen und Vieh mit Wasser versorgen. Sie sind von mittlerer
+                        Höhe und haben lange, stets grüne Blätter. An den Wipfeln dieser
+                        Quellenbäume gewahrt man stets einen Nebelstreifen, der die Blätter dermaßen mit Wasser tränkt, daß sie ununterbrochen ein klares und frisches
+                        Wasser herabtröpfeln. Da die wenigen Quellen der Jnsel fast unzugänglich
+                        sind, so sind die dortigen Bewohner auf das Wasser dieser Bäume angewiesen, das die Natur ihnen zum Ersatz gegeben.
+            
+               M. D as erste schwedische Schauspiel, eine Darstellung aus der Leidensgeschichte des Erlösers, fand unter der Regierung Johanns II. statt.
+                        Der Darsteller des Kriegsknechts, welcher die Seite des Gekreuzigten
+                        scheinbar zu durchstechen hatte, stieß, vom Feuer der Action hingerissen,
+                        die Lanze in das Herz des Unglücklichen, der vom Kreuz herabfiel und ein
+                        junges Mädchen, welches die Jungfrau Maria repräsentirte, erdrückte.
+                        König Johann, erzürnt über die heillose That, stürzte auf die Bühne und
+                        spaltete mit seinem Schwert den Kopf des Schuldigen. Die wüthenden
+                        Zuschauer, empört über die grausame Strenge des Königs, brachten nun
+                        ihrerseits den Kopf des Letzteren den Manen des Kriegsknechts als Sühnopfer dar.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

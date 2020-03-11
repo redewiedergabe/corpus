@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Lose Blätter.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt05_1868_14.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Lose Blätter.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Die aus dem Fundament der Volkszählung hervorgegangene Statistik,
+                        diese mächtige Stütze der exakten Forschung und Analyse, die ihre Beobachtungen und Resultate über die Veränderungen und deren Ursachen
+                        aus dem stets sich bewegenden Volksleben zieht, hat zuerst der Professor
+                        Achenvall in Göttingen im Jahre 1749 nach systematischen Formen bearbeitet. Die Benennung „Statistik“ kommt dagegen zuerst bei Girolamo
+                        Ghilini, Canonikus von San Ambrogio in Mailand, und zwar in seinem
+                        Werke „ Teatro degli Uomini Letterati“ vom Jahre 1633 vor. <said id="2" mode="reported" content="writing" level="1"><seg id="2" type="speaker">Er</seg>
+                        <seg id="2" type="intExpr">spricht</seg> in demselben von einer Statistica und von Statistica affari.</said>
+                        
+             
+           <seg id="10" type="frame" pos="start"> Zur Berliner Volkszählung sei <seg id="10" type="intExpr">bemerkt</seg>,</seg> <said id="10" mode="indirect" content="speech writing" level="1">daß die älteste derselben zu
+                        Ende des sechszehnten Jahrhunderts stattgefunden und ein Resultat von
+                        12,000 Einwohnern ergeben hat</said>; 1640 hatte der dreißigjährige Krieg die
+                        Bevölkerung bis auf die Hälfte vermindert; unter dem großen Kurfürsten
+                        war die Einwohnerzahl auf 20,000, beim Regierungs=Antritt Friedrichs II.
+                         auf 70,000, und im Todesjahr desselben auf 147,400 ( ausschließlich des
+                        Militärs mit 33,600 Seelen ) gestiegen. Hat die Volkszählung im Jahre
+                        1864 eine Bevölkerung von 632,292 Seelen ( ausschließlich des Militärs )
+                        ergeben, so ist die Einwohnerzahl der werdenden „Weltstadt“ in den
+                        letzten drei Jahren auf mehr als 704,000 gestiegen.
+            
+               R. G änseleber=Pasteten- und Fettkrankheit. <said id="3" mode="reported" content="writing" level="1">Kürzlich ward in der
+                        „<seg id="3 5" type="speaker">N. fr. Pr.</seg>“ in Wien eine scharfe Rüge der Thorheit <seg id="3" type="intExpr">ausgesprochen</seg>, mit
+                        der die guten Deutschen nicht allein ihre Leiber in die albernen Modengesetze der Franzosen zwängen, sondern mit der sie auch für den ekelhaften
+                        und durchaus schädlichen Fettbrei, <said id="4" mode="reported" content="speech" level="2" border="yes">den <seg id="4" type="speaker">man</seg> Gänseleber=Pastete <seg id="4" type="intExpr">nennt</seg></said>, ihr
+                        Geld verschwenden -- bloß weil er theuer ist und sein Genuß <said id="5" mode="direct" content="speech" level="2">„zum guten Ton“</said>
+                        gehört.</said> Jn der That dürfte es sich wohl der Mühe verlohnen, <seg id="6" type="frame" pos="start">einmal unsere
+                        edlen Hausfrauen daran zu <seg id="6" type="intExpr">erinnern</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß sie mit dem Nudeln oder Stopfen der
+                        Gänse einerseits doch eine ihrer selbst, sowie unserer Zeit unwürdige Barbarei,
+                        andererseits aber auch ein schweres Unrecht gegen sich und die Jhrigen
+                        begehen.</said> Denn jede genudelte Gans befindet sich keineswegs im naturgemäßen und gesunden Zustande; sie leidet vielmehr an der ekelhaften
+                        „Fettkrankheit“, welche allerdings künstlich und absichtlich erzeugt, dennoch
+                        unzweifelhaft ihr Fleisch und Fett, namentlich aber ihre Leber und alle
+                        Zubereitungen derselben für die menschliche Gesundheit durchaus nachtheilig macht. Jene verschwollenen weißen, d. h. krankhaft entfärbten
+                        Lebermassen, wie sie namentlich in Frankreich durch die Mastung hervorgerufen werden und die Grundlage zu den Straßburger GänseleberPasteten, Würsten u. s. w. liefern, sind mindestens völlig unverdaulich,
+                        bergen jedoch auch noch andere unheimliche Gefahren für das menschliche
+                        Wohlsein. <seg id="7" type="frame" pos="start">Eine <seg id="7" type="intExpr">Aufforderung</seg> an die deutschen Hausfrauen,</seg> <said id="7" mode="indirect" content="speech" level="1">künftig weder
+                        Gänseleber=Pasteten 
+                  ec.
+                mehr auf ihre Tische zu bringen, noch selbst ihre
+                        zur Mastung bestimmten Gänse hinfort dem grausamen, widernatürlichen
+                        und ihnen selbst gefahrdrohenden Nudeln zu unterwerfen</said>, dürfte hier vielleicht nicht ohne Beherzigung bleiben.
+            
+               D er Tempel der Schrecken in Canton. Als abmahnendes Beispiel,
+                        sind in diesem -- <said id="11" mode="reported" content="writing" level="1">so <seg id="11" type="intExpr">erzählt</seg> <seg id="11" type="speaker">Hildebrandt</seg></said> -- um der Geschäftsüberhäufung der
+                        Kriminaljustiz vorzubeugen, die furchtbarsten Todesstrafen durch Holzfiguren
+                        vergegenwärtigt. <said id="9" mode="direct" content="writing" level="1">„Ein Delinquent wurde zwischen zwei Brettern zersägt;
+                        ein anderer saß in einem mit Wasser gefüllten Kessel, unter dem Feuer
+                        brannte. Eine mir vollkommen neue Todesstrafe war das haarsträubende
+                        Verfahren, den Verbrecher zu Tode zu -- läuten.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

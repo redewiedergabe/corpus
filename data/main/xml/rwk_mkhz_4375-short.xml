@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_morgenblatt06_1856_14.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.morgenblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+         
+            <said id="1" mode="direct" content="speech" level="1">Auf daß fester uns're Hände,
+                        Uns're Herzen sich umfassen,
+                        Gib zum Weib mir dieses Mädchen,
+                        Minnehaha, Lachend Wasser,
+                        Schönste der Dacotahfrauen!“</said>
+                        <said id="2" mode="reported" content="speech" level="1" nonfact="yes">Und der alte <seg id="2" type="speaker">Pfeilemacher</seg>,
+                        <seg id="2" type="intExpr">Schwieg</seg></said>, <said id="3" mode="reported" content="speech" level="1">bevor <seg id="3 4 5" type="speaker">er</seg> Antwort <seg id="3" type="intExpr">sagte</seg></said>,
+                        <said id="4" mode="reported" content="speech" level="1" nonfact="yes">Raucht' ein Weilchen erst in <seg id="4" type="intExpr">Schweigen</seg></said>,
+                        Blickte stolz auf <seg id="1" type="speaker">Hiawatha</seg>,
+                        Liebevoll auf Lachend Wasser,
+                        <seg id="5" type="frame" pos="start">Und gab <seg id="5" type="intExpr">Antwort</seg> dann sehr ernsthaft:</seg>
+                        <said id="5" mode="direct" content="speech" level="1">„Ja, <said id="6" mode="reported" content="thought" level="2">wenn es des <seg id="6" type="speaker">Mädchens</seg> <seg id="6" type="intExpr">Wunsch</seg> ist</said>;
+                        <said id="7" mode="reported" content="speech" level="2" nonfact="yes"><seg id="7" type="intExpr">Sprich</seg> du selber, <seg id="7" type="speaker">Minnehaha</seg>!</said>“</said>
+                        Und die süße Lachend Wasser
+                        Schien noch süßer, wie sie stand dort,
+                        Weder willig noch sich sträubend;
+                        Wie <seg id="8" type="speaker">sie</seg> ging zu Hiawatha,
+                        Leise neben ihn sich setzte,
+                        <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">Sprechend</seg>, und darob erröthend:</seg>
+                        <said id="8" mode="direct" content="speech" level="1">„Jch will folgen dir, mein Gatte!“</said>
+                        Dieß war Hiawatha's Werben!
+                        So gewann er sich die Tochter
+                        Des bejahrten Pfeilemachers
+                        Jn dem Lande der Dacotahs!
+                        Aus dem Wigwam jetzo schied er,
+                        Mit sich führend Lachend Wasser;
+                        Gingen Hand in Hand die beiden
+                        Durch das Waldland und die Wiese,
+                        Ließen einsam steh'n den Alten
+                        Jn dem Thürweg seines Wigwams,
+                        <said id="9" mode="reported" content="speech" level="1">Hörten Minnehaha's <seg id="9" type="speaker">Fälle</seg>
+                        <seg id="9" type="intExpr">Zuruf</seg> brausen aus der Ferne</said>,
+                        <seg id="10" type="frame" pos="start">Hörten <seg id="10" type="speaker">sie</seg> von Weitem <seg id="10" type="intExpr">rufen</seg>:</seg>
+                        <said id="10" mode="direct" content="speech" level="1">„Lebewohl, o Minnehaha!“</said>
+                        Und der alte <seg id="11" type="speaker">Pfeilemacher</seg>
+                        Ging an seine Arbeit wieder,
+                        Saß in seinem sonn'gen Thürweg,
+                        <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">Murmelnd</seg> bei sich selbst und <seg id="11" type="intExpr">sprechend</seg>:</seg>
+                        <said id="11" mode="direct" content="speech" level="1">„So verlassen uns die Töchter,
+                        So, die wir, und die uns lieben!
+                        Grad wenn sie uns helfen können,
+                        Wenn wir alt uns auf sie stützen,
+                        Kommt ein Knab mit stolzen Federn,
+                        Mit der Flöt' aus Rohr, ein Fremder
+                        Wandert pfeifend durch das Dorf hin,
+                        Lacht und winkt dem schönsten Mädchen,
+                        Und sie folgt, wohin er führt sie,
+                        Alles lassend um den Fremden!“</said>
+                        Lustig war die Reise heimwärts,
+                        Durch unendlich lange Wälder,
+                        Ueber Berg und über Wiese,
+                        Ueber Hügel, Fluß und Hohlweg.
+                         
+         
+      </p>
+      </body>
+   </text>
+</TEI>

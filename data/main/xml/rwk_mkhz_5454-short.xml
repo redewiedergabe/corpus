@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Von der Jagd im Alterthume.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig096_1854_6.xml</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">Von der Jagd im Alterthume.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               Von der Jagd im Alterthume.
+            
+            
+               Hasenjagd bei den Alten nach einer etrurischen Vase.
+            
+            
+            
+               <said id="6" mode="reported" content="writing" level="1">E s können hier nicht alle Mittel <seg id="6" type="intExpr">aufgezählt</seg> werden,
+                        welche die Jäger im Alterthume zur Erlegung ihrer
+                        Beute erfunden haben</said>; <said id="2" mode="reported" content="writing" level="1"><seg id="2 6" type="speaker">wir</seg> <seg id="2" type="intExpr">heben</seg> blos die interessantesten und daher denkwürdigsten <seg id="2" type="intExpr">hervor</seg>.</said>
+            Die Vogelfänger bedienten sich, wie noch heutzutage, der Netze oder des Vogelleims und die Jäger
+                        erlegten die Vögel im Fluge mit Pfeilen. Jn letzterer
+                        Hinsicht zeichneten sich besonders die Einwohner der
+                        Jnsel Kreta aus. Auch Hercules ist auf mehren alten 
+                  Der jagende Hercules.
+                Monumenten abgebildet, wie er die Stymphalischen
+                        Vögel, eine der zehn ihm auferlegten bekannten Arbeiten, mit Pfeilen tödtet. Man richtete auch, wie
+                        später im Mittelalter, Raubvögel zum Fang ab.
+            
+            Nach den Hasen wurden Speere oder eine Art
+                        oben gekrümmter Keulen, <said id="7" mode="reported" content="speech" level="1" border="yes">welche <seg id="7" type="speaker">man</seg> Lagobolon <seg id="7" type="intExpr">nannte</seg></said>,
+                        geworfen.
+            Die Faune, Waldgötter der Alten, und die Hirten werden oft mit einem Lagobolon in der einen und
+                        mit einem Hasen in der andern Hand abgebildet.
+            Die Jagd auf Rothwild war schwieriger und gefährlicher. Zuweilen griff man dasselbe geradezu zu
+                        Fuß an und erlegte es mit Speeren und Pfeilen; gewöhnlicher aber bediente man sich dazu der Netze oder
+                        Garne. Diese wurden von leinenen Fäden so fein und
+                        zugleich so fest gestrickt, daß die wildesten Thiere sie
+                        nicht durchbrechen konnten. <seg id="4" type="frame" pos="start">Der römische Schriftsteller <seg id="4" type="speaker">Plinius</seg> <seg id="4" type="intExpr">erzählt</seg>,</seg> <said id="4" mode="indirect" content="writing" level="1">daß ein einziger Mann alle Netze
+                        habe fortbringen können, welche gebraucht wurden, um
+                        einen Wald zu umstellen.</said> Unbegreiflich scheint es,
+                        <seg id="5" type="frame" pos="start">wenn uns <seg id="5" type="intExpr">berichtet</seg> wird,</seg> <said id="5" mode="indirect" content="writing" level="1">daß jeder einzelne Faden
+                        aus 150 natürlich ganz feinen Fäden zusammengesponnen war.</said> Hinter diesen um einen Forst herumgestellten Netzen standen drei Männer, einer an der Mitte
+                        und an jedem Ende einer. Jn gewissen Zwischenräumen waren in denselben lange ebenfalls gestrickte Säcke
+                        angebracht; wenn nun das von den Jägern und Hunden aufgetriebene Wild an die Netze kam und sich gehemmt sah, so lief es daran auf und ab und suchte
+                        einen Durchgang. Jndem es nun die Öffnungen jener Säcke für Durchgänge hielt, stürzte es sich hinein
+                        und dann zogen die aufgestellten Wächter vermittelst
+                        eines Seils die Öffnungen der Säcke rasch zu.
+         
+      </p>
+      </body>
+   </text>
+</TEI>

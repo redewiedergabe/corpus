@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_morgenblatt06_1856_25.xml</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.morgenblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1 2" type="speaker">Stilling</seg> bereitete sich zur Reise nach Frankfurt vor, <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">sagte</seg> Herrn von Lersner <seg id="1" type="intExpr">zu</seg></said> <said id="2" mode="reported" content="speech" level="1">und <seg id="2" type="intExpr">meldete</seg> Goethe,
+                        der im Jahr 1775 noch bei seinen Eltern wohnte, seine
+                        baldige Ankunft.</said> Goethe freute sich innig, Stilling auf
+                        einige Zeit bei sich zu haben. Mit gewohnter Gastfreundschaft boten ihm seine Eltern während der Zeit seines
+                        Aufenthalts den Tisch an und mietheten ihm ein hübsches
+                        Zimmer in der Nachbarschaft. <said id="3" mode="reported" content="writing" level="1">Auch ließ <seg id="3" type="speaker">Goethe</seg> eine
+                        <seg id="3" type="intExpr">Nachricht</seg> über Stillings baldige Ankunft in Frankfurt in
+                        die dortige Zeitung einrücken.</said> <seg id="4" type="frame" pos="start">Stillings wenige <seg id="4" type="speaker">Freunde</seg>
+                        freuten sich und <seg id="4" type="intExpr">hofften</seg>,</seg> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">andere</seg> <seg id="4" type="intExpr">sorgten</seg>,</seg> <seg id="4" type="frame" pos="start">die <seg id="4" type="speaker">meisten</seg>
+                        <seg id="4" type="intExpr">wünschten</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1">er möchte zu Schanden werden.</said> Nach einer
+                        
+               
+               mühseligen, zu Pferde vollbrachten Reise kam er Abends
+                        über Friedberg in Frankfurt an und wurde von Goethe
+                        mit der wärmsten Liebe, von den Eltern. mit zuvorkommender Gastfreundschaft aufgenommen.
+            Am folgenden Tage besuchte er Herrn von Lersner und
+                        fand in ihm einen trefflichen Greis, voll Höflichkeit, Gefälligkeit und aufgeklärter Religiosität. Seine Augen
+                        wurden geschickt zur Operation gefunden. Nach mehreren
+                        ärztlichen Vorbereitungen ward endlich der Staar auf beiden Augen gestochen. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Es</seg> <seg id="5" type="intExpr">hieß</seg>,</seg> <said id="5" mode="indirect" content="speech writing" level="1">der Patient habe nach der
+                        Operation sogleich gesehen, bis der nöthige Verband das
+                        Licht wieder abgehalten.</said> <said id="14" mode="reported" content="speech" level="1">Das <seg id="14" type="intExpr">Gerücht</seg> erscholl durch die
+                        ganze Stadt</said>, mehrere Personen aus und um Frankfurt
+                        ließen sich operiren; sieben an der Zahl wurden sehend.
+                        <seg id="6" type="frame" pos="start">Allein <seg id="6" type="speaker">Goethe</seg> <seg id="6" type="intExpr">bemerkte</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes">daß Jung nicht heiter war und
+                        daß ihm etwas auf dem Herzen liegen müsse.</said> <seg id="7" type="frame" pos="start">Auf freundliches Nachforschen <seg id="7" type="intExpr">bekannte</seg> <seg id="7" type="speaker">er</seg> dann,</seg> <said id="7" mode="indirect" content="speech" level="1">er sey wegen des
+                        Ausgangs seiner Hauptoperation in Sorgen.</said> Den grauen
+                        Staar durch den Hornhautschnitt zu operiren, war damals noch die gewöhnliche Methode. Man kannte oder
+                        übte weder die Depression noch die Zerstückelung der verdunkelten Linse. Goethe hatte die Operation in Straßburg mehrmals gesehen. Gewöhnlich schien nichts leichter
+                        zu seyn, wie sie denn auch Stilling hundertmal gelungen war. Nach vollbrachtem schmerzlosem Schnitt durch
+                        die unempfindliche Hornhaut sprang beim gelindesten Druck
+                        die Linse von selbst heraus. Der Patient erblickte sogleich
+                        die Gegenstände und mußte sich nun mit verbundenen
+                        Augen gedulden, bis eine den Umständen angemessene Behandlung ihm erlaubte, sich des wiedergeschenkten Organs
+                        nach Willen und Bequemlichkeit zu bedienen. Wie mancher <seg id="8" type="speaker">Arme</seg>, dem Jung dieses Glück verschafft, <said id="8" mode="reported" content="thought" level="1"><seg id="8" type="intExpr">wünschte</seg>
+                        dem beglückenden Augenarzte Gottes Segen und Belohnung,</said> die jezt durch diesen reichen Mann abgetragen
+                        werden sollte! -- <seg id="16" type="frame" pos="start"><seg id="16 17" type="speaker">Stilling</seg> <seg id="16" type="intExpr">bekannte</seg> nun Goethe,</seg> <said id="16" mode="indirect" content="speech" level="1">dieses
+                        mal sey es so leicht und glücklich nicht hergegangen; die
+                        Linse sey nicht herausgesprungen. </said><said id="17" mode="indirect freeIndirect" content="speech" level="1">Er habe sie holen und
+                        zwar, weil sie angewachsen, ablösen müssen, und dieß sev
+                        nicht ohne einige Gewalt abgegangen.</said> <seg id="18" type="frame" pos="start">Nun machte <seg id="18" type="speaker">er</seg>
+                        sich <seg id="18" type="intExpr">Vorwürfe</seg>,</seg> <said id="18" mode="indirect" content="speech" level="1">auch das andere Auge sogleich operirt zu
+                        haben; <seg id="11" type="frame" pos="start">allein <seg id="11 19" type="speaker">man</seg> habe sich nun einmal fest <seg id="11" type="intExpr">vorgenommen</seg>
+                        gehabt,</seg> <said id="11" mode="indirect" content="thought" level="2">beide Augen zugleich vorzunehmen.</said></said> <said id="19" mode="indirect freeIndirect" content="speech" level="1"><said id="12" mode="reported" content="thought" level="2" nonfact="yes">An einen
+                        solchen Zufall habe <seg id="12" type="speaker">man</seg> nicht <seg id="12" type="intExpr">gedacht</seg></said>, und da er eingetreten, sich nicht sogleich gefaßt und besonnen.</said> Genug,
+                        auch die zweite Linse kam nicht von selbst, sie mußte
+                        ebenfalls künstlich abgelöst und herausgeholt werden. -Zwischen Furcht und Hoffnung vergingen nun einige
+                        Tage. Mehrere Aerzte unterstüzten Stilling in seiner
+                        Nachbehandlung. Alles vergebens. Die Augen des reichen
+                        Mannes entzündeten sich; eine unheilbare Blindheit schlug
+                        jede Hoffnung nieder.
+            <said id="15" mode="reported" content="thought" level="1">Da <seg id="15" type="intExpr">glaubte</seg> <seg id="15" type="speaker">Stilling</seg> vergehen zu müssen.</said> Nicht nur
+                        zog sich Alles von dem Armen in seinem Unglück zurück,
+                        er selbst begann an sich, an seiner Kunst zu verzweifeln;
+                        er verlor sich selbst.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt18_1868_6.xml</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="frame" pos="start">Es ist ein altes <seg id="1" type="intExpr">Sprüchwort</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">daß dem Lachen
+                        nichts näher steht, als das Weinen</said>, <seg id="25" type="frame" pos="start">und nach der <seg id="25" type="intExpr">Aussage</seg> des Arztes
+                        <seg id="25" type="speaker">Lempi è re</seg></seg> <said id="25" mode="indirect" content="speech" level="1">ist das Eine die natürliche Folge des Andern.</said> Als Momus
+                        geboren wurde, erfüllte sein Weinen den ganzen Olymp so, daß alle Götter
+                        herbeieilten, um den Schreihals zu beschwichtigen, und dennoch konnte
+                        Jupiter niemals das letzte seiner Werke, den Menschen, ansehen, ohne in
+                        ein fürchterliches Gelächter auszubrechen; er gab ihm darum auch das
+                        Lachen als seinen Segen mit.
+            <said id="28" mode="reported" content="thought" level="1">Fast jeder <seg id="28 3" type="speaker">Philosoph</seg> hat es für seine Pflicht <seg id="28" type="intExpr">gehalten</seg>, <said id="3" mode="reported" content="speech" level="2">die Menschheit
+                        über ihr eigentliches Wesen <seg id="3" type="intExpr">aufzuklären</seg>.</said></said> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Franklin</seg> <seg id="4" type="intExpr">nennt</seg> uns</seg> <said id="4" mode="direct" content="speech" level="1">„Werkzeuge
+                        verfertigende Thiere“</said>; <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Boswell</seg>, der ein Feinschmecker war, <seg id="5" type="intExpr">bezeichnet</seg>
+                        uns als</seg> <said id="5" mode="direct" content="speech" level="1">„kochende Zweifüßler“</said>, <seg id="6" type="frame" pos="start">und ein ziemlich frivoler französischer <seg id="6" type="speaker">Philosoph</seg> <seg id="6" type="intExpr">sagt</seg> kurzweg:</seg> <said id="6" mode="direct" content="speech" level="1">„ L'homme est un animal, qui crache“</said> ( d. h.:
+                        „der Mensch ist ein spuckendes Thier“ ) -- <said id="14" mode="reported" content="speech" level="1" nonfact="yes">eine <seg id="14" type="intExpr">Behauptung</seg>, die höchst
+                        wahrscheinlich in amerikanischen „ Public-houses“ entstanden ist.</said> <seg id="9" type="frame" pos="start">Die
+                        einzige richtige <seg id="9" type="intExpr">Sacherklärung</seg>, <said id="8" mode="reported" content="speech" level="1" nonfact="yes"><seg id="8" type="speaker">die</seg> eine Bestreitung durchaus nicht <seg id="8" type="intExpr">zuläßt</seg></said>, ist die,</seg> <said id="9" mode="indirect" content="speech" level="1">daß der Mensch ein lachendes Thier ist.</said> <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Man</seg> könnte
+                        <seg id="10" type="intExpr">entgegensetzen</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">daß auch die Affen grinsen.</said> Grinsen ist jedoch noch lange
+                        kein Lachen, <said id="11" mode="reported" content="thought" level="1">und <seg id="11" type="intExpr">angenommen</seg> dem wäre so</said>, <seg id="12" type="frame" pos="start">so dürfen <seg id="12" type="speaker">wir</seg> auch nicht <seg id="12" type="intExpr">vergessen</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1"><said id="15" mode="reported" content="thought" level="2">daß <seg id="15" type="speaker">Linnäus</seg> den langarmigen Affen zum Menschengeschlecht <seg id="15" type="intExpr">zählt</seg>.</said></said>
+                        Ueberhaupt fällt es <seg id="13" type="speaker">uns</seg> bekanntlich gar nicht so leicht, <said id="13" mode="reported" content="speech" level="1">unsern Vetter, den
+                        Affen, zu <seg id="13" type="intExpr">verleugnen</seg>.</said> Rousseau sah in West=Afrika das Ursprungsgeschöpf der
+                        Menschheit, und obschon er in seinen lichten Augenblicken den aufrechten
+                        Gang auf den Hinterfüßen beibehielt, <said id="16" mode="reported" content="speech" level="1" nonfact="yes">so konnte <seg id="16" type="speaker">er</seg> dennoch den Vortheil,
+                        den ein Gehen auf allen Vieren bietet, nicht <seg id="16" type="intExpr">ableugnen</seg>.</said> <said id="26" mode="reported" content="thought" level="1">Der PavianMediziner <seg id="26" type="speaker">Moscati</seg> <seg id="26" type="intExpr">leitet</seg> viele der Krankheiten, die dem Menschen allein
+                        eigen sind, wie z. B. Schwindsucht, Hypochondrie, Leberbeschwerden 
+                  ec.
+                        
+                von unserm aufrechten Gang <seg id="26" type="intExpr">ab</seg>.</said> <said id="29" mode="indirect" content="writing" level="1">Ob er das Mittel, jenen Uebeln zuvorzukommen, auf sich selbst angewendet hat</said><seg id="29" type="frame" pos="end">, wissen <seg id="29" type="speaker">wir</seg> wirklich nicht <seg id="29" type="intExpr">anzugeben</seg>.</seg> Ein genauer Beobachter wird an unserm grinsenden Verwandten
+                        andere Eigenschaften finden, die mit den unsrigen mehr Aehnlichkeit haben,
+                        als der aufrechte Gang, den der Affe doch nur versuchsweise annimmt, und
+                        der uns erst in Folge langer Uebung zur Gewohnheit geworden ist. Jedoch
+                        zurück zu unserem Thema.
+            Lachen ist eine angenehme konvulsivische Erschütterung der Athmungswerkzeuge, eine Konvulsion der Gesichts= und Bauchmuskeln und zugleich
+                        ein äußerliches Zeichen der Freude, wie Weinen hingegen Schmerz oder
+                        Kummer ausdrückt. Les extrêmes se touchent, und ein unbändiges
+                        Lachen hat leicht einen großen Thränenerguß zur Folge; auch sieht man
+                        häufig, daß großer Schmerz sich in jenem unheimlichen Lachen ausdrückt,
+                        <said id="18" mode="reported" content="speech" level="1" border="yes">welches <seg id="18" type="speaker">man</seg> mit dem Worte „hysterisch“ <seg id="18" type="intExpr">bezeichnet</seg>.</said> Wie ziemlich gleich
+                        der Gesichtsausdruck beim Lachen und Weinen ist, beweist, daß Rubens mit
+                        einem einzigen Pinselstrich ein lachendes Kind in ein weinendes verwandeln
+                        konnte. <said id="19" mode="reported" content="speech" level="1">Unsere <seg id="19" type="speaker">Mütter</seg> haben, ohne große Maler zu sein, dasselbe
+                        häufig mit einem einzigen <seg id="19" type="intExpr">Wort</seg> erzielt.</said> <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Man</seg> <seg id="20" type="intExpr">weiß</seg>,</seg> <said id="20" mode="indirect" content="thought" level="1" border="yes">daß Kinder früher
+                        weinen als lachen.</said> <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Aristoteles</seg> <seg id="21" type="intExpr">behauptet</seg>,</seg> <said id="21" mode="indirect" content="speech writing" level="1">daß Kinder vor ihrem vierzigsten
+                        Tage nicht zu lachen vermögen</said>, <seg id="22" type="frame" pos="start">und <seg id="22" type="speaker">St. Cyprian</seg> <seg id="22" type="intExpr">erklärt</seg>,</seg> <said id="22" mode="indirect" content="speech writing" level="1">daß sie mit
+                        Thränen nach der Taufe verlangen.</said>
+            <said id="23" mode="reported" content="thought" level="1">Die <seg id="23" type="speaker">Alten</seg> <seg id="23" type="intExpr">sahen</seg> das Lachen eines jungen Kindes als ein gutes Omen
+                        an</said>, <seg id="24" type="frame" pos="start">und es wird <seg id="24" type="intExpr">berichtet</seg>,</seg> <said id="24" mode="indirect" content="speech" level="1">daß Zoroaster bereits am Tage seiner Geburt
+                        gelacht habe.
+</said>
+
+</p>
+      </body>
+   </text>
+</TEI>

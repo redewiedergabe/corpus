@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Disputation. Aus den 'Hebräischen Melodien'.</title>
+             <author>Heine, Heinrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social03_1873_6.xml</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Disputation. Aus den 'Hebräischen Melodien'.</f>
+         <f name="author">Heine, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+         
+            
+               In der Aula zu Toledo
+                        Klingen schmetternd die Fanfaren;
+                        Zu dem geistlichen Turnei
+                        Wallt das Volk in bunten Scharen. 
+               Das ist nicht ein weltlich Stechen,
+                        Keine Eisenwaffe blitzet -Eine Lanze ist das Wort,
+                        Das scholastisch scharf gespitzet. 
+               Nicht galante Paladins
+                        Fechten hier, nicht Damendiener -Dieses Kampfes Ritter sind
+                        Kapuziner und Rabbiner. 
+               Statt des Helmes tragen sie
+                        Schabbesdeckel und Kapuzen;
+                        Skapulier und Arbekanfeß
+                        Sind der Harnisch, drob sie trutzen. 
+               Welches ist der wahre Gott?
+                        Ist es der Hebräer starrer
+                        Großer Eingott, dessen Kämpe
+                        Rabbi Juda, der Navarrer? 
+               Oder ist es der dreifalt'ge
+                        Liebegott der Christianer,
+                        Dessen Kämpe Frater Jose,
+                        Gardian der Franciskaner? 
+               <said id="1" mode="reported" content="speech" level="1">Durch die Macht der <seg id="1" type="intExpr">Argumente</seg>,
+                        Durch der Logik <seg id="1" type="intExpr">Kettenschlüsse</seg></said>
+                        <said id="5" mode="reported" content="thought" level="1">Und <said id="2" mode="reported" content="writing" level="2"><seg id="2" type="intExpr">Citate</seg> von <seg id="2" type="speaker">Autoren</seg></said>,
+                        Die <seg id="5" type="speaker">man</seg> <seg id="5" type="intExpr">anerkennen</seg> müsse</said>, 
+               Will ein jeder Kämpe seinen
+                        Gegner ad absurdum führen
+                        Und die wahre Göttlichkeit
+                        Seines Gottes demonstrieren. 
+               Festgestellt ist: daß Derjen'ge,
+                        Der im Streit ward überwunden,
+                        Seines Gegners Religion
+                        Anzunehmen sei verbunden, 
+               Daß der Jude sich der Taufe
+                        Heil'gem Sakramente füge,
+                        Und im Gegentheil der Christ
+                        Der Beschneidung unterliege. 
+               Jedem von den beiden Kämpen
+                        Beigesellt sind elf Genossen,
+                        Die zu theilen sein Geschick
+                        Sind in Freud' und Leid entschlossen. 
+               Glaubenssicher sind die Mönche
+                        Von des Gardians Geleitschaft
+                        Halten schon Weihwasserkübel
+                        Für die Taufe in Bereitschaft, 
+               Schwingen schon die Sprengelbesen
+                        Und die blanken Räucherfässer -Ihre Gegner unterdessen
+                        Wetzen die Beschneidungsmesser.
+                         
+         
+      </p>
+      </body>
+   </text>
+</TEI>
