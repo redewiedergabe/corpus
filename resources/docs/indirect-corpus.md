@@ -6,4 +6,6 @@ The indirect-corpus is only available in column-based text format. Further infor
 
 ## Statistics
 
+**16 files**, consisting of	**51,864 tokens** with	**272 instances**.
+
 A list of all texts including author, title, year of publicationcan and information on fictionality be found [here](/resources/docs/metadata_indirect.xlsx).
