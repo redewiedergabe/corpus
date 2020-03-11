@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Im Flecken: Erzählung aus der russischen Provinz (Fortsetzung)</title>
+             <author>Reyher, Alexander Andreas v. </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341891_316950.txt_73.xml</f>
+         <f name="year">1910</f>
+         <f name="decade">1910</f>
+         <f name="title">Im Flecken: Erzählung aus der russischen Provinz (Fortsetzung)</f>
+         <f name="author">Reyher, Alexander Andreas v. </f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<said id="2" mode="direct" content="speech" level="1">Als Hilfslehrer bekommt er sehr wenig."</said>
+                         
+           <said id="3" mode="direct" content="speech" level="1"> „Ja, was soll das aber? <said id="4" mode="reported" content="speech" level="2" nonfact="yes">Was wollen <seg id="4" type="speaker">Sie</seg> <seg id="4" type="intExpr">sagen</seg>?</said> <said id="5" mode="reported" content="thought" level="2">In welcher Hinsicht
+                        <seg id="5" type="intExpr">halten</seg> <seg id="5" type="speaker">Sie</seg> ihn für verdächtig?</said>"</said>
+                         
+           <said id="1" mode="direct" content="speech" level="1"> „Nein, nein, Sie sind da auf dem Holzwege,"</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sprach</seg> der <seg id="1 2" type="speaker">Bezirksaufseher</seg>
+                        nachdenklich.</seg>
+           <said id="6" mode="direct" content="speech" level="1"> „<said id="7" mode="reported" content="thought" level="2"><seg id="7" type="speaker">Mir</seg> drängte sich der <seg id="7" type="intExpr">Verdacht</seg> gleich <said id="8" mode="reported" content="speech" level="3">bei <seg id="8" type="speaker">seinen</seg> ersten <seg id="8" type="intExpr">Worten</seg></said> auf</said>,"</said>
+                        <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">beharrte</seg> <seg id="6 3 14" type="speaker">Wolski</seg>.</seg>
+           <said id="9" mode="direct" content="speech" level="1"> „Aber welcher Verdacht?"</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">fragte</seg> <seg id="9 10" type="speaker">Schejin</seg> etwas erregt.</seg> <said id="10" mode="direct" content="speech" level="1">„<said id="11" mode="reported" content="thought" level="2" nonfact="yes">Woran <seg id="11" type="intExpr">denken</seg> <seg id="11 12" type="speaker">Sie</seg>?</said>
+                        <seg id="12" type="frame" pos="start">Doch nicht gar,</seg><said id="12" mode="indirect" content="thought" level="2" nonfact="yes"> daß Boris Stepanowitsch -</said>"
+ </said>                        
+           <said id="13" mode="reported" content="speech" level="1" nonfact="yes"> <seg id="13" type="speaker">Er</seg> <seg id="13" type="intExpr">endigte</seg> nicht.</said> Die Backen bedeckten sich mit Röte.
+            <said id="14" mode="direct" content="speech" level="1">„<said id="15" mode="reported" content="thought" level="2" nonfact="yes"><seg id="15" type="speaker">Ich</seg> <seg id="15" type="intExpr">denke</seg> es noch nicht.</said> <said id="16" mode="reported" content="thought" level="2"><seg id="16" type="speaker">Ich</seg> habe fürs erste nur unwillkürlichen <seg id="16" type="intExpr">Verdacht</seg>.</said>
+                        Aber eine Haussuchung auf frischer Tat wäre vielleicht am Platze."</said>
+                         
+          <said id="17" mode="direct" content="speech" level="1">  „Unsinn, Unsinn!"</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">sprach</seg> der<seg id="17 18" type="speaker"> Bezirksaufseher</seg>.</seg>
+            <said id="18" mode="direct" content="speech" level="1">„Er war hier, als die Nachbarn schreien hörten. Sie kamen erst dazu, als
+                        die Helfershelfer bereits fort und in Sicherheit waren, und er blieb, um die
+                        Nachforschungen in die Ferne zu lenken. <said id="20" mode="reported" content="thought" level="2"><said id="19" mode="reported" content="speech" level="3"><seg id="19 21" type="speaker">Seine</seg> <seg id="19" type="intExpr">Behauptungen</seg></said>, <said id="21" mode="reported" content="speech" level="3">die <seg id="21" type="intExpr">Fabel</seg> vom
+                        Hunde</said> — alles das ist <seg id="20" type="speaker">mir</seg> sehr, sehr <seg id="20" type="intExpr">verdächtig</seg>.</said>"</said>
+                         
+           <said id="22" mode="reported" content="thought" level="1" border="yes"> Jetzt hatte <seg id="22" type="speaker">Schejin</seg> voll <seg id="22" type="intExpr">begriffen</seg>.</said> Zornig fuhr er vom Stuhle auf.
+            <said id="23" mode="direct" content="speech" level="1">„Boris Stepanowitsch!"</said><seg id="23" type="frame" pos="end"> <seg id="23" type="intExpr">rief</seg><seg id="23 24" type="speaker"> er</seg>.</seg> <said id="24" mode="direct" content="speech" level="1">„Okolitsch! Der ehrlichste, bravste Mensch,
+                        den ich kenne! Okolitsch, dem ich Millionen anvertrauen möchte, wenn ich sie hätte!
+                         
+            
+            Der soll gestohlen haben! <said id="25" mode="reported" content="speech" level="2">Den wagen <seg id="25" type="speaker">Sie</seg> zu <seg id="25" type="intExpr">beschuldigen</seg></said>, in meiner Gegenwart?
+                        Wladimir Iwanowitsch, das ist schändlich! Das ist ehrlos!"
+ </said>                        
+          <said id="27" mode="direct" content="speech" level="1">  „Sch,"</said> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">mahnte</seg> der <seg id="27 33" type="speaker">Bezirksaufseher</seg>,</seg> <said id="27" mode="direct" content="speech" level="1">„<said id="28" mode="reported" content="speech" level="2">dies <seg id="28" type="intExpr">Gespräch</seg></said> darf niemand hören, auch
+                        Ihre Tochter nicht."
+ </said>                        
+           <said id="30" mode="direct" content="speech" level="1"> „<seg id="51" type="frame" pos="start"><seg id="51" type="speaker">Ich</seg> <seg id="51" type="intExpr">erkläre</seg> Ihnen,</seg>"</said> <seg id="30" type="frame" pos="mid"><seg id="30" type="intExpr">fuhr</seg> <seg id="30" type="speaker">Schejin</seg> leiser und ruhiger <seg id="30" type="intExpr">fort</seg>,</seg> <said id="30" mode="direct" content="speech" level="1">„<said id="51" mode="indirect" content="speech" level="2">daß ich in jeder
+                        Hinsicht für meinen Mieter Okolitsch bürge.</said> <said id="32" mode="reported" content="speech" level="2"><seg id="32" type="speaker">Ich</seg> <seg id="32" type="intExpr">weise</seg> <said id="33" mode="reported" content="speech" level="3">die <seg id="33" type="intExpr">Anschuldigung</seg></said> mit
+                        Entrüstung <seg id="32" type="intExpr">zurück</seg>.</said> <said id="34" mode="reported" content="speech" level="2"><seg id="34 35" type="speaker">Ich</seg> <seg id="34" type="intExpr">warne</seg> Sie, Wladimir Iwanowitsch</said>, und <seg id="36" type="frame" pos="start"><seg id="36" type="intExpr">verbiete</seg><seg id="36" type="speaker"> Ihnen</seg>,</seg>
+                       <said id="36" mode="indirect" content="speech" level="2" nonfact="yes"><said id="35" mode="reported" content="speech" level="3"> in meinem Hause noch eine Silbe gegen Boris Stepanowitsch auszusprechen.</said></said>"
+ </said>                        
+            Wolski stand auf und rückte den Säbel zurecht. Auch er war rot geworden.
+           <said id="37" mode="direct" content="speech" level="1"> „<said id="38" mode="reported" content="speech" level="2"><seg id="38" type="speaker">Sie</seg> erlauben sich <seg id="38" type="intExpr">Redensarten</seg></said>, Andrej Fomitsch,"</said> <seg id="37" type="frame" pos="mid"><seg id="37" type="intExpr">sagte</seg><seg id="37 39" type="speaker"> er </seg>und <said id="39" mode="reported" content="speech" level="1" nonfact="yes">versuchte
+                        sich recht kühl und würdevoll <seg id="39" type="intExpr">auszudrücken</seg></said>,</seg> <said id="37" mode="direct" content="speech" level="1">„die ich überhören will, weil Sie es
+                        sind.<seg id="40" type="frame" pos="start"> <seg id="40" type="speaker">Ich</seg> <seg id="40" type="intExpr">mache</seg> Ihnen nur <seg id="40" type="intExpr">bemerklich</seg>,</seg> <said id="40" mode="indirect" content="speech" level="2">erstens, daß ich in Ihrem Interesse bemüht
+                        bin, und zweitens, daß ich trotz Ihrem unfreundlichen Entgegenkommen fortfahren
+                        werde, in Ihrem Interesse allen Eifer an den Tag zu legen.</said>"</said>
+                         
+           <said id="52" mode="direct" content="speech" level="1"> „Wladimir Iwanowitsch,"</said> <seg id="52" type="frame" pos="mid"><seg id="52" type="intExpr">sprach</seg> der<seg id="52" type="speaker"> Bezirksaufseher</seg>,</seg> <said id="52" mode="direct" content="speech" level="1">„<said id="43" mode="reported" content="speech" level="2" nonfact="yes">sparen <seg id="43" type="speaker">Sie</seg> Ihre <seg id="43" type="intExpr">Worte</seg></said>,
+                        und vor allen Dingen, <said id="44" mode="reported" content="thought" level="2">lassen <seg id="44" type="speaker">Sie</seg> Ihren <seg id="44" type="intExpr">Verdacht</seg> fahren. </said>Ich finde nichts, was
+                        denselben im geringsten rechtfertigte. <seg id="45" type="frame" pos="start">Und <seg id="45" type="intExpr">glauben</seg><seg id="45" type="speaker"> Sie</seg> meiner Erfahrung,</seg> <said id="45" mode="indirect" content="thought" level="2">Sie
+                        können sich argen Unannehmlichkeiten aussetzen.</said> Boris Stepanowitsch sieht nicht
+                        aus wie ein Mensch, der sich ungestraft unrecht tun ließe. Nun hören Sie. Nehmen
+                        Sie einen Schutzmann mit und machen Sie sich sogleich daran, die Leute im Flecken
+                        aufzusuchen, welche Pferde halten, natürlich nur die gemeinen Leute, Karrenführer,
+                        Lohnkutscher, Gemüsegärtner und ähnliche, zuerst die, <said id="46" mode="reported" content="thought" level="2">die <seg id="46" type="speaker">Sie</seg> einer solchen Tat
+                        fähig <seg id="46" type="intExpr">halten</seg>. </said>Besichtigen Sie die Pferde und Wagen. Auf der Chaussee ist es
+                        schmutzig, in den Gassen des Fleckens noch mehr. <said id="47" mode="reported" content="thought" level="2" nonfact="yes">Die <seg id="47" type="speaker">Halunken</seg> werden daran
+                        nicht <seg id="47" type="intExpr">gedacht</seg> haben</said>, und an den Rädern des betreffenden Wagens und den Beinen
+                        der Pferde muß sich der frische Schmutz noch erkennen lassen. <said id="48" mode="reported" content="thought" level="2" nonfact="yes" border="yes"><seg id="48" type="intExpr">Verstehen</seg> <seg id="48" type="speaker">Sie</seg> mich?</said>
+                        Ja? Gut. <seg id="49" type="frame" pos="start"><seg id="49" type="speaker">Ich</seg> bin fast <seg id="49" type="intExpr">überzeugt</seg>,</seg><said id="49" mode="indirect" content="thought" level="2" border="yes"> Sie legen noch heute morgen die Hand auf
+                        die Schuldigen.</said> Besehen Sie sich bei der Gelegenheit auch die Leute selbst, <said id="50" mode="reported" content="thought" level="2">und
+                        wo <seg id="50" type="speaker">Ihnen</seg> etwas verdächtig <seg id="50" type="intExpr">vorkommt</seg></said>, halten Sie förmlich Haussuchung.
+</said>
+
+</p>
+      </body>
+   </text>
+</TEI>

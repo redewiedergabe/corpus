@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Grafen von Altenschwerdt.</title>
+             <author>Niemann, August</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341837_151310.txt_8.xml</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Die Grafen von Altenschwerdt.</f>
+         <f name="author">Niemann, August</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+<said id="17" mode="direct" content="speech" level="1">Du wirst
+                        ihm folgen. Für die Kinder der Wiedergeburt giebt es nicht das, <said id="1" mode="reported" content="speech" level="2" border="yes">was die
+                        <seg id="1" type="speaker">Heiden</seg> Tod <seg id="1" type="intExpr">nennen</seg>.</said> <said id="2" mode="reported" content="speech" level="2" nonfact="yes">Soll <seg id="2" type="speaker">ich</seg> dir den Psalm von der ewigen Vereinigung <seg id="2" type="intExpr">vorlesen</seg>?</said></said>
+                         
+              <said id="4" mode="direct" content="speech" level="1"> <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ich</seg> <seg id="5" type="intExpr">fürchte</seg>, <seg id="17" type="speaker">Schwester Elisabeth</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2">der Eindruck desselben auf meine Nerven
+                        würde zu stark sein</said></said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">entgegnete</seg> die blasse <seg id="4" type="speaker">Dame</seg> mit einem matten Lächeln.</seg>
+                        <said id="18" mode="direct" content="speech" level="1">Wäre doch mein lieber Sohn hier!</said> <said id="19" mode="reported" content="speech" level="1">Diese letzten Worte</said> schienen sich unwillkürlich durch <seg id="18 19 7" type="speaker">ihre</seg> Lippen Bahn zu brechen, <said id="7" mode="reported" content="thought" level="1" nonfact="yes">als wären sie nicht das Ergebnis
+                        der Überlegung, sondern ein tiefer <seg id="7" type="intExpr">Herzensgedanke</seg></said>, der nach Befreiung strebte.
+               <said id="8" mode="direct" content="speech" level="1">Dein Sohn gehörte niemals recht zu uns</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">versetzte</seg> die <seg id="8 20" type="speaker">Shakerin</seg> mit einem
+                        Tone des Bedauerns und der Unzufriedenheit.</seg> <said id="20" mode="direct" content="speech" level="1">Das heidnische Leben hat zuviel
+                        Macht über ihn. <seg id="9" type="frame" pos="start">Doch <seg id="9" type="intExpr">bitten</seg> <seg id="9" type="speaker">wir</seg> alle häufig bei dem Friedensfürsten,</seg><said id="9" mode="indirect" content="speech" level="2"> daß er
+                        ihn zurückführen möge zu den Stätten der Wiedergebornen.</said></said>
+               <said id="10" mode="direct" content="speech" level="1">Mein Sohn vollführte ein edles und hochherziges Werk</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> die <seg id="10 21" type="speaker">Sterbende</seg></seg>, indem ihre Wangen sich mit einem schwachen Rot färbten. <said id="21" mode="direct" content="speech" level="1">Er ist
+                        hinübergegangen in die alte Heimat, um für das Vaterland in einem gerechten
+                        Kriege zu kämpfen.</said>
+               
+               Der Blick der Shakerin nahm einen ernsten Ausdruck an, und ihre Lippen
+                        bewegten sich ein wenig, <said id="11" mode="reported" content="speech" level="1" nonfact="yes">als ob <seg id="11" type="speaker">sie</seg> eine <seg id="11" type="intExpr">Entgegnung</seg>, die ihr auf der Zunge
+                        schwebte, noch im letzten Augenblick zurückhielte.</said> <seg id="12" type="frame" pos="start">Dann <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">sie</seg> nach einer
+                        Pause mit freundlichem Tone:</seg> <said id="12" mode="direct" content="speech" level="1"><seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">Bitten</seg> <seg id="13" type="speaker">wir</seg> für ihn,</seg> <said id="13" mode="indirect" content="speech" level="2" nonfact="yes">daß er dereinst auch den
+                        Mut zu dem wahren Kampfe, zu dem Kampfe der Erlösung, finden möge!</said></said>
+                         
+               <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Die blasse <seg id="14" type="speaker">Dame</seg> <seg id="14" type="intExpr">erwiederte</seg> nichts mehr</said>, doch richtete sie nach einer kleinen
+                        Zeit ihre schönen und gleichsam verklärten Augen auf das Gesicht des alten
+                        Negers und wies ihm mit einer Handbewegung ein Kästchen auf dem Tische in
+                        der Ecke des Zimmers. Dieser Wink enthielt einen ihm verständlichen Befehl,
+                        denn er ging auf das Kästchen zu, öffnete es und brachte der Dame ein kleines
+                        Schlüsselbund.
+               Sie zeigte ihm den größten der in demselben befindlichen Schlüssel und
+                        legte ihn in seine Hand.
+               Es waren nur wenig Möbel in dem Zimmer, und diese waren so einfach
+                        und dabei so weiß und rein, wie nur das Herz einer stolzen Tanne aus amerikanischem Urwald ohne Politur und künstliche Farbe sein kann. In der einen
+                        Ecke stand ein Bett mit Laken und Kissen von blütenfarbenem Glanz, in einer
+                        andern der Tisch mit dem Kästchen, der auch noch ein Tintenfaß, eine englische
+                        Bibel und eine kleine Auswahl deutscher Bücher trug, in einer dritten ein großer
+                        Schrank. Nur noch vier Rohrstühle und einige kleinere Gegenstände, wie sie
+                        den einfachsten Ansprüchen an Bequemlichkeit entsprechen, fanden sich außerdem
+                        in dem großen, luftigen Gemach. Die Dielen, die Wände und die Decke waren
+                        gleich dem Mobiliar aus dem schönsten Tannenholze gearbeitet, sorgfältig zusammengefügt und ohne jeden Anstrich, ohne jeden Schmuck außer ihrer Frische
+                        und Reinheit.
+               Aus dem Schranke holte der Neger jetzt, nachdem er ihn aufgeschlossen
+                        hatte, eine Kassette hervor und stellte sie der Dame zur Hand, indem er einen
+                        der Rohrstühle herbeitrug und sie darauf niedersetzte. Es war ein sehr elegantes und reich gearbeitetes Kistchen von dunkelm Holz mit Silberbeschlag,
+                        und auf dem Deckel war in die zierliche Silberplatte ein Wappen eingegraben.
+               <seg id="15" type="frame" pos="start">Die blasse <seg id="15" type="speaker">Dame</seg> betrachtete die Kassette mit schwermütigen Blick, löste
+                        dann einen kleinen Schlüssel aus dem Bunde, gab das Bund selbst der Shakerin
+                        und <seg id="15" type="intExpr">sagte</seg>:</seg><said id="15" mode="direct" content="speech" level="1"> <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Ich</seg> <seg id="16" type="intExpr">weiß</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2" border="yes">daß heute mein letzter Tag auf Erden ist.</said></said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

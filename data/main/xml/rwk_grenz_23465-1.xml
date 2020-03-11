@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Apostel des deutschen Idealismus</title>
+             <author>Buchheim, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341903_330101.txt_43.xml</f>
+         <f name="year">1916</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Apostel des deutschen Idealismus</f>
+         <f name="author">Buchheim, Karl</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german none</f>
+      </fs>
+      <body>
+         <p>         
+
+Wem die Erkenntnis zur Gnosis wird, d. h. zum Zugang zu Gott, der
+                        ist immer leicht in Gefahr, sie als Zugang zur Welt nicht mehr recht gebrauchen zu können. Fichte, dem seine Philosophie eine Heilsbotschaft war,
+                         
+            
+            kam es nicht darauf an, ob sie, ganz wie einst den Juden und den Griechen
+                        das Evangelium, den Empirikern als ein Ärgernis oder eine Torheit erscheinen mußte. Mochte die empirische Weltgeschichte verlaufen sein, wie sie
+                        wollte, der spekulative Philosoph stellte apriori ihre einzig wahren fünf Zeitalter fest: das der Unschuld und des Vernunftinstinkts, das der Autorität,
+                        das mit Zwangsmitteln den schwindenden Vernunftinstinkt aufrecht erhielt, das
+                        der Aufklärung, des Skeptizismus und der vollendeten Sündhaftigkeit. In
+                        diesem Stadium sah Fichte seine eigene Zeit. <seg id="2" type="frame" pos="start">Aber <seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">verkündete</seg> zugleich eine
+                        bessere Zukunft:</seg> <said id="2" mode="direct" content="writing" level="1">die Vernunftwissenschaft wird durch die Kantsche Freiheitslehre
+                        die Herrschaft der Vernunft wieder anbahnen und die Rechtfertigung beginnen.</said>
+                        Und endlich wird die bloße Wissenschaft zu einem Können, zu einer Virtuosität
+                        des Handelns werden, und im Zeitalter der Vernunftkunst wird sich die Rechtfertigung vollenden.
+            Ohne <seg id="12" type="speaker">Fichte</seg> Unrecht zu tun, <said id="3" mode="reported" content="speech" level="1" border="yes">können <seg id="3" type="speaker">wir</seg> <said id="12" mode="reported" content="writing" level="2">diese apriorischen <seg id="12" type="intExpr">Spekulationen</seg></said>
+                        über die Menschheitsentwicklung als ziemlich unfruchtbar <seg id="3" type="intExpr">bezeichnen</seg>.</said> Es gibt
+                        für uns nur eine empirische Geschichte, <said id="5" mode="reported" content="thought" level="1" nonfact="yes" border="yes">denn über die höheren Wege und Ziele
+                        Gottes <seg id="5" type="intExpr">wissen</seg> <seg id="5" type="speaker">wir</seg> nichts.</said> <seg id="13" type="frame" pos="start"><seg id="13 14" type="speaker">Fichte</seg> <seg id="13" type="intExpr">glaubt</seg> allerdings</seg> <said id="13" mode="indirect" content="thought" level="1">mit <said id="14" mode="reported" content="writing" level="2">seinen <seg id="14" type="intExpr">Spekulationen</seg></said>
+                        den Weg der Vorsehung in der Geschichte zu ergründen, also religiöse Erkenntnis
+                        zu bieten.</said> Rationalismus, aber idealistischer, ist die zeitgemäße und für ihn
+                        allein richtige Form der Religion. Das ist die Hauptsache, <said id="15" mode="reported" content="thought" level="1">daß dieser Nationalismus leidenschaftlich religiös <seg id="15" type="intExpr">gemeint</seg> ist</said> und <said id="8" mode="reported" content="speech" level="1" nonfact="yes">mit dem Pathos eines Evangeliums <seg id="8" type="intExpr">vorgetragen</seg> wird.</said> Denn es unterscheidet ihn von denen, die Kants Lehre
+                        nur als zwar richtige, aber kühle Theorie auffaßten. Ihnen gegenüber hatte
+                        Fichte doppelt recht: in Anbetracht der Leistungsfähigkeit der Kantschen Philosophie, die auch heute noch an vielen eine mehr als theoretische Kraft bewährt,
+                        und im Sinne des Meisters <seg id="9" type="speaker">Kant</seg> selber, der im Grunde immer der Inbrunst
+                        seines pietistischen Jugendglaubens treu blieb und <said id="9" mode="reported" content="writing" level="1">seine „Kritiken" <seg id="9" type="intExpr">schrieb</seg></said>, nicht
+                        um Gott zu entthronen, sondern um ihn zu finden. Fichtes Verhältnis zu
+                        Kant kann man dem des Paulus zu Jesus vergleichen. Auch er ist ein <seg id="16" type="speaker">Bekehrter</seg>, der mit dem brennenden Eifer des besonders Berufenen in <said id="16" mode="reported" content="speech writing" level="1">die <seg id="16" type="intExpr">Propaganda</seg> der Wahrheit</said> eintritt. Kant erscheint in der ruhigen Abgeklärtheit des
+                        Stifters, Fichte mit aller Leidenschaft des begeisterten Apostels, der souverän
+                        <said id="10" mode="reported" content="speech" level="1">die <seg id="10" type="intExpr">Worte</seg> des <seg id="10" type="speaker">Meisters</seg></said> nach eigenem Geiste gestaltet und in Taten umsetzt,
+                        wie es Paulus mit der Lehre Jesu ja auch getan hat. In der Tat erscheint
+                        Kant bei Fichte durchaus in der Reihe der Religionsstifter: da wo Platon,
+                        Jesus und Luther stehen. Mit Luther hat er ihn eng in Beziehung gesetzt.
+                        Er erwartete in Anknüpfung an Kants Philosophie einen neuen Protestantismus, der ins Volk dringen und eine Wiedergeburt deutschen Geistes zuwege
+                        bringen sollte. Denn das damalige Geistesleben der Aufklärung, wie es
+                        Nicolai und die Wolffianer verstanden, erschien ihm als eine wahrhafte Verderbnis. Er teilte zwar mit diesen Gegnern das rationale Prinzip, aber <said id="11" mode="reported" content="thought" level="1"><seg id="11" type="speaker">ihr</seg>
+                        <seg id="11" type="intExpr">Denken</seg> ging nicht von der autonomen Freiheit des Geistes aus, sondern von
+                         
+            
+            der Natur, von einem Sein außer dem Ich.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

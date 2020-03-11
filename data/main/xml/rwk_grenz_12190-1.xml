@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Unser Reichskanzler.</title>
+             <author>Niemann, August</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341839_158199.txt_77.xml</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Unser Reichskanzler.</f>
+         <f name="author">Niemann, August</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Solch ein Glück
+                        war es, welches Napoleon vom Leutnant zum Kaiser machte, inmitten vieler
+                        tausende von andern ehrgeizigen Männern. Solch ein Glück ist auch das,
+                        durch welches Bismarck alle schlauen und berechnenden Diplomaten in Schrecken
+                        setzt und an der Nase führt. Aber noch eine andre Eigenschaft kommt hinzu:
+                        die Festigkeit des Charakters. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Sie</seg> <seg id="1" type="intExpr">überlegen</seg> nicht,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">ob sie die von ihnen klar
+                        erkannten Umstände benutzen sollen</said>, sondern sie benutzen sie mit derselben unfehlbaren Sicherheit, mit welcher die Magnetnadel sich immer nach Norden dreht.
+            
+            Es ist daher für den objektiven Beobachter, das heißt, für jemand, der keiner
+                        Partei angehört, ein höchst ergötzliches und zugleich erhabenes Schauspiel, Bismarcks Politik, seinen Kampf mit äußern und innern Feinden zu betrachten.
+                        Es ist ein noch schönerer Anblick, als ihn die Dramen Shakespeares gewähren
+                        können, denn diese haben nur einen Menschen, jenes die Gottheit selber zum
+                        Verfasser, und unser Held steht noch viel folgerichtiger, natürlicher und anschaulicher unter den Personen zweiten Ranges, als die Helden im Drama der
+                        Bühne.
+            Die auf das Leben, auf das Wirken gerichteten Eigenschaften beherrschen
+                        das Dasein des Helden der That durchaus und machen ihn in der Hauptsache
+                        zum eigentlichen Gegensatz des Gedankenhelden. <said id="3" mode="reported" content="writing" level="1" nonfact="yes">Als ein Beispiel hierfür möchte
+                        <seg id="3" type="speaker">ich</seg> die Anekdote von dem Freiherrn vom Stein <seg id="3" type="intExpr">anführen</seg></said>, <said id="4" mode="reported" content="writing" level="1">welche <seg id="4" type="speaker">Busch</seg> S. 427
+                        des zweiten Bandes <seg id="4" type="intExpr">erzählt</seg>.</said> Dieser große Staatsmann ließ sich durch vieles
+                        Necken und Scherzen dahin bringen, Goethes Faust zu lesen. <seg id="16 7 8" type="speaker">Er</seg> erhielt
+                        das Buch am Vormittage um zehn Uhr, sandte es nachmittags um vier Uhr
+                        gelesen zurück und <said id="16" mode="reported" content="writing" level="1"><seg id="16" type="intExpr">verlangte</seg> den zweiten Teil</said>, <said id="7" mode="reported" content="speech" level="1">machte am Abend <seg id="7" type="intExpr">Konversation</seg>
+                        darüber</said> <seg id="8" type="frame" pos="start">und <seg id="7" type="intExpr">erklärte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">der Faust sei ein unanständiges Buch, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">von dem <seg id="9" type="speaker">man</seg> in
+                        guter Gesellschaft nicht <seg id="9" type="intExpr">reden</seg> dürfte.</said></said> Dem Reichskanzler, der übrigens mit dem
+                        Herrn vom Stein etwa so zu vergleichen ist wie der Löwe mit einer Katze, ist
+                        die beständige Thätigkeit ebenso notwendig, wie dem Denker die Ruhe ist. Hat
+                        der Sturm nachgelassen, ist das augenblickliche Ziel erreicht, kommt eine Zeit,
+                        wie sie dem Philosophen erwünscht und wahrhaft beseligend sein würde, so
+                        wird der Reichskanzler vor Unmut und Langeweile krank. Die in ihm thätigen
+                        Kräfte finden keinen würdigen Gegenstand mehr, das Gezänk mit den Kleinen
+                        in den Kammern ekelt ihn an, <said id="11" mode="reported" content="thought" level="1"><seg id="11 12" type="speaker">er</seg> fängt an <seg id="11" type="intExpr">nachzudenken</seg></said>, <seg id="12" type="frame" pos="start">und die nun notwendige <seg id="12" type="intExpr">Vermutung</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1">daß der Gewinn das Spiel nicht wert sei</said>, macht ihn so
+                        mißmutig, daß auch der Körper darunter leidet. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Er</seg> selber <seg id="13" type="intExpr">denkt</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1">daß sein
+                        Leiden von Überarbeitung herrühre</said>, und gewiß hat diese ihr Teil dazu beigetragen, <seg id="14" type="frame" pos="start">aber <seg id="14" type="speaker">ich</seg> möchte in aller Bescheidenheit die Vermutung <seg id="14" type="intExpr">aussprechen</seg>,</seg>
+                        <said id="14" mode="indirect" content="speech" level="1">daß ein plötzlich ausgeführter Überfall von seiten Frankreichs und Rußlands
+                        — den Gott in Gnaden verhüten möge —, daß <said id="15" mode="reported" content="speech" level="2" nonfact="yes">wichtige ministerielle <seg id="15" type="intExpr">Beratungen</seg></said>,
+                        die Eile der Botschafter, der Sturm der Depeschen, das Wiehern der Schlachtrosse, der Dampf der von Kolonnen durchpflügten Erde und das Brüllen der
+                        Kanonen die Nerven des Helden schneller kuriren würden, als alle Vertreter
+                        aller Zweige der medizinischen Wissenschaft mit dem Inhalt aller Apotheken.</said>
+                        Es ist aber das Loos aller Helden der That, die nicht etwa früh schon vom
+                        Schicksal zu Boden geworfen werden und auf dem Schlachtfelde oder durch
+                        Meuchelmord fallen, daß ihnen das Leben und die Welt immer trüber und
+                        wirrer erscheinen, je älter sie werden.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

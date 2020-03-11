@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frankreich und die allgemeine Wehrpflicht</title>
+             <author>Jähns, Max </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341815_127927.txt_54.xml</f>
+         <f name="year">1872</f>
+         <f name="decade">1870</f>
+         <f name="title">Frankreich und die allgemeine Wehrpflicht</f>
+         <f name="author">Jähns, Max </f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+III. Corps. Rey, war das erste Observationscorps des Rheins und vier Divisionen stark, von denen die eine Bayern, die andere Württemberg gestellt hatte,
+                        während die dritte aus Rheinbundscontingenten und spanischen Sapeurs bestand. Im
+                        Ganzen zählte das Corps 17,000 Nicht-Franzosen.
+            IV. Corps. Bertrand, war das Observationscorps von Italien, aber auf 2 Divisionen reducirt, von denen die eine aus 13,000 Italienern bestand (vergl. XII. Corps.)
+                         
+            V. Corps. Lauriston, das Observationscorps der Elbe; vier Divisionen stark.
+            VI. Corps. Marmont, war das zweite Observationscorps des Rheins; vier
+                        Divisionen, wobei ein spanisches Regiment.
+            VII. Corps. Reynier, bestand augenblicklich nur aus den Trümmern der Division
+                        Durutte. Zwei sächsische Divisionen waren in Aussicht.
+            VIII. und IX. Corps existirten noch nicht; das eine sollten die Polen, das andere
+                        die Bayern formiren.
+            X. Corps: die Garnison von Danzig.
+            XI. Corps. Macdonald, das bisherige corps d'avantgarde, 3 Divisionen
+                        stark.
+            XII. Corps. Oudinot, 2 Divisionen des Observationscorps von Italien.
+            <said id="1" mode="reported" content="speech" level="1">Mit aller Energie <seg id="1" type="intExpr">bestand</seg> <seg id="1" type="speaker">Napoleon</seg> auf beständigem Exerciren im
+                        Feuer</said>, eine Maßregel, die bei seiner so jungen und unerfahrenen Infanterie
+                        und bei dem vollständigen Mangel an Reiterei gegenüber einem mit trefflicher
+                        Cavallerie versehenen Gegner von der höchsten Wichtigkeit war und gute
+                        Früchte getragen hat. — Mitte April, an demselben Tage, an welchem der
+                        Kaiser Paris verließ, um das Commando zu übernehmen, siebzehn Tage vor
+                        der Schlacht bei Lützen, war übrigens der Effectivbestand von der oben angegebenen officiellen Rapportzahl (d. h. von 298,000 Mann) sehr weit entfernt
+                        und hat, Rousset's sorgfältigen Untersuchungen zufolge, factisch nicht mehr als
+                        170,000 Mann betragen, von denen 140,000 Franzosen waren. <said id="2" mode="reported" content="thought" level="1">Und dabei
+                        <seg id="2" type="intExpr">zweifelten</seg> die meisten <seg id="2" type="speaker">Corpscommandeurs</seg> durchaus an der Schlagfertigkeit
+                        ihrer Truppen.</said> <said id="3" mode="reported" content="speech" level="1">Sogar <seg id="3" type="speaker">Lauriston</seg> <seg id="3" type="intExpr">spricht</seg> sich in diesem Sinne aus</said>, obgleich
+                        die ihm untergebenen Kohorten doch am längsten in festem Truppenverbande
+                        standen, <seg id="10" type="frame" pos="start">und <seg id="10 12 13 11" type="speaker">Marmont</seg> <seg id="10" type="intExpr">bittet</seg> geradezu,</seg><said id="10" mode="indirect" content="speech" level="1"> <seg id="12" type="frame" pos="start">dem Kaiser zu <seg id="12" type="intExpr">melden</seg>:</seg> <said id="12" mode="indirect" content="speech" level="2" nonfact="yes">er könne sein
+                        Corps nicht als en état de combattre betrachten.</said></said> <said id="11" mode="indirect freeIndirect" content="speech" level="1"><said id="13" mode="indirect freeIndirect" content="speech" level="2">Es mangele ihm durchaus
+                        an Officieren, seine dritte Division entbehre aller Artillerie, er habe keinen
+                        Mann Reiterei, keine Wundärzte, keinen Kriegscommissär und nur einen
+                        einzigen Generalstabs-Adjoint.</said></said> — Besonders schlimm war der Mangel an
+                        Officieren, zumal die vorhandenen zum großen Theil so schlecht waren, daß
+                         
+            
+            man sie am liebsten fortgeschickt hätte. Was Napoleon in Erfurt von ihnen
+                        zu Gesicht bekam, <said id="6" mode="reported" content="speech" level="1"><seg id="6" type="intExpr">nennt</seg> <seg id="6" type="speaker">er</seg> selbst „das Gespött der Soldaten"</said>, und doch
+                        braucht er ihrer mehr und immer mehr. <seg id="7" type="frame" pos="start">Am 5. Mai nach der Schlacht bei Lützen
+                        <seg id="7" type="intExpr">schreibt</seg> <seg id="7" type="speaker">er</seg> dem Kriegsminister:</seg> <said id="7" mode="direct" content="writing" level="1">„Je me trouve sur le champ de bataille
+                        sans officiers. D'ailleurs la campagne en usera beaucoup; il faut donc en
+                        avoir pour les remplacer sans faire des avancements trop rapides et qui
+                        n'atteignent pas le but . . . Si vous avez besoin d'officiers, l'armée d'Espagne est une pépinière inépuisable, je vous autorise à en faire venir."</said>
+                         
+            In dankbarer Anerkennung der außerordentlichen Anstrengungen unserer
+                        preußischen Krümper und Landwehren ist <seg id="8 9" type="speaker">man</seg> oft geneigt gewesen, <said id="8" mode="reported" content="speech" level="1">die
+                        Leistungen dieser Aufgebote „gegenüber den altbewährten Schlachthaufen Napoleons" in ein gar zu <seg id="8" type="intExpr">günstiges Licht zu stellen</seg></said> und dann, auf ein solches
+                        Bild gestützt, <said id="9" mode="reported" content="speech" level="1">für kürzeste Dienstzeit und Milizsysteme zu <seg id="9" type="intExpr">plaidiren</seg>.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

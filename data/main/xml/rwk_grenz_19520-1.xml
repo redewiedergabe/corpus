@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Herrenmenschen 14. Er soll dein Herr sein</title>
+             <author>Anders, Fritz| Allihn, Max </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341881_297518.txt_7.xml</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Herrenmenschen 14. Er soll dein Herr sein</f>
+         <f name="author">Anders, Fritz| Allihn, Max </f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Und welchen Wert hat sie gegenüber dem wissenschaftlichen Axiom, und welche Kraft hat sie gegenüber dem souveränen Eigenwillen?
+                         
+            Es gibt zwei Formen des menschlichen Lebenslaufs. Nach der einen beginnt
+                        man mit Fuchhe, und der ganze Himmel hängt voll Geigen. Aber dann kommt
+                        man auf den absteigenden Ast, und es geht durch das ganze Leben langsam aber
+                        sicher bergab. So wie eine Rakete, die zischend aufsteigt und in verlöschenden
+                        Funken langsam zur Erde zurückkehrt. Der andre Lebenslauf hat keinen glänzenden
+                        Aufschwung. Es geht langsam bergauf, jedoch so, daß mit jeder Wegwendung die
+                        Aussicht freier wird, und <seg id="1" type="frame" pos="start">daß die <seg id="1" type="intExpr">Hoffnung</seg> lebendig bleibt,</seg> <said id="1" mode="indirect" content="thought" level="1">das Schönere liege
+                        noch vorn. </said>Dem Doktor schien die erste Form für seinen Lebenslauf nicht beschieden
+                        zu sein. Seine Rakete wollte nicht glatt steigen. Zu der Zeit seines Brautstandes
+                        hing ihm der Himmel nicht voll Geigen, vielmehr folgte ein Verdruß dem andern.
+            Eine heruntergekommne Wirtschaft zu heben ist, wenn man nicht in einen
+                        großen Geldbeutel greifen kann, eine mühsame Sache, besonders wenn einem von
+                        allen Seiten Steine in den Weg geworfen werden, und wenn man mit so heillosem Schlendrian und <said id="2" mode="reported" content="thought" level="1" border="yes">so alteingewurzelten <seg id="2" type="intExpr">Vorurteilen</seg></said> zu kämpfen hat, wie dem
+                        Doktor mit seinen Litauern zu tun oblag. Vor der Drillmaschine, „dem roten
+                        Satan," fürchteten sich nicht allein die Pferde, sondern auch die Knechte. Es war
+                        nicht möglich, einen von ihnen dazu zu bringen, daß er die Maschine bediente; und
+                        so mußte der Doktor, wenn der Inspektor anderweit zu tun hatte, den ganzen Tag
+                        hinter der Maschine gehn, was eine zwar gesunde, aber anstrengende und keineswegs geistvolle Tätigkeit war.<said id="4" mode="direct" content="thought" level="1"> Wozu tue ich das?</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">sagte</seg> der <seg id="4" type="speaker">Doktor</seg> zu sich, wenn
+                         
+            
+            ihm Kreuz und Beine schmerzten,</seg><said id="4" mode="direct" content="thought" level="1"> wozu tue ich diese Knechtsarbeit? Warum kündige
+                        ich nicht mein Kapital und gehe davon? Mag Mary sehen, wie sie sich herauswickelt. Ich bin doch ihr Vormund nicht. <seg id="5" type="speaker">Ich</seg> baue mir irgendwo mein Nest,
+                        <said id="5" mode="reported" content="speech" level="2"><seg id="5" type="intExpr">rufe</seg> meine Eva</said> und bin aus aller Not. Statt dessen mühe ich mich um eine
+                        hoffnungslose Aufgabe und habe das Vergnügen, mich mit dem alten Querkopf
+                        um seine Tochter herumbalgen zu müssen. </said><said id="6" mode="reported" content="thought" level="1">So <seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">Ramborn</seg> wohl manchesmal
+                        zu sich</said>, <seg id="7" type="frame" pos="start">aber <seg id="7" type="speaker">er</seg> <seg id="7" type="intExpr">wußte</seg> auch ganz genau,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß er nicht tun werde, daß er nicht tun
+                        könne,<said id="8" mode="reported" content="speech" level="2"> was <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">sagte</seg>.</said></said> <said id="9" mode="freeIndirect" content="thought" level="1">Warum nicht? Ja, <said id="10" mode="reported" content="speech" level="2" nonfact="yes"><seg id="10" type="speaker">wer</seg> darauf hätte <seg id="10" type="intExpr">Antwort</seg> geben können.</said></said>
+            Der Prozeß gegen Heinemann oder, <said id="11" mode="reported" content="speech" level="1" prag="yes">richtiger <seg id="11" type="intExpr">gesagt</seg></said>, gegen dessen Deckmann,
+                        einen Winkeladvokaten in N., <said id="12" mode="reported" content="speech" level="1">an den <seg id="12" type="speaker">Heinemann</seg> seine <seg id="12" type="intExpr">Forderung</seg> abgetreten hatte</said>,
+                        war in erster Instanz verloren gegangen. <seg id="13" type="frame" pos="start">Der <seg id="13 14" type="speaker">Richter</seg> hatte, da das Original des
+                        Kontrakts fehlte, bloß auf Grund der Photographie nicht die <seg id="13" type="intExpr">Überzeugung</seg> gewinnen
+                        können,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß zweifellos eine Fälschung vorliege</said>, und <said id="14" mode="reported" content="speech" level="1">hatte mit Bedauern gegen
+                        Frau Van Teren <seg id="14" type="intExpr">entscheiden</seg> müssen.</said><said id="16" mode="indirect" content="speech" level="1"> Der Kerl sei zweifellos ein Halunke</said><seg id="16" type="frame" pos="mid">, hatte
+                       <seg id="16" type="speaker"> er</seg> <seg id="16" type="intExpr">gesagt</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">aber es sei, so lange der Kontrakt fehle, nichts zu machen.</said> <said id="17" mode="reported" content="speech" level="1">Natürlich
+                        legte der <seg id="17" type="speaker">Doktor</seg> sogleich <seg id="17" type="intExpr">Berufung</seg> ein</said>, <seg id="18" type="frame" pos="start">aber es war wenig <seg id="18" type="intExpr">Hoffnung</seg> vorhanden,</seg>
+                        <said id="18" mode="indirect" content="thought" level="1">in zweiter Instanz zu gewinnen, wenn es inzwischen nicht gelänge, neues Beweismaterial zu finden.
+ </said>           Von Mary war aus Cannes ein Brief eingelaufen, <seg id="19" type="frame" pos="start">worin <seg id="19" type="speaker">sie </seg><seg id="19" type="intExpr">meldete</seg>,</seg> <said id="19" mode="indirect" content="writing" level="1">daß
+                        sie glücklich angelangt sei, aber schwerlich in Cannes bleiben werde.
+</said>
+
+</p>
+      </body>
+   </text>
+</TEI>

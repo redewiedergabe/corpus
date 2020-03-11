@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Unpolitische Briefe aus Wien: 2. Unsre Dichter.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341841_194675.txt_75.xml</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Unpolitische Briefe aus Wien: 2. Unsre Dichter.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Selbst das einzige Gedicht, in dem <seg id="4 2 3" type="speaker">er</seg> sich seines reinen Strebens zu freuen
+                        scheint, <said id="1" mode="reported" content="writing" level="1"><seg id="1" type="speaker">sein</seg> Ziel <said id="4" mode="direct" content="writing" level="2">„fast erreicht"</said> <seg id="1" type="intExpr">nennt</seg></said> und <said id="2" mode="reported" content="writing" level="1">die ewigen Mächte nur noch um
+                        <said id="3" mode="direct" content="writing" level="2">„ein letztes Mühen"</said> <seg id="2" type="intExpr">bittet</seg></said>, damit er getrost vollende, was er ernst und fest
+                        begonnen, <seg id="6" type="frame" pos="start">selbst hier <seg id="6" type="intExpr">schließt</seg> <seg id="6" type="speaker">er</seg> doch mit dem Ausdruck inneren Zagens, inneren
+                        Zweifels:</seg>
+                         
+            
+               
+                  <said id="6" mode="direct" content="writing" level="1"><said id="7" mode="reported" content="speech" level="2">Also <seg id="7" type="intExpr">fleh'</seg> <seg id="7" type="speaker">ich</seg></said>, von den Schwingen
+                        Der Erfüllung leis' umweht,
+                        <seg id="8" type="frame" pos="start">Und doch <seg id="8" type="intExpr">fürchtend</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2">daß mein Ringen
+                        Im Verhängnis untergeht.</said></said>
+                        
+               
+            
+            Dieser innere Zwiespalt aber, der die Dichtung Saars durchzieht, ist es
+                        gerade, der ihn interessant macht, der ihm ein originelles Gepräge verleiht,
+                        denn die traditionellen Elemente deutscher Lyrik und Dramatik hat er sonst
+                        nur selten mit neuem Geiste zu durchdringen und individuell zu gestalten vermocht. Namentlich seine Liebeslieder dürften dem Literarhistoriker der Zukunft
+                        nur wenig lehren, was er nicht an hundert andern Orten ebensogut erfahren
+                        könnte. In seinen Trauerspielen treten eher zeitbewegende Ideen in den Vordergrund, und sie werden zur Charakteristik des deutsch-österreichischen Geisteslebens
+                        im sechsten und siebenten Dezennium unsers Jahrhunderts einst so manchen
+                        Beitrag liefern. „Kaiser Heinrich der Vierte" verdankt seine Entstehung wohl
+                         
+            
+            den Tagen des Konkordatsabschlusses, der den Österreichern die immer noch
+                        fortwirkende Kraft des römischen Papsttums zur unerfreulichen Anschauung
+                        brachte; dann dem italienischen Feldzuge des Jahres 1859, den Saar als
+                        Offizier mitgemacht hat; endlich vielleicht auch der Anregung Giesebrechts, der
+                        im Jahre 1855 den ersten Band seiner Geschichte der deutschen Kaiserzeit veröffentlichte. Neben Saar ist ja gerade in den fünfziger und sechziger Jahren
+                        eine ganze Reihe von Dichtern auf denselben Stoff verfallen; die Bruno Arnim
+                        und Weißbrodt überragte er freilich an Gestaltungskraft bedeutend, und
+                        namentlich der zweite Teil des Dramas, „Heinrichs Tod," ist ein durchaus
+                        bühnenfähiges Stück „Die beiden de Witt" dagegen, die vor etwa sieben
+                        Jahren über die Bretter des Burgtheaters gingen, konnten sich nicht auf dem
+                        Repertoire erhalten, <seg id="9" type="frame" pos="start">und dem Trauerspiel „Tempesta," das erst 1881 erschien,
+                        kann <seg id="9" type="speaker">man</seg> wohl <seg id="9" type="intExpr">voraussagen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1" nonfact="yes" border="yes">daß kein Direktor es mit ihm wird wagen wollen.</said>
+                        Indes behandeln sowohl „Die beiden de Witt" als auch „Tempesta" Konflikte,
+                        die unsrer Zeit nicht unverständlich sind: dort sehen wir einen Jdealpolitiker
+                        im Kampfe mit den realen Mächten, die den Gang der Dinge auf der Weltbühne bestimmen, untergehen; hier tötet ein Mann seine Frau, nicht weil sie
+                        ihm untreu gewesen ist, sondern weil er in ihrem Herzen den ersten Keim einer
+                        Leidenschaft zu einem andern entdeckt. <said id="10" mode="direct" content="speech" level="1">„Und so hab ich sie mit Recht getötet,"</said>
+                        <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">ruft</seg> <seg id="10" type="speaker">er</seg> an der Leiche <seg id="10" type="intExpr">aus</seg>.</seg> Dieses Verlangen nach ganz unumschränktem Besitz,
+                        nach einer Herrschaft selbst über das Wollen des geliebten Wesens ist doch nur
+                        eine Spielart des „titanischen" Dranges, der in Hamerlings „Nero," in Lipiners
+                        „Prometheus" wohnt, und der sich bei näherem Zusehen als ein Stück Faustmotiv entpuppt — übrigens ein Motiv, das seit Lenau in der österreichischen
+                        Literatur nicht wieder zur Ruhe gekommen ist, weshalb es uns auch garnicht
+                        überrascht, <seg id="11" type="frame" pos="start">wenn <seg id="11" type="speaker">wir</seg> in Wurzbachs Lexikon <seg id="11" type="intExpr">lesen</seg>,</seg> <said id="11" mode="indirect" content="writing" level="1"><said id="12" mode="reported" content="writing" level="2">auch <seg id="12" type="speaker">Ferdinand von Saar</seg>
+                        habe in seiner Jugend an einem „Faust" <seg id="12" type="intExpr">gedichtet</seg></said>, der aber verloren gegangen sei.</said>
+            Am entschiedensten als österreichischer Dichter tritt Saar in seinen Novellen
+                        auf; hier hat er so manchen glücklichen Griff in unser Gesellschaftsleben gethan,
+                        und auch die Ausführung läßt unter den früheren wenigstens nichts zu wünschen
+                        übrig.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

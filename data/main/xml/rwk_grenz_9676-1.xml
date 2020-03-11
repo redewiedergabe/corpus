@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Johann Huß' letzte Lebensstunden und Tod.</title>
+             <author>Salchow, H.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341825_157640.txt_26.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Johann Huß' letzte Lebensstunden und Tod.</f>
+         <f name="author">Salchow, H.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+Der
+                        Kaiser selbst, der eine güldene Krone auf seinem Haupte hatte, saß auf seinem
+                        kaiserlichen Thron; neben ihm hielte Herzog Ludwig von Bayern den Reichsapfel mit dem Kreutze; auf der andern Seite stund der Burggraf von Nürnberg
+                        mit einem blanken Schwerde. Mitten in der Kirche stund ein hoher Tisch,
+                        darauf lag ein Meßgewand, mit welchem sie Hussen entweyhen wollten. Vor
+                        diesen stellten <seg id="1" type="speaker">sie</seg> Hussen, welcher niederkniete und <said id="1" mode="reported" content="speech" level="1" border="yes"><seg id="1" type="intExpr">betete</seg>. </said>Unterdessen stieg
+                        <seg id="8" type="frame" pos="start"><seg id="4 8" type="speaker">Bischof Nandinus</seg>, <said id="2" mode="reported" content="speech" level="1">sonst der Mönch <seg id="2" type="intExpr">genannt</seg></said>, auf den Predigtstuhl, von welchem
+                       <said id="3" mode="reported" content="speech" level="1"> <seg id="3" type="speaker">sie</seg> ihre Decrete <seg id="3" type="intExpr">abzulesen</seg> pflegten</said>, <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="intExpr">hielt</seg> einen langen <seg id="8" type="intExpr">Sermon</seg> aus dem sechsten
+                        Kapitel des Apostels Pauli an die Römer</said> über die Worte:</seg><said id="8" mode="direct" content="speech" level="1" nonfact="yes"> Was wollen wir</said>
+                         
+            <note>") Wir geben das Nachstehende als unsern Beitrag zur Jubelfeier der römischen Curie über
+                        den Büßergang Heinrichs des Vierten nach Canossa, unsern „Freiheitskämpfern" vom schwarzen
+                        Centrum liebevoll zugeeignet. <said id="6" mode="reported" content="speech" level="1">Ob <said id="7" mode="reported" content="thought" level="2">die <seg id="7" type="intExpr">Auffassung</seg> des <seg id="7 6" type="speaker">Magisters Theobald</seg> von dem Nationalhelden der Tschechen</said> diesen in national-politischer Hinsicht richtig <seg id="6" type="intExpr">schildert</seg></said>, gehört nicht in diese
+                        D. Red.Darstellung seiner letzten Stunden.
+                        </note>
+            
+          <said id="8" mode="direct" content="speech" level="1" nonfact="yes">  hier sagen, sollen wir denn in der Sünde beharren?</said> <seg id="44" type="frame" pos="start">In dieser Predigt,
+                        <seg id="44" type="intExpr">lehrete</seg> <seg id="44 45" type="speaker">er</seg> weitläuffig, </seg><said id="44" mode="indirect" content="speech" level="1">was für Schaden die Ketzerey anrichte, wie selbe die
+                        christliche Kirche zerstöhre, die Leute Christo entführe, und gleichsam dem Teufel
+                        in den Rachen stecke.</said> <said id="45" mode="indirect freeIndirect" content="speech" level="1">Es stünde der weltlichen Obrigkeit zu, solche zu unterdrucken, und deren Anhänger aus dem Wege zu räumen. Denn solche Ketzer
+                        wären viel ärger als ein Tyranne, er sey gleich wer er wolle:</said> <said id="10" mode="direct" content="speech" level="1">derohalben</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">fuhr</seg>
+                       <seg id="10" type="speaker"> er</seg> <seg id="10" type="intExpr">fort</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">ist es billig, und gehöret, unüberwindlicher Kaiser, Ew. kaiserl. Majestät
+                        zu, diesen halsstarrigen Ketzer, weil er in unseren Händen ist, hinzurichten.</said>
+                        Jhro kaiserl. Majestät werden dadurch, bey <seg id="11" type="speaker">Jungen</seg> und <seg id="11" type="speaker">Alten</seg>, weil die Welt
+                        stehet, <said id="11" mode="reported" content="speech" level="1" nonfact="yes" border="yes">einen unsterblichen <seg id="11" type="intExpr">Namen</seg> erlangen</said>, wenn dieselben so eine herrliche
+                        und Gott wohlgefällige That vollbringen.
+            Als dieser ausgeredet, <seg id="13" type="frame" pos="start"><said id="12" mode="reported" content="speech" level="1" border="yes">stieg <seg id="13" type="speaker">einer</seg> auf mit <seg id="12" type="intExpr">Namen</seg> Heinrich</said>, welcher der
+                        Sprecher des Concilii, <seg id="13" type="intExpr">vermahnte</seg> die ganze Versammlung,</seg><said id="13" mode="indirect" content="speech" level="1"> sie sollen ja nicht
+                        ruhen und nachlassen, bis sie den verstockten Ketzer, <said id="14" mode="reported" content="speech" level="2"><seg id="14" type="speaker">der</seg> so halsstarrig in <said id="15" mode="reported" content="thought" level="3">denen
+                        verdammten <seg id="15" type="intExpr">Irrthümern</seg></said> <seg id="14" type="intExpr">beharrete</seg></said>, verbrandt hätten.</said> Nach diesen stund ein
+                        <seg id="17 46" type="speaker">Bischof</seg> auf, gieng zu dem Pulte, auf welchen <said id="16" mode="reported" content="speech" level="1"><seg id="16" type="speaker">sie</seg> ehemals ihre Decreta verlesen
+                        <seg id="16" type="intExpr">liessen</seg></said>, und <seg id="46" type="frame" pos="start"><seg id="46" type="intExpr">erzehlete</seg>,</seg> <said id="46" mode="indirect" content="speech" level="1">was Huß mit dem Erzbischof von Prag und den Herren
+                        des Kapitels*) vorgehabt</said>, <said id="18" mode="reported" content="speech" level="1"><seg id="18 20" type="speaker">er</seg> <seg id="18" type="intExpr">verlaß</seg> auch alles, was <said id="19" mode="reported" content="speech" level="2"><seg id="19" type="speaker">sie</seg> mit Hussen bey dem
+                        Coneilio <seg id="19" type="intExpr">abgehandelt</seg></said></said>, <said id="20" mode="reported" content="speech" level="1">und endlich anch dasjenige, was <said id="21" mode="reported" content="speech" level="2">ihm die <seg id="21" type="speaker">Zeugen</seg> <seg id="21" type="intExpr">schuld
+                        gaben</seg>.</said></said> <seg id="43" type="frame" pos="start">Als <seg id="43 28" type="speaker">man</seg> anfieng zu <seg id="43" type="intExpr">lesen</seg>, nehmlich:</seg> <said id="43" mode="direct" content="speech" level="1"><seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Huß</seg> <seg id="23" type="intExpr">lehret</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2">es sey eine heilige
+                        catholische Kirche, welches ist eine Hauffe aller Rechtgläubigen,<said id="24" mode="reported" content="speech" level="3" nonfact="yes"> zu dem ewigen
+                        Leben von GOtt verordnet</said>, welches ketzerisch ist</said></said>, <seg id="25" type="frame" pos="start"><seg id="25" type="intExpr">antwortete</seg> <seg id="25" type="speaker">Huß</seg> mit lauter
+                        Stimme:</seg> <said id="25" mode="direct" content="speech" level="1"><seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Ich</seg> <seg id="26" type="intExpr">zweifele</seg> ganz nicht,</seg> <said id="26" mode="indirect" content="thought" level="2">es sey eine heilige christliche Kirche, welche
+                        ist eine Versammlung aller Auserwehlten beydes in dieser als auch in jener
+                        Welt.</said> </said><seg id="27" type="frame" pos="start">Der <seg id="27" type="speaker">Cardinal</seg> von Cammenach aber <seg id="27" type="intExpr">fiel</seg> <seg id="29" type="speaker">ihm</seg> <seg id="27" type="intExpr">ins Wort</seg> und <seg id="27" type="intExpr">sprach</seg>:</seg>
+                      <said id="27" mode="direct" content="speech" level="1">  Halte das Maul, <said id="28" mode="reported" content="speech" level="2" nonfact="yes">bis es <seg id="28" type="intExpr">gelesen</seg> ist</said>, <said id="29" mode="reported" content="speech" level="2" nonfact="yes">alsdann so <seg id="29" type="intExpr">antworte</seg>.</said></said> <seg id="30" type="frame" pos="start">Aber <seg id="30" type="speaker">Huß</seg> <seg id="30" type="intExpr">sprach</seg>:</seg>
+                      <said id="30" mode="direct" content="speech" level="1">  <said id="31" mode="reported" content="speech" level="2">Wollt <seg id="31" type="speaker">ihr</seg> mir das Maul auch ietzo <seg id="31" type="intExpr">verbieten</seg></said>, wo ist es möglich, <said id="32" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="32" type="speaker">ich</seg> hernach auf alles <seg id="32" type="intExpr">antworten</seg> kan</said>, welches so viel ist, daß <seg id="33" type="speaker">ich</seg> unmöglich <said id="33" mode="reported" content="thought" level="2" nonfact="yes" border="yes">alles zu
+                        <seg id="33" type="intExpr">merken</seg> im Stande bin.</said></said> <said id="34" mode="reported" content="speech" level="1">Da <seg id="34" type="speaker">man</seg> wiederum was anders <seg id="34" type="intExpr">vorlaß</seg></said>, <said id="35" mode="reported" content="speech" level="1" nonfact="yes">und <seg id="35" type="speaker">Huß</seg>
+                        darauf <seg id="35" type="intExpr">antworten</seg> wollte</said>, <seg id="36" type="frame" pos="start"><seg id="36" type="intExpr">sprach</seg> der <seg id="36 37" type="speaker">Cardinal</seg> von Florenz, einer von den
+                        Richtern:</seg> <said id="36" mode="direct" content="speech" level="1">Schweig du Ketzer</said>, und <seg id="37" type="frame" pos="start"><seg id="37" type="intExpr">befahl</seg> den Schergen,</seg> <said id="37" mode="indirect" content="speech" level="1">daß sie ihn darzu
+                        zwingen solten.</said> <seg id="39" type="frame" pos="start">Darauf hub <seg id="39" type="speaker">Huß</seg>, seine Hände gen Himmel, und <seg id="39" type="intExpr">fagte</seg> mit
+                        heller Stimme:</seg> <said id="39" mode="direct" content="speech" level="1"><said id="38" mode="reported" content="speech" level="2"><seg id="38" type="speaker">Ich</seg> <seg id="38" type="intExpr">bitte</seg> euch um GOtteswillen, höret mich nur wegen derer,
+                        so herumstehen</said>, <said id="40" mode="reported" content="speech" level="2">auf daß <seg id="40" type="speaker">ich</seg> mich <seg id="40" type="intExpr">entschuldigen</seg></said>, und deren Argwohn aus ihren
+                        Herzen nehmen möge, hernach verfahret mit mir, wie ihr wollet.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vom Wiener Burgtheater.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341835_359176.txt_6.xml</f>
+         <f name="year">1882</f>
+         <f name="decade">1880</f>
+         <f name="title">Vom Wiener Burgtheater.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Es ist in der Natur ihrer Beschäftigung begründet,
+                        daß Schauspieler an einem Stücke selten mehr sehen als die einzelnen Rollen,
+                        vorzüglich diejenigen, <said id="2" mode="reported" content="thought" level="1">welche <seg id="2" type="speaker">sie</seg> selbst zu spielen <seg id="2" type="intExpr">wünschen</seg>.</said> <said id="3" mode="reported" content="writing" level="1"><seg id="3" type="speaker">Wer</seg> „gute Rollen"
+                        <seg id="3" type="intExpr">schreibt</seg></said>, für Abgänge und Aktschlüsse sorgt, das Publikum gewinnt, der ist ihnen
+                        der genehme Dichter, und einen Schutz gegen solche Einseitigkeit gewähren die
+                        Zuschauer nur in jenen mittleren und kleineren Städten, in welchen die literarische Bildung überwiegt.
+            So machte sich denn wiederum die Unentbehrlichkeit eines Direktors fühlbar,
+                        welcher Fachmann aber nicht Schauspieler war; wieder suchten verschiedne den
+                        Blick auf sich zu lenken — wer möchte nicht einmal regieren, wenn auch nur
+                        auf den Brettern! — und wieder stimmten die Mitglieder des Theaters für
+                        denjenigen, welcher wirklich gewählt wurde, Adolph Wilbrandt. Recht eigentlich
+                        durch das Burgtheater nach Wien gezogen und an Wien gefesselt, <said id="22" mode="reported" content="writing" level="1">hatte <seg id="22" type="speaker">er</seg> in
+                        rastlosem, oft zu hastigem Produziren dieser Bühne eine lange Reihe von
+                        Dramen <seg id="22" type="intExpr">geliefert</seg></said>, <said id="5" mode="reported" content="speech" level="1">die keineswegs immer <seg id="5" type="intExpr">gelobt</seg> werden konnten</said>, aber immer für
+                        sein eminentes dramaturgisches Talent zeugten. <seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Man</seg> <seg id="23" type="intExpr">hoffte</seg> daher</seg> <said id="23" mode="indirect" content="thought" level="1">in ihm einen
+                        tüchtigen Regisseur zu gewinnen, der seine gründliche Kenntnis des Handwerks
+                        im Dienste idealer Kunstauschauungen verwenden werde</said>; <said id="24" mode="reported" content="thought" level="1">zugleich <seg id="24" type="intExpr">hoffte</seg> <seg id="24" type="speaker">man</seg> das
+                        beste für sein eignes Schaffen, sobald eine praktische Beschäftigung ihn zu langsamerem Arbeiten nötigen werde.</said> <said id="9" mode="reported" content="thought" level="1">Die <seg id="9" type="speaker">Schauspieler</seg> aber <seg id="9" type="intExpr">dachten</seg> offenbar über
+                        ihn wie ihre Vorgänger über Heinrich Laube.</said>
+            
+            Das erste Jahr seines Wirkens als Direktor hat die Erwartungen der
+                        Theaterfreunde nicht Lügen gestraft. Ohne die Produktion der Gegenwart zurückzusetzen, hat Wilbrandt mit Kühnheit, Geschick und Erfolg alte Schätze gehoben,
+                        und damit bewiesen, daß er dem Burgtheater wieder eine höhere Aufgabe stellen
+                        will, als es seit den Tagen Laubes, des eingefleischten Gegners alles Nichtmodernen, geschehen war. Er hat Euripides, sogar mit dem Satyrspiel, auf die
+                        Bühne zu bringen gewagt, und Calderons „Richter von Zalamea" in der ganzen
+                        harten Tragik, <said id="10" mode="reported" content="thought" level="1" nonfact="yes">welche frühere <seg id="10" type="speaker">Dramaturgengeschlechter</seg> nicht <seg id="10" type="intExpr">glaubten</seg> den deutschen
+                        Nerven bieten zu dürfen</said>; und mußte der Grieche sich mit einem sogenannten
+                        Achtungserfolge begnügen, so wurde ein um so vollerer dem Spanier zuteil. So
+                        viel sich wahrnehmen läßt, ist man mit der neuen Leitung allgemein zufrieden,
+                        bis auf einen oder den andern abgeblitzten Konkurrenten und — die Regisseure.
+                        Daß zwischen diesen und dem jungen Direktor nicht alles nach Wunsch bestellt
+                        sei, verriet kurz vor Beginn der Sommerferien <said id="13" mode="reported" content="writing" level="1">ein Artikel <seg id="13" type="speaker">Speidels</seg> in der Neuen
+                        freien Presse, welcher den Herren Lust zu Übergriffen <seg id="13" type="intExpr">zum Vorwurfe machte</seg></said>, im
+                        einzelnen übrigens wohl den meisten Lesern unverständlich geblieben ist. <said id="14" mode="reported" content="thought" level="1">Die
+                        <seg id="14" type="speaker">Regisseure</seg> aber müssen alle Andeutungen gut <seg id="14" type="intExpr">verstanden</seg> und sich tief getroffen
+                        <seg id="14" type="intExpr">gefühlt</seg> haben</said>, <said id="25" mode="reported" content="writing" level="1">da <seg id="25" type="speaker">sie</seg> sofort eine <seg id="25" type="intExpr">Kabinetsfrage</seg> zu schaffen versuchten.</said> <said id="26" mode="reported" content="writing" level="1"><seg id="26" type="speaker">Sie</seg> verlangten in einem an die Direktion adressirten und durch die Zeitungen veröffentlichten <seg id="26" type="intExpr">Schreiben</seg> Enthebung von ihren wichtigsten Pflichten, Mitwirkung bei der
+                        Wahl der aufzuführenden Stücke und bei deren Besetzung.</said> <said id="27" mode="reported" content="speech" level="1" metaph="yes">Wie übereilt der
+                        Schritt war, konnte dessen Aufnahme in der öffentlichen <seg id="27" type="speaker">Meinung</seg> ihnen <seg id="27" type="intExpr">sagen</seg>:</said>
+                        <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">jedermann</seg> außer ihnen <seg id="18" type="intExpr">erkannte</seg>,</seg> <said id="18" mode="indirect" content="thought" level="1">daß das keine Antwort auf einen Zeitungsartikel sei, für welchen der genannte Versasser allein die Verantwortlichkeit trägt,
+                        und daß die Herren wohl auf ihr Amt hätten verzichten können, nicht aber auf
+                        dessen Obliegenheiten.</said> Erreicht haben sie damit auch nur, <said id="20" mode="reported" content="speech writing" level="1">daß der <seg id="20 21" type="speaker">Direktor</seg> ihnen
+                        in sehr feiner Form einen <seg id="20" type="intExpr">Verweis</seg> erteilte</said> und <seg id="21" type="frame" pos="start">zugleich sie darüber <seg id="21" type="intExpr">aufklärte</seg>,</seg>
+                        <said id="21" mode="indirect" content="speech" level="1"><said id="28" mode="reported" content="thought" level="2">wie <seg id="28" type="speaker">er</seg> die Stellung der Regisseure als der Beiräte und Organe des Direktors
+                        <seg id="28" type="intExpr">ansehe</seg>.</said></said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

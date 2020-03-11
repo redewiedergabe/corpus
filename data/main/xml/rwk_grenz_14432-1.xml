@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Rembrandt-Ausstellung im Berliner Kupferstichkabinet</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341851_208578.txt_32.xml</f>
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">Die Rembrandt-Ausstellung im Berliner Kupferstichkabinet</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Das feine Gesicht der Braut mit dem lebhaft
+                        leuchtenden Blicke begegnet uns in einer kleinen Radirung, im Verlobungsjahre von dem glücklichen Bräutigam entworfen; in breitrandigem Hut,
+                        auf den linken Arm gestützt, begegnet sie uns in demselben Jahre (<said id="1" mode="reported" content="writing" level="1">trotz der
+                        zweifelerregenden, wahrscheinlich späteren <seg id="1" type="intExpr">Inschrift</seg></said>) in der entzückenden kleinen
+                        Silberstiftzeichnung, die zu den Perlen des Berliner Kupferstichkabinets gehört
+                        und in der letzten Ausstellung holländischer Handzeichnungen einen verdienten
+                        Ehrenplatz einnahm. Aber selbst bei diesem doch gewiß in erster Linie persönlich ihn fesselnden Gegenstande treten seine künstlerischen Interessen in den
+                        Vordergrund. Wie er in seinem eignen Spiegelbilde die Anregung zu künstlerischen und psychologischen Studien fand, wie er sich in den verschiedensten
+                        Seelenzuständen, in den absonderlichsten Kostümen bald als Ritter, bald als
+                        Orientale mit dem Auge des Künstlers beobachtete und mit Radirnadel oder
+                        Pinsel die Ergebnisse solcher Beobachtungen festzuhalten liebte, so muß auch
+                        seine Gattin ihm in sein Atelier folgen, und doppelt eifrig war er bei der
+                        Sache, wenn es galt, ihr Antlitz, ihre Gestalt in den Rahmen irgend einer
+                        seiner künstlerischen Unternehmungen einzufügen. Bald begegnet sie uns mit
+                        lang herabwallendem Haar, festlich geschmückt, wie in den zahlreichen Darstellungen, <said id="13" mode="reported" content="speech" level="1" border="yes">die <seg id="13" type="speaker">man</seg> ohne sichern Grund als „Judenbraut" <seg id="13" type="intExpr">bezeichnet</seg></said>, bald in
+                        andern historischen Kompositionen, selbst in der bedenklichen Situation der
+                        Susanna im Bade.
+            Von den drei Radirungen, die unter der Bezeichnung „Judenbraut" bekannt sind, geht jedenfalls die zarte kleine Studie, <said id="14" mode="reported" content="speech" level="1" border="yes">die <seg id="14" type="speaker">man</seg> mit gleich großem
+                        Recht oder vielmehr Unrecht auch „Heilige Katharina" <seg id="14" type="intExpr">getauft</seg> hat</said>, auf Porträtskizzen der Saskia zurück, während in der letzten Ausführung dieses Vorwurfs
+                        ihre Züge nur leise anklingen. Die letztgenannte auffallend emsig durchgeführte
+                        Radirung zeigt in dem ausgestellten dritten Zustande deutlich, daß die ursprüngliche Klarheit und Durchsichtigkeit der leicht angelegten Schattenpartien, wie sie
+                        uns der äußerst seltene erste Zustand zeigt, unter der bessernden Hand des Künstlers
+                        verloren gehen kann, und der Sammler Recht hat, auf erste Zustände zu fahnden.
+            Die bedeutendste Leistung aus der Jugendzeit des Künstlers bleibt aber
+                        die „Verkündigung an die Hirten," ein Blatt von so gewaltiger Kraft des
+                         
+            
+            Ausdrucks, daß daneben fast alle andern bisher betrachteten Schöpfungen verblassen. Am Abhang eines mit Palmen und wildem Gestrüpp bestandenen
+                        Hügels haben sich Hirten bei ihren Hürden zum Schlaf niedergelegt; schwarzes
+                        Gewölk bedeckt den Nachthimmel. Da bricht plötzlich aus den zusammengeballten Wolkenmassen ein überirdisches Leuchten hervor; erschreckt fährt Vieh
+                        und Mensch empor, die jäh aufgeschenchten Rinder suchen in gewaltigen Sätzen
+                        das Weite, einer der Hirten entflieht ebenfalls, während ein andrer gebannt
+                        von der himmlischen Erscheinung in die Kniee sinkt, ein dritter sich geblendet
+                        abwendet. <seg id="8" type="frame" pos="start">Aus der Höhle im Hintergrunde eilen, geweckt von dem Aufruhr,
+                        noch andre <seg id="8" type="speaker">Gestalten</seg> herbei:</seg> <said id="8" mode="direct" content="speech thought" level="1">Was ist geschehen?</said> <seg id="9" type="frame" pos="start">Auf dem Saum einer Wolke
+                        tritt, umflutet von deu blendenden Lichtstrahlen, in denen sich eine wirbelnde
+                        Engelsschar wie Mücken ums Lampenlicht tummelt, in langwallendem weißen
+                        Gewande eine <seg id="9" type="speaker">Engelsgestalt</seg> hervor, mit unnachahmlich hoheitsvoller Geberde
+                        die frohe Botschaft <seg id="9" type="intExpr">verkündend</seg>:</seg><said id="9" mode="direct" content="speech" level="1"> „Euch ist heute der Heiland geboren, welcher
+                        ist Christus der Herr, in der Stadt Davids!"</said> <seg id="10" type="frame" pos="start">Dies <seg id="10" type="speaker">Blatt</seg> <seg id="10" type="intExpr">verkündet</seg> zuerst
+                        mit unwiderleglicher Beweiskraft,</seg> <said id="10" mode="indirect" content="writing" level="1">daß <said id="15" mode="reported" content="speech" level="2" metaph="yes">in <seg id="15" type="speaker">Rembrandt</seg> einer der gewaltigsten
+                        Dichter zu uns <seg id="15" type="intExpr">redet</seg></said>, der mit Zauberkraft auch den nüchternsten Sinn in
+                        seine Gedankenkreise zu bannen und zur Höhe seiner Auffassung emporzuziehen weiß.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

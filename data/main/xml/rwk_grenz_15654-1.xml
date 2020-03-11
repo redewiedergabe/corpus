@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Stölzels juristische Lehrmethode</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341861_219001.txt_66.xml</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Stölzels juristische Lehrmethode</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+<seg id="1" type="frame" pos="start">Wer <seg id="1" type="speaker">sich</seg> an einfachen Rechtsfällen ein <seg id="1" type="intExpr">Bild</seg> davon
+                        <seg id="1" type="intExpr">machen</seg> will,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">worin eigentlich die Thätigkeit des Ziviljuristen besteht</said> — der
+                        Laie hat ja meist nur von <said id="3" mode="reported" content="writing" level="1">der ihm in den <seg id="3" type="speaker">Zeitungen</seg> vorgeführten Kriminalpraxis</said> eine Vorstellung —, <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">wer</seg> <seg id="4" type="intExpr">erfahren</seg> will,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">wozu es überhaupt Juristen
+                        und ein so künstliches Rechtssystem geben müsse, und weshalb man nicht alle
+                        Rechtshändel mit dem am Einzelfall einzusetzenden gesunden Menschenverstande
+                        entscheiden könne</said>, der mag sich aus diesem Buche unterrichten. Auch <seg id="8" type="speaker">wer</seg> noch
+                        in der Wahl seines Berufes schwankt, wird daraus Fingerzeige entnehmen <seg id="8" type="frame" pos="start">und
+                        <seg id="8" type="intExpr">ermessen</seg> können,</seg> <said id="8" mode="indirect" content="thought" level="1">ob er wohl seine Befriedigung im juristischen Berufe finden
+                        werde.</said> <seg id="11" type="speaker">Wer</seg> endlich angesichts <said id="9" mode="reported" content="speech" level="1">vieler <seg id="9" type="intExpr">Klagen</seg> über die Jurisprudenz</said> und angesichts der Mißachtung, die ihr manchmal zu teil wird, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">erkennen</seg> will,</seg> <said id="11" mode="indirect" content="thought" level="1">daß
+                        doch etwas hohes, erhabnes in dieser Wissenschaft steckt, und daß es noch
+                        Männer giebt, die daraus etwas gutes, dem Leben dienliches zu machen
+                        wissen</said>, der tröste sich an diesem Buche.
+            <said id="14" mode="reported" content="writing" level="1">Die Kritik in den <seg id="14" type="speaker">Fachzeitschriften</seg></said> ist zum Teil dem Werke nicht gerecht
+                        geworden. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Stölzel</seg> hat das Buch <seg id="15" type="intExpr">gewidmet</seg></seg> <said id="15" mode="direct" content="writing" level="1">„unsern jungen Juristen und ihren
+                        Beratern"</said>; es scheint aber, als ob bei den Beratern, namentlich bei den Universitätslehrern, seine Ideen nicht allgemein Anklang fänden. Die Fragen,
+                        um die es sich dabei handelt, werden anch weitere Kreise interessiren; wichtiger
+                        als alle Gesetzesfabrikation ist ja eine vernünftige Handhabung der Rechtspflege, und diese setzt wieder eine verständige, auf das praktische Leben gerichtete
+                        Vorbildung unsrer Juristen voraus. <said id="24" mode="indirect" content="thought" level="1" border="yes">Mit Richtern, die in Stölzelschem Geiste
+                        vorgebildet sind, könnte man</said> <seg id="24" type="frame" pos="mid">— <seg id="24" type="intExpr">glaube</seg> <seg id="24" type="speaker">ich</seg> —</seg> <said id="24" mode="indirect" content="thought" level="1" border="yes">unter jeder Rechtsordnung auskommen und sich wohl fühlen.</said>
+            
+           <said id="52" mode="reported" content="speech" level="1"> In den <seg id="52" type="intExpr">Vorlesungen</seg> <seg id="52" type="speaker">Stölzels</seg> wurden einfache Rechtsfälle unter ausführlicher Erörterung der prozessualen und der materiell rechtlichen Sätze und
+                        unter Mitbeteiligung der Zuhörer zur Entscheidung geführt</said>; eine Besonderheit
+                        bestand darin, daß als Einleitung nicht bloß der nackte Thatbestand des Falls
+                        erschien, sondern gleich allerhand Prozeßschriften, zum Teil aus Akten entnommen, zum Teil erfunden, in einem Abdruck den Hörern vorgelegt wurden:
+                        Anwaltsschriftsätze, gerichtliche Urteile und Beschlüsse, alle aber mit Mängeln
+                        und Verkehrtheiten behaftet. An der Verbesserung durften nun die Studirenden
+                        ihren Scharfsinn erproben. Diese auch wohl sonst schon geübte Methode — <said id="34" mode="reported" content="writing" level="1">so
+                        liebt es z. B. <seg id="34" type="speaker">Ihering</seg> in seiner bekannten, auch für Laien interessanten <seg id="34" type="intExpr">Sammlung</seg> „Zivilrechtsfälle" verdrehte Rechtsmeinnngen und nur scheinbar passende
+                        Stellen des Corpus juris anzuführen</said> — wirkt natürlich sehr erfrischend und
+                        vielfach belustigend. Es ist ein unschuldiger Kunstgriff, den Hörer zu packen.
+                        <seg id="42" type="frame" pos="start">Es schmeichelt, <seg id="42" type="speaker">sich</seg> <seg id="42" type="intExpr">sagen</seg> zu können:</seg> <said id="42" mode="direct" content="speech" level="1" nonfact="yes">„das ist ja ganz falsch, das kannst du
+                        besser machen,"</said> <said id="43" mode="reported" content="speech" level="1" nonfact="yes">und so wird man unvermerkt <seg id="43" type="intExpr">angefeuert</seg></said>, der Sache seinen
+                        Eifer zuzuwenden. Auch liegt darin ein Hilfsmittel für das Gedächtnis; Absurditäten haften leichter als das schlichte Vernünftige und rufen, <said id="46" mode="reported" content="thought" level="1" nonfact="yes">wenn sie im
+                        <seg id="46" type="intExpr">Gedächtnis</seg> wieder auftauchen</said>, durch eine Ideenverbindung sofort die Vorstellung
+                        des Richtigen hervor. <said id="48" mode="reported" content="speech" level="1"><seg id="48" type="speaker">Stölzel</seg> <seg id="48" type="intExpr">bezeichnete</seg> das einmal als eine Art juristischer
+                        Klinik.</said> <said id="49" mode="direct" content="speech" level="1">„Eine Klinik</said> — <seg id="49" type="frame" pos="mid"><seg id="49" type="intExpr">meinte</seg> <seg id="49" type="speaker">er</seg></seg> — <said id="49" mode="direct" content="speech" level="1">ist ja der medizinische Unterricht am
+                        Krankenbett. Unsre Rechtsfälle können uns in gewisser Beziehung das vorstellen,
+                        was für den Mediziner seine Präparate, seine Kranken, seine Leichen sind. Wir
+                        wollen an den Fehlern herumoperiren, wir wollen die Leichen seziren; wir
+                        wollen lahme Eide, schielende Gründe, bedenkliche Geschwülste und all dergleichen schulgerecht daraus entfernen."</said>
+                         
+
+
+</p>
+      </body>
+   </text>
+</TEI>

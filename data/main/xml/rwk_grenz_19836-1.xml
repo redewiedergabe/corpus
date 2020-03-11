@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Maßgebliches und Unmaßgebliches</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341883_299040.txt_82.xml</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Maßgebliches und Unmaßgebliches</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>         
+
+
+Deutschland ist
+                        das „Herz" Europas und als solches größtenteils von Landgrenzen umschlossen;
+                        ihm sind darum fremde Mächte unmittelbar benachbart. <said id="1" mode="reported" content="thought" level="1"><seg id="1" type="speaker">Es</seg> muß deshalb in ganz
+                        anderm Maße als England auf seine Wehrkraft <seg id="1" type="intExpr">bedacht</seg> sein.</said> <seg id="2" type="speaker">Es</seg> bedarf doppelter
+                        Rüstungen: einmal einer Flotte, wenn es <said id="2" mode="reported" content="thought" level="1">den <seg id="2" type="intExpr">Plan</seg> einer Weltpolitik</said> durchführen
+                        will, dann aber, und das ist immer das wichtigste, eines starken Landheeres. Und
+                         
+               
+               noch in andrer Hinsicht ist seine Wehrnotwendigkeit eine doppelte. Es genügen
+                        nicht Geldopfer, wie sie der Engländer allein bringt, sondern ein großer Teil des
+                        Volkes muß auch persönlich für des Landes Wehrkraft eintreten, da nur auf dem
+                        Boden der allgemeinen Wehrpflicht ein starkes Heer erwachsen kann. Um so bedrohlicher muß es da sein, wenn sich der Träger unsers kapitalistischen Fortschritts
+                        mehr und mehr eine Wehrverdrossenheit bemächtigt. Man will keine Geldopfer
+                        und erst recht keine persönlichen Opfer mehr bringen. <said id="3" mode="reported" content="thought" level="1" prag="yes">Auch hiervon <seg id="3" type="intExpr">überzeugt</seg> <seg id="3" type="speaker">uns</seg>
+                        fast täglich der Geschäftsgang unsrer Parlamente</said>, wo allem, was mit Wehrvorlagen zusammenhängt, hartnäckiger Widerstand entgegengesetzt wird. 
+                         
+               Aber auch diese Wehrverdrossenheit der Geldpartei wäre wiederum vielleicht
+                        nicht so gefährlich, wenn nicht auch sie auf die untern Schichten übergriffe. <said id="4" mode="reported" content="writing" level="1">Die
+                        sozialen Verschiebungen, die <seg id="4" type="speaker">wir</seg> schon <seg id="4" type="intExpr">berührt</seg> haben</said>, haben an Stelle eines besitzenden
+                        und darum staatserhaltenden Bauernstandes ein nur an geringem beweglichem Besitz
+                        hängendes und darum staatsbedrohendes Proletariat der Städte geschaffen: die
+                        Sozialdemokratie. Diese Sozialdemokratie ist im innersten Kern ihres Wesens
+                        zugestandnermaßen international, sie hat an nationalen Fragen kein Interesse, sie
+                        setzt allen nationalen Bedürfnissen hartnäckigen Widerstand entgegen. Darum ist
+                        auch der Sozialismus ein Hauptfeind nationaler Wehrkraft. <said id="5" mode="reported" content="thought" level="1" nonfact="yes">Mag der <seg id="5" type="speaker">Soztalismus</seg>
+                        heute auch seine Macht <seg id="5" type="intExpr">überschätzen</seg></said>, und mögen ängstliche Gemüter geneigt sein,
+                        diese Überschätzung mitzumachen, <seg id="7" type="frame" pos="start">so unterliegt es doch keinem <seg id="7" type="intExpr">Zweifel</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1">daß in Zeiten
+                        ernster kriegerischer Verwicklungen, wenn solche in späterer Zukunft wieder einmal
+                        unser Land bedrohen sollten, dieser internationale Pfahl im nationalen Fleische
+                        unsrer Wehrfähigkeit sehr gefährlich werden könnte.</said> Die Sozialdemokratie ist also
+                        die Hauptfeindin unsrer so notwendigen nationalen Wehrkraft. Die Sozialdemokratie
+                        aber ist ihrem ganzen Wesen nach nur eine Frucht der anglisierenden Geldsucht
+                        und der für uns daraus folgenden Genußsucht unsrer Zeit. 
+               So ergeben sich aus undeutscher Nachahmung englischen Wesens schwere wirtschaftliche, moralische, physische und, besonders was die Wehrkraft anlangt, überhaupt
+                        allgemein nationale Gefahren, <seg id="8" type="frame" pos="start">und <seg id="8" type="speaker">wir</seg> <seg id="8" type="intExpr">sehen</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß der scheinbar so glänzende Fortschritt von heute tatsächlich ein Rückschritt ist.</said> <seg id="9" type="frame" pos="start">Und es kann auch nicht <seg id="9" type="intExpr">verschwiegen</seg>
+                        werden,</seg> <said id="9" mode="indirect" content="speech" level="1">daß unsre Parlamente gegen diesen undeutschen Geist der Zeit kein genügendes Bollwerk bilden.</said> Auch hier überwiegen kurzsichtige Parteiinteressen, und
+                        die allgemein nationalen Interessen werden allemal in den Hintergrund geschoben.
+               Um so dringender muß da, wenn auch unsre Parlamente versagen, <seg id="10" type="frame" pos="start">die <seg id="10" type="intExpr">Frage</seg>
+                        <seg id="10" type="intExpr">lauten</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">Wie kann dem deutschen Volke aus diesen seine Zukunft schwer bedrohenden
+                        Gefahren Rettung werden?</said>
+                         
+               <seg id="11" type="frame" pos="start">Das „Wie" an sich ist leicht <seg id="11" type="intExpr">beantwortet</seg>:</seg> <said id="11" mode="direct" content="speech" level="1">dadurch, daß das deutsche Volk
+                        von der an und für sich schon unwürdigen Nachahmung fremden Wesens wieder
+                        abgewandt und zu <seg id="12" type="intExpr"><said id="12" mode="reported" content="thought" level="2" nonfact="yes">Selbstbesinnung</said></seg> und dem daraus folgenden Selbstbewußtsein und der sich daraus ergebenden Beharrung im eignen Wesen erzogen wird.</said>
+                        Durch Rückerziehung also zur Betätigung eigner Art. <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">Fragen</seg> <seg id="13" type="speaker">wir</seg> Fremde, die
+                        Deutschland kennen gelernt haben,</seg> <said id="13" mode="indirect" content="speech" level="1">was sie am alten deutschen Wesen als eigne Art
+                        so sehr schätzen lernten</said>, <said id="14" mode="reported" content="speech" level="1">so <seg id="14" type="intExpr">nennen</seg> <seg id="14" type="speaker">sie</seg> die Arbeitsfreudigkeit des Deutschen, seinen
+                        Trieb, die Arbeit zunächst um ihrer selbst willen und nicht nur im Hinblick auf
+                        den Gewinn zu verrichten.</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

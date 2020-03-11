@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Skizzen aus unserm heutigen Volksleben: Dritte Reihe, 4. Wie es Pastor Heinrichs bei seiner Versetzung erging</title>
+             <author>Anders, Fritz</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341869_231811.txt_76.xml</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Skizzen aus unserm heutigen Volksleben: Dritte Reihe, 4. Wie es Pastor Heinrichs bei seiner Versetzung erging</f>
+         <f name="author">Anders, Fritz</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+Diesesmal aber war draußen grauer Himmel und fiel ein feiner Regen,
+                        und im Wagen war Dunst und Ledergeruch, und ganz im Innern herrschten Unmut
+                         
+            
+            und Besorgnisse. Der Herr Pastor war beides, unmutig und besorgt. Denn erstens
+                        hatte er drei Tage bei den lieben Schwiegereltern zugebracht, und zweitens hatte
+                        er auf dem Bahnhofe ein paar Stunden auf den Wagen warten müssen, der ihn
+                        abholen sollte. <seg id="1" type="speaker">Man</seg> hatte es in Abbersroda mit der Zeit nicht genau genommen,
+                        den Wagen verspätet abgesandt und <said id="1" mode="reported" content="speech" level="1">dem Knechte noch <seg id="1" type="intExpr">Aufträge</seg> gegeben.</said> So war
+                        dieser in der Stadt herumgebummelt und ein paar Stunden zu spät erschienen.
+                        Inzwischen hatte die Frau Pastorin mit ihren fünf Kindern im Wartesaale fast
+                        verzweifeln wollen, und der Herr Pastor hatte, sich für die Seinen opfernd, ein
+                        Glas Bier nach dem andern getrunken, was er nicht vertragen konnte. Und dabei
+                        regnete es draußen, und die Zukunft sah trotz der fünftausendachthundert Mark so
+                        trübselig aus wie das schmutzige Pflaster und die kahlen Bäume draußen, und die
+                        Frau Pastorin fing schon an, sich nach ihrem alten Heim zurückzusehnen.
+            Endlich saß man im Wagen, der seinen Weg bedächtig entlang kroch. Eine
+                        schnelle Bewegung war ja auch weder von diesem Knechte, noch von den beiden
+                        Percherons zu erwarten. <seg id="2" type="frame" pos="start">Unterwegs war Zeit vollauf, <seg id="2" type="speaker">sich</seg> zu <seg id="2" type="intExpr">sorgen</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">ob auch alles,
+                        was vorausgeschickt war, gut angekommen sei.</said> So kam man um den Franzosenberg,
+                        eine steile Bodenwelle, hinter der Abbersroda lag. Da stand etwas am Wege, auf
+                        halber Hohe des Berges, ein großer Kasten, schief und verdächtig. <said id="3" mode="freeIndirect" content="thought" level="1">Mein Gott, das
+                        war ja der Möbelwagen!</said> Festgefahren, und kein Mensch dabei. Man hatte, wie
+                        sich später zeigte, statt den Umweg über Grasleben zu machen, aus Bequemlichkeit
+                        den Weg über deu Frauzvsenberg eingeschlagen, war in in dem schlechten Wege
+                        auf halber Höhe sitzen geblieben, hatte die Deichsel abgebrochen, war mit den
+                        Pferden davongegangen und hatte den Wagen bis auf weiteres stehn lassen. Es
+                        war auch sonst keiner da, der sich verpflichtet gefühlt hätte, sich seiner anzunehmen.
+                        Und so stand er schon zwei Tage an seiner Stelle. Mit Mühe konnte die Glaskutsche um ihn herumfahren, und sie wäre dabei beinahe in den Graben geraten
+                        und umgeschlagen. Die Fran Pastorin rang die Hände, soweit dies zwischen ihren
+                        Kindern und Paketen möglich war; ihre schlimmsten Befürchtungen fingen an sich
+                        zu bewahrheiten.
+            So kam man ins Dorf und auf den Pfarrhof. Unter andern Umständen
+                        wäre dies der Augenblick gewesen, wo man einige freudige und hoffnungsreiche
+                        Herzbewegungen hätte empfinden müssen. Aber der Umzug und das Wetter duldeten es nicht. Da standen auch die beiden Ackerwagen, die Wäscherolle und das
+                        Holz unter dem Schauer im Trocknen, der Ofen und die Bücherkisten im Regen.
+                        Kein Mensch war zu sehen. Nur aus dem Nachbarhause vorm Thor steckte ein
+                        alter Kerl Kopf und Pfeife zum Schiebefenster heraus. Es war Vetter Heinemann,
+                        Nachbar, Einwohner und Maurer in Abbersroda. Dieser wurde also herangewinkt
+                        und <said id="4" mode="reported" content="speech" level="1">nach dem Schlüssel zum Pfarrhause <seg id="4" type="intExpr">gefragt</seg>.</said> <seg id="9" type="frame" pos="start"><said id="6" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="9 6 8" type="speaker">Vetter Heinemann</seg> <seg id="6" type="intExpr">wußte</seg> von
+                        nichts</said> und <seg id="9" type="intExpr">hielt</seg> es <seg id="9" type="intExpr">für</seg> möglich,</seg> <said id="9" mode="indirect" content="speech" level="1">daß der Schulze den Schlüssel habe, wenn er nicht
+                        vielleicht beim Nachtwächter sei.</said> <said id="10" mode="reported" content="speech" level="1">Er wurde aber zum Kirchenrendanten <seg id="10" type="intExpr">geschickt</seg>.</said>
+                        <said id="8" mode="indirect freeIndirect" content="speech" level="1">Der Herr Kirchenrendant möchte kommen, der Herr Pastor wäre da.</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das deutsche Lied seit dem Tode Richard Wagners</title>
+             <author>Kretzschmar, Hermann </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341867_227635.txt_74.xml</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Das deutsche Lied seit dem Tode Richard Wagners</f>
+         <f name="author">Kretzschmar, Hermann </f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+
+In diesem Sinne erstreckt heute das alte Volkslied seine
+                        Macht über einen immer größern Kreis. <said id="1" mode="reported" content="speech" level="1">Aus ihm <seg id="1" type="intExpr">nennen</seg> <seg id="1" type="speaker">wir</seg> als ein außerordentlich beachtenswertes neues Liedertalent Johannes Techritz, nach ihm
+                        Müller-Reuter, Fr. Mayerhoffer.</said>
+            Ob die Einflüsse, denen die Entwicklung eines Kunstzweiges ausgesetzt ist,
+                        ihm zum Segen oder zum Schaden gereichen, hängt von den Grundsätzen ab,
+                        die im Betrieb gelten. Unter den Grundsätzen aber, die für die Liedkomposition
+                         
+            
+            in Frage kommen, sind die am wichtigsten, die die Stellung der Musik zur
+                        Dichtung regeln.
+            <said id="2" mode="reported" content="thought" level="1">Zwei Jahrhunderte lang haben sich die deutschen <seg id="2" type="speaker">Liederkomponisten</seg> vollständig als die Diener der Dichter <seg id="2" type="intExpr">betrachtet</seg>.</said> Das Lied war von den Texten
+                        in dem Grade abhängig, daß es während der siebzig Jahre, in denen der
+                        deutsche Dichterwald entvölkert war, vollständig verstummte. Die frühern
+                        Lieder wollten nichts andres, als guten Gedichten durch Melodien eine Form
+                        geben, in der sie sich leichter merkten und verbreiteten. Erst seit Schuberts
+                        Zeiten ist die Musik im deutschen Lied selbstherrlicher geworden und hat damit
+                        einer Reihe von Verirrungen Thür und Thor geöffnet, die der Gegenwart
+                        zu immer zahlreicher und bedrohlicher werden. Nach dem Naturgesetz ist bei
+                        jeder Art von Vokalkomposition die Dichtung die Hauptsache; daraus erklärt
+                        es sich zu allererst, daß sich so viele ganz unmusikalische Menschen an Wagners
+                        Musikdramen doch ehrlich erbauen können. Im neuen Lied hat uns die Romantik das Gewicht dieses Fundamentalsatzes stark verschoben. Wir werden
+                        aber doch im Interesse der fernern Entwicklung des Lieds zu ihm zurückkehren
+                        müssen. Eine gewaltige Dichterzeit würde unsre Musiker vou allein auf den
+                        richtigen Standpunkt bringen. Das ist aber die Gegenwart trotz der allerneusten Anläufe immer noch nicht. <said id="14" mode="reported" content="speech" level="1" nonfact="yes" metaph="yes">Ihre lyrische Poesie <seg id="14" type="intExpr">bringt</seg> die <seg id="14" type="speaker">Stimme</seg>
+                        der Zeit nicht <seg id="14" type="intExpr">zu Gehör</seg></said>, und wo sie es versucht, klingt diese Stimme noch
+                        roh und ungebildet. <said id="15" mode="reported" content="speech writing" level="1" nonfact="yes" border="yes">Weder die <seg id="15" type="speaker">Scheffel</seg>, <seg id="15" type="speaker">Wolff</seg> oder <seg id="15" type="speaker">Baumbach</seg>, noch die
+                        <seg id="15" type="speaker">Liliencron</seg> und <seg id="15" type="speaker">Dehmel</seg> sind die Dichter, die die Musik <seg id="15" type="intExpr">zur Ordnung</seg> zu <seg id="15" type="intExpr">rufen</seg>,
+                        ihre Kräfte zur vollen Entfaltung zu bringen vermögen.</said> Aber Männer wie
+                        Karl Busse zeigen doch, daß noch ein höherer Genius lebt, und warten wir
+                        ab — vielleicht kommt ein neuer Klopstock schneller, <said id="16" mode="reported" content="thought" level="1">als <seg id="16" type="speaker">wir</seg> es <seg id="16" type="intExpr">ahnen</seg>.</said> Jedenfalls aber sind unsre Komponisten ihren Vorfahren vor hundertfünfzig und
+                        zweihundert Jahren gegenüber in der viel glücklichern Lage, daß sie nicht
+                        auf die mitlebenden Dichter angewiesen sind. Gerade aber darin, wie sie
+                        von dem ungeheuern poetischen Vorrat aller Zeiten und aller Länder, der
+                        um sie herumgebreitet ist, Gebrauch machen, verraten sie eine große Schwäche.
+            Zwei Vorwürfe sind es, die gegen die neuen Komponisten erhoben werden
+                        müssen: sie setzen eine große Anzahl von Texten in Musik, die sich dazu überhaupt nicht eignen, und bekunden dadurch eine handwerksmäßige Gleichgiltigkeit
+                        gegen Poesie und Vernunft. Zweitens aber überwiegt in der Wahl brauchbarer Texte das Liebeslied heute in einem geradezu unglaublichen Grade! Von
+                        der Vielseitigkeit, die früher ein Ruhm des deutschen Liedes mit war — keine
+                        Spur mehr. Kann man in dieser durch und durch femininen Gesellschaft
+                        wirklich die Nachkommen jener Geschlechter, die im Mittelalter, die zur Reformationszeit gesungen haben, erkennen? Wenn der studirte Mann vor diesem
+                        Liedergarten, in dem nur Armide waltet, flieht und sich in sein Kommersbuch
+                        zurückzieht, hat er Recht.
+
+
+</p>
+      </body>
+   </text>
+</TEI>

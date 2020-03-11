@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Robert Hamerlings Selbstbiographie</title>
+             <author>Necker, Moritz</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341849_204730.txt_89.xml</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Robert Hamerlings Selbstbiographie</f>
+         <f name="author">Necker, Moritz</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+
+Sie ist nicht <said id="1" mode="reported" content="thought" level="1" nonfact="yes">eine Reihe von
+                        mehr oder weniger unterhaltenden oder geschichtlich und biographisch wertvollen
+                         
+            
+            <seg id="1" type="intExpr">Erinnerungen</seg> eines sechzig Jahre alt gewordenen <seg id="1" type="speaker">Mannes</seg></said>; sie hat kein Bild
+                        derjenigen Zeit geliefert, worin sich dieses jedenfalls fruchtbare Leben entwickelt
+                        und entfaltet hat; sie trägt auch nicht den Charakter von <said id="2" mode="reported" content="thought" level="1" nonfact="yes"><seg id="2" type="intExpr">Bekenntnissen</seg> einer
+                        <seg id="2" type="speaker">Menschenseele</seg></said>, die sich vor der ewigen Wahrheit bescheiden entlasten will;
+                        sondern <said id="3" mode="reported" content="speech" level="1" metaph="yes">überall <seg id="3" type="intExpr">bekundet</seg> <seg id="3" type="speaker">sie</seg> etwas von all diesen Grundtypen von Selbstbiographien</said>, im ganzen aber ist sie <said id="4" mode="reported" content="writing" level="1">eine litterarhistorische <seg id="4" type="intExpr">Apologie</seg> des <seg id="4" type="speaker">Verfassers</seg>
+                        selbst</said> geworden. Die Kärrnerarbeit, die <said id="5" mode="reported" content="speech" level="1">nach einem boshaften <seg id="5" type="intExpr">Worte</seg></said> die
+                        Litteraturgelehrten nach dem Tode der großen Dichter und Schriftsteller zu
+                        verrichten pflegen, hat hier Hamerling, gleichsam hinter sich selber einhergehend, selbst übernommen, er ist sein eigner Litterarhistoriker in diesem Buche
+                        geworden. Und darum mangelt es ihm an Größe, wie ihm diese Durchkreuzung und Verflechtung der verschiednen Absichten die künstlerische Einheit
+                        verdorben hat.
+            Die merkwürdige künstlerische Unklarheit und Unentschiedenheit, <said id="6" mode="reported" content="writing" level="1">mit der
+                        <seg id="6" type="speaker">Hamerling</seg> an dieser <seg id="6" type="intExpr">Biographie</seg> gearbeitet hat</said>, <said id="7" mode="reported" content="speech" level="1" nonfact="yes">mag an einzelnen Stellen <seg id="7" type="intExpr">erläutert</seg> werden.</said> <said id="8" mode="reported" content="writing" level="1">So <seg id="8" type="intExpr">teilt</seg> <seg id="8" type="speaker">er</seg> aus dem Jahre 1848, wo er als achtzehnjähriger
+                        Student der Wiener Universität auch in die revolutionäre Strömung mitgezogen
+                        war, ein für den jungen Dichter sehr charakteristisches politisches Schriftstück
+                        <seg id="8" type="intExpr">mit</seg>, das die „Aufgaben des Reichstages" so zusammenfaßte, <said id="9" mode="reported" content="thought" level="2">wie <seg id="9" type="speaker">er</seg> sie sich
+                        in früher politischer Reife <seg id="9" type="intExpr">gedacht</seg> hatte.</said></said> Aber unbefangen, mit der Sachlichkeit
+                        des seiner Sache sichern Historikers <said id="10" mode="reported" content="writing" level="1" nonfact="yes">vermag <seg id="10" type="speaker">Hamerling</seg> so ein Aktenstück nicht
+                        <seg id="10" type="intExpr">mitzuteilen</seg></said>, <seg id="11" type="frame" pos="start">sondern <seg id="11" type="speaker">er</seg> fügt noch folgende <seg id="11" type="intExpr">Glosse</seg> hinzu, die geradezu komisch
+                        wirkt und zeigt, wie nervös der Erzähler ist:</seg> <said id="11" mode="direct" content="writing" level="1">„Erscheint dieser jugendliche
+                        Erguß zum Teil vielleicht als Echo der damaligen Zeitideen, so ist auch dieses
+                        doch so stark individuell gefärbt, im guten und schlimmen Sinne so charakteristisch,
+                        daß Freund und Feind über die Eitelkeit, die scheinbar in der Wiedergabe des
+                        Artikels an dieser Stelle liegt, ohne sonderliches Hohngegrinse sich hinwegsetzen
+                        kann."</said> <said id="12" mode="reported" content="writing" level="1">Diese <seg id="12" type="intExpr">Bemerkung</seg></said> ist geradezu krankhaft; denn als Geschichtschreiber,
+                        und war es auch als sein eigner, hatte <seg id="13 14" type="speaker">Hamerling</seg> die Pflicht, <said id="13" mode="reported" content="writing" level="1">dergleichen
+                        Aufsätze <seg id="13" type="intExpr">mitzuteilen</seg></said>, und nur sein fortwährendes Bemühen, <said id="14" mode="reported" content="writing" level="1">nicht bloß seinen
+                        Lebensgang <seg id="14" type="intExpr">darzustellen</seg></said>, sondern auch ihn zu beurteilen (gerade so wenig naiv
+                        wie die Form seiner epischen Darstellung im „König von Sion") <said id="15" mode="reported" content="thought" level="1">hat ihn
+                        fortwährend <seg id="15" type="speaker">Feinde</seg> um sich sehen lassen.</said> <said id="16" mode="reported" content="writing" level="1">Ein andermal, wo <seg id="16" type="speaker">er</seg> von seinem
+                        fleißigen, aber auch entbehrungsreichen Studentenleben <seg id="16" type="intExpr">spricht</seg></said>, wo er sich armselig von Seminarstipendien und Studentengaben erhielt, <said id="17" mode="reported" content="writing" level="1"><seg id="17" type="intExpr">berichtet</seg> <seg id="17 19" type="speaker">er</seg> von seinen
+                        vielfachen Beziehungen zu schönen Mädchen</said> und <seg id="19" type="frame" pos="start"><seg id="19" type="intExpr">bemerkt</seg> wieder, <said id="18" mode="reported" content="thought" level="1">einen <seg id="18" type="intExpr">beschränkten</seg> <seg id="18" type="speaker">Leser</seg> voraussetzend</said>:</seg> <said id="19" mode="direct" content="writing" level="1">„Wenn ich bei dieser Gelegenheit eine ziemliche
+                        Anzahl weiblicher Gestalten die Musterung passiren lasse, so wird gegen <said id="20" mode="reported" content="speech" level="2" nonfact="yes">den
+                        <seg id="20" type="intExpr">Vorwurf</seg> der Flatterhaftigkeit</said> mich die Beschaffenheit der Beziehungen schützen."</said>
+                        Hamerling war damals erst zwanzig Jahre alt. <said id="21" mode="reported" content="thought" level="1">Welch einfältigen und boshaften Leser <seg id="21" type="intExpr">setzt</seg> <seg id="21" type="speaker">er</seg> <seg id="21" type="intExpr">voraus</seg></said>, <seg id="22" type="frame" pos="start">wenn <seg id="22" type="speaker">er</seg> <seg id="22" type="intExpr">befürchtet</seg>,</seg> <said id="22" mode="indirect" content="thought" level="1">daß der zwanzigjährige,
+                         
+            
+            für Frauenschönheit wie alle reicher angelegte Mannesnatur überaus empfängliche Jüngling <said id="23" mode="reported" content="speech thought" level="2" nonfact="yes">deswegen als „flatterhaft" <seg id="23" type="intExpr">verurteilt</seg> werden könnte</said>, <said id="24" mode="reported" content="speech thought" level="2">weil <seg id="24" type="speaker">er</seg>
+                        für mehrere Mädchen hinter einander <seg id="24" type="intExpr">schwärmte</seg>!</said></said> <said id="25" mode="reported" content="writing" level="1">Diese <seg id="25" type="intExpr">Entschuldigungen</seg> des
+                        <seg id="25" type="speaker">Dichters</seg></said> sind in Wahrheit mehr verletzend als versöhnend. <seg id="26" type="frame" pos="start">Ausdrücklich
+                        <seg id="26" type="intExpr">erklärt</seg> <seg id="26" type="speaker">er</seg> einmal,</seg> <said id="26" mode="indirect" content="writing" level="1">daß der Verkehr eines Dichters mit der Frauenwelt sehr
+                        charakteristisch für sein Wesen sei.</said> Aber so oft <seg id="27" type="speaker">er</seg> dazu kommt, <said id="27" mode="reported" content="writing" level="1">von solchen
+                        Begegnungen zu <seg id="27" type="intExpr">berichten</seg></said>, <said id="28" mode="reported" content="thought" level="1"><seg id="28" type="intExpr">glaubt</seg> <seg id="28 29" type="speaker">er</seg> sich <said id="29" mode="reported" content="writing" level="2">gegen <said id="30" mode="reported" content="speech" level="3">den <seg id="30" type="intExpr">Vorwurf</seg> der Eitelkeit</said>
+                        <seg id="29" type="intExpr">verteidigen</seg> zu müssen.
+</said></said>
+
+</p>
+      </body>
+   </text>
+</TEI>
