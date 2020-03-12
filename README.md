@@ -12,6 +12,7 @@ The corpus was created by the DFG-funded project "Redewiedergabe - eine literatu
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
 
 ## Available Data
+### Core corpus
 
 |                            | Samples | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
