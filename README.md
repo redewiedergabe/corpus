@@ -29,7 +29,7 @@ This is a collection of several types of additional annotated material produced 
 | [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
 | [Indirect full texts](data/additional/simplified/indirect)| 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: Only instances of *indirect* STWR with a simplified annotation system
 | [Free indirect full texts (fictional) (semi-automatic)](data/additional/simplified/free_indirect) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: Only instances of *free indirect* STWR with a simplified annotation system
-| [First annotations of the main corpus](TODO) |  |  |  | [Description](resources/docs/first-annotations_main-corpus.md)
+| [First annotations of the main corpus](TODO) **coming soon** |  |  |  | [Description](resources/docs/first-annotations_main-corpus.md)
 
 More additional material will be added in the future.
 
