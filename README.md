@@ -29,6 +29,7 @@ This is a collection of several types of additional annotated material produced 
 | [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
 | [Indirect full texts](data/additional/simplified/indirect)| 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: Only instances of *indirect* STWR with a simplified annotation system
 | [Free indirect full texts (fictional) (semi-automatic)](data/additional/simplified/free_indirect) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: Only instances of *free indirect* STWR with a simplified annotation system
+| [First annotations of the main corpus](TODO) |  |  |  | [Description](TODO)
 
 More additional material will be added in the future.
 
@@ -74,7 +75,7 @@ Each sample contains metadata with information about the publication time, text 
 # Annotation
 The corpus contains detailed annotation of instances of speech, thought and writing representation (STWR). We distiguish four main types: direct STWR (_Er sagte: "Ich bin hungrig."_), indirect STWR (_Er sagte, er sei hungrig._), free indirect STWR (_Wo sollte er jetzt etwas zu Essen herbekommen?_) and reported STWR (_Er sprach über Restaurants._), as well as the main media speech, thought and writing. In addition to that, we annotate attributes like embedding level, non-factual STWR, borderline cases, pragmatic and metaphoric use, as well as frames, introductory expressions and speakers. 
 
-Each sample of the main corpus was annotated independently by two different people. The final annotation was created by a third person on the basis of those annotations. 
+Each sample of the main corpus was annotated independently by two different people. The final annotation was created by a third person on the basis of those annotations. The underlying first annotations are also available under "additional material".
 
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
 
