@@ -1,0 +1,593 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	-	-	-	-
+Miks	-	Mik	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+Bumbullis	-	Bumbullis	NN	N.Name.Gen.Sg.Masc	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+bald	-	bald	ADV	ADV	no	-	-	-	-	-
+gefunden	-	finden	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	yes	-	frame.1	speaker.1	-	-
+trieb	-	treiben	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.1	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	frame.1	-	-	-
+in	-	in	APPR	APPR.In	no	-	frame.1	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Masc	no	-	frame.1	-	-	-
+Krügen	-	Krügen	NN	N.Reg.Dat.Pl.Masc	no	-	frame.1	-	-	-
+umher	-	umher	PTKVZ	PART.Verb	no	-	frame.1	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	frame.1	-	-	-
+erklärte	-	erklären	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.1	-	intexpr.1	-
+in	-	in	APPR	APPR.In	no	-	frame.1	-	-	-
+seiner	-	sein	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Fem	no	-	frame.1	-	-	-
+Betrunkenheit	-	Betrunkenheit	NN	N.Reg.Dat.Sg.Fem	no	-	frame.1	-	-	-
+jedem	-	jeder	PIS	PRO.Indef.Subst.-.Dat.Sg.Masc	no	-	frame.1	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.1	-	-	-
+der	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	reported.speech.2	frame.1	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Acc.Sg.Neut	no	reported.speech.2	frame.1	-	-	-
+wissen	-	wissen	VVINF	VINF.Full.-	no	reported.speech.2	frame.1	-	-	-
+wollte	-	wollen	VMFIN	VFIN.Mod.3.Sg.Past.Ind	no	reported.speech.2	frame.1	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.1	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect.speech.1	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect.speech.1	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	indirect.speech.1	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	indirect.speech.1	-	-	-	-
+Hegemeister	-	Hegemeister	NN	N.Reg.Dat.Sg.Masc	no	indirect.speech.1	-	-	-	-
+beklappt	-	beklappen	VVPP	VPP.Full.Psp	no	indirect.speech.1	-	-	-	-
+worden	-	werden	VAPP	VPP.Aux.Psp	no	indirect.speech.1	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech.1	-	-	-	-
+Darum	-	Darum	PAV	PROADV.Dem	yes	indirect freeIndirect.speech.3	-	-	-	-
+müsse	-	müssen	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.3	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.3	-	-	-	-
+jetzt	-	jetzt	ADV	ADV	no	indirect freeIndirect.speech.3	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	indirect freeIndirect.speech.3	-	-	-	-
+ein	-	ein	ART	ART.Indef.*.*.*	no	indirect freeIndirect.speech.3	-	-	-	-
+paar	-	paar	PIAT	PRO.Indef.Attr.-.*.*.*	no	indirect freeIndirect.speech.3	-	-	-	-
+Jahre	-	Jahr	NN	N.Reg.Acc.Pl.Neut	no	indirect freeIndirect.speech.3	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect freeIndirect.speech.3	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect freeIndirect.speech.3	-	-	-	-
+Kaluse	-	Kaluse	NE	N.Reg.Acc.Sg.Fem	no	indirect freeIndirect.speech.3	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.3	-	-	-	-
+Aber	-	aber	KON	CONJ.Coord.Aber	yes	reported.thought.4.nonfact.border=state	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	reported.thought.4.nonfact.border=state	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.thought.4.nonfact.border=state	-	-	-	-
+Morde	-	Mord	NN	N.Reg.Dat.Sg.Masc	no	reported.thought.4.nonfact.border=state	-	-	-	-
+wußte	-	wissen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.thought.4.nonfact.border=state	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	reported.thought.4.nonfact.border=state	-	-	-	-
+nichts	-	nichts	PIS	PRO.Indef.Subst.-.*.*.Neut	no	reported.thought.4.nonfact.border=state	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.thought.4.nonfact.border=state	-	-	-	-
+Dem	-	der	ART	ART.Def.Dat.Sg.Masc	yes	-	frame.5	-	-	-
+Gendarm	-	Gendarm	NN	N.Reg.Dat.Sg.Masc	no	-	frame.5	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.5	-	-	-
+der	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	-	frame.5	-	-	-
+ihm	-	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	-	frame.5	-	-	-
+Handschellen	-	Handschelle	NN	N.Reg.Acc.Pl.Fem	no	-	frame.5	-	-	-
+anlegte	-	anlegen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.5	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.5	-	-	-
+streckte	-	strecken	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.5	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	frame.5	speaker.5	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	frame.5	-	-	-
+Zunge	-	Zunge	NN	N.Reg.Acc.Sg.Fem	no	-	frame.5	-	-	-
+aus	-	aus	PTKVZ	PART.Verb	no	-	frame.5	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	frame.5	-	-	-
+bestand	-	bestehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.5	-	intexpr.5	-
+darauf	-	darauf	PAV	PROADV.Dem	no	-	frame.5	-	intexpr.5	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.5	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech.5	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	indirect.speech.5	-	-	-	-
+Krüger	-	Krüger	NE	N.Name.Nom.Sg.*	no	indirect.speech.5	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Dat.Sg.*	no	indirect.speech.5	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	indirect.speech.5	-	-	-	-
+Geld	-	Geld	NN	N.Reg.Acc.Sg.Neut	no	indirect.speech.5	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	indirect.speech.5	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect.speech.5	-	-	-	-
+Zeche	-	Zeche	NN	N.Reg.Acc.Sg.Fem	no	indirect.speech.5	-	-	-	-
+selber	-	selber	ADV	ADV	no	indirect.speech.5	-	-	-	-
+aus	-	aus	APPR	APPR.Dat	no	indirect.speech.5	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect.speech.5	-	-	-	-
+Hosentasche	-	Hosentasche	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech.5	-	-	-	-
+hole	-	holen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	indirect.speech.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech.5	-	-	-	-
+denn	-	denn	KON	CONJ.Coord.Denn	no	indirect.speech.5	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect.speech.5	-	-	-	-
+müsse	-	müssen	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect.speech.5	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	indirect.speech.5	-	-	-	-
+kostbaren	-	kostbar	ADJA	ADJA.Pos.Acc.Pl.Neut	no	indirect.speech.5	-	-	-	-
+Armbänder	-	Armband	NN	N.Reg.Acc.Pl.Neut	no	indirect.speech.5	-	-	-	-
+schonen	-	schonen	VVINF	VINF.Full.-	no	indirect.speech.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech.5	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Acc.Pl.Neut	no	indirect.speech.5	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	indirect.speech.5	-	-	-	-
+Staat	-	Staat	NN	N.Reg.Nom.Sg.Masc	no	indirect.speech.5	-	-	-	-
+ihm	-	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	indirect.speech.5	-	-	-	-
+geschenkt	-	schenken	VVPP	VPP.Full.Psp	no	indirect.speech.5	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect.speech.5	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech.5	-	-	-	-
+Ein	-	ein	ART	ART.Indef.Nom.Sg.Masc	yes	-	-	-	-	-
+strammer	-	stramm	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+gedrungener	-	gedrungen	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Kerl	-	Kerl	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+einem	-	ein	ART	ART.Indef.Dat.Sg.Neut	no	-	-	-	-	-
+blonden	-	blond	ADJA	ADJA.Pos.Dat.Sg.Neut	no	-	-	-	-	-
+Unschuldsgesicht	-	Unschuldsgesicht	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Trug	-	Trug	VVFIN	VFIN.Full.3.Sg.Past.Ind	yes	-	-	-	-	-
+das	-	der	ART	ART.Def.Nom.Sg.Neut	no	-	-	-	-	-
+Haar	-	Haar	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+noch	-	noch	ADV	ADV	no	-	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Soldatenzeit	-	Soldatenzeit	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+her	-	her	APZR	ADV	no	-	-	-	-	-
+glatt	-	glatt	ADJD	ADJD.Pos	no	-	-	-	-	-
+an	-	an	APPR	APPR.An	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Seite	-	Seite	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+gescheitelt	-	scheiteln	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sah	-	sehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+großen	-	groß	ADJA	ADJA.Pos.Dat.Pl.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+ausgeblaßten	-	ausgeblaßt	ADJA	ADJA.Pos.Dat.Pl.Neut	no	-	-	-	-	-
+Augen	-	Auge	NN	N.Reg.Dat.Pl.Neut	no	-	-	-	-	-
+gelassen	-	gelassen	ADJD	ADJD.Pos	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Runde	-	Runde	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Sein	-	sein	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Neut	yes	-	-	-	-	-
+erstes	-	erster	ADJA	ADJA.Pos.Nom.Sg.Neut	no	-	-	-	-	-
+Verhör	-	Verhör	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+verlief	-	verlaufen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+wesentlich	-	wesentlich	ADJD	ADJD.Pos	no	-	-	-	-	-
+anders	-	anders	ADV	ADV	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+als	-	als	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Untersuchungsrichter	-	Untersuchungsrichter	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+erwartet	-	erwarten	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+hatte	-	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	indirect freeIndirect.speech.6	-	-	-	-
+alte	-	alt	ADJA	ADJA.Pos.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+Hegemeister	-	Hegemeister	NN	N.Reg.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.6	-	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Acc.Sg.Neut	no	indirect freeIndirect.speech.6	-	-	-	-
+zwar	-	zwar	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+schon	-	schon	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+lange	-	lange	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	indirect freeIndirect.speech.6	-	-	-	-
+ihn	-	ihn	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+abgesehen	-	absehen	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.6	-	-	-	-
+gehabt	-	haben	VAPP	VPP.Haben.Psp	no	indirect freeIndirect.speech.6	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.6	-	-	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+Walde	-	Walde	NN	N.Reg.Dat.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+Mann	-	Mann	NN	N.Reg.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+gegen	-	gegen	APPR	APPR.Acc	no	indirect freeIndirect.speech.6	-	-	-	-
+Mann	-	Mann	NN	N.Reg.Acc.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+würde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Subj	no	indirect freeIndirect.speech.6	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+auch	-	auch	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+sicherlich	-	sicherlich	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	indirect freeIndirect.speech.6	-	-	-	-
+ihn	-	ihn	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+abgedrückt	-	abdrücken	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.6	-	-	-	-
+haben	-	haben	VAFIN	VFIN.Haben.3.Pl.Pres.Ind	no	indirect freeIndirect.speech.6	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.6	-	-	-	-
+das	-	der	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	no	indirect freeIndirect.speech.6	-	-	-	-
+hätte	-	haben	VAFIN	VFIN.Haben.3.Sg.Past.Subj	no	indirect freeIndirect.speech.6	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect freeIndirect.speech.6	-	-	-	-
+Ehre	-	Ehre	NN	N.Reg.Acc.Sg.Fem	no	indirect freeIndirect.speech.6	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	indirect freeIndirect.speech.6	-	-	-	-
+ihm	-	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+gefordert	-	fordern	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.6	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.6	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+Schuß	-	Schuß	NN	N.Reg.Acc.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+durchs	-	durch	APPRART	APPRART.Acc.Sg.Neut	no	indirect freeIndirect.speech.6	-	-	-	-
+Fenster	-	Fenster	NN	N.Reg.Acc.Sg.Neut	no	indirect freeIndirect.speech.6	-	-	-	-
+aber	-	aber	ADV	ADV	no	indirect freeIndirect.speech.6	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.6	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+anderer	-	anderer	PIS	PRO.Indef.Subst.-.Nom.Sg.Masc	no	indirect freeIndirect.speech.6	-	-	-	-
+getan	-	tun	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.6	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.6	-	-	-	-
+Soweit	-	soweit	ADV	ADV	yes	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+alles	-	alle	PIS	PRO.Indef.Subst.-.Nom.Sg.Neut	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Ordnung	-	Ordnung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Wo	-	wo	PWAV	PROADV.Inter	yes	indirect freeIndirect.speech.7	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.7	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	indirect freeIndirect.speech.7	-	-	-	-
+denn	-	denn	ADV	ADV	no	indirect freeIndirect.speech.7	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect freeIndirect.speech.7	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect freeIndirect.speech.7	-	-	-	-
+Mordnacht	-	Mordnacht	NN	N.Reg.Dat.Sg.Fem	no	indirect freeIndirect.speech.7	-	-	-	-
+aufgehalten	-	aufhalten	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.7	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.7	-	-	-	-
+?	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.7	-	-	-	-
+Und	-	und	KON	CONJ.Coord.-	yes	-	-	-	-	-
+nun	-	nun	ADV	ADV	no	-	-	-	-	-
+kam	-	kommen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+merkwürdige	-	merkwürdig	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	-	-	-	-
+Wendung	-	Wendung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	yes	indirect freeIndirect.speech.8	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.8	-	-	-	-
+irgendwo	-	irgendwo	ADV	ADV	no	indirect freeIndirect.speech.8	-	-	-	-
+eingestiegen	-	einsteigen	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.8	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.8	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Dat.Sg.*	no	indirect freeIndirect.speech.8	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	indirect freeIndirect.speech.8	-	-	-	-
+neue	-	neu	ADJA	ADJA.Pos.Acc.Sg.Fem	no	indirect freeIndirect.speech.8	-	-	-	-
+Flinte	-	Flinte	NN	N.Reg.Acc.Sg.Fem	no	indirect freeIndirect.speech.8	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect freeIndirect.speech.8	-	-	-	-
+beschaffen	-	beschaffen	VVINF	VINF.Full.-	no	indirect freeIndirect.speech.8	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.8	-	-	-	-
+Wo	-	wo	PWAV	PROADV.Inter	yes	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+sage	-	sagen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.8|reported.speech.9.nonfact	-	-	-	-
+Was	-	was	PWS	PRO.Inter.Subst.-.Acc.Sg.Neut	yes	indirect freeIndirect.speech.10	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.10	-	-	-	-
+denn	-	denn	ADV	ADV	no	indirect freeIndirect.speech.10	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	indirect freeIndirect.speech.10	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect freeIndirect.speech.10	-	-	-	-
+Flinte	-	Flinte	NN	N.Reg.Dat.Sg.Fem	no	indirect freeIndirect.speech.10	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.10	-	-	-	-
+anfangen	-	anfangen	VVINF	VINF.Full.-	no	indirect freeIndirect.speech.10	-	-	-	-
+wollen	-	wollen	VMFIN	VINF.Mod.-	no	indirect freeIndirect.speech.10	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.10	-	-	-	-
+da	-	da	KOUS	CONJ.SubFin.-	no	indirect freeIndirect.speech.10	frame.11	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect freeIndirect.speech.10	frame.11	speaker.11	-	-
+doch	-	doch	ADV	ADV	no	indirect freeIndirect.speech.10	frame.11	-	-	-
+sicher	-	sicher	ADJD	ADJD.Pos	no	indirect freeIndirect.speech.10	frame.11	-	intexpr.11	-
+gewesen	-	sein	VAPP	VPP.Sein.Psp	no	indirect freeIndirect.speech.10	frame.11	-	intexpr.11	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.10	frame.11	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.10	frame.11	-	-	-
+alsbald	-	alsbald	ADV	ADV	no	indirect freeIndirect.speech.10|indirect.thought.11.border=state	-	-	-	-
+verhaftet	-	verhaften	VVPP	VPP.Full.Psp	no	indirect freeIndirect.speech.10|indirect.thought.11.border=state	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect freeIndirect.speech.10|indirect.thought.11.border=state	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	indirect freeIndirect.speech.10|indirect.thought.11.border=state	-	-	-	-
+?	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.10|indirect.thought.11.border=state	-	-	-	-
+Er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	yes	indirect freeIndirect.speech.12	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.12	-	-	-	-
+über	-	über	APPR	APPR.über	no	indirect freeIndirect.speech.12	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect freeIndirect.speech.12	-	-	-	-
+Grenze	-	Grenze	NN	N.Reg.Acc.Sg.Fem	no	indirect freeIndirect.speech.12	-	-	-	-
+gehen	-	gehen	VVINF	VINF.Full.-	no	indirect freeIndirect.speech.12	-	-	-	-
+wollen	-	wollen	VMFIN	VINF.Mod.-	no	indirect freeIndirect.speech.12	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.speech.12	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect freeIndirect.speech.12	-	-	-	-
+da	-	da	ADV	ADV	no	indirect freeIndirect.speech.12	-	-	-	-
+drüben	-	drüben	ADV	ADV	no	indirect freeIndirect.speech.12	-	-	-	-
+müsse	-	müssen	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect freeIndirect.speech.12	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	indirect freeIndirect.speech.12	-	-	-	-
+immer	-	immer	ADV	ADV	no	indirect freeIndirect.speech.12	-	-	-	-
+was	-	was	PIS	PRO.Indef.Subst.-.*.*.Neut	no	indirect freeIndirect.speech.12	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect freeIndirect.speech.12	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect freeIndirect.speech.12	-	-	-	-
+Hand	-	Hand	NN	N.Reg.Dat.Sg.Fem	no	indirect freeIndirect.speech.12	-	-	-	-
+haben	-	haben	VAINF	VINF.Haben.-	no	indirect freeIndirect.speech.12	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.speech.12	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	frame.13	-	-	-
+Untersuchungsrichter	-	Untersuchungsrichter	NN	N.Reg.Nom.Sg.Masc	no	-	frame.13	speaker.13	-	-
+legte	-	legen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.13	-	intexpr.13	-
+ihm	-	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	-	frame.13	-	-	-
+ans	-	an	APPRART	APPRART.Acc.Sg.Neut	no	-	frame.13	-	intexpr.13	-
+Herz	-	Herz	NN	N.Reg.Acc.Sg.Neut	no	-	frame.13	-	intexpr.13	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.13	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech.13	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	indirect.speech.13	frame.14	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect.speech.13	frame.14	speaker.14	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	indirect.speech.13	frame.14	-	-	-
+angeben	-	angeben	VVINF	VINF.Full.-	no	indirect.speech.13	frame.14	-	intexpr.14	-
+wolle	-	wollen	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect.speech.13	frame.14	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech.13	frame.14	-	-	-
+wo	-	wo	PWAV	PROADV.Inter	yes	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	yes	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+Einbruch	-	Einbruch	NN	N.Reg.Acc.Sg.Masc	no	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+verübt	-	verüben	VVPP	VPP.Full.Psp	no	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+habe	-	haben	VAFIN	VFIN.Haben.1.Sg.Pres.Ind	no	indirect.speech.13|indirect.speech.14.nonfact	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech.13	-	-	-	-
+sein	-	sein	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Masc	no	indirect.speech.13	-	-	-	-
+Kopf	-	Kopf	NN	N.Reg.Nom.Sg.Masc	no	indirect.speech.13	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	indirect.speech.13	-	-	-	-
+schon	-	schon	ADV	ADV	no	indirect.speech.13	-	-	-	-
+als	-	als	KOKOM	APPR.Als	no	indirect.speech.13	-	-	-	-
+abgetan	-	abtun	VVPP	ADJD.Pos	no	indirect.speech.13	-	-	-	-
+betrachten	-	betrachten	VVINF	VINF.Full.-	no	indirect.speech.13	-	-	-	-
+könne	-	können	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect.speech.13	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech.13	-	-	-	-
+Aber	-	aber	KON	CONJ.Coord.Aber	yes	-	-	-	-	-
+auch	-	auch	ADV	ADV	no	-	-	-	-	-
+das	-	der	PDS	PRO.Dem.Subst.-.Acc.Sg.Neut	no	-	-	-	-	-
+half	-	helfen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+nichts	-	nichts	PIS	PRO.Indef.Subst.-.*.*.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Noch	-	noch	ADV	ADV	yes	-	-	-	-	-
+an	-	an	APPR	APPR.An	no	-	-	-	-	-
+demselben	-	derselbe	PDAT	PRO.Dem.Attr.-.Dat.Sg.Masc	no	-	-	-	-	-
+Tag	-	Tag	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+wurde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	-	-	-	-	-
+zwei	-	zwei	CARD	CARD	no	-	-	-	-	-
+Gendarmen	-	Gendarm	NN	N.Reg.Dat.Pl.Masc	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+einen	-	ein	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+Bretterwagen	-	Bretterwagen	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+gesetzt	-	setzen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	-	-	-	-	-
+zwei	-	zwei	CARD	CARD	no	-	-	-	-	-
+Meilen	-	Meile	NN	N.Reg.Acc.Pl.Fem	no	-	-	-	-	-
+weit	-	weit	ADJD	ADJD.Pos	no	-	-	-	-	-
+zur	-	zu	APPRART	APPRART.Dat.Sg.Fem	no	-	-	-	-	-
+Mordstätte	-	Mordstätte	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+gefahren	-	fahren	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Das	-	der	ART	ART.Def.Nom.Sg.Neut	yes	-	-	-	-	-
+Publikum	-	Publikum	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Heydekrug	-	Heydekrug	NE	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+sammelte	-	sammeln	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+am	-	an	APPRART	APPRART.Dat.Sg.Masc	no	-	-	-	-	-
+Weg	-	Weg	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+starrte	-	starren	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ihn	-	ihn	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	-	-	-	-	-
+an	-	an	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Das	-	der	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	yes	-	-	-	-	-
+schien	-	scheinen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ihm	-	ihm	PPER	PRO.Pers.Subst.3.Dat.Sg.Masc	no	-	-	-	-	-
+großen	-	groß	ADJA	ADJA.Pos.Acc.Sg.Masc	no	-	-	-	-	-
+Spaß	-	Spaß	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	-	-	-	-	-
+machen	-	machen	VVINF	VINF.Full.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Grigas	-	Grigas	NE	N.Name.Nom.Sg.*	yes	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Eve	-	Eve	NE	N.Name.Nom.Sg.Fem	no	-	-	-	-	-
+empfingen	-	empfingen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Gerichtskommission	-	Gerichtskommission	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+dienstfertigen	-	dienstfertig	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	-	-	-	-
+Würde	-	Werden	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	-	-	-	-	-
+guten	-	gut	ADJA	ADJA.Pos.Gen.Sg.Neut	no	-	-	-	-	-
+Gewissens	-	Gewissen	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Fem	no	-	-	-	-	-
+heftig	-	heftig	ADJD	ADJD.Pos	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Verlegenheit	-	Verlegenheit	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+umschlug	-	umschlagen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+als	-	als	KOUS	CONJ.SubFin.-	no	reported.speech.15	-	-	-	-
+ihnen	-	ihnen	PPER	PRO.Pers.Subst.3.Dat.Pl.*	no	reported.speech.15	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Masc	no	reported.speech.15	-	-	-	-
+näheren	-	nah	ADJA	ADJA.Comp.Nom.Pl.Masc	no	reported.speech.15	-	-	-	-
+Umstände	-	Umstand	NN	N.Reg.Nom.Pl.Masc	no	reported.speech.15	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.speech.15	-	-	-	-
+frühmorgendlichen	-	frühmorgendlich	ADJA	ADJA.Pos.Gen.Sg.Fem	no	reported.speech.15	-	-	-	-
+Heimkunft	-	Heimkunft	NN	N.Reg.Gen.Sg.Fem	no	reported.speech.15	-	-	-	-
+abgefragt	-	abfragen	VVPP	VPP.Full.Psp	no	reported.speech.15	-	-	-	-
+wurden	-	werden	VAFIN	VFIN.Aux.3.Pl.Past.Ind	no	reported.speech.15	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.15	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	-	-	-	-
+Tatbestand	-	Tatbestand	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+klar	-	klar	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	-	-	-	-
+Bruch	-	Bruch	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Fensterscheibe	-	Fensterscheibe	NN	N.Reg.Gen.Sg.Fem	no	-	-	-	-	-
+schien	-	scheinen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+einen	-	ein	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+Schrotschuß	-	Schrotschuß	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+hinzuweisen	-	hinweisen	VVIZU	VINF.Full.zu	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+obwohl	-	obwohl	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+nur	-	nur	ADV	ADV	no	-	-	-	-	-
+eine	-	ein	ART	ART.Indef.Nom.Sg.Fem	yes	-	-	-	-	-
+Wunde	-	Wunde	ADJA	ADJA.Pos.Nom.Sg.Fem	yes	-	-	-	-	-
+–	-	–	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+dicht	-	dicht	ADJD	ADJD.Pos	no	-	-	-	-	-
+über	-	über	APPR	APPR.über	no	-	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	-	-	-	-	-
+Herzen	-	Herz	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+–	-	–	NN	CARD	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+vorfand	-	vorfinden	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Genaueres	-	Genauere	NN	N.Reg.Nom.Sg.Neut	yes	-	-	-	-	-
+festzustellen	-	feststellen	VVIZU	VINF.Full.zu	no	-	-	-	-	-
+blieb	-	bleiben	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Leichenöffnung	-	Leichenöffnung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+vorbehalten	-	vorbehalten	VVPP	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Fußspuren	-	Fußspur	NN	N.Reg.Nom.Pl.Fem	yes	-	-	-	-	-
+ließen	-	lassen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Pl.*	no	-	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	-	-	-	-	-
+entdecken	-	entdecken	VVINF	VINF.Full.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Als	-	als	KOUS	CONJ.SubFin.-	yes	-	-	-	-	-
+Miks	-	Mik	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+Bumbullis	-	Bumbullis	NN	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+vor	-	vor	APPR	APPR.Vor	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Leiche	-	Leiche	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+geführt	-	führen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+wurde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+tasteten	-	tasten	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Neut	no	-	-	-	-	-
+halbes	-	halb	ADJA	ADJA.Pos.Nom.Sg.Neut	no	-	-	-	-	-
+Dutzend	-	Dutzend	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+Augenpaare	-	Augenpaar	NN	N.Reg.Nom.Pl.Neut	no	-	-	-	-	-
+gierig	-	gierig	ADJD	ADJD.Pos	no	-	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	-	-	-	-	-
+seinem	-	sein	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Neut	no	-	-	-	-	-
+Angesicht	-	Angesicht	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	-	-	-	-
+große	-	groß	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Augenblick	-	Augenblick	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	-	-	-	-	-
+so	-	so	ADV	ADV	no	-	-	-	-	-
+manches	-	mancher	PIAT	PRO.Indef.Attr.-.Acc.Sg.Neut	no	-	-	-	-	-
+Geständnis	-	Geständnis	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+aus	-	aus	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Seele	-	Seele	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+reißt	-	reißen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+verging	-	vergehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ungenutzt	-	ungenutzt	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Ruhevoll	-	Ruhevoll	ADJD	N.Reg.Nom.Sg.Neut	yes	-	-	-	-	-
+–	-	–	ADJD	CARD	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.*.*.*	no	-	-	-	-	-
+wenig	-	wenig	PIS	PRO.Indef.Attr.-.*.*.*	no	-	-	-	-	-
+neugierig	-	neugierig	ADJD	ADJD.Pos	no	-	-	-	-	-
+fast	-	fast	ADV	ADV	no	-	-	-	-	-
+–	-	–	ADJD	CARD	no	-	-	-	-	-
+blickte	-	blicken	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+Miks	-	Mik	NE	N.Name.Nom.Sg.*	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	-	-	-	-	-
+Körper	-	Körper	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+nieder	-	nieder	ADJD	PART.Verb	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sah	-	sehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+dann	-	dann	ADV	ADV	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+als	-	als	KOUS	CONJ.Comp.-	no	-	-	-	-	-
+suche	-	suchen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	-	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	-	-	-	-
+irgend	-	irgend	ADV	ADV	no	-	-	-	-	-
+etwas	-	etwas	PIS	PRO.Indef.Subst.-.*.*.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Stube	-	Stube	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+um	-	um	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Pl.Fem	yes	reported.speech.16	-	-	-	-
+üblichen	-	üblich	ADJA	ADJA.Pos.Nom.Pl.Fem	no	reported.speech.16	-	-	-	-
+Vorhaltungen	-	Vorhaltung	NN	N.Reg.Nom.Pl.Fem	no	reported.speech.16	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Acc.Pl.Fem	no	reported.speech.17	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+Dolmetsch	-	Dolmetsch	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Masc	no	-	-	-	-	-
+kluger	-	kluger	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+kleiner	-	klein	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Mann	-	Mann	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Seele	-	Seele	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	-	-	-	-	-
+fremden	-	fremd	ADJA	ADJA.Pos.Gen.Sg.Neut	no	-	-	-	-	-
+Volkes	-	Volk	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	-	-	-	-	-
+lesen	-	lesen	VVINF	VINF.Full.-	no	-	-	-	-	-
+gewohnt	-	wohnen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+noch	-	noch	ADV	ADV	no	reported.speech.17	-	-	-	-
+eindrucksvoller	-	eindrucksvoll	ADJD	ADJD.Comp	no	reported.speech.17	-	-	-	-
+übersetzte	-	übersetzen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+verhallten	-	verhallen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+ungehört	-	ungehört	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+»	-	»	$(	N.Reg.Acc.Sg.Neut	yes	direct.speech.18	-	-	-	-
+Ich	-	ich	PPER	PRO.Pers.Subst.1.Nom.Sg.*	no	direct.speech.18	-	-	-	-
+weiß	-	weiß	VVFIN	VFIN.Full.1.Sg.Pres.Ind	no	direct.speech.18	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	direct.speech.18	-	-	-	-
+rein	-	rein	ADV	ADV	no	direct.speech.18	-	-	-	-
+gar	-	gar	ADV	ADV	no	direct.speech.18	-	-	-	-
+nuscht	-	nuschen	VVFIN	VPP.Full.Psp	no	direct.speech.18	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.18	-	-	-	-
+«	-	«	$(	CARD	no	direct.speech.18	-	-	-	-
+blieb	-	bleiben	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.18	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	frame.18	-	-	-
+einzige	-	einzig	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	frame.18	-	-	-
+Antwort	-	Antwort	NN	N.Reg.Nom.Sg.Fem	no	-	frame.18	-	intexpr.18	-
+.	-	--	$.	SYM.Pun.Sent	no	-	frame.18	-	-	-
+Nur	-	nur	ADV	ADV	yes	-	-	-	-	-
+als	-	als	KOKOM	CONJ.Comp.-	no	-	-	-	-	-
+hierauf	-	hierauf	PAV	PROADV.Dem	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+kleine	-	klein	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	-	-	-	-
+Anikke	-	Anikke	NE	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+weinend	-	weinend	ADJD	ADJD.Pos	no	-	-	-	-	-
+hereingeführt	-	hereinführen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+wurde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+flog	-	fliegen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Masc	no	-	-	-	-	-
+Schein	-	Schein	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+wie	-	wie	KOKOM	CONJ.Comp.-	no	-	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	-	-	-	-	-
+plötzlicher	-	plötzlich	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	-	-	-	-
+Ermüdung	-	Ermüdung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+über	-	über	APPR	APPR.über	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Masc	no	-	-	-	-	-
+gestrafften	-	gestrafft	ADJA	ADJA.Pos.Acc.Pl.Masc	no	-	-	-	-	-
+Züge	-	Zug	NN	N.Reg.Acc.Pl.Masc	no	-	-	-	-	-
+–	-	–	NN	CARD	no	-	-	-	-	-
+einen	-	ein	ART	ART.Indef.Acc.Sg.Masc	no	-	-	-	-	-
+Augenblick	-	Augenblick	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+nur	-	nur	ADV	ADV	no	-	-	-	-	-
+–	-	–	ADJD	CARD	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+dann	-	dann	ADV	ADV	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	-	-	-	-
+wieder	-	wieder	ADV	ADV	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+alte	-	alt	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Aus	-	Aus	APPR	APPR.Dat	yes	-	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	-	-	-	-	-
+Kind	-	Kind	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+ließ	-	lassen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+wie	-	wie	KOUS	CONJ.Comp.-	no	-	-	-	-	-
+natürlich	-	natürlich	ADV	ADV	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+vor	-	vor	APPR	APPR.Vor	no	-	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Masc	no	-	-	-	-	-
+fremden	-	fremd	ADJA	ADJA.Pos.Dat.Pl.Masc	no	-	-	-	-	-
+Männern	-	Mann	NN	N.Reg.Dat.Pl.Masc	no	-	-	-	-	-
+nichts	-	nichts	PIS	PRO.Indef.Subst.-.*.*.Neut	no	-	-	-	-	-
+herausbringen	-	herausbringen	VVINF	VINF.Full.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-

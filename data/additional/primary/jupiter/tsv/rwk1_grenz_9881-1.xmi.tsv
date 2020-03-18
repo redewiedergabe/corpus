@@ -1,0 +1,582 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+Ein	-	ein	ART	ART.Indef.Nom.Sg.Neut	yes	-	frame.1	-	-	note
+kaiserliches	-	kaiserlich	ADJA	ADJA.Pos.Nom.Sg.Neut	no	-	frame.1	-	-	note
+Münzprivilegium	-	Münzprivilegium	NN	N.Reg.Nom.Sg.Neut	no	-	frame.1	speaker.1	-	note
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	-	frame.1	-	-	note
+21.	-	21.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	-	frame.1	-	-	note
+Februar	-	Februar	NN	N.Reg.Dat.Sg.Masc	no	-	frame.1	-	-	note
+1654	-	1654	CARD	CARD	no	-	frame.1	-	-	note
+ertheilte	-	ertheilen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	frame.1	-	intexpr.1	note
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	-	frame.1	-	-	note
+Grafen	-	Graf	NN	N.Reg.Dat.Sg.Masc	no	-	frame.1	-	-	note
+Anton	-	Anton	NE	N.Name.Nom.Sg.Masc	no	-	frame.1	-	-	note
+I.	-	I.	NE	N.Name.Nom.Sg.Masc	no	-	frame.1	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	-	frame.1	-	-	note
+allen	-	aller	PIAT	PRO.Indef.Subst.-.Dat.Pl.Masc	no	-	frame.1	-	-	note
+seinen	-	sein	PPOSAT	PRO.Poss.Attr.-.Dat.Pl.Masc	no	-	frame.1	-	-	note
+Nachfolgern	-	Nachfolger	NN	N.Reg.Dat.Pl.Masc	no	-	frame.1	-	-	note
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	-	frame.1	-	-	note
+Recht	-	Recht	NN	N.Reg.Acc.Sg.Neut	no	-	frame.1	-	intexpr.1	note
+:	-	--	$.	SYM.Pun.Colon	no	-	frame.1	-	-	note
+„Eine	-	„eine	NN	N.Reg.Acc.Sg.Fem	no	direct.speech.1|reported.speech writing.2.nonfact	-	-	-	note
+oder	-	oder	KON	CONJ.Coord.-	no	direct.speech.1|reported.speech writing.2.nonfact	-	-	-	note
+mehrere	-	mehrere	PIAT	PRO.Indef.Attr.-.Acc.Pl.Fem	no	direct.speech.1|reported.speech writing.2.nonfact	-	-	-	note
+Münzstätten	-	Münzstätte	NN	N.Reg.Acc.Pl.Fem	no	direct.speech.1|reported.speech writing.2.nonfact	-	-	-	note
+anordnen	-	anordnen	VVINF	VINF.Full.-	no	direct.speech.1|reported.speech writing.2.nonfact	-	-	-	note
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	note
+bauen	-	bauen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+aufrichten	-	aufrichten	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech.1	-	-	-	note
+lassen	-	lassen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+darin	-	darin	PAV	PROADV.Dem	no	direct.speech.1	-	-	-	note
+durch	-	durch	APPR	APPR.Acc	no	direct.speech.1	-	-	-	note
+ihre	-	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Pl.Masc	no	direct.speech.1	-	-	-	note
+ehrbaren	-	ehrbar	ADJA	ADJA.Pos.Acc.Pl.Masc	no	direct.speech.1	-	-	-	note
+Münzmeister	-	Münzmeister	NN	N.Reg.Acc.Pl.Masc	no	direct.speech.1	-	-	-	note
+allerlei	-	allerlei	PIAT	PRO.Indef.Attr.-.*.*.*	no	direct.speech.1	-	-	-	note
+güldene	-	gülden	ADJA	ADJA.Pos.Acc.Pl.Fem	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+silberne	-	silbern	ADJA	ADJA.Pos.Acc.Pl.Fem	no	direct.speech.1	-	-	-	note
+Münzsorten	-	Münzsort	NN	N.Reg.Acc.Pl.Fem	no	direct.speech.1	-	-	-	note
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	note
+klein	-	klein	ADJD	ADJD.Pos	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+groß	-	groß	ADJD	ADJD.Pos	no	direct.speech.1	-	-	-	note
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech.1	-	-	-	note
+münzen	-	münzen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	note
+mit	-	mit	APPR	APPR.Dat	no	direct.speech.1	-	-	-	note
+Umschriften	-	Umschrift	NN	N.Reg.Dat.Pl.Neut	no	direct.speech.1	-	-	-	note
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	note
+Bildnissen	-	Bildnis	NN	N.Reg.Dat.Pl.Neut	no	direct.speech.1	-	-	-	note
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	note
+Wappen	-	Wappen	NN	N.Reg.Dat.Pl.Neut	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+Geprägen	-	Geprag	NN	N.Reg.Dat.Pl.Masc	no	direct.speech.1	-	-	-	note
+auf	-	auf	APPR	APPR.Auf	no	direct.speech.1	-	-	-	note
+beiden	-	beide	PIAT	PRO.Indef.Attr.-.Acc.Pl.Fem	no	direct.speech.1	-	-	-	note
+Seiten	-	Seite	NN	N.Reg.Acc.Pl.Fem	no	direct.speech.1	-	-	-	note
+münzen	-	münzen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+und	-	und	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	note
+schlagen	-	schlagen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech.1	-	-	-	note
+lassen	-	lassen	VVINF	VINF.Full.-	no	direct.speech.1	-	-	-	note
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech.1	-	-	-	note
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	yes	direct.speech.1	-	-	-	-
+sicher	-	sicher	ADJD	ADJD.Pos	no	direct.speech.1	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	direct.speech.1	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	direct.speech.1	-	-	-	-
+Schutze	-	Schutz	NN	N.Reg.Dat.Sg.Masc	no	direct.speech.1	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	direct.speech.1	-	-	-	-
+nur	-	nur	ADV	ADV	no	direct.speech.1	-	-	-	-
+ihrer	-	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Fem	no	direct.speech.1	-	-	-	-
+eigenen	-	eigen	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.speech.1	-	-	-	-
+daheim	-	daheim	ADV	ADV	no	direct.speech.1	-	-	-	-
+gebliebenen	-	geblieben	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.speech.1	-	-	-	-
+Armee	-	Armee	NN	N.Reg.Gen.Sg.Fem	no	direct.speech.1	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech.1	-	-	-	-
+sondern	-	sondern	KON	CONJ.Coord.-	no	direct.speech.1	-	-	-	-
+auch	-	auch	ADV	ADV	no	direct.speech.1	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Masc	no	direct.speech.1	-	-	-	-
+dänischen	-	dänisch	ADJA	ADJA.Pos.Gen.Sg.Masc	no	direct.speech.1	-	-	-	-
+Hilfs-Korps	-	Hilfs-Korps	NN	N.Reg.Gen.Sg.Masc	no	direct.speech.1	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech.1	-	-	-	-
+Zu	-	zu	APPR	APPR.Dat	yes	-	-	-	-	-
+dieser	-	dieser	PDAT	PRO.Dem.Attr.-.Dat.Sg.Fem	no	-	-	-	-	-
+Zeit	-	Zeit	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+residirte	-	residiren	NN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+regierende	-	regierend	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Graf	-	Graf	NE	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+Bentinck	-	Bentinck	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Brüssel	-	Brüssel	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+sein	-	sein	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Masc	no	-	-	-	-	-
+Regierungsbevollmächtigter	-	regierungsbevollmächtigter	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+Justizrath	-	Justizrath	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+Wardenburg	-	Wardenburg	NE	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+hatte	-	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	-	-	-	-	-
+sein	-	sein	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Neut	no	-	-	-	-	-
+Domicil	-	Domicil	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Oldenburg	-	Oldenburg	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+während	-	während	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+Burg	-	Burg	NN	N.Name.Nom.Sg.Masc	no	-	-	-	-	-
+Kniphausen	-	Kniphausen	NN	N.Name.Acc.Sg.Masc	no	-	-	-	-	-
+eine	-	ein	ART	ART.Indef.Nom.Sg.Fem	no	-	-	-	-	-
+Regierungs-Kanzlei	-	Regierungs-Kanzlei	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+eine	-	ein	ART	ART.Indef.Nom.Sg.Fem	no	-	-	-	-	-
+Finanz-Kammer	-	Finanz-Kammer	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Neut	no	-	-	-	-	-
+Landgericht	-	Landgericht	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+als	-	als	KOKOM	APPR.Als	no	-	-	-	-	-
+höchste	-	hoch	ADJA	ADJA.Sup.Acc.Sg.Fem	no	-	-	-	-	-
+Justizinstanz	-	Justizinstanz	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Acc.Sg.Neut	no	-	-	-	-	-
+Revisionsgericht	-	Revisionsgericht	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+ihren	-	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Masc	no	-	-	-	-	-
+Sitz	-	Sitz	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+hatten	-	haben	VAFIN	VFIN.Haben.3.Pl.Past.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Von	-	von	APPR	APPR.Dat	yes	reported.thought.3.nonfact.border=state	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	reported.thought.3.nonfact.border=state	-	-	-	-
+jetzigen	-	jetzig	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.thought.3.nonfact.border=state	-	-	-	-
+Arbeitsteilung	-	Arbeitsteilung	NN	N.Reg.Dat.Sg.Fem	no	reported.thought.3.nonfact.border=state	-	-	-	-
+hatte	-	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	reported.thought.3.nonfact.border=state	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	reported.thought.3.nonfact.border=state	-	-	-	-
+damals	-	damals	ADV	ADV	no	reported.thought.3.nonfact.border=state	-	-	-	-
+natürlich	-	natürlich	ADV	ADV	no	reported.thought.3.nonfact.border=state	-	-	-	-
+noch	-	noch	ADV	ADV	no	reported.thought.3.nonfact.border=state	-	-	-	-
+keinen	-	kein	PIAT	PRO.Indef.Attr.-.Acc.Sg.Masc	no	reported.thought.3.nonfact.border=state	-	-	-	-
+Begriff	-	Begriff	NN	N.Reg.Acc.Sg.Masc	no	reported.thought.3.nonfact.border=state	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+Verwaltung	-	Verwaltung	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Justiz	-	Justiz	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+gingen	-	gehen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+einträchtiglich	-	einträchtiglich	ADJD	ADJD.Pos	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+einander	-	einander	PRF	PRO.Refl.Subst.3.Dat.Pl.*	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+das	-	der	ART	ART.Def.Nom.Sg.Neut	no	-	-	-	-	-
+Kollegium	-	Kollegium	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	-	-	-	-	-
+Revisionsgerichtes	-	Revisionsgericht	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+dürfte	-	dürfen	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	-	-	-	-	-
+wohl	-	wohl	ADV	ADV	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+dem	-	der	ART	PRO.Dem.Subst.-.Dat.Sg.Neut	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	-	-	-	-	-
+Landgerichtes	-	Landgericht	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+identisch	-	identisch	ADJD	ADJD.Pos	no	-	-	-	-	-
+gewesen	-	sein	VAPP	VPP.Sein.Psp	no	-	-	-	-	-
+sein	-	sein	VAINF	VINF.Sein.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Da	-	da	KOUS	CONJ.SubFin.-	yes	reported.thought.4	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.thought.4	-	-	-	-
+Burg	-	Burg	NN	N.Reg.Nom.Sg.Fem	no	reported.thought.4	-	-	-	-
+Kniphausen	-	Kniphausen	NN	N.Name.Nom.Sg.*	no	reported.thought.4	-	-	-	-
+als	-	als	KOKOM	APPR.Als	no	reported.thought.4	-	-	-	-
+Festung	-	Festung	NN	N.Reg.Nom.Sg.Fem	no	reported.thought.4	-	-	-	-
+galt	-	gelten	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.thought.4	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+so	-	so	ADV	ADV	no	-	-	-	-	-
+durfte	-	dürfen	VMFIN	VFIN.Mod.3.Sg.Past.Ind	no	-	-	-	-	-
+bei	-	bei	APPR	APPR.Dat	no	-	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	-	-	-	-	-
+unruhigen	-	unruhig	ADJA	ADJA.Pos.Dat.Pl.Fem	no	-	-	-	-	-
+Kriegsläuften	-	Kriegsläuft	NN	N.Reg.Dat.Pl.Fem	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+Besatzung	-	Besatzung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+um	-	um	APPR	APPR.Acc	no	-	-	-	-	-
+so	-	so	ADV	ADV	no	-	-	-	-	-
+weniger	-	weniger	PIS	PRO.Indef.Subst.-.*.*.*	no	-	-	-	-	-
+fehlen	-	fehlen	VVINF	VINF.Full.-	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+als	-	als	KOUS	CONJ.Comp.-	no	reported.thought.5	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	reported.thought.5	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	reported.thought.5	-	-	-	-
+Graf	-	Graf	NN	N.Reg.Nom.Sg.Masc	no	reported.thought.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.5	-	-	-	-
+wie	-	wie	KOUS	PROADV.Inter	no	reported.thought.5|reported.writing.6	-	-	-	-
+bereits	-	bereits	ADV	ADV	no	reported.thought.5|reported.writing.6	-	-	-	-
+oben	-	oben	ADV	ADV	no	reported.thought.5|reported.writing.6	-	-	-	-
+angedeutet	-	andeuten	VVPP	VPP.Full.Psp	no	reported.thought.5|reported.writing.6	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.5	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	reported.thought.5	-	-	-	-
+seiner	-	sein	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Fem	no	reported.thought.5	-	-	-	-
+geschiedenen	-	geschieden	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.thought.5	-	-	-	-
+Gemahlin	-	Gemahlin	NN	N.Reg.Dat.Sg.Fem	no	reported.thought.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.5	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Sg.Fem	no	reported.thought.5	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.thought.5	-	-	-	-
+unbequemer	-	unbequem	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.thought.5	-	-	-	-
+Nachbarschaft	-	Nachbarschaft	NN	N.Reg.Dat.Sg.Fem	no	reported.thought.5	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	reported.thought.5	-	-	-	-
+Jever	-	Jever	NE	N.Name.Dat.Sg.Neut	no	reported.thought.5	-	-	-	-
+residirte	-	residiren	NN	VFIN.Full.3.Sg.Past.Ind	no	reported.thought.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.5	-	-	-	-
+nichts	-	nichts	PIAT	PRO.Indef.Attr.-.*.*.Neut	no	reported.thought.5	-	-	-	-
+Gutes	-	gut	NN	N.Reg.Acc.Sg.Neut	no	reported.thought.5	-	-	-	-
+versah	-	versehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.thought.5	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.thought.5	-	-	-	-
+Zu	-	zu	APPR	APPR.Dat	yes	-	-	-	-	-
+diesem	-	dieser	PDAT	PRO.Dem.Attr.-.Dat.Sg.Masc	no	-	-	-	-	-
+Zwecke	-	Zweck	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+hielt	-	halten	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+Kniphausen	-	Kniphausen	NN	N.Reg.Acc.Pl.Fem	no	-	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	-	-	-	-	-
+eigene	-	eigen	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	-	-	-	-
+Truppe	-	Truppe	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.7	-	-	-	-
+sogenannte	-	sogenannter	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech.7	-	-	-	-
+Burg-Milice	-	Burg-Milice	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.7	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+welche	-	welcher	PRELS	PRO.Rel.Subst.-.Nom.Sg.Fem	no	-	-	-	-	-
+seit	-	seit	APPR	APPR.Dat	no	-	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	-	-	-	-	-
+Jahre	-	Jahr	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+1756	-	1756	CARD	CARD	no	-	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	-	-	-	-	-
+ein	-	ein	ART	ART.Indef.Acc.Sg.Neut	no	-	-	-	-	-
+dänisches	-	dänisch	ADJA	ADJA.Pos.Acc.Sg.Neut	no	-	-	-	-	-
+Kommando	-	Kommando	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+1	-	1	CARD	CARD	no	-	-	-	-	-
+Offizier	-	Offizier	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+1	-	1	CARD	CARD	no	-	-	-	-	-
+Unteroffizier	-	Unteroffizier	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+12	-	12	CARD	CARD	no	-	-	-	-	-
+Mann	-	Mann	NN	N.Reg.*.*.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+verstärkt	-	verstärken	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+worden	-	werden	VAPP	VPP.Aux.Psp	no	-	-	-	-	-
+war	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Was	-	was	PWS	PRO.Inter.Subst.-.Acc.Sg.Neut	yes	reported.writing.8	-	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.writing.8	-	-	-	-
+zunächst	-	zunächst	ADV	ADV	no	reported.writing.8	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	reported.writing.8	-	-	-	-
+dieser	-	dieser	PDAT	PRO.Dem.Attr.-.Dat.Sg.Fem	no	reported.writing.8	-	-	-	-
+dänischen	-	dänisch	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.writing.8	-	-	-	-
+Besatzung	-	Besatzung	NN	N.Reg.Dat.Sg.Fem	no	reported.writing.8	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	reported.writing.8	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	reported.writing.8	-	-	-	-
+Bewandniß	-	Bewandniß	NN	N.Reg.Acc.Sg.Fem	no	reported.writing.8	-	-	-	-
+hatte	-	haben	VAFIN	VFIN.Haben.3.Sg.Past.Ind	no	reported.writing.8	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.writing.8	-	-	-	-
+geht	-	gehen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.writing.8	-	-	-	-
+aus	-	aus	APPR	APPR.Dat	no	reported.writing.8	-	-	-	-
+einem	-	ein	ART	ART.Indef.Dat.Sg.Neut	no	reported.writing.8	-	-	-	-
+Schreiben	-	Schreiben	NN	N.Reg.Dat.Sg.Neut	no	reported.writing.8	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.writing.8	-	-	-	-
+Justizraths	-	Justizrath	NN	N.Name.Gen.Sg.Masc	no	reported.writing.8	-	-	-	-
+Wardenburg	-	Wardenburg	NN	N.Name.Nom.Sg.Neut	no	reported.writing.8	-	-	-	-
+an	-	an	APPR	APPR.An	no	reported.writing.8	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.writing.8	-	-	-	-
+regierenden	-	regierend	ADJA	ADJA.Pos.Acc.Sg.Masc	no	reported.writing.8	-	-	-	-
+Grafen	-	Graf	NN	N.Reg.Acc.Sg.Masc	no	reported.writing.8	-	-	-	-
+Bentinck	-	Bentinck	NE	N.Name.Nom.Sg.Masc	no	reported.writing.8	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	reported.writing.8	-	-	-	-
+18.	-	18.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.writing.8	-	-	-	-
+Februar	-	Februar	NN	N.Reg.Dat.Sg.Masc	no	reported.writing.8	-	-	-	-
+1763	-	1763	CARD	CARD	no	reported.writing.8	-	-	-	-
+hervor	-	hervor	PTKVZ	PART.Verb	no	reported.writing.8	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.writing.8	-	-	-	-
+Darin	-	darin	PAV	PROADV.Dem	yes	-	frame.9	-	-	-
+heißt	-	heißen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	frame.9	-	intexpr.9	-
+es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	-	frame.9	-	intexpr.9	-
+wörtlich	-	wörtlich	ADJD	ADJD.Pos	no	-	frame.9	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	-	frame.9	-	-	-
+„So	-	„so	ADV	CARD	no	direct.writing.9	-	-	-	-
+lange	-	lange	ADV	ADV	no	direct.writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+Frau	-	Frau	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	direct.writing.9	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	direct.writing.9	-	-	-	-
+Jever	-	Jever	NE	N.Name.Dat.Sg.Neut	no	direct.writing.9	-	-	-	-
+aufhalten	-	aufhalten	VVFIN	VINF.Full.-	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+welches	-	welcher	PWAT	PRO.Rel.Subst.-.Nom.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+wie	-	wie	KOKOM	CONJ.Comp.-	no	direct.writing.9	frame.10	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	direct.writing.9	frame.10	-	-	-
+scheint	-	scheinen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct.writing.9	frame.10	-	intexpr.10	-
+bis	-	bis	KON	APPR.Bis	no	direct.writing.9|indirect.thought.10	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Absterben	-	absterben	NN	N.Reg.Dat.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Ihrer	-	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Fem	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Hochgräflichen	-	hochgräflich	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Durchlaucht	-	Durchlaucht	NN	N.Reg.Gen.Sg.Fem	no	direct.writing.9|indirect.thought.10	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	direct.writing.9|indirect.thought.10	-	-	-	-
+jedenfalls	-	jedenfalls	ADV	ADV	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Prinzessin	-	Prinzessin	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9|indirect.thought.10	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	direct.writing.9|indirect.thought.10	-	-	-	-
+Anhalt-Zerbst	-	Anhalt-Zerbst	NN	N.Name.Dat.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	direct.writing.9|indirect.thought.10	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+wenigsten	-	wenigster	PIS	ADJA.Sup.Dat.Sg.Neut	no	direct.writing.9|indirect.thought.10	-	-	-	-
+dauern	-	dauern	VVINF	VINF.Full.-	no	direct.writing.9|indirect.thought.10	-	-	-	-
+wird	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Ind	no	direct.writing.9|indirect.thought.10	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+müssen	-	müssen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	direct.writing.9	-	-	-	-
+Euer	-	euer	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+Hochgräfliche	-	hochgräflich	ADJA	N.Reg.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+Exellenz	-	Exellenz	NN	N.Name.Nom.Sg.*	no	direct.writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+Königlich	-	königlich	ADJD	ADJD.Pos	no	direct.writing.9	-	-	-	-
+Dänische	-	dänisch	ADJA	ADJA.Pos.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+Kommando	-	Kommando	NN	N.Reg.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	direct.writing.9	-	-	-	-
+Kniephausen	-	Kniephausen	NN	N.Reg.Dat.Pl.Masc	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	direct.writing.9	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Masc	no	direct.writing.9	-	-	-	-
+etwa	-	etwa	ADV	ADV	no	direct.writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.writing.9	-	-	-	-
+besorgenden	-	besorgend	ADJA	ADJA.Pos.Gen.Sg.Masc	no	direct.writing.9	-	-	-	-
+Ueberfalls	-	Ueberfalls	NN	N.Reg.Gen.Sg.Masc	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	direct.writing.9	-	-	-	-
+großen	-	groß	ADJA	ADJA.Pos.Dat.Pl.Fem	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+jährlich	-	jährlich	ADJD	ADJD.Pos	no	direct.writing.9	-	-	-	-
+an	-	an	APPR	APPR.An	no	direct.writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	direct.writing.9	-	-	-	-
+1500	-	1500	CARD	CARD	no	direct.writing.9	-	-	-	-
+Thaler	-	Thaler	NN	ADJA.Pos.*.*.*	no	direct.writing.9	-	-	-	-
+steigenden	-	steigend	ADJA	ADJA.Pos.Acc.Pl.*	no	direct.writing.9	-	-	-	-
+Kosten	-	Kosten	NN	N.Reg.Acc.Pl.*	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+unterhalten	-	unterhalten	VVPP	VINF.Full.-	no	direct.writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.writing.9	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	direct.writing.9	-	-	-	-
+könnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+aber	-	aber	ADV	ADV	no	direct.writing.9	-	-	-	-
+diese	-	dieser	PDAT	PRO.Dem.Attr.-.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+jährliche	-	jährlich	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+Ausgabe	-	Ausgabe	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+erspart	-	ersparen	VVPP	VPP.Full.Psp	no	direct.writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	direct.writing.9	-	-	-	-
+Mittel	-	Mittel	NN	N.Reg.Nom.Pl.Neut	no	direct.writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.writing.9	-	-	-	-
+Wege	-	Weg	NN	N.Reg.Nom.Pl.Masc	no	direct.writing.9	-	-	-	-
+ausfindig	-	ausfindig	ADV	ADJD.Pos	no	direct.writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.writing.9	-	-	-	-
+machen	-	machen	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+wären	-	sein	VAFIN	VFIN.Sein.3.Pl.Past.Subj	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+welche	-	welcher	PRELS	PRO.Inter.Subst.-.Nom.Pl.*	no	direct.writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+Frau	-	Frau	NN	N.Reg.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+determiniren	-	determiniren	NN	VINF.Full.-	no	direct.writing.9	-	-	-	-
+müßten	-	müssen	VMFIN	VFIN.Mod.3.Pl.Past.Subj	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+Ihren	-	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Masc	no	direct.writing.9	-	-	-	-
+dasigen	-	dasig	ADJA	ADJA.Pos.Acc.Sg.Masc	no	direct.writing.9	-	-	-	-
+Aufenthalt	-	Aufenthalt	NN	N.Reg.Acc.Sg.Masc	no	direct.writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.writing.9	-	-	-	-
+verändern	-	verändern	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.writing.9	-	-	-	-
+falls	-	falls	KOUS	CONJ.SubFin.-	no	direct.writing.9	-	-	-	-
+dies	-	dieser	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	direct.writing.9	-	-	-	-
+irgend	-	irgend	ADV	ADV	no	direct.writing.9	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+Art	-	Art	NN	N.Reg.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+zuverlässig	-	zuverlässig	ADJD	ADJD.Pos	no	direct.writing.9	-	-	-	-
+bewerkstelligt	-	bewerkstelligen	VVPP	VPP.Full.Psp	no	direct.writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	direct.writing.9	-	-	-	-
+könnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+müßte	-	müssen	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+meines	-	mein	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Neut	no	direct.writing.9	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	direct.writing.9	-	-	-	-
+thänigen	-	thänig	ADJA	ADJA.Pos.Gen.Sg.Neut	no	direct.writing.9	-	-	-	-
+Ermessens	-	Ermessen	NN	N.Reg.Gen.Sg.Neut	no	direct.writing.9	-	-	-	-
+100	-	100	CARD	CARD	no	direct.writing.9	-	-	-	-
+Pistolen	-	Pistolen	NN	N.Reg.Acc.Pl.Fem	no	direct.writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.writing.9	-	-	-	-
+allenfalls	-	allenfalls	ADV	ADV	no	direct.writing.9	-	-	-	-
+mehr	-	mehr	ADV	PRO.Indef.Subst.-.*.*.*	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+gar	-	gar	ADV	ADV	no	direct.writing.9	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	direct.writing.9	-	-	-	-
+geachtet	-	achten	VVPP	VPP.Full.Psp	no	direct.writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	direct.writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.writing.9	-	-	-	-
+Solchergestalt	-	Solchergestalt	ADV	N.Reg.Nom.Sg.Fem	yes	direct.writing.9	-	-	-	-
+könnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+ganze	-	ganz	ADJA	ADJA.Pos.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	direct.writing.9	-	-	-	-
+Kniephausen	-	Kniephausen	NN	N.Reg.Dat.Pl.Masc	no	direct.writing.9	-	-	-	-
+liegende	-	liegend	ADJA	ADJA.Pos.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+Kommando	-	Kommando	NN	N.Reg.Acc.Sg.Neut	no	direct.writing.9	-	-	-	-
+abgehen	-	abgehen	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.writing.9	-	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+brauchte	-	brauchen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	direct.writing.9	-	-	-	-
+nur	-	nur	ADV	ADV	no	direct.writing.9	-	-	-	-
+an	-	an	APPR	APPR.An	no	direct.writing.9	-	-	-	-
+dessen	-	der	PDS	PRO.Dem.Subst.-.Gen.Sg.Neut	no	direct.writing.9	-	-	-	-
+statt	-	statt	PTKVZ	PART.Verb	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	direct.writing.9	-	-	-	-
+ja	-	ja	ADV	ADV	no	direct.writing.9	-	-	-	-
+alsdann	-	alsdann	VVFIN	ADV	no	direct.writing.9	-	-	-	-
+noch	-	noch	ADV	ADV	no	direct.writing.9	-	-	-	-
+etwas	-	etwas	PIS	PRO.Indef.Subst.-.*.*.Neut	no	direct.writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.writing.9	-	-	-	-
+besorgen	-	besorgen	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+wäre	-	sein	VAFIN	VFIN.Sein.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+etwa	-	etwa	ADV	ADV	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+einige	-	einiger	PIAT	PRO.Indef.Attr.-.Nom.Pl.*	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+Gemeine	-	Gemein	NN	N.Reg.Nom.Pl.*	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+zur	-	zu	APPRART	APPRART.Dat.Sg.Fem	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+Kniphausenschen	-	kniphausensch	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+Burgmilice	-	Burgmilice	NN	N.Reg.Dat.Sg.Fem	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+angeworben	-	aewerben	VVPP	VPP.Full.Psp	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	direct.writing.9|reported.speech writing.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+welches	-	welcher	PWAT	PRO.Rel.Subst.-.Nom.Sg.Neut	no	direct.writing.9	-	-	-	-
+sodann	-	sodann	ADV	ADV	no	direct.writing.9	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	direct.writing.9	-	-	-	-
+geringeren	-	gering	ADJA	ADJA.Comp.Dat.Pl.*	no	direct.writing.9	-	-	-	-
+Kosten	-	Kosten	NN	N.Reg.Dat.Pl.*	no	direct.writing.9	-	-	-	-
+geschehen	-	geschehen	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+könnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.writing.9	-	-	-	-
+Zu	-	zu	PTKZU	PART.Zu	yes	direct.writing.9	-	-	-	-
+geschweigen	-	geschweigen	VVINF	VINF.Full.-	no	direct.writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.writing.9	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	direct.writing.9	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	direct.writing.9	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	direct.writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+Entfernung	-	Entfernung	NN	N.Reg.Acc.Sg.Fem	no	direct.writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.writing.9	-	-	-	-
+Frau	-	Frau	NN	N.Reg.Gen.Sg.Fem	no	direct.writing.9	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Nom.Sg.Fem	no	direct.writing.9	-	-	-	-
+vielerlei	-	vielerlei	ADJD	PRO.Indef.Attr.-.*.*.*	no	direct.writing.9	-	-	-	-
+Chikanen	-	Chikane	NN	N.Reg.Acc.Pl.Fem	no	direct.writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.writing.9	-	-	-	-
+Intriguen	-	Intrigue	NN	N.Reg.Acc.Pl.Fem	no	direct.writing.9	-	-	-	-
+überhoben	-	überhoben	VVPP	ADJD.Pos	no	direct.writing.9	-	-	-	-
+sein	-	sein	VAINF	VINF.Sein.-	no	direct.writing.9	-	-	-	-
+würde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Subj	no	direct.writing.9	-	-	-	-
+!	-	--	$.	SYM.Pun.Sent	no	direct.writing.9	-	-	-	-
+"	-	--	$(	SYM.Quot.Left	no	direct.writing.9	-	-	-	-
+Nach	-	nach	APPR	APPR.Dat	yes	-	-	-	-	-
+einem	-	ein	ART	ART.Indef.Dat.Sg.Neut	no	reported.writing.12	-	-	-	-
+Memoire	-	Memoire	NN	N.Reg.Dat.Sg.Neut	no	reported.writing.12	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.*	no	reported.writing.12	-	-	-	-
+Kanzleiverordneten	-	Kanzleiverordneter	NN	N.Reg.Gen.Pl.*	no	reported.writing.12	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	reported.writing.12	-	-	-	-
+Kniphausen	-	Kniphausen	NN	N.Reg.Dat.Pl.Masc	no	reported.writing.12	-	-	-	-
+wird	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Ind	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech.13	-	-	-	-
+vorstehend	-	vorstehend	ADJD	ADJD.Pos	no	reported.speech.13	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.speech.13	-	-	-	-
+Anregung	-	Anregung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.13	-	-	-	-
+gebrachte	-	gebracht	ADJA	ADJA.Pos.Nom.Sg.Fem	no	reported.speech.13	-	-	-	-
+Frage	-	Frage	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.13	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	reported.speech.13	-	-	-	-
+Entlassung	-	Entlassung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.13	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	reported.speech.13	-	-	-	-
+dänischen	-	dänisch	ADJA	ADJA.Pos.Gen.Sg.Neut	no	reported.speech.13	-	-	-	-
+Kommandos	-	Kommando	NN	N.Reg.Gen.Sg.Neut	no	reported.speech.13	-	-	-	-
+nochmals	-	nochmals	ADV	ADV	no	-	-	-	-	-
+eingehend	-	eingehen	ADJD	ADJD.Pos	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	-	-	-	-	-
+Berücksichtigung	-	Berücksichtigung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+aller	-	aller	PIAT	PRO.Indef.Attr.-.Gen.Pl.Fem	no	-	-	-	-	-
+politischen	-	politisch	ADJA	ADJA.Pos.Gen.Pl.Fem	no	-	-	-	-	-
+Eventualitäten	-	Eventualität	NN	N.Reg.Gen.Pl.Fem	yes	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Erwägung	-	Erwägung	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+gezogen	-	ziehen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Zunächst	-	zunächst	ADV	ADV	yes	-	frame.14	-	-	-
+wird	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Ind	no	-	frame.14	-	-	-
+hervorgehoben	-	hervorheben	VVPP	VPP.Full.Psp	no	-	frame.14	-	intexpr.14	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.14	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.14	-	-	-	-
+zwar	-	zwar	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	indirect.speech writing.14	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	indirect.speech writing.14|reported.speech writing.15	-	-	-	-
+öffentlichen	-	öffentlich	ADJA	ADJA.Pos.Dat.Pl.Fem	no	indirect.speech writing.14|reported.speech writing.15	-	-	-	-
+Nachrichten	-	Nachricht	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.14|reported.speech writing.15	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+allgemeine	-	allgemein	ADJA	ADJA.Pos.Nom.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+Friede	-	Friede	NN	N.Reg.Nom.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+wieder	-	wieder	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+hergestellt	-	herstellen	VVPP	VPP.Full.Psp	no	indirect.speech writing.14	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.14	-	-	-	-
+daher	-	daher	PAV	PROADV.Dem	no	indirect.speech writing.14	-	-	-	-
+ein	-	ein	ART	ART.Indef.Acc.Sg.Neut	no	indirect.speech writing.14	-	-	-	-
+Ueberfall	-	Ueberfall	NN	N.Reg.Acc.Sg.Neut	no	indirect.speech writing.14	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	indirect.speech writing.14	-	-	-	-
+fremden	-	fremd	ADJA	ADJA.Pos.Dat.Pl.Fem	no	indirect.speech writing.14	-	-	-	-
+Truppen	-	Truppe	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.14	-	-	-	-
+kaum	-	kaum	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect.speech writing.14	-	-	-	-
+besorgen	-	besorgen	VVINF	VINF.Full.-	no	indirect.speech writing.14	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect.speech writing.14	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.14	-	-	-	-
+dagegen	-	dagegen	PAV	PROADV.Dem	no	indirect.speech writing.14	-	-	-	-
+biete	-	bieten	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	indirect.speech writing.14	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	indirect.speech writing.14	-	-	-	-
+Nähe	-	Nähe	NN	N.Reg.Nom.Sg.Fem	no	indirect.speech writing.14	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	indirect.speech writing.14	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Gen.Sg.Fem	no	indirect.speech writing.14	-	-	-	-
+bei	-	bei	APPR	APPR.Dat	no	indirect.speech writing.14	-	-	-	-
+ihrem	-	ihr	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+bekannten	-	bekannt	ADJA	ADJA.Pos.Dat.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+unruhigen	-	unruhig	ADJA	ADJA.Pos.Dat.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+Charakter	-	Charakter	NN	N.Reg.Dat.Sg.Masc	no	indirect.speech writing.14	-	-	-	-
+doch	-	doch	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+immerhin	-	immerhin	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+noch	-	noch	ADV	ADV	no	indirect.speech writing.14	-	-	-	-
+einige	-	einiger	PIAT	PRO.Indef.Attr.-.Acc.Pl.Fem	no	indirect.speech writing.14	-	-	-	-
+Sorgen	-	Sorge	NN	N.Reg.Acc.Pl.Fem	no	indirect.speech writing.14	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.14	-	-	-	-
+Ein	-	ein	ART	ART.Indef.Nom.Sg.Neut	yes	-	-	-	-	-
+Mal	-	Mal	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+liege	-	liegen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	-	-	-	-	-
+doch	-	doch	ADV	ADV	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Möglichkeit	-	Möglichkeit	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	-	-	-	-	-
+auch	-	auch	ADV	ADV	no	-	-	-	-	-
+keine	-	kein	PIAT	PRO.Indef.Attr.-.Acc.Sg.Fem	no	-	-	-	-	-
+Wahrscheinlichkeit	-	Wahrscheinlichkeit	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+vor	-	vor	PTKVZ	ADV	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	reported.speech writing.16.nonfact	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+Frau	-	Frau	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	reported.speech writing.16.nonfact	-	-	-	-
+Mitwirkung	-	Mitwirkung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Masc	no	reported.speech writing.16.nonfact	-	-	-	-
+benachbarten	-	benachbart	ADJA	ADJA.Pos.Gen.Sg.Masc	no	reported.speech writing.16.nonfact	-	-	-	-
+Hofes	-	Hof	NN	N.Reg.Gen.Sg.Masc	no	reported.speech writing.16.nonfact	-	-	-	-
+aus	-	aus	APPR	APPR.Dat	no	reported.speech writing.16.nonfact	-	-	-	-
+eigener	-	eigen	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+Initiative	-	Initiative	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+eine	-	ein	ART	ART.Indef.Nom.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+Truppe	-	Truppe	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.16.nonfact	-	-	-	-
+leichtsinniger	-	leichtsinnig	ADJA	ADJA.Pos.Gen.Pl.Masc	no	reported.speech writing.16.nonfact	-	-	-	-
+Leute	-	Leute	NN	N.Reg.Gen.Pl.*	no	reported.speech writing.16.nonfact	-	-	-	-
+zusammenraffe	-	zusammenraffen	VVFIN	VFIN.Full.3.Sg.Past.Subj	no	reported.speech writing.16.nonfact	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+Burg	-	Burg	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+angreife	-	angreifen	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-

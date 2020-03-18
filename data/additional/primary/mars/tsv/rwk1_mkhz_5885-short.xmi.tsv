@@ -1,0 +1,532 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+Urkunde	-	Urkunde	NN	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+französischen	-	französisch	ADJA	ADJA.Pos.Gen.Sg.Fem	no	-	-	-	-	-
+Reichsverfassung	-	Reichsverfassung	NN	N.Reg.Gen.Sg.Fem	no	-	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	-	-	-	-	-
+18.	-	18.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	-	-	-	-	-
+September	-	September	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+1791	-	1791	CARD	CARD	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	-	-	-	-	-
+Fortsetzung	-	Fortsetzung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Erster	-	erster	ADJA	ADJA.Pos.Nom.Sg.Masc	no	-	-	-	-	-
+Titel	-	Titel	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Grundsätze	-	Grundsatz	NN	N.Reg.Nom.Pl.Masc	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Masc	no	-	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+gesichert	-	sichern	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	frame.2	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Nom.Sg.Fem	no	-	frame.2	speaker.2	-	-
+sichert	-	sichern	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	frame.2	-	intexpr.2	-
+als	-	als	KOKOM	APPR.Als	no	-	frame.2	-	-	-
+natürliche	-	natürlich	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	frame.2	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	frame.2	-	-	-
+bürgerliche	-	bürgerlich	ADJA	ADJA.Pos.Nom.Sg.Fem	no	-	frame.2	-	-	-
+Rechte	-	Recht	NN	N.Reg.Nom.Sg.Fem	no	-	frame.2	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	-	frame.2	-	-	-
+1	-	1	CARD	CARD	no	indirect.speech writing.2	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	indirect.speech writing.2	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.2	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Attr.-.Nom.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+Bürger	-	Bürger	NN	N.Reg.Nom.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	indirect.speech writing.2	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+Stellen	-	Stelle	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.2	-	-	-	-
+Bedienungen	-	Bedienung	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	indirect.speech writing.2	-	-	-	-
+allen	-	aller	PIAT	PRO.Indef.Attr.-.Acc.Sg.Masc	no	indirect.speech writing.2	-	-	-	-
+Unterschied	-	Unterschied	NN	N.Reg.Acc.Sg.Masc	no	indirect.speech writing.2	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.2	-	-	-	-
+außer	-	außer	APPR	APPR.Außer	no	indirect.speech writing.2	-	-	-	-
+den	-	der	PRELS	PRO.Rel.Subst.-.Acc.Sg.Masc	no	indirect.speech writing.2	-	-	-	-
+ihrer	-	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+Bürgertugenden	-	Bürgertugend	NN	N.Reg.Gen.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.2	-	-	-	-
+Talente	-	Talent	NN	N.Reg.Gen.Pl.Neut	no	indirect.speech writing.2	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.2	-	-	-	-
+zugelassen	-	zulassen	VVPP	VPP.Full.Psp	no	indirect.speech writing.2	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	indirect.speech writing.2	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	indirect.speech writing.2	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.2	-	-	-	-
+2	-	2	CARD	CARD	no	indirect.speech writing.2	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	indirect.speech writing.2	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.2	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Attr.-.Nom.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+Abgaben	-	Abgabe	NN	N.Reg.Nom.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	indirect.speech writing.2	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Attr.-.Acc.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+Bürger	-	Bürger	NN	N.Reg.Acc.Pl.Masc	no	indirect.speech writing.2	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	indirect.speech writing.2	-	-	-	-
+Maßgabe	-	Maßgabe	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech writing.2	-	-	-	-
+ihres	-	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Sg.Neut	no	indirect.speech writing.2	-	-	-	-
+Vermögens	-	Vermögen	NN	N.Reg.Gen.Sg.Neut	no	indirect.speech writing.2	-	-	-	-
+vertheilt	-	vertheilen	VVPP	VPP.Full.Psp	no	indirect.speech writing.2	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	indirect.speech writing.2	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	indirect.speech writing.2	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.2	-	-	-	-
+3	-	3	CARD	CARD	no	indirect.speech writing.2	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	indirect.speech writing.2	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.2	-	-	-	-
+eben	-	eben	ADV	ADV	no	indirect.speech writing.2	-	-	-	-
+dieselben	-	derselbe	PDAT	PRO.Dem.Attr.-.Acc.Pl.Neut	no	indirect.speech writing.2	-	-	-	-
+Verbrechen	-	Verbrechen	NN	N.Reg.Acc.Pl.Neut	no	indirect.speech writing.2	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	indirect.speech writing.2	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+nämlichen	-	nämlich	ADJA	ADJA.Pos.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+Strafen	-	Strafe	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	indirect.speech writing.2	-	-	-	-
+Ansehen	-	ansehen	NN	N.Reg.Acc.Sg.Neut	no	indirect.speech writing.2	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+Personen	-	Person	NN	N.Reg.Gen.Pl.Fem	no	indirect.speech writing.2	-	-	-	-
+belegt	-	belegen	VVPP	VPP.Full.Psp	no	indirect.speech writing.2	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	indirect.speech writing.2	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	indirect.speech writing.2	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.2	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	frame.	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Nom.Sg.Fem	no	-	frame.	speaker.	-	-
+garantirt	-	garantirt	NN	VFIN.Full.3.Sg.Pres.Ind	no	-	frame.	-	intexpr.	-
+auf	-	auf	APPR	APPR.Auf	no	-	frame.	-	-	-
+gleiche	-	gleich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	frame.	-	-	-
+Art	-	Art	NN	N.Reg.Acc.Sg.Fem	no	-	frame.	-	-	-
+als	-	als	KOKOM	APPR.Als	no	-	frame.	-	-	-
+natürliche	-	natürlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	frame.	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	frame.	-	-	-
+bürgerliche	-	bürgerlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	frame.	-	-	-
+Rechte	-	Recht	NN	N.Reg.Acc.Sg.Fem	no	-	frame.	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	-	frame.	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Freiheit	-	Freiheit	NN	N.Reg.Nom.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3	-	-	-	-
+Jeder	-	jeder	PIS	PRO.Indef.Subst.-.Nom.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+hingehen	-	hingehen	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+bleiben	-	bleiben	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.3	-	-	-	-
+reisen	-	reisen	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+kann	-	können	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+wohin	-	wohin	PWAV	PROADV.Inter	no	indirect.speech writing.3	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+wolle	-	wollen	VMFIN	VFIN.Mod.3.Sg.Pres.Subj	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	indirect.speech writing.3	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3	-	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	indirect.speech writing.3	-	-	-	-
+erlaubt	-	erlauben	VVPP	VPP.Full.Psp	no	indirect.speech writing.3	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+ihn	-	ihn	PPER	PRO.Pers.Subst.3.Acc.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+anzuhalten	-	anhalten	VVIZU	VINF.Full.zu	no	indirect.speech writing.3	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	indirect.speech writing.3	-	-	-	-
+gefangen	-	gefangen	VVPP	ADJD.Pos	no	indirect.speech writing.3	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect.speech writing.3	-	-	-	-
+nehmen	-	nehmen	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+außer	-	außer	KOUS	APPR.Außer	no	indirect.speech writing.3	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	indirect.speech writing.3	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect.speech writing.3	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+vorgeschriebenen	-	vorgeschrieben	ADJA	ADJA.Pos.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+Formen	-	Form	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.3	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Freiheit	-	Freiheit	NN	N.Reg.Acc.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+Jeder	-	jeder	PIS	PRO.Indef.Subst.-.Nom.Sg.Masc	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+seine	-	sein	PPOSAT	PRO.Poss.Attr.-.Acc.Pl.Masc	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+Gedanken	-	Gedanke	NN	N.Reg.Acc.Pl.Masc	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+mündlich	-	mündlich	ADJD	ADJD.Pos	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+schriftlich	-	schriftlich	ADJD	ADJD.Pos	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+gedruckt	-	drucken	ADJD	ADJD.Pos	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+offenbaren	-	offenbaren	VVINF	VINF.Full.-	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+darf	-	dürfen	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	indirect.speech writing.3|reported.speech thought writing.1	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	indirect.speech writing.3	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+Schriften	-	Schrift	NN	N.Reg.Nom.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+vor	-	vor	APPR	APPR.Vor	no	indirect.speech writing.3	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Bekanntmachung	-	Bekanntmachung	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+einer	-	ein	ART	ART.Indef.Gen.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Censur	-	Censur	NN	N.Reg.Gen.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	indirect.speech writing.3	-	-	-	-
+Aufsicht	-	Aufsicht	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+unterworfen	-	unterwerfen	VVPP	VPP.Full.Psp	no	indirect.speech writing.3	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.3	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+Gottesdienst	-	Gottesdienst	NN	N.Reg.Acc.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+ausüben	-	ausüben	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+kann	-	können	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	indirect.speech writing.3	-	-	-	-
+dem	-	der	PRELS	PRO.Rel.Subst.-.Dat.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	indirect.speech writing.3	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	indirect.speech writing.3	-	-	-	-
+bekennt	-	bekennen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	indirect.speech writing.3	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.3	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Freiheit	-	Freiheit	NN	N.Reg.Acc.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3	-	-	-	-
+Bürger	-	Bürger	NN	N.Reg.Nom.Pl.Masc	no	indirect.speech writing.3	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Pl.*	no	indirect.speech writing.3	-	-	-	-
+ruhig	-	ruhig	ADJD	ADJD.Pos	no	indirect.speech writing.3	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	indirect.speech writing.3	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	indirect.speech writing.3	-	-	-	-
+Waffen	-	Waffe	NN	N.Reg.Acc.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+versammeln	-	versammeln	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+können	-	können	VMINF	VINF.Mod.-	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	indirect.speech writing.3	-	-	-	-
+sie	-	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	indirect.speech writing.3	-	-	-	-
+dabei	-	dabei	PAV	PROADV.Dem	no	indirect.speech writing.3	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	indirect.speech writing.3	-	-	-	-
+Polizeigesetze	-	Polizeigesetz	NN	N.Reg.Acc.Pl.Neut	no	indirect.speech writing.3	-	-	-	-
+beobachten	-	beobachten	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.3	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+Freiheit	-	Freiheit	NN	N.Reg.Nom.Sg.Fem	no	indirect.speech writing.3	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect.speech writing.3	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+gesetzlich	-	gesetzlich	ADJD	ADJD.Pos	no	indirect.speech writing.3	-	-	-	-
+errichteten	-	errichtet	ADJA	ADJA.Pos.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+Gewalten	-	Gewalt	NN	N.Reg.Dat.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+einzelne	-	einzeln	ADJA	ADJA.Pos.Acc.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+unterschriebene	-	unterschrieben	ADJA	ADJA.Pos.Acc.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+Bittschriften	-	Bittschrift	NN	N.Reg.Acc.Pl.Fem	no	indirect.speech writing.3	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect.speech writing.3	-	-	-	-
+überreichen	-	überreichen	VVINF	VINF.Full.-	no	indirect.speech writing.3	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech writing.3	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+gesetzgebende	-	gesetzgebend	ADJA	ADJA.Pos.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Gewalt	-	Gewalt	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+kann	-	können	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+kein	-	kein	PIAT	PRO.Indef.Attr.-.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+machen	-	machen	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+welches	-	welcher	PWAT	PRO.Rel.Subst.-.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Ausübung	-	Ausübung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+natürlichen	-	natürlich	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+bürgerlichen	-	bürgerlich	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+Rechte	-	Recht	NN	N.Reg.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+Bürgers	-	Bürger	NN	N.Reg.Gen.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Masc	no	reported.speech writing.9|reported.writing.4	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.speech writing.9|reported.writing.4	-	-	-	-
+gegenwärtigem	-	gegenwärtig	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech writing.9|reported.writing.4	-	-	-	-
+Titel	-	Titel	NN	N.Reg.Dat.Sg.Masc	no	reported.speech writing.9|reported.writing.4	-	-	-	-
+beschrieben	-	beschreiben	VVPP	VPP.Full.Psp	no	reported.speech writing.9|reported.writing.4	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+gesichert	-	sichern	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+verletzen	-	verletzen	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+derselben	-	derselbe	PDAT	PRO.Dem.Subst.-.Gen.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Hindernisse	-	Hindernis	NN	N.Reg.Acc.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+setzen	-	setzen	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+könnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Subj	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+da	-	da	ADV	CONJ.SubFin.-	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Freiheit	-	Freiheit	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+nur	-	nur	ADV	ADV	no	reported.speech writing.9	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.speech writing.9	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Vermögen	-	Vermögen	NN	N.Reg.Dat.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+besteht	-	bestehen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+Alles	-	alle	PIS	PRO.Indef.Subst.-.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+zu	-	zu	APPR	PART.Zu	no	reported.speech writing.9	-	-	-	-
+thun	-	thun	NE	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+was	-	was	PRELS	PRO.Inter.Subst.-.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+weder	-	weder	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+Rechten	-	Rechte	NN	N.Reg.Dat.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Andern	-	And	NN	PRO.Indef.Subst.-.Gen.Pl.*	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+noch	-	noch	ADV	ADV	no	reported.speech writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+öffentlichen	-	öffentlich	ADJA	ADJA.Pos.Gen.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Sicherheit	-	Sicherheit	NN	N.Reg.Gen.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+schadet	-	schaden	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	reported.speech writing.9	-	-	-	-
+so	-	so	ADV	ADV	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+kann	-	können	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+das	-	der	ART	ART.Def.Nom.Sg.Neut	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Nom.Sg.Neut	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+wider	-	wider	APPR	APPR.Acc	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Attr.-.Acc.Pl.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Handlungen	-	Handlung	NN	N.Reg.Acc.Pl.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+indem	-	indem	KOUS	CONJ.SubFin.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+sie	-	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+entweder	-	entweder	KON	ADV	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+öffentliche	-	öffentlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Sicherheit	-	Sicherheit	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Rechte	-	Recht	NN	N.Reg.Acc.Pl.Neut	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+eines	-	ein	ART	ART.Indef.Gen.Sg.Neut	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Andern	-	And	NN	PRO.Indef.Subst.-.Gen.Pl.*	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+angreifen	-	angreifen	VVINF	VINF.Full.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Gesellschaft	-	Gesellschaft	NN	N.Reg.Gen.Sg.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+nachtheilig	-	nachtheilig	ADJD	ADJD.Pos	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+sein	-	sein	VAINF	VINF.Sein.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+werden	-	werden	VAFIN	VINF.Aux.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Strafen	-	Strafe	NN	N.Reg.Acc.Pl.Fem	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+bestimmen	-	bestimmen	VVINF	VINF.Full.-	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9|reported.writing.5	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+sichert	-	sichern	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Unverletzlichkeit	-	Unverletzlichkeit	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Eigenthums	-	Eigenthum	NN	N.Reg.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+gerechte	-	gerecht	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+vorgängige	-	vorgängig	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Schadloshaltung	-	Schadloshaltung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+desjenigen	-	desjenigen	PDS	PRO.Dem.Subst.-.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+dessen	-	der	PRELAT	PRO.Rel.Attr.-.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Aufopferung	-	Aufopferung	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+öffentliche	-	öffentlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+gesetzmäßig	-	gesetzmäßig	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+erwiesene	-	erwiesen	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Nothdurft	-	Nothdurft	NN	N.Name.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+erfordern	-	erfordern	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+wird	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+Güter	-	Gut	NN	N.Reg.Nom.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+welche	-	welcher	PRELS	PRO.Rel.Subst.-.Nom.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+öffentlichen	-	öffentlich	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+Gottesdienst	-	Gottesdienst	NN	N.Reg.Dat.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+alle	-	alle	PIS	PRO.Indef.Subst.-.Nom.Pl.*	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+gemeinen	-	gemein	ADJA	ADJA.Pos.Dat.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Besten	-	gut	NN	N.Reg.Dat.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+bestimmt	-	bestimmen	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+gehören	-	gehören	VVFIN	VFIN.Full.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Nation	-	Nation	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+jederzeit	-	jederzeit	ADV	ADV	no	reported.speech writing.9	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	reported.speech writing.9	-	-	-	-
+ihrer	-	ihr	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Disposition	-	Disposition	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Nom.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+sichert	-	sichern	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+Veräußerungen	-	Veräußerung	NN	N.Reg.Acc.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.speech writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	reported.speech writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+vorgeschriebenen	-	vorgeschrieben	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Form	-	Form	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+geschehen	-	geschehen	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+künftig	-	künftig	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+geschehen	-	geschehen	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+Bürger	-	Bürger	NN	N.Reg.Nom.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+haben	-	haben	VAFIN	VFIN.Haben.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Recht	-	Recht	NN	N.Reg.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Masc	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+Diener	-	Diener	NN	N.Reg.Acc.Pl.Masc	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+ihrer	-	ihr	PPOSAT	PRO.Poss.Attr.-.Gen.Pl.Fem	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+Kirchen	-	Kirche	NN	N.Reg.Gen.Pl.Fem	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+ernennen	-	ernennen	VVINF	VINF.Full.-	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+oder	-	oder	KON	CONJ.Coord.-	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+erwählen	-	erwählen	VVINF	VINF.Full.-	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9|reported.speech.8	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+soll	-	sollen	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+allgemeine	-	allgemein	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Einrichtung	-	Einrichtung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	reported.speech writing.9	-	-	-	-
+öffentlicher	-	öffentlich	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Hülfe	-	Hülfe	NN	VFIN.Full.3.Sg.Past.Subj	no	reported.speech writing.9	-	-	-	-
+veranstaltet	-	veranstalten	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+zur	-	zu	APPRART	APPRART.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Erziehung	-	Erziehung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+verlassener	-	verlassen	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+Kinder	-	Kind	NN	N.Reg.Gen.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+zur	-	zu	APPRART	APPRART.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Unterstützung	-	Unterstützung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+gebrechlicher	-	gebrechlich	ADJA	ADJA.Pos.Gen.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+Armen	-	arme	NN	N.Reg.Gen.Pl.*	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+um	-	um	APPR	CONJ.SubInf.-	no	reported.speech writing.9	-	-	-	-
+denen	-	der	PDS	PRO.Dem.Subst.-.Dat.Pl.*	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+arbeitslos	-	arbeitslos	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+Arbeit	-	Arbeit	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.speech writing.9	-	-	-	-
+verschaffen	-	verschaffen	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+öffentliche	-	öffentlich	ADJA	ADJA.Pos.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+Unterrichtsanstalten	-	Unterrichtsanstalten	NN	N.Reg.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+gestiftet	-	stiften	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	reported.speech writing.9	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Attr.-.Acc.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+Bürger	-	Bürger	NN	N.Reg.Acc.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+gemeinschaftlich	-	gemeinschaftlich	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+was	-	was	PWS	PRO.Inter.Subst.-.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+allen	-	aller	PIAT	PRO.Indef.Attr.-.Gen.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+Menschen	-	Mensch	NN	N.Reg.Gen.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+unentbehrlichen	-	unentbehrlich	ADJA	ADJA.Pos.Acc.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+Theile	-	Theile	NE	N.Reg.Acc.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+Unterrichts	-	Unterricht	NN	N.Reg.Gen.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+betrifft	-	betreffen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+unentgeldlich	-	unentgeldlich	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+sein	-	sein	VAINF	VINF.Sein.-	no	reported.speech writing.9	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Diese	-	dieser	PDAT	PRO.Dem.Attr.-.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+Austalten	-	Austalten	NN	N.Reg.Nom.Pl.Fem	no	reported.speech writing.9	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+stufenweise	-	stufenweise	ADJD	ADV	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	reported.speech writing.9	-	-	-	-
+einem	-	einer	PIS	ART.Indef.Dat.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Eintheilung	-	Eintheilung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Königreichs	-	Königreich	NN	N.Reg.Gen.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+angemessenen	-	angemessen	ADJA	ADJA.Pos.Acc.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+Verhältniß	-	Verhältniß	NN	N.Reg.Acc.Sg.Masc	no	reported.speech writing.9	-	-	-	-
+vertheilt	-	vertheilen	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+sollen	-	sollen	VMFIN	VFIN.Mod.3.Pl.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+Nationalfeste	-	Nationalfest	NN	N.Reg.Nom.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+gestiftet	-	stiften	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+um	-	um	KOUI	CONJ.SubInf.-	no	reported.speech writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Andenken	-	Andenken	NN	N.Reg.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+an	-	an	APPR	APPR.An	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+französische	-	französisch	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Revolution	-	Revolution	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.speech writing.9	-	-	-	-
+erhalten	-	erhalten	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+brüderliche	-	brüderlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Liebe	-	Liebe	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	reported.speech writing.9	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+Bürgern	-	Bürger	NN	N.Reg.Dat.Pl.Masc	no	reported.speech writing.9	-	-	-	-
+fortzupflanzen	-	fortzupflanz	VVIZU	VINF.Full.zu	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+ihre	-	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Ergebenheit	-	Ergebenheit	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+an	-	an	APPR	APPR.An	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+Konstitution	-	Konstitution	NN	N.Reg.Acc.Sg.Fem	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Vaterland	-	Vaterland	NN	N.Reg.Acc.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech writing.9	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+Gesetze	-	Gesetz	NN	N.Reg.Acc.Pl.Neut	no	reported.speech writing.9	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.speech writing.9	-	-	-	-
+bewirken	-	bewirken	VVINF	VINF.Full.-	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+soll	-	sollen	VMFIN	VFIN.Mod.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+ein	-	ein	ART	ART.Indef.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+Civil=Gesetzbuch	-	Civil=Gesetzbuch	NN	N.Reg.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+das	-	der	ART	PRO.Rel.Subst.-.Nom.Sg.Neut	no	reported.speech writing.9	-	-	-	-
+degam	-	degam	ADJA	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+nzen	-	nz	ADJA	VINF.Full.zu	no	reported.speech writing.9	-	-	-	-
+Königreich	-	Königreich	NN	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+gemein	-	gemein	ADJD	ADJD.Pos	no	reported.speech writing.9	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	reported.speech writing.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech writing.9	-	-	-	-
+gemacht	-	machen	VVPP	VPP.Full.Psp	no	reported.speech writing.9	-	-	-	-
+werden	-	werden	VAINF	VINF.Aux.-	no	reported.speech writing.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech writing.9	-	-	-	-
