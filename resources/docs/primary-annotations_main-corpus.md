@@ -29,6 +29,3 @@ The following table lists the annotation agreement scores for 834 samples of the
 | only reported | 0,49          | 0.47          | 
 
 
-## Statistics
-
-**coming soon**
