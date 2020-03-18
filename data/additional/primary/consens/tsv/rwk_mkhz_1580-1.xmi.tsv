@@ -1,0 +1,678 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+§	-	§	NN	N.Reg.Nom.Sg.Masc	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+30.	-	30.	ADJA	ADJA.Pos.Nom.Sg.Masc	yes	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Ueberweisung	-	Ueberweisung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	-	-	-	-	-
+Depositen	-	Deposit	NN	N.Reg.Gen.Pl.Neut	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Einstandskapitalien	-	Einstandskapitalie	NN	N.Reg.Gen.Pl.Neut	no	-	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Staatsschuldentilgungs	-	Staatsschuldentilgung	NN	N.Name.Dat.Sg.Fem	no	-	-	-	-	-
+=	-	--	$(	SYM.Other.XY	no	-	-	-	-	-
+Anstalt	-	Anstalt	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+an	-	an	APPR	APPR.An	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+kön	-	kön	ADJA	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Bank	-	Bank	NN	N.Reg.Acc.Sg.Fem	yes	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Nürnberg	-	Nürnberg	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+betr	-	betr	NE	VFIN.Full.1.Sg.Pres.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Das	-	der	ART	ART.Def.Nom.Sg.Neut	yes	reported.speech.18	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	reported.speech.18	-	-	-	-
+Uns	-	Uns	PPER	PRO.Pers.Subst.1.Dat.Pl.*	no	reported.speech.18	-	speaker.18	-	-
+nach	-	nach	APPR	APPR.Dat	no	reported.speech.18|reported.speech.1	-	-	-	-
+erklärter	-	erklärt	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.speech.18|reported.speech.1	-	-	-	-
+Zustimmung	-	Zustimmung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.18|reported.speech.1	-	-	intexpr.1	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.18|reported.speech.1	-	-	-	-
+Landtags	-	Landtag	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.18|reported.speech.1	-	speaker.1	-	-
+sanctionirte	-	sanctionirt	NN	ADJA.Pos.Nom.Sg.Neut	no	reported.speech.18	-	-	intexpr.18	-
+Gesetz	-	Gesetz	NN	N.Reg.Nom.Sg.Neut	no	reported.speech.18	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	-	-	-	-	-
+Ueberweisung	-	Ueberweisung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	-	-	-	-	-
+Depositen	-	Deposit	NN	N.Reg.Gen.Pl.Neut	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Einstandskapitalien	-	Einstandskapitalie	NN	N.Reg.Gen.Pl.Neut	no	-	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Staatsschuldentilgungs=Anstalt	-	Staatsschuldentilgungs=Anstalt	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+an	-	an	APPR	APPR.An	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+königl	-	Königl	NE	FM	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Bank	-	Bank	NN	FM	yes	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Nürnberg	-	Nürnberg	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+betr	-	betr	NE	VFIN.Full.1.Sg.Pres.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+lassen	-	lassen	VVFIN	VFIN.Full.1.Pl.Pres.Ind	no	-	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	-	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	-	-	-	-	-
+Ziffer	-	Ziffer	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+8	-	8	CARD	CARD	no	-	-	-	-	-
+hierbei	-	hierbei	PAV	ADV	no	-	-	-	-	-
+folgen	-	folgen	VVFIN	VINF.Full.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+§	-	§	NN	SYM.Other.XY	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+31.	-	31.	ADJA	ADJA.Pos.Nom.Sg.Masc	yes	-	-	-	-	-
+Das	-	der	ART	ART.Def.Nom.Sg.Neut	yes	-	-	-	-	-
+Staatsschuldenwesen	-	Staatsschuldenwesen	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+betr	-	betr	NE	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	yes	reported.speech.2	-	speaker.2	-	-
+haben	-	haben	VAFIN	VFIN.Haben.1.Pl.Pres.Ind	no	reported.speech.2	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.2	-	-	-	-
+Gesetzesentwurf	-	Gesetzesentwurf	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.2	-	-	-	-
+über	-	über	APPR	APPR.über	no	reported.speech.2	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	reported.speech.2	-	-	-	-
+Staatsschuldenwesen	-	Staatsschuldenwesen	NN	N.Reg.Acc.Sg.Neut	no	reported.speech.2	-	-	-	-
+in	-	in	APPR	APPR.In	no	reported.speech.2|reported.speech.3	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	reported.speech.2|reported.speech.3	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	reported.speech.2|reported.speech.3	-	-	-	-
+beiden	-	beide	PIAT	PRO.Indef.Attr.-.Dat.Pl.Fem	no	reported.speech.2|reported.speech.3	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Dat.Pl.Fem	no	reported.speech.2|reported.speech.3	-	speaker.3	-	-
+vorgeschlagenen	-	vorgeschlagen	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.speech.2|reported.speech.3	-	-	intexpr.3	-
+Fassung	-	Fassung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.2|reported.speech.3	-	-	-	-
+unsere	-	unser	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Fem	no	reported.speech.2	-	-	-	-
+Sanction	-	Sanction	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.2	-	-	-	-
+ertheilt	-	ertheilen	ADJD	VPP.Full.Psp	no	reported.speech.2	-	-	intexpr.2	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+lassen	-	lassen	VVFIN	VFIN.Full.3.Pl.Pres.Ind	no	-	-	-	-	-
+hiernach	-	hiernach	PAV	PROADV.Dem	no	-	-	-	-	-
+das	-	der	ART	ART.Def.Acc.Sg.Neut	no	-	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+Ziffer	-	Ziffer	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+9	-	9	CARD	CARD	no	-	-	-	-	-
+hiermit	-	hiermit	PAV	PROADV.Dem	no	-	-	-	-	-
+folgen	-	folgen	VVFIN	VINF.Full.-	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Auf	-	auf	APPR	APPR.Auf	yes	-	frame.13	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	frame.13	-	-	-
+in	-	in	APPR	APPR.In	no	-	frame.13	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	-	frame.13	-	-	-
+Gesammtbeschlusse	-	Gesammtbeschlus	NN	N.Reg.Dat.Sg.Neut	no	-	frame.13	-	-	-
+über	-	über	APPR	APPR.über	no	-	frame.13	-	-	-
+diesen	-	dieser	PDAT	PRO.Dem.Attr.-.Acc.Sg.Masc	no	-	frame.13	-	-	-
+Gesetzesentwurf	-	Gesetzesentwurf	NN	N.Reg.Acc.Sg.Masc	no	-	frame.13	-	-	-
+gestellten	-	gestellt	ADJA	ADJA.Pos.Acc.Pl.Masc	no	-	frame.13	-	-	-
+Anträge	-	Antrag	NN	N.Reg.Acc.Pl.Masc	no	-	frame.13	-	-	-
+erwidern	-	erwidern	VVFIN	VFIN.Full.1.Pl.Pres.Ind	no	-	frame.13	-	intexpr.13	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	-	frame.13	speaker.13	-	-
+:	-	--	$.	SYM.Pun.Colon	no	-	frame.13	-	-	-
+1	-	1	CARD	CARD	no	direct.speech writing.13	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	direct.speech writing.13	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Nom.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	direct.speech writing.13	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	direct.speech writing.13	-	-	-	-
+Antrag	-	Antrag	NN	N.Reg.Acc.Sg.Masc	no	direct.speech writing.13	-	speaker.4	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+„es	-	„	NN	N.Reg.Acc.Pl.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Staatsregierung	-	Staatsregierung	NN	N.Reg.Nom.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+ermächtigen	-	ermächtigen	VVINF	VINF.Full.-	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Bestellung	-	Bestellung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Amtsbürgschaften	-	Amtsbürgschaft	NN	N.Reg.Dat.Pl.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Beamten	-	Beamter	NN	N.Reg.Gen.Pl.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+so	-	so	ADV	ADV	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+wie	-	wie	KOKOM	CONJ.Comp.-	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Einstandskapitalien	-	Einstandskapitalie	NN	N.Reg.Nom.Sg.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Folge	-	Folge	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Hinterlegung	-	Hinterlegung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+bayerischer	-	bayerisch	ADJA	ADJA.Pos.Gen.Pl.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Staatsobligationen	-	Staatsobligation	NN	N.Reg.Gen.Pl.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+jeder	-	jeder	PIAT	PRO.Indef.Attr.-.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Art	-	Art	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+sofern	-	sofern	KOUS	CONJ.SubFin.-	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+sie	-	sie	PPER	PRO.Pers.Subst.3.Nom.Pl.*	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+Zinsfuße	-	Zinsfuß	NN	N.Reg.Dat.Sg.Masc	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+unter3	-	unter3	ADJD	VFIN.Full.3.Pl.Past.Ind	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+1	-	1	CARD	CARD	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+/	-	--	$(	SYM.Pun.Slash	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+2	-	2	CARD	CARD	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+%	-	%	NN	N.Reg.*.*.Neut	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+zuzulassen	-	zulassen	VVIZU	VINF.Full.zu	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+,“	-	,“	ADJD	FM	no	direct.speech writing.13|direct.writing.4	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+Bestreben	-	bestreben	NN	N.Reg.Dat.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Staatsregierung	-	Staatsregierung	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Masc	no	direct.speech writing.13	-	-	-	-
+Staatsschuldentilgungs	-	Staatsschuldentilgung	NN	N.Reg.Nom.Pl.Masc	no	direct.speech writing.13	-	-	-	-
+=	-	--	$(	SYM.Other.XY	no	direct.speech writing.13	-	-	-	-
+Anstalt	-	Anstalt	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+schwebenden	-	schwebend	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Schuld	-	Schuld	NN	N.Reg.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+möglichst	-	möglichst	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech writing.13	-	-	-	-
+erleichtern	-	erleichtern	VVINF	VINF.Full.-	no	direct.speech writing.13	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.speech writing.13	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	direct.speech writing.13	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.speech writing.13	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	direct.speech writing.13	-	-	-	-
+gänzlich	-	gänzlich	ADJD	ADJD.Pos	no	direct.speech writing.13	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech writing.13	-	-	-	-
+befreien	-	befreien	VVINF	VINF.Full.-	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+nur	-	nur	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+entgegen	-	entgegen	PTKVZ	APPR.Dat	no	direct.speech writing.13	-	-	-	-
+gekommen	-	kommen	VVPP	VPP.Full.Psp	no	direct.speech writing.13	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	yes	direct.speech writing.13	-	-	-	-
+werden	-	werden	VAFIN	VFIN.Aux.1.Pl.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+deßhalb	-	deßhalb	ADJD	ADJD.Pos	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+was	-	was	PRELS	PRO.Inter.Subst.-.Nom.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+Amtsbürgschaften	-	Amtsbürgschaft	NN	N.Reg.Acc.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+betrifft	-	betreffen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+gern	-	gern	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+alle	-	aller	PIAT	PRO.Indef.Subst.-.Nom.Pl.*	no	direct.speech writing.13	-	-	-	-
+jene	-	jener	PDAT	PRO.Dem.Attr.-.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Rücksicht	-	Rücksicht	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+eintreten	-	eintreten	VVINF	VINF.Full.-	no	direct.speech writing.13	-	-	-	-
+lassen	-	lassen	VVINF	VINF.Full.-	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+welche	-	welcher	PRELS	PRO.Rel.Subst.-.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	direct.speech writing.13	-	-	-	-
+dadurch	-	dadurch	PAV	PROADV.Dem	no	direct.speech writing.13	-	-	-	-
+entstehende	-	entstehend	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Gefährdung	-	Gefährdung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Erfüllung	-	Erfüllung	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+gesetzlichen	-	gesetzlich	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Hauptzwecke	-	Hauptzwecke	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Staatsschuldentilgungs=Anstalt	-	Staatsschuldentilgungs=Anstalt	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+nur	-	nur	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+immer	-	immer	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+möglich	-	möglich	ADJD	ADJD.Pos	no	direct.speech writing.13	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13	-	-	-	-
+Bezüglich	-	bezüglich	APPR	APPR.Gen	yes	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+Einstandskapitalien	-	Einstandskapitalie	NN	N.Reg.Gen.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+unterliegt	-	unterliegen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+beantragte	-	beantragt	ADJA	ADJA.Pos.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Gewährung	-	Gewährung	NN	N.Reg.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+ohnedies	-	ohnedies	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+keinem	-	kein	PIAT	PRO.Indef.Attr.-.Dat.Sg.Masc	no	direct.speech writing.13	-	-	-	-
+Anstand	-	Anstand	NN	N.Reg.Dat.Sg.Masc	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+zumal	-	zumal	KOUS	CONJ.SubFin.-	no	direct.speech writing.13	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	direct.speech writing.13	-	-	-	-
+künftiger	-	künftig	ADJA	ADJA.Pos.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Anlegung	-	Anlegung	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+dießfallsigen	-	dießfallsig	ADJA	ADJA.Pos.Gen.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+Baarerlagen	-	Baarerlage	NN	N.Reg.Gen.Pl.Fem	no	direct.speech writing.13	-	-	-	-
+in	-	in	APPR	APPR.In	no	direct.speech writing.13	-	-	-	-
+Folge	-	Folge	NN	N.Reg.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+Gesetzes	-	Gesetz	NN	N.Reg.Gen.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+über	-	über	APPR	APPR.über	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Ueberweisung	-	Ueberweisung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	direct.speech writing.13	-	-	-	-
+Depositen	-	Deposit	NN	N.Reg.Gen.Pl.Neut	no	direct.speech writing.13	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.speech writing.13	-	-	-	-
+Einstandskapitalien	-	Einstandskapitalie	NN	N.Reg.Gen.Pl.Neut	no	direct.speech writing.13	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	direct.speech writing.13	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Staatsschuldentilgungs=Anstalt	-	Staatsschuldentilgungs=Anstalt	NN	N.Reg.Dat.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+an	-	an	APPR	APPR.An	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+königl	-	Königl	NE	FM	no	direct.speech writing.13	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13	-	-	-	-
+Bank	-	Bank	NN	FM	no	direct.speech writing.13	-	-	-	-
+in	-	in	APPR	APPR.In	no	direct.speech writing.13	-	-	-	-
+Nürnberg	-	Nürnberg	NE	N.Name.Dat.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+bereits	-	bereits	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+neue	-	neu	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Einrichtung	-	Einrichtung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+getroffen	-	treffen	VVPP	VPP.Full.Psp	no	direct.speech writing.13	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13	-	-	-	-
+2	-	2	CARD	CARD	yes	direct.speech writing.13	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	direct.speech writing.13	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	no	direct.speech writing.13	-	-	-	-
+Antrag	-	Antrag	NN	N.Reg.Nom.Sg.Masc	no	direct.speech writing.13	-	speaker.5	-	-
+:	-	--	$.	SYM.Pun.Colon	no	direct.speech writing.13	-	-	-	-
+„es	-	„	ADJD	N.Reg.Nom.Sg.Masc	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+sei	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Subj	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+das	-	der	PDS	PRO.Dem.Subst.-.Nom.Sg.Neut	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+königl	-	königl	ADJD	ADJD.Pos	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+Staatsministerium	-	Staatsministerium	NN	N.Reg.Acc.Sg.Neut	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+Finanzen	-	Finanz	NN	N.Reg.Gen.Pl.Fem	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+anzugehen	-	angehen	VVIZU	VINF.Full.zu	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+sorgsamen	-	sorgsam	ADJA	ADJA.Pos.Acc.Sg.Masc	no	direct.speech writing.13|direct.writing.5	frame.19	-	-	-
+Bedacht	-	Bedacht	NN	N.Reg.Acc.Sg.Masc	no	direct.speech writing.13|direct.writing.5	frame.19	-	intexpr.19	-
+zu	-	zu	PTKZU	PART.Zu	no	direct.speech writing.13|direct.writing.5	frame.19	-	intexpr.19	-
+nehmen	-	nehmen	VVINF	VINF.Full.-	no	direct.speech writing.13|direct.writing.5	frame.19	-	intexpr.19	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13|direct.writing.5	frame.19	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Masc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+bei	-	bei	APPR	APPR.Dat	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+königlichen	-	königlich	ADJA	ADJA.Pos.Dat.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Staatsschuldentilgungs=Anstalt	-	Staatsschuldentilgungs=Anstalt	NN	N.Reg.Dat.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+anliegenden	-	anliegend	ADJA	ADJA.Pos.Nom.Pl.Masc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Staatskasse=Effecten	-	Staatskasse=Effect	NN	N.Reg.Nom.Pl.Masc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Kräften	-	Kraft	NN	N.Reg.Dat.Pl.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Masc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Kassenbestände	-	Kassenbestand	NN	N.Reg.Gen.Pl.Masc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+--	-	-	$(	CARD	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+jedoch	-	jedoch	ADV	ADV	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+ohne	-	ohne	APPR	APPR.Acc	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Beeinträchtigung	-	Beeinträchtigung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Erfüllung	-	Erfüllung	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Zwecke	-	Zweck	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Anstalt	-	Anstalt	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+--	-	-	$(	N.Name.Nom.Sg.*	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+allmählig	-	allmählig	ADJD	ADJD.Pos	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+Staatskasse	-	Staatskasse	NN	N.Reg.Dat.Sg.Fem	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+heimbezahlt	-	heimzahlen	VVFIN	VPP.Full.Psp	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+werden	-	werden	VAFIN	VINF.Aux.-	no	direct.speech writing.13|direct.writing.5|indirect.thought.19.nonfact	-	-	-	-
+,“	-	,“	ADJD	FM	no	direct.speech writing.13|direct.writing.5	-	-	-	-
+erscheint	-	erscheinen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+gewissermaßen	-	gewissermaßen	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+als	-	als	KOKOM	CONJ.Comp.-	no	direct.speech writing.13	-	-	-	-
+eine	-	ein	ART	ART.Indef.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Wiederholung	-	Wiederholung	NN	N.Reg.Nom.Sg.Fem	no	direct.speech writing.13	-	-	-	-
+Desjenigen	-	desjenige	VVFIN	N.Reg.Nom.Sg.Neut	no	direct.speech writing.13	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+was	-	was	PWS	PRO.Rel.Subst.-.Acc.Sg.Neut	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+dießfalls	-	dießfalls	NN	N.Name.Nom.Sg.*	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+bei	-	bei	APPR	APPR.Dat	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Masc	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+Kammerbeschlüssen	-	Kammerbeschluß	NN	N.Reg.Dat.Pl.Masc	no	direct.speech writing.13|reported.speech.6	-	speaker.7	-	-
+über	-	über	APPR	APPR.über	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+Nachweisungen	-	Nachweisung	NN	N.Reg.Acc.Pl.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+Verwendung	-	Verwendung	NN	N.Reg.Gen.Sg.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+Staatseinnahmen	-	Staatseinnahme	NN	N.Reg.Gen.Pl.Fem	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+Jahre	-	Jahr	NN	N.Reg.Acc.Pl.Neut	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+1845--46	-	1845--46	CARD	CARD	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+1846--47	-	1846--47	CARD	CARD	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+beantragt	-	beantragen	VVPP	VPP.Full.Psp	no	direct.speech writing.13|reported.speech.6	-	-	intexpr.6	-
+worden	-	werden	VAPP	VPP.Aux.Psp	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	direct.speech writing.13|reported.speech.6	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	direct.speech writing.13	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	direct.speech writing.13	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	direct.speech writing.13	-	-	-	-
+verweisen	-	verweisen	VVFIN	VFIN.Full.1.Pl.Pres.Ind	no	direct.speech writing.13	-	-	-	-
+deßhalb	-	deßhalb	ADJD	ADJD.Pos	no	direct.speech writing.13	-	-	-	-
+hier	-	hier	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+lediglich	-	lediglich	ADV	ADV	no	direct.speech writing.13	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	direct.speech writing.13	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	direct.speech writing.13|reported.speech.7	-	-	-	-
+dortselbst	-	dortselbst	NN	ADV	no	direct.speech writing.13|reported.speech.7	-	-	-	-
+erfolgte	-	erfolgt	VVFIN	ADJA.Pos.Acc.Sg.Fem	no	direct.speech writing.13|reported.speech.7	-	-	-	-
+genehmigende	-	genehmigend	ADJA	ADJA.Pos.Acc.Sg.Fem	no	direct.speech writing.13|reported.speech.7	-	-	-	-
+Zusicherung	-	Zusicherung	NN	N.Reg.Acc.Sg.Fem	no	direct.speech writing.13|reported.speech.7	-	-	intexpr.7	-
+.	-	--	$.	SYM.Pun.Sent	no	direct.speech writing.13|reported.speech.7	-	-	-	-
+§	-	§	NN	N.Reg.Nom.Sg.Masc	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+32	-	32	CARD	CARD	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Gerichtsverfassung	-	Gerichtsverfassung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+betreffend	-	betreffend	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	yes	reported.speech.9	-	speaker.9	-	-
+haben	-	haben	VAFIN	VFIN.Haben.1.Pl.Pres.Ind	no	reported.speech.9	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Pl.Fem	no	reported.speech.9	-	-	-	-
+Modificationen	-	Modification	NN	N.Reg.Acc.Pl.Fem	no	reported.speech.9	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.9	-	-	-	-
+welche	-	welcher	PRELS	PRO.Rel.Subst.-.Nom.Pl.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	reported.speech.9|reported.speech.8	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.9|reported.speech.8	-	-	-	-
+Gesammtbeschluß	-	Gesammtbeschluß	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.9|reported.speech.8	-	speaker.8	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+beiden	-	beide	PIAT	PRO.Indef.Attr.-.Gen.Pl.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Gen.Pl.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+zu	-	zu	APPR	APPR.Dat	no	reported.speech.9|reported.speech.8	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.9|reported.speech.8	-	-	-	-
+Gesetzesentwurf	-	Gesetzesentwurf	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.9|reported.speech.8	-	-	-	-
+über	-	über	APPR	APPR.über	no	reported.speech.9|reported.speech.8	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+Gerichtsverfassung	-	Gerichtsverfassung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.9|reported.speech.8	-	-	-	-
+vorgeschlagen	-	vorschlagen	VVPP	VPP.Full.Psp	no	reported.speech.9|reported.speech.8	-	-	intexpr.8	-
+worden	-	werden	VAPP	VPP.Aux.Psp	no	reported.speech.9|reported.speech.8	-	-	-	-
+sind	-	sein	VAFIN	VFIN.Sein.3.Pl.Pres.Ind	no	reported.speech.9|reported.speech.8	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.9	-	-	-	-
+Unsere	-	unser	PPOSAT	PRO.Poss.Attr.-.Nom.Sg.Fem	no	reported.speech.9	-	-	-	-
+Genehmigung	-	Genehmigung	NN	N.Reg.Nom.Sg.Fem	no	reported.speech.9	-	-	-	-
+ertheilt	-	ertheilen	ADJD	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech.9	-	-	intexpr.9	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+erlassen	-	erlassen	VVFIN	ADJD.Pos	no	-	-	-	-	-
+das	-	der	PDS	ART.Def.Acc.Sg.Neut	no	-	-	-	-	-
+hiernach	-	hiernach	PAV	PROADV.Dem	no	-	-	-	-	-
+gefaßte	-	gefassen	ADJA	ADJA.Pos.Acc.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	-	-	-	-	-
+Ziffer	-	Ziffer	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+10	-	10	CARD	CARD	no	-	-	-	-	-
+anliegende	-	anliegend	ADJA	ADJA.Pos.Acc.Sg.Neut	no	-	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Acc.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Den	-	der	ART	ART.Def.Acc.Sg.Masc	yes	reported.thought.10.nonfact	-	-	-	-
+Antrag	-	Antrag	NN	N.Reg.Acc.Sg.Masc	no	reported.thought.10.nonfact	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.10.nonfact	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+gegenwärtige	-	gegenwärtig	ADJA	ADJA.Pos.Nom.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+Zahl	-	Zahl	NN	N.Reg.Nom.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+Kreis=	-	Kreis=	NN	N.Reg.Gen.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.thought.10.nonfact	-	-	-	-
+Stadtgerichte	-	Stadtgerichte	NN	N.Reg.Gen.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	reported.thought.10.nonfact	-	-	-	-
+jene	-	jener	PDAT	PRO.Dem.Subst.-.Acc.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+künftigen	-	künftig	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+Bezirksgerichte	-	Bezirksgericht	NN	N.Reg.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+jetzt	-	jetzt	ADV	ADV	no	reported.thought.10.nonfact	-	-	-	-
+schon	-	schon	ADV	ADV	no	reported.thought.10.nonfact	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.thought.10.nonfact	-	-	-	-
+vermehren	-	vermehren	VVINF	VINF.Full.-	no	reported.thought.10.nonfact	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.10.nonfact	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.thought.10.nonfact	-	-	-	-
+die	-	der	ART	PRO.Rel.Subst.-.Nom.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+hiernach	-	hiernach	PAV	PROADV.Dem	no	reported.thought.10.nonfact	-	-	-	-
+zu	-	zu	PTKZU	APPR.Dat	no	reported.thought.10.nonfact	-	-	-	-
+bildenden	-	bildenden	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+an	-	an	APPR	APPR.An	no	reported.thought.10.nonfact	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+Spitze	-	Spitze	NN	N.Reg.Acc.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+künftigen	-	künftig	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+Bezirksgerichte	-	Bezirksgericht	NN	N.Reg.Gen.Pl.Neut	no	reported.thought.10.nonfact	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	reported.thought.10.nonfact	-	-	-	-
+legen	-	legen	VVINF	VINF.Full.-	no	reported.thought.10.nonfact	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.thought.10.nonfact	-	-	-	-
+werden	-	werden	VAFIN	VFIN.Aux.1.Pl.Pres.Ind	no	reported.thought.10.nonfact	-	-	-	-
+wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	reported.thought.10.nonfact	-	speaker.10	-	-
+in	-	in	APPR	APPR.In	no	reported.thought.10.nonfact	-	-	intexpr.10	-
+reifliche	-	reiflich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	reported.thought.10.nonfact	-	-	-	-
+Erwägung	-	Erwägung	NN	N.Reg.Acc.Sg.Fem	no	reported.thought.10.nonfact	-	-	intexpr.10	-
+ziehen	-	ziehen	VVINF	VINF.Full.-	no	reported.thought.10.nonfact	-	-	intexpr.10	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.thought.10.nonfact	-	-	-	-
+§	-	§	NN	SYM.Other.XY	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+33.	-	33.	ADJA	ADJA.Pos.Acc.Sg.Fem	yes	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Bestrafung	-	Bestrafung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Masc	no	-	-	-	-	-
+Jagdfrevel	-	Jagdfrevel	NN	N.Reg.Gen.Pl.Masc	no	-	-	-	-	-
+betr	-	betr	NE	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Nachdem	-	nachdem	KOUS	CONJ.SubFin.-	no	reported.speech.11	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	reported.speech.11	-	-	-	-
+Gesetzesentwurf	-	Gesetzesentwurf	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.11	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.11	-	-	-	-
+Bestrafung	-	Bestrafung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.11	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Masc	no	reported.speech.11	-	-	-	-
+Jagdfrevel	-	Jagdfrevel	NN	N.Reg.Gen.Pl.Masc	no	reported.speech.11	-	-	-	-
+betr	-	betr	NE	ADJD.Pos	no	reported.speech.11	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.11	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.11	-	-	-	-
+Zustimmung	-	Zustimmung	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.11	-	-	intexpr.11	-
+beider	-	beide	PIAT	PRO.Indef.Attr.-.Gen.Pl.Fem	no	reported.speech.11	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Gen.Pl.Fem	no	reported.speech.11	-	speaker.11	-	-
+erhalten	-	erhalten	VVPP	VPP.Full.Psp	no	reported.speech.11	-	-	-	-
+hat	-	haben	VAFIN	VFIN.Haben.3.Sg.Pres.Ind	no	reported.speech.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+haben	-	haben	VAFIN	VFIN.Haben.1.Pl.Pres.Ind	no	reported.speech.12	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	no	reported.speech.12	-	speaker.12	-	-
+denselben	-	derselbe	PDS	PRO.Dem.Subst.-.Acc.Sg.Masc	no	reported.speech.12	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	reported.speech.12	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	reported.speech.12	-	-	-	-
+vorgeschlagenen	-	vorgeschlagen	ADJA	ADJA.Pos.Dat.Pl.Fem	no	reported.speech.12	-	-	-	-
+Modificationen	-	Modification	NN	N.Reg.Dat.Pl.Fem	no	reported.speech.12	-	-	-	-
+als	-	als	KOKOM	APPR.Als	no	reported.speech.12	-	-	-	-
+Gesetz	-	Gesetz	NN	N.Reg.Nom.Sg.Neut	no	reported.speech.12	-	-	-	-
+sanctionirt	-	sanctionirt	NN	VPP.Full.Psp	no	reported.speech.12	-	-	intexpr.12	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+wie	-	wie	KOUS	PROADV.Inter	no	-	-	-	-	-
+solches	-	solcher	PIS	PRO.Indef.Subst.-.Nom.Sg.Neut	no	-	-	-	-	-
+unter	-	unter	APPR	APPR.Unter	no	-	-	-	-	-
+Z	-	Z	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+11	-	11	CARD	CARD	no	-	-	-	-	-
+hier	-	hier	ADV	ADV	no	-	-	-	-	-
+beifolgt	-	beifolgen	VVFIN	VPP.Full.Psp	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+§	-	§	NN	SYM.Other.XY	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+34.	-	34.	ADJA	CARD	yes	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Pl.Masc	yes	-	-	-	-	-
+Zollverhältnisse	-	Zollverhältnis	NN	N.Reg.Nom.Pl.Masc	no	-	-	-	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Neut	no	-	-	-	-	-
+Allgemeinen	-	allgemein	NN	ADJA.Pos.Dat.Sg.Neut	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+Zukunft	-	Zukunft	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+betr	-	betr	NE	ADJA.Pos.Gen.Pl.Masc	no	-	-	-	-	-
+Wir	-	wir	PPER	PRO.Pers.Subst.1.Nom.Pl.*	yes	reported.speech.17	-	speaker.17	-	-
+haben	-	haben	VAFIN	VFIN.Haben.1.Pl.Pres.Ind	no	reported.speech.17	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	reported.speech.17	-	-	-	-
+nachbezeichneten	-	nachbezeichnet	ADJA	ADJA.Pos.Acc.Pl.Neut	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.17	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+andern	-	anderer	ADJA	ADJA.Pos.Dat.Pl.Masc	no	reported.speech.17	-	-	-	-
+Staaten	-	Staat	NN	N.Reg.Dat.Pl.Masc	no	reported.speech.17	-	-	-	-
+abgeschlossenen	-	abgeschlossen	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+Handels=	-	Handels=	NN	N.Reg.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+Schifffahrtsverträge	-	Schifffahrtsvertrag	NN	N.Reg.Gen.Pl.Masc	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.17	-	-	-	-
+als	-	als	KOKOM	CONJ.SubFin.-	no	reported.speech.17	-	-	-	-
+:	-	--	$.	SYM.Pun.Colon	no	reported.speech.17	-	-	-	-
+1	-	1	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+Vertrag	-	Vertrag	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollvereins	-	Zollverein	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Masc	no	reported.speech.17	-	-	-	-
+Staaten	-	Staat	NN	N.Reg.Dat.Pl.Masc	no	reported.speech.17	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+Steuervereins	-	Steuerverein	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	reported.speech.17	-	-	-	-
+Beförderung	-	Beförderung	NN	N.Reg.Gen.Sg.Fem	no	reported.speech.17	-	-	-	-
+gegenseitiger	-	gegenseitig	ADJA	ADJA.Pos.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+Verkehrsverhältnisse	-	Verkehrsverhältnis	NN	N.Reg.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+16.	-	16.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Oktbr	-	Oktbr	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+1845	-	1845	CARD	CARD	no	reported.speech.17	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	reported.speech.17	-	-	-	-
+publicirt	-	publiciren	NN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+18.	-	18.	ADJA	ADJA.Pos.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+Novbr	-	Novbr	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+1846	-	1846	CARD	CARD	yes	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+2	-	2	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.17	-	-	-	-
+Uebereinkunft	-	Uebereinkunft	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.17	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+Belgien	-	Belgien	NE	N.Name.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	reported.speech.17	-	-	-	-
+Unterdrückung	-	Unterdrückung	NN	N.Reg.Gen.Sg.Fem	no	reported.speech.17	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+Schleichhandels	-	Schleichhandel	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+26.	-	26.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Juni	-	Juni	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+1846	-	1846	CARD	CARD	no	reported.speech.17	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	reported.speech.17	-	-	-	-
+publicirt	-	publiciren	NN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+31.	-	31.	ADJA	ADJA.Pos.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+Jan	-	Jan	NE	N.Name.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+3	-	3	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.17	-	-	-	-
+Uebereinkunft	-	Uebereinkunft	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.17	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+Belgien	-	Belgien	NE	N.Name.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	reported.speech.17	-	-	-	-
+gegenseitiger	-	gegenseitig	ADJA	ADJA.Pos.Gen.Sg.Fem	no	reported.speech.17	-	-	-	-
+Behandlung	-	Behandlung	NN	N.Reg.Gen.Sg.Fem	no	reported.speech.17	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	reported.speech.17	-	-	-	-
+Handelsreisenden	-	handelsreisend	ADJA	N.Reg.Gen.Pl.Fem	no	reported.speech.17	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	reported.speech.17	-	-	-	-
+publicirt	-	publiciren	NN	ADJD.Pos	no	reported.speech.17	-	-	-	-
+am	-	an	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+27.	-	27.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+April	-	April	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+4	-	4	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+Handels=	-	Handels=	NN	TRUNC.Noun	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+Schifffahrtsvertrag	-	Schifffahrtsvertrag	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+Königreich	-	Königreich	NN	N.Reg.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+beider	-	beide	PIAT	PRO.Indef.Attr.-.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+Sicilien	-	Sicilie	NN	N.Reg.Gen.Pl.Neut	no	reported.speech.17	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+27.	-	27.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Jan	-	Jan	NE	N.Name.Nom.Sg.Masc	no	reported.speech.17	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	reported.speech.17	-	-	-	-
+publicirt	-	publiciren	NN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech.17	-	-	-	-
+am	-	an	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+11.	-	11.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Juni	-	Juni	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+;	-	--	$.	SYM.Pun.Sent	no	reported.speech.17	-	-	-	-
+5	-	5	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+Vertrag	-	Vertrag	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+zwischen	-	zwischen	APPR	APPR.Zwischen	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	reported.speech.17	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+Großherzogthum	-	Großherzogthum	NN	N.Reg.Dat.Sg.Neut	no	reported.speech.17	-	-	-	-
+Luxemburg	-	Luxemburg	NE	N.Name.Nom.Sg.Neut	no	reported.speech.17	-	-	-	-
+wegen	-	wegen	APPR	APPR.Gen	no	reported.speech.17	-	-	-	-
+Fortdauer	-	Fortdauer	NN	N.Reg.Gen.Sg.Fem	no	reported.speech.17	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+Anschlusses	-	Anschluß	NN	N.Reg.Gen.Sg.Masc	no	reported.speech.17	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.*	no	reported.speech.17	-	-	-	-
+letztern	-	letztern	NN	PRO.Indef.Subst.-.Gen.Sg.*	no	reported.speech.17	-	-	-	-
+am	-	an	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+deutschen	-	deutsch	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+Zollverein	-	Zollverein	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+2.	-	2.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+April	-	April	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	no	reported.speech.17	-	-	-	-
+publicirt	-	publiciren	NN	VFIN.Full.3.Sg.Pres.Ind	no	reported.speech.17	-	-	-	-
+am	-	an	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+27.	-	27.	ADJA	ADJA.Pos.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+August	-	August	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.17	-	-	-	-
+1847	-	1847	CARD	CARD	no	reported.speech.17	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.speech.17	-	-	-	-
+den	-	der	ART	ART.Def.Dat.Pl.Fem	no	reported.speech.17	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Dat.Pl.Fem	no	reported.speech.17	-	-	-	-
+zur	-	zu	APPRART	APPRART.Dat.Sg.Fem	no	reported.speech.17	-	-	-	-
+Anerkennung	-	Anerkennung	NN	N.Reg.Dat.Sg.Fem	no	reported.speech.17	-	-	-	-
+bezüglich	-	bezüglich	APPR	APPR.-	no	reported.speech.17	-	-	-	-
+der	-	der	ART	PRO.Dem.Subst.-.Dat.Sg.Fem	no	reported.speech.17	-	-	-	-
+ihren	-	ihr	PPOSAT	PRO.Poss.Attr.-.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+verfassungsmäßigen	-	verfassungsmäßig	ADJA	ADJA.Pos.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+Wirkungskreis	-	Wirkungskreis	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.17	-	-	-	-
+berührenden	-	berührend	ADJA	ADJA.Pos.Acc.Pl.Masc	no	reported.speech.17	-	-	-	-
+Punkte	-	Punkt	NN	N.Reg.Acc.Pl.Masc	no	reported.speech.17	-	-	-	-
+mittheilen	-	mittheilen	NN	VINF.Full.-	no	reported.speech.17	-	-	intexpr.17	-
+lassen	-	lassen	VVINF	VINF.Full.-	no	reported.speech.17	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+welche	-	welcher	PRELS	PRO.Rel.Subst.-.Nom.Pl.Masc	no	-	-	-	-	-
+auch	-	auch	ADV	ADV	no	-	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	-	-	-	-	-
+Gesammtbeschluß	-	Gesammtbeschluß	NN	N.Reg.Acc.Sg.Masc	no	-	-	-	-	-
+beider	-	beide	PIAT	PRO.Indef.Attr.-.Gen.Pl.Fem	no	-	-	-	-	-
+Kammern	-	Kammer	NN	N.Reg.Gen.Pl.Fem	no	-	-	-	-	-
+erfolgt	-	erfolgen	ADJD	VPP.Full.Psp	no	-	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	-	-	-	-	-

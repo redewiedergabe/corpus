@@ -1,0 +1,387 @@
+tok	normtok	lemma	pos	rfpos	sentstart	stwr	frame	speaker	intexpr	note
+Telegramme	-	Telegramm	NN	N.Reg.Nom.Pl.Neut	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Wien	-	Wien	NE	N.Name.Nom.Sg.Neut	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+3.	-	3.	ADJA	ADJA.Pos.Nom.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Tel	-	Orig.-Tel	NN	N.Name.Nom.Sg.*	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	yes	-	-	-	-	-
+„Mähr	-	„Mähr	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	N.Reg.Nom.Sg.Neut	yes	-	-	-	-	-
+.“	-	.“	NN	CARD	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	-	frame.1	speaker.1	-	-
+verlautet	-	verlauten	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	frame.1	-	intexpr.1	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.1	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	indirect.writing.1	-	-	-	-
+Zusammenkunft	-	Zusammenkunft	NN	N.Reg.Nom.Sg.Fem	no	indirect.writing.1	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	indirect.writing.1	-	-	-	-
+Keisers	-	Keiser	NN	N.Reg.Gen.Sg.Masc	no	indirect.writing.1	-	-	-	-
+Franz	-	Franz	NE	N.Name.Nom.Sg.Masc	no	indirect.writing.1	-	-	-	-
+Joseph	-	Joseph	NE	N.Name.Nom.Sg.Masc	no	indirect.writing.1	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	indirect.writing.1	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Neut	no	indirect.writing.1	-	-	-	-
+Czaren	-	Czaren	NN	N.Reg.Dat.Sg.Neut	no	indirect.writing.1	-	-	-	-
+werde	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Subj	no	indirect.writing.1	-	-	-	-
+erst	-	erst	ADV	ADV	no	indirect.writing.1	-	-	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Masc	no	indirect.writing.1	-	-	-	-
+September	-	September	NN	N.Reg.Dat.Sg.Masc	no	indirect.writing.1	-	-	-	-
+stattfinden	-	stattfinden	VVFIN	VINF.Full.-	no	indirect.writing.1	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.writing.1	-	-	-	-
+Aussee	-	Aussee	NE	N.Name.Nom.Sg.Masc	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+2.	-	2.	ADJA	ADJA.Pos.*.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.*.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Telgr	-	Orig.-Telgr	NN	N.Name.Nom.Sg.*	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+d	-	d	NE	N.Name.*.*.*	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+„Mähr	-	„Mähr	NN	N.Reg.Nom.Sg.Masc	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	N.Name.Nom.Sg.*	yes	-	-	-	-	-
+.“	-	.“	NN	CARD	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	-	-	-	-	-
+Kräfteverfall	-	Kräfteverfall	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+bei	-	bei	APPR	APPR.Dat	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+Gräfin	-	Gräfin	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+Meran	-	Meran	NE	N.Name.Nom.Sg.Neut	no	-	-	-	-	-
+nimmt	-	nehmen	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	-	-	-	-
+rasch	-	rasch	ADJD	ADJD.Pos	no	-	-	-	-	-
+zu	-	zu	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Das	-	der	ART	ART.Def.Nom.Sg.Neut	yes	-	-	-	-	-
+Bewußtsein	-	Bewußtsein	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	-	-	-	-	-
+sehr	-	sehr	ADV	ADV	no	-	-	-	-	-
+getrübt	-	trüben	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Nom.Sg.Masc	no	-	-	-	-	-
+Zustand	-	Zustand	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+sehr	-	sehr	ADV	ADV	no	-	-	-	-	-
+besorgnißerregend	-	besorgnißerregend	ADJD	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Ischl	-	Ischl	ADJA	N.Name.Nom.Sg.Masc	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+1.	-	1.	ADJA	ADJA.Pos.Dat.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Telegr	-	Orig.-Telegr	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	yes	-	-	-	-	-
+„M	-	„M	NN	FM	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	FM	no	-	-	-	-	-
+.“	-	.“	NN	FM	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Reichsfinanzminister	-	Reichsfinanzminister	NN	N.Reg.Nom.Sg.Masc	yes	-	-	-	-	-
+v	-	v	VVFIN	ADJD.Pos	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Kallay	-	Kallay	NE	N.Name.Nom.Sg.*	no	-	-	-	-	-
+ist	-	sein	VAFIN	VFIN.Sein.3.Sg.Pres.Ind	no	-	-	-	-	-
+heute	-	heute	ADV	ADV	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Ischl	-	Ischl	NN	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+eingetroffen	-	eintreffen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Neut	no	-	-	-	-	-
+Hotel	-	Hotel	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+„Kaiserin	-	„Kaiserin	NN	FM	no	-	-	-	-	-
+Elisabeth“	-	Elisabeth“	NE	FM	no	-	-	-	-	-
+abgest	-	abgest	ADJA	FM	no	-	-	-	-	-
+i	-	i	NN	FM	yes	-	-	-	-	-
+egen	-	egen	VVFIN	VINF.Full.-	yes	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Paris	-	Paris	NE	N.Name.Nom.Sg.Neut	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+1.	-	1.	ADJA	ADJA.Pos.Dat.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Telegr	-	Orig.-Telegr	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	yes	-	-	-	-	-
+„M	-	„M	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	N.Name.Nom.Sg.*	no	-	-	-	-	-
+.“	-	.“	NN	CARD	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+In	-	in	APPR	APPR.In	yes	-	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	-	-	-	-	-
+gestrigen	-	gestrig	ADJA	ADJA.Pos.Dat.Sg.Fem	no	-	-	-	-	-
+Sitzung	-	Sitzung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Münzconferenz	-	Münzconferenz	NN	N.Reg.Gen.Sg.Fem	no	-	-	-	-	-
+lehnten	-	lehnen	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Masc	no	-	-	-	-	-
+Delegirten	-	delegirt	NN	N.Reg.Nom.Pl.Masc	no	-	-	-	-	-
+Frankreichs	-	Frankreich	NE	N.Name.Gen.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Schweiz	-	Schweiz	NE	N.Name.Gen.Sg.Fem	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+Italiens	-	Italien	NE	N.Name.Gen.Sg.Neut	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+von	-	von	APPR	APPR.Dat	no	-	-	-	-	-
+Belgien	-	Belgien	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+verlangte	-	verlangt	VVFIN	ADJA.Pos.Acc.Sg.Fem	no	-	-	-	-	-
+neuerliche	-	neuerlich	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	-	-	-	-
+Verlängerung	-	Verlängerung	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	-	-	-	-	-
+Convention	-	Convention	NN	N.Reg.Gen.Sg.Fem	no	-	-	-	-	-
+vom	-	von	APPRART	APPRART.Dat.Sg.Neut	no	-	-	-	-	-
+Jahre	-	Jahr	NN	N.Reg.Dat.Sg.Neut	no	-	-	-	-	-
+1878	-	1878	CARD	CARD	no	-	-	-	-	-
+ab	-	ab	PTKVZ	PART.Verb	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Conferenz	-	Conferenz	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+verwarf	-	verwerfen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+weiters	-	weiter	NN	ADJD.Pos	no	-	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.writing.8	-	-	-	-
+Antrag	-	Antrag	NN	N.Reg.Acc.Sg.Masc	no	reported.writing.8	-	-	intexpr.8	-
+Belgiens	-	Belgien	NE	N.Name.Gen.Sg.Neut	no	reported.writing.8	-	speaker.8	-	-
+,	-	--	$,	SYM.Pun.Comma	no	reported.writing.8	-	-	-	-
+welcher	-	welcher	PWS	PRO.Rel.Subst.-.Nom.Sg.Masc	no	reported.writing.8	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	reported.writing.8	-	-	-	-
+Erleichterung	-	Erleichterung	NN	N.Reg.Acc.Sg.Fem	no	reported.writing.8	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.writing.8	-	-	-	-
+Liquidation	-	Liquidation	NN	N.Reg.Gen.Sg.Fem	no	reported.writing.8	-	-	-	-
+nach	-	nach	APPR	APPR.Dat	no	reported.writing.8	-	-	-	-
+erfolgter	-	erfolgt	ADJA	ADJA.Pos.Dat.Sg.Fem	no	reported.writing.8	-	-	-	-
+Auflösung	-	Auflösung	NN	N.Reg.Dat.Sg.Fem	no	reported.writing.8	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Sg.Fem	no	reported.writing.8	-	-	-	-
+Union	-	Union	NN	N.Reg.Gen.Sg.Fem	no	reported.writing.8	-	-	-	-
+bezweckt	-	bezwecken	VVPP	VPP.Full.Psp	no	reported.writing.8	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+worauf	-	worauf	PWAV	PROADV.Inter	no	-	frame.3	-	-	-
+die	-	der	ART	ART.Def.Nom.Pl.Fem	no	-	frame.3	-	-	-
+belgischen	-	belgisch	ADJA	ADJA.Pos.Nom.Pl.Fem	no	-	frame.3	-	-	-
+Delegirten	-	Delegirte	NN	N.Reg.Nom.Pl.Fem	no	-	frame.3	speaker.3	-	-
+erklärten	-	erklären	VVFIN	VFIN.Full.3.Pl.Past.Ind	no	-	frame.3	-	intexpr.3	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.3	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.speech.3	-	-	-	-
+dieser	-	dieser	PDAT	PRO.Dem.Attr.-.Nom.Sg.Masc	no	indirect.speech.3	-	-	-	-
+Beschluß	-	Beschluß	NN	N.Reg.Nom.Sg.Masc	no	indirect.speech.3	-	-	-	-
+Belgien	-	Belgien	NE	N.Name.Nom.Sg.Neut	no	indirect.speech.3	-	-	-	-
+wahrscheinlich	-	wahrscheinlich	ADJD	ADJD.Pos	no	indirect.speech.3	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Masc	no	indirect.speech.3	-	-	-	-
+Austritt	-	Austritt	NN	N.Reg.Dat.Sg.Masc	no	indirect.speech.3	-	-	-	-
+aus	-	aus	APPR	APPR.Dat	no	indirect.speech.3	-	-	-	-
+der	-	der	ART	ART.Def.Dat.Sg.Fem	no	indirect.speech.3	-	-	-	-
+Union	-	Union	NN	N.Reg.Dat.Sg.Fem	no	indirect.speech.3	-	-	-	-
+zwingen	-	zwingen	VVINF	VINF.Full.-	no	indirect.speech.3	-	-	-	-
+werde	-	werden	VAFIN	VFIN.Aux.3.Sg.Pres.Subj	no	indirect.speech.3	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.speech.3	-	-	-	-
+Berlin	-	Berlin	NE	N.Name.Nom.Sg.Neut	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+1.	-	1.	ADJA	ADJA.Pos.Dat.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.Dat.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Telegr	-	Orig.-Telegr	NN	N.Reg.Nom.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	yes	-	-	-	-	-
+„M	-	„M	NN	FM	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	FM	no	-	-	-	-	-
+.“	-	.“	NN	FM	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Die	-	der	ART	ART.Def.Nom.Sg.Fem	yes	-	-	-	-	-
+Eröffnungssitzung	-	Eröffnungssitzung	NN	N.Reg.Nom.Sg.Fem	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	-	-	-	-	-
+internatioonalen	-	internatioonal	ADJA	ADJA.Pos.Gen.Sg.Masc	no	-	-	-	-	-
+Telegraphen-Congresses	-	Telegraphen-Congreß	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+wurde	-	werden	VAFIN	VFIN.Aux.3.Sg.Past.Ind	no	-	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	-	-	-	-	-
+Genehmigung	-	Genehmigung	NN	N.Reg.Dat.Sg.Fem	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	no	-	-	-	-	-
+Kaisers	-	Kaiser	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+auf	-	auf	APPR	APPR.Auf	no	-	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	-	-	-	-	-
+10.	-	10.	ADJA	ADJA.Pos.Acc.Sg.Masc	no	-	-	-	-	-
+d	-	d	NN	N.Name.*.*.*	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Mittags	-	Mittag	ADV	ADV	no	-	-	-	-	-
+12	-	12	CARD	CARD	no	-	-	-	-	-
+Uhr	-	Uhr	NN	N.Reg.*.*.Fem	no	-	-	-	-	-
+festgesetzt	-	festsetzen	VVPP	VPP.Full.Psp	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Ottawa	-	Ottawa	NE	N.Name.Nom.Sg.Neut	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+2.	-	2.	ADJA	ADJA.Pos.*.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.*.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Orig.-Teleg	-	Orig.-Teleg	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Masc	yes	-	-	-	-	-
+„Mähr	-	„Mähr	NN	N.Reg.Gen.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagblattes“.	-	Tagblattes“.	NE	N.Name.Nom.Sg.*	yes	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	reported.speech.9	-	-	-	-
+Gerichtshof	-	Gerichtshof	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.9	-	speaker.9	-	-
+von	-	von	APPR	APPR.Dat	no	reported.speech.9	-	-	-	-
+Rigina	-	Rigina	NN	N.Name.Dat.Sg.Neut	no	reported.speech.9	-	-	-	-
+verurtheilte	-	verurtheilen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.speech.9	-	-	intexpr.9	-
+Riel	-	Riel	NE	N.Reg.Acc.Sg.Neut	no	reported.speech.9	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Masc	no	reported.speech.9	-	-	-	-
+Tode	-	Tod	NN	N.Reg.Dat.Sg.Masc	no	reported.speech.9	-	-	-	-
+durch	-	durch	APPR	APPR.Acc	no	reported.speech.9	-	-	-	-
+den	-	der	ART	ART.Def.Acc.Sg.Masc	no	reported.speech.9	-	-	-	-
+Strang	-	Strang	NN	N.Reg.Acc.Sg.Masc	no	reported.speech.9	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.9	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	reported.speech.4	-	-	-	-
+Verurtheilte	-	verurtheilter	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.4	-	speaker.4	-	-
+meldete	-	melden	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	reported.speech.4	-	-	intexpr.4	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.4	-	-	-	-
+Appellation	-	Appellation	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.4	-	-	-	-
+an	-	an	PTKVZ	PART.Verb	no	reported.speech.4	-	-	intexpr.4	-
+.	-	--	$.	SYM.Pun.Sent	no	reported.speech.4	-	-	-	-
+Petersburg	-	Petersburg	NE	N.Name.Nom.Sg.Neut	yes	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+2.	-	2.	ADJA	ADJA.Pos.*.Sg.Masc	yes	-	-	-	-	-
+August	-	August	NN	N.Reg.*.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+date	-	dat	ADJA	N.Reg.Nom.Sg.Fem	yes	-	-	-	-	-
+(	-	--	$(	SYM.Paren.Left	yes	-	-	-	-	-
+Origl.-Telg	-	Origl.-Telg	NN	N.Reg.Nom.Sg.Masc	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	yes	-	-	-	-	-
+„Mähr	-	„Mähr	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Tagbl	-	Tagbl	NE	N.Reg.Nom.Sg.Neut	yes	-	-	-	-	-
+.“	-	.“	NN	CARD	no	-	-	-	-	-
+)	-	--	$(	SYM.Paren.Right	no	-	-	-	-	-
+Das	-	der	ART	ART.Def.Nom.Sg.Neut	yes	-	frame.5	-	-	-
+„Journal	-	„Journal	NN	N.Reg.Nom.Sg.Neut	no	-	frame.5	speaker.5_11	-	-
+de	-	de	NE	N.Name.*.*.*	no	-	frame.5	speaker.5_11	-	-
+St	-	--	NE	N.Reg.Nom.*.*	no	-	frame.5	speaker.5_11	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	frame.5	speaker.5_11	-	-
+Petersburg“	-	Petersburg“	NE	N.Reg.Nom.Sg.Neut	no	-	frame.5	speaker.5_11	-	-
+bemerkt	-	bemerken	VVFIN	VFIN.Full.3.Sg.Pres.Ind	no	-	frame.5	-	intexpr.5	-
+über	-	über	APPR	APPR.über	no	-	frame.5	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	reported.speech.10	frame.5	-	-	-
+Rede	-	Rede	NN	N.Reg.Acc.Sg.Fem	no	reported.speech.10	frame.5	-	intexpr.10	-
+Lord	-	Lord	NN	N.Reg.Nom.Sg.Masc	no	reported.speech.10	frame.5	speaker.10	-	-
+Salisburys	-	Salisbury	NE	N.Name.Gen.Sg.Masc	no	reported.speech.10	frame.5	speaker.10	-	-
+im	-	in	APPRART	APPRART.Dat.Sg.Neut	no	reported.speech.10	frame.5	-	-	-
+Mansion-House	-	Mansion-House	NN	N.Reg.Dat.Sg.Neut	no	reported.speech.10	frame.5	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	frame.5	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect.writing.5	-	-	-	-
+derselbe	-	derselbe	PDS	PRO.Dem.Subst.-.Nom.Sg.Masc	no	indirect.writing.5	-	-	-	-
+nicht	-	nicht	PTKNEG	PART.Neg	no	indirect.writing.5	-	-	-	-
+immer	-	immer	ADV	ADV	no	indirect.writing.5	-	-	-	-
+eine	-	ein	ART	ART.Indef.Acc.Sg.Fem	no	indirect.writing.5	-	-	-	-
+solche	-	solcher	PIAT	PRO.Indef.Attr.-.Acc.Sg.Fem	no	indirect.writing.5	-	-	-	-
+Sprache	-	Sprache	NN	N.Reg.Acc.Sg.Fem	no	indirect.writing.5	-	-	-	-
+führte	-	führen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	indirect.writing.5	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect.writing.5	-	-	-	-
+Es	-	es	PPER	PRO.Pers.Subst.3.Nom.Sg.Neut	yes	-	-	-	-	-
+geschah	-	geschehen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	-	-	-	-	-
+dieß	-	dieß	ADJD	ADJD.Pos	no	-	-	-	-	-
+seitdem	-	seitdem	PAV	PROADV.Dem	no	-	-	-	-	-
+er	-	er	PPER	PRO.Pers.Subst.3.Nom.Sg.Masc	no	-	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	-	-	-	-	-
+über	-	über	APPR	APPR.über	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Fem	no	-	-	-	-	-
+Stimmungen	-	Stimmung	NN	N.Reg.Acc.Pl.Fem	no	-	-	-	-	-
+in	-	in	APPR	APPR.In	no	-	-	-	-	-
+Europa	-	Europa	NE	N.Name.Dat.Sg.Neut	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+über	-	über	APPR	APPR.über	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Sg.Fem	no	-	-	-	-	-
+russische	-	russisch	ADJA	ADJA.Pos.Acc.Sg.Fem	no	-	-	-	-	-
+Politik	-	Politik	NN	N.Reg.Acc.Sg.Fem	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	-	-	-	-	-
+Interessen	-	Interesse	NN	N.Reg.Acc.Pl.Neut	no	-	-	-	-	-
+des	-	der	ART	ART.Def.Gen.Sg.Neut	no	-	-	-	-	-
+eigenen	-	eigen	ADJA	ADJA.Pos.Gen.Sg.Neut	no	-	-	-	-	-
+Landes	-	Land	NN	N.Reg.Gen.Sg.Neut	no	-	-	-	-	-
+und	-	und	KON	CONJ.Coord.-	no	-	-	-	-	-
+die	-	der	ART	ART.Def.Acc.Pl.Neut	no	-	-	-	-	-
+geeignetsten	-	geeignetst	ADJA	ADJA.Sup.Acc.Pl.Neut	no	-	-	-	-	-
+Mittel	-	Mittel	NN	N.Reg.Acc.Pl.Neut	no	-	-	-	-	-
+dieselbe	-	derselbe	PDS	PRO.Dem.Subst.-.Acc.Sg.Fem	no	-	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	-	-	-	-	-
+schützen	-	schützen	VVINF	VINF.Full.-	no	-	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	-	-	-	-	-
+unterrichten	-	unterrichten	VVINF	VINF.Full.-	no	-	-	-	-	-
+konnte	-	können	VMFIN	VFIN.Mod.3.Sg.Past.Ind	no	-	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	-	-	-	-	-
+Der	-	der	ART	ART.Def.Nom.Sg.Masc	yes	indirect freeIndirect.writing.11	frame.6	-	-	-
+Wunsch	-	Wunsch	NN	N.Reg.Nom.Sg.Masc	no	indirect freeIndirect.writing.11	frame.6	-	intexpr.6	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	frame.6	-	-	-
+England	-	England	NE	N.Name.Acc.Sg.Neut	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+dem	-	der	ART	ART.Def.Dat.Sg.Masc	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+Kreise	-	Kreis	NN	N.Reg.Dat.Sg.Masc	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+der	-	der	ART	ART.Def.Gen.Pl.Fem	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+mit	-	mit	APPR	APPR.Dat	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+Rußland	-	Rußland	NE	N.Name.Dat.Sg.Neut	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+geschlossenen	-	geschlossen	ADJA	ADJA.Pos.Gen.Pl.Fem	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+Allianzen	-	Allianz	NN	N.Reg.Gen.Pl.Fem	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+aufgenommen	-	aufnehmen	VVPP	ADJD.Pos	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+sehen	-	sehen	VVINF	VINF.Full.-	no	indirect freeIndirect.writing.11|indirect.thought.6	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	-	-	-	-
+scheine	-	schein	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	indirect freeIndirect.writing.11	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect freeIndirect.writing.11	-	-	-	-
+überzeugen	-	überzeugen	VVINF	VINF.Full.-	no	indirect freeIndirect.writing.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	-	-	-	-
+daß	-	daß	KOUS	CONJ.SubFin.-	no	indirect freeIndirect.writing.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	-	-	-	-
+wenn	-	wenn	KOUS	CONJ.SubFin.-	no	indirect freeIndirect.writing.11	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	indirect freeIndirect.writing.11	-	-	-	-
+jemals	-	jemals	ADV	ADV	no	indirect freeIndirect.writing.11	-	-	-	-
+in	-	in	APPR	APPR.In	no	indirect freeIndirect.writing.11	-	-	-	-
+London	-	London	NE	N.Name.Dat.Sg.Neut	no	indirect freeIndirect.writing.11	-	-	-	-
+beabsichtigte	-	beabsichtigen	VVFIN	VFIN.Full.3.Sg.Past.Ind	no	indirect freeIndirect.writing.11	-	-	-	-
+die	-	der	ART	ART.Def.Nom.Sg.Fem	no	indirect freeIndirect.writing.11	-	-	-	-
+continentale	-	continental	ADJA	ADJA.Pos.Nom.Sg.Fem	no	indirect freeIndirect.writing.11	-	-	-	-
+Gemeinschaft	-	Gemeinschaft	NN	N.Reg.Nom.Sg.Fem	no	indirect freeIndirect.writing.11	-	-	-	-
+zum	-	zu	APPRART	APPRART.Dat.Sg.Masc	no	indirect freeIndirect.writing.11	-	-	-	-
+Nutzen	-	Nutzen	NN	N.Reg.Dat.Sg.Masc	no	indirect freeIndirect.writing.11	-	-	-	-
+Englands	-	England	NN	N.Name.Gen.Sg.Neut	no	indirect freeIndirect.writing.11	-	-	-	-
+zu	-	zu	PTKZU	PART.Zu	no	indirect freeIndirect.writing.11	-	-	-	-
+brechen	-	brechen	VVINF	VINF.Full.-	no	indirect freeIndirect.writing.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	indirect freeIndirect.writing.11	-	-	-	-
+jetzt	-	jetzt	ADV	ADV	no	indirect freeIndirect.writing.11	-	-	-	-
+darauf	-	darauf	PAV	PROADV.Dem	no	indirect freeIndirect.writing.11	-	-	-	-
+verzichtet	-	verzichten	VVPP	VFIN.Full.3.Sg.Pres.Ind	no	indirect freeIndirect.writing.11	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.writing.11	-	-	-	-
+Man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	yes	indirect freeIndirect.writing.11	-	-	-	-
+halte	-	halten	VVFIN	VFIN.Full.3.Sg.Pres.Subj	no	indirect freeIndirect.writing.11	-	-	-	-
+es	-	es	PPER	PRO.Pers.Subst.3.Acc.Sg.Neut	no	indirect freeIndirect.writing.11	-	-	-	-
+für	-	für	APPR	APPR.Acc	no	indirect freeIndirect.writing.11	-	-	-	-
+practischer	-	practisch	ADJA	ADJD.Comp	no	indirect freeIndirect.writing.11	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	indirect freeIndirect.writing.11	-	-	-	-
+dieser	-	dieser	PDAT	PRO.Dem.Attr.-.Dat.Sg.Fem	no	indirect freeIndirect.writing.11	-	-	-	-
+Gemeinschaft	-	Gemeinschaft	NN	N.Reg.Dat.Sg.Fem	no	indirect freeIndirect.writing.11	-	-	-	-
+anzuschließen	-	anschließen	VVIZU	VINF.Full.zu	no	indirect freeIndirect.writing.11	-	-	-	-
+,	-	--	$,	SYM.Pun.Comma	no	indirect freeIndirect.writing.11	-	-	-	-
+indem	-	indem	KOUS	CONJ.SubFin.-	no	indirect freeIndirect.writing.11	-	-	-	-
+man	-	man	PIS	PRO.Indef.Subst.-.Nom.Sg.*	no	indirect freeIndirect.writing.11	-	-	-	-
+sich	-	sich	PRF	PRO.Refl.Subst.3.Acc.Sg.*	no	indirect freeIndirect.writing.11	-	-	-	-
+ihrem	-	ihr	PPOSAT	PRO.Poss.Attr.-.Dat.Sg.Neut	no	indirect freeIndirect.writing.11	-	-	-	-
+Friedensprogramm	-	Friedensprogramm	NN	N.Reg.Dat.Sg.Neut	no	indirect freeIndirect.writing.11	-	-	-	-
+anpaßt	-	anpassen	VVFIN	VPP.Full.Psp	no	indirect freeIndirect.writing.11	-	-	-	-
+.	-	--	$.	SYM.Pun.Sent	no	indirect freeIndirect.writing.11	-	-	-	-
