@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Brüder</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Die_Brueder.tg300_1.xml</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die Brüder</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron_single</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alles Leid war jetzt vergessen und die Mutter konnte in ihrem Freudentaumel die Stunde des Wiedersehens kaum erwarten. Ich aber – so unnatürlich traurig war ich vom Schicksal gestellt – sah der Ankunft des Bruders mit doppeltem Bangen entgegen ...
+                     Ich hatte nämlich eine erste Herzensneigung zu der Tochter eines Kaufmanns gefaßt. Das Mädchen war zu Linz in einem Kloster erzogen worden und befand sich erst seit einem halben Jahre wieder dauernd im elterlichen Hause. Eine anmutige Blondine mit braunen Augen, die fröhlich in die Welt hineinblickten. Sie schien meine Empfindungen zu teilen; auch ihren Eltern, die mit uns näher bekannt waren, konnte eine eheliche Verbindung nicht unwillkommen sein. <seg id="1" type="speaker">Wir</seg> galten also im Städtchen gewissermaßen als Verlobte, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">obgleich eine bestimmte <seg id="1" type="intExpr">Erklärung</seg> noch nicht erfolgt war.</said> Und nun sollte mein Bruder kommen! <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Ich</seg> hatte sofort die <seg id="2" type="intExpr">Überzeugung</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">daß er mir das Mädchen entfremden – daß er es zu sich hinüberziehen werde.</said> So geschah es. Kaum war er da, so hatte auch Hedwig kein Auge mehr für mich: es war, als hätte sie nur darauf gewartet, sich ihm in die Arme zu werfen. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Ich</seg> brauche nicht erst zu <seg id="3" type="intExpr">sagen</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes">daß sich zwischen den beiden ein Liebesverhältnis entspann</said>, das ich insofern begünstigte, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">als <seg id="4" type="speaker">ich</seg> mich mit dem bitteren Gefühl, gegen Xaver nicht aufkommen zu können, <seg id="4" type="intExpr">schweigend</seg> zurückgezogen hatte</said>; auch schien den Eltern, die ziemlich wohlhabend waren, der glänzende Offizier als Eidam erwünschter zu sein, als der – Bauer, <said id="5" mode="reported" content="speech" level="1">wie <seg id="5" type="speaker">er</seg> mich jetzt <seg id="5" type="intExpr">nannte</seg>.</said> 
+                     Xaver hatte einen achtwöchentlichen Urlaub, der ihm auf sein Ansuchen um vierzehn Tage verlängert wurde. Endlich rückte die Zeit des Abschiedes heran. Da trat er eines Tages – ich war gerade von unseren Feldern nach Hause gekommen – in mein Zimmer. <said id="6" mode="direct" content="speech" level="1">›Nun,‹</said> <seg id="6" type="frame" pos="mid"><seg id="6" type="intExpr">sagte</seg> <seg id="6 8 10 12" type="speaker">er</seg> ohne jede Einleitung,</seg> <said id="6" mode="direct" content="speech" level="1">›wann wirst du denn die Hedwig heiraten?‹</said> 
+                     <said id="7" mode="direct" content="speech" level="1">›Ich?‹</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">erwiderte</seg> <seg id="7 9 11" type="speaker">ich</seg> erstaunt.</seg> 
+                     <said id="8" mode="direct" content="speech" level="1">›Ja, du. Du bist doch mit ihr verlobt.‹</said> 
+                     
+                        <said id="9" mode="direct" content="speech" level="1">›Das war ich nie. Und wenn ich es auch gewesen wäre, so bist ja jetzt du –‹</said> 
+                     <said id="10" mode="direct" content="speech" level="1">›Nun ja, ich hab' sie gern. Aber heiraten werd' ich sie nicht.‹</said> 
+                     <said id="11" mode="direct" content="speech" level="1">›Warum denn nicht?‹</said> 
+                     <said id="12" mode="direct" content="speech" level="1">›Ach was! Als Offizier – und so ein Mädel! Der Alte könnte zwar die Kaution hergeben. Aber es fällt mir nicht ein, so früh ins Joch zu kriechen.‹</said> 
+                     <said id="13" mode="direct" content="speech" level="1">›Nun, das ist deine Sache‹</said><seg id="13" type="frame" pos="end">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">ich</seg> und wollte das Gespräch abbrechen.</seg> 
+                     <said id="14" mode="direct" content="speech" level="1">›Allerdings ist es meine Sache‹</said><seg id="14" type="frame" pos="end">, <seg id="14" type="intExpr">fuhr</seg> <seg id="14 15" type="speaker">er</seg> aufbrausend <seg id="14" type="intExpr">fort</seg>.</seg> <said id="15" mode="direct" content="speech" level="1">›Aber die Hedwig kann nicht so allein bleiben. Sie muß heiraten – und das bald.‹</said> 
+                     <said id="16" mode="reported" content="thought" level="1">Nun <seg id="16" type="intExpr">war</seg> <seg id="16" type="speaker">mir</seg> alles <seg id="16" type="intExpr">klar</seg>.</said> <seg id="20" type="speaker">Er</seg> hatte Hedwig verführt – und ich sollte die Folgen auf mich nehmen! Die Ungeheuerlichkeit dieser Zumutung traf mich wie ein Keulenschlag vor die Stirn. <said id="17" mode="reported" content="speech" level="1" nonfact="yes"><seg id="17" type="speaker">Ich</seg> fand kein Wort der <seg id="17" type="intExpr">Erwiderung</seg>.</said> Endlich hatte ich mich soweit gefaßt, <seg id="18" type="frame" pos="start">daß <seg id="18" type="speaker">ich</seg> <seg id="18" type="intExpr">sagen</seg> konnte:</seg> <said id="18" mode="direct" content="speech" level="1">›<said id="19" mode="reported" content="speech" level="2" nonfact="yes">Darauf geb' <seg id="19" type="speaker">ich</seg> gar keine <seg id="19" type="intExpr">Antwort</seg>.</said>‹</said> 
+                     <said id="20" mode="direct" content="speech" level="1">›Brauchst auch keine zu geben. Triff nur deine Anstalten, Hedwig ist ganz einverstanden.‹</said> 
+                     <said id="21" mode="reported" content="thought" level="1">Jetzt hatte <seg id="21" type="speaker">ich</seg> auch die <seg id="21" type="intExpr">Erklärung</seg> für das rätselhafte Benehmen des Mädchens</said>, das in letzter Zeit, gewiß auf seine Veranlassung, jede Gelegenheit benützt hatte, sich mir mit einschmeichelnder Freundlichkeit wieder zu nähern. Ein Abgrund tat sich vor mir auf <said id="22" mode="reported" content="speech" level="1" nonfact="yes">Elender! wollte <seg id="22" type="speaker">ich</seg> <seg id="22" type="intExpr">ausrufen</seg></said> – aber ich bezwang mich.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
