@@ -1,0 +1,369 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<typeSystemDescription xmlns="http://uima.apache.org/resourceSpecifier">
+    <name>redeWiedergabeTypesystem</name>
+	
+    <description/>
+    <version>1.0</version>
+    <vendor/>
+	<types>
+    <typeDescription>
+      <name>de.idsma.rw.Metadata</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Name</name>
+          <description>
+          </description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Source</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>OrigFile</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>Year</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>Decade</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>Title</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>Author</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		  <featureDescription>
+          <name>Fictional</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>SampleID</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>Narrative</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>TextType</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>Dialect</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>Perspective</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>Quotes</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+	  </features>
+	  
+    </typeDescription>
+    
+    <typeDescription>
+      <name>de.idsma.rw.Frame</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Pos</name>
+          <description>- start
+- mid
+- end</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>Frame</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>FrameID</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+
+  <typeDescription>
+      <name>de.idsma.rw.Stwr</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Medium</name>
+          <description>- speech,
+- thought,
+- writing</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>RType</name>
+          <description>- direct,
+- indirect,
+- free indirect,
+- reported</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Level</name>
+          <description>- default value: 1,
+- increment for every embedded speech,
+- embedded story: -1</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>NonFact</name>
+          <description>- default value: unspec (unspecified),
+- neg (negated), 
+- hyp (hypothetical), 
+- fut (future), 
+- ques (question), 
+- imp (wish, imperative), 
+- plan (plan, intention)</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Prag</name>
+          <description>- default value: NULL</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Border</name>
+          <description>- default value: NULL,
+
+- values for thought representation: 
+- default value: unspec (unspecified), 
+- percept (perception),  
+- state (state), 
+- feel (feeling)</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Metaph</name>
+          <description>- default value: NULL</description>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>Stwr</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>StwrID</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    
+    <typeDescription>
+      <name>de.idsma.rw.Speaker</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    <features>
+        <featureDescription>
+          <name>SpeakerID</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>Speaker</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+    <typeDescription>
+      <name>de.idsma.rw.IntExpression</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    <features>
+        <featureDescription>
+          <name>IntExpressionID</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>IntExpression</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+
+
+    <typeDescription>
+      <name>de.uniwue.kalimachos.coref.type.TeiType</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>TagName</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Attributes</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+
+	  <typeDescription>
+      <name>de.idsma.rw.CabToken</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Id</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>Xlit</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+        <featureDescription>
+          <name>Canon</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      <featureDescription>
+          <name>Pos</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+		 <featureDescription>
+          <name>Lemma</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+          <featureDescription>
+              <name>RfPos</name>
+              <description/>
+              <rangeTypeName>uima.cas.String</rangeTypeName>
+          </featureDescription>
+      </features>
+    </typeDescription>
+
+	  <typeDescription>
+      <name>de.idsma.rw.Sentence</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+      <features>
+        <featureDescription>
+          <name>Id</name>
+          <description/>
+          <rangeTypeName>uima.cas.String</rangeTypeName>
+        </featureDescription>
+      </features>
+    </typeDescription>
+
+	  <typeDescription>
+      <name>de.idsma.rw.Text</name>
+      <description/>
+      <supertypeName>uima.tcas.Annotation</supertypeName>
+    </typeDescription>
+
+    <typeDescription>
+        <name>de.idsma.rw.preprocessing.Token</name>
+        <description>openNLPTokenizer</description>
+        <supertypeName>uima.tcas.Annotation</supertypeName>
+        <features>
+            <featureDescription>
+                <name>Lemma</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>RfPos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>Pos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>TokenId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>CPos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>Morphology</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>DependencyHead</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>DependencyRelation</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>NamedEntity</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>CorefId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+        </features>
+        </typeDescription>
+
+    <typeDescription>
+        <name>de.idsma.rw.preprocessing.OpenNLPSentence</name>
+        <description>OpenNLP sentence detector</description>
+        <supertypeName>uima.tcas.Annotation</supertypeName>
+        <features>
+            <featureDescription>
+                <name>SentenceId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+        </features>
+    </typeDescription>
+
+    </types>
+</typeSystemDescription>
