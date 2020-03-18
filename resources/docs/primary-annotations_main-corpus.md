@@ -27,5 +27,6 @@ The following table lists the annotation agreement scores for 834 samples of the
 | only direct   | 0,92          | 0.89          |
 | only indirect | 0,73          | 0.68          |
 | only reported | 0,49          | 0.47          | 
+
 *There are no scores provided for the types free indirect and indirect free indirect, as those were too infrequent to calculate meaningful scores.*
 
