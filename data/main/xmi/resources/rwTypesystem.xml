@@ -294,6 +294,76 @@
       <supertypeName>uima.tcas.Annotation</supertypeName>
     </typeDescription>
 
+    <typeDescription>
+        <name>de.idsma.rw.preprocessing.Token</name>
+        <description>openNLPTokenizer</description>
+        <supertypeName>uima.tcas.Annotation</supertypeName>
+        <features>
+            <featureDescription>
+                <name>Lemma</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>RfPos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>Pos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>TokenId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>CPos</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>Morphology</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>DependencyHead</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>DependencyRelation</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>NamedEntity</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+            <featureDescription>
+                <name>CorefId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+        </features>
+        </typeDescription>
+
+    <typeDescription>
+        <name>de.idsma.rw.preprocessing.OpenNLPSentence</name>
+        <description>OpenNLP sentence detector</description>
+        <supertypeName>uima.tcas.Annotation</supertypeName>
+        <features>
+            <featureDescription>
+                <name>SentenceId</name>
+                <description/>
+                <rangeTypeName>uima.cas.String</rangeTypeName>
+            </featureDescription>
+        </features>
+    </typeDescription>
 
     </types>
 </typeSystemDescription>
