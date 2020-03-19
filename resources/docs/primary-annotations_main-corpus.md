@@ -18,8 +18,7 @@ Click the following links to get familiar with the [annotation structure](annota
  In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
 
 ## Annotator agreement
-The following table lists the annotation agreement scores for 834 samples of the main corpus. If more than two primary annotation was available, two were chosen at random. 4 samples are missing in this calculation.
-
+The following table lists the annotator agreement scores for 834 samples of the main corpus (4 samples are missing in this calculation). If more than two primary annotation was available, two were chosen at random. 
 | annotations   | Fleiss’ Kappa |               |
 |---------------|---------------|---------------|
 |               | type          | type & medium |
