@@ -1,5 +1,7 @@
 # Primary annotations of the main corpus
 
+folder: [/data/additional/primary](/data/additional/primary)
+
  Each sample of the [main corpus](/data/main) was annotated independently by two different people. Then, a third person created a consens annotation on this basis - these are the annotations you find in the main corpus. 
  
  In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consens annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
