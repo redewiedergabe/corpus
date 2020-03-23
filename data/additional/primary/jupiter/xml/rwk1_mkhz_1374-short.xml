@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Schwurgerichtsverhandlungen.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_bayerische046_1850.txt_3.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Schwurgerichtsverhandlungen.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.bayerische</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Schwurgerichtsverhandlungen.
+                        
+            
+            
+               ✴
+               Würzburg, 18. Febr.
+            <said id="1" mode="reported" content="thought" level="1" border="yes">Die letzte Sitzung des Schwurgerichtshofes
+                        bot noch dem zahlreichen Publikum ein trauriges und abschreckendes Bild der menschlichen
+                        Verwirrung dar.</said> <said id="2" mode="reported" content="thought" level="1" border="yes">Eine Mutter sitzt, vor Scham
+                        tief in ihre Tücher gehüllt</said>, <seg id="3" type="frame" pos="start">der Schauderthat
+                        <seg id="3" type="intExpr">angeklagt</seg> vor uns,</seg> <said id="3" mode="indirect" content="speech writing" level="1">ihr neugebornes Kind lebendig <seg id="4" type="frame" pos="start">und <seg id="4" type="intExpr">in</seg> der <seg id="4" type="intExpr">Absicht</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">es zu tödten</said>, ins Was ser geworfen zu haben.</said> Die Kindsmörderin
+                        heißt Anna Maria Kemmeter und ist von Estenfeld; sie hatte schon früher einmal außerehelich
+                        geboren, <said id="5" mode="reported" content="speech" level="1">und die Verhandlung hat nur Weniges geboten, was ihr bei ihrer That als Entschuldigungsgrund, <said id="6" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">geschweige denn als Milderungsgrund ihrer Strafbarkeit hätte eingerechnet werden können.</said></said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Sie</seg> selbst <seg id="7" type="intExpr">gestand</seg> gleich
+                        anfangs,</seg> <said id="7" mode="indirect" content="speech" level="1">daß sie das Kind in den Bach geworfen habe</said>, <seg id="8" type="frame" pos="start">allein <seg id="8" type="speaker">sie</seg> <seg id="8" type="intExpr">behauptete</seg> dabei,</seg> <said id="8" mode="indirect" content="speech" level="1">daß
+                        es schon todt gewesen.</said> <said id="9" mode="reported" content="writing" level="1">Das ärztliche Gutachten</said>
+                        aber, und namentlich jenes des Herrn Hofrathes Dr. Kiewisch, <said id="10" mode="reported" content="speech" level="1">welches er in öffentlicher
+                        Sitzung mündlich wiederholte</said>, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">sprach</seg> sich bestimmt und entschieden dahin aus,</seg> <said id="11" mode="indirect" content="speech writing" level="1">daß das Kind
+                        nach seiner Geburt nicht nur lebensfähig war,
+                        sondern auch eines gewaltsamen Todes starb</said>,
+                        und zwar jedenfalls durch Erstickung, <seg id="13" type="frame" pos="start"><said id="12" mode="reported" content="thought" level="1" border="yes">nur darüber <seg id="13" type="intExpr">war</seg> eine unumstößliche <seg id="13" type="intExpr">Gewißheit</seg></said> nicht
+                        aber,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">ob es gerade erst im Wasser erstickt
+                        ist</said>, wofür übrigens die meiste Wahrscheinlichkeit vorhanden war. Nebstdem trug auch das
+                        todtgefundene Kind noch andere Spuren der
+                        Verletzung an sich, <seg id="14" type="frame" pos="start">die <seg id="14" type="intExpr">auf</seg> den <seg id="14" type="intExpr">Verdacht</seg> <seg id="14" type="intExpr">hinleiteten</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1">als habe die Mutter schon vorher Versuche gemacht, das Kind durch Andrücken an
+                        einen harten Körper zu ersticken</said>, denn nicht am
+                        ganzen Körper waren diese s. g. Schärfungen
+                        und Eindrücke, sondern nur an einer Seite des
+                        unschuldigen Opfers. <said id="15" mode="reported" content="speech" level="1">Die Thäterin ward ohne
+                        Minderung <said id="16" mode="reported" content="writing" level="2">der vom Gesetzbuche für den Kindsmord festgesetzten Strafe</said> auf unbestimmte Zeit
+                        zum Zuchthaus verurtheilt.</said> <said id="17" mode="reported" content="speech" level="1">Mit dieser Verhandlung schlossen sich die Sitzungen für das
+                        1. Quartal des Jahres 1850.</said> <said id="18" mode="reported" content="speech" level="1">Zuvor sprach sich
+                        noch der Hr. Präsident des Schwurgerichtshofes
+                        dankend aus gegen Alle, die dabei mitgewirkt
+                        hatten.</said>
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

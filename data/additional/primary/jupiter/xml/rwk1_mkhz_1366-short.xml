@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Auswanderung aus China.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung100_1852_4.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Die Auswanderung aus China.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Die Auswanderung aus China.
+                        
+            
+            
+               
+               * Hongkong, 29. October 1852.
+            Die Auswanderung von China nach Californien ist fast ganz in's
+                        Stocken gerathen, <said id="1" mode="reported" content="speech" level="1">seitdem man von Mißhandlungen hörte, welche die
+                        Chinesen von andern Minenarbeitern erfuhren.</said> Der <said id="2" mode="reported" content="thought" level="1" border="yes">Argwohn und das
+                        Mißtrauen, die bei den Chinesen dadurch hervorgerufen worden</said>, sind um
+                        so schwerer zu entfernen, als es überhaupt der besseren Classe ein großes
+                        Maaß von Ueberwindung gekostet hatte, <said id="3" mode="reported" content="thought" level="1" nonfact="yes">die uralten Vorurtheile gegen die
+                        „Barbaren“ so weit abzuschütteln</said>, <said id="4" mode="reported" content="thought" level="1">daß sie sich zur Auswanderung in die
+                        unbekannten entfernten Länder derselben entschließen konnten.</said> <said id="5" mode="reported" content="thought" level="1" border="yes">Columbus
+                        und seine Gefährten hatten mehr Kenntniß von Geographie</said>, <said id="6" mode="reported" content="thought" level="1" border="yes">als die Besten
+                        der Chinesen mit wenigen Ausnahmen jetzt noch besitzen.</said> Das Gold allein
+                        konnte <said id="7" mode="reported" content="thought" level="1">die Vorurtheile</said> überwinden und zwar bis jetzt auch nur zu Gunsten
+                        des amerikanischen Freistaates, dagegen besitzt es nicht genügende Anziehungskraft, um auch in die australischen Colonien Großbritanniens den chinesischen Auswanderer zu locken, und wohl in keinem Falle hat es sich bis
+                        jetzt so klar gezeigt, daß die Nationaldemüthigung vom Kriege her <said id="8" mode="reported" content="thought" level="1" border="yes">einen
+                        unüberwindlichen Haß bei den Chinesen speciell gegen die Engländer</said>
+                        hervorgerufen hat. Die Bedingungen, unter denen jeder Einwanderer in
+                        Australien Gold graben kann, sind in <said id="9" mode="reported" content="writing" level="1">Tausenden von Exemplaren in
+                        chinesischer Sprache</said> hier vertheilt worden, aber keine Auswanderer finden
+                        sich, und noch hat kein Schiff mit Passagieren dahin von hier aus gefüllt
+                        werden können. ( <said id="10" mode="reported" content="writing" level="1">Die China=Mail vom 29. October referirt dieselbe Thatsache</said>, <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">findet</seg> sie darin <seg id="11" type="intExpr">begründet</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1">daß die Probe von englischem Regiment,
+                        welches die Chinesen in Hongkong vor Augen haben, ihnen dasselbe verleidet ) .</said> Für San Francisco dagegen finden sich noch immer einige Passagiere, nicht so sehr angelockt durch die republikanischen Jnstitutionen der
+                        amerikanischen Freistaaten als vielmehr durch <said id="12" mode="reported" content="writing" level="1">die jetzt etwas günstiger
+                        lautenden Berichte ihrer Brüder</said>, <seg id="13" type="frame" pos="start">von denen <seg id="13" type="speaker">wir</seg> <seg id="13" type="intExpr">hoffen</seg> wollen,</seg> <said id="13" mode="indirect" content="thought" level="1">daß sie in
+                        Betreff der Reichhaltigkeit der Goldfelder sich bestätigen</said>, <seg id="14" type="frame" pos="start">während <seg id="14" type="speaker">wir</seg>
+                        namentlich auch zur Ehre der Civilisation <seg id="14" type="intExpr">vertrauen</seg> müssen,</seg> <said id="14" mode="indirect" content="thought" level="1" nonfact="yes">daß sie in Bezug
+                        auf den in Aussicht gestellten Schutz der Person und des Eigenthums sich
+                        verwirklichen.</said> -- <said id="15" mode="reported" content="speech" level="1">Jch habe hier gesprochen von Auswanderern im Sinne
+                        des Worts, wie es in Bremen gilt:</said> Leute, die ihre Passage selbst bezahlen.
+                        Ob sie das Geld geliehen haben oder aus eigenen Mitteln bezahlen, bleibt
+                        dahingestellt; <said id="16" mode="reported" content="thought" level="1">sie gehen inzwischen aus freier Wahl</said> und die Summe, welche
+                        dazu erforderlich ist -- 50 bis 60 $ -- ist für den chinesischen Arbeiter
+                        so groß, daß nur die wohlhabendste Classe derselben sie aufbringen kann.
+                        -- Eine ganz andere Classe von Auswanderern bilden die Coolios, <said id="17" mode="reported" content="speech writing" level="1" nonfact="yes">auf
+                        diese werde ich ein andermal zurückkommen.</said>
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>
