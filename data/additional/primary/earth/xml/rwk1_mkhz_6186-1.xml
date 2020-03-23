@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt08_1868_18.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>            
+ 
+  zeit_6186 
+ nn_sonntagsblatt08_1868_18.xml 
+ 1868 
+ 1860 
+ zeit 
+ None 
+ None 
+ no 
+ 671 
+ 1 
+ 
+ 
+ 
+  So
+                        lebte, <said id="29" mode="reported" content="speech writing" level="1">nach den Mittheilungen des Dr .   Herrmann in Aschaffenburg * )</said> ,
+                        in Paris ein junger, talentvoller, mit hervorragenden Anlagen begabter
+                        Arzt, der trotzdem keine lohnende Praxis finden konnte.   Jm Vertrauen auf <seg id="2" type="frame" pos="start">die <seg id="2" type="intExpr">Worte</seg> <seg id="2" type="speaker">Zimmermanns</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">„Ein Charlatan, <said id="3" mode="reported" content="speech" level="2" nonfact="yes">der mit
+                        wunderbarlichen Mitteln prahlt</said>, ist weit mehr gesucht, als ein</said>
+                         <note>
+                   
+                      * ) cf.   </note>  <note>    Hygiea.   1861.   No   .   4.  
+                </note>
+                <said id="2" mode="direct" content="speech" level="1">Arzt, der die ebenen Wege der Natur geht“</said>, etablirte er auf einem
+                        der besuchtesten Plätze der Seinestadt ein Geheimmittelgeschäft, bot
+                        unter <said id="30" mode="reported" content="speech" level="1">den verlockendsten Anpreisungen</said> drei Arzeneien, eine weiße aus
+                        Regenwasser, eine rothe aus Wasser mit Himbeer=, eine blaue aus
+                        Wasser mit Veilchensaft gefärbt, feil, <said id="4" mode="reported" content="writing" level="1">pries in pomphaften Annoncen
+                        die untrügliche und außergewöhnliche Wirksamkeit seiner Mixturen</said>,
+                        und verkaufte im Jnteresse der leidenden Menschheit, und damit auch
+                        die Armen sich der Wohlthat seiner Panacee erfreuen könnten, die
+                        Flasche zu dem billigen Preise von einem Franken.  Sein ganz unschuldiges Gemisch fand aber so viele gläubige Käufer, daß seine
+                        Waare stets vergriffen war, so daß er bald sein Schäfchen im Trocknen
+                        hatte.   <said id="5" mode="reported" content="speech" level="1">Als ihn ein berühmter Arzt über sein unwürdiges Treiben zur
+                        Rede stellte</said>, <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">er</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">„<said id="31" mode="reported" content="thought" level="2" nonfact="yes">Wie hoch schätzen Sie die Zahl der Menschen, die täglich an diesem Platze vorübergehen?</said>“</said> <said id="8" mode="direct" content="speech" level="1">„Doch wohl 20,000“</said>.
+                        <said id="9" mode="direct" content="speech" level="1">„<said id="9" mode="reported" content="thought" level="2" nonfact="yes">Wie viel, glauben Sie, haben davon einen gesunden Sinn und ein
+                        richtiges Urtheil?</said>“</said> <said id="10" mode="direct" content="speech" level="1">„Fünfhundert.“</said> <said id="11" mode="direct" content="speech" level="1">„<said id="12" mode="reported" content="thought" level="2">Sie irren sehr</said>, die Zahl ist
+                        viel zu hoch gegriffen“</said>.   <said id="13" mode="direct" content="speech" level="1">„Nun denn, zweihundert.“</said> <said id="14" mode="direct" content="speech" level="1">„Auch dies Verhältniß ist noch viel zu groß“</said>.   <said id="15" mode="direct" content="speech" level="1">„Dann sind es doch wohl hundert?“</said>
+                        <said id="16" mode="direct" content="speech" level="1">„Nein, diese Zahl entspricht noch lange nicht der Wirklichkeit“</said>.   <said id="17" mode="direct" content="speech" level="1">„Vielleicht
+                        denn fünfzig.“</said> <said id="18" mode="direct" content="speech" level="1">„<said id="32" mode="reported" content="thought" level="2">Sie haben sie noch nicht errathen</said>“</said>.   <said id="19" mode="direct" content="speech" level="1">„Etwa zehn?“</said> <said id="20" mode="direct" content="speech" level="1">„Dies
+                        dürfte annähernd die richtige Zahl sein.   Lassen Sie mich doch mit den
+                        19,990 Dummen und Leichtgläubigen die einträgliche Komödie weiter
+                        treiben, und beneiden Sie mich nicht um den Tribut, den jene mit
+                        geschäftigem Eifer mir täglich zollen.   Kennen Sie nicht das alte
+                        Sprüchwort? Mundus vult decipi, ergo decipiatur .“
+ </said>                          
+             <note>
+                 
+                   * ) cf.     Hygiea.   1861.   No   .   4.  
+             </note>
+              <said id="22" mode="reported" content="speech" level="1">Diese Erzählung</said> ist <said id="33" mode="reported" content="speech writing" level="1">nach der Versicherung des Dr .   Herrmann</said>
+                        kein Phantasiegebilde, sondern aus dem Leben gegriffen.   Bei uns ist
+                        es noch nicht vollkommen so arg, als in Frankreich und England;
+                        allein wir sind auf dem besten Wege, auch in Betreff des Geheimmittel=Unfuges mit diesen beiden Ländern, die wir uns ja so gern zum
+                        Vorbild nehmen, konkurriren zu können.   Es dürfte vielleicht interessiren, zu erfahren, daß in London sich Engros=Häuser mit nichts Anderem, als mit dem Debit von Geheimmitteln beschäftigen.   Ein
+                        einziges Haus in London soll jährlich 300,000 Thaler für Reklamen
+                        ausgeben, eine Summe, die der bekannte Berliner Bierbrauer noch nicht
+                        erreicht * ) .  
+              Auch in Deutschland hat das Geheimmittel=Unwesen riesige Fortschritte gemacht, und <said id="24" mode="reported" content="writing" level="1">die Zeitungen, sowohl die der Metropolen als
+                        auch die unbedeutendsten Lokalblätter, gleichviel ob sie konservativen
+                        oder liberalen Jnteressen huldigen, öffnen bereitwilligst ihre Spalten
+                        den Ankündigungen und Lobhudeleien der Geheimmittel=Jndustrie</said>, als
+                        ob es sich um die Verbreitung der höchsten Güter der Menschheit
+                        handelte.  
+              <said id="34" mode="reported" content="writing" level="1" nonfact="yes">Nur die Augsburger Allgemeine Zeitung druckt keine Reklame ab,
+                        der die Lüge handgreiflich auf der Stirn geschrieben steht ** ) ;</said> <said id="26" mode="reported" content="writing" level="1" nonfact="yes">in
+                        Hannover durften Reklamen von Ausländern, die auf die Leichtgläubigkeit des Publikums berechnet sind, in einheimischen Blättern nicht
+                        abgedruckt werden</said>, und <seg id="27" type="frame" pos="start">in England sollen sich <said id="35" mode="reported" content="speech writing" level="1">nach Krause</said> *** ) <seg id="27" type="speaker">226
+                        der gelesensten Journale</seg> dahin <seg id="27" type="intExpr">geeinigt</seg> haben,</seg> <said id="27" mode="indirect" content="speech" level="1"><said id="36" mode="reported" content="writing" level="2" nonfact="yes">Jnserate über galante
+                        Krankheiten nicht aufzunehmen</said>.</said>  
+              <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">Jch</seg> <seg id="28" type="intExpr">sagte</seg>,</seg> <said id="28" mode="indirect" content="speech" level="1">in Deutschland hätte der Geheimmittel=Unfug riesige
+                        Fortschritte gemacht</said>, und führe zum Beweise an, daß bis vor Kurzem
+                        in der einen Stadt Braunschweig sechs Geheimmittelfabrikanten glänzende Geschäfte machten, von denen ich nur anführen will:
+                           
+              1 ) den Buchhändler Dr. philos .   Carl Wilhelm August Müller,
+                        Herausgeber des le Roi'schen Systems, weiland Ober=Sanitätsraths und Leibarztes des selig entschlafenen Kaisers von Utopien † ) ;
+                           
+              2 ) den Handlanger, Helfershelfer und Annoncenschmied des Müller,
+                        den Sachsen=Weimarschen Hofrath Dr. phil .   Brinckmeier, alias
+                         Hofrath Dr .   Hummel †† ) ;
+                           
+              3 ) den ehemaligen Tabakshändler Louis Wundram, der seit seiner
+                        Uebersiedelung nach Bückeburg auch als Professor in den Zeitungen figurirt, und
+                           
+              4 ) den ehemaligen Barbier Kühne.  
+              Diese Spekulanten verwertheten, gleich ihren Kollegen in anderen Städten, den Glauben, den schlichte Einfalt ihnen schenkt, zu
+                        ihrem eigenen Vortheil und leerten und leeren gründlich die Taschen
+                        derer, die sich <said id="37" mode="reported" content="writing" level="1">durch deren prahlerische Annoncen</said> zum Kauf ihrer
+                        Mittel verleiten ließen und lassen. 
+ 
+ 
+ 
+ 
+ </p>
+      </body>
+   </text>
+</TEI>

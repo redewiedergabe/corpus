@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die kleine Komödie</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Die_kleine_Komoedie.tg250_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Die kleine Komödie</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>            
+ 
+  erz_3015 
+ Schnitzler,_Arthur_Die_kleine_Komoedie.tg250_1.xml 
+ 1895 
+ 1890 
+ erz 
+ Die kleine Komödie 
+ Schnitzler, Arthur 
+ yes 
+ 575 
+ 1 
+ 
+ 
+ 
+ 
+ 
+ 
+  Ich gemütlich hinauf; <seg id="1" type="frame" pos="start">da <seg id="1" type="intExpr">sagt</seg> mir die <seg id="1" type="speaker">Lina</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Fräulein, der gnädige Herr ist schon seit einer Stund' drin.«</said> <said id="2" mode="direct" content="thought" level="1">Was?</said>   <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">denk'</seg> <seg id="2" type="speaker">ich</seg> mir</seg> und geh' in den Salon, da ist's aber dunkel, und dann ins rote Zimmer.   – Da sitzt er richtig auf dem Diwan, mit dem Überzieher, und klopft mit dem Spazierstock auf dem Boden herum.   <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Er</seg> schaut auf, wie ich hineinkomme, und <seg id="3" type="intExpr">fragt</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Woher denn, mein Fräulein?«</said> – <said id="35" mode="direct" content="thought" level="1">Ganz ruhig.</said>   – <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> <seg id="4" type="intExpr">erwidere</seg> darauf</seg>, der Wahrheit gemäß, denn zum Lügen war ja kein Grund: <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start">Nachdem <seg id="5" type="speaker">du</seg> mir <seg id="5" type="intExpr">geschrieben</seg> hast,</seg> <said id="5" mode="indirect" content="writing" level="2">daß du nicht kommst,</said> hab' ich mir einen Wagen genommen und bin rund um den Ring gefahren, weil's so schön war.«</said> – <said id="6" mode="direct" content="speech" level="1">»So«</said><seg id="6" type="frame" pos="start">, <seg id="6" type="intExpr">sagt</seg> <seg id="6" type="speaker">er</seg></seg>, steht auf, und immer noch mit dem Überzieher, spaziert er im Zimmer hin und her, ohne mich anzuschauen.   – <said id="7" mode="direct" content="speech" level="1">»Was hast denn?«</said> <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">frage</seg> <seg id="7" type="speaker">ich</seg>.</seg>   – <said id="8" mode="reported" content="speech" level="1" nonfact="yes">Keine Antwort.</said>   Ich laß ihn stehn und geh' in den Salon und hör' ihn noch alleweil drin auf und ab laufen.   Ich geb' der Lina meinen Mantel und schick' sie um Zigaretten, weil mir meine ausgegangen sind, und gehe wieder zum Emil hinein, <said id="36" mode="reported" content="thought" level="1" border="yes">weil's mir schließlich zu dumm war</said>.   <said id="9" mode="direct" content="speech" level="1">»Lieber Emil«</said><seg id="9" type="frame" pos="start">, <seg id="9" type="intExpr">sage</seg> <seg id="9" type="speaker">ich</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»das vertrag 'ich nicht.   Wenn's dir nicht recht ist, daß ich spazierenfahr', <said id="10" mode="reported" content="speech" level="2" nonfact="yes">so sag's grad heraus</said>, liegt mir sowieso nichts daran.   Im übrigen, <seg id="11" type="frame" pos="start">wenn <seg id="11" type="speaker">du</seg> mir <seg id="11" type="intExpr">schreibst</seg>,</seg> <said id="11" mode="indirect" content="writing" level="2">daß du nicht kommst</said>, so hab' ich ja nicht die Verpflichtung, mich ins Zimmer einzusperren und Trübsal zu blasen.   Da schauet' ich gut aus, jetzt, wo ich das dreimal in der Woche erleben kann«</said>, <said id="12" mode="reported" content="speech" level="1">und so weiter.</said>   – <said id="13" mode="reported" content="speech" level="1">Jetzt fängt er plötzlich zu reden an</said>, bleibt mitten im Zimmer stehen und kreuzt die Hände hinterm Überzieher, so daß das Spazierstaberl über seinem Kopf in die Luft schaut.   <said id="14" mode="direct" content="speech" level="1">»Du hast recht«</said><seg id="14" type="frame" pos="start">, <seg id="14" type="intExpr">sagt</seg> <seg id="14" type="speaker">er</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»es kann nicht so weitergehen, und <seg id="37" type="frame" pos="start"><seg id="32" type="speaker">ich</seg> kann es wirklich nicht über mich nehmen, von dir zu <seg id="37" type="intExpr">verlangen</seg>,</seg> <said id="37" mode="indirect" content="speech" level="2">daß du drei Tage in jeder Woche allein zu Hause bleibst;</said> <said id="38" mode="reported" content="thought" level="2">ich sehe das ein!</said>«</said>   
+                       <said id="15" mode="direct" content="thought" level="1">Aha,</said> <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">denk'</seg> <seg id="15" type="speaker">ich</seg> mir</seg> und <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">frag'</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Also, was willst du, und warum schneid'st du ein Gesicht, und warum kommst du, <said id="17" mode="reported" content="writing" level="2">wenn du mir abschreibst</said>, und warum <said id="18" mode="reported" content="writing" level="2">schreibst du mir ab</said>, wenn du dann doch kommst?«</said> <seg id="19" type="frame" pos="start">Darauf <seg id="19" type="intExpr">sagt</seg> <seg id="19" type="speaker">er</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Es war eine Zeit, Pepi, wo du sehr glücklich warst, wenn ich unerwartet gekommen bin – das ist nun freilich vorbei.«</said> – Ich mach' drauf einen Schnabel.   – <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Er</seg> <seg id="20" type="intExpr">setzt fort</seg>:</seg> <said id="20" mode="direct" content="speech" level="1">»Das ist der Lauf der Welt, <said id="21" mode="reported" content="thought" level="2" border="yes">ich merke es schon lange</said>, und <seg id="22" type="frame" pos="start">wenn <seg id="22" type="speaker">ich</seg> nicht <seg id="22" type="intExpr">wüßte</seg>,</seg> <said id="22" mode="indirect" content="thought" level="2" border="yes">daß es dich sehr wenig kränkt,</said> <said id="23" mode="reported" content="speech" level="2">würde ich dir wahrscheinlich seltener absagen.</said>   <seg id="24" type="frame" pos="start">Aber <seg id="24" type="speaker">ich</seg> <seg id="24" type="intExpr">vermute</seg>,</seg> <said id="24" mode="indirect" content="thought" level="2">daß du mich nicht allzuschwer entbehrst.</said>«</said> – So ungefähr war's, und <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">ich</seg>  
+<seg id="25" type="intExpr">weiß</seg> nur,</seg> <said id="25" mode="indirect" content="thought" level="1" border="yes"><seg id="26" type="frame" pos="start">daß <seg id="26" type="speaker">ich</seg> darauf <seg id="26" type="intExpr">gesagt</seg> hab':</seg> <said id="26" mode="direct" content="speech" level="2">»Nachlaufen werd' ich dir nicht.«</said></said> – <said id="27" mode="direct" content="speech" level="1">»Das verlange ich auch nicht«</said><seg id="27" type="frame" pos="start">, meinte er,</seg> <said id="27" mode="direct" content="speech" level="1">»im Gegenteil.«</said> – Nun war's eigentlich beinah heraus, und <seg id="28" type="frame" pos="start"><seg id="28" type="speaker">ich</seg> <seg id="28" type="intExpr">sage</seg>:</seg> <said id="28" mode="direct" content="speech" level="1">»Im Gegenteil?   Das heißt wohl, es ist dir recht angenehm, daß ich dir nicht nachlaufe?«</said> – Jetzt macht er eine ungeduldige Bewegung und stellt sich zum Fenster hin, mit dem Rücken zu mir.   <seg id="29" type="frame" pos="start">Dann <seg id="29" type="intExpr">murmelt</seg> <seg id="29" type="speaker">er</seg>:</seg> <said id="29" mode="direct" content="speech" level="1">»<said id="30" mode="reported" content="speech" level="2">Verdreh mir doch nicht <said id="39" mode="reported" content="speech" level="3">die Wörter</said> im Mund.</said>«</said> <seg id="32" type="frame" pos="start">Auf das hin stell' <seg id="32" type="speaker">ich</seg> mich ruhig zu ihm und <seg id="32" type="intExpr">sage</seg>:</seg> <said id="32" mode="direct" content="speech" level="1">»Ach, <said id="33" mode="reported" content="speech" level="2" nonfact="yes">sag's lieber grad heraus, was du mir mitzuteilen hast</said> – es hat ja sicher seinen Grund, <said id="34" mode="reported" content="writing" level="2">daß du mir zuerst abschreibst</said>, dann doch heraufkommst und jetzt so zuwider bist!«</said> Wie ich so neben ihm steh', nimmt er plötzlich meinen Kopf zwischen die Hände und küßt mich auf die Stirn; alles beim Fenster, aber die Rouletten waren zu. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ </p>
+      </body>
+   </text>
+</TEI>

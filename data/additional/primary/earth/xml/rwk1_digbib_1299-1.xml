@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die verschiedenen Stände</title>
+             <author>Jahn, Ulrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Jahn,_Ulrich_Die_verschiedenen_Staende.tg10_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1890</f>
+         <f name="decade">1890</f>
+         <f name="title">Die verschiedenen Stände</f>
+         <f name="author">Jahn, Ulrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die verschiedenen Stände. 
+                  <said id="1" mode="direct" content="speech" level="1">Was geht da so lustig: Bim bam? Was brummt dazwischen so dumpf: Bum bum?</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Das sind die Glocken, Alt-Vater, die gehen so lustig: Bim bam! Das sind die Kanonen, die brummen so dumpf dazwischen: Bum bum! Heut wird ja die große Schlacht gefeiert!«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">Hast recht, Junge, so ist es, und es muß auch so sein! – Am Anfang schuf Gott Himmel und Erde, und die Erde war wüste und leer. Darnach schuf er eine große Menge Kaiser und Könige, Fürsten, Grafen und Herren und die ganze Geistlichkeit; <seg id="4" type="frame" pos="start">dann erst <seg id="4" type="intExpr">sprach</seg> <seg id="4" type="speaker">er</seg>:</seg> <said id="4" mode="direct" content="speech" level="2">»Lasset uns Menschen machen, ein Bild, das uns gleich sei!«</said> und schuf Adam und Eva. Und als später die Gebote gegeben wurden, <said id="16" mode="reported" content="speech" level="2">sind dieselben nur an die Adamskinder gerichtet worden.</said> 
+                  Darum sind die großen Herren frei von den Geboten und dürfen Kriege führen und in Kämpfen und Schlachten die Menschen in Scharen zusammen treiben und tot schlagen lassen. <said id="5" mode="reported" content="thought" level="2" nonfact="yes">Zur Erinnerung daran</said> muß in den Kirchen gesungen und von den Türmen geblasen, mit den Glocken geläutet und mit den Kanonen geschossen werden; wenn 
+aber ein gewöhnlicher Mensch jemand tot schlägt, so kommt er an den hell lichten Galgen.</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Meines Lebens, wie sind denn aber die Unterschiede in die niederen Stände gekommen?«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">Das ist so zugegangen: Adam und Eva haben ein langes Leben geführt und viele Kinder bekommen, und Kinder machen den Eltern Mühe und Arbeit. Nun begab es sich, <said id="8" mode="reported" content="thought" level="2">daß der liebe Gott nach dem Sündenfalle sich wieder einmal des Adams und der Eva erinnerte</said>; und weil so viele Jahre verstrichen waren, daß er sie nicht gesehen hatte, machte er sich eines Sonntags Morgens bei Zeiten auf, sie zu besuchen. 
+                  Eva war gerade dabei, ihre Kinder zu waschen und zu putzen, als sie durch das Fenster den Hergott von ferne ankommen sah. Die Hälfte war erst gewaschen! Geschwind trieb sie darum die andern in die Hölle hinter den Ofen, <seg id="9" type="frame" pos="start">damit der liebe <seg id="9" type="speaker">Gott</seg> sie nicht sehen und auf die Mutter <seg id="9" type="intExpr">schelten</seg> möchte,</seg> <said id="9" mode="indirect" content="speech" level="2" nonfact="yes">daß sie nicht früher aufgestanden sei und sich an die Arbeit gemacht habe.</said> 
+                  Als nun der liebe Gott in die Thüre getreten war und die fein geputzten Kinder erblickte, reichte er ihnen die Hand und gab einem jeden eine gute Ausstattung mit auf den Weg. 
+                  <said id="10" mode="direct" content="speech" level="2">»Du sollst ein Kaufmann werden und du ein Küster,«</said> <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">er</seg>,</seg> <said id="10" mode="direct" content="speech" level="2">»du ein Müller und du ein kunstreicher Schmied und du da ein reicher Bauer!«</said> 
+                  <said id="11" mode="reported" content="speech" level="2">Die Worte</said> gefielen der Eva wohl, <said id="12" mode="reported" content="thought" level="2">und sie gedachte der ungewaschenen Kinder hinter dem Ofen</said>, zog sie aus der Hölle hervor und <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">sprach</seg>:</seg> <said id="13" mode="direct" content="speech" level="2">»Schau, Herr, ich habe noch mehr Kinder!«</said> 
+                  
+                     
+Die sahen aber schwarz aus, wie der Teufel, <seg id="14" type="frame" pos="start">und der liebe <seg id="14" type="speaker">Gott</seg> mußte ihrer lachen und <seg id="14" type="intExpr">sprach</seg> zu dem ersten:</seg> <said id="14" mode="direct" content="speech" level="2">»Du sollst ein Schornsteinfeger werden!«</said> 
+                  <said id="17" mode="reported" content="speech" level="2">Den zweiten machte er zum Kuhhirten, den dritten zum Besenbinder, den vierten gar zum Schweinejungen, und den übrigen erging es nicht besser.</said> Sie bekamen allesamt einen niederen Dienst, sie sollten in Hütten in den Dörfern, über das Land hin zerstreut, wohnen und Krautgemüse essen und ihrer sauberen Geschwister Knechte sein.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

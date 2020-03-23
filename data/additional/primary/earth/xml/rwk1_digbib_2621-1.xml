@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Odfeld</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Das_Odfeld.tg256_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1889</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Odfeld</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_2621
+Raabe,_Wilhelm_Das_Odfeld.tg256_1.xml
+1889
+1880
+erz
+Das Odfeld
+Raabe, Wilhelm
+yes
+517
+1
+
+
+
+
+
+
+Mit hängendem Flügel hüpfte der wunde schwarze Kämpfer hervor, versuchte zu flattern, gab es auf, hüpfte auf gottlob gesunden Füßen hierhin und dahin durch das Gemach, stellte sich fest unter dem Tische, legte den Kopf auf die Seite, den Magister Buchius genau zu betrachten, <seg id="1" type="frame" pos="start">und <seg id="1" type="intExpr">sprach</seg> rauh, heiser und klagend:</seg> 
+                     <said id="1" mode="direct" content="speech" level="1" border="yes">»Krah! krr, krr, krr!«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Komme Er her; ich tue Ihm weiter nichts,«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">sagte</seg> der Magister <seg id="2" type="speaker">Buchius</seg></seg>, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">wie er das vordem von seinem Katheder herunter hätte sagen können.</said> <said id="4" mode="direct" content="speech" level="1">»Lasse Er mich wenigstens nach Seinem Fittich sehen,«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> der <seg id="4" type="speaker">Magister</seg> zuredend</seg> und dabei unter den Tisch nach seinem neuen Stubengenossen greifend. Noch traute dieser aber nicht gänzlich. Krächzend hüpfte er vor der begütigenden, mitleidigen Hand zurück in's Dunkel, und in demselben Augenblick klopfte es an der Zellentür. 
+                     Es war Wieschen, von der Frau Klosteramtmännin geschickt, mit dem Abendbrot des Emeritus der großen Schule von Amelungsborn, des zu Tode zu fütternden gelehrten, übersinnigen Haus- und Hofgenossen. 
+                     
+                        <said id="5" mode="direct" content="speech" level="1" border="yes">»Krah!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">kreischte</seg> der <seg id="5" type="speaker">Rab</seg></seg>, <said id="6" mode="reported" content="thought" level="1">mit dem ganzen Witz seines Geschlechts eine offene Tür sofort von einer geschlossenen unterscheidend.</said> Noch einmal versuchte er zu fliegen und flatterte wenigstens gegen das erschreckt gleichfalls kreischende Mädchen an. Doch er flatterte nur dem Magister in die Hände, <seg id="7" type="frame" pos="start">und <seg id="7" type="speaker">dieser</seg> <seg id="7" type="intExpr">sprach</seg> jetzo:</seg> 
+                     <said id="7" mode="direct" content="speech" level="1">»Er tut dir nichts, Kind! Er hat selber das Seinige abgekriegt.«</said> Es war die Dirne, die vorhin dem Knecht ihre Schürze um die blutende Hand gewunden hatte, und die jetzt, immer noch mit verweinten Augen, dem alten Herrn in der Zelle des Bruders Philemon seine ihm ausgemachte Atzung zutrug. <said id="8" mode="direct" content="speech" level="1">»Zu Tode hat er mich verjagt, als ob's noch nicht genug an der Angst wäre,«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">schluchzte</seg> <seg id="8" type="speaker">sie</seg></seg>, aus ihrem Korbe den irdenen Napf mit dem steifen, schwachdampfenden Roggenbrei hebend und zu ihm auf den Tisch das schwarze Roggenbrod und den Teller mit dem letzten Hering von Kloster Amelungsborn absetzend. 
+                     <said id="9" mode="direct" content="speech" level="1">»<said id="18" mode="indirect" content="speech" level="2">Mit der Butter reichte es selbst für den Herrn Amtmann nicht, und die Käse wollten wir doch lieber für den Feind aufheben, wenn's doch wieder einmal sein müßte</said><seg id="18" type="frame" pos="end">, läßt Ihm die Frau <seg id="18" type="speaker">Amtmännin</seg> <seg id="18" type="intExpr">sagen</seg></seg>,«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">sagte</seg> die junge <seg id="9" type="speaker">Magd</seg>.</seg> <said id="11" mode="direct" content="speech" level="1">»<said id="12" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">Aber wie Er sich in so schlimmer Zeit noch mit solchem Untier abgeben mag</said><seg id="12" type="frame" pos="end">, das <seg id="12" type="intExpr">weiß</seg> <seg id="12" type="speaker">ich</seg> nicht</seg>,«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">setzte</seg> <seg id="19" type="speaker">sie</seg> <seg id="19" type="intExpr">hinzu</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">»Ich an Seiner Stelle würfe gleich den Unglücksvogel da aus dem Fenster in's Hooptal hinunter. <said id="19" mode="indirect" content="thought" level="2" border="yes">Aber der Herr Magister graulen sich ja vor nichts</said><seg id="19" type="frame" pos="end">; das <seg id="19" type="intExpr">weiß</seg> <seg id="19" type="speaker">man</seg> freilich schon.</seg>«</said> 
+                     <said id="15" mode="direct" content="speech" level="1">»<said id="16" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Weiß man dieses?</said>«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">seufzte</seg> der alte <seg id="15" type="speaker">Herr</seg></seg>; doch zu seinem zappelnden Gefangenen zu genauerer Besichtigung sich wendend, <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">meinte</seg> <seg id="17" type="speaker">er</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">»Armer Patron, den Fittich hat man dir böse zerhackt. Mit dem Fliegen wird's wohl nicht viel mehr werden in dieser Welt; aber im übrigen geht's ja noch. Sind nun auch angewiesen auf das Huppen unter Tisch und Bank, auf das Brosamenlesen aus den Stubenritzen, auf das Knochensuchen im Kehricht nach dem Jagen in den Lüften, nach dem großenSchlagen im Gewölk! Kralle Er mich nicht, Monsieur und tapferer Rittersmann; Er soll's nach Vermögen gut haben beim alten überzähligen Kollaborator Buchius. Und Sein Teil von dem Fischlein dort und dem guten Brot soll Er auch haben, ohne im Unrat mit dem Bettelsack darnach umgehen zu müssen.
+</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
