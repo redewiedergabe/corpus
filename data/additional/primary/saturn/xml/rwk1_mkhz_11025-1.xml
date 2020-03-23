@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Erörterung über die Friedensziele in Deutschland.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">BZ_1916_08_16.txt_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1916</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Erörterung über die Friedensziele in Deutschland.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.badener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Jedes Volk hat in seinem
+                        Verlaufe so viele Opfer gebracht, <said id="1" mode="reported" content="thought" level="1" nonfact="yes">daß an einen
+                        annähernden Ersatz derselben nicht gedacht werden
+                        kann.</said> <said id="2" mode="reported" content="thought" level="1" nonfact="yes">Und dann ist noch eines zu bedenken: Der
+                        lange Krieg hat unsere ganze Volkswirtschaft in
+                        ihren Fundamenten erschüttert.</said> Jahrzehntelang
+                        unermüdliche Arbeit wird zerstört und vernichtet.
+                        Der Gewinn, der möglicherweise aus der Unterwerfung fremden Landes erwachsen kann, kann da
+                        nicht erleichternd wirken, da er auf die verstärkten Rüstungen daraufgeht, die gemacht werden müssen, um den gewaltsam eingesteckten neuen
+                        Besitz auch zu erhalten. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Man</seg> <seg id="3" type="intExpr">begreift</seg> darum,</seg>
+                        <said id="3" mode="indirect" content="thought" level="1" border="yes">warum es gerade die sogenannte Schwerindustrie
+                        ist, die dem Treiben der Annexionisten ihre
+                        Unterstützung leiht.</said> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Sie</seg> <seg id="4" type="intExpr">wissen</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">daß der für die
+                        Präparierung der Oeffentlichkeit zu den Annexionsgedanken ausgelegte Kapitalsbetrag mit enormen
+                        Zinsen und Zinseszinsen durch die dadurch notwendig werdenden späteren Rüstungen hereingebracht wird.</said> Die Agitation dieser Leute für
+                        eine Machterweiterung ist daher, genau besehen,
+                        nichts anderes als eine Geldsackpolitik, die man
+                        scheinheilig mit Patriotismus, Volksinteressen usw.
+                        drapiert.
+               Trotz dieser bedenklichen Erscheinungen, die
+                        diese Erörterung der Friedensziele in der Oeffentlichkeit bisher im Gefolge hatte, ist sie nicht so
+                        unnütz und überflüssig, wie das überoffiziös sich
+                        gebärdende Blatt glauben machen möchte. <seg id="5" type="frame" pos="start">Dieses
+                        edle <seg id="5" type="speaker">Preßerzeugnis</seg> <seg id="5" type="intExpr">behauptet</seg> nämlich,</seg> <said id="5" mode="indirect" content="writing" level="1" metaph="yes">die
+                        deutsche Regierung habe die Erörterung über diese
+                        Ziele nur deswegen zugelassen, damit die Leute
+                        sehen sollen, daß sie nicht fähig sind, über Krieg
+                        und Frieden zu entscheiden, sondern daß dies nach
+                        wie vor der Geheimdiplomatie überlassen bleiben
+                        muß.</said> <seg id="6" type="frame" pos="start">Dabei <seg id="6" type="intExpr">vergißt</seg> dieses <seg id="6" type="speaker">Blatt</seg> ganz und gar,</seg>
+                        <said id="6" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß einen gut Teil Schuld an dem herrschenden
+                        Wirrwarr auch die amtlichen Kreise tragen, die
+                        es versäumt haben, genauere Richtlinien über
+                        Willen und Wollen zu geben.</said> Trotzdem aber hat
+                        die Diskussion, soferne sie nicht von bezahlten
+                        Narren, sondern von unabhängigen, vernünftigen
+                        Leuten geführt worden ist, bewiesen, daß die
+                        Volksmeinung, wenn man sie nicht, wie es von
+                        den Annexionisten geschieht, keck fälscht, die Ansicht des berühmten Nationalökonomen der Berliner
+                        Universität Gustav v. Schmoller teilt, <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">der</seg> in der
+                        „Deutschen Politik“ sehr richtig <seg id="7" type="intExpr">sagt</seg>,</seg> <said id="7" mode="indirect" content="writing" level="1">die Zentralmächte können dem Vierverbande den Entschluß
+                        zum Frieden erleichtern, wenn sie in ihren Siegesansprüchen gemäßigt auftreten.</said> <said id="8" mode="direct" content="writing" level="1">„Die Stimmen
+                        in Deutschland“</said><seg id="8" type="frame" pos="mid">, so <seg id="8" type="intExpr">führt</seg> der genannte <seg id="8" type="speaker">Gelehrte</seg>
+                        <seg id="8" type="intExpr">aus</seg>,</seg> <said id="8" mode="direct" content="writing" level="1">„zerfallen in drei Gruppen: Siegesgefühl,
+                        die patriotische Begeisterung und das wirtschaftliche
+                        Interesse verlangen in begreiflicher Gemütserregung
+                        einen möglichst großen Siegespreis. Eine fast
+                        überschlaue, in die Zukunft blickende Mäßigung
+                        will sich fast mit dem Status quo ante begnügen.
+                        Die Mehrzal der vernünftigen Leute, einschließlich
+                        der Regierung hält die Mitte zwischen den beiden
+                        Extremen.“</said> <said id="9" mode="reported" content="writing" level="1">Professor v. Schmoller verweist auf
+                        das Beispiel von 1866, wo König Wilhelm, als
+                        die Truppen vor Wien und Frankfurt standen,
+                        das deutsche Nordböhmen und die althohenzollerischen Lande Ansbach-Baryreuth annektieren
+                        wollte, einem Vorgehen, dem Bismarck wegen
+                        seiner schädlichen Wirkung auf die Zukunft erfolgreich entgegentrat, trotz des Lärmes, den
+                        damals die schrankenlosen Annexionisten vollführten.</said>
+                        Vielleicht wollten sich die politischen Schaumschläger
+                        doch die Frage vorlegen, was geworden wäre,
+                        wenn Bismarck damals seinen Willen nicht hätte
+                        durchsetzen können. Die uferlosen Forderungen
+                        haben nur den einen Zweck, den Haß stets aufs
+                        neue anzufachen, und tragen auf diese Weise am
+                        meisten zur Verlängerung des Krieges bei. Daß
+                        die übermäßige Verlängerung des Krieges nicht
+                        im Volksinteresse gelegen ist, auch dann nicht,
+                        wenn er mit einem Siege endigt, braucht wohl
+                        nicht lange bewiesen zu werden.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

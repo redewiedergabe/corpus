@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>(Zur Bildungeinerneuen Majorität.)(Die Trinkgelderpolitikder Polen)(Diedeutsche Militärvorlage.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1893_01_02.txt_8.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1893</f>
+         <f name="decade">1890</f>
+         <f name="title">(Zur Bildungeinerneuen Majorität.)(Die Trinkgelderpolitikder Polen)(Diedeutsche Militärvorlage.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Politische Nachrichten.
+                        
+            
+            
+               
+                  (Zur Bildung einer neuen Majorität.)
+                        
+               
+               Dem Vernehmen nach sind die Einladungen an
+                        die Führer der Parteien zu den Unterhandlungen
+                        wegen der Programmbildung bereits versendet
+                        worden. <said id="1" mode="reported" content="speech" level="1" nonfact="yes">Graf Taaffe wird zuerst mit Herrn v.
+                        Jaworski, sodann mit Dr. v. Plener und zuletzt
+                        mit dem Grafen Hohenwart unterhandeln.</said> Nach
+                        Beendigung dieser Berathungen soll eine gemeinsame Conferenz folgen. Während der Verhandlungen soll die Geheimhaltung streng gewahrt
+                        werden. <seg id="2" type="frame" pos="start">Aus parlamentarischen Kreisen wird hinsichtlich der Zurückstellung des böhmischen Ausgleichs und der Sprachenfrage auch heute wieder
+                        <seg id="2" type="intExpr">berichtet</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">daß es ein gewaltiger Irrthum sei,
+                        <seg id="3" type="frame" pos="start">wenn <seg id="3" type="speaker">man</seg> im Regierungslager <seg id="3" type="intExpr">annehme</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="4" mode="reported" content="speech" level="3" nonfact="yes">daß
+                        die Deutschen zu dem vorläufigen Fallenlassen
+                        des böhmischen Ausgleiches ihre Zustimmung
+                        ertheilen werden.</said></said></said> Der böhmische Ausgleich und
+                        die Regelung der Sprachenfrage sind Puncte,
+                        deren Erörterung und Lösung sich kein österreichischer Staatsmann wird entziehen können.
+                        <seg id="5" type="frame" pos="start">Man begegne vielfach der <seg id="5" type="intExpr">Meinung</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">daß es
+                        Sache der Regierung wäre, wenn sie schon den
+                        Deutschen eine solche Zumuthung stellt, beide
+                        Parteien, Deutsche und Tschechen, zu einer gemeinsamen Conferenz einzuladen, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">in welcher
+                        neuerdings das Tempo für die Behandlung der
+                        Ausgleichsaction durchzuberathen wäre</said></said>, <said id="7" mode="reported" content="speech" level="1" nonfact="yes" border="yes">und da
+                        würde die Regierung erfahren, welche Puncte die
+                        Deutschen vorläufig ruhen lassen und welche
+                        Puncte sie durchgeführt wissen wollen und auf
+                        welche sie in keinem Falle verzichten können.</said>
+                        Cardinalfragen des Staates, vom Monarchen
+                        feierlich anerkannte Staatsnothwendigkeiten können
+                        nicht bei Seite geschoben werden. <seg id="9" type="frame" pos="start">Sollte <seg id="9" type="intExpr">sich</seg> die
+                        <seg id="9" type="speaker">Regierung</seg> den Feudalen gegenüber <seg id="9" type="intExpr">verpflichtet</seg>
+                        haben,</seg> <said id="9" mode="indirect" content="speech" level="1" nonfact="yes">den böhmischen Ausgleich zurückzustellen</said>,
+                        <seg id="8" type="frame" pos="start">so wird sie <seg id="8" type="intExpr">erinnert</seg> werden,</seg> <said id="8" mode="indirect" content="speech" level="1" nonfact="yes"><seg id="10" type="frame" pos="start">daß <seg id="10" type="speaker">sie</seg> etwa drei
+                        Jahre früher eine bindende und solenne <seg id="10" type="intExpr">Verpflichtung</seg> <seg id="10" type="intExpr">eingegangen</seg> ist,</seg> <said id="10" mode="indirect" content="speech" level="2">den Ausgleich durchzuführen.</said></said>
+            
+            
+               
+                  (Die Trinkgelderpolitik der Polen)
+               
+               will
+                        wieder in die Halme schießen, <seg id="11" type="frame" pos="start">wenigstens <seg id="11" type="intExpr">verlangt</seg> der <seg id="11" type="speaker">„Dzennik Polski“</seg>,</seg> <said id="11" mode="indirect" content="writing" level="1" metaph="yes"><said id="12" mode="reported" content="speech" level="2" nonfact="yes">die Polen mögen
+                        für ihre Mitwirkung an der Majoritätsbildung
+                        die Vermehrung der städtischen Reichsrathsabgeordneten aus Galizien und der Zahl ihrer Vertreter in der Delegation, sowie die gesetzliche
+                        Sicherstellung der Rechte der polnischen Sprache
+                        in Galizien fordern.</said></said> Bei solchen „bescheidenen“
+                        Wünschen kann man den Aerger der Polen
+                        darüber begreifen, daß die Deutsche Linke dem
+                        Programme des Herrn Grafen Taaffe sehr mißtrauisch gegenübersteht.
+            
+            
+               
+                  (Die deutsche Militärvorlage.)
+               
+               <seg id="13" type="frame" pos="start">Der Berliner <seg id="13" type="speaker">Correspondent</seg> der „Westdeutschen Allgemeinen Zeitung“ <seg id="13" type="intExpr">versichert</seg> gegenüber anderweitigen Blättermeldungen,</seg> <said id="13" mode="indirect" content="writing" level="1">die Conferenzen hoher</said>
+                         
+               
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Sinngedicht</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Sinngedicht.tg830_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1882</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Sinngedicht</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Nicht im mindesten! Ich höre heute zum ersten Male <said id="2" mode="reported" content="speech" level="2">davon reden!</said>«</said> 
+                     <said id="3" mode="direct" content="speech" level="1">»Nun, <said id="4" mode="reported" content="thought" level="2" nonfact="yes" border="yes">wenn Sie also keine andere Quelle kennen</said>, so müssen Sie sich schon an meine Redaktion halten, die ich nach bestem Wissen und Gewissen besorgt habe. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ich</seg> <seg id="5" type="intExpr">beteuere</seg>,</seg> <said id="5" mode="indirect" content="speech" level="2">daß auch nicht die leiseste Spur von Koketterie und Schlauheit soll zwischen den Zeilen zu lesen sein</said>, und <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">bitte</seg> Sie, hochzuverehrendes Fräulein,</seg> <said id="6" mode="indirect" content="speech" level="2">nichts hineinlegen zu wollen, <said id="4" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">was heineinzulegen</said> <seg id="3" type="frame" pos="end"><seg id="3" type="speaker">ich</seg> nicht die <seg id="3" type="intExpr">Absicht hatte</seg>!</seg></said>«</said> 
+                     <said id="7" mode="direct" content="speech" level="1">»<said id="8" mode="reported" content="speech" level="2">Und ich bitte den hochzuverehrenden Herrn tausendmal um Verzeihung</said><seg id="9" type="frame" pos="start">, wenn meine <seg id="9" type="intExpr">Vermutung</seg> beleidigend war,</seg> <said id="9" mode="indirect" content="speech" level="2">daß der armen Frau Hedwig noch ein Rest von eigenem Willen hätte vergönnt sein können im Punkte des Heiratens!</said>«</said> 
+                     <said id="10" mode="direct" content="speech" level="1">»Ei, mein ungnädiges Fräulein, warum denn so gereizt? Ich wehre mich ja lediglich für eine Frauengestalt, die durch ihre Hilflosigkeit nur gewinnt und dem Geschlechte zur Zierde gereicht!«</said> 
+                     <said id="11" mode="direct" content="speech" level="1">»Ei, natürlich, ja! So versteh' ich es ja auch!«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">Lucie</seg> mit fröhlichem Lachen</seg>, welches ihre Locken anmutig bewegte; <said id="11" mode="direct" content="speech" level="1">»ein sanftes Wollschäfchen mehr auf dem Markte! Diesmal handelt es sich noch um die Nutzbarkeit einer guten Wirtschafterin, und <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">wir</seg> müssen <seg id="12" type="intExpr">gestehen</seg>,</seg> <said id="12" mode="indirect" content="speech" level="2">Sie haben das Thema fast wie ein Kinder- und Hausmärchen herausgestrichen!</said>«</said> 
+                     <said id="13" mode="direct" content="speech" level="1">»Aber, liebe Lux«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">rief</seg> jetzt der <seg id="13" type="speaker">Oberst</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»sei doch nicht so zänkisch! Du hast ja, Gott sei Dank, nicht nötig, <said id="14" mode="reported" content="speech" level="2" nonfact="yes">dich über diese Dinge zu ereifern</said>, wenn du doch unverheiratet bleiben und mein Alter verschönern willst! In dieser Hoffnung will ich dir übrigens jetzt etwas Hilfe bringen! Mit unserer Wahlfreiheit und -herrlichkeit, bester Freund, ist es nämlich nicht gar so weit her, und wir dürfen nicht zu sehr darauf pochen! Wenigstens hab' ich die Ehre, Ihnen in mir einen alten Junggesellen vorzustellen, der vor langen Jahren einst zum Gegenstande der Wahlüberlegung eines Frauenzimmers geworden, als er nur die Hand glaubte ausrecken zu dürfen, und dabei so schmählich unterlegen ist, daß ihm das Heiraten für immer verging. Wenn ihr es hören wollt, <said id="15" mode="reported" content="speech" level="2" nonfact="yes">so will ich euch das Abenteuer, so gut ich kann, erzählen</said>; es lächert micht jetzt und <seg id="16" type="frame" pos="start">zugleich <seg id="16" type="intExpr">gelüstet</seg> <seg id="16" type="speaker">mich</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2" border="yes"><said id="18" mode="reported" content="speech" level="3">es vor meinem Ende zum ersten Male jemandem zu erzählen</said></said> oder <said id="17" mode="indirect" content="speech" level="2"><said id="19" mode="reported" content="speech" level="3">schwatzend</said> zu redigieren</said><seg id="17" type="frame" pos="end">, wie unser Freund <seg id="17" type="speaker">Reinhart</seg> sich <seg id="17" type="intExpr">ausdrückt</seg>.</seg>«</said> 
+                     Die jungen Leute bezeugten natürlich ihre Neugierde, die sie beide auch empfanden, und <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">sie</seg> <seg id="12" type="intExpr">baten</seg> den Oheim,</seg> <said id="13" mode="indirect" content="speech" level="1">mit seinen Mitteilungen nicht zurückzuhalten.</said> 
+                     Er warf noch einen aufmerksam forschenden Blick auf Reinharts Gesicht, blickte hierauf nachdenklich zu Boden und ließ seinen weichen silbernen Schnurrbart durch die Finger laufen, <seg id="20" type="frame" pos="start">als <seg id="20" type="speaker">er</seg> seine <seg id="20" type="intExpr">Rede</seg> begann.</seg>
+                     <said id="20" mode="direct" content="speech" level="1">»Es ist bald geschehen, daß man alt wird (sagte er), so rasch, daß man beim Rückblick auf den durchlaufenen Weg sich nur auf einzelnes etwa besinnen und sich namentlich nicht mit reumütigen Betrachtungen über die begangenen dummen Streiche aufhalten kann. Denn dieselben scheinen in der perspektivischen Verkürzung so dicht hintereinander zu stehen wie jene Meilensteine, welche der Reiter für die Leichensteine eines Kirchhofes ansah, als er auf seinem Zauberpferde an ihnen vorüberjagte. Dennoch gibt es eine Art von Fehlern, Begehungen oder Unterlassungen scheinbar ganz unbedeutender und harmloser Art, welche ihrer Folgen wegen zehnmal schwerer im Gedächtnis haftenbleiben, als die gröberen Vergehungen und Versäumnisse, und <said id="21" mode="reported" content="speech" level="2">während wir diese in unserem Sinne längst genugsam bedauert und gebüßt haben</said>, überkommt uns immer wieder Reu und Ärger, sobald jene in der Erinnerung aufleben.</said>
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

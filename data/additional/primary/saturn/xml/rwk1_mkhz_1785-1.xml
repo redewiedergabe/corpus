@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_bayerische255_1850.txt_3.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.bayerische</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Darauf besichtigte der Fürst die bayerische Kaserne, erhielt
+                        Abends von der Musik des bayerischen Jägerbataillons eine Serenade, empfing das bayerische
+                        und österreichische Offizierkorps und begab sich
+                        sodann noch am späten Abend zu dem von Wilhelmsbad herübergekommenen Kurfürsten von Hessen. <said id="1" mode="reported" content="speech" level="1">Das hier garnisonirende 14. österr. Jägerbataillon erhielt von dem Fürsten noch in der
+                        Nacht Marschbefehl</said> und hat sich vor der Hand
+                        nach Aschaffenburg zu begeben. Schon morgen
+                        in der Frühe wird es Frankfurt verlassen und an
+                        seine Stelle das erste bayerische Bataillon einrücken, das aus Rheinbayern kommt. 
+               
+                  ( K. Z. )
+                        
+               
+            
+            
+               Heidelberg, 21. Okt. Es steht unserer Universität, wie wir vernehmen, ein neuer Verlust
+                        bevor. <said id="2" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">Hofrath Zoepfl soll einen sehr vortheilhaften Ruf von München aus erhalten haben</said>,
+                        wonach er keinen Anstand nehmen könnte, in sein
+                        Vaterland Bayern zurückzukehren. ( F. O.=Z. )
+                         
+            
+            
+               Stuttgart, 20. Okt. <seg id="3" type="frame" pos="start">So eben verbreitet sich
+                        hier die <seg id="3" type="intExpr">Nachricht</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1"><seg id="4" type="frame" pos="start">daß eine unserer Brigaden den
+                        <seg id="4" type="intExpr">Befehl</seg> erhalten hat</seg> <said id="4" mode="indirect" content="speech" level="2">sich mobil zu machen.</said></said>
+            
+            
+               Wiesbaden, 22. Okt. <said id="5" mode="reported" content="speech" level="1">Jn der heutigen 18.
+                        Sitzung des Landtags hat das Staatsministerium
+                        offiziell die Verlobung Sr. Hoh. des Herzogs
+                        mit Jhrer Durchl. der Prinzessin Adelheid Marie
+                        von Anhalt=Dessau angezeigt.</said>
+            
+            
+               Jnteressant ist es uns, <seg id="6" type="frame" pos="start">aus dem „Lloyd“ zu
+                        <seg id="6" type="intExpr">erfahren</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes"><said id="7" mode="reported" content="speech" level="2">daß der Toast des Königs von Württemberg bei dem Königsmahl zu Bregenz noch
+                        weit entschiedener gelautet hat</said>, <said id="8" mode="reported" content="writing" level="2">als er in dem
+                        Berichte der „Allg. Ztg.“ wiedergegeben wurde.</said></said>
+                        <seg id="9" type="frame" pos="start">Der ritterliche <seg id="9" type="speaker">Greis</seg> <seg id="9" type="intExpr">rief</seg> nämlich am Schlusse
+                        seiner Rede mit jugendlichem Feuer:</seg> <said id="9" mode="direct" content="speech" level="1">„ <said id="10" mode="reported" content="speech" level="2" nonfact="yes">Wenn S.
+                        Majestät der Kaiser befiehlt</said>, so werde
+                        ich marschiren!“</said>
+                         
+            
+            
+               Von der böhmischen Grenze, 17. Okt. <seg id="11" type="frame" pos="start">Wie
+                        <seg id="11" type="speaker">ich</seg> <seg id="11" type="intExpr">vernehme</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">wird für den Fall, daß es wirklich Ernst werden sollte, Feldzeugmeister Baron
+                        Heß neben dem Erzherzog Albrecht das Oberkommando über das böhmische Truppenkorps erhalten.</said> Die Dispositionen sind bereits in der Art
+                        getroffen, daß das ganze Korps binnen wenig
+                        Tagen nach allen Seiten hin verwendbar ist.
+            
+            
+               Berlin, 20. Okt. <said id="12" mode="reported" content="speech" level="1">Die Rückantworten der
+                        bisher verbündeten Staaten auf <said id="13" mode="reported" content="speech" level="2">die preußischen
+                        Vorschläge über die fernere Gestaltung der Union</said></said>
+                        werden das Bündniß vom 26. Mai vielleicht noch weiter alteriren. Von Baden, Nassau und Schwerin
+                        ist es bekannt, daß sie der Union nicht besonders
+                        zugethan sind; <said id="14" mode="indirect" content="speech" level="1">aber auch Braunschweig und Oldenburg sollen</said><seg id="14" type="frame" pos="mid">, wie glaubwürdig <seg id="14" type="intExpr">mitgetheilt</seg> wird,</seg>
+                        <said id="14" mode="indirect" content="speech" level="1">nicht mehr mit der gegenwärtigen Unionspolitik
+                        einverstanden, und <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">geneigt</seg> sein,</seg> <said id="15" mode="indirect" content="thought" level="2" border="yes">sich ihr ferner anzuschließen.</said></said> Träte dieser Fall ein, so würde Preußen im nordwestlichen Deutschland, wie im Südwesten, an politischem Einfluß bedeutend verlieren.
+               
+               ( M. Z. )
+                        
+            
+            
+               Berlin, 21. Okt. <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Wir</seg> haben vor einiger
+                        Zeit <seg id="16" type="intExpr">berichtet</seg>,</seg> <said id="16" mode="indirect" content="writing" level="1"><seg id="17" type="frame" pos="start">daß die <seg id="17" type="speaker">Majorität</seg> im Ministerrathe den <seg id="17" type="intExpr">Beschluß gefaßt</seg> hat,</seg> <said id="17" mode="indirect" content="speech" level="2">der Kammer sofort bei ihrer Eröffnung das Budget für 1851
+                        vorzulegen</said><seg id="18" type="frame" pos="start">, daß die <seg id="18" type="speaker">Minorität</seg> dagegen <seg id="18" type="intExpr">geltend</seg>
+                        zu <seg id="18" type="intExpr">machen</seg> gesucht hat,</seg> <said id="18" mode="indirect" content="speech" level="2">das Budget erst später
+                        und vorerst die deutsche Frage als Gegenstand
+                        eines Vertrauensvotums vorzulegen.</said></said> Dem Beschlusse gemäß wird nun das Budget sofort vorgelegt werden, die Opposition aber wird höherem
+                        Vernehmen nach die Ansicht der Minorität des
+                        Ministerrathes adoptiren und versuchen, durch
+                        Kammerbeschluß <said id="19" mode="reported" content="speech" level="1">die Berathungen über das Budget</said> hinauszuschieben, um vorerst die politischen
+                        Fragen zur Entscheidung zu bringen. 
+               ( N. P. Z. )
+                        
+            
+            
+               Erfurt, 19. Okt. <seg id="20" type="frame" pos="start">Als Curiosum <seg id="20" type="intExpr">theile</seg> <seg id="20" type="speaker">ich</seg>
+                        Jhnen noch <seg id="20" type="intExpr">mit</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1">daß in einigen Räumen des
+                        einstigen sogenannten Unionsparlaments jetzt eine
+                        Nähschule für arme Mädchen etablirt ist.</said>
+            
+            
+               Vreslau, 19. Okt. Es kann aus verbürgter
+                        Quelle versichert werden, daß der Pseudo=Altieri
+                        an der russischen Grenze verhaftet worden und
+                        seinen Einzug in Warschau nicht als päpstlicher
+                        Legat, <said id="21" mode="reported" content="speech" level="1">wie aus Danzig früher berichtet worden</said>,
+                        sondern als russischer Gefangener gehalten hat.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

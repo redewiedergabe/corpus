@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Drama in Mexico</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Ein_Drama_in_Mexico.tg1890_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1857</f>
+         <f name="decade">1850</f>
+         <f name="title">Ein Drama in Mexico</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">dash chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Ihr</seg> <seg id="2" type="intExpr">wißt</seg>,</seg> <said id="2" mode="indirect" content="thought" level="2" border="yes">daß der neue Bundesstaat noch aller Seewehr entbehrt.</said> Dort wird man unsere Schiffe unbesehen ankaufen, wodurch nicht nur unsere fehlende Löhnung herauskommt, sondern wir auch noch einen Ueberschuß gleichmäßig zur Vertheilung bringen können.</said> 
+                     <said id="3" mode="direct" content="speech" level="1">– Einverstanden!</said> 
+                     <said id="4" mode="direct" content="speech" level="1">– <said id="5" mode="reported" content="speech" level="2" nonfact="yes">Und welches Signal verabreden wir</said>, um auf beiden Schiffen gleichzeitig zu handeln?</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fragte</seg> der Mastwart <seg id="4" type="speaker">José</seg>.</seg> 
+                     <said id="6" mode="direct" content="speech" level="1">– Von der Asia wird eine Rakete aufsteigen</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">erwiderte</seg> <seg id="6" type="speaker">Martinez</seg>.</seg> <said id="7" mode="direct" content="speech" level="1">Dann brecht los! Wir sind Zehn gegen Einen, und die Officiere des Linienschiffs und der Brigg müssen überwältigt sein, bevor sie zur Besinnung kommen.</said> 
+                     <said id="8" mode="direct" content="speech" level="1">– Wann ist jenes Signal zu erwarten?</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">erkundigten</seg> sich einige <seg id="8" type="speaker">Bootsleute</seg> der Constanzia.</seg> 
+                     .. - <said id="9" mode="direct" content="speech" level="1">In einigen Tagen, sobald wir uns auf der Höhe der Insel Mindanao befinden.</said> 
+                     <said id="10" mode="direct" content="speech" level="1">– Die Mexicaner werden uns aber mit Kanonenkugeln empfangen</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">bemerkte</seg> der Mastwart <seg id="10" type="speaker">José</seg>.</seg> <said id="11" mode="direct" content="speech" level="1">Wenn ich nicht irre, <seg id="12" type="frame" pos="start">hat die <seg id="12" type="speaker">Bundesregierung</seg> ein <seg id="12" type="intExpr">Decret erlassen</seg>,</seg> <said id="12" mode="indirect" content="writing" level="2">alle spanischen Fahrzeuge strengstens zu überwachen und zu beobachten</said>, so daß uns statt des erhofften Geldes vielleicht eine Ladung Eisen und Blei bescheert wird.</said>
+                     
+                        <said id="13" mode="reported" content="speech" level="1">Dann und wann unterhielt er sich mit dem Aspiranten.</said> (S. 410.)
+                        
+                     
+                     <said id="14" mode="direct" content="speech" level="1">– Darüber beruhige Dich, José!</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">antwortete</seg> <seg id="14" type="speaker">Martinez</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">wir werden uns schon von fern her zu erkennen geben.</said> 
+                     <said id="15" mode="direct" content="speech" level="1">– Und auf welche Weise?</said> 
+                     <said id="16" mode="direct" content="speech" level="1">– Wir hissen an der Gaffel die Flagge Mexicos.«</said> 
+                     Bei diesen Worten entrollte der Lieutenant vor den Augen der Empörer in grün-weiß-rothes Flaggentuch.
+                     
+                        Bald unterlag er, schwer verwundet. (S. 412.)
+                        
+                     
+                     Tiefe Stille entstand angesichts dieses äußeren Zeichens der Unabhängigkeit Mexicos. 
+                     <said id="17" mode="direct" content="speech" level="1">»Nun, sehnt Ihr Euch etwa schon wieder nach den Farben Spaniens?</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">auf</seg> der <seg id="17" type="speaker">Lieutenant</seg> im Tone des Spottes.</seg> <said id="18" mode="direct" content="speech" level="1">Wohlan, wer diese Sehnsucht hört, der trenne sich von uns und fahre mit gutem Winde unter dem Comando des Kapitäns Don Orteva oder Don Roque's. Wir<seg id="19" type="frame" pos="start">, die <seg id="19" type="speaker">wir</seg> <seg id="19" type="intExpr">entschlossen</seg> sind,</seg> <said id="19" mode="indirect" content="thought" level="2" border="yes">den Gehorsam zu kündigen</said>, werden schon unser Ziel erreichen.</said> 
+                     
+                        <said id="20" mode="direct" content="speech" level="1">– Ja wohl! Gewiß!</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">rief</seg> die ganze <seg id="20" type="speaker">Versammlung</seg>.</seg> 
+                     <said id="21" mode="direct" content="speech" level="1">– Kameraden!</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">fügte</seg> <seg id="21" type="speaker">Martinez</seg> noch <seg id="21" type="intExpr">hinzu</seg>,</seg> <said id="21" mode="direct" content="speech" level="1"><seg id="22" type="frame" pos="start">unsere <seg id="22" type="speaker">Officiere</seg> <seg id="22" type="intExpr">beabsichtigen</seg></seg> <said id="22" mode="indirect" content="thought" level="2" border="yes">mit Hilfe der Passatwinde nach den Sunda-Inseln zu steuern</said>; wir werden ihnen aber zeigen, daß man auch ohne sie gegen die Moussons des Stillen Oceans laviren kann!«</said> 
+                     Die Theilnehmer dieser geheimen Zusammenkunft gingen aus einander und kamen von verschiedenen Seiten her wieder nach ihren zugehörigen Schiffen. 
+                     
+                        Am folgenden Tage lichteten die Asia und die Constanzia mit Tagesanbruch die Anker und mit vollen Segeln fuhren die Brigg und das Linienschiff nach Südwesten, in der Richtung nach Neuholland, ab. Lieutenant Martinez verrichtete wieder seinen Dienst, wurde aber <said id="23" mode="reported" content="speech" level="1">auf Anordnung des Kapitäns Orteva</said> aufmerksam beobachtet. 
+                     Inzwischen bedrängten Don Orteva manchmal düstere Vorgefühle. <said id="24" mode="reported" content="thought" level="1" border="yes">Er betrübte sich über den drohenden Verfall der spanischen Kriegsmarine, welche die Insubordination ihrem Untergang entgegen führte.</said> Dazu vermochte sich sein Patriotismus nicht an die Schläge des Unglücks zu gewöhnen, welche sein Vaterland jetzt nach einander trafen und denen der Abfall Mexicos die Krone aufsetzte. <said id="25" mode="reported" content="speech" level="1">Dann und wann unterhielt er sich mit dem Aspiranten Pablo von diesen ernsten Fragen, vorzüglich aber von der früheren Suprematie der spanischen Flotte in allen Meeren.</said> 
+                     <said id="26" mode="direct" content="speech" level="1">»Mein Sohn</said><seg id="26" type="frame" pos="mid">, <seg id="26" type="intExpr">begann</seg> <seg id="26" type="speaker">er</seg> eines Tages,</seg> <said id="26" mode="direct" content="speech" level="1">aus unseren Seeleuten ist der Geist der Disciplin gewichen. Vorzüglich auf meinem Schiffe zeigen sich Symptome einer drohenden Empörung, und es kann wohl sein, <seg id="27" type="frame" pos="start">– <seg id="27" type="speaker">ich</seg> <seg id="27" type="intExpr">ahne</seg> wenigstens so etwas, –</seg> <said id="27" mode="indirect" content="thought" level="2" border="yes">daß ich durch eine elende Verrätherei um's Leben komme!</said></said>
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

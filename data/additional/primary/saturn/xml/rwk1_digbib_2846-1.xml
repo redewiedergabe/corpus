@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>16. Der Besenbinderjunge</title>
+             <author>Schambach, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schambach,_Georg_16__Der_Besenbinderjunge.tg644_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">16. Der Besenbinderjunge</f>
+         <f name="author">Schambach, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16. Der Besenbinderjunge. 
+                  Es war einmal ein reicher Kaufmann, der ging eines Tages in einem Walde spazieren. <seg id="1" type="frame" pos="start">Da begegnete ihm die <seg id="1" type="speaker">Zauberin</seg> und <seg id="1" type="intExpr">fragte</seg> ihn,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes">wohin er wolle?</said> <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Er</seg> <seg id="2" type="intExpr">erwiederte</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">er wolle nur ein wenig spazieren gehn.</said> <seg id="3" type="frame" pos="start">Darauf <seg id="3" type="intExpr">fragte</seg> <seg id="3" type="speaker">sie</seg> weiter,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes">was er daran wende, wenn sie ihn glücklich mache?</said> <seg id="4" type="frame" pos="start">Der <seg id="4" type="speaker">Kaufmann</seg> <seg id="4" type="intExpr">meinte</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1">die alte Frau könne ihn wohl nicht glücklich machen.</said> <seg id="5" type="frame" pos="start">Aber die <seg id="5" type="speaker">Zauberin</seg> gab ihm eine Lilie und <seg id="5" type="intExpr">sagte</seg>:</seg> <said id="5" mode="indirect" content="speech" level="1">in dem Walde läge ein Schloß, zu diesem solle er hingehn und mit der Lilie das Thor aufschließen; in dem Schlosse wäre ein langer Gang, in diesem 
+solle er hinausgehn, dann werde er zu einer Stelle kommen, wo zwei »Geld rührten;« dabei läge ein großer Hund auf einem Kessel, der ihn grimmig anblicken würde. <seg id="6" type="frame" pos="start">Die beiden solle <seg id="6" type="speaker">er</seg> dann <seg id="6" type="intExpr">fragen</seg>,</seg> <said id="6" mode="indirect" content="speech" level="2" nonfact="yes">ob er sie nicht erlösen könne.</said></said> Der Kaufmann that, wie ihm geheißen war, und fand auch alles so, wie ihm die Zauberin gesagt hatte. <seg id="7" type="frame" pos="start">Als <seg id="7" type="speaker">er</seg> die beiden, welche das Geld rührten, <seg id="7" type="intExpr">fragte</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">ob er sie nicht erlösen könne</said><seg id="8" type="frame" pos="start">, <seg id="11" type="intExpr">antworteten</seg> <seg id="11" type="speaker">sie</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">er könne das nicht, nur ein armer, unschuldiger Knabe vermöge sie zu erlösen.</said> <seg id="9" type="frame" pos="start">Darauf <seg id="11" type="intExpr">fragte</seg> sie der <seg id="11" type="speaker">Kaufmann</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">ob sie ihm nicht drei Stücke Geld umwechseln wollten.</said> Sie waren dazu gern bereit und gaben ihm für seine drei Stücke Geld drei Goldstücke. <seg id="10" type="frame" pos="start">Als er zurückkam, war die <seg id="11" type="speaker">Zauberin</seg> wieder da und <seg id="11" type="intExpr">sagte</seg> ihm,</seg> <said id="10" mode="indirect" content="speech" level="1">er solle drei Tage hinter einander jedes Mal am Morgen eins der drei Goldstücke irgendwo hinlegen; wer dann das Geld fände, der könne die beiden erlösen.</said> Der Kaufmann that das. Am ersten Morgen kam ein Besenbinderjunge, der fand das hingelegte Goldstück und steckte es bei. <seg id="11" type="frame" pos="start">Der <seg id="11" type="speaker">Kaufmann</seg> aber <seg id="11" type="intExpr">befahl</seg> dem Jungen,</seg> <said id="11" mode="indirect" content="speech" level="1" nonfact="yes">er solle den nächsten Tag ihm noch eine Tracht Besen bringen</said>, und legte das zweite Goldstück so hin, daß er es finden muste. Am dritten Morgen kam der Junge mit seinen Besen wieder und fand auch das dritte Goldstück. <seg id="12" type="frame" pos="start">Darauf <seg id="11" type="intExpr">fragte</seg> ihn der <seg id="11" type="speaker">Kaufmann</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">ob er nicht Lust hätte die Kaufmannschaft zu erlernen.</said> <seg id="13" type="frame" pos="start">Der <seg id="13" type="speaker">Junge</seg> wollte Anfangs nicht und <seg id="13" type="intExpr">meinte</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">er sei ja nur ein armer Besenbinderjunge und habe kein Geld, darum könne er auch nicht Kaufmann werden</said>; <said id="14" mode="reported" content="speech" level="1">doch der Kaufmann redete ihm so lange zu</said>, <said id="15" mode="reported" content="speech" level="1">bis er endlich einwilligte und zu ihm in die Lehre ging.</said> Nachdem er eine Zeit lang bei dem Kaufmanne gewesen war, nahm ihn dieser eines Tages mit in den Wald. <seg id="16" type="frame" pos="start">Die<seg id="16" type="speaker"> Zauberin</seg> kam wieder daher und <seg id="16" type="intExpr">sagte</seg> zu ihnen,</seg> <said id="16" mode="indirect" content="speech" level="1">sie sollten zu dem Schlosse gehn, aber ein schwarzes Huhn mitnehmen, welches keinen Schwanz habe (en stûphaun) und dasselbe neben den Hund auf den Kessel setzen.</said> Als sie dahin gekommen waren, wo die beiden rührten, und das Huhn auf den Kessel gesetzt hatten, sprang dieses den Rührenden auf die Hände und hackte sie. Alsbald waren beide verschwunden; nun sprang das Huhn dem Hunde auf den Kopf und »hackte sich auch mit diesem lange herum,« bis er endlich wich. »Als nun alles weg war,« nahmen sie das Geld und gingen damit nach Hause. Sie haben nachher vielen armen Leuten davon Gutes gethan.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

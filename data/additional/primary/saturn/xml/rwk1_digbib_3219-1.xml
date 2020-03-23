@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Schutzimpfung</title>
+             <author>Wedekind, Frank</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wedekind,_Frank_Die_Schutzimpfung.tg364_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Die Schutzimpfung</f>
+         <f name="author">Wedekind, Frank</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Ich danke dir bestens für deine Einladung.«</said> 
+                  <said id="2" mode="reported" content="speech" level="1">Er machte noch einige wohlgemeinte, jovial-scherzhafte Bemerkungen</said> und verließ darauf das Zimmer. Ich blieb wie angewurzelt stehen, <said id="3" mode="reported" content="thought" level="1" border="yes">bis ich seine Schritte unten im Hausgang verhallen hörte.</said> 
+                  <said id="4" mode="reported" content="speech" level="1" nonfact="yes">Ich will es mir ersparen, den entsetzlichen Zustand von Wut und Verzweiflung zu schildern, in dem sich die bedauernswürdige Frau nach dieser Szene befand.</said> Sie war seelisch wie aus den Fugen gegangen und gab mir Beweise von Haß und Verachtung, wie ich sie nie in meinem Leben empfangen habe. Während sie sich hastig ankleidete<seg id="5" type="frame" pos="start">, <seg id="5" type="intExpr">bedrohte</seg> <seg id="5" type="speaker">sie</seg> mich damit,</seg> <said id="5" mode="indirect" content="speech" level="1">mir ins Gesicht zu spucken.</said> Ich verzichtete natürlich auf jeden Versuch, mich zu verteidigen. 
+                  <said id="6" mode="direct" content="speech" level="1">»<seg id="7" type="frame" pos="start">Wohin <seg id="7" type="intExpr">denkst</seg> <seg id="7" type="speaker">du</seg> denn</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes">jetzt zu gehen?</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Ich weiß nicht – – ins Wasser – – nach Hause – – oder auch zu Brüchmanns – <seg id="9" type="frame" pos="start">um zu <seg id="9" type="intExpr">sehen</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie es deren Jüngsten geht.</said> – Ich weiß es nicht.«</said> 
+                  – – Am Mittag gegen zwei Uhr saßen wir zusammen unter den schattigen Kastanienbäumen neben dem Gasthof zur Post in Ebenhausen, Röbel, Schletter, mein Freund und ich, und erlabten uns an gebratenen Hühnern und hellschimmerndem saftigen Kopfsalat. Mein Freund, dessen Seelenzustand ich argwöhnisch beobachtete, beruhigte mich durch die ganz außergewöhnlich fröhliche Laune, in der er sich befand. Er warf mir scherzhaft treffende Blicke zu und rieb sich siegreich schmunzelnd die Hände<seg id="10" type="frame" pos="start">, ohne indessen zu <seg id="10" type="intExpr">verraten</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">was sein Inneres so froh bewegte.</said> Die Tour verlief ohne weitere Störung, und gegen zehn Uhr abends waren mir wieder in der Stadt. <said id="11" mode="reported" content="speech" level="1">Am Bahnhof angekommen, verabredeten wir uns in ein Bierlokal.</said> 
+                  
+                     
+ <said id="12" mode="direct" content="speech" level="1">»Erlaubt mir nur«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> mein <seg id="12" type="speaker">Freund</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»daß ich eben nach Hause gehe und meine Frau hole. Sie hat den ganzen schönen Tag bei dem kranken Kinde gesessen und würde es uns übelnehmen, wenn wir sie nun den Abend zu Hause allein verbringen lassen.«</said> 
+                  Bald darauf kam er mit ihr in den verabredeten Garten. <said id="13" mode="reported" content="speech" level="1">Das Gespräch drehte sich natürlich um die überstandene Tour, deren Ereignislosigkeit von allen Teilnehmern nach Kräften zu erzählungswürdigen Abenteuern aufgebauscht wurde.</said> <said id="14" mode="reported" content="speech" level="1" border="yes">Die junge Frau war etwas wortkarg</said>, etwas betreten und würdigte mich keines Blickes. Er hingegen trug noch mehr als während des Nachmittags in seinem jovialen Gesicht jenes für mich so rätselhafte Siegesbewußtsein zur Schau. Seine überlegenen, triumphierenden Blicke galten jetzt aber mehr seiner versonnen dasitzenden Gattin als mir. Es war nicht anders, als hätte er irgendeine innere, ihn tief beseligende Genugtuung erfahren. 
+                  Erst einen Monat später, als ich mit der jungen Frau zum erstenmal wieder allein war, klärte sich mir dieses Rätsel auf. <said id="15" mode="reported" content="speech" level="1">Nachdem ich noch einmal die heftigsten Vorwürfe über mich hatte ergehen lassen müssen, war eine oberflächliche Versöhnung erfolgt</said><seg id="16" type="frame" pos="start">, nach deren mühevollem Zustandekommen <seg id="16" type="speaker">sie</seg> mir <seg id="16" type="intExpr">anvertraute</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">wie ihr Mann, als sie am Abend jenes Tages zu Hause mit ihm allein war, <seg id="17" type="frame" pos="start">ihr mit verschränkten Armen folgenden <seg id="17" type="intExpr">Vortrag gehalten</seg> hatte</seg></said><seg id="17" type="frame" pos="start">:</seg> <said id="17" mode="direct" content="speech" level="1">»Deinen lieben, süßen Jungen, mein Kind, den habe ich jetzt aber gründlich kennengelernt. <seg id="18" type="frame" pos="start">Jeden Tag <seg id="18" type="intExpr">gestehst</seg> <seg id="18" type="speaker">du</seg> mir,</seg> <said id="18" mode="indirect" content="speech" level="2">daß du ihn liebst</said><seg id="19" type="frame" pos="start">, und <seg id="19" type="intExpr">ahnst</seg> dabei gar nicht,</seg> <said id="19" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="20" mode="reported" content="speech" level="2">wie der sich über dich lustig macht.</said></said> Heute morgen traf ich ihn in seiner Wohnung an; natürlich war er nicht allein. <said id="21" mode="reported" content="thought" level="2" border="yes">Freilich ist mir jetzt auch völlig klargeworden, warum er sich nichts aus dir macht und deine Empfindungen verächtlich zurückweist.</said>
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social03_1873_10.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               <said id="1" mode="direct" content="speech" level="1">„ Trinkend, küssend, lachend wollen
+                        Wir die Ewigkeit vollbringen,
+                        <said id="3" mode="reported" content="speech" level="2" border="yes">Und verzückt Halleluja,
+                        Kyrie Eleison fingen.</said>“</said> 
+               <seg id="1" type="frame" pos="end">Also <seg id="1" type="intExpr">schloß</seg> der <seg id="1" type="speaker">Christ</seg>.</seg> <seg id="2" type="frame" pos="start">Die <seg id="2" type="speaker">Mönchlein</seg>
+                        <seg id="2" type="intExpr">Glaubten</seg> schon,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">Erleuchtung träte
+                        Jn die Herzen</said>, und sie schleppten
+                        Flink herbei das Taufgeräthe. 
+               Doch die wasserscheuen Juden
+                        Schütteln sich und grinsen schnöde.
+                        <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Rabbi Juda</seg>, der Navarrer,
+                        Hub jetzt an die <seg id="4" type="intExpr">Gegenrede</seg>:</seg> 
+               <said id="4" mode="direct" content="speech" level="1">„Um für deine Saat zu düngen
+                        Meines Geistes dürren Acker,
+                        <said id="5" mode="reported" content="speech" level="2">Mit Mistkarren voll Schimpfwörter
+                        Hast du mich beschmissen wacker.</said> 
+               „So folgt Jeder der Methode,
+                        Dran er nun einmal gewöhnet.
+                        <said id="6" mode="reported" content="speech" level="2" nonfact="yes">Und anstatt dich drob zu schelten</said>,
+                        <said id="7" mode="reported" content="speech" level="2">Sag' ich Dank dir, wohlversöhnet.</said> 
+               „Die Dreieinigkeitsdoktrin
+                        Kann für unsre Leut' nicht passen,
+                        Die mit Regula=de=tri
+                        Sich von Jugend auf befassen. 
+               „Daß in deinem Gotte drei,
+                        Drei Personen sind enthalten,
+                        Jst bescheiden noch, sechstausend
+                        Götter gab es bei den Alten. 
+               „Unbekannt ist mir der Gott,
+                        <said id="8" mode="reported" content="speech" level="2" border="yes">Den ihr Christum pflegt zu nennen</said>;
+                        Seine Jungfer Mutter gleichfalls
+                        Hab' ich nicht die Ehr' zu kennen. 
+               „<seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Jch</seg> <seg id="9" type="intExpr">bedaure</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes">daß er einst,
+                        Vor etwa zwölfhundert Jahren,
+                        Ein'ge Unannehmlichkeiten
+                        Zu Jerusalem erfahren.</said> 
+               „Ob die Juden ihn getödtet,
+                        Das ist schwer jetzt zu erkunden,
+                        Da ja das Corpus delicti
+                         Schon am dritten Tag verschwunden. 
+               „Daß er ein Verwandter sei
+                        Unsres Gottes ist nicht minder
+                        Zweifelhaft<seg id="10" type="frame" pos="start">; so viel <seg id="10" type="speaker">wir</seg> <seg id="10" type="intExpr">wissen</seg>,</seg>
+                        <said id="10" mode="indirect" content="thought" level="2" border="yes">Hat der Letztre keine Kinder.</said> 
+               „Unser Gott ist nicht gestorben
+                        Als ein armes Lämmerschwänzchen
+                        Für die Menschheit, ist kein süßes
+                        Philantröpfchen, Faselhänschen. 
+               „Unser Gott ist nicht die Liebe;
+                        Schnäbeln ist nicht seine Sache,
+                        Denn er ist ein Donnergott
+                        Und er ist ein Gott der Rache. 
+               „Seines Zornes Blitze treffen
+                        Unerbittlich jeden Sünder,
+                        Und des Vaters Schulden büßen
+                        Oft die späten Enkelkinder. 
+               „Unser Gott, der ist lebendig,
+                        Und in seiner Himmelshalle
+                        Existieret er drauf los
+                        Durch die Ewigkeiten alle.</said>
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

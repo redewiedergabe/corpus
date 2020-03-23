@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt22_1868_3.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Jch</seg> <seg id="2" type="intExpr">ertheile</seg> Dir den <seg id="2" type="intExpr">Rath</seg>,</seg> <said id="2" mode="indirect" content="speech" level="2">gieb Dich für
+                        krank aus und bleibe einige Tage zu Hause.</said>“</said>
+                         
+            <said id="3" mode="direct" content="speech" level="1">„Jch kann nicht“</said><seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">sprach</seg> der <seg id="3" type="speaker">Doktor</seg> mit dumpfer Stimme,</seg> <said id="3" mode="direct" content="speech" level="1">„diese
+                        schreckliche Lage muß ein Ende nehmen! Schon lange trage ich alle
+                        diese Qualen in mir; ich fühlte mich stark genug, sie zu verbergen.
+                        Aber nun --“</said>
+                         
+            <said id="4" mode="direct" content="speech" level="1">„<seg id="5" type="frame" pos="start">So <seg id="5" type="intExpr">erzähle</seg> mir wenigstens,</seg> <said id="5" mode="indirect" content="speech" level="2" nonfact="yes">welcher Anlaß Dich zu einer solchen
+                        Raserei führt</said>“</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">sprach</seg> der <seg id="4" type="speaker">Assessor</seg></seg>, suchte sich eine bequeme Stellung
+                        auf dem Sopha aus und schlug die Beine über einander.
+            <said id="6" mode="reported" content="speech" level="1" nonfact="yes">Der Doktor aber erzählte nicht</said>, <said id="7" mode="reported" content="speech" level="1">sondern stieß nur einzelne Worte
+                        hervor.</said>
+            Nach längerem Warten fing der Assessor wieder in seiner ruhigen
+                        Art zu sprechen an.
+            <said id="8" mode="direct" content="speech" level="1">„<seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Du</seg> <seg id="9" type="intExpr">weißt</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes"><said id="10" mode="reported" content="speech" level="3">ich hatte Dich schon vor längerer Zeit gewarnt</said></said>; <said id="11" mode="reported" content="speech" level="2">damals aber widersprachst Du mir</said>, <said id="12" mode="reported" content="thought" level="2">Du wolltest keine Gefahr für Dich
+                        erkennen.</said> Nun ist die Sache anders geworden. Nachdem Du lange
+                        genug mit dem Feuer gespielt hast, hast Du eine Wunde wegbekommen, und nun -- schreist Du und geberdest Dich wie ein
+                        kleines Kind, welches sich am Ofen verbrannt hat. <said id="13" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Laß mich die
+                        Geschichte hören</said>“</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">setzte</seg> <seg id="8" type="speaker">er</seg> dann <seg id="8" type="intExpr">hinzu</seg>.</seg>
+            <said id="14" mode="direct" content="speech" level="1">„Jch sehe kein Heil, außer -- Nein, ich will nicht feig sein!
+                        Von jeher habe ich es mit den Fatalisten gehalten; was dem Menschen kommen soll, muß er ertragen, es giebt für ihn keinen Ausweg.
+                        Jch sah die Gefahr so gut, wie Du, ja, ich hatte oft eine Ahnung,
+                        daß sie mich verderben würde. <said id="15" mode="freeIndirect" content="thought" level="2">Aber was sollte ich beginnen?</said> Hätte
+                        ich mir zumuthen sollen, das Mädchen aus ihrer einzigen Zufluchtsstätte zu vertreiben, wo sie sich glücklich fühlte? Und dazu liebte ich
+                        sie; ich konnte ihren Anblick nicht missen. <said id="16" mode="direct" content="thought" level="2">Noch einige Zeit wird es
+                        so bleiben können</said><seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">dachte</seg> <seg id="16" type="speaker">ich</seg> bei mir</seg>, und wenn ich mir auch einen
+                        Termin setzte, wo ich ein Ende machen wollte, der Termin ging vorüber und ich wagte -- nichts. Währenddessen war mein einziger
+                        Trost, daß eine Erklärung, eine Enthüllung meiner Lage nicht stattfinden könne. <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Jch</seg> <seg id="17" type="intExpr">wähnte</seg>,</seg> <said id="17" mode="indirect" content="thought" level="2">die Sache würde verborgen bleiben
+                        und</said> -- Genug, Freund, jetzt ist mir Alles verloren, meine Braut
+                        und Helene.“</said>
+                         
+            <said id="18" mode="direct" content="speech" level="1">„Jch sehe das noch nicht recht ein“</said><seg id="18" type="frame" pos="end">, <seg id="18" type="intExpr">meinte</seg> der <seg id="18" type="speaker">Assessor</seg>.</seg> <said id="19" mode="direct" content="speech" level="1">„Die
+                        Situation ist zwar schwierig, aber doch wenigstens klar. Du liebst
+                        Deine Braut nicht, Du liebst Helene. Gieb also die Braut auf,
+                        <said id="20" mode="reported" content="speech" level="2" nonfact="yes">erkläre ehrlich, wie es mit Deinem Herzen steht</said>; Marie ist ein zu
+                        verständiges Mädchen, als daß sie nicht mit einigem Weinen und
+                        vielen Seufzern darüber hinwegkommen sollte. Auf der anderen
+                        Seite besteht offenbar eine Zuneigung Helenens zu Dir; also benutze
+                        diese, laß, um den Anstand zu wahren, noch einige Zeit hingehen
+                        und heirathe sie dann. So lege ich mir die Sache zurecht“</said><seg id="19" type="frame" pos="end">, <seg id="19" type="intExpr">erklärte</seg>
+                        der <seg id="19" type="speaker">Assessor</seg> mit vieler Befriedigung.</seg>
+            <said id="21" mode="direct" content="speech" level="1">„Unmöglich, unmöglich! Jch habe sie verloren!“</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">rief</seg> der
+                        <seg id="21" type="speaker">Doktor</seg> <seg id="21" type="intExpr">aus</seg>.</seg>
+            <said id="22" mode="direct" content="speech" level="1">„<said id="23" mode="reported" content="speech" level="2" nonfact="yes">Man wird darüber allerdings viele Glossen machen</said>“</said><seg id="22" type="frame" pos="mid">, <seg id="22" type="intExpr">fuhr</seg> der
+                        <seg id="22" type="speaker">Assessor</seg> wieder <seg id="22" type="intExpr">fort</seg>;</seg> <said id="22" mode="direct" content="speech" level="1">„<seg id="24" type="frame" pos="start"><seg id="24" type="speaker">man</seg> wird es nicht für passend <seg id="24" type="intExpr">erachten</seg>,</seg> <said id="24" mode="indirect" content="thought" level="2" nonfact="yes">daß
+                        Du dem Hause den Rücken kehrst, welchem Du so Vieles, nahezu
+                        Alles verdankst</said>; aber da weder Mord, noch Todtschlag, noch irgend
+                        ein strafrechtliches Vergehen dabei im Spiel ist, <said id="25" mode="reported" content="speech" level="2" nonfact="yes">wird sich Niemand sehr
+                        laut zu äußern wagen</said>, <said id="26" mode="reported" content="thought" level="2" nonfact="yes" border="yes">und man wird es bald vergessen haben.</said>
+</said>
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

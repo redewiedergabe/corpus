@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Kamaschenteufel. Mein gewichtiger Landesvater.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt07_1868_16.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Der Kamaschenteufel. Mein gewichtiger Landesvater.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+               M. D er Kamaschenteufel. Als der preußische Oberst Fouqu é 1742
+                        mit seinem Grenadier=Bataillon zu Kremsier in Mähren stand, hatte er
+                        unter andern auch eine Schildwache auf der Mauer unweit der Wohnung
+                        eines Geistlichen aufgestellt. <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Dieser</seg></seg>, beunruhigt durch <seg id="1" type="frame" pos="start">das öftere</seg> <said id="1" mode="direct" content="speech" level="1">„Wer
+                        da!“</said> <seg id="1" type="frame" pos="end">der <seg id="1" type="speaker">Schildwache</seg></seg>, <seg id="2" type="frame" pos="start">gerieth auf den <seg id="2" type="intExpr">Einfall</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">den Soldaten von diesem
+                        Posten in der Gestalt des Teufels zu verscheuchen.</said>
+            Jn einer solchen Verkleidung, mit Hörnern, Klauen und Schwanz versehen, erschien er des Nachts der Schildwache. <seg id="3" type="frame" pos="start">Zum Unglück aber <seg id="3" type="intExpr">wünschte</seg>
+                        der furchtlose <seg id="3" type="speaker">Grenadier</seg> gerade</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">die nähere Bekanntschaft des Teufels zu
+                        machen</said>; er hielt sich also zurück, bis das Gespenst vor ihm stand und
+                        seine mitgebrachte Mistgabel drohend schwang. Der Erfolg war, daß der
+                        falsche Satan mit Hülfe einiger in der Nähe befindlichen Kameraden des
+                        Grenadiers ergriffen, auf den nächsten Wachtposten gebracht und am
+                        andern Morgen in seiner ominösen Kleidung durch die ganze Stadt nach
+                        der Hauptwache geführt wurde.
+            <seg id="4" type="frame" pos="start">Die <seg id="4" type="speaker">Geistlichkeit</seg>, wohl <seg id="4" type="intExpr">einsehend</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">daß der Priester nicht nur gegen
+                        seinen Stand, sondern auch gegen die Garnison sich vergangen habe</said>, <said id="5" mode="reported" content="speech" level="1">bat
+                        den Obersten Fouqu é um die Freilassung desselben gegen Zahlung einer
+                        beträchtlichen Geldstrafe.</said>
+            Fouqu é benutzte die Gelegenheit im Jnteresse seiner Grenadiere, welche
+                        damals noch weiße Kamaschen trugen und in Folge der mancherlei Strapazen einer neuen Fußbekleidung bedurften. <said id="6" mode="reported" content="speech" level="1">Er ließ <said id="7" mode="reported" content="writing" level="2" border="yes">die erforderlichen
+                        Kosten zur Beschaffung schwarzer Kamaschen für die ganze Garnison
+                        berechnen</said></said>, die sich auf hundert und einige Dukaten beliefen, welche demnächst auch von der Geistlichkeit gezahlt wurden. Der arme Priester mußte
+                        dafür im Kloster büßen, während die Grenadiere ihre schwarzen Kamaschen erhielten, die ihnen später auf ihren Märschen sehr zu Statten kamen.
+            <said id="8" mode="reported" content="speech" level="1">So verdankten die Soldaten scherzweise die Bekleidung ihrer Füße der
+                        Sorgfalt des Teufels von Kremsier</said>, <said id="9" mode="reported" content="thought" level="1">und Friedrich der Große fand Fouqu é's
+                        Jdee so praktisch</said><seg id="10" type="frame" pos="start">, daß <seg id="10" type="speaker">er</seg> <seg id="10" type="intExpr">beschloß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">die schwarzen Kamaschen bei der ganzen
+                        Armee einzuführen.</said>
+            
+            
+               M. E in gewichtiger Landesvater. Jn dem Schlosse zu Anspach befindet sich ein Gemälde, <seg id="11" type="frame" pos="start">dessen <seg id="11" type="speaker">Rückseite</seg> folgende <seg id="11" type="intExpr">Aufschrift</seg> enthält:</seg> <said id="11" mode="direct" content="writing" level="1">„Der
+                        durchlauchtigste Fürst und Herr, Herr Georg Friedrich, Markgraf zu Brandenburg 
+                  ec.
+               , ist am Osterdienstag, den 20. April 1603, in Gott hochselig
+                        verschieden. Seine Leber hat gewogen 5 Pfund, die Lunge 4 und das
+                        Herz1 1 / 2 Pfund; der Magen ist zwei Spannen lang gewesen und hat
+                        6 Maß gehalten. Der ganze Leib wog 4 Centner und ist 7 Schuh lang
+                        gewesen“.</said> Jn der That ein gewichtiger Fürst!
+                         
+            
+               M. V anderveld, der berühmte niederländische Maler, hatte die reizende
+                        Villa des reichen Lords Clarendon bei Antwerpen gemalt und das Bild
+                        nach England zur öffentlichen Versteigerung gebracht. <seg id="12" type="frame" pos="start">Der <seg id="12" type="speaker">Lord</seg></seg>, welcher
+                        hiervon gehört, <seg id="12" type="frame" pos="start">begab sich an Ort und Stelle und <seg id="12" type="intExpr">rief</seg> in dem Augenblick</seg>,
+                        als das Ausgebot beginnen sollte:
+                         
+            <said id="12" mode="direct" content="speech" level="1">„Jch gebe das Original für die Copie!“</said>
+                         
+            Erstaunt und enttäuscht horchten die Anwesenden auf, <said id="13" mode="reported" content="speech" level="1">während der
+                        Künstler seine Entrüstung über die ihm zugemuthete Fälschung kundgab.</said>
+            <said id="14" mode="direct" content="speech" level="1">„<seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Jch</seg> <seg id="15" type="intExpr">weiß</seg> wohl</seg>“</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">fuhr</seg> der <seg id="14" type="speaker">Fremde</seg> <seg id="14" type="intExpr">fort</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">„<said id="15" mode="indirect" content="thought" level="2" border="yes">daß dies Gemälde von
+                        Vanderveld ist</said>; aber ich biete ihm nochmals das Original für die Copie;
+                        ich bin -- Lord Clarendon.“</said>
+                         
+            Ein glänzenderes Honorar ist wohl selten auf eine so liebenswürdige
+                        Weise gezahlt worden.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

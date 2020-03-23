@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social03_1873_11.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               <said id="1" mode="direct" content="speech" level="1">„ Unser Gott, und der ist auch
+                        Ein gesunder Gott, kein Mythos
+                        Bleich und dünne wie Oblaten
+                        Oder Schatten am Kokythos. 
+               „Unser Gott ist stark. Jn Händen
+                        Trägt er Sonne, Mond, Gestirne;
+                        Throne brechen, Völker schwinden,
+                        Wenn er runzelt seine Stirne.
+               „Und er ist ein großer Gott.
+                        <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">David</seg> <seg id="2" type="intExpr">singt</seg>:</seg> <said id="2" mode="direct" content="speech" level="2">Ermessen ließe
+                        Sich die Größe nicht, -- die Erde
+                        Sei der Schemel seiner Füße.</said> 
+               „Unser Gott liebt die Musik,
+                        Saitenspiel und Festgesänge;
+                        Doch wie Ferkelgrunzen sind
+                        Jhm zuwider Glockenklänge. 
+               „Leviathan heißt der Fisch,
+                        Welcher haust im Meeresgrunde;
+                        Mit ihm spielet Gott der Herr
+                        Alle Tage eine Stunde -- 
+               „Ausgenommen an dem neunten
+                        Tag des Monats Ab, wo nämlich
+                        Eingeäschert ward sein Tempel;
+                        An dem Tag ist er zu grämlich. 
+               „Des Leviathans Länge ist
+                        Hundert Meilen, hat Floßfedern
+                        Groß wie König Ok von Basan,
+                        Und sein Schwanz ist wie ein Cedern. 
+               „Doch sein Fleisch ist delikat,
+                        Delikater als Schildkröten,
+                        Und am Tag der Auferstehung
+                        <said id="3" mode="reported" content="speech" level="2">Wird der Herr zu Tische beten 
+               „Alle frommen Auserwählten,
+                        Die Gerechten und die Weisen</said> -Unsres Herrgotts Lieblingssisch
+                        Werden sie alsdann verspeisen, 
+               „Theils mit weißer Knoblauchbrühe,
+                        Theils auch braun in Wein gesotten,
+                        Mit Gewürzen und Rosinen,
+                        Ungefähr wie Matelotten. 
+               „Jn der weißen Kuoblauchbrühe
+                        Schwimmen kleine Schäbchen Rettig -<said id="4" mode="indirect" content="speech" level="1">So bereitet, Frater Jose,
+                        Mundet dir das Fischlein</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">wett'</seg> <seg id="4" type="speaker">ich</seg>!</seg> 
+               „Auch die braune ist so lecker,
+                        Nämlich die Rosinensauce,
+                        Sie wird himmlisch wohl behagen
+                        Deinem Bäuchlein, Frater Jose. 
+               „Was Gott kocht, ist gut gekocht!
+                        Mönchlein, nimm jetzt <said id="5" mode="reported" content="speech" level="1">meinen Rath</said> an,
+                        Opfre hin die alte Vorhaut
+                        Und erquick dich am Leviathan.“</said> 
+               <seg id="1" type="frame" pos="end">Also lockend <seg id="1" type="intExpr">sprach</seg> der <seg id="1" type="speaker">Rabbi</seg></seg>,
+                        Lockend, ködernd, heimlich schmunzelnd,
+                        Und die Juden schwangen schon
+                        Jhre Messer wonnegrunzelnd, 
+               Um als Sieger zu skalpieren
+                        Die verfallenen Vorhäute,
+                        Wahre spolia opima
+                         Jn dem wunderlichen Streite.
+                        
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

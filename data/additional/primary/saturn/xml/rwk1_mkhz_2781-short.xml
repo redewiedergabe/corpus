@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_12.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            Mein liebe Ottilie!
+                        
+            <said id="1" mode="reported" content="speech" level="1">Jch habe mit „Jhm“ gesprochen, ganz offen und ehrlich.</said> <said id="2" mode="indirect" content="thought" level="1">Die Sache
+                        brieflich zu erledigen</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">erschien</seg> <seg id="2" type="speaker">mir</seg> doch zu gefahrvoll.</seg> Jch ging also zu ihm.
+                        Mein Porträt steht ja noch in seinem Atelier, und ein Künstler wie er wird
+                        nie fertig. Jn der Tat entdeckte er auch wieder etwas in meinen Zügen,
+                        was ihm bisher entgangen war. Jch ließ ihn diese Entdeckung, diese letzte
+                        Entdeckung -- denn wir werden uns nie wiedersehen -- fixieren; <said id="3" mode="reported" content="speech" level="1">dann fing
+                        ich an, zu sprechen, ruhig und freundlich wie eine ältere Schwester.</said> Er ist
+                        ja auch wirklich noch so jung, im Vergleich zu mir, obwohl er zwei Jahre
+                        älter ist als ich. Ein Kind mit dreißig Jahren! O, diese Künstler! <said id="4" mode="indirect" content="speech" level="1" nonfact="yes" prag="yes">Wie
+                        naiv er war</said><seg id="4" type="frame" pos="end">, <seg id="4" type="speaker">ich</seg> kann es Dir gar nicht <seg id="4" type="intExpr">sagen</seg>.</seg> Bezaubernd! Jch war nie so
+                        verliebt in ihn, wie in dieser letzten Stunde. Aber mein Entschluß war gefaßt, und ich fühlte mich sicher. <seg id="18" type="frame" pos="start">Es war ein eigenes <seg id="18" type="intExpr">Vergnügen</seg>,</seg> <said id="18" mode="reported" content="thought" level="1" border="yes">so mit der
+                        Gefahr zu spielen</said>, <seg id="5" type="frame" pos="start">zu wissen,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">daß je mehr sie wuchs, <seg id="6" type="frame" pos="start">desto größer auch der
+                        <seg id="6" type="intExpr">Reiz</seg> wurde,</seg><said id="6" mode="indirect" content="thought" level="2" border="yes"> ihr zu begegnen, der Lockung zu widerstehen.</said></said> Eine köstliche Sensation! -- Wie er es aufnahm? Mein Gott! Wie nimmt ein Kind es auf,
+                        wenn man ihm sein Lieblingsspielzeug wegnimmt <seg id="7" type="frame" pos="start">mit der <seg id="7" type="intExpr">Begründung</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">es
+                        könnte sich damit wehtun.</said> <said id="19" mode="indirect" content="speech" level="1" border="yes">Was würde ihm denn</said><seg id="19" type="frame" pos="start">, <seg id="19" type="intExpr">meint</seg> <seg id="19" type="speaker">es</seg>, </seg><said id="19" mode="indirect" content="speech" level="1" border="yes">größeren Schmerz bereiten, als eben das Wegnehmen?</said> <said id="20" mode="reported" content="thought" level="1" border="yes">Und was war meinem großen Kinde alle
+                        Gefahr, alle Möglichkeit eines schlimmen oder häßlichen Ausgangs?</said> Schlimmeres konnte ihm ja doch nicht begegnen, als daß ich ihn verlassen wollte. Welch
+                        ein Jammer in allen Tonarten! <said id="8" mode="reported" content="speech" level="1">Schmeicheln, Bitten, Flehen, Weinen, Drohen,
+                        Toben</said> -- weiter ließ ich ihn nicht kommen. <said id="9" mode="reported" content="speech" level="1">Jch machte ein Ende.</said> Und nun
+                        ist es aus, ganz aus. Als ich am Abend mit meinem Manne ins LessingTheater fuhr, <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">reizte</seg> es <seg id="10" type="speaker">mich</seg> plötzlich,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes"><said id="11" mode="reported" content="speech" level="2">ihm alles zu erzählen.</said></said> <seg id="12" type="frame" pos="start">Aber er hätte
+                        meinen können,</seg> <said id="12" mode="indirect" content="thought" level="1" nonfact="yes" border="yes"><said id="13" mode="reported" content="speech" level="2">ich wollte mich meiner „Ehrbarkeit“ rühmen.</said></said> Und das wäre
+                        doch unfein gewesen. -- -- Deine Magda.
+            
+               PS. <said id="14" mode="indirect" content="speech" level="1" nonfact="yes">Daß ich noch an „Jhn“ denke, oft, sehr oft</said><seg id="14" type="frame" pos="end">, will <seg id="14" type="speaker">ich</seg> Dir nicht
+                        <seg id="14" type="intExpr">verschweigen</seg>.</seg> Und gerade sein Bild aus der letzten Stunde schwebt mir dann
+                        immer vor. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Jch</seg> hätte nicht <seg id="15" type="intExpr">gedacht</seg>,</seg><said id="15" mode="indirect" content="thought" level="1" border="yes"> daß er so an mir hinge.</said> <seg id="21" type="frame" pos="start">Es ist doch
+                        ein hübsches <seg id="21" type="intExpr">Gefühl</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1" border="yes">so geliebt zu sein.</said> <seg id="16" type="frame" pos="start">Wenn <seg id="16" type="speaker">ich</seg> jemals <seg id="16" type="intExpr">erfahren</seg> würde,</seg> <said id="16" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß
+                        er nicht mehr an mich denkt</said><seg id="17" type="frame" pos="start">, <seg id="17" type="speaker">ich</seg> <seg id="17" type="intExpr">glaube</seg>, </seg><said id="17" mode="indirect" content="thought" level="1" border="yes">ich würde ihm sehr, sehr böse sein.</said>
+            
+               28. November 04.
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

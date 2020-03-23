@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Havanna 1816</title>
+             <author>Sealsfield, Charles</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sealsfield,_Charles_Havanna_1816.tg27_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Havanna 1816</f>
+         <f name="author">Sealsfield, Charles</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Unglückliche ließ ihn nicht ausreden. Er faßte seine Hand, preßte sie wie ein Ertrinkender, stöhnte, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">versuchte es zu reden</said>, vermochte es aber nicht. <seg id="2" type="frame" pos="start">Endlich <seg id="2" type="intExpr">brachte</seg> <seg id="2" type="speaker">er</seg> schluchzend und gebrochen <seg id="2" type="intExpr">heraus</seg>:</seg> 
+                  <said id="2" mode="direct" content="speech" level="1">»Hört, Kapitän, ich bin geborner Kolumbier, Offizier in der Patriotenarmee, wurde kriegsgefangen in der unglücklichen Schlacht von Cachiri, von da mit meinen Unglücksgefährten nach der Havanna abgeführt. Meiner Frau und Kindern wurde erlaubt, mir zu folgen, um – eine der ersten Familien Kolumbiens ganz in Gewalt zu haben. Vier Monate lag ich in einem der entsetzlichsten Kerker, Seekrebse und Ratten und giftiges Ungeziefer aller Art waren meine einzigen Gesellschafter. Bloß meiner starken Konstitution verdanke ich es, daß ich noch lebe. Von siebenhundert meiner Unglücksgefährten sind alle bis auf einige wenige Opfer der spanischen Grausamkeit geworden. Ein vollständiges Gerippe, holte man mich vor vierzehn Tagen aus meinem Kerker hervor, quartierte mich in die Stadt ein, um mich wieder zu einigen Kräften zu bringen und dann – abermals lebendig einzumauern. <seg id="3" type="frame" pos="start">Bereits ist der <seg id="3" type="intExpr">Befehl gegeben</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2">mich in die vorige grausame Haft zurückzubringen.</said> <said id="4" mode="indirect" content="thought" level="2" border="yes">Daß ich in dieser keine acht Tage mehr aushalten kann</said><seg id="4" type="frame" pos="end">, davon bin <seg id="4" type="speaker">ich</seg> so <seg id="4" type="intExpr">gewiß</seg></seg>, als daß ein Gott im Himmel ist. Ein Freund, der ungeachtet der großen Gefahr sich unserer Lage erbarmte, hat uns einen Paß und Geld verschafft, mich an Euch angewiesen. Der Paß gehörte einem am Gelben Fieber verstorbenen Spanier; mit ihm und durch Euch hoffte ich Rettung. In Euch beruht meine, meiner armen Frau, meiner Kinder einzige Hoffnung, Leben oder Tod! Gebt Ihr mich auf, so ist mir dieser gewiß, <seg id="5" type="frame" pos="start">aber <seg id="5" type="speaker">ich</seg> <seg id="5" type="intExpr">schwöre</seg> es Euch:</seg> <said id="5" mode="direct" content="speech" level="2">ehe ich mich zurückbringen und abermals einmauern lasse zu Leiden, deren Gräßlichkeit ich nicht beschreiben kann, <seg id="6" type="frame" pos="start">bin <seg id="6" type="speaker">ich</seg> fest <seg id="6" type="intExpr">entschlossen</seg></seg> <said id="6" mode="indirect" content="thought" level="3" border="yes">zu sterben.</said></said> Nein, nun und nimmermehr lasse ich mich zurückliefern in die Hand des entsetzlichen Spaniers. 
+                  Armes Weib! Arme Kinder! Armes Vaterland!«</said> 
+                  Der Kapitän, ohne eine Miene zu verziehen, stand, an seinem Kautabak schneidend, fuhr dann mit der Hand über die Stirn und trat rasch auf das Verdeck. <seg id="7" type="frame" pos="start">Den Matrosen <seg id="7" type="intExpr">befahl</seg> <seg id="7" type="speaker">er</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">die Koffer und Portemanteaux der Familie auf das Verdeck – aber nicht in das Boot zu bringen</said>; dann prüfte er Himmel und Wetter <said id="8" mode="reported" content="speech" level="1">und wisperte angelegentlich mit dem Leutnant.</said> <seg id="9" type="frame" pos="start">Noch <seg id="9" type="intExpr">raunte</seg> <seg id="9" type="speaker">er</seg> dem Steward zu,</seg> <said id="9" mode="indirect" content="speech" level="1">den Soldaten und Bootsleuten ein paar Bouteillen Rum zu reichen</said>, und stieg dann die Kajütentreppe hinab. Wie er diese betrat<seg id="10" type="frame" pos="start">, <seg id="10" type="intExpr">murmelte</seg> <seg id="10" type="speaker">er</seg></seg>, ohne den Patrioten anzusehen, <seg id="10" type="frame" pos="start">die Worte:</seg> <said id="10" mode="direct" content="speech" level="1">»Vertraut auf ihn, der dann hilft, wenn die Not am größten ist!«</said> 
+                  <said id="11" mode="reported" content="speech" level="1">Kaum hatte er diese Worte gemurmelt</said>, als der Spanier aus der Kajüte heraussprang, und wie er den Staatsgefangenen erblickte, <seg id="12" type="frame" pos="start">diesem finster <seg id="12" type="intExpr">rief</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1">sogleich ins Boot hinabzusteigen.</said> <seg id="13" type="frame" pos="start">Aber der <seg id="13" type="speaker">Kapitän</seg> trat vor und <seg id="13" type="intExpr">bat</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">doch zu erlauben, daß sein unglücklicher Passagier noch ein Glas – einen Valettrunk nähme. Er sei Soldat und er als Kapitän auch ein halber, <seg id="14" type="frame" pos="start">und <seg id="14" type="speaker">er</seg> sei <seg id="14" type="intExpr">überzeugt</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2" border="yes">daß der tapfere und großmütige Spanier</said>, und jeder Spanier sei tapfer und großmütig, <said id="14" mode="indirect" content="thought" level="2" border="yes">ihn nicht zwingen werde, einen Unglücklichen ungastlich von seinem Verdecke zu lassen.</said></said> 
+                  Der junge Offizier war kein harter Mann, er nickte beifällig, trat selbst zur Treppe, und die Hand bietend, geleitete er den Kolumbier diese herab in die Kajüte ein.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

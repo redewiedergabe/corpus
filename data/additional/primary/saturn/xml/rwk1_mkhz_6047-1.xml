@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social1005_1874_6.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1874</f>
+         <f name="decade">1870</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="17" mode="direct" content="speech" level="1">Sie thun noch, <said id="1" mode="reported" content="thought" level="2" nonfact="yes" border="yes">als wüßten Sie von nichts!</said> <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">Sagen</seg> <seg id="2" type="speaker">Sie</seg>
+                        mir, Jhrem Freunde,</seg> <said id="2" mode="indirect" content="speech" level="2" nonfact="yes">was drückt Sie?</said> haben Sie einen stillen
+                        Groll gegen mich? <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">Erklären</seg> <seg id="3" type="speaker">Sie</seg> sich näher,</seg> <said id="3" mode="indirect" content="speech" level="2" nonfact="yes">weshalb Sie nicht
+                        mehr wie sonst mit mir sind</said>; Sie fliehen mich beinahe. Habe
+                        ich Jhnen Leides angethan? wann? wie?</said>
+                         
+            <said id="18" mode="direct" content="speech" level="1">Lieber Eugen<seg id="4" type="frame" pos="start">, <seg id="4" type="speaker">ich</seg> <seg id="4" type="intExpr">begreife</seg> nicht,</seg> <said id="4" mode="indirect" content="thought" level="2" nonfact="yes">was Sie wollen</said>; <seg id="5" type="frame" pos="start">erlauben
+                        Sie <seg id="5" type="speaker">mir</seg>, Jhnen zu <seg id="5" type="intExpr">erwiedern</seg>,</seg> <said id="5" mode="indirect" content="speech" level="2" nonfact="yes">daß ich Jhnen täglich die gute
+                        Meinung, die ich gleich anfangs über Sie faßte, bestätigt sinde</said>;
+                        Sie sind mir theuer und werth.</said>
+            <said id="19" mode="direct" content="speech" level="1">Sehr gut, aber trotzdem sind Sie düster und schweigsamer
+                        als früher. Sie scheinen den verwünschten englischen Spleen zu
+                        bekommen, oder leiden Sie am Heimweh?</said>
+                         
+            <said id="20" mode="direct" content="speech" level="1">Gott bewahre! Sie irren sich.</said>
+            <said id="21" mode="direct" content="speech" level="1">Also auch das ntcht. Nun was ist es denn? <said id="6" mode="reported" content="thought" level="2" border="yes">Seit einigen
+                        Tagen finde ich Sie ungeduldig und hastig</said>; Sie haben keine
+                        Ruhe und laufen herum; kaum sind Sie irgendwo, so gehen Sie
+                        auch wieder fort. Möglich, daß Sie es nicht merken, <seg id="7" type="frame" pos="start">aber <seg id="7" type="speaker">ich</seg>
+                        <seg id="7" type="intExpr">sage</seg> Jhnen,</seg> <said id="7" mode="indirect" content="speech" level="2">Jhr Betragen ist ein verändertes.</said> Sie sind auffahrend, quälen Jhre Umgebung, und der gute John hat schon
+                        öfter darunter zu leiden gehobt.
+ </said>           <said id="22" mode="direct" content="speech" level="1">Das wäre! ist dem so? das sollte mir wehe thun.</said>
+            <said id="23" mode="direct" content="speech" level="1">Ja, dem ist so. Sie schlafen schlecht oder gar nicht, Sie
+                        haben wenig Appetit, sehen übel aus, sind mißtrauisch gegen
+                        mich... <said id="8" mode="indirect" content="speech" level="2" prag="yes">Dahinter steckt etwas</said><seg id="8" type="frame" pos="end">, <seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">wette</seg>.</seg></said>
+            <said id="24" mode="direct" content="speech" level="1">Eugen, Sie täuschen sich, es ist nichts.</said>
+            <said id="25" mode="direct" content="speech" level="1">Und ich bleibe dabei, es steht nicht ganz richtig, <said id="9" mode="reported" content="writing" level="2">Sie haben
+                        vielleicht eine böse Nachricht aus England bekommen, Geldverlust
+                        z. B. oder Untreue Jhrer Miß Henriette?</said></said>
+                         
+            <said id="26" mode="direct" content="speech" level="1"><seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Jch</seg> <seg id="10" type="intExpr">sage</seg> Jhnen,</seg> <said id="10" mode="indirect" content="speech" level="2"><said id="11" mode="reported" content="speech" level="3" nonfact="yes">kein Mensch hat mich beleidigt</said>, nichts hat
+                        mich gekränkt.</said></said>
+            <said id="27" mode="direct" content="speech" level="1">Wirklich? Nun, dann ist es einfach: Sie sind verliebt.
+                        Dagegen gäbe es aber ein sicheres Mittel, Sie brauchten nur
+                        schleunig nach London zurück zu reisen, wo Jhre junge, reiche
+                        und liebenswürdige Braut Sie erwartet.</said>
+            <said id="28" mode="direct" content="speech" level="1">Ei, Sie sind ein sehr geschickter Arzt<seg id="31" type="frame" pos="start">, daß <seg id="31" type="speaker">Sie</seg> sogleich <seg id="31" type="intExpr">errathen</seg>,</seg> <said id="31" mode="indirect" content="speech" level="2">Miß Henriettens Andenken mache mich krank....</said></said>
+            <said id="29" mode="direct" content="speech" level="1">Ha, was ist das? nicht Jhre Henriette? -- <said id="32" mode="reported" content="speech" level="2">O, ich beklage
+                        Sie, William...</said> also eine Jkarierin!.... <seg id="33" type="frame" pos="start">Jetzt <seg id="33" type="intExpr">weiß</seg> <seg id="33" type="speaker">ich</seg> es:</seg>
+                        <said id="33" mode="direct" content="thought" level="2" border="yes">Sie lieben entweder Fräulein Korilla oder Fräulein Dina.</said></said>
+            <said id="30" mode="direct" content="speech" level="1">Das fehlte noch; <said id="12" mode="reported" content="speech" level="2" nonfact="yes">Eugen, reden Sie nicht dummes Zeug!</said>
+                        Sie sind ganz thöricht geworden.</said>
+            <said id="34" mode="direct" content="speech" level="1">Ja, Sie oder ich, Einer von Beiden wird's wohl sein. Jch
+                        bin es schwerlich; meine alleinige Thorheit ist, in Jkarien und
+                        seine Gütergemeinschaft verliebt zu sein<seg id="35" type="frame" pos="start">, und <seg id="35" type="speaker">ich</seg> <seg id="35" type="intExpr">denke</seg>,</seg> <said id="35" mode="indirect" content="thought" level="2"><said id="36" mode="reported" content="speech" level="3" border="yes">die darf
+                        ich ungehindert mit vollster Jnbrunst meiner Seele anbeten.</said></said></said>
+                        <said id="37" mode="direct" content="speech" level="1">Aber William! nein, das ist zu arg. Uebrigens mir ahnte das!
+                        Sie standen immer zwischen zwei Feuern, ganz unbesorgt und
+                        unschuldig wie ein Kind, während ich mich zusammennahm und
+                        kaum hinzusehen wagte, aus Augst, von allen beiden verbrannt
+                        zu werden. Da haben wir's! Es ist eigentlich eine schöne
+                        Historie; so ein Engländer hat Muth, Mnth bis zum Flammentode.</said> <said id="38" mode="direct" content="speech" level="1"><seg id="13" type="frame" pos="start">Jetzt wird <seg id="13" type="speaker">mir</seg> auch <seg id="13" type="intExpr">klar</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" border="yes">warum Sie mich nicht bemerkten, als ich Jhnen auf der Reitpromenade mit der Hand zuwinkte</said>; Freund William konnte nichts sehen und hören, denn er
+                        stolzirte zwischen zwei Sonnen, die seine Blicke blendeten... Wie
+                        dem auch sei, ich bedaure Sie, mein Lieber.</said>
+            <said id="14" mode="reported" content="speech" level="1">Jn dieser Weise redete er weiter; ich leugnete, er betheuerte.</said>
+                        <seg id="16" type="frame" pos="start"><said id="15" mode="indirect" content="speech" level="1">Nur könne <seg id="16" type="speaker">er</seg> noch nicht <seg id="16" type="intExpr">entscheiden</seg></said></seg><seg id="15" type="frame" pos="start">, <seg id="15" type="intExpr">meinte</seg> <seg id="15" type="speaker">er</seg>,</seg> <said id="15" mode="indirect" content="speech" level="1"><said id="16" mode="indirect" content="thought" level="1" border="yes">ob es Korilla sei
+                        oder ihre Freundin.</said></said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

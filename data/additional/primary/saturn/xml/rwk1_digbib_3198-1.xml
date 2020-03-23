@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Fee Langeweile</title>
+             <author>Ungern-Sternberg, Alexander von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ungern-Sternberg,_Alexander_von_Die_Fee_Langeweile.tg20_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Die Fee Langeweile</f>
+         <f name="author">Ungern-Sternberg, Alexander von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Und wie sie kamen, und kaum mit ihren vorher blutgetränkten Händen den Leib der schönen Prinzessin berührt hatten, gähnten sie ebenfalls wie toll. Da brach der ganze Trupp in Lachen aus und rannte von dannen. Die Prinzessin war aus einer großen Gefahr gerettet. Die Hofdamen, die nicht gerettet waren, suchten sich damit zu trösten, daß es im Kriege nun einmal nicht anders herzugehen pflegt. 
+                  Die Prinzessin flüchtete in ein benachbartes Königreich, wo ein sehr schöner Prinz eben den Thron bestieg. Der nahm die schöne Unglückliche bei sich auf und heiratete sie. 
+                  
+                     Aber das Mißgeschick, das die bösen Feen heraufbeschworen hatten, setzte seine Verfolgungen fort. Der junge König, der sehr mißtrauisch und eifersüchtig war, <said id="1" mode="reported" content="thought" level="1">faßte einen Verdacht gegen seine Gemahlin</said>, als sei sie ihm untreu, und ließ sie zum Tode verurteilen. Die Knechte, die sie morden sollten, hatten nicht den Mut dazu, und setzten die schöne Frau im Walde aus. Hier lebte sie in größtem Elend, von Wurzeln sich nährend, in einer Höhle. 
+                  Da kam eines Abends ein Mann in einem schwarzen Mantel, mit einem roten Unterfutter zu ihr und setzte sich auf die Bank vor der Höhle. 
+                  <said id="2" mode="direct" content="speech" level="1">»Wer sind Sie?«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">fragte</seg> die <seg id="2" type="speaker">Prinzessin</seg>.</seg> 
+                  <said id="3" mode="direct" content="speech" level="1">»Ich bin der Teufel und komme, Sie zu verführen.«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Mich verführt man nicht so leicht«</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">entgegnete</seg> die <seg id="4" type="speaker">Prinzessin</seg> lächelnd.</seg> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ei, mein Schatz, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">lehren sie mich nicht die Weiber kennen!</said>«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">sagte</seg> der <seg id="5" type="speaker">Teufel</seg> mit einer groben Miene.</seg> <said id="7" mode="direct" content="speech" level="1">»Ein junges Mädchen, das so allein im Walde wohnt und noch dazu so leicht bekleidet geht –«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Ich bin von meinem Manne unschuldig verfolgt und verjagt«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> die <seg id="8" type="speaker">Prinzessin</seg>.</seg> 
+                  <said id="9" mode="direct" content="speech" level="1">»Unschuldig,«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">rief</seg> der <seg id="9" type="speaker">Teufel</seg> und lachte höhnisch.</seg> <said id="10" mode="direct" content="speech" level="1">»Man kennt das. Bei mir, mein Engel, kommen Sie mit dergleichen nicht durch. <said id="11" mode="reported" content="speech" level="2" prag="yes">Wie gesagt</said>, ich will Sie in die Hölle bringen.«</said> 
+                  
+                     <said id="12" mode="direct" content="speech" level="1">»Aber ich will nicht hinein!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">schrie</seg> die <seg id="12" type="speaker">Prinzessin</seg> wütend.</seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="speech" level="2" nonfact="yes">Man fragt die Leute nicht</said>,«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">sagte</seg> der <seg id="13" type="speaker">Arge</seg>.</seg> <said id="14" mode="direct" content="speech" level="1">»Ich führe Sie ab. Vorher aber möchte ich eine Tasse Tee trinken. Hier unterm großen Eichbaum vor der Höhle muß sich's ganz hübsch sitzen lassen. Haben sie Teegeschirr bei sich?«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»In einer Höhle hat man kein Teegeschirr,«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">entgegnete</seg> die <seg id="16" type="speaker">Prinzessin</seg></seg>, <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">die</seg> da <seg id="17" type="intExpr">hoffte</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1" border="yes">der böse Gast würde sich jetzt davon machen</said>; allein er blieb, ließ durch seine Geister einen Teetisch unter der Eiche hinzaubern, setzte sich hin, braute sich Tee, goß der Prinzessin auch eine Tasse ein und <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">fragte</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Befehlen Sie mit Arak oder mit Sahne?«</said> 
+                  <said id="19" mode="direct" content="speech" level="1">»<said id="20" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">Ich werde mir etwas Sahne ausbitten</said>«</said><seg id="19" type="frame" pos="end">, <seg id="19" type="intExpr">entgegnete</seg> die <seg id="19" type="speaker">Prinzessin</seg>.</seg> 
+                  <said id="21" mode="direct" content="speech" level="1">»Gut, hier ist welche. Ha, sie tanzen gewiß und singen auch sehr schön? Nicht wahr? Meine Geister haben da eine Laute mitgebracht. Wohlan, meine Schöne, singen Sie mir etwas vor, und tanzen Sie zugleich. Ich bin ein Freund der schönen Künste.«</said> 
+                  Die Prinzessin ergriff die Laute und sang eine Romanze, die hundertundsiebzig Verse hatte. Der Teufel goß ungeheuer viel Arak in den Tee, demnach konnte er bei dem Gesange nicht munter bleiben. Er gähnte fürchterlich und entschlief, ehe die Prinzessin noch den Tanz begonnen hatte. 
+                  Die Prinzessin steckte alles Silberzeug vom Teetisch ein, und entlief so rasch als sie konnte. <said id="22" mode="direct" content="speech" level="1">»Gott sei Dank!«</said> <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">rief</seg> <seg id="22" type="speaker">sie</seg>,</seg> <said id="22" mode="direct" content="speech" level="1">»ich bin der Hölle und dem Teufel entgangen.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

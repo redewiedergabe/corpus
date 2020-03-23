@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Seltsames Ereigniss.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig026_1843_9.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Seltsames Ereigniss.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Seltsames Ereigniss.
+                        
+            
+            
+               <seg id="1" type="frame" pos="start">D ie schwedische <seg id="1" type="speaker">Zeitung „Swenska Biet“</seg> <seg id="1" type="intExpr">theilt</seg> <said id="2" mode="reported" content="speech" level="2">folgende
+                        seltsame Erzählung nach einem Berichte des Pfarrers
+                        Hammar</said> <seg id="1" type="intExpr">mit</seg>:</seg>
+                         
+            <said id="1" mode="direct" content="writing" level="1">Am 12. Dec. v. J. standen im Kirchsprengel Näsby
+                        in dem Dorfe Oestad zwei Knechte auf der Tenne und
+                        draschen Getreide. Um 8 Uhr hörten sie mit der Arbeit
+                        auf und der eine, Nils Andersson, ging nach dem
+                        Stalle, um den Pferden Nachfutter zu geben, während
+                        der andere, Sven, in der Thür der Tenne, dem Stalle
+                        gegenüber stand, die Rückkunft seines Kameraden abwartend. Als Nils die Stallthür öffnete, fuhr sie mit der
+                        größten Heftigkeit auf, als würde sie durch einen überaus
+                        starken Orkan getrieben, wiewol doch das Wetter ganz
+                        still war, und schlug mit großem Geräusch an die Wand;
+                        in demselben Augenblicke sah Sven, denn der Mond
+                        schien hell, seinen Kameraden wie eine Bombe hoch in
+                        der Luft über den Hof, über einen da stehenden Apfelbaum und über die Umzäunung des Hofes auf das benachbarte Feld geschleudert. Erschreckt und bestürzt eilte
+                        Sven ins Wohnhaus, wo er zwei Gäste, den Dragoner Blücher und den Schmied Söderberg, vorfand. <said id="3" mode="reported" content="speech" level="2">Als
+                        er die wunderliche Begebenheit ihnen erzählt hatte</said>, gingen alle Drei hinaus, um Nils zu helfen, <said id="4" mode="reported" content="thought" level="2" border="yes">den sie vom
+                        Falle sehr beschädigt oder vielleicht todt wähnten.</said> Auf
+                        dem Felde angekommen, konnten sie ihn nirgend erblicken; jedoch fanden sie seine Mütze und dann, etwa
+                        50 Ellen weiter, seine Holzschuhe. Endlich hörten sie
+                        in einem benachbarten Brunnen <said id="5" mode="reported" content="speech" level="1">eine hohle Stimme</said>; sie
+                        gingen dahin, sahen hinunter und hörten <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Nils</seg> allerlei
+                        unvernünftiges Zeug heftig <seg id="6" type="intExpr">sprechen</seg>, z. B.</seg> <said id="6" mode="direct" content="speech" level="2">„Laßt mich
+                        herauf!“</said> <said id="6" mode="direct" content="speech" level="2">„Gebt mich los!“</said> als zanke er mit einem lebenden Wesen. Einer der Drei stieg jetzt in den 13 Ellen
+                        tiefen, bei der damaligen langen Dürre wasserlosen Brunnen, traf den Nils körperlich ganz unverletzt, aber übrigens sehr sinnesverwirrt an. Er band nun ein Seil
+                        um ihn und ließ ihn heraufwinden. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Nils</seg> konnte übrigens weiter nichts <seg id="7" type="intExpr">mittheilen</seg>,</seg> <said id="7" mode="indirect" content="speech" level="2">als daß die Thür des
+                        Stalls wie von einem heftigen Windstoße aufgesprungen
+                        wäre</said><seg id="8" type="frame" pos="start">, <seg id="8" type="intExpr">wußte</seg> aber nicht,</seg> <said id="8" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">was ihm weiter widerfahren
+                        war.</said> Am andern Morgen war er völlig bei Sinnen,
+                        <said id="9" mode="reported" content="speech" level="2" nonfact="yes">wußte jedoch auch nichts weiter über die Erscheinung
+                        mitzutheilen.</said></said>
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

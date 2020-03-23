@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hölderlin</title>
+             <author>Klabund</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Klabund_Hoelderlin.tg468_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1918</f>
+         <f name="decade">1910</f>
+         <f name="title">Hölderlin</f>
+         <f name="author">Klabund</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schon reiten die Herren Studenten die wandernden Alleen entlang, die Hufe klappern, und höflich schwingen Bauern ihre Hüte. 
+                  <seg id="1" type="frame" pos="start">Begegnet mir <seg id="1" type="speaker">Professor Conz</seg> und <seg id="1" type="intExpr">sagt</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">Guten Tag, Herr Magister.</said> <said id="4" mode="direct" content="speech" level="1"><said id="2" mode="reported" content="speech" level="2" nonfact="yes" border="yes">Daß sie mich nie bei rechtem Namen nennen!</said> Bin ich Magister? Bin ich nicht, bei allen Engeln, Diotima, Engelschönste, bin ich nicht fürstlicher Bibliothekarius? Nie gibt man doch bedeutenden Naturen, was ihnen ziemt und frommt.</said> Professor Conz trug den Homer in der Tasche. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Er</seg> ließ den weißen Vogel aus seinem Käfig fliegen und <seg id="3" type="intExpr">rief</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">Sehen Sie, unser alter Freund!</said> Ich griff nach den Blättern und fing ihn und schlug jene Stelle auf, wo Nausikaa am Torpfosten des Saales steht und elfenbeinern zu Odysseus niederlächelt. <said id="5" mode="direct" content="speech" level="1">Träne auf Träne tropft in die blaue Grotte ihres Herzens. Wir können nichts besseres machen, als was Homer gemacht. Und sind doch 1300 Jahre älter als er.</said> <said id="6" mode="direct" content="speech" level="1">O</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">Professor Conz</seg>,</seg> <said id="6" mode="direct" content="speech" level="1">Sie sind bescheiden</said>, <said id="7" mode="reported" content="speech" level="1">und er zitierte einiges aus meiner Elegie an die Natur.</said> <said id="8" mode="direct" content="speech" level="1">Die Menschheit</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">ich</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">hat das Reißen bekommen und die Gicht. Und Gicht und Reißen machen unklare Gedanken. Eine Elegie ist nichts weiter als eine Kette unklarer Gedanken, bunt wie Lampions in die verworrenen Nebel einer Frühlingsnacht gehängt.</said> 
+                  Das Wams und die drei paar Strümpfe und die Handschuh, die mir meine Frau Mutter schickte, hab ich erhalten. Oft bringt der Mai noch feuchte Dünste und späten Frost. <said id="9" mode="reported" content="writing" level="1" nonfact="yes">Ich schriebe gern meiner verehrungswürdigen Frau Mutter</said>, <seg id="10" type="frame" pos="start">wenn <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">wüßte</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was ich ihr schreiben sollte.</said> Sie versteht mich leicht nicht mehr. Hat sie mich je verstanden? Sie ist von einer unsicheren und allzuzarten Beweglichkeit, schwankend wie eine silberne Möwe auf stürmischer Rhede. Ich aber wünsche mir eine feste Natur. Ich gehe aus allen Fugen. Musik nur schweißt mich noch zusammen. Dann bin ich ein Akkord und der Herr Kantor spielt mich auf der Orgel, in der Kapelle von Maulbronn. In der Sommerfrühe um sechs schlich er durch Tau und Morgen auf hellen grünen Wegen zu mir und spielte einen Choral, damit er bei Gott in Gnaden stünde. 
+                  Ich esse täglich Trauben. Herr Zimmer bringt sie auf einem Teller, darauf Ranken und erdbeerrote Herzen gemalt sind. Ich denke: wenn jemand dein Herz auf einem solchen Teller malte, von einem schwarzen befiederten Pfeil durchbohrt und einem lateinischen Spruch dazu: per aspera ad astra. Dann müßte man Trauben über mich schütten in italischen Weinbergen oder an den Ufern der Dordogne gepflückt von tanzenden Frauen. 
+                  Herr Zimmer zeigte mir gestern eine Zeichnung von einem dorischen Tempel. <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Ich</seg> <seg id="11" type="intExpr">glaube</seg> nicht,</seg> <said id="11" mode="indirect" content="thought" level="1" nonfact="yes">daß Herr Zimmer sie entworfen hat</said>: aber der Zug der Linien und der gleichsam in Stein gemeißelte Traum der Vollendung entlockten mir Tränen. 
+                  <said id="12" mode="direct" content="speech" level="1">Herr Zimmer</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">ich</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">möchten Sie statt der Tische, auf denen goldener Wein in Karaffen steht, und statt der Stühle, auf denen man, das Haupt in die Hände gestützt, der gleitenden Schiffe gedenkt, nicht einmal einen Tempel erbauen aus Holz, so klein wie Sie wollen? <said id="14" mode="reported" content="speech" level="1" border="yes">Damit ich wieder beten darf.</said></said> 
+                  <said id="13" mode="direct" content="speech" level="1" nonfact="yes"><said id="16" mode="reported" content="speech" level="1" nonfact="yes" border="yes">Beten Sie zu Gott</said>, Herr Hölderlin</said><seg id="13" type="frame" pos="end">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">Zimmer</seg>.</seg> 
+                  Aber Gott wohnt in kleinen dorischen Tempeln aus Holz. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Herr Zimmer</seg> <seg id="15" type="intExpr">meint</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">er habe leider keine Zeit für Spielzeuge, er müsse um Brot arbeiten, und wer bezahle ihm einen solchen dorischen Tempel und die nutzlos vertane Zeit?</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

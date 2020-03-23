@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die blutige Maria</title>
+             <author>Mühlfeld, Julius</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt20_1868_5.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Die blutige Maria</f>
+         <f name="author">Mühlfeld, Julius</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               
+                  Die blutige Maria.
+                         Geschichtliche Skizze
+                        von Julius Mühlfeld.
+                        
+            
+               <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">S chillers</seg> <seg id="1" type="intExpr">Wort</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">„Die Weltgeschichte ist das Weltgericht“</said> nicht
+                        erst in den ernsten, wissenschaftlichen Werken des Geschichtsforschers, sondern bereits in der Stimme des Volkes, <said id="2" mode="reported" content="speech" level="1">das seine
+                        Bezeichnungen frisch und treffend nach Leben und Thaten bildet</said>,
+                        findet es sehr oft seine Bethätigung. Die Beinamen einzelner Persönlichkeiten der Weltgeschichte enthalten oft eine ganze treffende
+                        Charakteristik in einem Wort. Erfüllt es nun den mit dem Geist
+                        der Humanität unserer Zeit durchdrungenen Menschen schon mit Bedauern und Grausen, wenn er <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">Schreckensbeiworte</seg>, wie</seg> <said id="3" mode="direct" content="speech" level="1" border="yes">„der Grausame “</said>, <said id="3" mode="direct" content="speech" level="1" border="yes">„der Schreckliche“</said> und andere sich den Namen mächtiger Regenten im blutigen Purpur anschließen sieht, wie viel mehr noch muß
+                        es ihn mit Schauder und Abscheu erfüllen, wenn einem Weibe, einer
+                        Königin, <seg id="4" type="frame" pos="start">das unheilverkündende <seg id="4" type="intExpr">Prädikat</seg></seg> <said id="4" mode="direct" content="speech" level="1" border="yes">„die Blutige“</said> <seg id="4" type="frame" pos="end">vom <seg id="4" type="speaker">Volksmund</seg> <seg id="4" type="intExpr">beigelegt</seg> wird</seg>, wie der Königin Maria von England<seg id="5" type="frame" pos="start">, auch</seg>
+                        <said id="5" mode="direct" content="speech" level="1" border="yes">„die Katholische“</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">genannt</seg>.</seg>
+            Ein chaotisch düsteres Bild, die Regierung dieser Königin von
+                        England, ja die ganze inhaltschwere Periode der englischen Geschichte
+                        von ihres Vaters Thronbesteigung an bis zu ihrem tausendfältig
+                        erwünschten Tode, der endlich wieder nach endlosen Tagen gleich grausamer Wechselwirthschaft einer verschüchterten und fast demoralisirten
+                        Nation das Aufathmen gestattete.
+            Parlament und Volk waren unter der heillosen Wechselwirthschaft
+                        ihrer Regenten gleich abgehetzt, gleich charakterlos geworden, gleichgültig und widerstandslos den Sultanslaunen des jeweilig Gebietenden
+                        gehorchend und schmeichelnd.
+            <seg id="" type="frame" pos="start"><seg id="" type="speaker">Schiller</seg> hat in seiner Maria Stuart die Charakterlosigkeit des
+                        damaligen Parlaments eben so wahr als vernichtend <seg id="" type="intExpr">gezeichnet</seg>:</seg>
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

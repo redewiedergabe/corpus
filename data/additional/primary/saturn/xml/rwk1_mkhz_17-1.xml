@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Dienstbotennoth.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_arbeitgeber0669_1870.txt_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Dienstbotennoth.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.arbeitgeber</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wir, die wir für uns ein Leben, welches nicht den Wechsel
+                        böte zwischen Arbeit und Erholung, nicht lebenswerth finden würden
+                        -- <seg id="1" type="frame" pos="start">wie können <seg id="1" type="speaker">wir</seg> <seg id="1" type="intExpr">verlangen</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">daß so ein junges Blut, oder gar
+                        ein im Dienste ergrauter Dienstbote, nicht auch nach schwerer Arbeit
+                        sich der Erholung freuen möge?</said> <said id="2" mode="reported" content="speech" level="1">Heißt es nicht zu viel von den
+                        Dienstboten verlangen</said>, daß sie, wenn's hoch kommt, allwöchentlich nur
+                        einmal einige Stunden, sich selbst und ihrem Vergnügen angehören
+                        mögen? Darf es uns wundern, wenn dieses knapp bemessene Maß
+                        heimlich oder ganz offen überschritten, und eine ausnahmsweise nöthige
+                        Versagung auch dieses knappen Maßes nur mit Widerwillen getragen wird?
+                         
+               <said id="4" mode="reported" content="speech" level="1">Wir beklagen uns über den niedrigen Flug, den die Gedanken
+                        dieser unserer Hausgenossen nehmen, wenn sie sich vergnügen wollen.</said>
+                        <seg id="5" type="frame" pos="start">Aber <seg id="5" type="intExpr">denken</seg> <seg id="5" type="speaker">wir</seg> auch daran,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">ihnen Gelegenheit zu edleren Vergnügungen zu verschaffen?</said>
+                         
+               <seg id="10" type="frame" pos="start">Für mich ist es keine <seg id="10" type="intExpr">Frage</seg>,</seg> <said id="10" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">daß die wesentlichsten, die empfindlichsten der Mängel des Dienstbotenwesens</said>, unter denen alle,
+                        unter denen auch die tüchtigsten und gebildetsten Hausfrauen leiden,
+                        <said id="10" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">ganz vorzugsweise zu Lasten der durchschnittlich fehlerhaften, nämlich
+                        viel zu einseitigen Erziehung der Töchter höherer Stände kommen.</said>
+            
+            
+               
+                  Zwei Kommnnisten=Staaten.
+                        IV.
+                        
+                  
+               
+               Höchst lehrreich ist in der That <said id="11" mode="reported" content="writing" level="1">Alles, was uns über den alten
+                        Jnka=Staat und Paraguay überliefert ist</said>; denn mutatis mutandis
+                         wird es heute auch bei uns sich nicht anders gestalten. <seg id="6" type="frame" pos="start">Die klarer
+                        <seg id="6" type="speaker">Blickenden</seg> unter den Fanatikern der Staatshilfe <seg id="6" type="intExpr">sehen</seg> wohl <seg id="6" type="intExpr">ein</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes">daß,
+                        wie die Verhältnisse und Menschen gegenwärtig sind, ihr System
+                        wenig Aussicht auf Erfolg und Bestand hat</said>, <said id="7" mode="reported" content="thought" level="1" border="yes">sie wollen deshalb
+                        zuerst die Menschheit zu diesem Jdeal eines Staates heranziehen</said>,
+                         <seg id="8" type="frame" pos="start">wie man theoretisirende <seg id="8" type="speaker">Philister</seg> oft von der Republik <seg id="8" type="intExpr">sagen</seg> hört:</seg>
+                        <said id="8" mode="direct" content="speech" level="1">schafft erst Republikaner.</said>
+               Auch die Politik der Jnka's ging wie die Robespierre's und St.
+                        Jnst's dahin, mit allen Mitteln der Gewalt die Masse ihrer Mitbürger in eine neue Form der Sitte, der Religion und des Lebens
+                        zu gießen, ihr Staatswesen nicht nach dem Bedürfniß der Menschen
+                        zu gestalten, sondern den Willen unter das Modell des neuen Regiments zu beugen und zu zwingen.
+               <said id="9" mode="direct" content="speech" level="1">Wenn der Staat sich als Erzieher des Volks hinstellt</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagt</seg>
+                        <seg id="9" type="speaker">Sybel</seg> in seiner Geschichte der Revolutionszeit,</seg> <said id="9" mode="direct" content="speech" level="1">so darf er nicht vergessen, daß die Erziehung nicht die Knechtung, sondern die Befreiung
+                        des persönlichen Geistes bedeutet.</said> Religion und Sitte verdienen
+                        ihren Namen nur in so ferne, als sie bei jedem Einzelnen neu aus
+                        der inneren Gesinnung geboren werden. Jedes äußerlich zwingende
+                        Strafgesetz auf diesem Gebiet ist ein Dolchstoß in das Herz des
+                        Völkerlebens. Die mit Schrecken erpreßte Sitte taugt so viel wie
+                        die mit Scheiterhaufen befestigte Religion; beide erstarren zu einem
+                        Werkdienste, indem sie selbst zu Grunde gehen, und der unterworfenen
+                        Nation nur die Wahl zwischen Empörung oder Erstickung lassen.
+               So zerschnitt mit den großen Ketzergerichten des XIII. Saec.
+                        die päbstliche Weltherrschaft sich selbst die Wurzeln und wies die
+                        sittliche Schöpferkraft Europas auf außerkirchliche Bahnen. So erschöpften im XVI. Saec. Spanien und Polen durch den kirchlichen
+                        Zwang und Kampf den Lebensstoff ihrer Völker auf Jahrhunderte
+                        hinaus und ertödteten ihr Staatswesen hier in lähmender Betäu bung, dort in sittenloser Ungebundenheit. Es waren dieselben Wege,
+                        auf welche Robespierre einlenkte.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

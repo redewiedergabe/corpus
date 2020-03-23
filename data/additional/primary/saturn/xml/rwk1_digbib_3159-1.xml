@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hans und Heinz Kirch</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Hans_und_Heinz_Kirch.tg250_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1882</f>
+         <f name="decade">1880</f>
+         <f name="title">Hans und Heinz Kirch</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes_DS</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mit unermüdlichem Tun und Sparen hatte er sich vom Setzschiffer zum Schiffseigentümer hinaufgearbeitet; freilich war es nur eine kleine Jacht, zu der seine Mittel gereicht hatten, aber rastlos und in den Winter hinein, wenn schon alle andern Schiffer da heim hinter ihrem Ofen saßen, befuhr er mit seiner Jacht die Ostsee, und nicht nur Frachtgüter für andre, bald auch für eigne Rechnung brachte er die Erzeugnisse der Umgegend, Korn und Mehl, nach den größeren und kleineren Küstenplätzen; erst wenn bereits außen vor den Buchten das Wasser fest zu werden drohte, band auch er sein Schiff an den Pfahl und saß beim Sonntagsgottesdienste droben im Schifferstuhl unter den Honoratioren seiner Vaterstadt. Aber lang vor Frühlingsanfang war er wieder auf seinem Schiffe; an allen Ostseeplätzen kannte man den kleinen hageren Mann in der blauen schlotternden Schifferjacke, mit dem gekrümmten Rücken und dem vornüberhängenden dunkelhaarigen Kopfe; <said id="1" mode="reported" content="speech" level="1">überall wurde er aufgehalten und angeredet</said><said id="2" mode="reported" content="speech" level="1">, aber er gab nur kurze Antworten, er hatte keine Zeit;</said> <said id="3" mode="reported" content="thought" level="1" border="yes">in einem Tritte, als ob er an der Fallreepstreppe hinauflaufe, sah man ihn eilfertig durch die Gassen wandern.</said> Und diese Rastlosigkeit trug ihre Früchte; bald wurde zu dem aus der väterlichen Erbschaft übernommenen Hause ein Stück Wiesenland erworben, genügend für die Sommer- und Winterfütterung zweier Kühe; denn während das Schiff zu Wasser, sollten diese zu Lande die Wirtschaft vorwärtsbringen. Eine Frau hatte Hans Kirch sich im stillen vor ein paar Jahren schon genommen; zu der Hökerei, welche diese bisher betrieben, kam nun noch eine Milchwirtschaft; auch ein paar Schweine konnten jetzt gemästet werden, um das Schiff auf seinen Handelsfahrten zu verproviantieren; und da die Frau, welche er im Widerspruch mit seinem sonstigen Tun aus einem armen Schulmeisterhause heimgeführt hatte, nur seinen Willen kannte und überdies aus Furcht vor dem bekannten Jähzorn ihres Mannes sich dasBrot am Munde sparte, so pflegte dieser bei jeder Heimkehr auch zu Hause einen hübschen Haufen Kleingeld vorzufinden. 
+                  In dieser Ehe wurde nach ein paar Jahren ein Knabe geboren und mit derselben Sparsamkeit erzogen. <said id="4" mode="direct" content="speech" level="1" nonfact="yes" prag="yes">»All wedder 'n Dreling umsünst utgeb'n!«</said> <seg id="4" type="frame" pos="end">Dies geflügelte Wort lief einmal durch die Stadt; <seg id="4" type="speaker">Hans Adam</seg> hatte es seiner Frau <seg id="4" type="intExpr">zugeworfen</seg>, als sie ihrem Jungen am Werktag einen Sirupskuchen gekauft hatte.</seg> Trotz dieser dem Geize recht nahe verwandten Genauigkeit war und blieb der Kapitän ein zuverlässiger Geschäftsmann, der jeden ungeziemenden Vorteil von sich wies; nicht nur infolge einer angeborenen Rechtschaffenheit, sondern ebensosehr seines Ehrgeizes. Den Platz im Schifferstuhle hatte er sich errungen; <said id="5" mode="reported" content="thought" level="1" border="yes">jetzt schwebten höhere Würden, denen er nichts vergeben durfte, vor seinen Sinnen;</said><said id="6" mode="freeIndirect" content="thought" level="1"> denn auch die Sitze im Magistratskollegium, wenn sie auch meist den größeren Familien angehörten, waren mitunter von dem kleineren Bürgerstande aus besetzt worden. Jedenfalls, seinem Heinz sollte der Weg dazu gebahnt werden; <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">sagten</seg> die <seg id="7" type="speaker">Leute</seg> doch, </seg><said id="7" mode="indirect" content="speech" level="1">er sei sein Ebenbild: die fest auslugenden Augen, der Kopf voll schwarzbrauner Locken seien väterliche Erbschaft, nur statt des krummen Rückens habe er den schlanken Wuchs der Mutter.</said></said> 
+                  Was Hans Kirch an Zärtlichkeiten besaß, das gab er seinem Jungen; <seg id="8" type="frame" pos="start">bei jeder Heimkehr <seg id="8" type="intExpr">lugte</seg> <seg id="8" type="speaker">er</seg> schon vor dem Warder durch sein Glas, </seg><said id="8" mode="indirect" content="thought" level="1" border="yes">ob er am Hafenplatz ihn nicht gewahren könne;</said> kamen dann nach der Landung Mutter und Kind auf Deck, so hob er zuerst den kleinen Heinz auf seinen Arm, bevor er seiner Frau die Hand zum Willkommen gab.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
