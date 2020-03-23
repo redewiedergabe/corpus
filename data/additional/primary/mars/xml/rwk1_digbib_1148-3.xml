@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Herr Hofrat</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Herr_Hofrat.tg132_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1915</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Herr Hofrat</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">
+Sie kommen, um einen meteorologischen Triumph zu feiern!«</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Ich komme, <said id="3" mode="reported" content="speech" level="2" nonfact="yes" border="yes">um Ihre Befehle einzuholen</said>«</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">erwiderte</seg> <seg id="2" type="speaker">sie</seg> sanft</seg>, ohne den Schatten einer Duldermiene. 
+                  <said id="4" mode="direct" content="speech" level="1">»Warten Sie noch, das Wetter macht sich, wir bekommen vielleicht den schönsten Nachmittag.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Aber warum sollen wir ihn nicht zu Hause zubringen?«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">fragte</seg> <seg id="5" type="speaker">Cäcilie</seg>.</seg> <said id="6" mode="direct" content="speech" level="1">»Ich möchte gar zu gern deine Sammlung sehen, lieber Onkel. <said id="7" mode="reported" content="speech" level="2" border="yes">Ich habe soviel von ihr gehört.</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Wirklich? – Durch wen?«</said> 
+                  
+                     <said id="9" mode="direct" content="speech" level="1">»Nun, durch Mama.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Ja so-o, ja so-o, durch die Mama ...«</said> <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Er</seg> überwand die kleine Enttäuschung und <seg id="11" type="intExpr">versprach</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">den Wunsch der Nichte zu erfüllen.</said> <said id="12" mode="indirect freeIndirect" content="speech" level="1">Aber erst später, man brauche Zeit.</said> – <said id="13" mode="direct" content="speech" level="1">»Also«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">wandte</seg> <seg id="13" type="speaker">er</seg> sich an Kamilla,</seg> <said id="13" mode="direct" content="speech" level="1">»wenn sie also durchaus nicht ausfahren will, dann können Sie den Wagen abbestellen.«</said> 
+                  Frau Riesel neigte das Haupt und schritt dem Ausgange zu; <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Eduard</seg> eilte ihr nach, öffnete vor ihr die Tür und <seg id="14" type="intExpr">flüsterte</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»Gnädige Frau haben eine himmlische Geduld.«</said> 
+                  Von seiner Bewunderung getragen wie von Flügeln, schwebte sie mehr, als sie ging, die Treppe hinab und begegnete in der Nähe der Gastzimmer dem alten Diener des Hofrats. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Er</seg> trug die Vase mit den herrlichen Rosen und blieb lächelnd vor Kamilla stehen:</seg> <said id="15" mode="direct" content="speech" level="1">»Für die gnädige Frau Oberleutnant.«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Ja, ja, <said id="17" mode="reported" content="thought" level="2" border="yes">ich weiß</said>«</said><seg id="16" type="frame" pos="end">, <seg id="16" type="intExpr">log</seg> <seg id="16" type="speaker">sie</seg></seg> und ließ ihre Augen halb gerührt, halb beängstigt auf den Blumen ruhen. 
+                  <said id="18" mode="freeIndirect" content="thought" level="1">In dem kostbaren Rosenbukett fehlte die Malmaison.</said> 
+                  Beim Mittagessen wurde durch die Heiterkeit Cäciliens und durch ihre lustigen Einfälle die gute Stimmung wiederhergestellt. Zum schwarzen Kaffee ging die kleine Gesellschaft in das Rauchzimmer und hatte kaum dort Platz genommen, als sich auf der Treppe und im Gange Schritte vernehmen ließen. <seg id="19" type="frame" pos="start">Eine laute, wohlbekannte <seg id="19" type="speaker">Stimme</seg> <seg id="19" type="intExpr">fragte</seg>:</seg> <said id="19" mode="direct" content="speech" level="1">»Wo sind sie? Ja so, im Rauchsalon. Josef, mein Parapluie! Betty, mein Regenmantel!«</said> 
+                  Die Tür flog auf, und da stand Frau Sektionsrat, dunkelrosa und hellblond, den Ausdruck eines Baby im ältlichen Gesichte. 
+                  <said id="20" mode="direct" content="speech" level="1">»Die Mama!«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">rief</seg> <seg id="20" type="speaker">Cäcilie</seg></seg>; <seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Eduard</seg> sprang auf, breitete die Arme aus und <seg id="21" type="intExpr">deklamierte</seg>:</seg>
+                         
+                  
+                     <said id="21" mode="direct" content="speech" level="1">»Aus dem bewegten Wasser steigt
+                     Ein feuchtes Weib empor.«</said>
+                        
+                  
+                  <said id="22" mode="direct" content="thought" level="1"><said id="23" mode="reported" content="speech" level="2">Wieder ein Zitat!</said> – unglaublich nett für einen Oberleutnant von der Kavallerie</said><seg id="22" type="frame" pos="end">, <seg id="22" type="intExpr">dachte</seg> <seg id="22" type="speaker">Kamilla</seg>.</seg> 
+                  <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">Rosa</seg> löste sich aus den Armen ihrer Kinder und ging auf den Vetter zu:</seg> <said id="24" mode="direct" content="speech" level="1">»Verzeih den Überfall, aber ich konnte nicht vorbeifahren, <said id="25" mode="reported" content="speech" level="2">ohne euch zu begrüßen.</said>«</said> 
+                  Dabei sah sie Kamilla mit einem unendlich vielsagenden Blick an, und die Freundin nahm in ihrem Herzen auf, was er ausdrücken wollte: Dankbarkeit, Liebe, Verehrung. 
+                  <said id="26" mode="direct" content="speech" level="1">»Regnet es noch?«</said> <seg id="26" type="frame" pos="end"><seg id="26" type="intExpr">fragte</seg> der <seg id="26" type="speaker">Hofrat</seg>.</seg> 
+                  <said id="27" mode="direct" content="speech" level="1">»Nein, es schüttet.«</said> 
+                  <said id="28" mode="direct" content="speech" level="1">»Setz dich und trink eine Tasse Kaffee.«</said> 
+                  
+                     Sie gehorchte. <said id="29" mode="direct" content="speech" level="1">»Danke dir. Gern, sehr gern. Ich komme nur für einen Augenblick. <seg id="30" type="frame" pos="start">Wollte nur <seg id="30" type="intExpr">sagen</seg> ...</seg> <said id="30" mode="indirect" content="speech" level="1">Also Kinder, von den Wohnungen, die ich angesehen habe, paßt mir keine.</said> Ich habe jetzt eine Sommerwohnung für den Herbst genommen.«</said> 
+                  <said id="31" mode="direct" content="speech" level="1">»Das sieht dir ähnlich«</said><seg id="31" type="frame" pos="end">, <seg id="31" type="intExpr">sagte</seg> der <seg id="31" type="speaker">Hofrat</seg>.</seg> 
+                  <said id="32" mode="direct" content="speech" level="1">»Papa bekommt schon in vierzehn Tagen Urlaub. Wir fahren dann direkt nach Karlsbad und erwarten euch dort, und ihr bleibt bei uns, bis es wieder einrücken heißt.«</said> 
+                  <said id="33" mode="direct" content="speech" level="1">»Und vorher?«</said> <seg id="33" type="frame" pos="end"><seg id="33" type="intExpr">fragte</seg> der <seg id="33" type="speaker">Onkel</seg>.</seg> 
+                  <said id="34" mode="direct" content="speech" level="1">»<said id="35" mode="indirect" content="thought" level="2" nonfact="yes">Bevor wir nach Karlsbad fahren</said><seg id="35" type="frame" pos="end">, <seg id="35" type="intExpr">meinst</seg> <seg id="35" type="speaker">du</seg>?</seg> Wir haben große Projekte«</said><seg id="34" type="frame" pos="end">, <seg id="34" type="intExpr">erwiderte</seg> <seg id="34" type="speaker">Eduard</seg>.</seg> <said id="36" mode="direct" content="speech" level="1">»Wir wollen wandern, wandern! großartige Fußtouren durch unsere Alpenländer unternehmen. Ich treibe mich lange genug in der Heimat meiner Frau herum, sie soll jetzt die meine kennenlernen.«</said> 
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

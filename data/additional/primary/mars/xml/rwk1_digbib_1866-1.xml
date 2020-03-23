@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Tier</title>
+             <author>Leskov, Semënovi? Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Das_Tier.tg10_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Tier</f>
+         <f name="author">Leskov, Semënovi? Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich war damals aber, wie gesagt, erst fünf Jahre alt, und meine Wünsche und Neigungen wurden bei den Entscheidungen, denen ich mich fügen mußte, in keiner Weise in Betracht gezogen. 
+                  
+               
+            
+            
+               
+                  
+                     II
+                     Auf dem Gute meines Onkels befand sich ein riesiges steinernes, schloßartiges Gebäude. Es war ein prätentiöser, doch unschöner und sogar häßlicher zweistöckiger Bau mit einer runden Kuppel und einem Turm, <said id="1" mode="reported" content="speech" level="1">über den allerlei scheußliche Geschichten erzählt wurden.</said> Hier hatte einst der verrückte Vater des jetzigen Gutsbesitzers gewohnt; später wurde in diesen Räumen eine Apotheke eingerichtet. Auch das letztere galt aus irgendeinem Grunde als unheimlich; am unheimlichsten war aber die sogenannte Äolsharfe, die in einem offenen geschwungenen Fenster oben auf dem Turme angebracht war. Wenn der Wind durch die Saiten dieses launischen Instrumentes 
+fuhr, gab es ebenso unerwartete wie seltsame Töne von sich, die aus einem leisen Girren in unruhige, wilde Seufzer und in ein wahnsinniges Getöse übergingen, das sich so anhörte, wie wenn ein ganzer Schwarm von Angst getriebener Geister durch die Saiten zöge. <seg id="2" type="frame" pos="start">Alle <seg id="2" type="speaker">Bewohner</seg> des Hauses konnten diese Harfe nicht leiden und <seg id="2" type="intExpr">glaubten</seg>,</seg> <said id="2" mode="indirect" content="thought" level="2" metaph="yes"><said id="3" mode="reported" content="speech" level="1">daß sie dem gestrengen Gutsherrn etwas sagte</said>, <said id="4" mode="reported" content="speech" level="2" nonfact="yes" metaph="yes">wogegen er sich nicht aufzulehnen wagte</said>, das ihn aber noch grausamer und unbeugsamer machte</said> ... Eines stand jedenfalls fest: wenn nachts ein Sturm losbrach und die Harfe auf dem Turme so laut dröhnte, daß die Töne über den Park und die Teiche hinweg bis ins Dorf drangen, tat der Herr die ganze Nacht kein Auge zu und war am Morgen noch finsterer und strenger als sonst; <said id="5" mode="reported" content="speech" level="1">dann pflegte er irgendeinen grausamen Befehl zu erteilen, der die Herzen aller seiner Sklaven erbeben machte.</said> 
+                     In diesem Hause war es Gesetz, daß jedes Vergehen unnachsichtliche Sühne fand und niemand und unter keinen Umständen Verzeihung erlangte. Dieses Gesetz galt ebenso für die Menschen wie für die Tiere und selbst für die kleinsten Geschöpfe. Der Onkel kannte keine Barmherzigkeit, liebte sie nicht und hielt sie für Schwäche. Unnachsichtige Strenge setzte er über alle Nachsicht. Daher herrschte im Hause und in den zahlreichen Dörfern, die diesem reichen Gutsbesitzer gehörten, eine ewige Trauer, die mit den Menschen auch die Tiere teilten. 
+                  
+               
+            
+            
+               
+                  
+                     III
+                     Mein seliger Onkel war leidenschaftlicher Liebhaber der Hetzjagd. Er pflegte oft mit seiner Meute auszureiten 
+und Wölfe, Hasen und Füchse zu jagen. In seinem Zwinger gab es auch eigens für die Bärenjagd bestimmte Hunde. Diese Hunde nannte man »Blutegel«. Sie bissen sich in das Tier dermaßen fest, daß man sie nicht wieder losreißen konnnte. Es kam vor, daß der Bär, in den sich so ein Blutegel festgebissen hatte, ihn mit einem Schlag seiner schrecklichen Tatze totschlug oder zerriß, es kam aber niemals vor, daß der Blutegel lebend vom Tiere abließ. 
+                     Heute, wo die Bärenjagd nur noch mit dem Spieß und als Klapperjagd betrieben wird, scheint die Rasse der Blutegel in Rußland ausgestorben zu sein; aber in der Zeit, als sich diese Geschichte zutrug, gehörten sie zum Bestande eines jeden Zwingers. In unserer Gegend gab es damals auch sehr viel Bären, und die Bärenjagd zählte zu den beliebtesten Vergnügungen. 
+                     Wenn es gelang, ein ganzes Bärennest auszuheben, nahm man die Jungen oft lebend nach Hause mit.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

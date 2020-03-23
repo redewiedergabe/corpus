@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Unterm Birnbaum</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Unterm_Birnbaum.tg766_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Unterm Birnbaum</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes_DS</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        <said id="1" mode="direct" content="speech" level="1">Un is ümmer dat Sülwigte.«</said> 
+                     
+                     
+                        <said id="2" mode="direct" content="speech" level="1">»Dat Sülwigte?«</said> 
+                     
+                     
+                        <said id="3" mode="direct" content="speech" level="1">»Joa.
+                        Nu nich mihr.
+                        Awers as noch keen Snee wihr.
+                     
+                     
+                        Doa ...«</said> 
+                     
+                     
+                        <said id="4" mode="direct" content="speech" level="1">»Da.
+                        Was denn?«</said> 
+                     
+                     
+                        <said id="5" mode="direct" content="speech" level="1">»Doa wihr se nachtens ümmer so rümm hier.«</said> 
+                     
+                     
+                        <said id="6" mode="direct" content="speech" level="1">»So, so«</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">sagte</seg> der <seg id="6" type="speaker">Gensdarm</seg></seg> und <said id="7" mode="reported" content="speech" level="1">tat vorsichtig allerlei
+                           weitere Fragen.</said>
+                        Und da sich die Jeschke von guten Beziehungen zur Dorfpolizei
+                           nur Vorteile versprechen konnte, <said id="8" mode="reported" content="speech" level="1">so wurde sie trotz aller sonstigen
+                           Zurückhaltung immer mitteilsamer und erzählte dem Gensdarmen Neues und
+                           Altes, namentlich auch das, was sie damals, in der stürmischen
+                           Novembernacht, von ihrer Küchentür aus beobachtet hatte.
+                        Hradscheck habe lang dagestanden, ein flackrig Licht in der
+                           Hand.</said>
+                        <said id="9" mode="direct" content="speech" level="1">»Un wihr binoah so, as ob he wull, dat man em seihn sull.«</said>
+                           <said id="10" mode="reported" content="speech" level="1">Und dann hab er einen Spaten genommen und sei bis an den Birnbaum
+                           gegangen.
+                     
+                     
+                        
+                           Und da hab er ein Loch gegraben.
+                        An der Gartentür aber habe was gestanden wie ein Koffer oder
+                           Korb oder eine Kiste.
+                        Was?
+                        das habe sie nicht genau sehen können.
+                        Und dann hab er das Loch wieder zugeschüttet.</said>
+                     
+                     
+                        <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Geelhaar</seg>, der sich bis dahin, allem Diensteifer zum Trotz,
+                           ebensosehr mit Line wie mit Hradscheck beschäftigt hatte, ja, vielleicht
+                           mehr noch Courmacher als Beamter gewesen war, war unter diesem Bericht
+                           sehr ernsthaft geworden und <seg id="11" type="intExpr">sagte</seg>, während er mit Wichtigkeitsmiene
+                           seinen gedunsenen Kopf hin und her wiegte:</seg> <said id="11" mode="direct" content="speech" level="1">»Ja, Mutter Jeschke, das tut
+                           mir leid.
+                        Aber es wird Euch Ungelegenheiten machen.«</said> 
+                     
+                     
+                        <said id="12" mode="direct" content="speech" level="1">»Wat?
+                        wat, Geelhaar?«</said> 
+                     
+                     
+                        <said id="13" mode="direct" content="speech" level="1">»Ungelegenheiten, weil Ihr damit so spät herauskommt.«</said> 
+                     
+                     
+                        <said id="14" mode="direct" content="speech" level="1">»Joa, Geelhaar, wat sall dat?
+                        wat mienen S' mit ›to spät‹?
+                        <said id="15" mode="reported" content="speech" level="2" nonfact="yes">Et hett mi joa keener nich froagt.</said>
+                        Un Se ook nich.
+                        <said id="16" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Un wat weet ick denn ook?</said>
+                        <said id="17" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Ick weet joa nix.
+                        Ick weet joa joar nix.</said>«</said> 
+                     
+                     
+                        <said id="18" mode="direct" content="speech" level="1">»<said id="19" mode="reported" content="thought" level="2" border="yes">Ihr wißt genug</said>, Mutter Jeschke.«</said> 
+                     
+                     
+                        <said id="20" mode="direct" content="speech" level="1">»Nei, nei, Geelhaar.
+                        <said id="21" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Ick weet joar nix.</said>«</said> 
+                     
+                     
+                        <said id="22" mode="direct" content="speech" level="1">»Das ist gerade genug, daß einer nachts in seinem Garten ein
+                           Loch gräbt und wieder zuschüttet.«</said> 
+                     
+                     
+                        <said id="23" mode="direct" content="speech" level="1">»Joa, Geelhaar, <said id="24" mode="reported" content="thought" level="2" nonfact="yes" border="yes">ick weet nich</said>, awers jed' een möt doch in
+                           sien ejen Goarden en Loch buddeln künn'.«</said> 
+                     
+                     
+                        <said id="25" mode="direct" content="speech" level="1">»Freilich.
+                        Aber nicht um Mitternacht und nicht bei solchem Wetter.«</said>
+                        
+                     
+                     
+                        <said id="26" mode="direct" content="speech" level="1">»Na, <said id="27" mode="reported" content="speech" level="2" nonfact="yes">rieden S' mi man nich rin.</said>
+                        Un moaken Se't good mit mi...
+                        Line, Line, <said id="28" mode="reported" content="speech" level="2" nonfact="yes">segg doch ook wat.</said>«</said> 
+                     
+                     
+                        Und wirklich, <seg id="29" type="frame" pos="start"><seg id="29" type="speaker">Line</seg> trat in Folge dieser Aufforderung an den
+                           Gensdarmen heran und <seg id="29" type="intExpr">sagte</seg>, tief aufatmend, wie wenn sie mit einer
+                           plötzlichen und mächtigen Sinnenerregung zu kämpfen hätte:</seg> <said id="29" mode="direct" content="speech" level="1">»Laß nur,
+                           Mutter Jeschke.
+                        <seg id="30" type="frame" pos="start">Herr <seg id="30" type="speaker">Geelhaar</seg> wird schon <seg id="30" type="intExpr">wissen</seg>,</seg> <said id="30" mode="indirect" content="thought" level="2" border="yes">was er zu tun hat.</said>
+                        <said id="31" mode="reported" content="thought" level="2" border="yes">Und wir werden es auch wissen.</said>
+                        Das versteht sich doch von selbst.
+                        Nicht wahr, Herr Geelhaar?«</said> 
+                     
+                     
+                        <seg id="" type="frame" pos="start"><seg id="" type="speaker">Dieser</seg> nickte zutraulich und <seg id="" type="intExpr">sagte</seg> mit plötzlich verändertem
+                           und wieder freundlicher werdendem Tone:</seg> <said id="32" mode="direct" content="speech" level="1">»Werde schon machen, Mamsell
+                           Line.
+                        <said id="33" mode="reported" content="speech" level="2">Schulze Woytasch läßt ja, Gott sei Dank, mit sich reden und Vowinkel auch.</said>
+                        Hauptsach is, daß wir den Fuchs überhaupt ins Eisen
+                           kriegen.
+                        Un is dann am Ende gleich, wann wir ihn haben und ob ihm der Balg heut
+                           oder morgen abgezogen wird.«</said> 
+                     
+                  
+               
+            
+            
+               
+                  
+                     
+                        Elftes Kapitel
+                     
+                     
+                        Vierundzwanzig Stunden später kam – <said id="34" mode="reported" content="speech" level="1">und zwar
+                           auf die Meldung hin, die Geelhaar, gleich nach seinem Gespräche mit der
+                           Jeschke, bei der Behörde gemacht hatte</said> – von Küstrin her ein offener
+                           Wagen, in dem, außer dem Kutscher, der Justizrat und Hradscheck
+                           saßen.
+                     
+                  
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der heiße Soldat</title>
+             <author>Meyrink, Gustav</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyrink,_Gustav_Der_heisse_Soldat.tg82_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">Der heiße Soldat</f>
+         <f name="author">Meyrink, Gustav</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Arzt konnte keine Wunde finden und <said id="2" mode="reported" content="speech" level="1">bekam auf <said id="1" mode="reported" content="speech" level="2">sein Befragen von dem Patienten</said> nur ein wildes Knurren zur Antwort</said>, <said id="3" mode="reported" content="thought" level="1">das er für die Laute eines slawischen Dialektes hielt.</said> 
+                  <said id="4" mode="reported" content="speech" level="1">Für alle Fälle verordnete er ein Klystier</said> und ging in das Offizierszelt. – – – 
+                  <said id="5" mode="reported" content="speech" level="1">Ärzte und Offiziere unterhielten sich ausgezeichnet;</said> das kurze aber blutige Scharmützel hatte Leben in das alte Einerlei gebracht. 
+                  <said id="6" mode="reported" content="speech" level="1">Mostschädel hatte eben einige anerkennende Worte über Professor Charkot – um die anwesenden französischen Kollegen sein deutsches Übergewicht nicht 
+ allzu schmerzlich fühlen zu lassen – beendet</said>, <seg id="7" type="frame" pos="start">als die indische <seg id="7" type="speaker">Pflegerin</seg> vom roten Kreuz am Zelteingang erschien und in gebrochenem Französisch <seg id="7" type="intExpr">meldete</seg>:</seg> 
+                  <said id="7" mode="direct" content="speech" level="1">»Sergeant Henry Serpollet tot, Trompeter Wenzel Zavadil 41,2 Grad Fieber.«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Intrigantes Volk, diese Slawen,«</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">murmelte</seg> der Wache habende <seg id="8" type="speaker">Arzt</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»der Kerl hat Fieber und doch keine Verwundung!«</said> 
+                  <said id="9" mode="reported" content="speech" level="1">Die Wächterin erhielt die Weisung, dem Soldaten, natürlich dem lebendigen, drei Gramm Chinin in den Schlund zu stopfen</said>, und entfernte sich. – – – 
+                  Professor Mostschädel hatte die letzten Worte aufgefangen und <said id="10" mode="reported" content="speech" level="1">machte sie zum Ausgangspunkt einer längeren gelehrten Rede, in der er die Wissenschaft Triumphe feiern ließ, die es verstanden hatte, das gute Chinin in den Händen von Laien zu entdecken, die in der Natur, der blinden Henne gleich, auf dieses Heilmittel gestoßen waren.</said> 
+                  <said id="11" mode="reported" content="speech" level="1">Er war von diesem Thema auf die spastische Spinalparalyse übergegangen</said> und die Augen seiner Zuhörer begannen bereits gläsern zu werden, <seg id="12" type="frame" pos="start">als wiederum die <seg id="12" type="speaker">Wärterin</seg> mit der <seg id="12" type="intExpr">Meldung</seg> erschien:</seg> 
+                  <said id="12" mode="direct" content="speech" level="1">»Trompeter Wenzel Zavadil 49 Grad Fieber, <said id="13" mode="reported" content="speech" level="2">bitte um ein längeres Thermometer.</said>«</said> – – – 
+                  <said id="14" mode="direct" content="speech" level="1">»Also demnach schon längst tot,«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">sagte</seg> lächelnd der <seg id="14" type="speaker">Professor</seg>.</seg> – 
+                  
+                     
+Der Stabsarzt stand langsam auf und näherte sich mit drohender Miene der Wärterin, die sofort einen Schritt zurückwich. – <said id="15" mode="direct" content="speech" level="1">»Sie sehen, meine Herren,«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">erklärte</seg> <seg id="15" type="speaker">der</seg> daraufhin zu den übrigen Ärzten,</seg> <said id="15" mode="direct" content="speech" level="1">»das Weib ist ebenfalls hysterisch, wie der Soldat Zavadil; – – – Duplizität der Fälle!«</said> – – – 
+                  Hierauf legten sich alle zur Ruhe. 
+                  – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+                  <said id="16" mode="direct" content="speech" level="1">»<said id="17" mode="reported" content="speech" level="2">Der Herr Stabsarzt läßt dringend bitten</said>,«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">schnarrte</seg> der <seg id="16" type="speaker">Meldereiter</seg> den noch sehr verschlafenen Gelehrten <seg id="16" type="intExpr">an</seg>,</seg> als kaum die ersten Sonnenstrahlen den Saum der nahen Hügel färbten. 
+                  Alles blickte erwartungsvoll auf den Professor, der sich augenblicklich an das Bett Zavadils begab. 
+                  <said id="18" mode="direct" content="speech" level="1">»54 Grad Réaumur Blutwärme, unglaublich,«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">stöhnte</seg> der <seg id="18" type="speaker">Stabsarzt</seg>.</seg> 
+                  Mostschädel lächelte ungläubig, zog aber entsetzt seine Hand zurück, als er sich an der Stirne des Kranken tatsächlich verbrannte. 
+                  <said id="19" mode="direct" content="speech" level="1">»<said id="20" mode="reported" content="speech" level="2" nonfact="yes">Nehmen Sie die Vorgeschichte der Krankheit auf</said>,«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">der</seg> zögernd nach längerem peinlichem Schweigen zum Stabsarzt.</seg> 
+                  <said id="21" mode="direct" content="speech" level="1">»<said id="22" mode="reported" content="speech" level="2">Nehmen Sie doch die Vorgeschichte der Krankheit auf</said> und stehen Sie nicht so unentschlossen herum!«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">schrie</seg> der <seg id="21" type="speaker">Stabsarzt</seg> den jüngsten der Ärzte an.</seg> 
+                  <said id="23" mode="direct" content="speech" level="1">»<said id="24" mode="reported" content="thought" level="2" border="yes">Bhagavan Sri Mukhopadaya wüßte vielleicht</said> ..«</said> <seg id="23" type="frame" pos="end">wagte die indische <seg id="23" type="speaker">Wärterin</seg> zu <seg id="23" type="intExpr">beginnen</seg>.</seg> 
+                  
+                     
+<said id="25" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="speech" level="2" nonfact="yes">Reden Sie</said>, <said id="27" mode="reported" content="speech" level="2">wenn Sie gefragt werden</said>,«</said> <seg id="25" type="frame" pos="end"><seg id="25" type="intExpr">unterbrach</seg> sie der <seg id="25" type="speaker">Stabsarzt</seg>.</seg> 
+                  <said id="28" mode="direct" content="speech" level="1">»Immer der alte verdammte Aberglauben,«</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">fuhr</seg> <seg id="28" type="speaker">er</seg>, zu Mostschädel gewendet, <seg id="28" type="intExpr">fort</seg>.</seg> 
+                  <said id="29" mode="direct" content="speech" level="1">»<said id="31" mode="reported" content="thought" level="2">Der Laie denkt immer an das Nebensächliche</said>,«</said> <seg id="29" type="frame" pos="end"><seg id="29" type="intExpr">begütigte</seg> der <seg id="29" type="speaker">Professor</seg>.</seg> – <said id="30" mode="direct" content="speech" level="1">»Senden Sie mir nur den Bericht, ich habe jetzt dringend zu tun.«</said> – – 
+                  – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+                  <said id="32" mode="direct" content="speech" level="1">»Nun, junger Freund, <said id="33" mode="reported" content="speech" level="2" nonfact="yes">was haben Sie eruiert?</said>«</said> <seg id="32" type="frame" pos="end"><seg id="32" type="intExpr">fragte</seg> der <seg id="32" type="speaker">Gelehrte</seg> den Subalternarzt,</seg> hinter dem sich eine Menge Offiziere und Ärzte wißbegierig in das Zimmer drängten. 
+                  <said id="34" mode="direct" content="speech" level="1">»Die Temperatur ist inzwischen auf 80 Grand gestiegen ...«</said> 
+                  <seg id="35" type="frame" pos="start">Der <seg id="35" type="speaker">Professor</seg> machte ein ungeduldige, abwehrende Bewegung:</seg> <said id="35" mode="direct" content="speech" level="1">»Nun?«</said> 
+                  <said id="36" mode="direct" content="speech" level="1">»Patient machte vor zehn Jahren einen Typhus durch, vor zwölf Jahren eine leichte Diphtheritis; Vater an Schädelbruch gestorben, Mutter an Gehirnerschütterung; Großvater an Schädelbruch, Großmutter an Gehirnerschütterung!
+</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

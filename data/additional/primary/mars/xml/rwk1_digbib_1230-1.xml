@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>13. Hans Wunderlich</title>
+             <author>Jahn, Ulrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Jahn,_Ulrich_13__Hans_Wunderlich.tg39_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">13. Hans Wunderlich</f>
+         <f name="author">Jahn, Ulrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dahinein trug sie trockenes Laub und Moos und machte sich ein warmes Lager zurecht, dass sie die Nacht über nicht frieren durfte. Am andern Morgen suchte sie Wurzeln und Kräuter, pflückte Erdbeeren und Himbeeren, und des Abends kroch sie wieder in das weiche Nestchen hinein. So lebte sie drei Monde lang. Eines Nachts war ihr im Schlafe so recht warm geworden, und als sie mit Sonnenaufgang nach ihrer Gewohnheit aufstehen wollte, sprang ein bunter Junge vor ihr herum, der hatte Federn und Haare, schwarz und weiss, gries und grau, rot und grün, gelb und blau. <said id="1" mode="direct" content="speech" level="1">»Mutter,«</said> <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">rief</seg> der närrische <seg id="1" type="speaker">Schelm</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">»du hast lange genug im Walde Kräuter gegessen; jetzt komm mit mir an des Königs Hof.«</said> <seg id="2" type="frame" pos="start">Der <seg id="2" type="speaker">Prinzessin</seg> kam es <seg id="2" type="intExpr">wunderlich</seg> vor,</seg> <said id="2" mode="indirect" content="thought" level="1">dass der bunte Junge sie Mutter nannte</said>; <said id="3" mode="reported" content="speech" level="1">aber da er so sagte</said>, <said id="4" mode="reported" content="thought" level="1">glaubte 
+sie ihm auch</said> und folgte ihm nach, wohin er sie führte. Es dauerte nicht lange, so waren sie aus dem Walde heraus, und noch ein klein Weilchen, so standen sie vor einem prächtigen Königsschloss. <said id="5" mode="direct" content="speech" level="1">»Mutter! hier ist die Stelle der Küchenmagd frei,«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">sagte</seg> der bunte <seg id="5" type="speaker">Junge</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»da vermiete dich nur. Das gute Essen wird dir besser munden, als das Kräuter-und Beerenwesen im Walde.«</said> – <said id="6" mode="direct" content="speech" level="1">»Wo bleibst aber du?«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">fragte</seg> die <seg id="6" type="speaker">Prinzessin</seg>.</seg> <said id="7" mode="direct" content="speech" level="1">»Das lass meine Sorge sein, Mutter,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">antwortete</seg> der bunte <seg id="7" type="speaker">Junge</seg></seg> und sprang davon. Die Königstochter aber that, <said id="8" mode="reported" content="speech" level="1">wie ihr der bunte Junge geheissen hatte</said>, und wurde auch sogleich als Küchenmagd angenommen. 
+                  Indes spielte der bunte Junge mit den Kindern der Stadt vor dem Thore und balgte sich mit ihnen herum, wie Knaben zu thun pflegen. Da kam des Königs Sohn von der Jagd zurück, und als er den bunten Jungen sah mit Federn und Haaren, schwarz und weiss, gries und grau, rot und grün, gelb und blau, <seg id="9" type="frame" pos="start">schlug <seg id="9" type="speaker">er</seg> die Hände über dem Kopf zusammen und <seg id="9" type="intExpr">rief</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»Bunter Junge, wo kommst denn du her?«</said> – <said id="10" mode="direct" content="speech" level="1">»Das weiss ich nicht.«</said> – <said id="11" mode="direct" content="speech" level="1">»Wer ist denn dein Vater?«</said> – <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="thought" level="2" nonfact="yes">Das glaubst du mir doch nicht.</said>«</said> – <said id="14" mode="direct" content="speech" level="1">»Wer ist deine Mutter?«</said> – <said id="15" mode="direct" content="speech" level="1">»<said id="16" mode="reported" content="speech" level="2" nonfact="yes">Das sage ich nicht.</said>«</said> – <said id="17" mode="direct" content="speech" level="1">»Wo wohnst du denn?«</said> – <said id="18" mode="direct" content="speech" level="1">»Wo ich will.«</said> – <said id="19" mode="direct" content="speech" level="1">»Höre einmal, bunter Junge,«</said> <seg id="19" type="frame" pos="mid"><seg id="19" type="intExpr">sagte</seg> darauf der <seg id="19" type="speaker">Prinz</seg>, dem der Schelm gefiel,</seg> <said id="19" mode="direct" content="speech" level="1">»ich will dich in meine Dienste nehmen.«</said> – <said id="20" mode="direct" content="speech" level="1">»Wenn du mir gut thust, gehe ich darauf ein,«</said> <seg id="20" type="frame" pos="mid"><seg id="20" type="intExpr">antwortete</seg> <seg id="20" type="speaker">er</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»<said id="21" mode="reported" content="speech" level="2" nonfact="yes">du darfst mich aber niemals wieder bunter Junge rufen.</said>«</said> – <said id="22" mode="direct" content="speech" level="1">»Wie heisst du denn?«</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">fragte</seg> der <seg id="22" type="speaker">Königssohn</seg>.</seg> – <said id="23" mode="direct" content="speech" level="1">»Ich heisse Hans Wunderlich!«</said> – <said id="24" mode="direct" content="speech" level="1">»Nun, so komm mit mir, Hans Wunderlich,«</said> <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">sprach</seg> der <seg id="24" type="speaker">Prinz</seg></seg>, und der bunte Junge lief neben dem Rosse her, schneller, als ein Windspiel zu laufen vermag. Auf dem Schlosse bekam er von der Speise, welche dem Prinzen aufgetragen wurde, und wo dieser war, war er auch, und des Nachts kroch er unter die Bettstelle und schlief dort, bis der Königssohn erwachte. 
+                  <seg id="25" type="frame" pos="start">Eines Tages <seg id="25" type="intExpr">sagte</seg> der <seg id="25" type="speaker">Königssohn</seg>:</seg> <said id="25" mode="direct" content="speech" level="1">»Hans Wunderlich, ich habe eine grosse Reise vor, da darfst du nicht mitkommen!«</said> – <said id="26" mode="direct" content="speech" level="1">»Wo du bist, bleibe ich auch,«</said> <seg id="26" type="frame" pos="end"><seg id="26" type="intExpr">versetzte</seg> der bunte <seg id="26" type="speaker">Junge</seg>.</seg> <said id="27" mode="direct" content="speech" level="1">»Wenn ich dich nun aber nicht in den Wagen nehme.«</said> – <said id="28" mode="direct" content="speech" level="1">»Dann setze ich mich zu dem Kutscher auf den Bock!«</said> – <said id="29" mode="direct" content="speech" level="1">»Und wenn ich dich dort nicht sitzen lasse.«</said> – <said id="30" mode="direct" content="speech" level="1">»So laufe ich nebenher.«</said> – <said id="31" mode="direct" content="speech" level="1">»Und wenn ich dich zurücktreiben lasse!«</said> – <said id="32" mode="direct" content="speech" level="1">»So bin ich doch bei dir; denn wo du bist, bleibe ich auch.«</said> <seg id="33" type="frame" pos="start"><seg id="33" type="intExpr">Sprach</seg> der <seg id="33" type="speaker">Prinz</seg>:</seg> <said id="33" mode="direct" content="speech" level="1">»Wenn es so steht, will ich dich doch nur mitnehmen.«</said> – <said id="34" mode="direct" content="speech" level="1">»Ist auch besser,«</said> <seg id="34" type="frame" pos="end"><seg id="34" type="intExpr">sagte</seg> <seg id="34" type="speaker">Hans Wunderlich</seg></seg>; und er durfte in den Wagen hinein, als der Königssohn von seines Vaters Schloss fuhr.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

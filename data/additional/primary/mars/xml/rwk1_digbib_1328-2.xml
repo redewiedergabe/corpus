@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gradiva</title>
+             <author>Jensen, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Jensen,_Wilhelm_Gradiva.tg4_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Gradiva</f>
+         <f name="author">Jensen, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="3" mode="direct" content="speech" level="1">Im übrigen bin ich mir schon von frühauf darüber klar gewesen, daß ein Frauenzimmer auf der Welt nur zu etwas nützt,<seg id="1" type="frame" pos="start"> wenn <seg id="1" type="speaker">sie</seg> einem Mann die Mühe abnimmt zu <seg id="1" type="intExpr">bestimmen</seg>,</seg> <said id="1" mode="indirect" content="speech thought" level="2">was im Hause geschehen soll</said>; die erspare ich meinem Vater fast stets, und du kannst nach dieser Richtung also auch für deine Zukunft ziemlich beruhigt 
+sein. <said id="2" mode="reported" content="thought" level="2">Sollte er jedoch zufällig einmal und grade in diesem Fall eine andere Meinung haben als ich</said>, da machen wir's so einfach wie möglich. Du fährst für ein paar Tage nach Capri hinüber, fängst dort mit einer Grasschlinge – wie man's macht, kannst du an meinem kleinen Finger einüben – eine Lacerta faraglionensis, läßt sie hier wieder laufen und fängst sie vor seinen Augen noch einmal. Dann stellst du ihm die Wahl frei zwischen ihr und mir, und du hast mich so sicher, daß es mir beinah' um dich leid tut. Gegen den Kollegen Eimer aber, fühle ich heut', hab' ich mich bisher undankbar verhalten, denn ohne seine geniale Eidechsenfang-Erfindung wäre ich wahrscheinlich nicht in das Haus des Meleager gekommen, und das wäre doch schade gewesen, nicht nur für dich, sondern auch für mich.«</said> 
+                  <said id="4" mode="reported" content="speech" level="1">Dieser letzten Ansicht gab sie bereits außerhalb der Villa des Diomedes Ausdruck</said>, und leider war kein Mensch mehr auf Erden vorhanden, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">der über die Stimme und Sprechweise der Gradiva irgendwelche Angaben machen konnte.</said> Doch wenn auch sie denen des Fräuleins Zoë Bertgang ebenso wie alles sonstige geglichen hatten, mußten sie einen ganz ungewöhnlich schönen und schalkhaften Reiz besessen haben. 
+                  Von dem ward wenigstens Norbert Hanold so stark überkommen, <seg id="6" type="frame" pos="start">daß <seg id="6" type="speaker">er</seg>, ein wenig zu poetischem Aufschwung emporgetragen, <seg id="6" type="intExpr">ausrief</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Zoë, du liebes Leben und liebliche Gegenwart – unsere Hochzeitsreise machen wir nach Italien und Pompeji!«</said> 
+                  Das bildete einen entschiedenen Beleg für die Erfahrung, wie sehr veränderte Umstände auch eine Umwandlung im Menschengemüt herbeiführen und zugleich eine Gedächtnisschwächung damit verbinden können. <seg id="7" type="frame" pos="start">Denn es <seg id="7" type="intExpr">kam</seg> <seg id="7" type="speaker">ihm</seg> gar nicht <seg id="7" type="intExpr">in den Sinn</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" nonfact="yes">daß er sich und seine Begleiterin auf jener Reise dadurch der Gefahr aussetzen werde, von misanthropisch-mißmutigen Eisenbahngenossen die Namen August und Grete zu empfangen</said>; <said id="8" mode="reported" content="thought" level="1" nonfact="yes">aber er dachte daran augenblicklich so wenig, wie daß sie Hand in Hand miteinander durch die alte Gräberstraße von Pompeji dahingingen.</said> Freilich drängte diese sich auch gegenwärtig der Empfindung nicht mehr als solche auf; wolkenloser leuchtete und lachte wieder über ihr, die Sonne deckte ein goldenes Teppichgewirk auf die alten Lavaplatten, der Vesuv breitete seine duftige Pinienkrone aus, und die ganze ausgegrabene Stadt erschien, statt mit Bimssteinen und Asche, von dem wohltätigen Regensturz mit Perlen und Diamanten überschüttet. Mit den letzteren wetteiferte auch ein Glanz in den Augen der jungen Zoologentochter, <seg id="10" type="frame" pos="start">doch <seg id="10" type="speaker">ihre klugen Lippen</seg> <seg id="10" type="intExpr">entgegneten</seg> auf <said id="9" mode="reported" content="speech" level="1">den kundgegebenen Reisezielwunsch ihres gewissermaßen gleichfalls aus der Verschüttung wieder ausgegrabenen Kindheitsfreundes</said>:</seg> <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="indirect" content="thought" level="2" nonfact="yes">Darüber</said><seg id="11" type="frame" pos="mid">, 
+ <seg id="11" type="intExpr">denke</seg> <seg id="11" type="speaker">ich</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes">wollen wir uns heute nicht <said id="12" mode="reported" content="thought" level="3" nonfact="yes">den Kopf zerbrechen</said></said>; das ist eine Sache, <said id="13" mode="reported" content="thought" level="2" nonfact="yes">die wohl besser von uns beiden erst noch öfter in reiflichere Erwägung gezogen</said> und künftigen Eingebungen überlassen wird. Ich fühle mich wenigstens zu solcher geographischen Entscheidung jetzt doch noch nicht völlig lebendig genug.«</said> 
+                  Das zeugte auch von einer der Sprecherin innewohnenden großen Bescheidenheit hinsichtlich <said id="15" mode="reported" content="thought" level="1">der Beurteilung ihres Einsichtsvermögens in Dinge</said>, <said id="14" mode="reported" content="thought" level="1" nonfact="yes">über die sie bis heute noch nie nachgedacht hatte.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

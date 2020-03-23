@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Fähnlein der sieben Aufrechten</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Faehnlein_der_sieben_Aufrechten.tg823_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Fähnlein der sieben Aufrechten</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="9" mode="direct" content="speech" level="1"><said id="1" mode="direct" content="speech" level="2">Nun, ich habe gottlob noch Kredit!‹</said> <seg id="1" type="frame" pos="end">So <seg id="1" type="intExpr">spricht</seg> <seg id="1" type="speaker">er</seg></seg> <seg id="2" type="frame" pos="start">und <seg id="2" type="intExpr">schüchtert</seg>, indem <seg id="2" type="speaker">er</seg> noch eine grausame Prahlerei damit zu verbinden weiß, seine armen Brüder, seinen alten Vater <seg id="2" type="intExpr">ein</seg>,</seg> <said id="2" mode="indirect" content="speech" level="2">daß sie ihr Anliegen verschweigen und sich nur wieder fortmachen, nachdem sie seinen Garten und seinen Balkon und seine sinnreiche Kelter bewundert.</said> Und sie gehen zu fremden Leuten, um Hilfe zu suchen, und bezahlen gern höhere Zinsen, um nur nicht soviel Geschwätz hören zu müssen. Seine Kinder sind fein und köstlich gekleidet und gehen elastisch über die Straßen; sie bringen den armen Vetterchen und Bäschen kleine Geschenke und holen sie alljährlich zweimal zum Essen, und es ist dies den reichen Kindern ein großer Jux; aber wenn die Gäste ihre Schüchternheit verlieren und auch laut werden, so füllt man ihre Taschen mit Äpfeln und schickt sie nach Hause. <said id="3" mode="reported" content="speech" level="2">Dort erzählen sie alles, was sie gesehen und was sie zu essen bekommen haben</said><said id="4" mode="reported" content="speech" level="2">, und alles wird getadelt;</said> denn Groll und Neid erfüllt die armen Schwägerinnen, welche nichtsdestoweniger der wohlhabenden Person schmeicheln <said id="5" mode="reported" content="speech" level="2">und deren Staat rühmen mit beredten Zungen.</said> Endlich kommt ein Unglück über den Vater oder über die Brüder, und der reiche Mann muß nun wohl oder übel, des Gerüchtes wegen, vor den Riß stehen. Er tut es auch, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">ohne sich lange bitten zu lassen;</said> aber nun ist das Band brüderlicher Gleichheit und Liebe ganz zerrissen! Die Brüder und ihre Kinder sind nun die Knechte und Untertanenkinder des Herren; <said id="7" mode="reported" content="speech" level="2">jahraus und – ein werden sie geschulmeistert und zurechtgewiesen,</said> in grobes Tuch müssen sie sich kleiden und schwarzes Brot essen, um einen kleinen Teil des Schadens wieder einzubringen, und die Kinder werden in Waisenhäuser und Armenschulen gesteckt, und wenn sie stark genug sind, müssen sie arbeiten im Hause des Herren und unten an seinem Tische sitzen, <said id="8" mode="reported" content="speech" level="2" nonfact="yes">ohne zu sprechen.</said>«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Hu!«</said> <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">rief</seg> die <seg id="10" type="speaker">Frau</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»was sind das für Geschichten! Und willst du wirklich deinen eigenen Sohn hier für einen solchen Schubiack halten? <seg id="11" type="frame" pos="start">Und ist es denn <seg id="11" type="intExpr">geschrieben</seg>,</seg> <said id="11" mode="indirect" content="writing" level="2" nonfact="yes">daß gerade seine Brüder ein solches Unglück treffen sollte, das sie zu seinen Knechten machte? Sie, die sich schon selbst zu helfen wußten bis jetzt?</said> Nein, da glaube ich doch zur Ehre unseres eigenen Blutes, daß wir durch eine reiche Heirat nicht dergestalt aus dem Häuschen gerieten, vielmehr sich meine bessere Ansicht bestätigen würde!«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»<seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> will nicht <seg id="13" type="intExpr">behaupten</seg></seg>«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">erwiderte</seg> <seg id="12" type="speaker">Hediger</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="indirect" content="speech" level="2" nonfact="yes">daß es gerade bei uns so zuginge</said>; aber auch bei uns würde dennoch die äußere und endlich auch die innere Ungleichheit eingeführt; wer nach Reichtum trachtet, der strebt seinesgleichen ungleich zu werden –«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Larifari!«</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">unterbrach</seg> ihn die <seg id="14" type="speaker">Frau</seg>, indem sie das Tischtuch zusammennahm und zum Fenster hinausschüttelte,</seg> <said id="14" mode="direct" content="speech" level="1">»ist denn Frymann, der das Gut in Händen hat, um das wir uns streiten, euch andern ungleich geworden? Seid ihr nicht ein Herz und eine Seele und steckt immer die Köpfe zusammen?«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Das ist was anderes!«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">rief</seg> der <seg id="15" type="speaker">Mann</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">»was ganz anderes! Der hat sein Gut nicht erschlichen oder in der Lotterie gewonnen, sondern Taler um Taler durch seine Mühe erworben während vierzig Jahren. Und dann sind wir nicht Brüder, ich und er, und gehen einander nichts an und wollen es ferner so halten, das ist der Punkt!
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

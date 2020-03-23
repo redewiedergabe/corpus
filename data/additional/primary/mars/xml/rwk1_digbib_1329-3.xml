@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Fähnlein der sieben Aufrechten</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Faehnlein_der_sieben_Aufrechten.tg823_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Fähnlein der sieben Aufrechten</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bis jetzt hatte ihn ein freundlicher Stern bewahrt, daß er noch kein Blut vergossen, aus Mangel an Gelegenheit; dennoch hatte er die Flinte schon mehr als einmal ergriffen und war damit auf den Platz geeilt, da es noch die Zeit der Putsche war, und das Gewehr mußte unverrückt zwischen Bett und Schrank stehenbleiben; <said id="1" mode="direct" content="speech" level="1">»denn«</said><seg id="1" type="frame" pos="mid">, pflegte <seg id="1" type="speaker">er</seg> zu <seg id="1" type="intExpr">sagen</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">»keine Regierung und keine Bataillone vermögen Recht und Freiheit zu schützen, wo der Bürger nicht imstande ist, selber vor die Haustür zu treten und nachzusehen, was es gibt!«</said> 
+                  Als der wackere <seg id="3" type="speaker">Meister</seg> mitten in seinem Artikel vertieft war, <said id="3" mode="reported" content="thought" level="1">bald <seg id="3" type="intExpr">zustimmend</seg> nickte und bald <seg id="3" type="intExpr">den Kopf schüttelte</seg></said>, trat sein jüngster Sohn Karl herein, ein angehender Beamter auf einer Regierungskanzlei. <said id="2" mode="direct" content="speech" level="1">»Was gibt's?«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">fragte</seg> <seg id="2" type="speaker">er</seg> barsch</seg>; denn er liebte nicht, in seinem Stübchen gestört zu werden. <seg id="4" type="frame" pos="start"><seg id="4 6" type="speaker">Karl</seg> <seg id="4" type="intExpr">fragte</seg>, etwas unsicher über den Erfolg seiner Bitte,</seg> <said id="4" mode="indirect" content="speech" level="1">ob er des Vaters Gewehr und Patrontasche für den Nachmittag haben könne, da er auf den Drillplatz gehen müsse.</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="reported" content="speech" level="2" nonfact="yes">Keine <seg id="6" type="intExpr">Rede</seg></said>, wird nichts daraus!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">sagte</seg> <seg id="5 6" type="speaker">Hediger</seg> kurz.</seg> <said id="7" mode="direct" content="speech" level="1">»Und warum denn nicht? Ich werde ja nichts daran verderben!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">fuhr</seg> der <seg id="7 11" type="speaker">Sohn</seg> kleinlaut <seg id="7" type="intExpr">fort</seg></seg> und doch beharrlich, weil er durchaus ein Gewehr haben mußte, wenn er nicht in den Arrest spazieren wollte. <seg id="8" type="frame" pos="start">Allein der <seg id="8 12" type="speaker">Alte</seg> <seg id="8" type="intExpr">versetzte</seg> nur um so lauter</seg> <said id="8" mode="direct" content="speech" level="1">»Wird nichts daraus! <said id="10" mode="reported" content="thought" level="2"><seg id="10" type="speaker">Ich</seg> muß mich nur <seg id="10" type="intExpr">wundern</seg> über die Beharrlichkeit meiner Herren Söhne</said>, die doch in an dern Dingen so unbeharrlich sind, daß keiner von allen bei dem Berufe blieb, den ich ihn nach freier Wahl habe lernen lassen! <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Du</seg> <seg id="9" type="intExpr">weißt</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes">daß deine drei älteren Brüder der Reihe nach, sowie sie zu exerzieren anfangen mußten, das Gewehr haben wollten und daß es keiner bekommen hat!</said> Und doch kommst du nun auch noch angeschlichen! Du hast deinen schönen Verdienst, für niemand zu sorgen – schaff dir deine Waffen an, wie es einem Ehrenmanne geziemt! Dies Gewehr kommt nicht von der Stelle, außer wenn ich es selbst brauche!«</said> 
+                  <said id="11" mode="direct" content="speech" level="1">»Aber es ist ja nur für einige Male! Ich werde doch nicht ein Infanteriegewehr kaufen sollen, da ich nachher doch zu den Scharfschützen gehen und mir einen Stutzer zutun werde!«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Scharfschützen! Auch schön! <said id="13" mode="reported" content="thought" level="2" nonfact="yes">Woher <seg id="13" type="intExpr">erklärst</seg> <seg id="13" type="speaker">du</seg> dir nur die Notwendigkeit, zu den Scharfschützen zu gehen, da du noch nie eine Kugel abgefeuert hast?</said> Zu meiner Zeit mußte einer schon tüchtig Pulver verbrannt haben, <said id="14" mode="reported" content="speech" level="2">eh <seg id="14" type="speaker">er</seg> sich dazu <seg id="14" type="intExpr">melden</seg> durfte</said>; jetzt wird man auf Geratwohl Schütz, und Kerle stecken in dem grünen Rock, welche keine Katze vom Dach schießen, dafür aber freilich Zigarren rauchen und Halbherren sind! Geht mich nichts an!«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Ei«</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">sagte</seg> der <seg id="15" type="speaker">Junge</seg> fast weinerlich,</seg> <said id="15" mode="direct" content="speech" level="1">»so gebt es mir nur dies eine Mal; ich werde morgen für ein anderes sorgen, heut kann ich unmöglich mehr!«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Ich gebe«</said><seg id="16" type="frame" pos="start">, <seg id="16" type="intExpr">versetzte</seg> der <seg id="16" type="speaker">Meister</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»meine Waffe niemand, der nicht damit umgehen kann; wenn du regelrecht das Schloß dieser Flinte abnehmen und auseinanderlegen kannst, so magst du sie nehmen; sonst aber bleibt sie hier!«</said> Und er suchte aus einer Lade einen Schraubenzieher hervor, gab ihn dem Sohn und wies ihm die Flinte an. Der versuchte in der Verzweiflung sein Heil und begann die Schloßschrauben loszumachen.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

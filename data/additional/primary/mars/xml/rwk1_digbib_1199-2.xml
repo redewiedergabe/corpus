@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der arme Spielmann</title>
+             <author>Grillparzer, Franz</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Grillparzer,_Franz_Der_arme_Spielmann.tg1810_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Der arme Spielmann</f>
+         <f name="author">Grillparzer, Franz</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="2" mode="direct" content="speech" level="1">Endlich tat man mich versuchsweise zu einer Rechenbehörde. Rechnen war aber nie meine Stärke gewesen. <said id="1" mode="reported" content="speech" level="2">Den Antrag, ins Militär einzutreten, wies ich mit Abscheu zurück.</said> Ich kann noch jetzt keine Uniform ohne innerlichen Schauder ansehen. – Daß man werte Angehörige allenfalls auch mit Lebensgefahr schützt, ist wohl gut und begreiflich; aber Blutvergießen und Verstümmlung als Stand, als Beschäftigung. Nein! Nein! Nein!«</said> Und dabei fuhr er mit beiden Händen über die Arme, als fühlte er stechend eigene und fremde Wunden. 
+                  <said id="3" mode="direct" content="speech" level="1">»Ich kam nun in die Kanzlei unter die Abschreiber. Da war ich recht an meinem Platze. Ich hatte immer das Schreiben mit Lust 
+getrieben, und noch jetzt weiß ich mir keine angenehmere Unterhaltung, als mit guter Tinte auf gutem Papier Haar- und Schattenstriche aneinander zu fügen zu Worten oder auch nur zu Buchstaben. Musiknoten sind nun gar überaus schön. <said id="4" mode="reported" content="thought" level="2">Damals dachte ich aber noch an keine Musik.</said> 
+                  Ich war fleißig, nur aber zu ängstlich. Ein unrichtiges Unterscheidungszeichen, ein ausgelassenes Wort im Konzepte, <said id="5" mode="reported" content="thought" level="2">wenn es sich auch aus dem Sinne ergänzen ließ</said>, machte mir bittere Stunden. <seg id="6" type="frame" pos="start">Im <seg id="6" type="intExpr">Zweifel</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2">ob ich mich genau ans Original halten oder aus Eigenem beisetzen sollte</said>, verging die Zeit angstvoll, <seg id="7" type="frame" pos="start">und ich kam in den <seg id="7" type="intExpr">Ruf</seg>,</seg> <said id="7" mode="indirect" content="speech thought" level="2">nachlässig zu sein</said>, indes ich mich im Dienst abgequält wie keiner. So brachte ich ein paar Jahre zu, und zwar ohne Gehalt, da, als die Reihe der Beförderung an mich kam, <said id="8" mode="reported" content="speech" level="2">mein Vater im Rate einem andern seine Stimme gab</said> und die übrigen ihm zufielen aus Ehrfurcht. 
+                  Um diese Zeit – Sieh nur«</said><seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">unterbrach</seg> <seg id="3" type="speaker">er</seg> sich,</seg> <said id="3" mode="direct" content="speech" level="1">»es gibt denn doch eine Art Geschichte. <said id="9" mode="reported" content="speech" level="2" nonfact="yes">Erzählen wir die Geschichte!</said> Um diese Zeit ereigneten sich zwei Begebenheiten: die traurigste und die freudigste meines Lebens. Meine Entfernung aus dem väterlichen Hause nämlich und das Wiederkehren zur holden Tonkunst, zu meiner Violine, die mir treu geblieben ist bis auf diesen Tag. 
+                  Ich lebte in dem Hause meines Vaters, unbeachtet von den Hausgenossen, in einem Hinterstübchen, das in den Nachbars-Hof hinausging Anfangs aß ich am Familientische, <said id="10" mode="reported" content="speech" level="2" nonfact="yes">wo niemand ein Wort an mich richtete.</said> Als aber meine Brüder auswärts befördert wurden und mein Vater beinahe täglich zu Gast geladen war die Mutter lebte seit lange nicht mehr – fand man es unbequem, meinetwegen eine eigene Küche zu führen. Die Bedienten erhielten Kostgeld; ich auch, das man mir aber nicht auf die Hand gab, sondern monatweise im Speisehaus bezahlte. Ich war daher wenig in meiner Stube, die Abendstunden ausgenommen; <seg id="11" type="frame" pos="start">denn mein <seg id="11" type="speaker">Vater</seg> <seg id="11" type="intExpr">verlangte</seg>,</seg> <said id="11" mode="indirect" content="speech" level="2">daß ich längstens eine halbe Stunde nach dem Schluß der Kanzlei zu Hause sein sollte.</said> Da saß ich denn, und zwar, meiner schon damals angegriffenen Augen halber, in der Dämmerung ohne Licht. <said id="12" mode="reported" content="thought" level="2">Ich dachte auf das und jenes</said> und war nicht traurig und nicht froh. 
+                  Wenn ich nun so saß, <said id="13" mode="reported" content="speech" level="2" border="yes">hörte ich auf dem Nachbarshofe ein Lied singen.</said> Mehrere Lieder, heißt das, worunter mir aber eines vorzüglich 
+gefiel. Es war so einfach, so rührend und hatte den Nachdruck so auf der rechten Stelle, daß man die Worte gar nicht zu hören brauchte. <seg id="14" type="frame" pos="start">Wie <seg id="14" type="speaker">ich</seg> denn überhaupt <seg id="14" type="intExpr">glaube</seg>,</seg> <said id="14" mode="indirect" content="thought" level="2">die Worte verderben die Musik.</said>«</said> <said id="15" mode="reported" content="speech" level="1">Nun öffnete er den Mund und brachte einige heisere rauhe Töne hervor.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

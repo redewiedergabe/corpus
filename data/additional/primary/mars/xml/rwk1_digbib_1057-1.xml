@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>23. Die Zwerge im Gübichenstein</title>
+             <author>Colshorn, Carl und Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Colshorn,_Carl_und_Theodor_23__Die_Zwerge_im_Guebichenstein.tg29_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">23. Die Zwerge im Gübichenstein</f>
+         <f name="author">Colshorn, Carl und Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Einst gieng der einzige Sohn eines Försters mit mehreren seiner Freunde auf die Jagd; <said id="1" mode="reported" content="speech" level="1">sie kamen auf dieß und das zu sprechen, unter anderem auch auf den Gübichenstein, und daß daselbst schon so mancher sein Leben habe einbüßen müßen.</said> Der Försterssohn, der schon vielerwärts in der Welt gewesen war, glaubte nicht an diese Geschichten und hatte große Lust, auch einmal den Berg zu besteigen. <seg id="4" type="frame" pos="start"><said id="2" mode="reported" content="speech" level="1">Die <seg id="4" type="speaker">Freunde</seg> riethen ihm ab, so viel sie nur konnten</said>, <said id="3" mode="reported" content="speech" level="1">erzählten ihm von manchen Leuten, die ihren Vorwitz hätten mit dem Leben bezahlen müßen</said>, und <seg id="4" type="intExpr">setzten 
+hinzu</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Schone du doch deines jungen Lebens, damit du deinem braven Vater, der alles an dich gewandt hat, in seinem Alter hülfreich zur Seite stehen kannst«</said><seg id="5" type="frame" pos="start">; <seg id="5" type="speaker">er</seg> aber <seg id="5" type="intExpr">antwortete</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Seid unbesorgt; ich kann gut klettern und komme schon wieder herab.«</said> Währenddes kamen sie an den Gübichenstein, und aller Bitten und Vorstellungen ungeachtet erstieg der junge Försterssohn den Berg mit leichter Mühe, und als er oben war<seg id="6" type="frame" pos="start">, <seg id="6" type="intExpr">spottete</seg> <seg id="6" type="speaker">er</seg> seiner Freunde:</seg> <said id="6" mode="direct" content="speech" level="1">»Ihr seid ja so klein wie Vögel und wie Mäuse, und ich bin so groß, so groß!«</said> <said id="7" mode="reported" content="speech" level="1" nonfact="yes">Lange indes spottete er nicht;</said> denn gleich nachher, als er wieder herunterwollte, fand er zu seinem und zu aller Schrecken, daß er wie festgewurzelt war und sich nicht rühren noch regen konnte. Das war ein Jammer! <seg id="8" type="frame" pos="start">Dringend <seg id="8" type="intExpr">bat</seg> <seg id="8" type="speaker">er</seg> seine Freunde:</seg> <said id="8" mode="direct" content="speech" level="1">»Schießt mich herab, damit ich hier nicht verhungere oder nach langer Qual morgen früh zerschmettert unten liege!«</said> <seg id="9" type="frame" pos="start">die <seg id="9" type="speaker">Freunde</seg> konnten sich dazu kein Herz faßen und <seg id="9" type="intExpr">riefen</seg> ihm <seg id="9" type="intExpr">zu</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»Versuch doch alles Mögliche, um wieder loszukommen; dreh dich nach links und nach rechts und nach allen Seiten, so wird es doch gehen!«</said> Er versuchte auch alles; aber seine Kräfte reichten nicht aus und wurden mit jedem Augenblick geringer und waren endlich ganz dahin. Als es Abend wurde, und sie einander nur noch hören, nicht aber mehr sehen konnten<seg id="10" type="frame" pos="start">, <seg id="10" type="intExpr">bat</seg> <seg id="10" type="speaker">er</seg> die Jagdgenoßen:</seg> <said id="10" mode="direct" content="speech" level="1">»Begebt euch nach meinem Hause, <said id="11" mode="reported" content="speech" level="2">theilt meinem armen Vater das Vorgefallene mit</said> und <seg id="12" type="frame" pos="start"><seg id="12" type="intExpr">saget</seg> ihm,</seg> <said id="12" mode="indirect" content="speech" level="2">er habe mir immer nur Liebes und Gutes erwiesen, so möge er denn kommen und mich herunterschießen, sobald der Mond aufgegangen;</said> denn ich habe hier große Angst und viele Schmerzen!«</said> 
+                  Als die Trauerbotschaft an den alten Förster kam, da jammerte er und seufzte und weinte nach seinem einzigen Sohne, <seg id="13" type="frame" pos="start">und <seg id="13" type="speaker">er</seg> <seg id="13" type="intExpr">betete</seg> zu Gott,</seg> <said id="13" mode="indirect" content="speech" level="1">er möge ihn doch nicht so allein in dieser Welt stehen laßen, sondern ihm den geliebten Sohn noch einmal wieder schenken.</said> <seg id="14" type="frame" pos="start">Weil <seg id="14" type="speaker">er</seg> aber <seg id="14" type="intExpr">merkte</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1" border="yes">daß dieß sein Bitten und Wehklagen vergeblich war</said>, nahm er sein Gewehr von der Wand, lud eine neue Kugel hinein und gieng in den Wald, dem Gübichensteine zu. Anfänglich schien der Mond; bald aber erhob 
+sich ein fürchterliches Gewitter; die Blitze fuhren links und rechts in die Eichen, und der Donner brüllte ohne Unterlaß, und je näher der Förster dem Berge kam, um so schauerlicher wurde das Unwetter. Dicht beim Gübichenstein begegnete ihm ein eisgraues Männchen mit einem langen weißen Bart; als das sein Jammern und Klagen hörte, <said id="15" mode="reported" content="speech" level="1">fragte es ihn um die Ursache desselben.</said> <seg id="16" type="frame" pos="start">Der alte <seg id="16" type="speaker">Förster</seg> <seg id="16" type="intExpr">erwiderte</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Was hülfe es, wenn ich dir's sagte!
+</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
