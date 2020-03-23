@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Von Kempelen und seine Entdeckung</title>
+             <author>Poe, Edgar Allan</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Poe,_Edgar_Allan_Von_Kempelen_und_seine_Entdeckung.tg61_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Von Kempelen und seine Entdeckung</f>
+         <f name="author">Poe, Edgar Allan</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sein einer Fuß war mißgestaltet. Sein Wesen ist offen, und seine ganze Art als gutmütig bekannt. Alles zusammengenommen: er ist in seinem Tun und Reden nichts weniger als »ein Misanthrop«. Wir lernten uns vor sechs Jahren kennen, als wir beide eine Woche lang das gleiche Hotel auf »Rhode-Island« bewohnten, <seg id="1" type="frame" pos="start">und <seg id="1" type="speaker">ich</seg> <seg id="1" type="intExpr">glaube</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß ich verschiedentlich <said id="2" mode="reported" content="speech" level="2">mit ihm ins Gespräch kam und etwa im ganzen drei bis vier Stunden mit ihm sprach.</said></said> Sein Thema waren die jeweiligen Tagesereignisse, und <said id="3" mode="reported" content="thought" level="1" nonfact="yes">keine seiner Äußerungen ließ mich seine wissenschaftlichen Kenntnisse vermuten.</said> Er verließ das Hotel früher als ich; er beabsichtigte, nach Neuyork und von da aus nach Bremen zu reisen; in der letzten Stadt war es, wo seine Entdeckung zum erstenmal veröffentlicht wurde – oder vielmehr, <seg id="4" type="frame" pos="start">dort wurde die erste <seg id="4" type="intExpr">Vermutung</seg> <seg id="4" type="intExpr">laut</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1">daß er der Entdecker sei.</said> <said id="5" mode="reported" content="thought" level="1" border="yes">Dies ist so ziemlich alles, was ich persönlich von dem nun unsterblichen Kempelen weiß</said>; <seg id="6" type="frame" pos="start">aber <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">dachte</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">selbst diese wenigen Einzelheiten könnten für die Allgemeinheit von Interesse sein.</said> 
+                  Es steht ganz außer Frage, daß die meisten wundersamen Gerüchte, die über diese Sache umlaufen, bare Erfindungen sind, <said id="7" mode="reported" content="thought" level="1">die ebensoviel Glauben verdienen wie etwa die Erzählungen von Aladdin und der Wunderlampe</said>; und doch ist in solchem Falle, wie auch bei der Entdeckung Kaliforniens als Goldland, die Wahrheit oft wundersamer als die Dichtung. Die folgende Anekdote jedenfalls ist so gut verbürgt, daß <said id="8" mode="reported" content="thought" level="1" nonfact="yes">wir sie unbedenklich hinnehmen können.</said> 
+                  Von Kempelen hatte sich während seines Aufenthalts in Bremen in keineswegs sehr günstigen Verhältnissen befunden, und <seg id="9" type="frame" pos="start">es war <seg id="9" type="intExpr">bekannt</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">daß er häufig zu wahren Winkelzügen Zuflucht nehmen mußte</said>, um selbst geringe Summen aufzutreiben. Als die Falschmünzerei im Hause Gutsmuth &amp; Co. aufgedeckt wurde, lenkte sich <said id="10" mode="reported" content="thought" level="1">der Verdacht gegen Kempelen</said>, weil er eine größere Besitzung in der Gasperitchstraße gekauft und <said id="11" mode="reported" content="speech" level="1">auf Befragen</said> <said id="12" mode="reported" content="speech" level="1" nonfact="yes">die Auskunft darüber verweigert hatte, woher die Kaufsumme stammte.</said> Er wurde schließlich arretiert, weil jedoch nichts Bestimmtes gegen ihn vorgebracht werden konnte, zuletzt wieder in Freiheit gesetzt. Die Polizei behielt aber auf all sein Tun und Lassen ein scharfes Auge und entdeckte so, daß er oft ausging und immer denselben Weg einschlug; doch gelang es ihm stets, in der Nähe jenes Labyrinths von Gassen und Durchgängen, das den Spitznamen »Dondergat« führt, seinen Verfolgern zu entwischen. Ihre Ausdauer erreichte es aber endlich doch, seine Spur bis auf den Bodenraum eines alten siebenstöckigen Hauses in einer Allee mit Namen Flätplatz zu verfolgen <said id="13" mode="reported" content="speech" level="1">und ihn, wie sie meinten, mitten in seinem Falschmünzer-Handwerk zu überraschen.</said> Seine Aufregung soll so groß gewesen sein, daß die <said id="14" mode="reported" content="speech" level="1">Beamten von seiner Schuld ganz überzeugt waren.</said> Sie legten ihm daher Handfesseln an und durchsuchten das Zimmer, denn allem Anschein nach bewohnte er die gesamten Mansardenräume. 
+                  Anstoßend an die Bodenkammer, in der sie ihn fingen, befand sich ein Gelaß von zehn zu acht Fuß und in ihm ein chemischer Apparat, dessen Zweck noch nicht ermittelt werden konnte. In einer Ecke des Raums stand ein kleiner Schmelzofen, der in Glut war, und auf der Glut eine Art doppelten Schmelztiegels – zwei durch eine Röhre verbundene Schmelztiegel. Der eine dieser Tiegel war fast ganz mit geschmolzenem Blei gefüllt, doch reichte die Masse nicht bis an die Röhre hinauf, die hoch am Rande angebracht war.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Frau ohne Schatten</title>
+             <author>Hofmannsthal, Hugo von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hofmannsthal,_Hugo_von_Die_Frau_ohne_Schatten.tg364_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Frau ohne Schatten</f>
+         <f name="author">Hofmannsthal, Hugo von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="reported" content="speech" level="1">Deutlich hörte er in diesem Augenblick die letzten von den Worten, die schon öfters wiedergekehrt waren.</said> <seg id="2" type="frame" pos="start">Sie <seg id="2" type="intExpr">hießen</seg>:</seg> 
+                     <said id="2" mode="direct" content="speech" level="1">Was fruchtet dies, wir werden nicht geboren!</said> 
+                     <said id="3" mode="reported" content="thought" level="1">Er hatte keine Zeit, über den Sinn dieser Worte nachzudenken.</said> Er war über die Schwelle getreten und die Türflügel schnappten hinter ihm leise wieder zu. Er stand in einem geräumigen Saal, dessen Wände, wie ihm schien, aus nichts anderem als dem geglätteten Gestein des Berges bestanden. In der Mitte des Raumes war ein Tisch gedeckt, für je einen Gast an jedem Ende. Zu jeder Seite des Tisches brannten mit sanftem feierlichem Licht sechs hohe Lampen. Nirgend war an den Wänden ein Gerät; trotzdem atmete das Ganze eine seltsam altertümliche Pracht, die dem Kaiser die Brust beengte. Ein Knabe ging zwischen dem Tisch und dem dunklen, der Tür entgegen gelegenen Teil des Saales ab und zu. <said id="4" mode="freeIndirect" content="thought" level="1">Es mußte dieser sein, der gesungen hatte.</said> Er brachte Schüsseln, die aus purem Gold schienen, und langhalsige, mit Edelsteinen besetzte Krüge und ordnete sie auf die Tafel. Manche Schüssel mit ihrem Deckel war so schwer, daß er sie nicht auf den Händen, sondern auf dem Kopf trug, aber er ging unter der Last wie ein junges Reh. Der Knabe kam aus dem Dunkel gegen das Licht, er sah den Kaiser in der Tür stehen und schien nicht überrascht. Er drückte die Hände über der Brust zusammen und verneigte sich. <seg id="5" type="frame" pos="start">Von rückwärts <seg id="5" type="intExpr">rief</seg> eine <seg id="5" type="speaker">Stimme</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Es ist an dem!«</said> Doch war dieser Teil des Saales im Halbdunkel und erst später gewahrte der Kaiser, daß sich dort eine Tür befand, völlig gleich der in seinem Rücken, durch die er eingetreten war, und ihr genau entgegenstehend. <said id="6" mode="reported" content="speech" level="1">Der laute Ruf verhallte nach allen Seiten</said> und offenbarte die Größe des Gemachs. <said id="7" mode="reported" content="speech" level="1" nonfact="yes">Der Knabe neigte sich vor dem Kaiser bis gegen die Erde und sprach kein Wort.</said> Aber er wies mit einer ehrfurchtsvollen Gebärde auf den einen Sitz am oberen Ende der Tafel. Obwohl alle zwölf Lampen, welche die beiden langen Seiten des Tisches begleiteten, anscheinend mit gleicher Stärke brannten, mußte doch das Licht, das denen am oberen Teil entströmte, von der stärkeren Beschaffenheit sein und umgab diesen Platz und die Prunkgeräte, die dort angerichtet waren, mit strahlender Helle, die Mitte des Tisches war noch sanft und rein erleuchtet und das untere Ende lag in einer bräunlichen Dämmerung. Der Knabe sah mit Aufmerksamkeit auf den Kaiser hin, <said id="8" mode="reported" content="speech" level="1" nonfact="yes">aber sein Mund blieb fest zu.</said> <seg id="9" type="frame" pos="start">Es dauerte einen Augenblick, bis <seg id="9" type="intExpr">sich</seg> der <seg id="9" type="speaker">Kaiser</seg> <seg id="9" type="intExpr">besann</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">daß es in jedem Fall an ihm wäre, <said id="10" mode="reported" content="speech" level="2">die ersten Worte zu sprechen.</said></said> <said id="11" mode="direct" content="speech" level="1">»Was ist das?«</said> <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">fragte</seg> <seg id="11" type="speaker">er</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»du richtest hier eine solche Mahlzeit an für einen, der zufällig des Weges kommt?«</said> Die festverschlossenen Lippen des schönen Knaben lösten sich; er schien verlegen und trat hinter sich und sah sich um. Aber der Kaiser achtete schon nicht mehr auf ihn; denn drei Gestalten, die er nicht genug ansehen konnte, waren irgendwo seitwärts aus der Mauer herausgetreten. Die mittlere war ein schönes junges Mädchen, sie glitt mehr als sie ging auf den Kaiser zu, zwei Knaben liefen neben ihr und konnten ihr kaum nachkommen, sie glichen dem Tafeldecker an Schönheit, aber sie waren kleiner und kindhafter als dieser.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

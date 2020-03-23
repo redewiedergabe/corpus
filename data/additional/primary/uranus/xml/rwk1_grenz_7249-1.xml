@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vor dem zweiten Zollparlament</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341809_120686.txt_50.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Vor dem zweiten Zollparlament</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="reported" content="speech writing" level="1">Bei der <seg id="1" type="intExpr">Vereinbarung</seg>, welche im Leben unseres Volkes sieben
+                        Millionen mit dreißig Millionen schließen sollen</said>, gewinnen ohne Zweifel
+                        beide Theile, da mit vereinten Kräften in Rath und That mehr auszurichten ist, als mit getrennten und im Gegensatz befindlichen.
+            <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Wir</seg> <seg id="2" type="intExpr">rechnen</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">daß die zweite Sitzungsperiode des Zollparlaments viel
+                        unbefangener, leidenschaftsloser, auf die praktischen Aufgaben des Zollvereins
+                        bedacht verlaufen werde.</said> <said id="3" mode="reported" content="thought" level="1" nonfact="yes">Keineswegs soll das wiederversammelte <seg id="3" type="speaker">Zollparlament</seg> darauf <seg id="3" type="intExpr">ausgehen</seg>, seine Competenz zu erweitern.</said> Freilich vermögen die
+                        Zölle, welche. aus dem Zusammenhange mit dem Steuerwesen und dem
+                        Staatshaushalt der verbündeten Länder gerückt sind, <said id="4" mode="reported" content="thought" level="1">selbst bei größtem <seg id="4" type="intExpr">Vertrauen</seg> in die zusammenwirkenden Regierungen</said> nicht leicht die richtige Würdigung und Veranschlagung zu finden. Das nationale Feld der politischen
+                        Oekonomie kann erst durch das Vollparlament zu einem organischen Ganzen gemacht und zu einem geschlossenen System erhoben werden. Erst ein
+                        Vollparlament kann in Gemeinschaft mit einer Centralbundesbehörde das
+                        ganze Wirthschaftsgebiet der Nation übersehen, zweckmäßig eintheilen und
+                        gleichmäßig pflegen.
+            <seg id="5" type="frame" pos="start">Nach den Erfahrungen der letzten Wochen <seg id="5" type="intExpr">wissen</seg> <seg id="5" type="speaker">wir</seg> nicht,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">ob die preußischen
+                        Minister nicht vielleicht auch den Süddeutschen eine Klage über die zerrütteten
+                        Finanzverhältnisse Preußens zustellen werden</said> und die freundnachbarliche Zumuthung, daß auch sie dazu helfen mögen, den preußischen Staatshaushalt aus
+                        seiner neuentdeckten üblen Finanzlage zu befreien. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Wir</seg> möchten die Süddeutschen
+                        aber im voraus <seg id="6" type="intExpr">bedeuten</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß wir solche Hülfe von ihnen gar nicht begehren.</said>
+            Wie ein Hagelwetter über die grünende Flur zogen <said id="7" mode="reported" content="speech" level="1">die <seg id="7" type="intExpr">Verhandlungen</seg>
+                        um die Finanzvorlagen</said> über unseren Reichstag. Die Stimmung, welche durch
+                        <said id="8" mode="reported" content="writing" level="1">die <seg id="8" type="intExpr">Denkschrift</seg> des <seg id="8" type="speaker">Finanzministers</seg></said> und <said id="9" mode="reported" content="speech" level="1">die <seg id="9" type="intExpr">Debatten</seg> zweier Tage</said> hervorgerufen ist. steht außer allem Verhältniß zu der Bedeutung des Deficits, um
+                        dessen Deckung es sich handelt. Seit dem Frühjahr 1866 hat die preußische
+                        Regierung in ihren Vertretern keine so große Niederlage erlitten, als
+                        in den wenigen verhängnißvollen Stunden, in denen Graf Bismarck und
+                        v. d. Heydt sich vergebens bemühten, gegenüber <said id="10" mode="reported" content="speech" level="1">den <seg id="10" type="intExpr">Erklärungen</seg> der Abgeordneten <seg id="10" type="speaker">Laster</seg> und <seg id="10" type="speaker">v. Bennigsen</seg></said> aus der üblen Lage herauszukommen,
+                        in welche sie sich selbst versetzt hatten. Wie der einzelne Mensch Augenblicke
+                        hat, in denen seine Schwächen und Fehler, sonst klug verhüllt, so zu Tage
+                        kommen, daß sie seine Umgebung erschrecken, <seg id="11" type="frame" pos="start">so hat das preußische <seg id="11" type="speaker">Ministerium</seg> mit unbegreiflicher Kurzsichtigkeit vor dem Reichstage und der Welt eine
+                        Blöße so <seg id="11" type="intExpr">enthüllt</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">daß der peinliche Eindruck nur schwer überwunden werden
+                        wird.</said>
+            
+            <seg id="12" type="frame" pos="start">Schon der <seg id="12" type="intExpr">Ausspruch</seg> des <seg id="12" type="speaker">Grafen Bismarck</seg> vor Pfingsten,</seg> <said id="12" mode="indirect" content="speech" level="1">er werde
+                        Geld nehmen, wo er es finde</said>, brachte eine störende Dissonanz. Ihm wenigstens kommt jetzt bei nicht gehörig erwogenen Aeußerungen zu gute, daß
+                        die Nation unter dem Eindruck steht, ihm großen Dank schuldig zu sein.
+                        Wie aber war möglich, daß er als Reichskanzler darein willigen konnte, die
+                        flüchtige, auf eine Wirkung für Kinder berechnete Klageschrift über die Zer-
+                        rüttung der preußischen Finanzen dem deutschen Reichstag zu übergeben?
+                        Vor den Bundesgenossen, die man vor zwei Jahren durch das Schwert und
+                        die Gewalt der Thatsachen in den Nordbund zusammengebunden hat, denen
+                        man dictatorisch die Matricularbeiträge auflegte — was damals ganz in
+                        der Ordnung war — <seg id="13" type="frame" pos="start">vor diesen jetzt offen <seg id="13" type="intExpr">auszusprechen</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">daß Preußen selbst
+                        bei dem Stande seiner Besteuerung nicht mehr in der Lage sei, seinen Bundespflichten nachzukommen!</said> Was von Braunschweig und Oldenburg gefordert
+                        wird, was Mecklenburg leistet, was das Königreich Sachsen mit Leichtigkeit
+                        erträgt, dies wird jetzt den Sachsen, Mecklenburgern, Braunschweigern und
+                        Oldenburgern als eine für den preußischen Staatshaushalt zur Zeit unerträgliche Last denuncirt.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt44_1868_6.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               
+                  Lose Blätter.
+                        
+            
+            
+            
+               <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">F ranzösische Journalisten</seg> <seg id="1" type="intExpr">behaupten</seg> allen Ernstes,</seg> <said id="1" mode="indirect" content="speech" level="1">daß das Zündnadelgewehr eine französische Erfindung sei</said> und<said id="2" mode="reported" content="speech" level="1"> erzählen, um diese Anmaßung glaubwürdig zu machen, folgende Geschichte</said>:
+                         
+            <seg id="3" type="frame" pos="start">Jm Jahre 1813 <seg id="3" type="intExpr">hörte</seg> der <seg id="3" type="speaker">Herzog von Rovigo</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1" border="yes">daß ein Pariser
+                        Waffenhändler ein neues Gewehr erfunden habe, welches, ohne Stein
+                        oder Zündhütchen, in der Minute acht bis zehn Schüsse abzugeben
+                        im Stande sei.</said> Er ließ den Verfertiger kommen, untersuchte die Waffe
+                        und schickte sie dann an den Kaiser Napoleon <seg id="4" type="frame" pos="start">mit einem <seg id="4" type="intExpr">Briefe</seg>,</seg> <said id="4" mode="indirect" content="writing" level="1">in welchem
+                        <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">versichert</seg>,</seg> <said id="5" mode="indirect" content="writing" level="2">daß in seiner Gegenwart das Gewehr zweiundzwanzig Schüsse
+                        in zwei Minuten abgegeben</said>, daß die Herstellungskosten nicht höher wären,
+                        das Gewicht dagegen um ein Viertel geringer, als das der damals gebräuchlichen Flinten, und daß die Patrone sogar nur 2 / 5 von dem Gewicht
+                        der gewöhnlichen Patrone besitze.</said> <seg id="6" type="frame" pos="start">Der <seg id="6" type="speaker">Kaiser</seg> <seg id="6" type="intExpr">schrieb</seg> unter <said id="7" mode="reported" content="writing" level="1">den Schluß
+                        des Briefes folgende Anmerkung</said>:</seg>
+                         
+            <said id="6" mode="direct" content="speech" level="1">„Dem Herzog von Friaul anbefohlen, den Erfinder kommen zu lassen,
+                        die Büchse von einem Comit é der Garde=Artillerie=Offiziere zu prüfen und
+                        <said id="8" mode="reported" content="writing" level="2" nonfact="yes">darüber Bericht zu erstatten!</said>“</said>
+                         
+            Der Befehl wurde ausgeführt; der Bericht in so günstigem Sinne
+                        erstattet, daß <said id="9" mode="reported" content="speech" level="1">der Kaiser sofort dem Pauly 10,000 Francs auszahlen ließ.</said>
+            <said id="10" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Jn der nun folgenden ereignißreichen Zeit wurde die Büchse, wie ihr
+                        Erfinder, vergessen</said>, und erst im verflossenen Monat, nachdem man den
+                        Brief des Herzogs an's Licht gezogen, suchte man im Artillerie=Museum
+                        nach und fand dort das Gewehr Pauly's, welches genau dem preußischen Zündnadelgewehr entspricht.
+                        
+             
+            <seg id="11" type="frame" pos="start">Nach dieser vollständig verbürgten Geschichte sollte <seg id="11" type="speaker">man</seg> in der That
+                        <seg id="11" type="intExpr">glauben</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes">daß das Zündnadelgewehr eine französische Erfindung sei</said>, wenn
+                        nicht ebenso bestimmt nachgewiesen werden könnte, daß einer von Pauly's
+                        Arbeitern ein Deutscher mit Namen -- Nicolaus Dreyse gewesen.
+            
+               M. E in Bierhaus aus Berlins Vergangenheit. Als die Umgebung
+                        der Louisen= ( damals Sebastians= ) Kirche größtentheils noch aus Gärten
+                        bestand, erblühte Anno 1713 in einem derselben eine <said id="12" mode="indirect" content="writing" level="1">„sonderliche weiße
+                        Lilie, deren einer Stamm eine weiße, deren anderer aber rothe Blumen
+                        trug.“</said> Dies merkwürdige Naturerzeugniß wurde der Königin Sophie Louise
+                        zum Geschenk überreicht, welche als Gegengeschenk dem Besitzer des Gartens
+                        das Privilegium ertheilte, <said id="13" mode="indirect" content="writing" level="1">„allerhand fremde Biere ausschänken zu dürfen.“</said>
+                        Das Haus aber ward „Zur weißen Wunderlilie“ genannt, und hat sich
+                        seitdem als Lokal erhalten, nur daß der Berliner Volkswitz ihm einen
+                        weniger idyllischen Namen beigelegt hat.
+            
+            
+            ☞ <said id="14" mode="reported" content="speech" level="1">Die Besprechung von Angelegenheiten</said>, welche die Redaction betreffen, kann täglich von 1 bis 3 Uhr im Redactions=Büreau,
+                        Potsdamer Straße Nr. 20, stattfinden. Alle Zusendungen werden erbeten unter der Adresse: „An die Redaction des Sonntags=Blattes in
+                        Berlin, Potsdamer Straße Nr. 20.“
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

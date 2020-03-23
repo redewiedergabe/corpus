@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Begleiter</title>
+             <author>Heiseler, Henry von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyking,_Elisabeth_von_Ueber_einen_Hund_und_die_Monroe_Doktrin.tg76_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Begleiter</f>
+         <f name="author">Heiseler, Henry von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Unbeteiligte</seg>, so zum Beispiel Shorty von seiner Sofaecke aus, <seg id="1" type="intExpr">sahen</seg> in dem Grafen</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">nur einen von vielen jungen Leuten, die um einen Teetisch saßen und einer jungen Dame den Hof machten.</said> Für die junge Dame selbst war er aber da plötzlich der eine und einzige geworden. Denn jeder Mann findet einmal eine Frau, für die er etwas ganz besonderes ist, so alltäglich er den übrigen Menschen auch erscheinen mag. 
+                  Nachdem die Herren alle gegangen waren, <said id="2" mode="reported" content="thought" level="1">dachte Beatrix lang über die plötzliche Entdeckung nach</said>, denn sie gehörte zu einer Rasse, die immer klar sehen und dann handeln will. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Sie</seg> <seg id="3" type="intExpr">erkannte</seg>,</seg><said id="3" mode="indirect" content="thought" level="1"> daß Wardenskyold die erste Rolle im Stücke ihres Lebens schon seit Monaten spiele,</said> <seg id="4" type="frame" pos="start">und <seg id="4" type="speaker">sie</seg> <seg id="4" type="intExpr">beschloß</seg>,</seg><said id="4" mode="indirect" content="thought" level="1"> ihm diese Rolle dauernd anzuvertrauen,</said><said id="5" mode="reported" content="speech" level="2" nonfact="yes"> falls er sie nämlich 
+ darum bäte.</said> Aber hierin gerade entstand eine unerwartete Schwierigkeit, denn es vergingen mehrere Tage, ohne daß er sich blicken ließ, und Beatrix, die die ganze Angelegenheit mit der einer jungen Amerikanerin würdigen Ruhe und Überlegenheit hatte führen wollen, geriet in einen unvorhergesehenen Zustand des Hangens und Bangens und ward mehr und mehr von den eigenen Gefühlen überwältigt, als sei sie eine simple Europäerin. Für ihre Umgebung war dies unbequem, denn sie wurde nervös und reizbar, aber wie alles Anormale in Mexiko wurde auch dies auf die Höhenlage und dünne Luft geschoben. <said id="6" mode="reported" content="speech" level="1" border="yes">Shorty aber hatte völliges Verständnis für seiner Herrin schlechte Laune</said>, denn er selbst befand sich überhaupt nie mehr in einer andren. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Er</seg> war besonders <seg id="7" type="intExpr">froh</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">daß sie sich vor Besuchern verleugnen ließ, da ihm die ausländischen Teetischjünglinge in der Seele zuwider waren.</said> <said id="8" mode="freeIndirect" content="thought" level="1">Nun würde man doch endlich Ruhe haben.</said> 
+                  Da an einem Nachmittag, als Beatrix mit verschränkten Armen neben Shorty auf dem Sofa saß und mißmutig mit den spitzen Pantöffelchen auf den Boden schlug,<said id="9" mode="reported" content="speech" level="1" nonfact="yes"> ließ sich Graf Wardenskyold melden.</said> Sie wollte in die Höhe schnellen, zwang sich aber zu ruhigem Sitzenbleiben<said id="10" mode="indirect" content="thought" level="1"> und empfing ihren Gast mit einer</said><seg id="10" type="frame" pos="mid">, wie <seg id="10" type="speaker">sie</seg> <seg id="10" type="intExpr">glaubte</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">täuschend gespielten eisigen Gleichgültigkeit.</said> 
+                  
+                     
+<said id="11" mode="direct" content="speech" level="1" nonfact="yes">»Guten Tag, Graf, bitte, setzen Sie sich«</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">sie</seg> herablassend</seg>, wies aber doch auf den Sofaplatz neben sich. <seg id="12" type="frame" pos="start">Der <seg id="12" type="speaker">Schwede</seg>, der nicht recht <seg id="12" type="intExpr">wußte</seg></seg>, <said id="12" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was er von dem Empfang denken sollte</said>, schien die Anwesenheit Shortys auf dem Sofa gänzlich zu übersehen und wollte sich eben niederlassen, als von der Decke ein böses Knurren erklang, der Hund sich aufrichtete und die Zähne nach ihm fletschte. Es ging aber doch auch wirklich über alle Hundegeduld, <seg id="13" type="frame" pos="start">daß solch ein <seg id="13" type="speaker">Fremder</seg> gar nicht <seg id="13" type="intExpr">behalten</seg> konnte,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">daß diese Sofaecke sein unantastbares Reich sei!</said> Beatrix und der Graf konnten nun beide nicht ernst bleiben bei dem wütenden Ausdruck, mit dem Shorty dastand und den Eindringling anglotzte. 
+                 <said id="15" mode="direct" content="speech" level="1"> »Ihr Hund,«</said><seg id="15" type="frame" pos="mid"> <seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">Wardenskyold</seg> lachend,</seg> <said id="15" mode="direct" content="speech" level="1">»verteidigt diese Decke, als würde mit ihr die Monroe-Doktrin selbst gefährdet. Aber wir wollen ihn nicht stören. Wie wäre es, Miß Beatrix, wenn wir ein bißchen in den Garten gingen? Es ist draußen so schön.«</said> 
+                  Und sie gingen hinaus in den Garten, wo der Abendwind leise in den Eukalyptusbäumen säuselte und aus den großen weißen Glockenblüten der Florifundio süßer, betäubender Duft aufstieg. Shorty aber dehnte sich selbstzufrieden auf der Decke aus im stolzen Gefühl, das Feld behauptet zu haben.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

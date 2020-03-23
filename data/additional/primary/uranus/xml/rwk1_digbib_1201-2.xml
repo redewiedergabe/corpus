@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vom Gastfreien Pastor</title>
+             <author>Hartleben, Otto Erich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hartleben,_Otto_Erich_Vom_Gastfreien_Pastor.tg261_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Vom Gastfreien Pastor</f>
+         <f name="author">Hartleben, Otto Erich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+– – 
+                    <said id="1" mode="direct" content="speech" level="1"> Mit mir ist Adolf böse. Und im Grunde kann ich es ihm nicht verdenken. Ich war nämlich, solange die Welt steht, der erste Referendar, der nach Stolberg kam und ihm keinen Besuch machte. Das heißt, Pardon: Besuch ... es handelte sich eben nicht um einen Besuch, sondern 
+um eine Audienz, <said id="2" mode="reported" content="writing" level="2">um die man schriftlich einkommen mußte.</said> <said id="3" mode="reported" content="speech writing" level="2" nonfact="yes">Man wurde dann auf eine bestimmte Stunde befohlen</said>, und nachdem man diese bestimmte Stunde lang im Frack gewartet hatte, <seg id="4" type="frame" pos="start">wurde einem durch eine gelb-schwarze Hofschranze <seg id="4" type="intExpr">mitgeteilt</seg>,</seg> <said id="4" mode="indirect" content="speech" level="2">daß Illustrissimus von den heutigen Audienzen schon zu ermüdet sei und.. nun ja: man möchte ein andermal wiederkommen.</said> 
+                     Solche Vergnügungen haben für mich nun immer verflucht wenig Reiz gehabt, und ich verzichtete daher leichten Herzens darauf. <seg id="5" type="frame" pos="start">Die Folge war,</seg> <said id="5" mode="indirect" content="speech" level="2">daß man alsbald bei Hofe von mir als von einem revolutionären Verbrecher sprach</said> <seg id="6" type="frame" pos="start">und die Frage in ernstliche <seg id="6" type="intExpr">Erwägung zog</seg>,</seg> <said id="6" mode="indirect" content="speech thought" level="2">ob man nicht durch eine diplomatische Intervention beim Königlichen Hofe zu Berlin die gestörte Ordnung wiederherstellen, beziehungsweise Genugtuung fordern solle.</said> <said id="7" mode="reported" content="thought" level="2" nonfact="yes" border="yes" prag="yes">Man kam jedoch von diesem Gedanken wieder ab,</said> <seg id="8" type="frame" pos="start">weil <seg id="8" type="speaker">man</seg> sich <seg id="8" type="intExpr">überlegte</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2" border="yes">daß die Hohenzollern doch noch ein zu junges Geschlecht seien, als daß man sich mit ihnen in einen standesgemäßen Konnex setzen könnte.</said> 
+                     <seg id="9" type="frame" pos="start">Statt dessen <seg id="9" type="intExpr">wußte</seg> <seg id="9" type="speaker">man</seg> es durchzusetzen,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes">daß die »guten« Stoiberger Familien mich nach und nach boykottierten,</said> das heißt, auf meinen Besuch hin nicht mehr einluden. <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Wer</seg> mich kennt, wird nun <seg id="10" type="intExpr">denken</seg>,</seg> <said id="10" mode="indirect" content="thought" level="2" border="yes">hierauf hätte ich es eigentlich abgesehen gehabt</said>, <seg id="11" type="frame" pos="start">aber <seg id="11" type="speaker">ich</seg> kann auf Ehrenwort <seg id="11" type="intExpr">versichern</seg>,</seg> <said id="11" mode="indirect" content="speech thought writing" level="2"><said id="12" mode="reported" content="thought" level="3" nonfact="yes">daß ich auf eine solche Wirkung ursprünglich nicht zu hoffen gewagt 
+ hatte</said>, sondern sie später als reine, unverdiente Gnade empfand.</said> 
+                     – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+                    <said id="13" mode="direct" content="speech" level="2"> <said id="14" mode="reported" content="speech" level="2" nonfact="yes">Aber was red ich denn so viel von Stolberg-Stolberg; ich will ja eine Geschichte erzählen, die Geschichte vom gastfreien Pastor.</said></said> 
+                  
+               
+            
+            
+               
+                  
+                     
+                        
+II
+                     Der einzige Freund, den ich in Stolberg zurückgelassen habe und mit dem ich jetzt noch hin und wieder<said id="15" mode="reported" content="writing" level="2"> fröhliche Karten wechsele</said>, ist merkwürdigerweise der Hotelbesitzer und Weinhändler Eberhard. Bei ihm, in dem alten Gastzimmer, fand ich bald die Gemütlichkeit, um die mich die »Gesellschaft« Stolbergs durch Verschließung ihrer »Häuslichkeit« zu bringen den Versuch am untauglichen Objekte gemacht hatte. 
+                     Es war etwas Besonderes, dieses alte Gastzimmer. Es hatte seine verborgenen Tiefen und gefährlichen Heimlichkeiten wie ein Buch von Friedrich Nietzsche. Da ging es plötzlich ein paar Stufen in die Höhe, dann wieder unvermutet um die Ecke, und auf einmal stand man staunend vor einem niedrigen, breiten Block oder Kasten, der in seiner geheimnisvollen Einfachheit <said id="16" mode="reported" content="thought" level="2">alles begriffsmäßige Denken</said> zu suspendieren drohte. Man atmete erleichtert auf, wenn einem Eberhard nach Aufheben eines ungeheuren Deckels den Einblick in ein friedliches Lager von Rotspohn und Zigarren gewährte. 
+                     Den Mittelpunkt dieses alten romantischen Raumes bildete natürlich der Stammtisch der Honoratioren von Stolberg. Dieser Stammtisch, an dem sich die Hausväter der »guten« Familien kaum sehen ließen, bildete gewissermaßen den Hort der geistigen Opposition gegen das 
+regierende Grafenhaus. Da residierte und räsonnierte der alte Oberstabsarzt mit dem riesigen Rittmeisterschnauzbart <said id="17" mode="reported" content="speech" level="2" nonfact="yes">und gab mit seinem blutigen Witze, dem außer dem Weberschen Demokritos nichts heilig war, den Ton an.</said> Dann war da der Amtsanwalt, <said id="18" mode="reported" content="thought" level="2">der sich seine Weltanschauung aus Johannes Scherr gebildet hatte</said>, dabei aber äußerlich ein korrekter, förmlicher Beamter geblieben war, der immer recht hatte.
+
+</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

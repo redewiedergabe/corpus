@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Agave</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Agave.tg126_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Agave</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">4</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">vertilgen!«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Doch erst, wenn ganz Florenz es gesehen haben wird, nicht wahr, Freunde?«</said><seg id="2" type="frame" pos="end"> <seg id="2" type="intExpr">rief</seg> <seg id="2 3" type="speaker">Filippo</seg>.</seg> <said id="3" mode="direct" content="speech" level="1">»Greift nur in euer Herz, meine geliebten, schadenfrohen, in Zorn und Tränen noch lachenden Florentiner, das größte Aufsehen wird nicht eures jüngsten Meisters erstes, nicht sein zweites, sein drittes Bild wird es erregen!«</said> 
+                     Masaccio hatte die Arme verschränkt. Finster und gequält haftete sein Blick auf diesem dritten, den Menschen abstoßenden, den <seg id="10" type="speaker">Meister</seg> zur Bewunderung zwingenden Bilde. 
+                     <said id="4" mode="direct" content="speech" level="1">»Das Werk des Hasses!«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sprach</seg> <seg id="4 5 6" type="speaker">er</seg> langsam mit laut tönender Stimme.</seg> <said id="5" mode="direct" content="speech" level="1">»Des Hasses, der einst Liebe war; ihr Kind und ihr Widerspiel. Da ist das heilige Licht der Schönheit in diesem Weibe bis auf den letzten Schimmer ausgetilgt ... Nicht mehr schön!...«</said> Es klang wie Trauern um ein Gestorbenes. <said id="6" mode="direct" content="speech" level="1">»Und doch unverkennbar sie!... Alles dahin, was sie reizvoll machte und begehrenswert, verwelkt die Blühende, entadelt die Königliche. Ins Gemeine heruntergezerrt, was wir angebetet haben ... Dein größtes Kunststück, Maler! Deine schnödeste Rache, verschmähter Liebhaber! Nichts lässest du uns übrig für die Gesunkene, nicht einmal den Bettelpfennig des Mitleids. <said id="7" mode="reported" content="thought" level="2" border="yes"><seg id="7" type="speaker">Sie</seg> <seg id="7" type="intExpr">weiß</seg> es.</said> Kein süßer Wahn umschmeichelt sie, Bitterkeit und Verzweiflung sind des Triumphliedes Ende. Sie hat ihrem Köcher den letzten Pfeil entnommen – er ist stumpf. Der letzten Enttäuschung wird sie ihn nachsenden ins Leere. Mit entnervtem Arm spannt sie den Bogen ... Du Schrecklicher! Hier hast du die Schönheit gemordet, die Liebe.«</said> 
+                     Antonio hatte <said id="10" mode="reported" content="speech" level="1">jeden <seg id="10" type="intExpr">Laut</seg>, <seg id="10" type="intExpr">Lob</seg> und <seg id="10" type="intExpr">Vorwurf</seg></said>, dürstend eingesogen. Ein Echo dessen, was er in sein Werk hineingelegt, <said id="8" mode="reported" content="speech" level="1">tönten ihm die <seg id="8" type="intExpr">Worte</seg> des <seg id="8" type="speaker">Meisters</seg> entgegen.</said> <said id="9" mode="reported" content="thought" level="1">Alles Gute, alles Böse war von <seg id="9" type="speaker">dem</seg> <seg id="9" type="intExpr">verstanden</seg></said> und nachgefühlt worden. <said id="11" mode="freeIndirect" content="thought" level="1">So wie er <said id="12" mode="reported" content="thought" level="2" nonfact="yes">wird die <seg id="12" type="speaker">Welt</seg> es <seg id="12" type="intExpr">verstehen</seg></said> und nachfühlen, es wird ins Bewußtsein treten, ins Leben!</said> 
+                     Und nun, als wäre <said id="13" mode="reported" content="speech" level="1">die <seg id="13" type="intExpr">Rede</seg> <seg id="13" type="speaker">Masaccios</seg></said> der Halt gewesen, an dem er sich aufgerichtet hatte, stürzte er, da jener schwieg, plötzlich zusammen.
+                    <seg id="14" type="frame" pos="start"> Einige Stunden später war in der Stadt die <seg id="14" type="intExpr">Kunde</seg> verbreitet,</seg> <said id="14" mode="indirect" content="speech" level="1">daß ein junger unbekannter Maler mit seinem Erstlingsbilde die Werke der großen Meister übertroffen habe.</said> <said id="15" mode="indirect freeIndirect" content="speech" level="1">Das Gemälde sei zu Uccello gebracht worden, der ihm in seinem Häuschen eine Stube eingeräumt; dort könne man es sehen.</said> 
+                     <said id="16" mode="freeIndirect" content="thought" level="1">Traurig nur und ewig schade, daß dem Schöpfer der erstaunlichen Arbeit die ruhmreiche Zukunft nicht blühen werde, die ein solcher Beginn verheiße.</said> Er lag sterbend im Kloster der Karmeliter. Jeden Augenblick konnte das Totenglöcklein sein Ende verkündigen. 
+                     Der Zudrang zu dem neuen Wunder der Kunst war ungeheuer. Nicht weniger allgemein aber als die Begeisterung, die es erregte, war <said id="17" mode="reported" content="speech" level="1">der <seg id="17" type="intExpr">Tadel</seg></said>, den es erfuhr. Schnöde entstellen, wie auf dem letzten der Gemälde des Triptychons, hätte Antonio das Schönheitskleinod der Stadt nicht dürfen, die Braut des jungen Montanini. 
+                     <said id="18" mode="reported" content="speech" level="1">Ein verlegenes <seg id="18" type="intExpr">Geflüster</seg> ging von Mund zu Mund, <said id="19" mode="reported" content="thought" level="2" border="yes">als <seg id="19" type="speaker">man</seg> unter den Neugierigen, die in das Haus Uccellos gekommen waren, Bernardino und seine Mutter <seg id="19" type="intExpr">bemerkte</seg>.</said></said> <said id="20" mode="reported" content="speech" level="1">Sie hatten das Bildnis, das, <seg id="20" type="intExpr">Stadtgespräch</seg> geworden</said>, das Hauptinteresse von Florenz auszumachen schien, auch sehen wollen. Nun standen sie davor – Bernardino ganz versteinert, Madonna Isotta wie aufs Haupt geschlagen. Ihre zukünftige Schwiegertochter hatte sich dazu hergegeben, als Diana auf der Männerjagd dargestellt zu werden. <said id="21" mode="freeIndirect" content="thought" level="1">Schrecknis über alle Schrecknisse! <seg id="22" type="frame" pos="start"><seg id="22" type="intExpr">Wußte</seg> <seg id="22" type="speaker">sie</seg> denn nicht,</seg> <said id="22" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß damit jede Verbindung zwischen ihr und dem edlen und frommen Hause, in das sie als Herrin hätte einziehen sollen, abgeschnitten war?</said></said>
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

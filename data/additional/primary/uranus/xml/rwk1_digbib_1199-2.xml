@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der arme Spielmann</title>
+             <author>Grillparzer, Franz</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Grillparzer,_Franz_Der_arme_Spielmann.tg1810_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Der arme Spielmann</f>
+         <f name="author">Grillparzer, Franz</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="indirect" content="speech" level="1">Endlich tat man mich versuchsweise zu einer Rechenbehörde. Rechnen war aber nie meine Stärke gewesen. Den Antrag, ins Militär einzutreten, wies ich mit Abscheu zurück. Ich kann noch jetzt keine Uniform ohne innerlichen Schauder ansehen. – Daß man werte Angehörige allenfalls auch mit Lebensgefahr schützt, ist wohl gut und begreiflich; aber Blutvergießen und Verstümmlung als Stand, als Beschäftigung. Nein! Nein! Nein!«</said> Und dabei fuhr er mit beiden Händen über die Arme, als fühlte er stechend eigene und fremde Wunden. 
+                  <said id="7" mode="direct" content="speech" level="1">»Ich kam nun in die Kanzlei unter die Abschreiber. Da war ich recht an meinem Platze. Ich hatte immer das Schreiben mit Lust 
+getrieben, und noch jetzt weiß ich mir keine angenehmere Unterhaltung, <said id="3" mode="reported" content="writing" level="2">als mit guter Tinte auf gutem Papier Haar- und Schattenstriche aneinander zu fügen zu Worten oder auch nur zu Buchstaben.</said> Musiknoten sind nun gar überaus schön. <said id="4" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Damals dachte ich aber noch an keine Musik.</said> 
+                  Ich war fleißig, nur aber zu ängstlich. Ein unrichtiges Unterscheidungszeichen,<said id="5" mode="reported" content="writing" level="2"> ein ausgelassenes Wort im Konzepte</said>, wenn es sich auch aus dem Sinne ergänzen ließ, machte mir bittere Stunden. Im Zweifel, ob ich mich genau ans Original halten oder aus Eigenem beisetzen sollte, verging die Zeit angstvoll, <said id="6" mode="reported" content="speech" level="2">und ich kam in den Ruf, nachlässig zu sein</said>, indes ich mich im Dienst abgequält wie keiner. So brachte ich ein paar Jahre zu, und zwar ohne Gehalt, da, als die Reihe der Beförderung an mich kam, mein Vater im Rate einem andern seine Stimme gab und die übrigen ihm zufielen aus Ehrfurcht. 
+                  Um diese Zeit – Sieh nur«</said><seg id="7" type="frame" pos="start">, <seg id="7" type="intExpr">unterbrach</seg> <seg id="7" type="speaker">er</seg> sich, </seg><said id="7" mode="direct" content="speech" level="1">»es gibt denn doch eine Art Geschichte. <said id="8" mode="reported" content="speech" level="2">Erzählen wir die Geschichte!</said> Um diese Zeit ereigneten sich zwei Begebenheiten: die traurigste und die freudigste meines Lebens. Meine Entfernung aus dem väterlichen Hause nämlich und das Wiederkehren zur holden Tonkunst, zu meiner Violine, die mir treu geblieben ist bis auf diesen Tag. 
+                  Ich lebte in dem Hause meines Vaters, unbeachtet von den Hausgenossen, in einem Hinterstübchen, das in den Nachbars-Hof hinausging Anfangs aß ich am Familientische, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">wo niemand ein Wort an mich richtete.</said> Als aber meine Brüder auswärts befördert wurden und mein Vater beinahe täglich zu Gast geladen war die Mutter lebte seit lange nicht mehr – fand man es unbequem, meinetwegen eine eigene Küche zu führen. Die Bedienten erhielten Kostgeld; ich auch, das man mir aber nicht auf die Hand gab, sondern monatweise im Speisehaus bezahlte. Ich war daher wenig in meiner Stube, die Abendstunden ausgenommen; denn mein Vater verlangte, daß ich längstens eine halbe Stunde nach dem Schluß der Kanzlei zu Hause sein sollte. Da saß ich denn, und zwar, meiner schon damals angegriffenen Augen halber, in der Dämmerung ohne Licht. <said id="10" mode="reported" content="thought" level="2" border="yes">Ich dachte auf das und jenes</said> und war nicht traurig und nicht froh. 
+                  Wenn ich nun so saß, <said id="11" mode="reported" content="speech" level="2">hörte ich auf dem Nachbarshofe ein Lied singen.</said> Mehrere Lieder, heißt das, worunter mir aber eines vorzüglich 
+gefiel. Es war so einfach, so rührend und hatte den Nachdruck so auf der rechten Stelle, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">daß man die Worte gar nicht zu hören brauchte.</said> <seg id="13" type="frame" pos="start">Wie <seg id="13" type="speaker">ich</seg> denn überhaupt <seg id="13" type="intExpr">glaube</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2" border="yes">die Worte verderben die Musik.</said>«</said> Nun öffnete er den Mund und brachte einige heisere rauhe Töne hervor.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
