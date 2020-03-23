@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Amthaus [1]</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_Das_Amthaus__1_.tg72_1.xml</f>
+         <f name="name">venus</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Das Amthaus [1]</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Und die Freunde, die ins Haus kommen, sind Geschäftsfreunde, und der Tisch ist gedeckt für Geschäftsleute, und am Sonntag fahren die jungen Leute hinaus, statt daß da sonst mein Haus offen war für gute Freunde.<seg id="24" type="frame" pos="start"> <seg id="24" type="speaker">Ich</seg> will nicht <seg id="24" type="intExpr">klagen</seg>,</seg> <said id="24" mode="indirect" content="speech" level="2" nonfact="yes">aber ich bin ein alter Mann und tauge nichts mehr.</said>«</said> – 
+<said id="2" mode="direct" content="speech" level="1">»Wenn Sie vielleicht länger im Besitz des Hauses und im Amt geblieben wären?«</said> – <said id="3" mode="direct" content="speech" level="1">»Ging nicht mehr. Habe zwar im Frieden gehaust mit der Frau Pfarrerin nach meiner Alten Tod und Rikchens Wegzug; <seg id="15" type="frame" pos="start">aber <seg id="15" type="speaker">du</seg> <seg id="15" type="intExpr">weißt</seg> ja,</seg><said id="15" mode="indirect" content="thought" level="2" border="yes"> ich habe lieber vergnügte Gesichter als blanke Taler gesehen und war wohl gar zu sorglos.</said> Da stand ich denn vor meinen Kindern als schlechter Haushalter, und das hat mich daniedergeschlagen für immer. Dann kam der Karl heim mit der neuen Weisheit und der jungen reichen Braut, <seg id="4" type="frame" pos="start">so <seg id="4" type="intExpr">dacht'</seg> <seg id="4" type="speaker">ich</seg>,</seg><said id="4" mode="direct" content="thought" level="2"> ist das beste, du ziehst dich zurück.</said> <seg id="23" type="frame" pos="start">Will nicht <seg id="23" type="intExpr">klagen</seg>,</seg> <said id="23" mode="indirect" content="speech" level="2" nonfact="yes">aber 's ist nicht das alte Leben mehr.</said>« </said>
+                  <said id="6" mode="direct" content="speech" level="1">»Wir haben hier keine bleibende Statt, aber die zukünftige suchen wir,«</said><seg id="6" type="frame" pos="end"> <seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">Wilhelm</seg> mit sanftem Ernst.</seg> – <said id="7" mode="direct" content="speech" level="1">»Hast recht, Junge, und das ist der Fleck, wo ich noch viel zu lernen habe; <seg id="20" type="frame" pos="start">habe darum auch <seg id="20" type="intExpr">verstehen</seg> lernen,</seg><said id="20" mode="indirect" content="thought" level="2" border="yes"> warum der Herr mich alten Storren noch so allein dastehen läßt.</said> Will's Gott, so ist's noch 
+nicht zu spät ... Wie geht's Rikchen; warum kommt sie nicht mit dir?«</said> – <said id="8" mode="direct" content="speech" level="1">»Sie ist gar zu geschäftig, sie findet keine Zeit,«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">Wilhelm</seg> etwas verlegen.</seg> – <said id="9" mode="direct" content="speech" level="1">»Keine Zeit für ihren alten Vater; so ist's seit acht Jahren. <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">Weiß</seg> <seg id="21" type="speaker">Gott</seg>,</seg><said id="21" mode="indirect" content="thought" level="2" nonfact="yes" border="yes" prag="yes"> wo das Mädchen das wuhlige Wesen her hat</said>; meine Alte war doch auch fleißig wie wenige, aber es ward auch andern noch wohl daneben und ihr selbst mit. <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Ich</seg> <seg id="16" type="intExpr">glaube</seg>,</seg><said id="16" mode="indirect" content="thought" level="2" border="yes"> wir haben selbst gar zu viel Wert auf des Mädchens frühe Häuslichkeit gelegt, besonders ich, weil mir die Mine allezeit zu überschwenglich war.</said>«</said> – <said id="10" mode="direct" content="speech" level="1">»Wie geht es Minna?«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">fragte</seg> <seg id="10 17" type="speaker">Wilhelm</seg> fast schüchtern. </seg>– <said id="11" mode="direct" content="speech" level="1">»Ach, <said id="17" mode="reported" content="speech" level="2" nonfact="yes">da <seg id="17" type="intExpr">frag</seg> mich lieber gar nicht!</said> Ich höre meist nur von ihnen, wenn sie in Geldverlegenheiten sind, das ist freilich, leider Gottes, oft genug, daneben wenig Frieden und wenig Liebe. Ja, Wilhelm, dazumal hatte der Alte recht gehabt. Nun, geschehen ist geschehen!« </said>
+                  <said id="12" mode="direct" content="speech" level="1">»Eduard und Emma, die sind mir ein Labsal, <said id="18" mode="reported" content="thought" level="2">so oft <seg id="18" type="speaker">ich</seg> an sie <seg id="18" type="intExpr">denke</seg></said>; der Leichtfuß hat Glück gehabt, daß er ein so liebes Weib gefunden, wenn sie auch nicht viel hat. Da kann man sehen, was es ist um ein Gericht Kraut mit Liebe; das ist ein Haus, in dem die Sonne nicht untergeht.«</said> 
+                  Da kam eben <seg id="13" type="speaker">Karl</seg>, der neue Herr des Gutes, herbei, <said id="13" mode="reported" content="speech" level="1">um den Schwager zu <seg id="13" type="intExpr">begrüßen</seg>.</said> Wilhelm verbrachte den Abend und die Nacht in der alten Heimat so viel fröhlicher Herzen, aber daheim fühlte er sich nicht mehr hier. Die Visitenstube der Frau Schwägerin war so schön aufgeputzt, so ungebraucht und so wenig einladend wie die seiner Frau daheim, nur daß hier ein großer Reichtum von Silbergeschirr zur Schau stand; desto mehr Spuren rücksichtslosen Gebrauchs zeigten die andern Räume. – Er flüchtete sich in die Zimmer des alten Herrn, da stand noch das gute alte zusammengesessene Sofa mit Kattunüberzug und der runde eichene Tisch, der je nach Bedürfnis ins Unendliche verlängert werden konnte; <said id="25" mode="reported" content="thought" level="1"><seg id="25" type="speaker">er</seg> <seg id="25" type="intExpr">dachte</seg> der alten Tage, wo sie in lustigem Pfänderspiel darum gesessen waren</said>, und ein anmutiges Gesichtchen, das ihm einst das lieblichste auf Erden geschienen, blickte wieder zu ihm herüber aus den braunen aufgelösten Locken.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

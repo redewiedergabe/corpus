@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eine Sommerschlacht</title>
+             <author>Liliencron, Detlev von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Liliencron,_Detlev_von_Eine_Sommerschlacht.tg261_1.xml</f>
+         <f name="name">venus</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Eine Sommerschlacht</f>
+         <f name="author">Liliencron, Detlev von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das blitzte, das funkelte! Ein weißes Regiment neben dem andern, vor und hinter einander, zog auf uns zu. Deutlich hörten wir hier, da, dort, rechts, links, fern, nah die Regimentsmusiken. Alle spielten den Radetzkimarsch. 
+                  Wir standen in der äußersten Avantgarde. 
+                  <said id="1" mode="direct" content="speech" level="1">»Hier bleiben wir!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">sagte</seg> der <seg id="1" type="speaker">Hauptmann</seg> zu mir.</seg> <said id="2" mode="direct" content="speech" level="1">»Zu Befehl, Herr Hauptmann,«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">antwortete</seg> <seg id="2" type="speaker">ich</seg> ein wenig hastig.</seg> Er legt mir lächelnd die Hand auf die Schulter. 
+                  Plötzlich, in ausgreifendem Schritt, kommen zwei Pferde auf uns zu, zwischen uns und der Kirchhofsmauer. Der Brigadegeneral, mit einem Schuß durch den Unterleib, liegt in den Armen seines Adjutanten. Die feindlichen Jäger schießen wie toll auf die beiden. Aber sie kommen in unserem Wäldchen an. Der General, bewußtlos, wird weiter rückwärts getragen. <said id="12" mode="freeIndirect" content="thought" level="1">Der kühne, schöne General. Vor einer Viertelstunde noch ein blendender Achill, strotzend vor Mut und Kampflust! und nun ein Häufchen Elend. 
+                  Der Feind kommt! Alle Wetter! Wir stehen ja ganz allein. </said>Schon über eine Stunde halten wir das Wäldchen. Der Hauptmann geht mit einem Hornisten nach rechts, um sich die Lage anzusehen. <seg id="12" type="speaker">Ich</seg> übernehme für den Augenblick das Kommando. Just krabbelts und kribbelts an der uns gegenüberliegenden Mauer herunter, und rechts und links von dieser brechen dicke Kolonnen auf uns ein. Ich ziehe im Laufschritt das Soutien an den Waldrand.<seg id="3" type="frame" pos="start"> Dann <seg id="3" type="intExpr">schrei</seg> <seg id="3 4" type="speaker">ich</seg> mit der Fistel:</seg> 
+                 <said id="3" mode="direct" content="speech" level="1"> »Rechts und links marschiert aus! Marsch! Marsch!«</said> <seg id="4" type="frame" pos="start">Dann, langgezogen:</seg> <said id="4" mode="direct" content="speech" level="1">»Schnellfeuer!«</said> 
+                  Und die Hölle thut sich bei uns auf. Mit wundervollem Mut, mit prächtigem Vorwärts, weit die Offiziere voran, und wenn sie fallen, springen andre vor, so dringts her gegen uns. Aber der Feind kann nichts machen gegen unser Blitzfeuer. Er muß zurück. Verwundete schwanken auf uns zu. 
+                  Da kommt der Hauptmann wieder. Er drückt mir die Hand. Und ein Funkelfeuer wirft sein Auge in mein Herz.<seg id="5" type="frame" pos="start"> <seg id="5" type="speaker">Ich</seg> <seg id="5" type="intExpr">weiß</seg>, </seg><said id="5" mode="indirect" content="thought" level="1" border="yes">was er will</said>: <said id="6" mode="direct" content="speech" level="1">»Auf!«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">schreit</seg> <seg id="6" type="speaker">er</seg></seg>, und vorwärts, glühend er voran, mit Marsch, Marsch auf den Feind. Wir sind an der Mauer. Hinaus! Hinab! Mann gegen Mann. Ein langer österreichischer Jäger hebt mich am Kragen hoch und will mich wie einen Hasen abfangen. Aber: <said id="7" mode="direct" content="speech" level="1">»Ha!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">faucht</seg> es neben mir durch die Nase</seg>, und Cziczan »flutscht« ihm das aufgepflanzte Seitengewehr durch die Rippen. Einen Augenblick schau ich mich um: der alte Sergeant steht neben mir.<said id="8" mode="direct" content="speech" level="1"> »Ha!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">schnaubt</seg> <seg id="8" type="speaker">er</seg> durch die Nase.</seg> Seine Augen rollen. Er ist der Einzige, der auch in diesem Augenblick nicht einen Knopf, nicht den Kragen geöffnet hat. 
+                  Und Stoß auf Stoß und Schlag auf Schlag. Ein feindlicher Offizier zielt zwei Schritte vor mir auf mich mit seinem Revolver. Ich springe mit dem Degenknauf auf ihn zu. Bums! lieg ich. Aber es war nicht gefährlich.<said id="9" mode="direct" content="speech" level="1" border="yes"> »Ha,«</said><seg id="9" type="frame" pos="end"> hör ich Cziczan</seg>, und der Offizier hat von ihm einen Schuß durch die Stirn. Ich bin schon wieder hoch. Meinen Hauptmann erblick ich, von drei, vier Jägern angegriffen. Den einen würgt er, gegen den zweiten, der wütend mit dem Kolben auf ihn einschlägt, hält er den Säbel hoch. <said id="10" mode="direct" content="speech" level="1">»Cziczan, Cziczan,«</said><seg id="10" type="frame" pos="mid"> <seg id="10" type="intExpr">ruf</seg> <seg id="10" type="speaker">ich</seg> heiser,</seg><said id="10" mode="direct" content="speech" level="1"> »Cziczan, Cziczan! Der Hauptmann, der Hauptmann!«</said><said id="11" mode="direct" content="speech" level="1"> »Ha!« </said>und wir springen wie wilde Katzen auf den Raub. Das war hohe Zeit.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
