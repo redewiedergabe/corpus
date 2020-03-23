@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Tod des Junggesellen</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Der_Tod_des_Junggesellen.tg297_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1908</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Tod des Junggesellen</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="1" type="frame" pos="start">Der <seg id="1" type="speaker">Kaufmann</seg> <seg id="1" type="intExpr">las</seg>:</seg> <said id="1" mode="direct" content="writing" level="1" border="yes">»Es waren natürlich sehr verschiedene Arten von Beziehungen. Mit der einen lebte ich beinahe wie in einer Ehe, durch viele Monate. Mit der anderen war es ungefähr das, was man ein tolles Abenteuer zu nennen pflegt. Mit der dritten kam es gar so weit, daß ich mit ihr gemeinsam in den Tod gehen wollte. Die vierte habe ich die Treppe hinunter geworfen, weil sie mich mit einem anderen betrog. Und eine war meine Geliebte nur ein einziges Mal. Atmet Ihr 
+alle zugleich auf, meine Teuern? Tut es nicht. Es war vielleicht die schönste Stunde meines ... und ihres Lebens. So meine Freunde. <said id="2" mode="reported" content="speech" level="2">Mehr habe <seg id="2" type="speaker">ich</seg> Euch nicht zu <seg id="2" type="intExpr">sagen</seg>.</said> Nun falte ich dieses Papier zusammen, lege es in meinen Schreibtisch, und hier mag es warten, bis ich's in einer anderen Laune vernichte, oder bis es Euch übergeben wird in der Stunde, da ich auf meinem Totenbette liege. Lebt wohl.«</said> 
+                  Der <seg id="3" type="speaker">Arzt</seg> nahm dem Kaufmann den Brief aus der Hand, <said id="3" mode="reported" content="writing" level="1" border="yes"><seg id="3" type="intExpr">las</seg> ihn anscheinend aufmerksam vom Anfang bis zum Ende.</said> Dann sah er zum Kaufmann auf, der mit verschränkten Armen dastand und wie höhnisch zu ihm heruntersah. <said id="4" mode="direct" content="speech" level="1">»Wenn Ihre Frau auch im vorigen Jahre gestorben ist,«</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">sagte</seg> der <seg id="4" type="speaker">Arzt</seg> ruhig,</seg> <said id="4" mode="direct" content="speech" level="1">»deswegen bleibt es doch wahr.«</said> Der Dichter ging im Zimmer auf und ab, warf einige Male den Kopf hin und her, wie in einem Krampf, <seg id="5" type="frame" pos="start">plötzlich <seg id="5" type="intExpr">zischte</seg> <seg id="5" type="speaker">er</seg> zwischen den Zähnen hervor</seg> <said id="5" mode="direct" content="speech" level="1">»Kanaille«</said> und blickte dem Worte nach, wie einem Ding, das in der Luft zerfloß. <said id="6" mode="reported" content="thought" level="1"><seg id="6 10 8 9" type="speaker">Er</seg> versuchte sich das Bild des jungen Wesens <seg id="6" type="intExpr">zurückzurufen</seg>, das er einst als Gattin in den Armen gehalten.</said> <said id="10" mode="reported" content="thought" level="1">Andere Frauenbilder <seg id="10" type="intExpr">tauchten</seg> <seg id="10" type="intExpr">auf</seg></said>, <said id="8" mode="reported" content="thought" level="1">oft <seg id="8" type="intExpr">erinnerte</seg></said> und <said id="9" mode="reported" content="thought" level="1">vergessen geglaubte</said>, <said id="11" mode="reported" content="thought" level="1">gerade das <seg id="11" type="intExpr">erwünschte</seg> zwang <seg id="11" type="speaker">er</seg> nicht hervor.</said> Denn seiner Gattin Leib war welk und ohne Duft für ihn, und allzu lange war es her, daß sie aufgehört hatte ihm die Geliebte zu bedeuten. Doch anderes war sie ihm geworden, mehr und edleres: eine Freundin, eine Gefährtin; voll Stolz auf seine Erfolge, voll Mitgefühl für seine Enttäuschungen, voll Einsicht in sein tiefstes Wesen. Es erschien ihm gar nicht unmöglich, daß der alte Junggeselle in seiner Bosheit nichts anderes versucht hatte, als ihm, dem insgeheim beneideten Freunde die Kameradin zu nehmen. Denn all jene anderen Dinge, – was hatten sie im Grunde zu bedeuten? <said id="12" mode="reported" content="thought" level="1"><seg id="12" type="speaker">Er</seg> <seg id="12" type="intExpr">gedachte</seg> gewisser Abenteuer aus vergangener und naher Zeit, die ihm in seinem reichen Künstlerleben nicht erspart geblieben waren, und über die seine Gattin hinweggelächelt oder -geweint hatte.</said> <said id="13" mode="freeIndirect" content="thought" level="1">Wo war dies heute alles hin?</said> So verblaßt, wie jene ferne Stunde, da seine <seg id="14" type="speaker">Gattin</seg> sich in die Arme eines nichtigen Menschen geworfen, <said id="14" mode="reported" content="thought" level="1" nonfact="yes">ohne <seg id="14" type="intExpr">Überlegung</seg></said>, ohne Besinnung vielleicht; so ausgelöscht beinahe, wie die Erinnerung dieser selben Stunde in dem toten Haupt, das da drinnen auf qualvoll zerknülltem Polster ruhte. Ob es nicht sogar Lüge war, <said id="15" mode="reported" content="writing" level="1">was in dem Testament <seg id="15" type="intExpr">geschrieben</seg> stand?</said> Die letzte Rache des armseligen <seg id="15" type="speaker">Alltagsmenschen</seg>, <said id="16" mode="reported" content="thought" level="1" border="yes"><seg id="16" type="speaker">der</seg> sich zu ewigem Vergessen bestimmt <seg id="16" type="intExpr">wußte</seg></said>, an dem erlesenen Mann, über dessen Werke dem Tode keine Macht 
+gegeben war? Das hatte manche Wahrscheinlichkeit für sich. Aber wenn es selbst Wahrheit war, – kleinliche Rache blieb es doch und eine mißglückte in jedem Fall.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

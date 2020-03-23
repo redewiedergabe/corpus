@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Venus im Pelz</title>
+             <author>Sacher-Masoch, Leopold von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sacher-Masoch,_Leopold_von_Venus_im_Pelz.tg5_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Venus im Pelz</f>
+         <f name="author">Sacher-Masoch, Leopold von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Saal hat sich schon bedeutend geleert – <said id="1" mode="reported" content="thought" level="1" nonfact="yes"><seg id="1" type="speaker">sie</seg> aber <seg id="1" type="intExpr">denkt</seg> offenbar noch gar nicht daran, aufzubrechen.</said> 
+                  Schon dringt der Morgen durch die Jalousien. 
+                  Endlich rauscht ihr schweres Gewand, das ihr gleich grünen Wellen nachfließt, <said id="2" mode="reported" content="speech" level="1"><seg id="2" type="speaker">sie</seg> kommt Schritt für Schritt im <seg id="2" type="intExpr">Gespräche</seg> mit ihm.</said> 
+                  
+                     Ich bin für sie kaum mehr auf der Welt, <seg id="3" type="speaker">sie</seg> nimmt sich nicht einmal mehr die Mühe, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">mir einen <seg id="3" type="intExpr">Befehl</seg> zu erteilen.</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Den Mantel für Madame«</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">befiehlt</seg> <seg id="4" type="speaker">er</seg></seg>, <said id="5" mode="reported" content="speech" level="1" nonfact="yes"><seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">denkt</seg> natürlich gar nicht daran, sie zu bedienen.</said> 
+                  Während ich ihr den Pelz umgebe, steht er mit gekreuzten Armen neben ihr. <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Sie</seg> aber stützt, als ich ihr auf meinen Knien liegend die Pelzschuhe anziehe, die Hand leicht auf seine Schulter und <seg id="6" type="intExpr">fragt</seg>:</seg> 
+                  <said id="6" mode="direct" content="speech" level="1">»Wie war das mit der Löwin?«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Wenn der Löwe, den sie gewählt, mit dem sie lebt, von einem anderen angegriffen wird«</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">erzählte</seg> der <seg id="7" type="speaker">Grieche</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»legt sich die Löwin ruhig nieder und sieht dem Kampfe zu, und wenn ihr Gatte unterliegt, sie hilft ihm nicht – sie sieht ihn gleichgültig unter den Klauen des Gegners in seinem Blute enden und folgt dem Sieger, dein Stärkeren, das ist die Natur des Weibes.«</said> 
+                  Meine Löwin sah mich in diesem Augenblicke rasch und seltsam an. 
+                  Mich schauerte es, <said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">weiß</seg> nicht warum</said>, und das rote Frühlicht tauchte mich und sie und ihn in Blut.
+                  Sie ging nicht zu Bette, sondern warf nur ihre Balltoilette ab und löste ihr Haar, <said id="9" mode="reported" content="speech" level="1">dann <seg id="9" type="intExpr">befahl</seg> <seg id="9" type="speaker">sie</seg> mir, Feuer zu machen</said>, und saß beim Kamine und starrte in die Glut. 
+                  <said id="10" mode="direct" content="speech" level="1">»Bedarfst du noch meiner, Herrin?«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">fragte</seg> <seg id="10" type="speaker">ich</seg></seg>, <said id="11" mode="reported" content="speech" level="1">die Stimme versagte <seg id="11" type="speaker">mir</seg> bei dem letzten <seg id="11" type="intExpr">Worte</seg>.</said> 
+                  Wanda schüttelte den Kopf. 
+                  Ich verließ das Gemach, ging durch die Galerie und setzte mich auf die Stufen nieder, welche von derselben in den Garten hinabführen. Vom Arno her wehte ein leichter Nordwind frische feuchte Kühle, die grünen Hügel standen weithin in rosigem Nebel, goldner Duft schwebte um die Stadt, die runde Kuppel des Domes. 
+                  An dem blaßblauen Himmel zitterten noch einzelne Sterne. 
+                  Ich riß meinen Rock auf und preßte die glühende Stirne gegen den Marmor. <said id="14" mode="reported" content="thought" level="1">Alles, was bis jetzt gewesen, <seg id="14" type="intExpr">erschien</seg> <seg id="14" type="speaker">mir</seg> als ein kindisches Spiel</said>; nun aber war es Ernst, furchtbarer Ernst. 
+                  
+                     <said id="12" mode="reported" content="thought" level="1"><seg id="12" type="speaker">Ich</seg> <seg id="12" type="intExpr">ahnte</seg> eine Katastrophe, ich sah sie vor mir</said>, ich konnte sie mit Händen greifen, aber mir fehlte der Mut, ihr zu begegnen, meine Kraft war gebrochen. Und wenn ich ehrlich bin, nicht die Schmerzen, die Leiden, die über mich hereinbrechen konnten, nicht die Mißhandlungen, die mir vielleicht bevorstanden, schreckten mich. 
+                  <said id="13" mode="reported" content="thought" level="1"><seg id="13" type="speaker">Ich</seg> fühle nun eine <seg id="13" type="intExpr">Furcht</seg>, die Furcht, sie, die ich mit einer Art Fanatismus liebte, zu verlieren</said>, diese aber so gewaltig, so zermalmend, daß ich plötzlich wie ein Kind zu schluchzen begann.
+                  Den Tag über blieb sie in ihrem Zimmer eingeschlossen und ließ sich von der Negerin bedienen. Als der Abendstern in dem blauen Äther aufglühte, sah ich sie durch den Garten gehen, und da ich ihr behutsam von weitem folgte, in den Tempel der Venus treten. Ich schlich ihr nach und blickte durch die Ritze der Türe. 
+                  Sie stand vor dem hehren Bilde der Göttin, wie betend die Hände gefaltet, und das heilige Licht des Sternes der Liebe warf seine blauen Strahlen über sie.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

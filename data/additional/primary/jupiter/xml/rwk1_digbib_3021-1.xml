@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Exzentrik</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Exzentrik.tg287_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Exzentrik</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»<said id="2" mode="reported" content="speech" level="2" nonfact="yes">Ich würde an einen Menschen um drei Uhr morgens, wenn er nicht zufällig im Frack ist, nie eine solche Frage stellen.</said> Aber du bist und bleibst ein Rüppel – jawohl«</said>, <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">setzte</seg> <seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">hinzu</seg>, indem er den armen Mitterwurzer nicht ohne Glück zu kopieren versuchte,</seg> <said id="1" mode="direct" content="speech" level="1">»ein Rüppel, ein Rüppel!«</said> 
+                  <said id="3" mode="reported" content="speech" level="1" nonfact="yes">Ich erwiderte nichts</said>, nahm eine Zeitung und las eine Weile. Plötzlich strömte mir aus dem Blatt eine sonderbare Wärme entgegen, gleich darauf fing die Notiz über die neue Operette von 
+Charles Weinberger zu glühen und zu verkohlen an, und das Ende einer frisch angezündeten Zigarette erschien im Mittelpunkt. Aber ich lächelte nur wenig; so verwöhnt hatte mich August im jahrelangen vertrauten Umgang durch ähnliche und noch viel bessere Scherze. 
+                  <said id="4" mode="direct" content="speech" level="1">»Soll ich dir einen Rat geben?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">fragte</seg> <seg id="4" type="speaker">er</seg> dann plötzlich.</seg> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ich bitte darum«</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">antwortete</seg> <seg id="5" type="speaker">ich</seg> höflich.</seg> 
+                  <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">August</seg> sah mich an und <seg id="6" type="intExpr">sagte</seg> scharf und bestimmt:</seg> <said id="6" mode="direct" content="speech" level="1">»Alles, mein Lieber, du verstehst mich, alles, nur keine Exzentriksängerin!«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Gewiß, gewiß«</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">ich</seg>.</seg> 
+                  <said id="8" mode="direct" content="speech" level="1">»Alles«</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">wiederholte</seg> <seg id="8" type="speaker">August</seg> – </seg><said id="8" mode="direct" content="speech" level="1">»Blumenmädeln, alleinreisende Damen aus Rumänien, Flötenbläserinnen, Schornsteinfegersgattinnen, Tragödinnen. Les dernières des dernières ... Alles, mein Lieber, nur keine Exzentrik!«</said> 
+                  Ich nickte schlagfertig. Der Kellner brachte, was August bestellt, und mein Freund begann zu essen und zu trinken. <seg id="9" type="frame" pos="start">Aber schon nach dem ersten Schluck Bier <seg id="9" type="intExpr">sprach</seg> <seg id="9" type="speaker">er</seg> weiter.</seg> <said id="9" mode="direct" content="speech" level="1">»Gegenüber diesen Geschöpfen ist man nämlich wehrlos, und das ist das Entsetzliche. Ich will es dir erklären. Mit einem guten Freund, den man bei seiner Geliebten erwischt, kann man sich schlagen, einen oberflächlichen Bekannten kann man auf der Stelle niederschießen, und einen Fremden, wenn er nicht sehr chic ist, prügelt man einfach durch. Das sind lauter Fälle, in denen man weiß, wie man sich zu benehmen hat, weil man es mit normalen Menschen zu tun hat. Aber was habe ich erleben müssen von dem ersten Augenblick, da ich Mademoiselle Kitty de la Rosière geliebt habe, bis ...«</said> Er nahm seine Uhr aus der Westentasche, legte sie vor sich hin – <said id="9" mode="direct" content="speech" level="1">»bis vor einer Stunde.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Gute Nacht!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">ich</seg> und stand auf.</seg> 
+                  <said id="11" mode="direct" content="speech" level="1">»Oh!«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">rief</seg> <seg id="11" type="speaker">August</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»Kellner, sperren Sie die Türe zu!«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Bitte sehr, bitte gleich«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">erwiderte</seg> der <seg id="12" type="speaker">Kellner</seg>, der beinah so witzig war wie August</seg>, eilte zur Tür und sperrte ab. 
+                  <said id="13" mode="direct" content="speech" level="1">»Setz dich nieder, mein Lieber«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">August</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»<said id="14" mode="reported" content="speech" level="1">ich werde dir eine Geschichte erzählen</said>, daß du ...«</said> (er nahm jetzt zum Scherz den Ton Lewinkys an und verdrehte die Augen), <said id="13" mode="direct" content="speech" level="2">»daß du bis ins Mark der Knochen schaudern wirst. Les amours de Monsieur August Witte et de la très-jolie Kitty de la Rosière. – Heinrich, eine Virginia!«</said> Er lehnte sich in die Ecke, indem er den Ellbogen auf den Fensterpolster stützte; <said id="15" mode="reported" content="speech" level="1" nonfact="yes">den kleinen, steifen, schwarzen, runden Hut, über den noch manches zu sagen sein wird</said>, hatte er noch immer auf dem Kopf, den Überzieher noch immer über den 
+Schultern und sah interessanter aus als je. Ich war sehr schläfrig, und nur die Hoffnung, <said id="16" mode="reported" content="speech" level="1" nonfact="yes">daß mein Freund mir von einer Blamage erzählen würde</said>, hielt mich noch aufrecht. 
+                  <said id="17" mode="direct" content="speech" level="1">»Sie hat mich betrogen«</said><seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">begann</seg> <seg id="17" type="speaker">er</seg>.</seg> 
+                  <said id="18" mode="direct" content="speech" level="1">»Ah!«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">ich</seg></seg>, angenehm berührt. 
+                  <said id="19" mode="direct" content="speech" level="1">»Du wirst mich nicht für so geschmacklos halten, <said id="20" mode="reported" content="speech" level="2">daß ich dir das als etwas Besonderes erzählen sollte.
+</said></said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

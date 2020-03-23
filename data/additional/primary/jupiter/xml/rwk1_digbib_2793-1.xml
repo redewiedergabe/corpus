@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der »Exzellenzherr«</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Der__Exzellenzherr_.tg208_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der »Exzellenzherr«</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es war ein etwa handgroßer, vergilbter Zettel, mit wenigen Worten beschrieben. 
+                  <said id="1" mode="direct" content="speech" level="1">»Ist es nicht eigentümlich?«</said> <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg>.</seg> <said id="1" mode="direct" content="speech" level="1">»Dieses Stück Papier hatte ich vor Jahren verlegt und habe späterhin alle meine Mappen, meine Schriften und Briefe – ja meine ganze Bibliothek durchstöbert, ohne es finden zu können, <said id="2" mode="reported" content="thought" level="2">so daß ich es für verloren hielt.</said> Und heute entdecke ich es zufällig in jenem kleinen alten Sekretär, woselbst es zwischen einem der vielen Schubfächer und der Hinterwand eingeklemmt gesteckt hatte.«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Und welche Bewandtnis hat es mit diesem Zettel?«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Er schien einst bestimmt gewesen zu sein, in meinem Leben einen Wendepunkt herbeizuführen – hat es aber nicht vermocht. <said id="5" mode="reported" content="speech" level="2">Ich will Ihnen, wenn Sie nichts dagegen haben, die Geschichte, die sich daran knüpft, heute erzählen.</said> Spannen Sie jedoch Ihre Erwartungen nicht zu hoch; was Sie hören werden, ist eigentlich nur für den Erzähler von Wert und Bedeutung. <seg id="6" type="frame" pos="start">Da <seg id="6" type="speaker">ich</seg> jedoch <seg id="6" type="intExpr">weiß</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2" border="yes">daß Sie mir eine ungewöhnliche Teilnahme schenken</said>, so kann ich es immerhin wagen. Übrigens wird sich aus diesen Mitteilungen so ziemlich mein ganzes Wesen vor Ihnen entwickeln – und dabei manches Streiflicht auf die Zeit fallen, in der ich gelebt und gewirkt. Ich kann also in dieser Hinsicht vielleicht auch Ihr objektives Interesse in Anspruch nehmen: ist doch das Leben jedes Einzelnen ein Stück Weltgeschichte.«</said> 
+                  Der Kammerdiener brachte den Tee; <seg id="7" type="frame" pos="start">bald darauf lehnte sich der <seg id="7" type="speaker">Präsident</seg> im Sofa zurück und <seg id="7" type="intExpr">begann</seg>:</seg>
+                         
+                  
+                     *
+                     *
+                     *
+                        
+                   
+                  <said id="7" mode="direct" content="speech" level="1">»Es war vor sechzehn Jahren, daß ich meine Vaterstadt Wien, von der mich der Staatsdienst längere Zeit hindurch fast ununterbrochen ferne gehalten, auf die Dauer wiedersah. Meine ersten Dienstjahre hatte ich in einer kleineren Provinzstadt zugebracht; späterhin wurde ich – mit bereits ziemlich hohem Range – in Ungarn verwendet. Als dort ein Umschwung eintrat, erwuchs eine große Überzahl an deutschen Beamten, die man einstweilen auf Wartegebühr setzte. Dieses Los traf auch mich. Obgleich ich nun niemals zu den Ehrgeizigen und Vielgeschäftigen, auch nicht zu jenen gehört habe<seg id="8" type="frame" pos="start">, <seg id="8" type="speaker">die</seg> da <seg id="8" type="intExpr">meinen</seg>,</seg> <said id="8" mode="indirect" content="thought" level="2">daß von ihrem Eingreifen das Heil der Welt abhänge</said>, <seg id="9" type="frame" pos="start">so kam es <seg id="9" type="speaker">mir</seg> doch sehr <seg id="9" type="intExpr">unerwünscht</seg>,</seg> <said id="9" mode="indirect" content="thought" level="2">in diesem Augenblicke sozusagen kaltgestellt zu werden.</said> Denn eben jetzt, wo ein neuer staatlicher Frühling anzubrechen schien<seg id="10" type="frame" pos="start">, hatte <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">hoffen</seg> dürfen,</seg> <said id="10" mode="indirect" content="thought" level="2">eine freiere und ersprießlichere Tätigkeit, als bisher, entfalten zu können.</said> Aber zuletzt ergab ich mich doch leichten Herzens in die Umstände; denn ich war noch jung und konnte mich gedulden. <seg id="11" type="frame" pos="start">Zudem <seg id="11" type="intExpr">erkannte</seg> <seg id="11" type="speaker">ich</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">daß jedem, wer er auch sei, ein paar Jahre ruhiger Sammlung und Einkehr in sich selbst nur zu wünschen seien – und daß gerade mir ein besonderer Vorteil daraus erwachsen könne.</said> Ich war als Knabe und Jüngling kein besonders fleißiger Schüler gewesen. Unstät und träumerisch, hatte ich in die Welt wie in ein bewegtes Bild hineingeblickt, <said id="12" mode="reported" content="thought" level="2">wobei ich mir zwar sehr früh über Menschen und Dinge ein selbständiges Urteil bildete</said>, aber auch in den meisten Lehrgegenständen zurückblieb, und wenn ich dennoch die vorgeschriebenen Prüfungen bestand, so hatte ich dies den geringen Anforderungen zu danken, die man damals stellte. <seg id="13" type="frame" pos="start">Es mußte <seg id="13" type="speaker">mir</seg> daher bei reisender <seg id="13" type="intExpr">Einsicht</seg> immer deutlicher werden,</seg> <said id="13" mode="indirect" content="thought" level="2">wie unwissend ich in mancher Hinsicht geblieben war</said>, und schon seit einigen Jahren hatte ich mit leidenschaftlichem Eifer fast jede freie Stunde benützt, Versäumtes nachzuholen und Neues in mich aufzunehmen.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
