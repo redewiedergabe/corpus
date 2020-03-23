@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Pfründner</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Die_Pfruendner.tg371_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Die Pfründner</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er war dazu um so mehr gezwungen, <said id="1" mode="reported" content="speech" level="1">als ihm der bisherige Leiter, der sein Schäflein ins trockene gebracht, den Dienst gekündigt hatte.</said> Aber die behagliche Häuslichkeit, <said id="2" mode="reported" content="thought" level="1">auf die er gerechnet</said>, wollte sich nicht einstellen. Denn kaum daß die Honigmonde – wenn es wirklich solche waren – ihr Ende gefunden hatten<seg id="3" type="frame" pos="start">, mußte <seg id="3" type="speaker">er</seg> <seg id="3" type="intExpr">erkennen</seg>,</seg> <said id="4" mode="reported" content="thought" level="1"><said id="3" mode="indirect" content="thought" level="2">daß die Menzinger Theres eher an alles andere dachte als an die Pflichten einer sorglichen Ehegattin.</said></said> <seg id="5" type="frame" pos="start"><said id="6" mode="reported" content="speech" level="2"><seg id="5" type="speaker">Sie</seg> wollte sich beständig unterhalten</said> 
+und <seg id="5" type="intExpr">zwang</seg> ihn,</seg> <said id="5" mode="indirect" content="speech" level="1">sie an öffentliche Vergnügungsorte zu führen</said>, wobei sie sich an auffallendem Putz nicht genug tun konnte. <seg id="7" type="frame" pos="start"><said id="8" mode="reported" content="speech" level="2">Und als <seg id="7" type="speaker">er</seg> endlich bescheidenen Einwand erhob</said> und <seg id="7" type="intExpr">meinte</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1">so könne das Leben nicht weitergehen</said><seg id="9" type="frame" pos="start">, da <seg id="9" type="intExpr">erwiderte</seg> <seg id="9" type="speaker">sie</seg> sehr gereizt,</seg> <said id="9" mode="indirect" content="speech" level="1"><seg id="10" type="frame" pos="start">ob er denn glaube,</seg> <said id="10" mode="indirect" content="thought" level="2" nonfact="yes">daß sie ihn geheiratet habe, um mit ihm in der »Hütten« zu sitzen.</said></said> <said id="11" mode="reported" content="speech" level="1">So nannte sie mit Vorliebe das zwar niedere, aber sehr weitläufige Schirmersche Haus.</said> Und was ihren Kleideraufwand betraf, so wies sie auf ihre Mitgift hin, die übrigens noch immer unverzinst bei Vater Menzinger steckte. Und als das Leben in der Tat nicht mehr so weiterging, <seg id="12" type="frame" pos="start">wurde <seg id="12" type="speaker">sie</seg> mürrisch, zänkisch und <seg id="12" type="intExpr">erklärte</seg> ihm bei jeder Gelegenheit,</seg> <said id="12" mode="indirect" content="speech" level="1">daß er das Geschäft nicht verstehe.</said> Dieser Vorwurf traf ihn um so schmerzlicher, als er auf Wahrheit beruhte; <said id="13" mode="reported" content="thought" level="1">er selbst sagte es sich ja oft genug im stillen.</said> Und es wurde von Jahr zu Jahr schlimmer. Zwischendurch kam freilich etwas, um das sinkende Schiff wieder zu heben. So zuweilen eine große Bestellung auf Bauholz, da ja die Stadterweiterung mehr und mehr in Zug kam. Aber im ganzen wollte das nicht viel besagen, und der einst so blühende Handel schleppte sich nur mühselig dahin. Und das Leben Schirmers wurde danach. Seine Frau kümmerte sich mit unverhohlener Verachtung immer weniger um ihn. Sie hatte sich ein paar flotte Freunde ins Haus gezogen, darunter einen reichen, vierschrötigen Weingärtenbesitzer aus Grinzing. Mit diesen Freunden, die immer mit Wagen angesaust kamen, fuhr sie über Land oder in die Stadt hinein, wo man gemeinschaftlich Theater besuchte oder zu Volkssängern ging, die sich gerade besonderer Beliebtheit erfreuten. Ihr Mann nahm sich das nicht sonderlich zu Herzen. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Er</seg> hatte sie ja nie geliebt und war eigentlich <seg id="14" type="intExpr">froh</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1" border="yes">daß er jetzt abends allein sein und, wenn es die Jahreszeit erlaubte, wieder seinem alten Vergnügen, dem Angeln, nachhängen konnte.</said> 
+                     Um diese Zeit traf es sich, daß ein neues Dienstmädchen ins Haus kam. Sie hieß Rosalie Eder und war die Tochter eines Gemeindedieners. Schlank und zart gebaut, sah sie mit 
+gesundblassen Wangen, blondem Kraushaar und mit großen Augen, die wie Kornblumen leuchteten, jünger aus, als sie wirklich war, denn sie mochte schon ziemlich tief in den Zwanzigern stehen. Sie hatte ein stilles, etwas schwermütiges Gehaben. <said id="15" mode="reported" content="speech" level="1">Manchmal begann sie ganz leise vor sich hin zu trällern</said>, verstummte aber gleich wieder, gewissermaßen vor sich selbst erschreckend. Es war kein Wunder, daß sie dem Vereinsamten von Tag zu Tag besser gefiel. Sie führte ihm ja eigentlich das Hauswesen und kam ihm daher oft genug vor Augen. Ihr Anblick erfüllte ihn immer mit Freude, aber auch mit Schmerz. <said id="16" mode="direct" content="speech" level="1">»Wenn das meine Frau wäre!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sagte</seg> <seg id="16" type="speaker">er</seg> zu sich selbst.
+</seg>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0106_1905_17.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="1" type="frame" pos="start">Zu den <said id="2" mode="reported" content="speech" level="2">aus der Praxis geschöpften Einwendungen des Herrn Kanitz=Berg
+                        gegen die Ausführungen meines Artikels „Der moderne Fabrikmensch“</said> habe <seg id="1" type="speaker">ich</seg> zunächst zu <seg id="1" type="intExpr">bemerken</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">daß ich nicht zu denjenigen gehöre, <said id="3" mode="direct" content="speech" level="2">„die sich einige Wochen oder
+                        einige Monate in der Fabrik umgesehen haben.“</said></said> Nach einer dreijährigen Lehrzeit
+                        in einer mechanischen Werkstatt verdiente ich mir als Mechaniker=Gehilfe drei Jahre
+                        lang mein Brot. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Jch</seg> tat das in der ausdrücklichen <seg id="4" type="intExpr">Erkenntnis</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2" border="yes"><said id="5" mode="reported" content="thought" level="1">daß ich nur so die
+                        tatsächlichen Verhältnisse der praktischen Arbeit gründlich kennen und würdigen lernen
+                        konnte,</said> und daß es nicht einerlei ist für die Auffassung der Arbeit, ob man während
+                        einer solchen Arbeitszeit von einem wohlhabenden Vater Zuschuß zum Lebensunterhalt
+                        erhält oder nicht.</said>
+            Die Ausführungen meines Artikels „Der moderne Fabrikmensch“ beruhen
+                        daher auf eigenen praktischen Erfahrungen und eigener praktischer Kenntnis der
+                        Arbeitsverhältnisse; <said id="6" mode="reported" content="speech" level="1">aber gegenüber meinen sechsjährigen Erfahrungen kann Herr Kanitz=Berg anscheinend auf vieljährige Fabriktätigkeit hinweisen</said>, und dadurch gewinnen seine Ausführungen an Bedeutung. <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Jch</seg> <seg id="7" type="intExpr">gebe</seg> ihm ohne weiteres darin <seg id="7" type="intExpr">Recht</seg>,</seg>
+                        <said id="7" mode="indirect" content="speech" level="1">daß es geisttötend sein kann, jahraus, jahrein alltäglich vieltausendmal dieselben
+                        Handgriffe zu wiederholen.</said> Aber es wird nur dann im allgemeinen der Fall sein,
+                        wenn die Verhältnisse so liegen, <said id="8" mode="reported" content="speech" level="1">wie Herr Kanitz=Berg sie schildert</said>, nämlich so, daß
+                        alles Denken des Arbeiters mit der Zeit überflüssig geworden ist; er führt sämtliche
+                        Handgriffe infolge der Gewöhnung mechanisch aus, jedes Denken ist überflüssig geworden -- die ganze Muskulatur des Körpers arbeitet automatisch. Vernimmt das
+                        Ohr ein bestimmtes Geräusch, so führt der Arm unwillkürlich eine bestimmte
+                        Bewegung aus.
+            Wo die Verhältnisse so liegen, haben wir indessen eine noch recht unvollkommene Maschine vor uns. <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Jch</seg> habe in meinem Artikel besonders <seg id="9" type="intExpr">betont</seg>,</seg> <said id="9" mode="indirect" content="writing" level="1">daß wir
+                        bemüht sind, unsere modernen Maschinen für Massenfabrikation so zu bauen, daß sie
+                        uns alle monotonen Handgriffe, d. h. alle Handgriffe, die keine Aufmerksamkeit
+                        und kein Nachdenken erfordern, abnehmen.</said> Wo keine Aufmerksamkeit und kein
+                        Nachdenken erforderlich ist, kann der Handgriff ebenso gut von einer Maschine ausgeführt werden.
+            Dort, wo es noch nicht gelungen ist, dem Arbeiter alle monotonen Handgriffe
+                        abzunehmen, dort haben wir noch keinen vollkommenen Fabrikbetrieb im modernen
+                        Sinne vor uns, <seg id="10" type="frame" pos="start">und <seg id="10" type="speaker">ich</seg> <seg id="10" type="intExpr">gebe</seg> ohne weiteres <seg id="10" type="intExpr">zu</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1">daß wir auf den meisten Gebieten
+                        der Technik in dieser Hinsicht von dem Erreichbaren mehr oder weniger entfernt sind.
+ </said>                       Wir befinden uns eben in dem Übergangsstadium vom Handwerk zum Fabrikbetrieb,
+                        und dieser Übergang bringt, wie jeder andere, unliebsame Zustände, die indessen
+                        mehr und mehr verschwinden, je weiter die Entwicklung vorwärts schreitet.
+            <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Jch</seg> <seg id="11" type="intExpr">glaube</seg> daher auch,</seg> <said id="11" mode="indirect" content="thought" level="1">daß meine Darlegungen, wenn man die Verhältnisse
+                        allgemein ansieht, richtig sind.</said> Das schließt natürlich nicht aus, daß die Einwendungen des Herrn Kanitz=Berg in vielen einzelnen Fällen berechtigt sind. Wenn
+                        ein Arbeiter Jahrzehnte hindurch dieselbe Bewegung alltäglich vieltausendmal wiederholen muß, so wirkt das schließlich doch ermüdend auf den Geist, genau so wie es
+                        auf unsere Verdauungsorgane leicht störend einwirken würde, wenn wir uns längere
+                        Zeit hindurch mit einem und demselben Nahrungsmittel ernähren sollten. Gegen
+                        diese Eigentümlichkeit der Arbeit können wir zielbewußt ankämpfen, indem wir es
+                        planmäßig vermeiden, den Arbeiter zeitlebens nur einen und denselben Handgriff
+                        ausführen zu lassen, und das läßt sich ohne nennenswerten Geldverlust ohne weiteres
+                        erreichen. Jul.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

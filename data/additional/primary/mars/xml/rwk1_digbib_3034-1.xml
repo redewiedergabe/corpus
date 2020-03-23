@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Paradies der Liebe</title>
+             <author>Sealsfield, Charles</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sealsfield,_Charles_Das_Paradies_der_Liebe.tg34_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Das Paradies der Liebe</f>
+         <f name="author">Sealsfield, Charles</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Tat sie? <said id="2" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Ich bemerkte es nicht</said>, aber Marigny, der junge Marigny – oh, ich war doch so wütend auf ihn.«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Warst du?«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">lachte</seg> <seg id="3" type="speaker">sie</seg> wieder.</seg> <said id="4" mode="direct" content="speech" level="1">»Der gute Marigny! Er ist so furchtsam, seinen eigenen Schatten fürchtet er. Jede Welle, die über Bord schlug, machte ihn erbleichen. Er ist doch gar zu furchtsam. <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">Weißt</seg> <seg id="5" type="speaker">du</seg>,</seg> <said id="5" mode="indirect" content="thought" level="2" nonfact="yes" border="yes" prag="yes">ich liebe Mut am Manne.</said>«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Und ich Zartheit am Weibe. Wer gleicht aber dir an Zartheit, Schönheit, Seelengüte? <seg id="7" type="frame" pos="start">Aber <seg id="7" type="intExpr">weißt</seg> <seg id="7" type="speaker">du</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes" border="yes" prag="yes">ich habe sie recht gerne, diese altadeligen Franzosen.</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Auch ich«</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">fiel</seg> <seg id="8" type="speaker">sie</seg> <seg id="8" type="intExpr">ein</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»und das ist doch seltsam, sie sind doch so streng royalistisch.«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Und wir streng republikanisch; aber die Extreme berühren sich immer am liebsten.«</said> 
+                  <seg id="10" type="frame" pos="start">Und ohne es zu <seg id="10" type="intExpr">wissen</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">saßen sie nun wieder auf der heimlichen Holzbank hinter der Hütte unter dem Chinabaume.</said> Redbirds und Mockingbirds jubelten oben in den Blüten, aber sie hörten sie nicht, sahen sie nicht. Sie hatten nur Augen, Ohren füreinander. 
+                  <said id="11" mode="direct" content="speech" level="1">»Alexandrine!«</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">hob</seg> <seg id="11" type="speaker">er</seg> wieder <seg id="11" type="intExpr">an</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»ich liebe dich, liebe dich so unendlich, so unsäglich.«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Ah, du kannst nicht mehr lieben als ich«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">versetzte</seg> <seg id="12" type="speaker">sie</seg> zärtlich.</seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»Jawohl! jawohl!«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ja nein! ja nein!«</said> <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">bejahte</seg> und <seg id="14" type="intExpr">verneinte</seg> <seg id="14" type="speaker">sie</seg> wieder.</seg> 
+                  <said id="15" mode="reported" content="speech" level="1">Und so stritten sie sich, wer mehr liebte</said>, <said id="16" mode="reported" content="speech" level="1">und sagten sich's zehnmal, zwanzigmal, fünfzigmal.</said> Jedesmal hörten sie es mit neuem Entzücken. Sie wurden zuletzt so mutwillig, sie küßten sich die Hände, die Fingerspitzen. <said id="17" mode="reported" content="speech" level="1">Er pries die Schönheit ihrer Hände</said>, <said id="18" mode="reported" content="speech" level="1">sie wollte die seinigen schöner finden.</said> <said id="19" mode="reported" content="speech" level="1">Er verglich ihre Augen mit dem tiefblauen Himmel</said>, <said id="20" mode="reported" content="speech" level="1">sie die seinigen mit dem zarten Dufte des indianischen Sommers.</said> 
+                  Sie sprangen auf, um Papa zu suchen, <said id="21" mode="reported" content="speech" level="1" nonfact="yes" border="yes">vergaßen aber unter lauter Getändel den lieben Papa.</said> <said id="22" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">Sie waren durch das Negerdorf gegangen</said>, <seg id="22" type="frame" pos="end"><seg id="22" type="speaker">sie</seg> <seg id="22" type="intExpr">wußten</seg> es nicht</seg>, <said id="23" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">vor dem Quartiere, wie das Herrenhaus genannt wird, vorbeigekommen</said><seg id="23" type="frame" pos="end">, auch das <seg id="23" type="intExpr">wußten</seg> <seg id="23" type="speaker">sie</seg> nicht</seg>, in den Garten getreten, den sahen sie nicht, denn er war, <said id="24" mode="reported" content="speech" level="1">die Wahrheit zu gestehen</said>, mehr Wildnis als Garten; Phelim, unter dessen Aufsicht er stand, hatte in einige der schönsten Parterres seine geliebten irischen Kartoffeln gepflanzt. Doch gab es noch einige schöne Partien, ein Wäldchen von Orangen- und Zitronenbäumen, Grotten mit Rasenbänken und andern Bänken. Auf eine derselben setzten sie sich, <seg id="25" type="frame" pos="start">um sich abermals und abermals zu <seg id="25" type="intExpr">sagen</seg>,</seg> <said id="25" mode="indirect" content="speech" level="1">wie unendlich sie sich liebten</said>, und dann tanzten sie wieder zugleich auf, um Blumen zu pflücken und sich zu beschenken, und als er die Rose, die sie ihm den Tag zuvor geschenkt, aus seinem Busen und dem grünen Seidenpapier zog, in dem er sie aufbewahrt, <seg id="26" type="frame" pos="start">haschte <seg id="26" type="speaker">sie</seg> darnach und <seg id="26" type="intExpr">bat</seg> ihn,</seg> <said id="26" mode="indirect" content="speech" level="1">die verwelkte doch wegzuwerfen</said>; <seg id="27" type="frame" pos="start"><seg id="27" type="speaker">er</seg> aber <seg id="27" type="intExpr">versicherte</seg> sie,</seg> <said id="27" mode="indirect" content="speech" level="1">daß sie, solange er lebe, nicht von seinem Herzen kommen, in Gold gefaßt, zunächst diesem ihren Platz haben sollte.</said> Und sie hüpfte nun wieder zu einem der Blumenbeete und pflückte ihm einen Strauß, und er ihr einen, und dann setzten sie sich, und sie bekränzte ihn und er sie. Und während sie sich so bekränzten, <said id="28" mode="reported" content="speech" level="1">mußte er ihr wieder erzählen aus seinem Leben</said>,<said id="29" mode="reported" content="speech" level="1"> sich ausfragen lassen</said> – Liebe ist argwöhnisch – und darüber verging eine Stunde, und eine zweite – dritte; die Mittagsglocke läutete, sie hörten sie aber nicht, der Vater stand ihnen zur Seite, sie sahen ihn nicht.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

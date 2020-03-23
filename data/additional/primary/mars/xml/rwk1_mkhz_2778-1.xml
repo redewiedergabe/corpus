@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Den deutschfeindlichen Ausstreuungen habe die japanische Regierung niemals Glauben geschenkt, sie wisse, daß gegen uns Jntriguen spielen....
+                        ............................
+                        <seg id="1" type="frame" pos="start">Der japanische <seg id="1" type="speaker">Minister</seg> <seg id="1" type="intExpr">fährt fort</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">auch er habe keinen Grund, uns zu mißtrauen oder über uns zu klagen. Er lege auf gute Beziehungen zu Deutschland den
+                        größten Wert, er sehe zu Kollisionen zwischen Deutschland und Japan absolut
+                        keinen Grund.</said> <seg id="2" type="frame" pos="start">Auch bat mich der Herr <seg id="2" type="speaker">Minister</seg> zu <seg id="2" type="intExpr">melden</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">daß die japanische
+                        Regierung uns wie anderen Mächten gegenüber vollzogene Tatsachen und erworbene Rechte in Ostasien respektieren werde. Es sei dies nicht allein der
+                        feste Entschluß der jetzigen japanischen Regierung, sondern ein bleibender und
+                        leitender Grundsatz der japanischen Politik.“</said>
+                         
+            <said id="3" mode="reported" content="speech" level="1">Nun erzählte Graf Bülow, so wird man sagen, gewiß nur deshalb von
+                        dem Telegramm,</said> weil er damit den Vorwurf der Parteinahme für Rußland
+                        entkräften wollte. Selbstverständlich. <seg id="4" type="frame" pos="start">Aber <seg id="4" type="intExpr">glaubt</seg> <seg id="4" type="speaker">man</seg> etwa,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">daß der Reichskanzler sich dieses Telegramm aus Tokio extra bestellt habe, um sich gegen Bebel
+                        verteidigen zu können,</said> sieht das Telegramm nicht vielmehr darnach aus, als
+                        ob Deutschland vorher bestimmte Versicherungen seiner freundschaftlichen Gesinnung abgegeben hat? <said id="5" mode="reported" content="speech" level="1">Und hätte Graf Bülow das Telegramm erwähnt</said>,
+                        wenn noch das alte herzliche Verhältnis zu Rußland bestehen würde? Jn
+                        diesem Falle hätte er es doch sicher beiseite gelassen. Daß Graf Bülow das Telegramm zugleich benutzt, um zu zeigen, <seg id="6" type="frame" pos="start">daß <seg id="6" type="speaker">man</seg> sogar in Tokio der <seg id="6" type="intExpr">Meinung</seg>
+                        sei,</seg> <said id="6" mode="indirect" content="speech" level="1">Deutschland habe sich durchaus unparteiisch neutral verhalten</said>, das ist
+                        natürlich auf gut deutsch gesagt, einfach Spiegelfechterei. Die Kritik, der die
+                        deutsche äußere Politik in der Etatsdebatte unterworfen wurde, <seg id="7" type="frame" pos="start">der <seg id="7" type="intExpr">Vorwurf</seg>,
+                        der gegen sie erhoben wurde,</seg> <said id="7" mode="indirect" content="speech" level="1">daß sie Rußland moralisch, manchmal sogar, wenn auch natürlich in verschleierter Weise, durch die Tat gestützt habe</said>, waren zwar
+                        verspätet, weil die Situation sich inzwischen geändert hat, beruhten aber auf
+                        tatsächlichen unbestreitbaren Unterlagen. Und was beweist es, <seg id="8" type="frame" pos="start">daß die japanische <seg id="8" type="speaker">Regierung</seg> <seg id="8" type="intExpr">erklärt</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">sie habe den deutschfeindlichen Ausstreuungen niemals
+                        Glauben geschenkt.</said> Soll sie sich etwa das Geschäft, das so kurz vor dem Abschluß steht, verderben, indem sie die Stimmung verbittert durch Hinweis auf
+                        all die diplomatischen Reden, Handlungen und kaiserlichen Handschreiben, durch
+                        die die deutsche Regierung ihre Sympathie für die russische bis vor kurzem
+                        bewiesen hat? Soll sie in diesem Augenblick vielleicht schon in ihr Herz sehen
+                        lassen, in dem sicher das Mißtrauen und die Erbitterung noch stark genug sind,
+                        und an Port Arthur erinnern, an Port Arthur, um das tausende von
+                        Japanern und Russen in diesem Kriege haben ihr Leben lassen müssen, weil
+                        diese Frucht des Sieges im chinesisch=japanischen Kriege hauptsächlich mit durch
+                        Deutschland den Japanern wieder entrissen wurde?
+                         
+            Jn der Rede des Reichskanzlers zur Etatsdebatte steht noch ein Satz,
+                        der sich auf das Verhältnis Deutschlands zu Japan bezieht. <seg id="9" type="frame" pos="start">Der <seg id="9" type="speaker">Reichskanzler</seg>
+                        <seg id="9" type="intExpr">versicherte</seg>,</seg> <said id="9" mode="indirect" content="writing" level="1">daß die deutsche Regierung auch gegen eine japanische Anleihe in
+                        Deutschland nichts einzuwenden habe.</said> <seg id="10" type="frame" pos="start">Sonderbarerweise steht hinter diesem Satz
+                        in den Zeitungsberichten</seg> <said id="10" mode="direct" content="writing" level="1">„Heiterkeit“</said> <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">verzeichnet</seg>.</seg> Daß jene Worte aber eine
+                        sehr ernste Bedeutung hatten, hat sich unterdessen herausgestellt. <seg id="11" type="frame" pos="start">Schon <seg id="11" type="intExpr">lesen</seg>
+                        <seg id="11" type="speaker">wir</seg> in den Tageszeitungen,</seg> <said id="11" mode="indirect" content="writing" level="1">daß die deutsch=asiatische Bank, die bekanntermaßen
+                        nichts ohne vorherige Verständigung mit dem Auswärtigen Amte tut, eine
+                        japanische Anleihe vorbereitet.</said> Und sollte das etwa dementiert werden, so
+                        bleibt es deshalb doch ganz sicherlich wahr.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

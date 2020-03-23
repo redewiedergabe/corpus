@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Insel Hongkong.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig038_1843_3.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Die Insel Hongkong.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Ich war
+                        nach Indien gegangen, um mein Vermögen wieder zu
+                        gewinnen, aber ach! die Reste meines Geldes schwanden von Tag zu Tag mehr und ich sah mit Entsetzen
+                        den Augenblick nahen, wo ich von Allem entblößt war.
+                        Da benutzte ich die Gelegenheit, in mein Vaterland zurückzukehren, um hier mein Fortkommen zu suchen und
+                        mich wo möglich den Vorwürfen meines Gewissens zu
+                        entreißen.“</said>
+                         
+            <said id="2" mode="direct" content="speech" level="1">„Wir schifften uns ein und zum zweiten Male befand ich mich auf dem unendlichen Ocean. Die Überfahrt war stürmisch und in der Nähe der englischen Küsten erhob sich ein Orkan, der unser Schiff auf die Klippen trieb und zerschellte. Der Capitain, zwei Passagiere,
+                        der Steuermann und einige von der Mannschaft retteten
+                        sich ins Boot, sechs Matrosen und ich klammerten uns
+                        an ein Trümmer des Schiffs, den gewissen Tod vor
+                        uns. Achtzehn Stunden verbrachten wir in dieser schaudervollen Lage, von Hunger und Entkräftung gequält,
+                        <said id="3" mode="reported" content="speech" level="2">als einer der Matrosen plötzlich <said id="4" mode="direct" content="speech" level="3">„Land!“</said> rief.</said> Da warfen sich Alle in die Wogen, um schwimmend das Ufer
+                        zu erreichen. Ich war der Einzige, der nicht schwimmen
+                        konnte, aber einer von ihnen erbarmte sich meiner und
+                        unter unendlichen Anstrengungen brachte er mich glücklich
+                        ans Land.“
+</said>                         
+            <said id="5" mode="direct" content="speech" level="1">„So war denn das Leben gerettet, aber sonst besaß
+                        ich auch weiter nichts in der Welt. Wol fanden wir
+                        Menschenfreunde, die sich unserer annahmen, und ich
+                        brachte acht Tage in einem gastfreundlichen Hause zu.
+                        Da wurde ich krank und man brachte mich in ein Hospital. Aber o Jammer! obwol ich unter der sorgfältigen
+                        Pflege bald meine Kräfte wieder erhielt, warf sich die
+                        Krankheit auf meine Augen und aller Mühe ungeachtet
+                        erblindete ihr Licht, ich wurde blind!“</said>
+                         
+            Der Ärmste! <said id="6" mode="reported" content="speech" level="1">Als er dies sprach</said>, war seine Bewegung so heftig, <said id="7" mode="reported" content="speech" level="1" nonfact="yes">daß er nicht weiter sprechen konnte.</said>
+                        Sein Haupt, das Sorgen und Trübsal vor der Zeit
+                        gebleicht hatten, fiel auf seine Brust. <seg id="8" type="frame" pos="start">Nach einer Weile
+                        <seg id="8" type="intExpr">fuhr</seg> <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">fort</seg>:</seg>
+                         
+            <said id="8" mode="direct" content="speech" level="1">„Ich war also genesen, aber was sollte aus mir werden? Die Noth, die gebieterische Noth machte mich
+                        zum Bettler, denn anders vermochte ich nicht mein Leben zu fristen. Gerührt von meinem Elend, gaben mir
+                        die Vorsteher des Hospitals den Knaben zum Führer
+                        Von dem Erbettelten legten wir täglich etwas zurück,
+                        damit ich eine Geige kaufen konnte, um mein Brot auf
+                        eine weniger demüthigende Weise zu verdienen, indem ich
+                        die geringe Fertigkeit in Musik und Gesang benutzte, die
+                        ich in den glücklichen Tagen meiner Jugend erwarb.
+                        O was habe ich erduldet! Wie oft behandelte man mich
+                        als Landstreicher, als Spitzbuben, <said id="9" mode="reported" content="speech" level="2">nannte mich einen blinden Schurken.</said>“
+</said>                         
+            <said id="10" mode="direct" content="speech" level="1">„So durchstreifte ich wieder fünf Jahre England, bis
+                        ich die Mittel fand, nach Holland zurückzukehren. Aber
+                        sonderbar, es gelang mir nicht, meinen Bruder aufzufinden. <seg id="11" type="frame" pos="start">Denn da <seg id="11" type="speaker">ich</seg> nicht <seg id="11" type="intExpr">wagte</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">mich selbst an ihn
+                        zu wenden</said>, da ich ihn durch so viel Verachtung so tief
+                        verletzt hatte, so waren alle meine geheimen Bemühungen vergebens, <said id="12" mode="reported" content="speech" level="2">ihn zu erfragen.</said> So verließ ich das Innere von Holland und bin nach Geldern gekommen.
+                        <seg id="13" type="frame" pos="start">O <seg id="13" type="intExpr">wollte</seg> <seg id="13" type="speaker">Gott</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2">daß ich mein trauriges Loos nicht lange
+                        mehr tragen muß!</said>“</said>
+                         
+            Der Blinde endete seine Erzählung. Thränen drängten sich durch meine Augenlider über so viel Elend, und
+                        nachdem ich ihm einiges Geld gegeben, verließ ich ihn.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

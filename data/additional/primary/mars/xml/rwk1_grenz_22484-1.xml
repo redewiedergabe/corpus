@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der vorsichtige Freier(Schluß)</title>
+             <author>Federn, Karl </author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341897_325519.txt_42.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">Der vorsichtige Freier(Schluß)</f>
+         <f name="author">Federn, Karl </f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er war entlassen, <seg id="1" type="frame" pos="start">und <seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">begriff</seg> nicht,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">weshalb er so mißmutig durch die
+                        Straßen ging</said>, da er doch der Gefahr, <said id="2" mode="reported" content="thought" level="1" border="yes">die er in diesen Tagen am meisten
+                        gefürchtet hatte</said>, entgangen war.
+            Als er des Abends mit seinen Gesellen saß, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">sagten</seg> <seg id="3" type="speaker">sie</seg> ihm,</seg> und sie sahen
+                        ihn dabei an, <said id="3" mode="indirect" content="speech" level="1">daß zwei junge Edelleute bei der Herzogin um die Hand des
+                        „Findelkindes"</said> — <said id="4" mode="reported" content="speech" level="1">so nannten sie Florence</said> — <said id="3" mode="indirect" content="speech" level="1">geworben hätten</said>; <said id="5" mode="indirect freeIndirect" content="speech" level="1">und zwar sei
+                        der eine, den sie wohl nehmen werde, ein prachtvoller Junge, dazu vom besten
+                        Blute, aber arm wie eine Kirchenmaus.</said>
+            <said id="6" mode="direct" content="speech" level="1">„Die Narren!"</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">Pericliti</seg></seg>, während er sein Lorgnon senkte und die
+                        Karten auf den Tisch legte.
+            Avinelli nickte und nahm die Karten auf, die er durch seine Hand gleiten
+                        ließ, als sähe er irgend Merkwürdigkeiten an ihren Figuren; aber in seinem
+                        Herzen brannten Eifersucht und Scham.
+            
+            <said id="7" mode="direct" content="speech" level="1">„Der Herzog gibt ihm eine Kompagnie,"</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">einer</seg> boshaft.</seg>
+            Avinelli warf die Karten bald wieder hin und stand auf. Der Abbate
+                        schob Avinellis Arm in den eigenen und ging mit ihm ins Freie; <said id="8" mode="reported" content="speech" level="1" nonfact="yes">aber Avinelli
+                        schwieg.</said> Der laue Abend brachte ihm kein Behagen. Eine Karosse fuhr langsam
+                        vorüber, in der die Frau von Cresnel neben demselben Kavalier mit dem
+                        Ordenskreuz saß, <said id="9" mode="reported" content="speech" level="1">mit dem sie am Morgen so eifrig gesprochen hatte</said>; sie nickte
+                        flüchtig zu seinem Gruß; ihr Begleiter dankte überhaupt nicht. Das war für
+                        den Gekränkten zuviel; <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">er</seg> wendete sich zu dem Abbate zurück und <seg id="10" type="intExpr">rief</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">„Jetzt
+                        grüßt sie mich nicht, und vor zwei Nächten hat sie mich geküßt!"</said>
+                         
+            Die Augen des Abbate wurden groß; sein ganzes Gesicht verzog sich in
+                        Neugier und Staunen; noch ungläubig faßte er des Florentiners Arm und
+                        <said id="11" mode="reported" content="speech" level="1">fragte ihn aus</said>, dabei zog er ihn in den Keller hinab zu den anderen, die noch
+                        beim Spiel saßen; <seg id="12" type="frame" pos="start">und da <seg id="12" type="speaker">Avinelli</seg> das heftige <seg id="12" type="intExpr">Bedürfnis</seg> hatte,</seg> <said id="12" mode="indirect" content="thought" level="1">sich in ihren
+                        Augen wieder zu heben</said>, <said id="13" mode="reported" content="speech" level="1">so schilderte er ihnen seine nächtlichen Liebeserlebnisse.</said>
+                        Wie wenn süße Milch gerinnen würde, so war es in seiner Seele, <said id="14" mode="reported" content="speech" level="1">als er, was
+                        so geheim und wonnig in seinem Empfinden gewesen, den frechen Gesellen
+                        schamlos und boshaft preisgab.</said> Der Abbate saß grinsend da und fletschte die
+                        Zähne wie ein halbbefriedigtes Raubtier; <said id="15" mode="reported" content="speech" level="1">die anderen begannen sogleich mit
+                        eigenen Liebesabenteuern zu prahlen.</said> <said id="17" mode="reported" content="thought" level="1">Avinelli aber, <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">der</seg> <seg id="16" type="intExpr">fühlte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2">daß ihm nicht
+                        besser, nur schlimmer zu Mute geworden</said>, fand die Erzählungen der anderen
+                        greulich</said> und rückte von ihnen fort. Da von draußen Musik ertönte, gingen
+                        alle, das Fest auf dem Rathaus zu sehen, das der Gesandte der Republik Venedig gab.
+            Die bunten Fenster des Rathauses waren erleuchtet, einige standen offen
+                        und ließen das Licht der kerzenhellen Säle herausschimmern. Unten an den
+                        Pfeilern loderten mächtige Kienfackeln. Über die Stufen unter den Lauben und
+                        vor dem Rathause waren rote Teppiche gelegt und eine Estrade errichtet. Alle
+                        fünf Schritte stand ein Hatschier mit blinkendem Helm, auf die Hellebarde mit
+                        grüngoldner Troddel gestützt, und hielt die Leute ab. Geputzte Herren und
+                        Damen gingen die Treppen hinauf und herab und auf dem Teppich im Lichte
+                        der farbigen Scheiben spazieren, die auf der roten Wolle ihr buntes Muster
+                        flimmernd wiederspiegelten, während rings umher die dichte Menge der Zuschauer
+                        stand.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>— Viehmärkte. — Opfer der Frühlingsgewitter.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">SGV_1891_05_02.txt_5.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1891</f>
+         <f name="decade">1890</f>
+         <f name="title">— Viehmärkte. — Opfer der Frühlingsgewitter.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.stgaller</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Verschiedenes.
+                        
+            
+            
+               — Viehmärkte.
+               
+               
+                  Langenthal, 28.
+               Auf dem Kleinviehmark waren aufgeführt: 636 Kälber, 63 Faselschweine, 3 Mastschweine und 6 Schafe. Die Bahn spedirte 603 Stück Kleinvieh.
+                        Es galten: Extra Kälber per Kilo Fr. 1. 20 — 1. 30. Fette Kälber,
+                        prima Waare, per Kilo Fr. 1. 06 bis 1. 18; fette Kälber
+                        86 Cts. bis Fr. 1. 04; Saugkälber per Stück 12—38 Fr.
+                        Fette Schweine per Kilo Fr. —. 90 bis 1. —; Faselschweine
+                        per Stück 27—60 Fr. Fette Schafe per Kilo 72—80 Cts.
+                        Rindfleisch per Kilo Fr. 1. 50; Schweinefleisch Fr. 1. 60; Schaffleisch Fr. 1. 60; Kalbfleisch Fr. 1. 60—1. 80; Speck per Kilo
+                        Fr. 1. 80—2. —.
+            
+            
+               — Ein grauenhafter Mord fand in der Kathedrale
+                        zu Waitzen statt. Ein herabgekommenes Subjekt, Namens
+                        Csermak, mißhandelte seine Frau derartig, daß sie sich flüchten
+                        mußte und als Krankenwärterin im Spital zu Budapest Anstellung nahm. Nun versuchte der Unmensch Alles, um die Frau
+                        wieder zur Rückkehr zu bewegen und wendete sich diesfalls auch
+                        an den Domherrn Stephan Kanda. Der Versöhnungsversuch
+                        blieb jedoch erfolglos nnd <seg id="1" type="frame" pos="start">der verkommene <seg id="1" type="speaker">Mensch</seg> hatte nun
+                        den geistlichen Herrn im <seg id="1" type="intExpr">Verdacht</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1"><said id="2" mode="reported" content="speech" level="2" nonfact="yes"><seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">rathe</seg> der Frau von der
+                        Heimkehr ab.</said></said> <said id="3" mode="reported" content="speech" level="1">Oeffentlich <seg id="3" type="intExpr">bedrohte</seg> <seg id="3" type="speaker">er</seg> nun denselben mit Niederschießen.</said> <said id="4" mode="reported" content="thought" level="1"><seg id="4" type="speaker">Man</seg> <seg id="4" type="intExpr">hielt</seg> die Drohung für ein leeres Gerede</said>; allein
+                        am 17. April betrat Csermak die Kirche, stellte sich hinter dem
+                        Messe lesenden Priester auf und schoß nach beendigter hl. Handlung zwei Schüsse auf Herrn Kanda ab. Der erste Schuß
+                        streifte den Scheitel, die zweite Kugel traf das Stirnbein desselben, verletzte das Opfer schwer, prallte jedoch ab. Mit einem
+                        dritten Schusse tödtete sich das Scheusal selbst. Der Schwerverwundete wurde in der Sakristei von drei Aerzten verbunden;
+                        wie durch ein Wunder entging er dem Tode. Altar, Altartücher
+                        und Meßkleid waren mit Blut bespritzt. Die Kirche wurde sofort geschlossen und des andern Tages neu geweit. Religionslosigkeit, gestörter Hausfriede und heimlicher Haß zeitigen entsetzliche Früchte.
+            
+            
+               — Opfer der Frühlingsgewitter. 
+               <said id="5" mode="reported" content="writing" level="1">Laut eingegangenem <seg id="5" type="intExpr">Berichte</seg> aus dem baierischen Harze sind am 20. April
+                        in der Nähe des Ortes Rieder im Ballenstedter Kreise zwei
+                        Personen vom Blitze erschlagen und zwei gelähmt worden.</said>
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>
