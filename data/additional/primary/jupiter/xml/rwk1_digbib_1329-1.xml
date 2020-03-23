@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Fähnlein der sieben Aufrechten</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Faehnlein_der_sieben_Aufrechten.tg823_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1860</f>
+         <f name="decade">1860</f>
+         <f name="title">Das Fähnlein der sieben Aufrechten</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><said id="2" mode="direct" content="speech" level="2">Nun, ich habe <said id="3" mode="reported" content="speech" level="3" nonfact="yes" prag="yes">gottlob</said> noch Kredit!‹</said> <said id="4" mode="reported" content="speech" level="2">So spricht er</said> und schüchtert, <said id="5" mode="reported" content="thought" level="2" prag="yes"><said id="6" mode="reported" content="speech" level="3">indem er noch <said id="7" mode="reported" content="speech" level="4">eine grausame Prahlerei</said> damit zu verbinden weiß</said></said>, seine armen Brüder, seinen alten Vater ein, <said id="8" mode="reported" content="speech" level="2" nonfact="yes">daß sie <said id="9" mode="reported" content="thought" level="3">ihr Anliegen</said> verschweigen</said> und sich nur wieder fortmachen, <said id="10" mode="reported" content="thought" level="2">nachdem sie seinen Garten und seinen Balkon und seine sinnreiche Kelter bewundert.</said> Und sie gehen zu fremden Leuten, um Hilfe zu suchen, und bezahlen gern höhere Zinsen, <said id="11" mode="reported" content="speech" level="2" nonfact="yes">um nur nicht <said id="12" mode="reported" content="speech" level="3" nonfact="yes">soviel Geschwätz</said> hören zu müssen.</said> Seine Kinder sind fein und köstlich gekleidet und gehen elastisch über die Straßen; sie bringen den armen Vetterchen und Bäschen kleine Geschenke und holen sie alljährlich zweimal zum Essen, und es ist dies den reichen Kindern ein großer Jux; aber wenn die Gäste ihre Schüchternheit verlieren und auch laut werden, so füllt man ihre Taschen mit Äpfeln und schickt sie nach Hause. <seg id="13" type="frame" pos="start">Dort <seg id="13" type="intExpr">erzählen</seg> <seg id="13" type="speaker">sie</seg> alles,</seg> <said id="13" mode="indirect" content="speech" level="2">was sie gesehen und was sie zu essen bekommen haben</said>, <said id="14" mode="reported" content="speech" level="2">und alles wird getadelt</said>; <said id="15" mode="reported" content="thought" level="2" border="yes">denn Groll und Neid erfüllt die armen Schwägerinnen</said>, <said id="16" mode="reported" content="speech" level="2">welche nichtsdestoweniger der wohlhabenden Person schmeicheln</said> <said id="17" mode="reported" content="speech" level="2">und deren Staat rühmen mit beredten Zungen.</said> Endlich kommt ein Unglück über den Vater oder über die Brüder, und der reiche Mann muß nun wohl oder übel, <said id="18" mode="reported" content="speech" level="2">des Gerüchtes</said> wegen, vor den Riß stehen. Er tut es auch, <said id="19" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">ohne sich lange bitten zu lassen</said>; aber nun ist das Band brüderlicher Gleichheit und Liebe ganz zerrissen! Die Brüder und ihre Kinder sind nun die Knechte und Untertanenkinder des Herren; <said id="20" mode="reported" content="speech" level="2">jahraus und – ein werden sie geschulmeistert und zurechtgewiesen</said>, in grobes Tuch müssen sie sich kleiden und schwarzes Brot essen, um einen kleinen Teil des Schadens wieder einzubringen, und die Kinder werden in Waisenhäuser und Armenschulen gesteckt, und wenn sie stark genug sind, müssen sie arbeiten im Hause des Herren und unten an seinem Tische sitzen, <said id="21" mode="reported" content="speech" level="2" nonfact="yes">ohne zu sprechen.</said>«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Hu!«</said> <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">rief</seg> die <seg id="22" type="speaker">Frau</seg>,</seg> <said id="22" mode="direct" content="speech" level="1">»was sind das für Geschichten! Und willst du wirklich deinen eigenen Sohn hier für einen solchen Schubiack halten? <seg id="23" type="frame" pos="start">Und ist es denn <seg id="23" type="intExpr">geschrieben</seg>,</seg> <said id="23" mode="indirect" content="writing" level="2" nonfact="yes" prag="yes">daß gerade seine Brüder ein solches Unglück treffen sollte, das sie zu seinen Knechten machte?</said> <said id="24" mode="reported" content="thought" level="2" border="yes">Sie, die sich schon selbst zu helfen wußten bis jetzt?</said> Nein, <seg id="25" type="frame" pos="start">da <seg id="25" type="intExpr">glaube</seg> <seg id="25" type="speaker">ich</seg> doch zur Ehre unseres eigenen Blutes,</seg> <said id="25" mode="indirect" content="thought" level="2">daß wir durch eine reiche Heirat nicht dergestalt aus dem Häuschen gerieten, vielmehr sich <said id="26" mode="reported" content="thought" level="3">meine bessere Ansicht</said> bestätigen würde!</said>«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»<seg id="29" type="frame" pos="start"><said id="28" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="29" type="speaker">Ich</seg> will nicht <seg id="29" type="intExpr">behaupten</seg></said>«</seg></said><seg id="29" type="frame" pos="start">,</seg> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">erwiderte</seg> <seg id="27" type="speaker">Hediger</seg>,</seg> <said id="27" mode="direct" content="speech" level="1">»<said id="29" mode="indirect" content="speech" level="2" nonfact="yes">daß es gerade bei uns so zuginge</said>; aber auch bei uns würde dennoch die äußere und endlich auch die innere Ungleichheit eingeführt; <said id="30" mode="reported" content="thought" level="2">wer nach Reichtum trachtet</said>, <said id="31" mode="reported" content="thought" level="2">der strebt seinesgleichen ungleich zu werden</said> –«</said> 
+                  <said id="32" mode="direct" content="speech" level="1">»Larifari!«</said> <seg id="32" type="frame" pos="mid"><seg id="32" type="intExpr">unterbrach</seg> ihn die <seg id="32" type="speaker">Frau</seg>,</seg> indem sie das Tischtuch zusammennahm und zum Fenster hinausschüttelte, <said id="32" mode="direct" content="speech" level="1">»ist denn Frymann, der das Gut in Händen hat, <said id="33" mode="reported" content="speech" level="2">um das wir uns streiten</said>, euch andern ungleich geworden? Seid ihr nicht ein Herz und eine Seele <said id="34" mode="reported" content="speech" level="2" nonfact="yes">und steckt immer die Köpfe zusammen?</said>«</said> 
+                  <said id="35" mode="direct" content="speech" level="1">»Das ist was anderes!«</said> <seg id="35" type="frame" pos="mid"><seg id="35" type="intExpr">rief</seg> der <seg id="35" type="speaker">Mann</seg>,</seg> <said id="35" mode="direct" content="speech" level="1">»was ganz anderes! Der hat sein Gut nicht erschlichen oder in der Lotterie gewonnen, sondern Taler um Taler durch seine Mühe erworben während vierzig Jahren. Und dann sind wir nicht Brüder, ich und er, <said id="36" mode="reported" content="thought" level="2" nonfact="yes">und gehen einander nichts an</said> und wollen es ferner so halten, das ist der Punkt!</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

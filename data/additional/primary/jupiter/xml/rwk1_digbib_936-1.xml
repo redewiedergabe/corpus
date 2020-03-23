@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>2. Erzählung. Die Geschichte vom Knecht Nikolaus</title>
+             <author>Büchner, Luise</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Buechner,_Luise_2__Erzaehlung__Die_Geschichte_vom_Knecht_Nikolaus.tg109_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">2. Erzählung. Die Geschichte vom Knecht Nikolaus</f>
+         <f name="author">Büchner, Luise</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Frau Holle</seg> hielt ihren Wagen an und <seg id="1" type="intExpr">sagte</seg> freundlich:</seg> <said id="1" mode="direct" content="speech" level="1">»Guten Abend, lieber Mann!«</said> 
+                  <seg id="2" type="frame" pos="start">Der <seg id="2" type="speaker">Mann</seg> <seg id="2" type="intExpr">brummte</seg> mürrisch, ohne aufzusehen:</seg> <said id="2" mode="direct" content="speech" level="1">»Guten Abend!«</said> 
+                  <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Frau Holle</seg> ließ sich nicht abschrecken und <seg id="3" type="intExpr">fuhr</seg> <seg id="3" type="intExpr">fort</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Wie heißt du denn, lieber Mann?«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Nikolaus,«</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">brummte</seg> <seg id="4" type="speaker">er</seg> ebenso mürrisch als zuvor,</seg> <said id="4" mode="direct" content="speech" level="1">»und ich bin auch kein lieber Mann.«</said> 
+                  <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Frau Holle</seg> <seg id="5" type="intExpr">lachte</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Warum denn nicht, wer hat dir denn etwas getan?«</said> 
+                  
+                     <said id="6" mode="direct" content="speech" level="1">»Niemand!«</said> <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">knurrte</seg> <seg id="6" type="speaker">er</seg> wieder,</seg> <said id="6" mode="direct" content="speech" level="1">»es sollte mir auch nur einer kommen!«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»Nun, <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">wer</seg> <seg id="8" type="intExpr">sagt</seg> denn,</seg> <said id="8" mode="indirect" content="speech" level="2">daß du kein lieber Mann bist?</said>«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="speech" level="2">Das sagen alle bösen, unartigen Kinder</said>, <said id="11" mode="reported" content="thought" level="2" border="yes">die ich durchaus nicht leiden kann</said>«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">antwortete</seg> der <seg id="9" type="speaker">Nikolaus</seg></seg>, und sah dabei das gute Christkindchen ganz scharf und durchdringend an; es lächelte aber nur freundlich dagegen, <seg id="12" type="frame" pos="start">denn <seg id="12" type="speaker">es</seg> <seg id="12" type="intExpr">wußte</seg> ja,</seg> <said id="12" mode="indirect" content="thought" level="1"><said id="13" mode="reported" content="thought" level="2" nonfact="yes" border="yes">daß es sich nicht zu fürchten brauche.</said></said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ei, lieber Nikolaus, da geht es mir grade wie dir,«</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">antwortete</seg> <seg id="14" type="speaker">Frau Holle</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»<seg id="15" type="frame" pos="start">und nun <seg id="15" type="intExpr">sage</seg> mir auch noch,</seg> <said id="15" mode="indirect" content="speech" level="2" nonfact="yes">wozu du bei deinen großen Besen die vielen kleinen liegen hast</said>, mit denen kann man doch nicht fegen.«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Ha, ha,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">lachte</seg> der <seg id="16" type="speaker">Nikolaus</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»das ist meine Erfindung; die kleinen Besen sind Ruten für die ungezogenen Kinder. Wenn ich den Müttern meine Besen verkaufe <seg id="17" type="frame" pos="start">und <seg id="17" type="speaker">ich</seg> <seg id="17" type="intExpr">höre</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2">daß unartiges kleines Volk im Hause ist</said>, schenke ich ihnen eine tüchtige Rute, um die bösen Schreier damit gehörig durchzubläuen. <said id="18" mode="reported" content="thought" level="2" border="yes">Da haben sie denn eine gewaltige Furcht vor mir</said>, und wenn ein Kind nicht gleich folgen will, <seg id="19" type="frame" pos="start"><seg id="19" type="intExpr">sagt</seg> die <seg id="19" type="speaker">Mutter</seg> nur zu ihm:</seg> <said id="19" mode="direct" content="speech" level="2">›Schweig gleich still, sonst kommt der Besenbinder Nikolaus und bringt dir eine Rute.‹</said>«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Ach, lieber Nikolaus,«</said> <seg id="20" type="frame" pos="mid"><seg id="20" type="intExpr">sagte</seg> <seg id="20" type="speaker">Frau Holle</seg>,</seg> <said id="20" mode="direct" content="speech" level="1">»wir passen ja ausgezeichnet gut füreinander; <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">sage</seg> mir nun auch noch,</seg> <said id="21" mode="indirect" content="speech" level="2" nonfact="yes">wo du herkommst.</said>«</said> 
+                  <said id="22" mode="direct" content="speech" level="1">»Da,«</said> <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">sagte</seg> <seg id="22" type="speaker">er</seg></seg> und deutete auf die Berge, <said id="22" mode="direct" content="speech" level="1">»da hinter dem Böllstein bin ich her; dort steht mein Häuschen, in dem ich mich im Winter ausruhe und auf der warmen Ofenbank mein Pfeifchen rauche.«</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»<said id="24" mode="reported" content="thought" level="2" border="yes">Verstehst du denn sonst gar nichts als Besen binden</said>, lieber Nikolaus?«</said> 
+                  Den Nikolaus machte <said id="25" mode="reported" content="speech" level="1">das viele Fragen</said> ungeduldig; er hatte immer fortgearbeitet und warf nun einen fertigen Besen zu den übrigen, daß es laut klatschte und das Christkindchen ganz erschrocken in die Höhe fuhr. <said id="26" mode="direct" content="speech" level="1">»Ha, ha!«</said> <seg id="26" type="frame" pos="mid"><seg id="26" type="intExpr">rief</seg> <seg id="26" type="speaker">er</seg>,</seg> <said id="26" mode="direct" content="speech" level="1">»hast du auch Respekt vor den Ruten?«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»Stille, stille, Nikolaus,«</said> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">sagte</seg> jetzt <seg id="27" type="speaker">Frau Holle</seg> gebieterisch,</seg> <said id="27" mode="direct" content="speech" level="1">»mein Kind braucht keine Ruten; <said id="28" mode="reported" content="speech" level="2" nonfact="yes">gib mir schnell Antwort</said> auf das, <said id="29" mode="reported" content="speech" level="2">was ich dich fragte.</said>«</said> 
+                  Zum erstenmal sah jetzt der Nikolaus die Frau Holle und das Christkind ordentlich an; <said id="30" mode="reported" content="thought" level="1" border="yes">da ward ihm ganz sonderbar zumute.</said> Er stand auf, zog seine Mütze ab, kratzte sich hinter den Ohren <seg id="31" type="frame" pos="start">und <seg id="31" type="intExpr">sagte</seg> dann:</seg> <said id="31" mode="direct" content="speech" level="1">»Na, <seg id="32" type="frame" pos="start"><seg id="32" type="speaker">ich</seg> <seg id="32" type="intExpr">weiß</seg> nicht,</seg> <said id="32" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wie das kommt</said>, <said id="33" mode="reported" content="speech" level="2">aber so lange, wie mit Euch, habe ich noch mit niemand im Leben gesprochen</said>, <said id="34" mode="reported" content="speech" level="2">und ich muß Euch auf alles Antwort geben</said>, <said id="35" mode="reported" content="thought" level="2">wenn ich auch gar nicht will.</said> Eigentlich bin ich ein Lebkuchenbäcker, und keiner im ganzen Odenwalde kann süßere und würzigere Lebkuchen machen als ich. Wenn ich aber nun so im Sommer mit meinen Lebkuchen zum Verkaufe herumzog, an die Fenster klopfte und dann oft drinnen in den Stuben den Schmutz und Unrat haufenweis herumliegen sah, <said id="36" mode="reported" content="thought" level="2" border="yes">da habe ich mich ganz entsetzlich geärgert</said>, <said id="37" mode="reported" content="thought" level="2" border="yes">denn nichts ist mir unausstehlicher als der Schmutz.</said></said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

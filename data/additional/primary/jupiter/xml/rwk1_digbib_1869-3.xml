@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Lady Makbeth des Mzensker Landkreises</title>
+             <author>Leskov, Semënovi? Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Die_Lady_Makbeth_des_Mzensker_Landkreises.tg27_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Lady Makbeth des Mzensker Landkreises</f>
+         <f name="author">Leskov, Semënovi? Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Katerina Lwowna hört indessen, wie ihr Mann dicht vor die Türe kommt und mit verhaltenem Atem lauscht. Sie hört sogar sein Herz vor Eifersucht klopfen; <said id="1" mode="reported" content="thought" level="1" border="yes">sie fühlt aber kein Mitleid, sondern nur ein böses Lachen in sich aufsteigen.</said> 
+                     <said id="2" mode="direct" content="thought" level="1">»Ja, suche nur den gestrigen Tag!«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">denkt</seg> <seg id="2" type="speaker">sie</seg> sich</seg> und lächelt so unschuldig wie ein neugeborenes Kind. 
+                     Das dauerte an die zehn Minuten. Schließlich wurde es Sinowij Borissowitsch zu dumm, draußen zu stehen und zu lauschen, wie seine Frau schläft. Er klopfte an. 
+                     <said id="3" mode="direct" content="speech" level="1">»Wer ist da?«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">rief</seg> <seg id="3" type="speaker">Katerina Lwowna</seg> nach einer Weile mit verschlafener Stimme.</seg> 
+                     
+                        <said id="4" mode="direct" content="speech" level="1">»Einer von der Familie«</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">antwortete</seg> <seg id="4" type="speaker">Sinowij Borissowitsch</seg>.</seg> 
+                     <said id="5" mode="direct" content="speech" level="1">»Bist du es, Sinowij Borissowitsch?«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Natürlich! Als ob du es nicht hörtest!«</said> 
+                     Katerina Lwowna sprang im bloßen Hemd auf, ließ den Mann ein und schlüpfte wieder in das warme Bett. 
+                     <said id="7" mode="direct" content="speech" level="1">»Vor Sonnenaufgang ist es immer so kalt,«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">sie</seg>, sich in die Decke hüllend.</seg> 
+                     Sinowij Borissowitsch trat ein, sah sich um, <said id="8" mode="reported" content="speech" level="1">betete vor dem Heiligenbilde</said> und sah sich wieder um. 
+                     <said id="9" mode="direct" content="speech" level="1">»Nun, wie geht es dir?«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">fragte</seg> <seg id="9" type="speaker">er</seg> seine Frau.</seg> 
+                     <said id="10" mode="direct" content="speech" level="1">»Es geht«</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">antwortete</seg> <seg id="10" type="speaker">Katerina Lwowna</seg></seg>, sich aufsetzend und eine vorne offene Jacke anziehend. 
+                     <said id="11" mode="direct" content="speech" level="1">»Ich soll wohl den Samowar bereiten?«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">fragte</seg> <seg id="11" type="speaker">sie</seg>.</seg> 
+                     <said id="12" mode="direct" content="speech" level="1">»Nein, wecke die Aksinja, daß sie es macht.«</said> 
+                     Katerina Lwowna schlüpfte in die Schuhe und lief hinaus. Eine halbe Stunde blieb sie fort. In dieser Zeit machte sie den Samowar und schlich sich leise auf die Galerie hinaus. 
+                     <said id="13" mode="direct" content="speech" level="1">»Bleib da!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">flüsterte</seg> <seg id="13" type="speaker">sie</seg> Ssergej zu.</seg> 
+                     <said id="14" mode="direct" content="speech" level="1">»Wie lange soll ich noch sitzen?«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fragte</seg> <seg id="14" type="speaker">Sserjoscha</seg> gleichfalls flüsternd.</seg> 
+                     <said id="15" mode="direct" content="speech" level="1">»Wie dumm du doch bist! Sitz, <said id="16" mode="reported" content="speech" level="2" nonfact="yes">bis ich dich rufe.</said>«</said> 
+                     Und Katerina Lwowna setzte ihn wieder auf die gleiche Stelle hin. 
+                     Ssergej konnte aber von der Galerie alles hören, was im Schlafzimmer vorging. Er hörte, wie die Türe wieder aufging und wie Katerina Lwowna zu ihrem Mann zurückkehrte. <said id="17" mode="reported" content="speech" level="1">Jedes Wort konnte er hören.</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Was hast du so lange getrieben?«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">fragte</seg> <seg id="18" type="speaker">Sinowij Borissowitsch</seg> seine Frau.</seg> 
+                     
+                        <said id="19" mode="direct" content="speech" level="1">»Den Samowar habe ich gemacht«</said><seg id="19" type="frame" pos="end">, <seg id="19" type="intExpr">antwortet</seg> <seg id="19" type="speaker">sie</seg> ruhig.</seg> 
+                     Es vergehen wieder einige Minuten. Ssergej hört, wie Sinowij Borissowitsch seinen Rock auf den Kleiderrechen hängt. Nun wäscht er sich und spritzt mit dem Wasser umher; <said id="20" mode="reported" content="speech" level="1">dann läßt er sich ein Handtuch geben</said>; <said id="21" mode="reported" content="speech" level="1">dann beginnt er wieder ein Gespräch.</said> 
+                     <said id="22" mode="direct" content="speech" level="1">»Wie habt ihr den Vater beerdigt?«</said> <seg id="22" type="frame" pos="end"><seg id="22" type="intExpr">fragt</seg> <seg id="22" type="speaker">er</seg>.</seg> 
+                     <said id="23" mode="direct" content="speech" level="1">»Er ist verschieden, und wir haben ihn beerdigt«</said><seg id="23" type="frame" pos="end">, <seg id="23" type="intExpr">antwortet</seg> <seg id="23" type="speaker">sie</seg>.</seg> 
+                     <said id="24" mode="direct" content="speech" level="1">»Das ist doch wirklich sonderbar!«</said> 
+                     <said id="25" mode="direct" content="speech" level="1">»<seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Gott</seg> allein <seg id="26" type="intExpr">weiß</seg>,</seg> <said id="26" mode="indirect" content="thought" level="2" border="yes" prag="yes">wie es gekommen ist</said>,«</said> <seg id="25" type="frame" pos="end"><seg id="25" type="intExpr">antwortet</seg> <seg id="25" type="speaker">Katerina Lwowna</seg></seg>, mit den Teetassen klappernd. 
+                     <said id="27" mode="reported" content="thought" level="1">Sinowij Borissowitsch geht nachdenklich durch das Zimmer.</said> 
+                    <said id="28" mode="direct" content="speech" level="1"> »Nun, und wie hast du die Zeit verbracht?«</said> <seg id="28" type="frame" pos="end"><seg id="28" type="intExpr">fragt</seg> <seg id="28" type="speaker">Sinowij Borissowitsch</seg> seine Frau von neuem aus.</seg> 
+                     <said id="29" mode="direct" content="speech" level="1">»<seg id="30" type="frame" pos="start"><seg id="30" type="speaker">Ich</seg> <seg id="30" type="intExpr">glaube</seg>,</seg> <said id="30" mode="indirect" content="thought" level="2" border="yes">unser Zeitvertreib ist jedermann bekannt</said>; Bälle besuchen wir nicht, Theater ebenfalls nicht.«</said> 
+                     <said id="31" mode="direct" content="speech" level="1">»Du scheinst dich aber wenig über die Rückkehr des Gatten zu freuen!«</said> <seg id="31" type="frame" pos="end"><seg id="31" type="intExpr">beginnt</seg> <seg id="31" type="speaker">Sinowij Borissowitsch</seg> wieder, sie scheel anblickend.</seg> 
+                     <said id="32" mode="direct" content="speech" level="1">»Wir beide sind ja nicht mehr so jung, daß wir vor Freude den Verstand verlieren sollen! Was soll ich mich auch freuen? Nun muß ich wieder für dich arbeiten und herumrennen!«</said> 
+                     <seg id="33" type="frame" pos="start"><seg id="33" type="speaker">Katerina Lwowna</seg> lief hinaus, um den Samowar zu holen, machte wieder einen Sprung auf die Galerie zu Ssergej, zupfte ihn am Ärmel und <seg id="33" type="intExpr">sagte</seg> ihm:</seg> <said id="33" mode="direct" content="speech" level="1">»Sserjoscha, paß jetzt auf!«</said> 
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

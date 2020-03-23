@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gespräch über Beine</title>
+             <author>Lichtenstein, Alfred</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Lichtenstein,_Alfred_Gespraech_ueber_Beine.tg128_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1915</f>
+         <f name="decade">1910</f>
+         <f name="title">Gespräch über Beine</f>
+         <f name="author">Lichtenstein, Alfred</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Und als Andenken mitgenommen. 
+                  <seg id="1" type="frame" pos="start">Der <seg id="1" type="speaker">Herr</seg> <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Was ist das?«</said> 
+                  <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Ich</seg> <seg id="2" type="intExpr">sagte</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Meine Beine.«</said> 
+                  <seg id="3" type="frame" pos="start">Der <seg id="3" type="speaker">Herr</seg> <seg id="3" type="intExpr">sagte</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Sie nehmen die Beine in die Hand und kommen dennoch nicht weiter.«</said> 
+                  <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> <seg id="4" type="intExpr">sagte</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Leider.«</said> 
+                  <seg id="5" type="frame" pos="start">Nach einer Pause <seg id="5" type="intExpr">sagte</seg> der <seg id="5" type="speaker">Herr</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="reported" content="thought" level="2" nonfact="yes" prag="yes">Was gedenken Sie ohne Beine eigentlich zu tun?</said>«</said> 
+                  <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">sagte</seg>:</seg> <said id="7" mode="direct" content="speech" level="1">»<said id="8" mode="reported" content="thought" level="2" nonfact="yes">Darüber habe ich mir den Kopf noch nicht zerbrochen.</said>«</said> 
+                  <seg id="9" type="frame" pos="start">Der <seg id="9" type="speaker">Herr</seg> <seg id="9" type="intExpr">sagte</seg>:</seg> <said id="9" mode="direct" content="speech" level="1">»Ohne Beine können Sie nicht einmal ohne Schwierigkeit Selbstmord begehen.«</said> 
+                  <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">sagte</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">»Das ist aber <said id="11" mode="reported" content="speech" level="2">ein fauler Witz.</said>«</said> 
+                  <seg id="12" type="frame" pos="start">Der <seg id="12" type="speaker">Herr</seg> <seg id="12" type="intExpr">sagte</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»Nicht doch. Wenn Sie sich erhängen wollen, müßte Sie einer erst auf das Fensterbrett heben. Und wer wird Ihnen den Gashahn öffnen, wenn Sie sich vergiften wollen? Den Revolver könnten Sie sich nur heimlich durch einen Dienstmann besorgen lassen. Wie aber, wenn Ihnen der Schuß davonläuft? Um sich zu ertränken, müßten Sie ein Auto nehmen und sich auf einer Tragbahre von zwei Pflegern in den Fluß schleppen lassen, der Sie an das jenseitige Ufer befördern soll.«</said> <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">sagte</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Das ist doch wohl meine Sorge.«</said> 
+                  <seg id="14" type="frame" pos="start">Der <seg id="14" type="speaker">Herr</seg> <seg id="14" type="intExpr">sagte</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="thought" level="2">Sie irren</said>, <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">ich</seg> <seg id="16" type="intExpr">überlege</seg>,</seg> seitdem Sie da sind, <said id="16" mode="indirect" content="thought" level="2">wie man Sie aus dieser Welt schaffen könnte.</said> <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">Meinen</seg> <seg id="17" type="speaker">Sie</seg>,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">ein Mensch ohne Beine sei ein sympathischer Anblick?</said> Habe auch Existenzberechtigung? Im Gegenteil, Sie stören das ästhetische Gefühl Ihrer Mitmenschen erheblich.«</said> 
+                  <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Ich</seg> <seg id="18" type="intExpr">sagte</seg>:</seg> <said id="18" mode="direct" content="speech" level="1">»Ich bin ordentlicher Professor für Ethik und Ästhetik an der Universität. <said id="19" mode="reported" content="speech" level="2" nonfact="yes">Darf ich mich vorstellen?</said>«</said> 
+                  <seg id="20" type="frame" pos="start">Der <seg id="20" type="speaker">Herr</seg> <seg id="20" type="intExpr">sagte</seg>:</seg> <said id="20" mode="direct" content="speech" level="1">»Wie wollen Sie das machen? <said id="21" mode="reported" content="speech" level="2" nonfact="yes">Sie können sich selbstverständlich nicht vorstellen</said>, wie unmöglich Sie sind.«</said> 
+                  <said id="22" mode="reported" content="thought" level="1" border="yes">Ich betrachtete melancholisch meine Stummel.</said>
+               
+               
+                  II
+                  <seg id="23" type="frame" pos="start">Alsbald <seg id="23" type="intExpr">sagte</seg> die <seg id="23" type="speaker">Dame</seg> gegenüber:</seg> 
+                  <said id="23" mode="direct" content="speech" level="1">»Keine Beine haben muß ein komisches Gefühl sein.«</said> 
+                  <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">Ich</seg> <seg id="24" type="intExpr">sagte</seg>:</seg> <said id="24" mode="direct" content="speech" level="1">»Ja.«</said> 
+                  <seg id="25" type="frame" pos="start">Die <seg id="25" type="speaker">Dame</seg> <seg id="25" type="intExpr">sagte</seg>:</seg> <said id="25" mode="direct" content="speech" level="1">»Ich möchte einen Mann, der keine Beine hat, nicht anfassen.«</said> 
+                  <seg id="26" type="frame" pos="start"><seg id="26" type="speaker">Ich</seg> <seg id="26" type="intExpr">sagte</seg>:</seg> <said id="26" mode="direct" content="speech" level="1">»Ich bin sehr sauber.«</said> 
+                  <seg id="27" type="frame" pos="start">Die <seg id="27" type="speaker">Dame</seg> <seg id="27" type="intExpr">sagte</seg>:</seg> <said id="27" mode="direct" content="speech" level="1">»Ich muß <said id="28" mode="reported" content="thought" level="2" border="yes">einen großen erotischen Abscheu</said> überwinden, <said id="29" mode="reported" content="speech" level="2">um mit Ihnen zu reden</said>, <said id="30" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">geschweige denn Sie anzusehen.</said>«</said> 
+                  <seg id="31" type="frame" pos="start"><seg id="31" type="speaker">Ich</seg> <seg id="31" type="intExpr">sagte</seg>:</seg> <said id="31" mode="direct" content="speech" level="1">»Nanu.«</said> 
+                  <seg id="32" type="frame" pos="start">Die <seg id="32" type="speaker">Dame</seg> <seg id="32" type="intExpr">sagte</seg>:</seg> <said id="32" mode="direct" content="speech" level="1">»<seg id="33" type="frame" pos="start"><seg id="33" type="speaker">Ich</seg> <seg id="33" type="intExpr">glaube</seg> nicht,</seg> <said id="33" mode="indirect" content="thought" level="2">daß Sie ein Verbrecher sind.</said> Sie mögen ein kluger und ursprünglich liebenswerter Mensch sein. Aber ich könnte mit Ihnen wegen der Ihnen fehlenden Beine beim besten Willen nicht verkehren.«</said> 
+<seg id="34" type="frame" pos="start"><seg id="34" type="speaker">Ich</seg> <seg id="34" type="intExpr">sagte</seg>:</seg> <said id="34" mode="direct" content="speech" level="1">»Man gewöhnt sich an alles.«</said> 
+                  <seg id="35" type="frame" pos="start">Die <seg id="35" type="speaker">Dame</seg> <seg id="35" type="intExpr">sagte</seg>:</seg> <said id="35" mode="direct" content="speech" level="1">»Daß einer keine Beine hat, verursacht bei dem natürlich empfindenden Weibe <said id="36" mode="reported" content="thought" level="2" border="yes"><said id="37" mode="reported" content="speech" level="3" nonfact="yes">ein unerklärliches Gefühl</said> tiefsten Grauens.</said> Als ob Sie eine ekelhafte Sünde begangen hätten.«</said> 
+                  <seg id="38" type="frame" pos="start"><seg id="38" type="speaker">Ich</seg> <seg id="38" type="intExpr">sagte</seg>:</seg> <said id="38" mode="direct" content="speech" level="1">»Ich bin aber unschuldig. Das eine Bein kam mir in der Aufregung abhanden, als ich zum ersten Mal meinen Professorenstuhl einnahm, das zweite habe ich verloren, als ich, <said id="39" mode="reported" content="thought" level="2">in Gedanken versunken</said>, jenes wichtige ästhetische Gesetz fand, das zu grundlegenden Änderungen in unserer Disziplin führte.«</said> 
+                  <seg id="40" type="frame" pos="start">Die <seg id="40" type="speaker">Dame</seg> <seg id="40" type="intExpr">sagte</seg>:</seg> <said id="40" mode="direct" content="speech" level="1">»Wie heißt dieses Gesetz?«</said> 
+                  <seg id="41" type="frame" pos="start"><seg id="41" type="speaker">Ich</seg> <seg id="41" type="intExpr">sagte</seg>:</seg> <said id="41" mode="direct" content="speech" level="1">»Das Gesetz heißt: Es kommt nur auf die Struktur der Seele und des Geistes an. Wenn Seele und Geist edel ist, <said id="42" mode="reported" content="thought" level="2" border="yes">muß man einen Körper schön finden</said>, mag er äußerlich noch so bucklig und entstellt sein.«</said> 
+                  Die Dame hob ostentativ ihr Kleid und zeigte dadurch bis an den oberen Rand der Oberschenkel wunderschöne, in allerhand Seide gehüllte, Beine, die wie blühende Zweige aus dem saftigen Leibe ragten. 
+                  <seg id="43" type="frame" pos="start">Unterdessen <seg id="43" type="intExpr">sagte</seg> die <seg id="43" type="speaker">Dame</seg> endgültig:</seg> <said id="43" mode="direct" content="speech" level="1">»Sie mögen recht haben, <said id="44" mode="reported" content="speech" level="2" nonfact="yes">obwohl man ebensogut das Gegenteil behaupten könnte.</said></said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

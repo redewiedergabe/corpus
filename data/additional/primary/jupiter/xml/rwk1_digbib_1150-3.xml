@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Vorzugsschüler</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_Vorzugsschueler.tg125_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Vorzugsschüler</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Einem</seg> oder dem <seg id="1" type="speaker">andern</seg> <seg id="1" type="intExpr">fiel</seg> <seg id="1" type="intExpr">auf</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">wie sonderbar <said id="2" mode="direct" content="speech writing" level="2">»verloren«</said> er aussah.</said> 
+                  <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Keiner</seg> hatte Lust und Zeit, ihn zu <seg id="3" type="intExpr">fragen</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes">was ihm sei.</said> <seg id="4" type="frame" pos="start">Ein <seg id="4" type="speaker">Tischlerjunge</seg> nur, der einen Handwagen schleppte und an den er angestoßen war, <seg id="4" type="intExpr">rief</seg> ihm <seg id="4" type="intExpr">zu</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Hüo! wo hast dein Schädel? Anhaut mitsamt der Mitzen?«</said> 
+                  Unwillkürlich griff Georg nach seinem Kopfe. Er war barhaupt, hatte seine Mütze in der Schule gelassen und auch seine Lernsachen. Daran lag aber nichts. <said id="5" mode="reported" content="speech" level="1" nonfact="yes">Ihn würde niemand nach ihnen fragen.</said> Er konnte ja nicht mehr heim. <said id="6" mode="direct" content="speech" level="1">»Komm mir nicht nach Hause mit einer schlechten Note!«</said> <said id="7" mode="reported" content="speech" level="1">Diese Worte dröhnten unablässig an sein Ohr.</said> <said id="8" mode="freeIndirect" content="thought" level="1">Jetzt mußte er sie bekommen, die schlechte Note, die erste wirklich schlechte. Was würde der Vater jetzt mit ihm tun? Und wie würde die Mutter sich kränken... Nein, nein, Vater und Mutter, er wagt es nicht, er kommt nicht mehr zurück, er geht, wohin schon mancher unglückliche Schüler gegangen ist: in die Donau.</said> Und <said id="9" mode="reported" content="thought" level="1"><said id="10" mode="reported" content="thought" level="2">dieser eine Gedanke</said>, je länger er ihn vor sich sah als das Unabwendbare, einzige, je mehr befreundete er sich mit ihm.</said> <said id="11" mode="reported" content="thought" level="1">Dieser Gedanke mit dem dunklen Kerne</said> hatte eine blendende Atmosphäre und fing an eine große Helligkeit zu verbreiten. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Er</seg> <seg id="12" type="intExpr">gestaltete</seg> sich jetzt so:</seg> <said id="12" mode="direct" content="thought" level="1">Ich muß in die Donau, ich will aber auch, und gern. Wie gut ist es, tot zu sein, <seg id="13" type="frame" pos="start">nicht mehr <seg id="13" type="intExpr">hören</seg> müssen:</seg> <said id="13" mode="direct" content="speech" level="2" nonfact="yes">Lern!</said> Wie gut auch, wenn es keinen Zwiespalt mehr zwischen den Eltern gibt.</said> <said id="14" mode="direct" content="thought" level="1">Aber du begehst einen Selbstmord</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">fuhr</seg> es <seg id="14" type="speaker">ihm</seg> durch den <seg id="14" type="intExpr">Sinn</seg>,</seg> <said id="14" mode="direct" content="thought" level="1">und ein Selbstmord ist eine Todsünde.</said> Ihn schauderte. <said id="15" mode="direct" content="speech" level="1">»Lieber Gott! Allgütiger!«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">stöhnte</seg> <seg id="15" type="speaker">er</seg> und blickte flehend zum Himmel empor.</seg> <said id="15" mode="direct" content="speech" level="1">»Rechne mir meinen Tod nicht als Sünde an! Ich will keine Sünde begehen, ich will sterben für den Frieden meiner Eltern. Mein Tod ist ein Opfertod.«</said> 
+                  <said id="16" mode="freeIndirect" content="thought" level="1">Ein Opfertod!</said> 
+                  An dieses Wort klammerte er sich; es brachte ihm Trost. Es verwandelte die Tat der Verzweiflung in eine Heldentat und schwerste Schuld in ein Märtyrertum. Es ging auf vor dem armen, irrenden, suchenden Kinde wie ein Stern in der Nacht. <said id="17" mode="reported" content="thought" level="1" nonfact="yes">Keine Erwägung</said>, <said id="18" mode="reported" content="thought" level="1" nonfact="yes">keine Überlegung</said>, <said id="19" mode="reported" content="thought" level="1" nonfact="yes">kein Zweifel mehr</said>, <said id="20" mode="reported" content="thought" level="1" nonfact="yes">nicht die geringste Fähigkeit, sich etwas anderes vorzustellen</said>, nur die rasende, unbezwingliche Sehnsucht, Erlösung zu erfahren und Erlösung zu bringen.
+                  Er war am Ende der Straße angelangt, bog in die Seitengasse ein, die auf den Kai mündete. Bleierne Müdigkeit lag ihm in den Gliedern, sein Kopf brannte und schmerzte bis zur Bewußtlosigkeit. <said id="21" mode="freeIndirect" content="thought" level="1">Die Donau, die ist ein kühles, weiches Bete, da findet man Ruhe und Labung. Nur sie erreichen, nur bis zu ihr hinkommen!</said> <seg id="22" type="frame" pos="start">Eine dumpfe Angst:</seg> <said id="22" mode="direct" content="thought" level="1">Sie mißgönnen mir die Erlösung, sind hinter mir, verfolgen mich</said>, jagte ihn vorwärts. Er begann zu laufen, <seg id="23" type="frame" pos="start">und dabei <seg id="23" type="intExpr">schien</seg> <seg id="23" type="speaker">ihm</seg>,</seg> <said id="23" mode="indirect" content="thought" level="1">daß er immer auf demselben Fleck bliebe.</said> Das war fürchterlich, noch einmal einen so argen Kampf mit dem Unüberwindlichen kämpfen zu müssen. 
+                  <said id="24" mode="direct" content="speech" level="1">»Wohin? Was sind Sie so eilig?«</said> <seg id="24" type="frame" pos="end"><seg id="24" type="intExpr">sprach</seg> eine wohlbekannte <seg id="24" type="speaker">Stimme</seg> ihn an. </seg>Der Hausierer stand vor ihm. 
+                  <said id="25" mode="direct" content="speech" level="1">»Du?«</said> <seg id="25" type="frame" pos="mid"><seg id="25" type="intExpr">sagte</seg> <seg id="25" type="speaker">er</seg>,</seg> <said id="25" mode="direct" content="speech" level="1">»du, Salomon?«</said> 
+                  <said id="26" mode="reported" content="speech" level="1">Ein wenig Zeit nahm er sich zum Abschied von dem Armen.</said> Auch der war elend, dem es Seligkeit gewesen wäre, in der Schule zu sitzen, aus der Georg entflohen war, und der auf und ab wandeln mußte vom frühen Morgen bis in die späte Nacht in Staub und Sonnenbrand, und sah so krank aus, und seine schmächtige Gestalt war schon ganz schief vom Tragen des schweren Warenkastens.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

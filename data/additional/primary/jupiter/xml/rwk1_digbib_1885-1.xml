@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Eine Sommerschlacht</title>
+             <author>Liliencron, Detlev von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Liliencron,_Detlev_von_Eine_Sommerschlacht.tg261_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1887</f>
+         <f name="decade">1880</f>
+         <f name="title">Eine Sommerschlacht</f>
+         <f name="author">Liliencron, Detlev von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Schweigen des Todes. <seg id="1" type="frame" pos="start">Dann sah <seg id="1" type="speaker">er</seg> aus der Zuschrift auf und <seg id="1" type="intExpr">sagte</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Meine Herren, <said id="2" mode="reported" content="speech writing" level="2">der Krieg ist erklärt.</said>«</said> 
+                  Und wieder geschahs, daß nicht sofort bei uns Offizieren der Jubel ausbrechen konnte. Die Nachricht, stündlich erwartet, war doch zu überwältigend. 
+                  <seg id="3" type="frame" pos="start">Nur ein junger <seg id="3" type="speaker">Dragonerleutnant</seg>, der vielleicht sein Champagnerglas etwas zu häufig hatte den Weg machen lassen zwischen Tisch und Zunge, <seg id="3" type="intExpr">rief</seg> laut:</seg> <said id="3" mode="direct" content="speech" level="1">»Na, denn man druff wie Blücher!«</said> Ein strenger Blick seines Regimentskommandeurs traf ihn; dann wandte dieser seine Augen ein wenig ängstlich auf den General. <seg id="4" type="frame" pos="start">Doch die <seg id="4" type="speaker">Exzellenz</seg> nahm das Wort lustig auf und <seg id="4" type="intExpr">wiederholte</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Ja, meine Herren, denn man druff wie Blücher!«</said> 
+                  In hoher Erregung schlugen unsere Soldatenherzen. 
+                  Auf dem Hofe traf ich gleich darauf den alten Sergeanten Cziczan von meiner Kompagnie. <said id="5" mode="direct" content="speech" level="1">»Nun, <said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes">wissen Sie schon</said>, der Krieg ist erklärt.«</said> <said id="7" mode="direct" content="speech" level="1">»Zu Befell, Herr Leitnant, ich freue mir.«</said> 
+                  Dem alten Sergeanten Cziczan war ich sehr gewogen. <seg id="8" type="frame" pos="start">Hatten jemals die altpreußische Treue, das altpreußische:</seg> <said id="8" mode="direct" content="speech" level="1">»Über alles geht die Pflicht«</said> eine Verkörperung in einem Menschen gefunden, so wars bei Cziczan. Mit zwei gewaltigen oberen Vorderzähnen – die anderen Beißer und Zermalmer fehlten ihm wohl schon – gezeichnet, machte sein Gesicht den ewigen Eindruck, als hätte er die Schwindsucht im höchsten Grade. Aber es gab keinen gesunderen, zäheren Mann als ihn. 
+                  Ich eilte zu meinen Leuten. Beim Eintritt in die Scheune sah ich zurück. <said id="9" mode="reported" content="speech" level="1" border="yes">Mein alter Sergeant las eifrig im »kleinen Waldersee«</said> 
+                        
+                        
+                        1
+                     , den er in jeder Lebenslage mit sich führte. <seg id="10" type="frame" pos="start">Und jedenfalls ruhte sein Auge in diesem Augenblick auf der Stelle:</seg>
+                         
+                  <said id="10" mode="direct" content="writing" level="1">Im Gefecht erprobt sich erst der echte Soldat; im Kugelregen und vor der Spitze feindlicher Bajonette muß es sich zeigen, ob er die erste und unentbehrlichste Eigenschaft des Kriegers, Mut und Unerschrockenheit, besitzt.</said>
+                  
+                     Schon nach einer Stunde waren wir auf dem Marsche an die Grenze. Es wollte zuerst keine rechte »Stimmung« aufkommen. <seg id="11" type="frame" pos="start">Zu gewaltig in uns allen <seg id="11" type="intExpr">drängte</seg> sich der <seg id="11" type="intExpr">Gedanke</seg>:</seg> <said id="11" mode="direct" content="thought" level="1">wir sind im Kriege.</said> Aber dann, als der volle Mond unsern Helmen und Gewehren seinen beruhigenden Glanz lieh, als wir auf den Bergen die Fanale brennen sahen, <said id="12" mode="reported" content="speech" level="1">begann bald hier, bald dort ein leises Gespräch mit dem Nebenmann</said>; <said id="13" mode="reported" content="speech" level="1" nonfact="yes">bald hier, bald da, wie aus Träumen, wollte der Gesang anheben.</said> <said id="14" mode="reported" content="speech" level="1">Und endlich tönte eins der schwermütigen, wie mit finsterer Stirn gesungenen Lieder meiner Westfalen.</said> <said id="15" mode="reported" content="speech" level="1">Und dann, nun dann wechselten die alten, lieben, lustigen Soldatengesänge.</said> 
+                  Vor der Kompagnie ritt schweigend unser Hauptmann. Alle, wir Offiziere nicht zum wenigsten, waren ihm schwärmerisch zugethan. Es gab kein schöneres Soldatengesicht. Wie ihm der dicke, lange Schnurrbart vom Winde an die gebräunten Backen geweht wurde, wie klug sein Auge schaute. <said id="16" mode="reported" content="speech" level="1">Er sprach nicht viel</said>; ein gleichmäßiger, <said id="17" mode="reported" content="speech" level="1" prag="yes">darf ich sagen</said> stillheiterer Ernst verließ ihn nie. Von der nackten Wirklichkeit des Seins tief durchdrungen, fand er seine Ruhe, sein Glück in strengster Pflichterfüllung, <said id="18" mode="reported" content="thought" level="1">in rastlosem Sorgen für das Wohl seiner Mitmenschen und im besonderen seiner Kompagnie.</said> 
+                  Und munter, nach dem ersten Rendezvous, marschierten wir in die Nacht hinein. <said id="19" mode="reported" content="thought" level="1">Der Schritt kam uns heute schneller vor.</said> <seg id="20" type="frame" pos="start">War es das gute Fieber im Soldaten,</seg> <said id="20" mode="indirect" content="thought" level="1" nonfact="yes">vom Höchstkommandierenden bis zum Tambour, an den Feind zu kommen?</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

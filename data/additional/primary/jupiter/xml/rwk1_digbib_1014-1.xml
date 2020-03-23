@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Schmetterling</title>
+             <author>Busch, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Busch,_Wilhelm_Der_Schmetterling.tg644_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1895</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Schmetterling</f>
+         <f name="author">Busch, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_1014
+Busch,_Wilhelm_Der_Schmetterling.tg644_1.xml
+1895
+1890
+erz
+Der Schmetterling
+Busch, Wilhelm
+yes
+514
+1
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Eier! Schinken! Franzwein! Flink, marsch!«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">schrie</seg> ihn gebieterisch der <seg id="1" type="speaker">Nazi</seg> an und kniff dabei einen Dukaten ins linke Auge;</seg> ein Anblick, der den zuerst trägen und <said id="2" mode="reported" content="thought" level="1">bedenklichen Herbergsvater</said> gleich dienstbeflissen und munter machte. 
+                  Wir aßen gut und ließen uns Zeit dabei, und nachdem sich der Nazi ein Fläschlein extra in die Brusttasche gesteckt hatte, setzten wir einträchtig unsere Wanderschaft fort. <seg id="3" type="frame" pos="start">Es <seg id="3" type="intExpr">wunderte</seg> <seg id="3" type="speaker">mich</seg> nur,</seg> <said id="3" mode="indirect" content="thought" level="1">daß meinFreund, <said id="4" mode="reported" content="speech" level="2" nonfact="yes">der sonst so gesprächig war</said>, sich heute allmählich in ein völliges Schweigen hüllte.</said> <seg id="5" type="frame" pos="start">Endlich <seg id="5" type="intExpr">sprach</seg> <seg id="5" type="speaker">er</seg> wieder:</seg> 
+                  <said id="5" mode="direct" content="speech" level="1">»Verdammt zähes Zeug in dem Schinken. Klemmt sich immer grad zwischen die hohlen Backenzähne, natürlich! Uh, Teufel, der Schmerz! Bitte, sieh eben mal nach, bester Freund!«</said> 
+                  Wir befanden uns weit draußen auf der einsamen Landstraße. Er riß jammernd das Maul auf. Da ich vorn nichts sehen konnte, als zwei Reihen arbeitsfähiger Zähne, nahm ich den Zeigefinger zu Hilfe, um weiter hinten mal nachzufühlen. Sofort, mit furchtbarer Gewalt, wie eine Marderfalle, schnappten die Kiefer zusammen. <said id="6" mode="reported" content="thought" level="1" nonfact="yes">Meine Besinnung verließ mich.</said> Als ich wieder zu mir kam, war mein Freund Nazi verschwunden; mein Geldbeutel desgleichen. Und so war denn das goldene Gewebe, <said id="7" mode="reported" content="thought" level="1">womit ich die Geliebte zu umstricken gedachte</said>, für immer entzweigeschnitten. <said id="8" mode="reported" content="thought" level="1" border="yes">Gebeugt und erschüttert durch dieses grausame Ereignis</said>, ohne Freund, ohne Geld, zog ich mich in die tiefsten Schatten des Waldes zurück, wo mich sogleich ein erquickender Schlaf in seine tröstlichen Arme schloß.
+                  Es war eine herrliche Mondnacht, als ich erwachte. Hinter den Felsen, im zitternden Silberlicht, schimmerte ein See. Ich hörte was plätschern. Eine Nixe, so schien es, badete sich. Neugierig schlich ich näher. Auf einem Stein lag ihr graues Gewand, auf dem Gewand ein Haarband von Goldmünzen. 
+                  <said id="9" mode="direct" content="thought" level="1">»Aha!«</said> <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">dacht</seg> <seg id="9" type="speaker">ich</seg>.</seg> <said id="9" mode="direct" content="thought" level="1">»Bist du's? <said id="10" mode="reported" content="speech" level="2">Jetzt sollst du mich schön bitten</said>, bis du's wiederkriegst.«</said> 
+                  Geschwind steckt ich's hinten in die Fracktasche; <said id="11" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß aber hinter mir, an den Baum gelehnt, ein Reiserbesen stand</said>, <seg id="11" type="frame" pos="end">hatt <seg id="11" type="speaker">ich</seg> nicht <seg id="11" type="intExpr">beachtet</seg>.</seg>
+                  
+                     
+                  
+                  Dieser, als säße der Teufel drin, setzte sich plötzlich in Bewegung und machte Sprünge wie ein Böcklein, und stieß nach mir, bald links, bald rechts, bald hinten, bald vorn, und dann nahm er einen Anlauf und fuhr mir zwischen die Beine, und fort ging's hoch in die Luft und weg über die Wipfel; und ich mußte zuerst ordentlich lachen, als wir so dahintrabten, hopp hopp, unter dem zurückfliehenden Gewimmel der Sterne, und wie im geschüttelten Frackzipfel gar lustig die Münzen klirrten; <said id="12" mode="reported" content="thought" level="1" border="yes">aber schon nach fünf Minuten hatt ich es satt gekriegt</said>, denn mein Rößlein war ein harter Traber und warf mich auf und nieder auf seinem hölzernen Rücken, <seg id="13" type="frame" pos="start">daß <seg id="13" type="speaker">mir</seg>'<seg id="13" type="intExpr">s</seg> <seg id="13" type="intExpr">war</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1" border="yes">als würd ich durchgestoßen und aufgespalten bis an den Nabel.</said> 
+                  Endlich, nach Verlauf einer Ewigkeit von mindestens zwanzigMinuten, kehrte der verflixte Besengaul den Kopf nach unten und den Schweif nach oben und fuhr senkrecht in den geräumigen Schlot eines Hauses, welches einsam in der Wildnis lag. 
+                  Unter großem Gerassel fiel ich auf den Herd zwischen allerlei Küchengeschirr. Der Besen strich mir mit seinem dürren Reiserschweife noch ein paarmal durchs Gesicht, und dann stand er, in der Ecke am Kamin, stocksteif, wie ein gewöhnlicher Schrupper, der nie was von selber tut.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
