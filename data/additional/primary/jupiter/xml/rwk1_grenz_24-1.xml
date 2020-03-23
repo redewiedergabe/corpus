@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erinnerungen und die Mittheilungen eines Landschaftsmalers</title>
+             <author>Koekkoek, B. C.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_282160_266616.txt_30.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Erinnerungen und die Mittheilungen eines Landschaftsmalers</f>
+         <f name="author">Koekkoek, B. C.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+famz_24
+grenzboten_282160_266616.txt_30.xml
+1842
+1840
+famz
+Erinnerungen und Mittheilungen eines Landschaftsmalers
+von B. C. Koekkoek
+no
+539
+1
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">In Wahrheit, armer Junge, <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">mir</seg> <seg id="2" type="intExpr">scheint</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">der Bleichart
+                        von gestern Abend <said id="3" mode="reported" content="speech" level="2">spukt Dir noch im Kopfe</said> und trübt Dein
+                        Auge.</said>"</said>
+                         
+                  
+                  <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Rudolph</seg>.</seg> <said id="4" mode="direct" content="speech" level="1">„Umgekehrt, lieber Freund, Du siehst Alles noch
+                        durch das Prisma des Bletchart, <said id="5" mode="reported" content="thought" level="2">da Du seine violette Farbe
+                        auch in der Kernsicht zu erblicken glaubst</said>: ich bin ganz nüchtern
+                        und mein Auge ist vollkommen klar."</said>
+                         
+                  <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Karl</seg>.</seg> <said id="6" mode="direct" content="speech" level="1"><seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Mir</seg> <seg id="7" type="intExpr">scheint</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" border="yes">daß die Fernsicht eine grau-bläuliche Färbung
+                        hat.</said>"</said>
+                         
+                  <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Rudolph</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">„<said id="9" mode="reported" content="thought" level="2">Und was denkst Du davon</said>, Kamerad?"</said>
+                         
+                  <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg>.</seg> <said id="10" mode="direct" content="speech" level="1">„<seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Mir</seg> <seg id="11" type="intExpr">scheint</seg> es,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">Du und Herrmann habt in so weit beide
+                        Recht, daß in der That <said id="12" mode="reported" content="speech" level="2">die beiden von Euch angegebenen Tinten</said> sich zugleich in der Farbe dieser Fernsicht befinden</said>; die Ursache Eures Auseinandergehens aber liegt in der Verschiedenheit
+                        Eurer Gefühle."</said>
+                         
+                  <said id="13" mode="direct" content="speech" level="1">„Herrmann läßt sich von der Purpur-Tinte, die sich in der Fernsicht befindet, dermaßen beherrschen, daß ihm die grün-bläuliche Farbe,
+                        die darin die violette Tinte mäßigt, gänzlich entgeht."</said>
+                         
+                  <said id="14" mode="direct" content="speech" level="1">„<said id="15" mode="reported" content="thought" level="2">Ein Jeder von Euch beiden zieht, <said id="16" mode="reported" content="thought" level="3">vielleicht ohne es zu wissen</said>,
+                        eine besondere Farbe allen andern vor</said>, und so ist es ganz natürlich,
+                        daß er in dem Gegenstande, <said id="17" mode="reported" content="thought" level="2">der uns jetzt beschäftigt</said>, diese Farbe
+                        vorherrschend findet."</said>
+                         
+                  <said id="18" mode="direct" content="speech" level="1">„<said id="19" mode="reported" content="thought" level="2" border="yes">Karl dagegen bemerkt in dieser Fernsicht nur eine grau-bläuliche Färbung</said>, weil sein Auge noch nicht hinlänglich geübt ist, um
+                        die feinen Nüancen zu entdecken und zu unterscheiden, aus denen
+                        die Farbe dieser Fernsicht zusammengesetzt ist."</said>
+                         
+                  <said id="20" mode="direct" content="speech" level="1">„Wenn Ihr jetzt, jeder seinerseits, eine Skizze nach der Natur
+                        <said id="21" mode="reported" content="speech" level="2">von dem in Rede stehenden Gegenstand</said> entwürfet, so würden sich in
+                        deren Farben die Beweise für <said id="22" mode="reported" content="speech" level="2">meine Behauptung</said> finden."</said>
+                         
+                  <said id="23" mode="direct" content="speech" level="1">„<said id="24" mode="reported" content="thought" level="2" border="yes">Diese Verschiedenheit des Gefühls</said> ist eine der Hauptursachen
+                        der Verschiedenheit in den Farbentönen, <said id="25" mode="reported" content="thought" level="2" border="yes">die man in jeden zwei
+                        Gemälden von verschiedenen Meistern wahrnehmen kann</said>, wenn man
+                        sie neben einander stellt, ohne daß man dabei noch auf die Verschiedenheiten ihrer eigenthümlichen Art zu malen oder ihres Geschmacks
+                        Rücksicht zu nehmen braucht, die sie schon durch die Wahl ihrer
+                        Stoffe bekunden. Und dennoch können beide Gemälde gleich naturwahr sein."</said>
+                         
+                  <seg id="26" type="frame" pos="start">Man <seg id="26" type="intExpr">erlaube</seg> <seg id="26" type="speaker">mir</seg> nur noch die <seg id="26" type="intExpr">Bemerkung</seg>,</seg> <said id="26" mode="indirect" content="speech" level="1">daß wir <said id="27" mode="reported" content="speech" level="2">die in
+                        Rede stehende Fernsicht</said> am Mittag beobachtet hatten.</said> <seg id="28" type="frame" pos="start">Denn das
+                         
+                  
+                  <seg id="28" type="intExpr">weiß</seg> wohl <seg id="28" type="speaker">Jedermann</seg>,</seg> <said id="28" mode="indirect" content="thought" level="1">daß die Farbe der Gegenstände je nach den
+                        verschiedenen Tagesstunden eine andere ist.</said>
+                  
+               
+            
+            
+               Kapitel III.
+                        Von Limburg nach Remagen.
+                        
+               
+               
+                  C ö l n.
+                        
+                  Vom Rhein aus gesehen, bietet die Stadt Cöln wirklich einen
+                        imponirenden Anblick. Wie sind sie so majestätisch, diese Kirchen im
+                        byzantinischen Styl, <said id="29" mode="reported" content="thought" level="1" border="yes">deren malerische Thürme stolz auf die unregelmäßige Masse von etwa achttausend Häusern hinabzuschauen scheinen</said>, die sich zu ihren Füßen in labyrinthischen Verwicklungen hindehnen. Und der Dom andrerseits, dieses unvollendete Meisterwerk
+                        germanischer Architektur, mit seinem riesenhaften Chor, betrachtet er
+                        nicht wie ein königlicher Greis, majestätisch und prachtvoll, sein weites Gebiet, in dessen Mitte der hohe St. Martinsthurm nur gleich
+                        einem großen Vasallen hervorragt!
+                         
+                  Ich habe die alte Colonia Agrippina schon oft gesehen; immer
+                        aber hat diese Stadt mit ihren ehrwürdigen Denkmalen <said id="30" mode="reported" content="thought" level="1">einen unbeschreiblichen Eindruck in meinem Gemüthe hinterlassen.</said> <said id="31" mode="reported" content="thought" level="1">Unwillkürlich entrollten sich alsdann die Annalen einer großen historischen
+                        Vergangenheit vor den Augen meines Geistes.</said> Ist nicht <said id="32" mode="reported" content="writing" level="1">die ganze
+                        Geschichte des deutschen Reiches</said> an diese alte Stadt geknüpft? Waren nicht alle diese Gebäude Jahrhunderte lang die Zeugen der
+                        merkwürdigsten Ereignisse in <said id="33" mode="reported" content="writing" level="1">Deutschlands Geschichte</said>, <said id="34" mode="reported" content="speech" level="1" metaph="yes">und werden sie
+                        nicht noch lange bei den kommenden Geschlechtern Zeugniß ablegen</said>
+                        von einer Größe und Bedeutung, welche die Stadt jetzt in anderer
+                        Art wieder zu erringen sucht?"
+                         
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

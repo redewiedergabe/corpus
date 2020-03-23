@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Deutsche Reisende in der Fremde.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341559_184763.txt_31.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Deutsche Reisende in der Fremde.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>         
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            
+               
+                  <note>
+                     
+                        t&gt;. Red. <said id="1" mode="reported" content="writing" level="1">Die Erwähnung Quizmann's an
+                           dieser Stelle</said> kann seinen Freunden in Heidelberg als Beweis dienen, daß
+                           der Referent <said id="2" mode="reported" content="writing" level="1">die wenigen tadelnden Worte, die in der sonst <said id="3" mode="reported" content="speech" level="2">so
+                           wohlwollenden Besprechung <said id="4" mode="reported" content="writing" level="3">der „deutschen Briefe über den Orient"</said></said>
+                           enthalten sind</said>, <said id="5" mode="reported" content="speech" level="1">gewiß <said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes">in keiner bösen Absicht</said> meinte.</said>
+                        <said id="7" mode="reported" content="writing" level="1">Es ist uns in dieser Beziehung eine Reklamation zugegangen</said>,
+                           <seg id="8" type="frame" pos="start">welche der zufälligen <seg id="8" type="intExpr">Aeußerung</seg> unseres <seg id="8" type="speaker">Referenten</seg>,</seg> <said id="8" mode="indirect" content="speech writing" level="1">Herr Quizmann sei
+                           ein „bairischer Arzt,"</said> eine Animosität gegen Süddeutschland unterschiebt,
+                           <said id="9" mode="reported" content="thought" level="1" nonfact="yes" border="yes">die ihm gewiß nicht im Entferntesten in den Sinn gekommen ist.</said>
+                        <said id="10" mode="reported" content="writing" level="1" nonfact="yes">Wir lassen die Reclamation, <said id="11" mode="reported" content="thought" level="2">die wir eigentlich für etwas
+                           überflüssig halten</said> nur darum hier folgen</said>, <said id="12" mode="reported" content="writing" level="1">weil sie aus der Feder eines
+                           uns werthen Mannes geflossen ist.</said>
+                     
+                     
+                        <said id="13" mode="direct" content="writing" level="1">„<said id="14" mode="reported" content="writing" level="2">Die Art und Weise, wie der Beurtheiler der Briefe aus dem
+                           Orient in Nr.
+                        42 der Grenzboten das Reisewerk und die achtungswerthe
+                           Persönlichkeit des Verfassers behandelt</said>, muß gerechte Mißbilligung
+                           erregen.
+                        <said id="15" mode="indirect" content="thought" level="2">Für den Beurtheiler ist</said><seg id="15" type="frame" pos="mid">, wie es <seg id="15" type="intExpr">scheint</seg>,</seg> <said id="15" mode="indirect" content="thought" level="2">die unselige Kluft,
+                           die einst Nord- und Süddeutschland trennte, noch nicht ausgefüllt</said>, daher
+                           die auffallende Stimmung, die seinem Referat, in Ihrem sonst derlei
+                           Tendenzen nicht zugänglichen Organe zu Grunde liegt.
+                        Wir stimmen vollkommen mit dem Beurtheiler überein, <said id="16" mode="reported" content="writing" level="2">wenn er
+                           den Verfasser der Briefe <said id="17" mode="direct" content="writing" level="3">„einen fleißigen, sorgfältigen Beobachter,"</said>
+                           <said id="18" mode="direct" content="writing" level="3">„einen Reisenden von durchaus praktischer Auffassung"</said> nennt</said>, <said id="19" mode="direct" content="writing" level="2">„der uns
+                           eine Reichhaltigkeit neuer Bilder und Anschauungen gibt, <said id="20" mode="reported" content="writing" level="2">die er lebendig
+                           und wahr schildert</said>,"</said> <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">fragen</seg> aber,</seg> <said id="21" mode="indirect" content="writing" level="2">ob so selten zu treffende Vorzüge nicht
+                           wenigstens so viel Pietät verdienten, um vor haltlosen persönlichen
+                           Angriffen geschützt zu sein?</said>
+                        Der Quizmann ist zunächst kein baierischer Arzt, <said id="22" mode="reported" content="writing" level="2">wie der
+                           Beurtheiler, um seinen merkwürdigen Antipathien eine Basis zu geben, mit
+                           Nachdruck erwähnt</said>, sondern akademischer Lehrer in Heidelberg; sein Witz
+                           schmeckt so wenig „nach Bier," <said id="23" mode="reported" content="writing" level="2"><said id="24" mode="reported" content="writing" level="3">als sein Styl bei der Lebendigkeit der
+                           Darstellung</said>, die der Beurtheiler rühmt</said>, nüchtern sein, oder bei noch
+                           andern gerühmten Vorzügen an Redseligkeit leiden kann.
+                        Wenn der Beurtheiler Quizmann's Unparteilichkeit in
+                           Anerkennung des nationalen Strebens der Magyaren zwar anerkennt, <said id="25" mode="reported" content="thought" level="2" nonfact="yes">darin
+                           aber wieder einen gewissen Indifferentismus gegen das eigene deutsche
+                           Vaterland erkennen will</said>, <seg id="27" type="frame" pos="start">so müssen <said id="26" mode="reported" content="thought" level="2">die bei dieser Erklärung betheiligten
+                           <seg id="27" type="speaker">Männer</seg>, die des Reisenden Gesinnung kennen</said> und ehren, den <seg id="27" type="intExpr">Wunsch</seg>
+                           <seg id="27" type="intExpr">aussprechen</seg>,</seg> <said id="27" mode="indirect" content="speech writing" level="2">daß das gemeinsame Vaterland bei allen seinen Kindern eine
+                           so treue und warme Liebe finden möge, als sie Dr. Quizmann beseelt</said>, der
+                           für das Vaterland jedenfalls mehr gelitten haben dürfte, als der
+                           unbekannte Beurtheiler der Briefe.
+                        <said id="28" mode="reported" content="writing" level="2">Wenn endlich der Beurtheiler Hrn. Dr. Quizmann als
+                           Süddeutschen eine ganz besondere Zuständigkeit des Urtheils über gewisse
+                           geschlechtliche Verhältnisse zuschreibt</said>, so geht er von der Beleidigung
+                           eines Einzelnen bis zu einer Kränkung, welche ganze Stämme des deutschen
+                           Volkes auf eine ebenso muthwillige als zwecklose Weise beleidigt und von
+                           allem Andern eher zeugt, als von wahrem Nationalsinn, <said id="29" mode="reported" content="writing" level="2">dem die Grenzboten
+                           doch stets mit rüstigem Eifer das Wert reden.</said>
+                        Von Ihrer Unparteilichkeit erwarten wir die Ausnahme dieser
+                           Erklärung."</said> 
+                     
+                  </note>
+                  
+                  
+                     <said id="30" mode="reported" content="writing" level="1">Baltische Trümmer ist die Überschrift des ersten Theiles, der
+                        sich in Liefland und Kurland bewegt.</said>
+                     <seg id="31" type="frame" pos="start"><seg id="31" type="speaker">Trümmer</seg> sind es deutschen Wesens, mächtige Reste, die uns ein
+                        <seg id="31" type="intExpr">Zeugniß</seg> davon <seg id="31" type="intExpr">ablegen</seg>,</seg> <said id="31" mode="indirect" content="writing" level="1" metaph="yes">daß wenigstens ehemals die Deutschen Kraft und
+                        Unternehmungsgeist besaßen.</said>
+                     <said id="32" mode="reported" content="thought" level="1">Wo ehemals die Deutschen mit dem Schwert und mit
+                        den Waffen des Geistes der Kultur einen neuen Spielraum zu gewinnen dachten</said>,
+                        da herrscht jetzt der Russe, und zieht mit der eisernen Konsequenz seines
+                        Despotismus einen Lebenszweig nach dem andern in das mechanische Triebwerk
+                        seines ungeheuern, aber wüsten Staatswesens hinein.
+                  
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

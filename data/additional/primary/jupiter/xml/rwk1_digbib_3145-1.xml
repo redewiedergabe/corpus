@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der kleine Häwelmann</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Der_kleine_Haewelmann.tg265_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Der kleine Häwelmann</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Junge«</said>, <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">»hast du noch nicht genug?«</said> – <said id="2" mode="direct" content="speech" level="1">»Nein«</said>, <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">schrie</seg> <seg id="2" type="speaker">Häwelmann</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»mehr, mehr! Mach mir die Tür auf! Ich will durch die Stadt fahren; alle Menschen sollen mich fahren sehen.«</said> – <said id="3" mode="direct" content="speech" level="1">»Das kann ich nicht«</said>, <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sagte</seg> der gute <seg id="3" type="speaker">Mond</seg>;</seg> aber er ließ einen langen Strahl durch das Schlüsselloch fallen; und darauf fuhr der kleine Häwelmann zum Hause hinaus. 
+                  Auf der Straße war es ganz still und einsam. Die hohen Häuser standen im hellen Mondschein und glotzten mit ihren schwarzen Fenstern recht dumm in die Stadt hinaus; aber die Menschen waren nirgends zu sehen. Es rasselte recht, als der kleine Häwelmann in seinem Rollenbette über das Straßenpflaster fuhr; und der gute Mond ging immer neben ihm und leuchtete. So fuhren sie Straßen aus, Straßen ein; aber die Menschen waren nirgends zu sehen. Als sie bei der Kirche vorbeikamen, da krähte auf einmal der große goldene Hahn auf dem Glockenturm. Sie hielten still. <said id="4" mode="direct" content="speech" level="1">»Was machst du da?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">rief</seg> der kleine <seg id="4" type="speaker">Häwelmann</seg> hinauf.</seg> – <said id="5" mode="direct" content="speech" level="1">»Ich krähe zum erstenmal!«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="intExpr">rief</seg> der goldene <seg id="5" type="speaker">Hahn</seg> herunter.</seg> – <said id="6" mode="direct" content="speech" level="1">»Wo sind denn die Menschen?«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">rief</seg> der kleine <seg id="6" type="speaker">Häwelmann</seg> hinauf.</seg> – <said id="7" mode="direct" content="speech" level="1">»Die schlafen«</said>, <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">rief</seg> der goldene <seg id="7" type="speaker">Hahn</seg> herunter,</seg> <said id="7" mode="direct" content="speech" level="1">»wenn ich zum drittenmal krähe, dann wacht der erste Mensch auf.«</said> – <said id="8" mode="direct" content="speech" level="1">»Das dauert mir zu lange«</said>, <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">Häwelmann</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»ich will in den Wald fahren, alle Tiere sollen mich fahren sehen!«</said> – <said id="9" mode="direct" content="speech" level="1">»Junge«</said>, <seg id="9" type="frame" pos="mid"><seg id="9" type="intExpr">sagte</seg> der gute alte <seg id="9" type="speaker">Mond</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»hast du noch nicht genug?«</said> – <said id="10" mode="direct" content="speech" level="1">»Nein«</said>, <seg id="10" type="frame" pos="mid"><seg id="10" type="intExpr">schrie</seg> <seg id="10" type="speaker">Häwelmann</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»mehr, mehr! Leuchte, alter Mond, leuchte!«</said> Und damit blies er die Backen auf, und der gute alte Mond leuchtete, und so fuhren sie zum Stadttor hinaus 
+und übers Feld und in den dunkeln Wald hinein. Der gute Mond hatte große Mühe, zwischen den vielen Bäumen durchzukommen; mitunter war er ein ganzes Stück zurück, aber er holte den kleinen Häwelmann doch immer wieder ein. 
+                  Im Walde war es still und einsam; die Tiere waren nicht zu sehen; weder die Hirsche noch die Hasen, auch nicht die kleinen Mäuse. So fuhren sie immer weiter, durch Tannen- und Buchenwälder, bergauf und bergab. Der gute Mond ging nebenher und leuchtete in alle Büsche; aber die Tiere waren nicht zu sehen; nur eine kleine Katze saß oben in einem Eichbaum und funkelte mit den Augen. Da hielten sie still. <said id="11" mode="direct" content="speech" level="1">»Das ist der kleine Hinze! «</said> <seg id="11" type="frame" pos="mid"><seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">Häwelmann</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»<said id="12" mode="reported" content="thought" level="2" border="yes">ich kenne ihn wohl</said>; er will die Sterne nachmachen.«</said> Und als sie weiterfuhren, sprang die kleine Katze mit von Baum zu Baum. <said id="13" mode="direct" content="speech" level="1">»Was machst du da?«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">rief</seg> der kleine <seg id="13" type="speaker">Häwelmann</seg> hinauf.</seg> – <said id="14" mode="direct" content="speech" level="1">»Ich illuminiere!«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">rief</seg> die kleine <seg id="14" type="speaker">Katze</seg> herunter.</seg> – <said id="15" mode="direct" content="speech" level="1">»Wo sind denn die andern Tiere?«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> der kleine <seg id="15" type="speaker">Häwelmann</seg> hinauf.</seg> – <said id="16" mode="direct" content="speech" level="1">»Die schlafen«</said>, <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">rief</seg> die kleine <seg id="16" type="speaker">Katze</seg> herunter und sprang wieder einen Baum weiter;</seg> <said id="16" mode="direct" content="speech" level="1">»horch nur, wie sie schnarchen!«</said> – <said id="17" mode="direct" content="speech" level="1">»Junge«</said>, <seg id="17" type="frame" pos="mid"><seg id="17" type="intExpr">sagte</seg> der gute alte <seg id="17" type="speaker">Mond</seg>,</seg> <said id="17" mode="direct" content="speech" level="1">»hast du noch nicht genug?«</said> – <said id="18" mode="direct" content="speech" level="1">»Nein«</said>, <seg id="18" type="frame" pos="mid"><seg id="18" type="intExpr">schrie</seg> <seg id="18" type="speaker">Häwelmann</seg>,</seg> <said id="18" mode="direct" content="speech" level="1">»mehr, mehr! Leuchte, alter Mond, leuchte!«</said> Und dann blies er die Backen auf, und der gute alte Mond leuchtete; und so fuhren sie zum Walde hinaus und dann über die Heide bis ans Ende der Welt, und dann gerade in den Himmel hinein. 
+                  Hier war es lustig; alle Sterne waren wach und hatten die Augen auf und funkelten, daß der ganze Himmel blitzte.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

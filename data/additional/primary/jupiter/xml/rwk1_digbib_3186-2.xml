@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Traumland. Eine Episode</title>
+             <author>Trakl, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Trakl,_Georg_Traumland__Eine_Episode.tg165_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Traumland. Eine Episode</f>
+         <f name="author">Trakl, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Im Garten habe ich im Gras gelegen und habe den Duft von tausend Blumen eingeatmet; mein Auge berauschte sich an den leuchtenden Farben der Blüten, über die das Sonnenlicht hinflutete, und auf die Stille in den Lüften habe ich gehorcht, die nur bisweilen unterbrochen wurde durch <said id="1" mode="reported" content="speech" level="1" metaph="yes">den Lockruf eines Vogels.</said> <said id="2" mode="reported" content="thought" level="1" border="yes">Ich vernahm das Gären der fruchtbaren, schwülen Erde, dieses geheimnisvolle Geräusch des ewig schaffenden Lebens.</said> <said id="3" mode="reported" content="thought" level="1" border="yes">Damals fühlte ich dunkel die Größe und Schönheit des Lebens.</said> <seg id="4" type="frame" pos="start">Damals auch <seg id="4" type="intExpr">los</seg> <seg id="4" type="intExpr">war</seg> <seg id="4" type="speaker">mir</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1">als gehörte das Leben mir.</said> Da aber fiel mein Blick auf das Erkerfenster des Hauses. Dort sah ich die kranke Maria sitzen – still und unbeweglich, mit geschlossenen Augen. Und <said id="5" mode="reported" content="thought" level="1">all' mein Sinnen</said> wurde wieder angezogen von dem Leiden dieses einen Wesens, verblieb dort – ward zu <said id="6" mode="reported" content="thought" level="1">einer schmerzlichen, nur scheu eingestandenen Sehnsucht</said>, <said id="7" mode="reported" content="thought" level="1" border="yes">die mich rätselhaft und verwirrend dünkte.</said> Und scheu, still verließ ich den Garten, als hätte ich kein Recht, in diesem Tempel zu verweilen. 
+                  Sooft ich da am Zaun vorüberkam, brach ich <said id="8" mode="reported" content="thought" level="1" nonfact="yes">wie in Gedanken</said> eine von den großen, leuchtendroten, duftschweren Rosen. Leise wollte ich dann am Fenster vorüberhuschen, als ich den zitternden, zarten Schatten von Marias Gestalt sich vom Kiesweg abheben sah. Und mein 
+Schatten berührte den ihrigen wie in einer Umarmung. Da nun trat ich, <said id="9" mode="reported" content="thought" level="1" nonfact="yes">wie von einem flüchtigen Gedanken erfaßt</said>, zum Fenster und legte die Rose, die ich eben erst gebrochen, in Marias Schoß. Dann schlich ich lautlos davon, <seg id="10" type="frame" pos="start">als <seg id="10" type="intExpr">fürchtete</seg> <seg id="10" type="speaker">ich</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes">ertappt zu werden.</said> 
+                  Wie oft hat dieser kleine, <said id="11" mode="reported" content="thought" level="1" border="yes">mich so bedeutsam dünkende Vorgang</said> sich wiederholt! <said id="12" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Ich weiß es nicht.</said> <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Mir</seg> <seg id="13" type="intExpr">ist</seg> es,</seg> <said id="13" mode="indirect" content="thought" level="1" border="yes">als hätte ich der kranken Maria tausend Rosen in den Schoß gelegt, als hätten unsere Schatten sich unzählige Male umarmt.</said> <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Nie hat Maria dieser Episode Erwähnung getan</said>; <seg id="15" type="frame" pos="start">aber <seg id="15" type="intExpr">gefühlt</seg> habe <seg id="15" type="speaker">ich</seg> aus dem Schimmer ihrer großen leuchtenden Augen,</seg> <said id="15" mode="indirect" content="thought" level="1" border="yes"><said id="16" mode="reported" content="thought" level="2" border="yes">daß sie darüber glücklich war.</said></said> 
+                  Vielleicht waren diese Stunden, da wir zwei beisammen saßen und schweigend ein großes, ruhiges, tiefes Glück genossen, so schön, <said id="17" mode="reported" content="thought" level="1" nonfact="yes">daß ich mir keine schöneren zu wünschen brauchte.</said> Mein alter Onkel ließ uns still gewähren. Eines Tages aber, da ich mit ihm im Garten saß, inmitten all' der leuchtenden Blumen, über die verträumt große gelbe Schmetterlinge schwebten, <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">er</seg> zu mir mit einer leisen, gedankenvollen Stimme:</seg> <said id="18" mode="direct" content="speech" level="1">»Deine Seele geht nach dem Leiden, mein Junge.«</said> Und dabei legte er seine Hand auf mein Haupt <said id="19" mode="reported" content="thought" level="1" border="yes">und schien noch <said id="20" mode="reported" content="speech" level="2" nonfact="yes">etwas sagen zu wollen.</said></said> Aber er schwieg. <seg id="21" type="frame" pos="start">Vielleicht <seg id="21" type="intExpr">wußte</seg> <seg id="21" type="speaker">er</seg> auch nicht,</seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was er dadurch in mir geweckt hatte und was seither mächtig in mir auflebte.</said> 
+                  Eines Tages, da ich wiederum zum Fenster trat, an dem Maria wie gewöhnlich saß, sah ich, daß ihr Gesicht im Tode erbleicht und erstarrt war. Sonnenstrahlen huschten über ihre lichte, zarte Gestalt hin; ihr gelöstes Goldhaar flatterte im Wind, <seg id="22" type="frame" pos="start"><seg id="22" type="speaker">mir</seg> <seg id="22" type="intExpr">war</seg>,</seg> <said id="22" mode="indirect" content="thought" level="1" border="yes">als hätte sie keine Krankheit dahingerafft, als wäre sie gestorben ohne sichtbare Ursache – ein Rätsel.</said> Die letzte Rose habe ich ihr in die Hand gelegt, sie hat sie ins Grab genommen. 
+                  Bald nach dem Tode Marias reiste ich ab in die Großstadt. <said id="23" mode="reported" content="thought" level="1">Aber <said id="24" mode="reported" content="thought" level="2">die Erinnerung an jene stillen Tage voll Sonnenschein</said> sind in mir lebendig geblieben</said>, lebendiger vielleicht als die geräuschvolle Gegenwart.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

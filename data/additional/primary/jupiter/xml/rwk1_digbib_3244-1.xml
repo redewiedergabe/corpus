@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>5. Das fromme Pfarrhaus</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_5__Das_fromme_Pfarrhaus.tg34_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">5. Das fromme Pfarrhaus</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="reported" content="thought" level="1" border="yes">Und sie war dabei stets heiteren Mutes</said>; mit leichtem, leisem Tritt wandelte sie von einem zum andern, und keines schien sich verkürzt. 
+                  <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">Daß in solcher Weise das Pfarrhaus auch zu einer Herberge der Verlassenen, zur Vorratskammer der Hungrigen wurde</said><seg id="2" type="frame" pos="end">, läßt <seg id="2" type="speaker">sich</seg> leicht <seg id="2" type="intExpr">denken</seg></seg>; <said id="3" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">hier jedoch war es nicht ganz vom <said id="4" mode="reported" content="speech" level="2">Vorwurf einer gewissen Parteilichkeit</said> freizusprechen.</said> Mit einer frommen Miene, <said id="5" mode="reported" content="speech" level="1">mit ein paar biblischen Sprüchen</said>, <said id="6" mode="reported" content="speech" level="1">mit gewissen geistlichen Schlagwörtern von »Erweckung und Bekehrung« und dergleichen</said> konnten auch unwürdige Heuchler sich vom Pfarrer leichter Aufnahme und Hilfe verschaffen als andre einfache Leute, <said id="7" mode="reported" content="thought" level="1" border="yes">die ihm noch »unerweckt« schienen.</said> Da war es gut, daß die Pfarrfrau hierin etwas schärfer sah und hie und da die Übergüte ihres Mannes ein wenig eindämmen konnte. Sie war's, die dem wandernden Bruder Jeremias die Branntweinflasche aus der Tasche zog und schweigend vorhielt, <seg id="8" type="frame" pos="start">als <seg id="8" type="speaker">er</seg> eben <seg id="8" type="intExpr">erzählte</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">wie er seinen Leib kasteie und statt Wein zu trinken das Geld dafür der Mission bringe.</said> <said id="9" mode="reported" content="thought" level="1">Sie hatte den neuerweckten 
+Juden durchschaut</said>, <said id="10" mode="reported" content="speech" level="1">der nach <said id="11" mode="reported" content="speech" level="2">einer Weihnachtspredigt des Pfarrers</said> sich diesem vorstellte als dürstend nach dem Licht des Evangeliums</said>, welcher Durst ihn schon zuvor bei sieben verschiedenen Pfarrern angewandelt hatte, von denen er sich allemal während der Zeit des Unterrichts freihalten ließ. Sie hatte die fromme Bärbel, die zu ihr kam <seg id="12" type="frame" pos="start">und <seg id="12" type="intExpr">verkündete</seg>,</seg> <said id="12" mode="indirect" content="speech" level="1"><seg id="13" type="frame" pos="start">der <seg id="13" type="speaker">Geist</seg> habe ihr <seg id="13" type="intExpr">geoffenbart</seg>,</seg> <said id="13" mode="indirect" content="speech" level="2" metaph="yes">daß die Frau Pfarrerin sie acht Tage lang speisen werde, tüchtig Holz tragen lassen</said>, <seg id="14" type="frame" pos="start">also daß ihr der <seg id="14" type="speaker">Geist</seg> schon am dritten Tage <seg id="14" type="intExpr">offenbarte</seg>,</seg> <said id="14" mode="indirect" content="speech" level="2" metaph="yes">sie solle wieder heimgehen</said></said>; und als der krumme Schuster, der alle Versammlungen besuchte und sein Handwerk liegen ließ, <said id="15" mode="reported" content="speech" level="1">ihrem Mann einen gepolsterten Sessel aus dem Wohnzimmer abgebettelt hatte</said>, <said id="16" mode="direct" content="speech" level="1">»weil seine armen Kindlein nichts hätten, um darauf zu sitzen«</said>, hatte sie ihm diesen auf der Treppe abgenommen <seg id="17" type="frame" pos="start">und ihm dafür einen hölzernen Stuhl verehrt <seg id="17" type="intExpr">mit</seg> dem <seg id="17" type="intExpr">Bemerken</seg>:</seg> <said id="17" mode="indirect" content="speech" level="1">darauf lasse sich viel besser arbeiten.</said> 
+                  Wovon die Pfarrleute lebten, das schien auch rätselhaft. Das Einkommen war klein, und der Veranlassungen zur Mildtätigkeit gab es so viele; und doch sah man keinen Mangel <said id="18" mode="reported" content="speech" level="1" nonfact="yes">und hörte <said id="19" mode="reported" content="speech" level="2" nonfact="yes">keine Klage.</said></said> <seg id="20" type="frame" pos="start">Aber die <seg id="20" type="speaker">Pfarrerin</seg> legte auch niemals die Hände in den Schoß und <seg id="20" type="intExpr">öffnete</seg> dazu den <seg id="20" type="intExpr">Mund</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1" nonfact="yes">auf daß ihr Gott gebratene Tauben hineinfliegen lasse</said>; nein, sie rührte die Hand und schloß den Mund lieber, <said id="21" mode="reported" content="speech" level="1" nonfact="yes">als daß sie ihn zu überflüssigem Begehren aufgetan hätte.</said> 
+                  Die kranke Mutter ging bald zur Ruhe, mit mehr als Kindestreue gepflegt, die Schwester aber lebte noch lange Jahre fort, trübsinnig und still; nur selten konnte ihr das unermüdet liebevolle Bemühen der Pfarrerin einen hellen Funken entlocken; <said id="22" mode="reported" content="thought" level="1" border="yes"><said id="23" mode="reported" content="speech" level="2">beim Gesang allein</said> wurde oft ihr Blick klarer.</said> 
+                  Sechs Kinder hatte die Pfarrfrau geboren; wie es schien, mehr zur Prüfung ihrer Geduld als zur Lust und Freude. Fast alle waren zarte, schwächliche Geschöpfe. Drei Jahre nacheinander trug man jeden Frühling eine kleine Leiche aus dem Pfarrhaus. <said id="24" mode="reported" content="speech" level="1" nonfact="yes"><said id="25" mode="reported" content="speech" level="2" nonfact="yes">Keine Klage</said> ging über die blassen Lippen der Mutter</said>; sie selbst schmückte die Lieblinge für den Sarg, sie selbst ging festen und stillen Trittes hinter der Bahre her, <said id="26" mode="reported" content="speech" level="1">und 
+ihre Stimme tönte vernehmlich im Grabgesang.</said> – Drei Kinder blieben ihnen: Samuel, ihr erster und einziger Sohn; Maria, ein schönes, blühendes Mädchen, und die bleiche, kränkliche Dorothea, ein kümmerliches Geschöpf, verkürzt an Leib und Seele, deren Dasein ein beständiges Hinwelken schien.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

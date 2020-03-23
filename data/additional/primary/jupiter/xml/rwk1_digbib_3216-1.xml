@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zehn Stunden auf der Jagd</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Zehn_Stunden_auf_der_Jagd.tg1960_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Zehn Stunden auf der Jagd</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">dash chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es ist ein abscheuliches Stückchen Land, dieses Hérissart, das bezüglich des allgemeinen Charakters seinem Namen wenig Ehre macht. <seg id="1" type="frame" pos="start">Doch <seg id="1" type="intExpr">scheint</seg> es,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß, wenn es auch nicht Wildreichthum bietet, wie Mont-sous-Vaudrey, doch die Dickichte gut bevölkert sind</said>; <said id="2" mode="indirect" content="speech" level="1">daß es hier Hasen gab</said>, <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">versicherte</seg> <seg id="2" type="speaker">Matifat</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">und daß man sie hier <said id="4" mode="direct" content="speech" level="2">»mehr als Zwölf auf's Dutzend«</said> habe umherspringen sehen</said>, <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">setzte</seg> <seg id="3" type="speaker">Pontcloué</seg> <seg id="3" type="intExpr">hinzu</seg>.</seg> 
+                     <said id="5" mode="reported" content="thought" level="1">Mit der Aussicht auf so reiche Beute</said> waren die wackeren Leute vorläufig alle in bester Laune. 
+                     Es ging also vorwärts. Die Witterung – herrlich. Schon blitzten einzelne Sonnenstrahlen durch die Morgennebel, die sich am entfernten Horizonte zusammenballten. Ueberall Schreien, Piepen, Glucksen! Da flatterten verschiedene Vögel aus den Furchen auf und stiegen gerade zum Himmel empor, wie Helicopteren, deren Feder plötzlich losschnellte. 
+                     <said id="6" mode="reported" content="thought" level="1" border="yes">Kaum im Stande mich zu bemeistern</said>, legte ich wiederholt die Flinte an. 
+                     <said id="7" mode="direct" content="speech" level="1">»Schießen Sie nicht, schießen Sie nicht!</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">rief</seg> <seg id="7" type="speaker">Freund Brétignot</seg>, <said id="8" mode="reported" content="thought" level="1" nonfact="yes" border="yes">der mich unbemerkt im Auge behielt</said>, mir zu.</seg>
+                     
+                        
+                     
+                     
+                        <said id="9" mode="direct" content="speech" level="1">– Warum? Sind das keine Wachteln?</said> 
+                     <said id="10" mode="direct" content="speech" level="1">– Nein, Lerchen! Schießen Sie nicht!«</said> 
+                     <seg id="11" type="frame" pos="start">Es <seg id="11" type="intExpr">versteht</seg> sich von <seg id="11" type="speaker">selbst</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" border="yes" prag="yes">daß Maximon, Duvauchelle, Pontcloué, Matifat und die beiden Anderen mich mit so manchem malitiösen Seitenblick beehrten.</said>
+                     
+                        
+                     
+                     <said id="12" mode="reported" content="thought" level="1">Dann schlugen sie sich klüglich seitwärts mit ihren Hunden</said>, welche, die Nase nach unten gerichtet, die Luzerne, Esparsette und den Klee absuchten, und deren erhobene Schwänze wackelten wie ebenso viele Fragezeichen, <said id="13" mode="reported" content="thought" level="1" prag="yes"><said id="14" mode="reported" content="speech" level="2" nonfact="yes">welche ich nicht zu beantworten gewußt hätte.</said></said> 
+                     <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Ich</seg> <seg id="15" type="intExpr">gewann</seg> die <seg id="15" type="intExpr">Vorstellung</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1"><seg id="16" type="frame" pos="start">daß jene <seg id="16" type="speaker">Herren</seg> eben nicht darauf <seg id="16" type="intExpr">versessen</seg> <seg id="16" type="intExpr">waren</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2" border="yes">in der gefahrdrohenden Zone eines Novizen zu verweilen, dessen Flinte ihnen einige Angst wegen ihrer Schienbeine einflößen mochte.</said></said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Donnerwetter, so halten Sie doch Ihren Schießprügel wie's sich gehört!</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">wiederholte</seg> noch <seg id="17" type="speaker">Brétignot</seg>,</seg> ehe auch er sich davonmachte. 
+                     <said id="18" mode="direct" content="speech" level="1">– Nun, ich halte die Flinte nicht schlechter als ein Anderer!«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">erwiderte</seg> <seg id="18" type="speaker">ich</seg> <said id="19" mode="reported" content="thought" level="1" border="yes">etwas verletzt über diesen Luxus von <said id="20" mode="reported" content="speech" level="2">Rathschlägen.</said></said></seg> 
+                     Noch einmal zuckte Brétignot die Achseln und wandte sich dann nach links. <seg id="21" type="frame" pos="start">Da es <seg id="21" type="speaker">mir</seg> nicht <seg id="21" type="intExpr">paßte</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1">ganz allein zurückzubleiben</said>, beschleunigte auch ich meine Schritte. 
+                  
+               
+            
+            
+               
+                  
+                     V.
+                     Ich hatte meine Jagdkameraden eingeholt; um sie jedoch nicht weiter in Alarm zu bringen, trug ich das Gewehr auf der Schulter, den Kolben nach aufwärts. 
+                     Wie prächtig waren sie anzuschauen, die Jäger von Profession, in ihrem Jagdhabit, der weißen Weste, den weiten Sammethosen, den großen nägelbeschlagenen Schuhen, deren Sohlen das Oberleder überragten, mit leinenen Gamaschen über den wollenen Strümpfen, welche vor denen aus Zwirn oder Baumwolle den Vorzug verdienen, <said id="22" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">weil diese zu leicht Schrunden erzeugen</said>, <seg id="22" type="frame" pos="end">wie <seg id="22" type="speaker">ich</seg> gar zu bald <seg id="22" type="intExpr">wahrnehmen</seg> sollte.</seg> <said id="23" mode="reported" content="thought" level="1" border="yes">Ich befand mich überhaupt bei Weitem nicht so wohl unter meinem Gelegenheitsharnisch</said>; <seg id="24" type="frame" pos="start">doch <seg id="24" type="speaker">man</seg> kann von einem Debütanten nicht <seg id="24" type="intExpr">verlangen</seg>,</seg> <said id="24" mode="indirect" content="speech" level="1" nonfact="yes">daß er die Garderobe eines alten Komödianten besitze.</said> 
+                     
+                        Von Wild sah ich indessen nichts. <said id="25" mode="indirect" content="speech" level="1"><said id="26" mode="indirect" content="thought" level="2" nonfact="yes">Daß es in diesem Revier große Mengen von Wachteln und Wachtelkönigen, von Rebhühnern, Januarhasen gäbe, <said id="27" mode="reported" content="speech" level="3">welche meine Gefährten als »Dreiviertelthiere« bezeichneten</said> <said id="28" mode="reported" content="speech" level="3">und von denen sie den Mund sehr voll nahmen</said>, dazu junge Häschen und endlich wirklich »Lampes«</said></said>, <seg id="26" type="frame" pos="start">das mußte <seg id="26" type="speaker">ich</seg> wohl <seg id="26" type="intExpr">glauben</seg>,</seg> <seg id="25" type="frame" pos="end">da <seg id="25" type="speaker">sie</seg> es <seg id="25" type="intExpr">versicherten</seg>.</seg> 
+                     <said id="29" mode="direct" content="speech" level="1">»Thun Sie mir nur den Gefallen</said>, <seg id="29" type="frame" pos="mid"><seg id="29" type="intExpr">ermahnte</seg> mich <seg id="29" type="speaker">Freund Brétignot</seg>,</seg> <said id="29" mode="direct" content="speech" level="1">keine tragende Häsin zu schießen. Das ist eines Jägers unwürdig!«</said> 
+                     Tragend oder nicht, sapperment, <said id="30" mode="reported" content="thought" level="1" nonfact="yes" border="yes">wenn ich davon etwas gewußt hätte</said>, <said id="31" mode="reported" content="thought" level="1" nonfact="yes">ich, der ich ein Kaninchen nicht von einer Feldkatze – kaum in fricassirtem Zustande – zu unterscheiden verstand.</said>
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

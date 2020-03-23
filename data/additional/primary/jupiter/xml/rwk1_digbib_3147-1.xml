@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Spiegel des Cyprianus</title>
+             <author>Storm, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Storm,_Theodor_Der_Spiegel_des_Cyprianus.tg282_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Der Spiegel des Cyprianus</f>
+         <f name="author">Storm, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Aber der Knabe sprang unter seinen Händen fort und riß seine gespannte Armbrust von der Wand, die er tags vorher dorthin gehangen hatte. Er schoß, und den Eindruck seines Bolzens könnt Ihr noch heutzutage in dem schwarzen Eichengetäfel sehen; aber den Obristen traf er nicht. 
+                  <seg id="1" type="frame" pos="start">Da warf <seg id="1" type="speaker">er</seg> sich in die Knie und <seg id="1" type="intExpr">rief</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Laß mich leben; ich schenke dir mein kleines Nordlandsroß und auch das schöne rote Sattelzeug!«</said> 
+                  Der finstere Mann stand mit untergeschlagenen Armen vor ihm. <said id="2" mode="direct" content="speech" level="1">»Dein Nordlandsroß«</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">erwiderte</seg> <seg id="2" type="speaker">er</seg>,</seg> <said id="2" mode="direct" content="speech" level="1">»läuft mir noch lange nicht schnell genug.«</said> 
+                  <said id="3" mode="direct" content="speech" level="1">»Lieber Hager, laß mich leben!«</said> <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">rief</seg> der <seg id="3" type="speaker">Knabe</seg> wieder;</seg> <said id="3" mode="direct" content="speech" level="1">»wenn ich groß bin, will ich dir mein Schloß geben und alle schönen Wälder, die dazu gehören!«</said> 
+                  <said id="4" mode="direct" content="speech" level="1">»Die will ich bälder noch bekommen«</said>, <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sagte</seg> der <seg id="4" type="speaker">Oberst</seg>.</seg> 
+                  <seg id="5" type="frame" pos="start">Da senkte der <seg id="5" type="speaker">Knabe</seg> das Haupt und <seg id="5" type="intExpr">rief</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»So ergebe ich mich in die Allbarmherzigkeit Gottes!«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2">Das war das rechte Wort!</said>«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">sagte</seg> der böse <seg id="6" type="speaker">Mann</seg>.</seg> Aber der Knabe sprang noch einmal auf und flog an den Wänden des Gemaches entlang; der Oberst jagte ihn wie ein Wildbret. Als sie aber an den verhangenen Spiegel kamen, verwickelte der Knabe seine Füße in dem Bahrtuch, daß er jählings zu Boden stürzte. Da war auch der böse Mann über ihm. – – 
+                  In demselben Augenblick – <said id="8" mode="reported" content="speech" level="1">so wird erzählt</said> – › als dieser zum Faustschlage ausholte und der Knabe die kleinen Hände schützend über seinem Herzen kreuzte, stand der alte Hausmeister tief unten im hintersten Verschlage des Kellers, wo ein Knecht mit der Abzapfung eines Fasses Ingelheimer beschäftigt war. <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="speech" level="2" nonfact="yes">Hast du nichts gehört</said>, Kaspar?«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">rief</seg> <seg id="9" type="speaker">er</seg></seg> und setzte das Lämpchen, das er in der Hand gehalten, auf das Faß. 
+                  Der Knecht schüttelte den Kopf. 
+                  
+                     <said id="11" mode="direct" content="speech" level="1">»Mir war«</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> der <seg id="11" type="speaker">Alte</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">»<said id="12" mode="reported" content="speech" level="2">als hörte ich den Junker Kuno meinen Namen rufen.</said>«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»<said id="14" mode="reported" content="thought" level="2" border="yes">Ihr irrt Euch</said>, Meister«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">erwiderte</seg> der <seg id="13" type="speaker">Knecht</seg>;</seg> <said id="13" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="speech" level="2" nonfact="yes">hier unten hört sich nichts!</said>«</said> 
+                  Eine Weile stand es an; <seg id="16" type="frame" pos="start">da <seg id="16" type="intExpr">rief</seg> der <seg id="16" type="speaker">Alte</seg> wieder:</seg> <said id="16" mode="direct" content="speech" level="1">»Um Gott, Kaspar, <said id="17" mode="reported" content="speech" level="2">da hat es nochmals mich gerufen</said>; <said id="18" mode="reported" content="speech" level="2">das war ein Notschrei aus meines Junkers Kehle!</said>«</said> 
+                  Der Knecht fuhr in seiner Arbeit fort. <said id="19" mode="direct" content="speech" level="1">»Ich höre nur den roten Wein vom Fasse rinnen«</said>, <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">er</seg>.</seg> 
+                  Der Alte aber ließ sich nicht beruhigen; er stieg in das Schloß hinauf er ging von Tür zu Tür, erst in dem Erdgeschoß und dann droben in dem oberen Stockwerk. Als er die Tür der entlegenen Rüstkammer öffnete, da leuchtete ihm der Spiegel des Cyprianus entgegen, auf den die Abendsonne schien. <said id="20" mode="direct" content="speech" level="1">»Wes ruchlose Hand hat denn das herabgerissen?«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">murmelte</seg> der <seg id="20" type="speaker">Alte</seg>;</seg> als er aber das Bahrtuch vom Boden hob, sah er darunter den Leichnam des Knaben und sah die dunkeln Locken über den geschlossenen Augenlidern liegen. 
+                  Der alte Mann stürzte in die Knie <said id="21" mode="reported" content="speech" level="1">und warf sich jammernd über ihn.</said> Er löste die Kleider und suchte an dem Körper seines Lieblings nach der Spur des Todes. Aber er fand nichts als nur über dem Herzen einen dunkelroten Flecken. Lange blieb er noch finster <said id="22" mode="reported" content="thought" level="1">und grübelnd auf den Knien liegen.</said> Dann hüllte er den Knaben in das Bahrtuch, nahm ihn auf seine Arme und trug ihn in das Erdgeschoß hinab nach dem Zimmer der Gräfin.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

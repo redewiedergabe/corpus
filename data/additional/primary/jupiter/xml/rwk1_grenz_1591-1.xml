@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Wiener Zeitungen und Zeitungshelden.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341563_279547.txt_86.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1849</f>
+         <f name="decade">1840</f>
+         <f name="title">Wiener Zeitungen und Zeitungshelden.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+famz_1591
+grenzboten_341563_279547.txt_86.xml
+1849
+1840
+famz
+Wiener Zeitungen und Zeitungshelden.
+None
+no
+512
+1
+
+
+
+
+Mir kam keines davon zu Gesichte, <said id="1" mode="reported" content="speech" level="1">auch würde ich sie in diesem Falle kaum besprechen</said>, da sie nicht
+                        der Oeffentlichkeit angehören.
+               Sehen Sie sich noch einmal die starken biedern Züge des Mannes an. Das
+                        ist Vater Melden, der Botaniker, Journalist und Gouverneur; der Mann, <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">wel 
+               
+               cher</seg> uns <seg id="2" type="intExpr">vorschreibt</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">was für Bücher und Zeitschriften wir im Interesse unserer
+                        politischen Bildung lesen oder nicht lesen sollen</said>, der uns Stockprügel gibt oder
+                        Ruthenstreiche, der uns einsperrt, freiläßt, <said id="3" mode="reported" content="speech" level="1">begnadigt</said>, <said id="4" mode="reported" content="speech" level="1">verurtheilt</said>, und — belustigt.
+            
+            
+               2. Heine.
+                        
+               Wir kommen jejzt zu deu Fischweibern der Reaction, <said id="5" mode="reported" content="speech" level="1">mit <said id="6" mode="reported" content="speech" level="2">deren Beschreibung</said>
+                        ich mich nicht befassen würde</said>, wenn sie nicht glücklicher Weise neben ihrer widerlichen,
+                        auch eine starke komische Seite hätten. Diese ehrenwerthen Basen und
+                        Gevattern sind: Fremdenblatt, Geißel, Courier, Zuschauer, Hans Jörgel. Man
+                        hat diese Blätter Milchschwestern <said id="7" mode="reported" content="writing" level="1">der Berliner „Kreuzzeitung"</said> genannt; <said id="8" mode="reported" content="speech" level="1">das ist
+                        eine Verleumdung der letztern.</said> Die Kreuzzeitung weiß einen gewissen äußerlichen
+                        Anstand zu bewahren, <said id="9" mode="reported" content="writing" level="1">ist für gebildete Reactionäre geschrieben</said> und kann in ihrer
+                        Art witzig sein. <said id="10" mode="reported" content="writing" level="1">Die Wiener Galgenblättlein</said> sind localer als das Berlinerische,
+                        ein specifisch Wienerisches Unkraut; die Möglichkeit ihrer Existenz <said id="11" mode="reported" content="speech" level="1" nonfact="yes">ist kein Kompliment für <said id="12" mode="reported" content="speech" level="2">die gepriesene Kaiserstadt</said></said>, <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes">wo die gemüthlichen Augen demokratischer
+                        sowohl wie conservativer Enthusiasten gar keinen Pöbel bemerkt haben wollen</said>;
+                        <seg id="14" type="frame" pos="start">denn es <seg id="14" type="intExpr">ist</seg> kaum <seg id="14" type="intExpr">anzunehmen</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1">daß das Lesepublikum dieser Art Publizistik aus
+                        lauter Beamten, Offizieren, Börsenmäklern und Geheimpolizisten bestehe</said>; manche
+                        dieser Journale aber hatten in ihrer Blüthezeit 2 bis 3000 Abonnenten in Wien
+                        und blos ein Paar Hundert in den Provinzen.
+               <seg id="15" type="frame" pos="start">Zur allgemeinen Charakteristik dieser Journale muß <seg id="15" type="speaker">ich</seg> den merkwürdigen
+                        Umstand <seg id="15" type="intExpr">erwähnen</seg>,</seg> <said id="15" mode="indirect" content="speech" level="1"><seg id="16" type="frame" pos="start">daß unser <seg id="16" type="speaker">Gouverneur Melden</seg> sich im vorigen Winter <seg id="16" type="intExpr">veranlaßt</seg> <seg id="16" type="intExpr">sah</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2">mehrere derselben <said id="17" mode="reported" content="writing" level="3">in <said id="18" mode="reported" content="writing" level="4">einem öffentlichen Erlaß</said> wegen ihres gemeinen
+                        Servilismus und <said id="19" mode="reported" content="thought" level="4" border="yes">ihrer plump reactionären Tendenzen</said> zu verwarnen und mit
+                        Suspension zu bedrohen!!!</said></said></said> <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Er</seg> <seg id="20" type="intExpr">hob</seg> dabei <seg id="20" type="intExpr">hervor</seg>,</seg> <said id="20" mode="indirect" content="writing" level="1">daß <said id="21" mode="reported" content="writing" level="2">die blutdürstigen Schimpfereien des Couriers und der Geißel</said> geeignet wären, <said id="22" mode="reported" content="thought" level="2" border="yes">die Gemüther bis zu einem
+                        so hohen Grade zu erbittern</said>, daß ernsthafte Ruhestörungen daraus hervorgehn
+                        müßten.</said> — Voran steht
+                         
+               Heine, der Redacteur des Fremdenblattes, nicht „der ungezogene Liebling
+                        der Grazien," sondern ein unsauberer Liebling der Geheimpolizei. Er soll ein
+                        Stiefbruder des Dichters Heinrich Heine sein und hat als Journalist den Pseudonym: Gustav Norden, angenommen. Früher Lieutnant in k. k. östreichischen
+                        Diensten, <seg id="23" type="frame" pos="start"><seg id="23" type="intExpr">wurde</seg> er vor Jahren „<seg id="23" type="intExpr">veranlaßt</seg>,"</seg> <said id="23" mode="indirect" content="speech" level="1">in den Ruhestand zu treten.</said> Jm
+                        November 1848 erschien er plötzlich in der Uniform eines Kürassierlieutenants -
+                        auf der Post. Hatte er wieder zum Schwert gegriffen, wollte er die Magyaren
+                        bekämpfen? Behüte, er stolzirte in der Uniform nur zu Zeiten, bei feierlichen
+                        Gelegenheiten oder <said id="24" mode="reported" content="thought" level="1" border="yes">wenn ihn die Lust dazu anwandelte.</said> Nicht die Magyaren zu
+                        bekämpfen, hatte er den Pallasch umgegürtet und sich mit klirrenden Sporen gerüstet, <seg id="25" type="frame" pos="start">sondern um auf die auswärtigen Zeitungen gleich bei ihrer Ankunft im
+                         
+               
+               Postgebäude zu <seg id="25" type="intExpr">vigiliren</seg>,</seg> <said id="25" mode="indirect" content="thought" level="1" border="yes">die verbotenen gefangen zu nehmen und <said id="26" mode="reported" content="writing" level="2">die verbietenswerthen anzumerken.</said></said> <said id="27" mode="indirect" content="speech" level="1">Die Uniform aber</said>, — <seg id="27" type="frame" pos="mid">so <seg id="27" type="intExpr">erklärte</seg> <seg id="27" type="speaker">man</seg> sich damals den
+                        seltsamen Auftritt,</seg> — <said id="27" mode="indirect" content="speech" level="1">sollte andeuten, daß Heine, in seiner Eigenschaft als gewesener Offizier, von der Militärbehörde mit jenem ehrenvollen Amt betraut war!</said> —
+                         
+               Mit dem Neujahr, wenn mir recht ist, erschien <said id="28" mode="reported" content="writing" level="1">sein Fremdenblatt, welches
+                        auf zwei Seiten täglich die laufende Welt- und Wiener Lokalgeschichte <said id="29" mode="reported" content="writing" level="2">in kurzen
+                        anmuthigen Notizen</said> beleuchtet.</said>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

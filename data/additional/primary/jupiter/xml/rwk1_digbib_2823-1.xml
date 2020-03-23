@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Don Juan von Kolomea</title>
+             <author>Sacher-Masoch, Leopold von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sacher-Masoch,_Leopold_von_Don_Juan_von_Kolomea.tg4_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1866</f>
+         <f name="decade">1860</f>
+         <f name="title">Don Juan von Kolomea</f>
+         <f name="author">Sacher-Masoch, Leopold von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich streckte mich auf meiner Bank aus. Er stopfte sich eine neue Pfeife. 
+                  <said id="1" mode="direct" content="speech" level="1">Es ist so Alles eins</said>, <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">meinte</seg> <seg id="1" type="speaker">er</seg>,</seg> <said id="1" mode="direct" content="speech" level="1">Arrestanten sind wir einmal, also hören Sie die Geschichte zu Ende.</said> 
+                  Da hat uns der polnische Graf getrennt von der tapferen Familie. Meine Senkows waren in alle vier Winde zerstreut. <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">Glauben</seg> <seg id="2" type="speaker">Sie</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">ich habe sie gesucht?</said> Pana Nikolaja hängt sich in mich ein, ganz sanft und ich führe sie zu ihren Leuten, das heißt, ich sehe mich immer um, damit ich sie von Weitem entdecke und noch zu rechter Zeit in eine andere Gasse von Marktbuden einbiegen kann. Ich hebe meinen Kopf <said id="3" mode="reported" content="thought" level="1">stolz wie ein Kosak</said> <said id="4" mode="reported" content="speech" level="1">und wir plaudern.</said> Was gleich? Da sitzt ein Weib und verkauft Kannen. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Pana Nikolaja</seg> <seg id="5" type="intExpr">behauptet</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">die irdenen Kannen sind besser für das Wasser, und ich, die hölzernen, <said id="6" mode="reported" content="speech" level="2">nur um so zu reden</said></said>; <said id="7" mode="reported" content="speech" level="1">sie lobt die französischen Bücher</said> <said id="8" mode="reported" content="speech" level="1">und ich die deutschen</said>; <said id="9" mode="reported" content="speech" level="1">sie die Hunde</said>, <said id="10" mode="reported" content="speech" level="1">ich die Katzen</said>, <said id="11" mode="reported" content="speech" level="1">und ich widersprach nur, <said id="12" mode="reported" content="speech" level="2">um sie reden zu hören</said></said>, so allerliebst! Und wenn sie zornig wurde – diese Stimme! – <said id="13" mode="reported" content="speech" level="1" prag="yes">Wie Musik, sag' ich Ihnen!</said> 
+                  
+                     Endlich hatten mich die Senkows umstellt wie ein Wild, es war nicht mehr auszuweichen, da liefen wir dem Vater Senkow grade in die Arme. Der wollte gleich nach Hause fahren. Gut! Ich hatte jetzt meine Courage beisammen, <said id="14" mode="reported" content="speech" level="1">schrie den Kutscher recht an</said> <seg id="15" type="frame" pos="start">und <seg id="15" type="intExpr">sage</seg> ihm dann,</seg> <said id="15" mode="indirect" content="speech" level="1">wie er fahren soll.</said> Hebe zuerst Madame Senkow in den Wagen, stoße dann Vater Senkow, der einsteigt, so hinterrücks – <said id="16" mode="reported" content="thought" level="1" prag="yes">wissen Sie</said> – hinein, Alles damit ich mich dann auf ein Knie niederlassen, Nikolaja auf das andere ihren Fuß setzen und auf ihren Sitz springen kann. Kommen noch die Schwestern und Basen, küsse noch ein halbes Dutzend Hände, der Kutscher peitscht in die Pferde, fort sind sie. – 
+                  – Es ist wirklich – Sie verzeihen – wenn ich nur könnte – so eine schlechte Gewohnheit – <said id="17" mode="reported" content="speech" level="1">so zu erzählen.</said> Aber ich fahre lieber fort, sonst halte ich noch mehr auf. Endlich sind wir ja Arrestanten. 
+                  Also der Jahrmarkt! 
+                  Da hatte ich mich verkauft, mich, wie ich da bin. Da ging ich herum wie ein Thier, das seinen Herrn verloren hat. Ganz verloren war ich. 
+                  Den nächsten Tag ritt ich hinaus auf das Dorf der Senkows, wurde gut empfangen. Nikolaja war ernster als sonst, ließ das Köpfchen etwas hängen. <said id="18" mode="reported" content="thought" level="1" border="yes">Auch ich wurde traurig</said>, <seg id="19" type="frame" pos="start">sah sie an und <seg id="19" type="intExpr">dachte</seg>:</seg> <said id="19" mode="direct" content="thought" level="1">Was bist du so? Ich bin dein, deine Sache, dein Geschöpf, mache mit mir was du willst, ich bin dein, lache doch!</said> – <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">Ich</seg> <seg id="20" type="intExpr">dachte</seg> gar nicht,</seg> <said id="20" mode="indirect" content="thought" level="1" nonfact="yes"><said id="21" mode="reported" content="thought" level="2" nonfact="yes">daß sie etwas Mehr wünschen könnte.</said></said> 
+                  Ich ritt jetzt oft hinaus zu den Senkows. 
+                  <seg id="22" type="frame" pos="start">Einmal <seg id="22" type="intExpr">sagte</seg> <seg id="22" type="speaker">ich</seg> zu Nikolaja:</seg> <said id="22" mode="direct" content="speech" level="1"><seg id="23" type="frame" pos="start"><seg id="23" type="intExpr">Erlauben</seg> <seg id="23" type="speaker">Sie</seg> mir,</seg> <said id="23" mode="indirect" content="speech thought" level="2" nonfact="yes"><said id="24" mode="reported" content="speech" level="3" nonfact="yes">daß ich nicht mehr lüge.</said></said></said> Sie sah mich erstaunt an. <said id="25" mode="direct" content="speech" level="1">Sie lügen?</said> – <said id="26" mode="direct" content="speech" level="1"><seg id="27" type="frame" pos="start">Da <seg id="27" type="intExpr">sage</seg> <seg id="27" type="speaker">ich</seg> Ihnen,</seg> <said id="27" mode="direct" content="speech" level="2">ich bin Ihr Knecht, meine Seele gehört Ihnen</said>; da falle ich Ihnen zu Füßen, küsse Ihre Fußstapfen und bin es nicht und thue es nicht. <seg id="28" type="frame" pos="start"><seg id="28" type="intExpr">Erlauben</seg> <seg id="28" type="speaker">Sie</seg>,</seg> <said id="28" mode="indirect" content="speech thought" level="2" nonfact="yes"><said id="29" mode="reported" content="speech" level="3" nonfact="yes">daß ich nicht mehr lüge.</said></said> – <said id="30" mode="reported" content="thought" level="2" nonfact="yes" prag="yes">Glauben Sie mir.</said></said> <said id="31" mode="reported" content="speech" level="1" nonfact="yes">ich – ich hörte noch in derselben Stunde auf zu lügen.</said> 
+                  <seg id="32" type="frame" pos="start">Nach einiger Zeit <seg id="32" type="intExpr">sagte</seg> unser alter <seg id="32" type="speaker">Kosak</seg> so zu den Dienstleuten:</seg> <said id="32" mode="direct" content="speech" level="1"><said id="33" mode="reported" content="thought" level="2">Unser junger Herr ist jetzt andächtig geworden</said>, hat der förmliche Flecke auf den Knien.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>
