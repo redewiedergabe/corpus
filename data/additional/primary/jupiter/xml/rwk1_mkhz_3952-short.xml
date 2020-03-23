@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal161_1848_3.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Frankreich.
+                        
+            
+            
+               MParis 7. December. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Sie</seg> werden sich noch <seg id="1" type="intExpr">erinnern</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">daß
+                        am 1. März <said id="2" mode="reported" content="speech writing" level="2">durch Verordnung der provisorischen Regierung</said> eine
+                        Commission zur Vertheilung von Nationalbelohnungen eingesetzt
+                        wurde.</said> Diese Commission, die sich erst am 5. Mai definitiv organisirte, hatte die vielen <said id="3" mode="reported" content="writing" level="1">bei ihr eingelaufenen Bittschriften</said> verarbeitet <said id="4" mode="reported" content="speech writing" level="1">und von 7804 eingereichten Gesuchen 5018 am 1. September für der Berücksichtigung werth erklärt.</said> <said id="5" mode="reported" content="speech" level="1">Auf die allgemeinen
+                        Nachweisungen der Commission hin</said> <said id="6" mode="reported" content="writing" level="1">legte nun der damalige Minister des JnnernSenardder Kammer am 19. September
+                        einen Gesetzentwurf über die Nationalbelohnungen vor</said> <said id="7" mode="reported" content="speech" level="1">und das
+                        Comitéder Kammer verlangte behufs der Prüfung dieses Projectes die Vorlage aller Vorarbeiten, <said id="8" mode="reported" content="writing" level="2">besonders die Namensverzeichnisse, welche sich noch in den Händen der am 1. März niedergesetzten Commission befanden.</said></said> <said id="9" mode="reported" content="speech" level="1">Die Actenstücke wurden dem Comitévon dem Minister des Jnnern Dufaure mitgetheilt.</said>
+            So weit war Alles in der Ordnung, von nun an aber beginnt der Scandal und zwar ein unerhörter Scandal. <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">Wissen</seg>
+                        <seg id="10" type="speaker">Sie</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" nonfact="yes">wer von dieser Commission ganz besonders mit Pensionen
+                        bedacht worden ist?</said> -- Die Verwandten Fieschi's, die Wittwe
+                        und die Kinder Pepins, die Verwandten Morey's, die Schwester
+                        Alibauds, die Schwester Lecomte's, die Verwandten und Mitschuldigen von Darmés und noch einige andere Jndividuen desselben Schlages, deren ganzes Verdienst darin besteht, daß sie auf
+                        Louis Philipp, auf die Herzoge von Orleans, Nemours und
+                        Aumale Mordversuche machten, außerdem erhält noch eine Menge
+                        anderer Kerle, die wegen Diebstahls, verbrecherischer ( nicht politischer ) Verbindungen und Angriffe auf die Sittlichkeit <said id="11" mode="reported" content="speech" level="1">zu infamirenden Strafen verurtheilt worden waren</said>, Pensionen und
+                        Nationalbelohnungen! Neben diesem Gesindel paradiren, ebenfalls als Empfänger von Nationalbelohnungen, die Herren Marrast, Flocon, Recurt, Altaroche u. s. w. Die Sensation, welche
+                       <said id="12" mode="reported" content="speech" level="1"> diese Kunde</said> bei der Nationalversammlung und unter dem Publicum
+                        hervorbrachte, war eine ungeheure, und die Regierung versuchte es
+                        in aller Eile <said id="13" mode="reported" content="speech" level="1">etwaige Vorwürfe</said> von sich abzulenken. <seg id="15" type="frame" pos="start"><said id="14" mode="reported" content="speech" level="1"><seg id="15" type="speaker">Senard</seg>, <seg id="15" type="speaker">Cavaignac</seg> und <seg id="15" type="speaker">Dufaure</seg> <seg id="15" type="intExpr">gaben</seg> nach einander <seg id="15" type="intExpr">Explicationen</seg></said>, aus denen
+                        so viel hervorgeht,</seg> <said id="15" mode="indirect" content="speech" level="1"><seg id="16" type="frame" pos="start">daß <seg id="16" type="speaker">Keiner</seg> von ihnen<seg id="16" type="intExpr"> wußte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wer pensionirt
+                        werden sollte</said>, wenn sie gefehlt, so geschah es blos aus Leichtsinn,
+                        indem sie sich um das Thatsächliche und die Personalien durchaus
+                        nicht bekümmert, sondern, wie es bei Ministern oft zu gehen pflegt,
+                        die Sache Anderen überlassen haben.</said> <seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Sie</seg> <seg id="17" type="intExpr">haben</seg> mit einem Worte
+                        nicht <seg id="17" type="intExpr">gewußt</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1">was sie gethan</said> und wir müssen uns mit <said id="18" mode="reported" content="speech" level="1">dieser Erklärung</said> wohl begnügen, <said id="19" mode="reported" content="thought" level="1" border="yes">denn was sollten wir sonst von Männern halten</said>, <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">die</seg> den Repräsentanten Frankreichs den <seg id="20" type="intExpr">Vorschlag</seg>
+                        <seg id="20" type="intExpr">machen</seg>,</seg> <said id="20" mode="indirect" content="speech" level="1">Mördern und Dieben eine Leibrente zu geben?</said> Die Nationalversammlung ging <said id="21" mode="reported" content="speech" level="1">nach einer langen Debatte</said> zur einfachen
+                        Tagesordnung über und gewährte der Regierung dadurch eine
+                        Jndemnitäts=Bill, -- das Einzige, was sie thun konnte. Jn welchem Lichte <said id="22" mode="reported" content="thought" level="1" border="yes">die öffentliche Meinung den Mann oder die Männer
+                        betrachtet</said>, welche die Regierung in diese böse Geschichte verwickelt,
+                        <said id="23" mode="reported" content="speech writing" level="1" nonfact="yes">brauche ich Jhnen nicht erst zu melden.</said> Es ist dieses eine der
+                        schmählichsten Episoden der Februarrevolution und es muß weit
+                        gekommen seyn, wenn die Staatsgelder zur Bezahlung von
+                        Meuchelmördern verwendet werden! Es wird nun allerdings nicht
+                        geschehen, allein ohne einen Zufall, <said id="24" mode="reported" content="thought" level="1">ohne die Neugierde des
+                        Comité's</said>, wäre es ganz gewiß geschehen.
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>
