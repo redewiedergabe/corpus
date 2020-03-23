@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Don Juanvon Kolomea</title>
+             <author>Sacher-Masoch, Leopold von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Sacher-Masoch,_Leopold_von_Don_Juan_von_Kolomea.tg4_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1866</f>
+         <f name="decade">1860</f>
+         <f name="title">Don Juanvon Kolomea</f>
+         <f name="author">Sacher-Masoch, Leopold von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">4</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auf Meilen war kein Thier wie er. 
+                  Wenn er einen Hund zerriß, so war es, weil er einen andern gebissen hatte. Ihm wich der Wolf aus und der Bär blieb aus, wenn er Wache hielt. 
+                  So fiel es meinem Kohle ein, die Schafe zu beschützen. Das waren so recht arme, ängstliche Thiere, so recht für meinen Kohle. Er kam also zu ihnen und machte fortan nur noch Besuche im Herrenhause; und wenn er zurückkam, da drängten sich die Lämmer um ihn und grüßten ihn und er leckte nur so nach links und rechts mit seiner rothen Zunge, <seg id="1" type="frame" pos="start">als wollte <seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">sagen</seg>:</seg> <said id="1" mode="direct" content="speech" level="1" nonfact="yes">Ist schon gut! <said id="2" mode="reported" content="thought" level="2" border="yes"><seg id="2" type="speaker">Ich</seg> <seg id="2" type="intExpr">weiß</seg> schon.</said> –</said> Nikolaja machte also jetzt auch ihre Besuche in der Hürde und sie nahmen es beide genau. Wenn das Kind einmal ausblieb, schmollte der Hund und lief einmal statt in den Hof in den Wald, wo er sich den Spaß machte, dem Wolfe sein Weib zu verführen. 
+                  Es war ein majestätisches Thier. Wenn Nikolaja kam, trieb er ihr die kleinen Lämmchen zu. Sie setzte sich auf seinen Rücken und er trug sie so leicht, <said id="3" mode="freeIndirect" content="thought" level="1">was leicht? – stolz!</said> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Er</seg> <seg id="4" type="intExpr">wußte</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">was er trug.</said> 
+                  Wie ich Kohle kennen lernte, war er alt, hatte schlechte Zähne, ein lahmes Bein, schlief oft und es geschah, daß da und dort ein Lamm verloren ging. 
+                  <said id="5" mode="reported" content="speech" level="1">Um diese Zeit <seg id="5" type="intExpr">sprach</seg> <seg id="5" type="speaker">man</seg> in unserer Gegend viel von einem Bären</said>, <said id="6" mode="indirect" content="speech" level="1">einem ungeheuren Bären</said><seg id="6" type="frame" pos="mid">, <seg id="6" type="intExpr">sag'</seg> <seg id="6" type="speaker">ich</seg> Ihnen,</seg> <said id="5" mode="reported" content="speech" level="1">der sich auch bei den Senkows sehen ließ.</said> 
+                 <said id="7" mode="reported" content="thought" level="1"> <seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">dachte</seg> gleich an meinen Bären in der Schlucht</said> und schämte mich etwas. 
+                  Einmal reite ich wieder zu den Senkows; da laufen mir Bauern über den Weg, rennen gegen die Hürde<said id="16" mode="freeIndirect" content="thought" level="1"> – ein Tumult – </said>ich sporne mein Pferd, <seg id="8" type="frame" pos="start">von Weitem <seg id="8" type="intExpr">höre</seg> ich</seg><said id="8" mode="direct" content="speech" level="1"> – Der Bär! Der Bär! –</said> Die Angst kommt mir, ich jage nur hin, springe vom Pferd, da steht ein Haufe Volk – Nikolaja liegt am Boden, den Wolfshund in den Armen und schluchzt. Die <seg id="9" type="speaker">Leute</seg> stehen herum und <seg id="9" type="intExpr"><said id="9" mode="reported" content="speech" level="1">flüstern</said></seg> nur. 
+                  
+                     Der Bär war da, der große Bär und holt' ein Lamm. Die Hirten, die Hunde, rühren sich nicht, heulen nur aus Leibeskräften, das Fräulein schreit auf, Kohle schämt sich und springt mit seinem lahmen Bein über den Zaun, grade hin auf den Bären. 
+                  Seine Zähne sind stumpf. Er packt den Bären, der Bär ihn – die Hirten rennen heraus mit der Flinte, der Bär flieht, das Lamm ist gerettet, Kohle aber schleppt sich nur einige Schritte und fällt,<said id="17" mode="reported" content="speech" level="1"> wie ein Held <seg id="10" type="intExpr">sag'</seg> <seg id="10 17" type="speaker">ich</seg> Ihnen –.</said> Nikolaja wirft sich über ihn, schließt den Wolfshund an ihre Brust. Ihre Thränen fließen bis auf seinen Kopf, er sieht hinauf zu ihr, zieht noch einmal Luft <said id="11" mode="freeIndirect" content="thought" level="1">– es ist zu Ende.</said> 
+                  Ich habe ein Gefühl, wie wenn ich einen Mord begangen hätte. <said id="12" mode="indirect" content="speech" level="1">Lassen Sie ihn Pana Nikolaja</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">sag'</seg> <seg id="12" type="speaker">ich</seg>. </seg><seg id="13" type="speaker">Sie</seg> aber hebt die Augen voll Thränen zu mir und <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">sagt</seg>: </seg><said id="13" mode="direct" content="speech" level="1">Sie sind ein harter Mensch, Demetrius,</said> – so heiße ich nämlich. <said id="14" mode="freeIndirect" content="thought" level="1">Ich ein harter Mensch!<said id="15" mode="reported" content="thought" level="2"> <seg id="15" type="intExpr">Denken</seg> <seg id="15" type="speaker">Sie</seg>!</said> </said>
+                  Ich gebe mein Pferd den Hirten, nehme mir ein langes Messer, schleife es noch, nehme die alte Flinte, ziehe die Ladung heraus, lade sie wieder selbst.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

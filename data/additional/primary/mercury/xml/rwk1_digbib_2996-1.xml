@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Casanovas Heimfahrt</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Casanovas_Heimfahrt.tg333_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1918</f>
+         <f name="decade">1910</f>
+         <f name="title">Casanovas Heimfahrt</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Casanova kümmerte sich nicht weiter um die Aussicht und machte sich rasch fertig, nicht so sehr aus Hunger, als aus einer quälenden Neugier, Marcolina so bald als möglich von Angesicht zu Angesicht zu sehen; er wechselte nicht einmal das Gewand, <said id="21" mode="reported" content="thought" level="1">weil <seg id="21" type="speaker">er</seg> erst am Abend glänzender aufzutreten <seg id="21" type="intExpr">gedachte</seg>.</said> 
+                  Als er das im Erdgeschoß gelegene holzgetäfelte Speisezimmer betrat, sah er um den wohlbestellten Tisch außer dem Ehepaar und den drei Töchtern ein in mattschimmerndes, einfach herunterfließendes Grau gekleidetes Mädchen von zierlicher Gestalt sitzen, das ihn mit so unbefangenem Blick betrachtete, als wäre er jemand, der zum Hause gehörte oder doch schon hundertmal hier zu Gast gewesen. Daß sich in ihrem Blick nichts von jenem Leuchten zeigte, wie es ihn früher so oft begrüßt, auch wenn er als Nichtgekannter im berückenden Glanz seiner Jugend oder in der gefährlichen Schönheit seiner Mannesjahre er schienen war, das mußte Casanova freilich als eine längst nicht mehr neue Erfahrung hinnehmen. Aber auch in der letzten Zeit noch genügte meist <said id="1" mode="reported" content="speech" level="1">die <seg id="1" type="intExpr">Nennung</seg> seines Namens</said>, um auf Frauenlippen den Ausdruck einer verspäteten Bewunderung oder doch wenigstens ein leises Zucken des Bedauerns hervorzurufen, das gestand, wie gern man ihm ein paar Jahre früher begegnet wäre. Doch als ihn jetzt Olivo seiner Nichte als Herrn Casanova, Chevalier von Seingalt, vorstellte, lächelte sie nicht anders, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">als wenn <seg id="2" type="speaker">man</seg> ihr irgendeinen gleichgültigen Namen <seg id="2" type="intExpr">genannt</seg> hätte</said>, in dem kein Klang von Abenteuern und Geheimnissen verzitterte. Und selbst als er neben ihr Platz nahm, ihr die Hand küßte, und aus seinen Augen ein Funkenregen von Entzücken und Begier über sie niederging, verriet ihre Miene nichts von der leisen Befriedigung, die doch als bescheidene Antwort auf eine so glühende Huldigung zu erwarten gewesen wäre. 
+                  <said id="3" mode="reported" content="speech" level="1">Nach wenigen höflich einleitenden <seg id="3" type="speaker">Worten</seg></said> ließ <seg id="5" type="speaker">Casanova</seg> seine Nachbarin merken,<said id="4" mode="reported" content="speech" level="1"> daß er von ihren gelehrten Bestrebungen<seg id="4" type="intExpr"> in Kenntnis gesetzt</seg> sei</said>, <seg id="5" type="frame" pos="start">und <seg id="5" type="intExpr">fragte</seg> sie,</seg> <said id="5" mode="indirect" content="speech" level="1">mit welcher Wissenschaft sie sich denn besonders abgebe?</said> <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Sie</seg> <seg id="6" type="intExpr">erwiderte</seg>,</seg> <said id="6" mode="indirect" content="speech" level="1">daß sie vor allem das Studium der höhern Mathematik betreibe</said>, in das sie durch Professor Morgagni, den berühmten Lehrer an der Universität von Bologna, eingeführt worden sei. <said id="7" mode="reported" content="speech" level="1"><seg id="7" type="speaker">Casanova</seg> <seg id="7" type="intExpr">äußerte</seg> seine Verwunderung über ein solches bei anmutigen jungen Mädchen wahrlich ungewöhnliches Interesse an einem so schwierigen und dabei nüchternen Gegenstand</said>, <seg id="8" type="frame" pos="start">erhielt aber von <seg id="8" type="speaker">Marcolina</seg> die <seg id="8" type="intExpr">Antwort</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß ihrer Ansicht nach die höhere Mathematik die phantastischeste,<seg id="9" type="frame" pos="start"> ja <seg id="9" type="speaker">man</seg> könnte <seg id="9" type="intExpr">sagen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2" nonfact="yes">unter allen Wissenschaften die ihrer Natur nach<said id="10" mode="reported" content="thought" level="3"> wahrhaft göttliche <seg id="10" type="intExpr">vorstelle</seg>.</said></said></said> Als <seg id="11" type="speaker">Casanova</seg> sich über diese ihm ganz neue Auffassung <said id="11" mode="reported" content="speech" level="1"><said id="12" mode="reported" content="speech" level="2">eine nähere <seg id="12" type="intExpr">Erklärung</seg></said> <seg id="11" type="intExpr">erbitten</seg> wollte</said>,<said id="22" mode="reported" content="speech" level="1"> <seg id="22" type="intExpr">wehrte</seg> <seg id="13 22" type="speaker">Marcolina</seg> bescheiden <seg id="22" type="intExpr">ab</seg></said> <seg id="13" type="frame" pos="start">und <seg id="13" type="intExpr">äußerte</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">daß es den Anwesenden, vor allem aber ihrem lieben Oheim, viel erwünschter sein dürfte, Näheres von den Erlebnissen eines vielgereisten Freundes zu erfahren, den er so lange nicht gesehn, als <said id="14" mode="reported" content="speech" level="2">einem philosophischen <seg id="14" type="intExpr">Gespräch</seg></said> zuzuhören.</said> Amalia schloß sich ihrer Anregung lebhaft an, und <seg id="15" type="speaker">Casanova</seg>, immer gern bereit, Wünschen solcher Art nachzugeben, <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">bemerkte</seg> leichthin,</seg> <said id="15" mode="indirect" content="speech" level="1">daß er in den letzten Jahren sich vorzüglich auf geheimen diplomatischen Sendungen befunden, die ihn, <said id="16" mode="reported" content="speech" level="2">um nur die größern Städte zu <seg id="16" type="intExpr">nennen</seg></said>, zwischen Madrid, Paris, London, Amsterdam und Petersburg umhergetrieben.</said> <said id="17" mode="reported" content="speech" level="1"><seg id="17" type="speaker">Er</seg> <seg id="17" type="intExpr">berichtete</seg> von Begegnungen und Unterhaltungen ernster und heiterer Art mit Männern und Frauen der verschiedensten Stände</said>, <said id="18" mode="reported" content="thought" level="1" border="yes">auch <said id="19" mode="reported" content="speech" level="2">des freundlichen Empfangs zu <seg id="19" type="intExpr">erwähnen</seg></said> <seg id="18" type="intExpr">vergaß</seg> <seg id="18 19" type="speaker">er</seg> nicht</said>, der ihm am Hof der Katharina von Rußland zuteil geworden, <seg id="20" type="frame" pos="start">und sehr spaßhaft <seg id="20" type="intExpr">erzählte</seg> <seg id="20" type="speaker">er</seg>,</seg><said id="20" mode="indirect" content="speech" level="1"> wie Friedrich der Große ihn beinahe zum Erzieher an einer Kadettenschule für pommersche Junker gemacht hatte</said>; – eine Gefahr, der er sich allerdings durch rasche Flucht entzogen.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

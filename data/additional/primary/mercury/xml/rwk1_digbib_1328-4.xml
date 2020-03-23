@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gradiva</title>
+             <author>Jensen, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Jensen,_Wilhelm_Gradiva.tg4_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Gradiva</f>
+         <f name="author">Jensen, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">4</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Bringst du mir die weiße Blume?«</said> 
+                  Ein Betäubungsschwindel faßte ihn an, er fühlte, daß die Füße ihn nicht mehr hielten, sondern zum Sitzen zwangen, und er ließ sich ihr gegenüber an der Säule auf die Stufe niedergleiten. Ihre hellen Augen waren auf sein Gesicht gerichtet, doch mit andersgeartetem Blick, als mit dem sie ihn gestern bei ihrem plötzlichen Aufstehen und Davongehn angesehen hatte. Aus dem hatte etwas Unmutiges und Zurückweisendes gesprochen, das war weggeschwunden, als ob <seg id="2" type="speaker">sie</seg> inzwischen<said id="2" mode="reported" content="thought" level="1"> zu einer veränderten <seg id="2" type="intExpr">Auffassung</seg></said> gelangt sei, und ein Ausdruck von suchender Neugier oder Wißbegier an die Stelle getreten. Und ähnlich schien sie sich auch darauf besonnen zu haben, daß die heute bräuchliche Anrede in der dritten Person ihrem Munde und den Umständen des Raumes nicht angemessen sei, <said id="3" mode="reported" content="speech" level="1" metaph="yes">denn <seg id="3" type="speaker">sie</seg> hatte sich auch des ›Du‹ <seg id="3" type="intExpr">bedient</seg></said>, <said id="4" mode="reported" content="speech" level="1">und es <seg id="4" type="intExpr">kam</seg> <seg id="4" type="speaker">ihr</seg> eigentlich ohne Schwierigkeit, wie etwas Natürliches <seg id="4" type="intExpr">von den Lippen</seg>.</said> Da er aber auf <said id="5" mode="reported" content="speech" level="1"><seg id="5" type="speaker">ihre</seg> letzte <seg id="5" type="intExpr">Frage</seg></said> gleichfalls stumm geblieben war, nahm <seg id="6" type="speaker">sie</seg> nochmals wieder das Wort<seg id="6" type="frame" pos="start"> und <seg id="6" type="intExpr">sagte</seg>:</seg> 
+                <said id="6" mode="direct" content="speech" level="1">  »<seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Du </seg><seg id="7" type="intExpr">sprachst</seg> gestern,</seg> <said id="7" mode="indirect" content="speech" level="2"><said id="8" mode="reported" content="thought" level="3"><seg id="8" type="speaker">du</seg> hättest mir einmal <seg id="8" type="intExpr">zugerufen</seg></said>, als ich mich zum Schlafen hingelegt, und nachher bei mir gestanden; mein Gesicht sei da ganz weiß wie Marmor gewesen.</said> Wann und wo war das?<said id="9" mode="reported" content="thought" level="2" nonfact="yes"> <seg id="9 10" type="speaker">Ich</seg> kann mich nicht daran <seg id="9" type="intExpr">erinnern</seg> </said><seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">bitte</seg> dich, </seg><said id="10" mode="indirect" content="speech" level="2"><said id="11" mode="reported" content="speech" level="3">es mir genauer mitzuteilen.</said></said>« </said>
+                  Norbert hatte jetzt so viel Sprachfähigkeit gewonnen,<seg id="12" type="frame" pos="start"> daß <seg id="12" type="speaker">ihm</seg> möglich fiel zu <seg id="12" type="intExpr">antworten</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»In der Nacht, als du dich am Forum auf die Stufen des Apollotempels setztest und der Aschenfall vom Vesuv dich zudeckte.«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Ach so – damals. Ja richtig – <said id="14" mode="reported" content="thought" level="2" nonfact="yes">das war <seg id="14" type="speaker">mir</seg> nicht <seg id="14" type="intExpr">eingefallen</seg>.</said> <seg id="15" type="frame" pos="start">Aber <seg id="15" type="speaker">ich</seg> hätte mir <seg id="15" type="intExpr">denken</seg> können,</seg><said id="15" mode="indirect" content="thought" level="2" nonfact="yes"> daß es eine derartige Bewandtnis damit haben müsse. </said><said id="16" mode="reported" content="speech" level="2">Als <seg id="16" type="speaker">du's</seg> gestern <seg id="16" type="intExpr">sagtest</seg></said>, kam's mir nur zu unerwartet, und ich war zu wenig darauf vorbereitet. Doch das geschah, <said id="17" mode="reported" content="thought" level="2">wenn <seg id="17" type="speaker">ich</seg> mich recht <seg id="17" type="intExpr">besinne</seg></said>, vor bald zwei Jahrtausenden. Lebtest du denn damals schon? Mich deucht, du siehst jünger aus.« </said>
+                  <said id="18" mode="reported" content="speech" level="1"><seg id="13 18" type="speaker">Sie</seg> <seg id="18" type="intExpr">sprach's</seg> sehr ernsthaft</said>, nur am Schluß spielte ihr ein leichtes, äußerst anmutiges Lächeln um den Mund. <seg id="19" type="speaker">Er</seg> war in eine verlegene Unschlüssigkeit geraten und <seg id="19" type="frame" pos="start"><seg id="19" type="intExpr">erwiderte</seg> ein wenig stotternd:</seg> <said id="19" mode="direct" content="speech" level="1">»Nein, wirklich, <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">glaub'</seg> <seg id="20" type="speaker">ich</seg>,</seg><said id="20" mode="indirect" content="thought" level="2"> lebte ich wohl im Jahre 79 noch nicht</said> – es war vielleicht – ja, es ist wohl der Seelenzustand, <said id="21" mode="reported" content="speech" level="2">den <seg id="21" type="speaker">man</seg> Traum <seg id="21" type="intExpr">nennt</seg></said>, gewesen, der mich in die Zeit vom Untergang Pompejis zurückbrachte – aber ich erkannte dich auf den ersten Blick wieder –«</said> 
+                  In den Zügen der <seg id="23" type="speaker">ihm</seg> nur auf ein paar Schritte Entfernung gegenüber Sitzenden kennzeichnete sich merklich eine Überraschung,<seg id="22" type="frame" pos="start"> und <seg id="22 24" type="speaker">sie</seg> <seg id="22" type="intExpr">wiederholte</seg> mit einem Ton von Verwunderung:</seg><said id="22" mode="direct" content="speech" level="1"> »Du erkanntest mich wieder? In dem Traum? Woran?«</said> 
+                 <said id="23" mode="direct" content="speech" level="1"> »Gleich zuerst an deiner besonderen Gangart.«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»Auf die hattest du acht gegeben? Und gehe ich denn besonders?«</said> 
+                  Ihr Erstaunen hatte sich wahrnehmbar noch erhöht; <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">er</seg> <seg id="25" type="intExpr">versetzte</seg>: </seg><said id="25" mode="direct" content="speech" level="1">»Ja –<said id="26" mode="reported" content="thought" level="2" nonfact="yes" border="yes"> <seg id="26" type="intExpr">weißt</seg> <seg id="26" type="speaker">du's</seg> selbst nicht?</said> – anmutreicher als irgendeine sonst, wenigstens unter den jetzt Lebenden gibt es keine. Doch ich erkannte dich auch sofort an allem übrigen, der Gestalt und dem Antlitz, deiner Haltung und Gewandung, denn alles stimmte aufs genaueste mit deinem Reliefbild in Rom überein.«</said> 
+                 <said id="27" mode="direct" content="speech" level="1"> »Ach so –«</said> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">wiederholte</seg> <seg id="27" type="speaker">sie</seg> noch einmal in ähnlichem Ton wie vorher –</seg> <said id="27" mode="direct" content="speech" level="1">»mit meinem Reliefbild in Rom.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

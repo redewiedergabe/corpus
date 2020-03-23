@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hastenbeck</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Hastenbeck.tg283_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1899</f>
+         <f name="decade">1890</f>
+         <f name="title">Hastenbeck</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">4</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Zehn Jahre ungefähr war's her, daß zuerst in dem ablegenen Weltwinkel <said id="1" mode="reported" content="speech" level="1"><seg id="1" type="intExpr">Gerüchte</seg> umgingen</said>, die das landeingesessene Volk da in Erregung, Bewegung und Aufregung brachten, wie seit Gründung von Kloster Corvey nicht mehr. Ja, ungefähr war es wieder einmal so gewesen dort im Volk, als etwas ganz Neues in der Gegend aufkam. Hatte Kaiser Ludwig der Fromme das christliche Kirchentum wie ein Licht auf einen Leuchter in die dunkle Sollingswildnis gesteckt, so hatte nunmehr Herzog Karl von Braunschweig die Kunst hinverpflanzt. <said id="2" mode="indirect" content="speech" level="1">Daß der letztere hohe Gründer mehr als der erstere seinen irdischen Profit dabei suchte</said><seg id="2" type="frame" pos="end">, läßt sich nicht <seg id="2" type="intExpr">leugnen</seg></seg>, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">soll ihm aber von <seg id="3" type="speaker">uns</seg> nicht zum <seg id="3" type="intExpr">Vorwurf</seg> gemacht werden.</said> Wer Geld braucht, gewinnt es sich, trotz allem, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">was <seg id="4" type="speaker">man</seg> dagegen <seg id="4" type="intExpr">reden</seg> mag</said>, durch die Kunst, durch schöne Künste, immer noch auf die unschuldigste Weise und tut jedenfalls anderen am wenigsten Schaden durch die Art, wie er ihr Geld ihnen abnimmt. – 
+                     Es ist fein in den alten Akten nachzulesen, wieviel Mühe, Sorge und Ärger es kostete, das exotische Gewächs in dieser ostfälischen Waldwildnis zum Keimen, Blühen und kärglichen Fruchttragen zu bringen. Der Staub, der grade über diese Gründung Serenissimi in seiner Geheimeratsstube zu Braunschweig von den Perücken aufwirbelte, wurde oft so undurchdringlich, daß die Sonne völlig machtlos dagegen blieb und nur ein fürstliches Je le veux! des achtzehnten Jahrhunderts eine trübe Dämmerung über dieser <said id="5" mode="direct" content="writing" level="1">»Erschließung einer neuen Finanzquelle«</said> erhielt. 
+                     
+                        Aber was geht Uns das an?<seg id="6" type="frame" pos="start"> <seg id="6" type="speaker">Serenissima</seg>, unsere liebe Leserin, <seg id="6" type="intExpr">fragt</seg> schon lange:</seg> 
+                     <said id="6" mode="direct" content="speech" level="1">»Das soll eine Liebesgeschichte werden? Den Daphnis und die Chloe, die langweiligen arkadischen Griechen, wollte ich mir ja gerne schenken, aber erfahren möchte man doch allmählich ein wenig Genaueres von der Hauptsache.« </said>
+                     Und recht hat sie bis in den Kern der Welt hinein, und deshalb soll sie es auch bekommen, <said id="7" mode="reported" content="writing" level="1">da <seg id="7" type="speaker">wir</seg> ja auch diesmal wieder eine wahre Geschichte <seg id="7" type="intExpr">erzählen</seg>.</said> – 
+                     Wer vor allen vermeinte, ihre Gründe zu haben, über das neue Wesen da oben in dem alten Schloß auf dem Berge den Kopf zu schütteln, sich Sorgen zu machen und gegen es als ein persönlich Ärgernis sich aufzubäumen, das war – die Pastorin in dem Dorfe unter dem Berge, die Frau Johanne Holtnicker, geborene Störenfreden. Mit dem allermöglichsten Respekt gegen seine hochfürstliche Durchlaucht, den Herzog Karl, <seg id="8" type="frame" pos="start">war <seg id="8" type="speaker">sie</seg> doch der <seg id="8" type="intExpr">Meinung</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1">daß er ein bißchen zu sehr den Kuckuck gegen sie gespielt habe</said>, durch das buntgesprenkelte Ei, seine Porcelaine -Fabrik, die er ihr in ihren Welt-, Wald-, Dorf-, Haus- und Gartenfrieden geschoben hatte. Das Ei war es wohl weniger, was ihr zum Ärgernis wurde, als das, was aus ihm ausgekrochen war: die Abenteurer, die Alchimisten, die Laboranten und vor allem das meistens junge Volk aus aller Herren Ländern, das mit seinen Farbentöpfen und Pinseln gekommen war, um das Schöne zu dem Nützlichen zu tun. Die Blaumaler hätte sie sich wohl noch gefallen lassen, das waren solide, brave Burschen, die in ihren Malstuben über ihre Tassen und Teller gebückt saßen, und sich draußen nach nichts für ihre Künstlichkeit umzusehen brauchten. Aber die Figuren- und Blumenmaler, – das waren die Schlimmen, die ihr das Leben verdrießlicher machten, als es Serenissimus vor sich verantworten konnte!
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

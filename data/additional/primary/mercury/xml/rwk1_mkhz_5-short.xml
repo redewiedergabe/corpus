@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Vermischtes</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_arbeitgeber0667_1870.txt_5.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1870</f>
+         <f name="decade">1870</f>
+         <f name="title">Vermischtes</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.arbeitgeber</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Vermischtes.
+                        
+            
+            
+               
+                  * Polizei in New=York. Auf 500 Einwohner kommt in
+                        New=York ein Polizeidiener. Die gesammte Polizeimacht New=Yorks
+                        betrug am 1. November 1869: 2679 Mann. Dieselbe hat im verflossenen Jahr 2,745,894 Dollar gestohlenes oder verlorenes Gut
+                        wieder zurückerstattet. Die Gesammtausgaben des Polizeidepartements
+                        betrugen 2,837,836 Doll.
+            
+            
+               
+                  * Zur Geschichte der Nähmaschine bringt die „Jllustr. Ztg.“
+                        eine nicht ungeschickte Reklame für die Singer'sche Nähmaschine, in
+                        der Singer
+                  quasi als der Erfinder der Nähmaschine hingestellt
+                        wird. Jm Wesen ist die Singer'sche Maschine nichts als eine
+                        Schiffchen=Maschine, bekanntlich die erste, welche Howe erfand, nur
+                        etwas verbessert. Eine wesentliche Abänderung der Howe'schen Bauart ist
+                        die Wheeler=Wilson=Maschine, welche einen Greifer und Spulchen hat,
+                        und die Kettenstich=Maschine, welche ganz ohne Schiffchen arbeitet.
+                        Wir entnehmen genannter Darstellung, daß Singer ein Deutscher
+                        war, gebürtig aus Heidelberg und gleich Howe mit vielen Schwierigkeiten und Sorgen zu kämpfen hatte, bis es ihm endlich gelang durchzudringen, und schließlich eine der größten Nähmaschinen=Fabriken
+                        Amerika's zu gründen.
+            
+            
+               
+                  * Hohe Honorare. Der berühmte Augenarzt Gräfe in
+                        Berlin war kürzlich zu einer Konsultation nach Wien gekommen, wo
+                        ihm für jeden Tag Aufenthalt 1000 fl. bezahlt worden sein sollen.
+                        Außerdem ließ er sich, obwohl noch kränklich, bewegen eine kleine
+                        Zahl Augenkranke zu untersuchen, von welchen der Geringste 5 Napoleons zahlte, so daß Gräfe während eines fünftägigen Aufenhaltes
+                        10,000 fl. eingenommen haben soll.
+            
+            
+               
+                  * Vermächtniß. Herr Friedrich von Diergardt in Bonn hat
+                        dem deutschen Spital in New=York 50,000 Dollar vermacht, unter
+                        der Bedingung, daß ständig 10 Freibetten reservirt werden.
+            
+            
+               
+                  * Gerichtswesen. <seg id="1" type="frame" pos="start">Die <seg id="1" type="speaker">„Zukunft“</seg> in Berlin <seg id="1" type="intExpr">erzählt</seg> folgenden
+                        kaum glaublichen Fall von Gerichtsbarkeit in Preußen:</seg> <said id="1" mode="direct" content="writing" level="1">Der Polizeisergeant Klaus in Potsdam hatte einen Offizier dabei betroffen,
+                        als er sich das Vergnügen machte, mit seinem Pferde auf dem Trottoir zu reiten. Der <seg id="2" type="speaker">Polizeisergeant</seg> hielt den Offizier an, <said id="2" mode="reported" content="speech" level="2"><seg id="2" type="intExpr">fragte</seg> nach
+                        dessen Namen</said>, <said id="3" mode="reported" content="speech" level="2" nonfact="yes">und als diesen zu <seg id="3" type="intExpr">nennen</seg> der <seg id="3" type="speaker">Herr</seg> sich weigerte</said>,
+                       <seg id="4" type="frame" pos="start"> <seg id="4" type="intExpr">forderte</seg> <seg id="4" type="speaker">er</seg> ihn <seg id="4" type="intExpr">auf</seg>,</seg> <said id="4" mode="indirect" content="speech" level="2">ihm zur Wache zu folgen.</said><seg id="5" type="frame" pos="start"> Nach gewöhnlichen
+                        bürgerlichen Begriffen sollte <seg id="5" type="speaker">man</seg> nun <seg id="5" type="intExpr">meinen</seg>,</seg><said id="5" mode="indirect" content="thought" level="2" nonfact="yes"> daß der Polizeisergeant
+                        Klaus seine Schuldigkeit gethan habe.</said><said id="6" mode="reported" content="speech" level="2"> Das<seg id="6" type="speaker"> Kreisgericht zu Potsdam</seg>
+                        <seg id="6" type="intExpr">urtheilte</seg> aber anders.</said> <seg id="7" type="speaker">Es</seg> fand in diesem Verfahren des Polizeisergeanten einen Mißbrauch seiner Amtsgewalt <said id="7" mode="reported" content="speech" level="2">und <seg id="7" type="intExpr">verurtheilte</seg> ihn
+                        zu vier Wochen Gefängniß.</said> <said id="8" mode="reported" content="speech" level="2">Gegen dieses Urtheil hat <seg id="8" type="speaker">Klaus</seg> <seg id="8" type="intExpr">appellirt</seg></said>
+                        <said id="9" mode="reported" content="speech" level="2">und ist er denn auch vor dem <seg id="9" type="speaker">Kammergericht</seg> <seg id="9" type="intExpr">freigesprochen</seg> worden.</said></said>
+            
+            
+               
+                  * Waffentragen außer Dienst. Jn Stettin haben sich die
+                        Militär=Erzesse, denen sogar Damen ausgesetzt waren, so gemehrt, daß
+                        das Kommando Maßregeln dagegen ergriffen hat. Jn der benachbarten Stadt Grabow verwundeten 3 Soldaten einen Bürger, den
+                        sie mit einem andern verwechselt hatten, dermaßen, <said id="10" mode="reported" content="thought" level="1">daß an seinem
+                        Aufkommen <seg id="10" type="intExpr">gezweifelt</seg> wird.</said> -- Wer trägt die Schuld an diesen
+                        Mordthaten? Fühlt sich Niemand gedrückt in seinem Gewissen?
+                         
+            
+            
+               
+                  * Karl Noback, ein um die Handelswissenschaft sehr verdienter
+                        Mann, ist in Prag gestorben.
+            
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>
