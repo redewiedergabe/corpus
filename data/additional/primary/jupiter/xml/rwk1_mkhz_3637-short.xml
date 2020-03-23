@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal049_1848_5.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Jtalien.
+                        
+            
+            Mailand 29. Juli. Die am 28. d. erwartete republikanische
+                        Demonstration hat nicht stattgefunden; dagegen, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">heißt</seg> es,</seg> <said id="1" mode="indirect" content="speech" level="1">es rumore unter dem Volke und es könne Auftritte geben.</said> Gestern
+                        ging die Deputation ab, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">die Frankreichs Hülfe ansprechen soll.</said> <said id="3" mode="reported" content="thought" level="1" border="yes">Man ist hier in ängstlicher Spannung.</said>
+            Genua 25. Juli. ( Karlsr. Z. ) Seit einiger Zeit ist hier das
+                        zahlreiche Proletariat in lebhafter Bewegung. <seg id="4" type="frame" pos="start">Nachdem <seg id="4" type="speaker">man</seg>
+                        zuerst das <seg id="4" type="intExpr">Gerücht</seg> <seg id="4" type="intExpr">ausgestreut</seg> hatte,</seg> <said id="4" mode="indirect" content="speech" level="1">daß in den Straßen der
+                        Stadt Fremde herumgingen und den Kindern armer Leute vergiftetes Wasser zu trinken gäben</said>, <seg id="5" type="frame" pos="start"><seg id="5" type="intExpr">heißt</seg> es jetzt,</seg> <said id="5" mode="indirect" content="speech" level="1"><seg id="6" type="frame" pos="start">daß die <seg id="6" type="speaker">Reichen</seg>
+                        den <seg id="6" type="intExpr">Plan</seg> <seg id="6" type="intExpr">hegten</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2">alle Armen aus der Welt zu schaffen.</said></said> <said id="7" mode="reported" content="speech" level="1">Die
+                        albernsten Mährchen werden darüber in Umlauf gesetzt</said> <said id="8" mode="reported" content="thought" level="1">und vom
+                        Volke geglaubt.</said> <seg id="9" type="frame" pos="start">Allem Anschein nach <seg id="9" type="intExpr">liegt</seg> der Sache der <seg id="9" type="intExpr">Plan</seg>
+                        <seg id="9" type="intExpr">zu</seg> <seg id="9" type="intExpr">Grunde</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">die Besitzlosen gegen die Besitzenden zu hetzen und
+                        einen Zusammenstoß zwischen beiden herbeizuführen, welcher die
+                        Aussicht auf Plünderung gestattet.</said> Früher schon ist man ähnlichen Umtrieben auf die Spur gekommen, und wenn der Pariser
+                        Arbeiteraufstand geglückt wäre, hätten wir wahrscheinlich bereits
+                        ähnliche Auftritte erlebt. Ueberhaupt <said id="10" mode="reported" content="thought" level="1">sind hier die unteren Klassen durch und durch von communistischen Jdeen angesteckt</said>, was
+                        zum Theil der Nähe Frankreichs, zum Theil aber auch dem
+                        Umstande beizumessen ist, daß unser Platz seit einiger Zeit den
+                        Abentheurern aus allen Himmelsgegenden zum Versammlungsorte dient.
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

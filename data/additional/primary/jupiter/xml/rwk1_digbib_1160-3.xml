@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Wetterfrosch</title>
+             <author>Essig, Hermann</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Essig,_Hermann_Der_Wetterfrosch.tg21_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Wetterfrosch</f>
+         <f name="author">Essig, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er hörte das Plätschern .. von einem Brunnen, der in der Nacht von Schick vors Haus gestellt wurde ... und seltsame Dinge geschahen um den Brunnen, sein Becken war grün wie der Froschteich, <seg id="1" type="frame" pos="start">und <seg id="1" type="speaker">er</seg> stand am Rand und <seg id="1" type="intExpr">weinte</seg> darüber,</seg> <said id="1" mode="indirect" content="speech" level="1">daß ihm die Eier auswichen und untersanken und das Becken sich mit trübem Wasser füllte.</said> Und Schick saß bescheiden in die Ecke der aus der Mitte ragenden Brunnensäule gedrückt, und sah wehmütig aus und machte ganz zaghafte Nickerchen zu ihm, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">als traute er sich nicht, ihn einzuladen</said>, weil er nun der große Herr Eiskönig sei. Er hatte Mitleid mit dem alten verlassenen Freund, wenn der Wind die Strahlen der Rohre schüttelte und Schick die Haut zusammenzog. 
+                  Der Nacht folgte ein trüber Tag. Der Knabe saß herum, mürrisch und wehleidig. <seg id="3" type="frame" pos="start">Es <seg id="3" type="intExpr">war</seg> <seg id="3" type="intExpr">ihm</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1">als hätte ihm jemand das Mädchen gestohlen und ihn jemand mit Schick entzweit.</said> Die Freundschaft zu dem Mädchen am großen See war wie nie oder schon vor langer Zeit gewesen, so daß man sie nicht mehr erneuern konnte, ohne <said id="4" mode="reported" content="thought" level="1" border="yes">den Eindruck jenes Tages</said> zu zerstören und <said id="5" mode="reported" content="thought" level="1" nonfact="yes"><said id="6" mode="reported" content="thought" level="2">die Erinnerung an ein bestimmtes liebliches Aus sehen</said> der Geliebten zu verwischen oder ganz zu verlieren.</said> Und mit Schick konnte es nicht mehr das Alte werden, <said id="7" mode="reported" content="speech" level="1">man hatte sich gegenseitig beschimpft</said> und verleumdet. Er preßte die Nase an die Fensterscheiben und sah stundenlang die Schmiedknechte an Bindfaden vom Himmel auf die Erde sausen und ihre Hämmer durcheinander auf der Straße schwingen, bis die Schlacke abfloß und die harte Rinde erschien ... dann hörten sie auf. Schick war Geschäftsmann und sah die Sache weniger sentimental an. Er brauchte notwendig jemand, der seine Anschauung im Dorf vertrat. <said id="8" mode="direct" content="thought" level="1">Hatte das der Knabe früher getan, so wirds auch wieder werden</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">dachte</seg> <seg id="8" type="speaker">er</seg>.</seg> Das Heer konnte ein böser Bundesgenosse werden, wenns einmal ans Angeln und Fischen ging, den Erlen die Zweige schnitt, Pfeifen klopfte, und Peitschen handelte, <said id="9" mode="reported" content="thought" level="1">das sah Schick voraus.</said> Er hatte darum wahrhaft tückisches Bemühen, den Knaben anzulocken. <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Schick</seg> ließ dem Knaben durch die Quelle, die er als reißenden Bach ins Dorf hineinschickte, <seg id="10" type="intExpr">mitteilen</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" metaph="yes">er möchte zu Schick kommen <said id="11" mode="reported" content="speech" level="2" nonfact="yes">zu umfangreicher inniger Versöhnung</said>, er wolle ein Wasserfest ihm zu Ehren geben, eine Ehre sei der andern wert!</said> 
+                  <said id="12" mode="reported" content="speech" level="1" metaph="yes">Der Bach richtete es wortgetreu aus</said> und rannte dem Knaben über die Hausschwelle, <said id="13" mode="reported" content="speech" level="1">redete sogar an dem Knaben herum im Stall, im Keller, auf dem Miste, in der Scheune</said>, recht aufdringlich, <seg id="14" type="frame" pos="start">aber der <seg id="14" type="speaker">Knabe</seg> zog bloß die Füße hoch und <seg id="14" type="intExpr">lachte</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»will er mich wieder haben? .. er kann warten .... er soll sein Fest allein feiern .... <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">meint</seg> <seg id="15" type="speaker">Schick</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1" nonfact="yes"><said id="16" mode="reported" content="speech" level="2">er dürfe mich nur einladen</said>, dann ...?</said>«</said> 
+                  Was zog dem Knaben für ein warm Gefühl durchs Herz, nach der Absage. Seine Freundschaft und Liebschaft war doch erst von gestern. Es hellte sich auf und war am Himmel noch gleich schwarz und düster. 
+                  
+                     Der Quelle wars angenehm, daß der Knabe die Einladung nicht annahm. Sie hatte dem Frosch den Botendienst nur ungern getan. Und weil sie unverrichteter Dinge ins Dorf gelaufen war, scheute sie sich, zum Frosch zurückzukehren, trieb sich herum und verlief. Sie überschwemmte die Wiesen.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

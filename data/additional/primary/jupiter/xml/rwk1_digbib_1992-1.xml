@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Albino</title>
+             <author>Meyrink, Gustav</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyrink,_Gustav_Der_Albino.tg90_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Albino</f>
+         <f name="author">Meyrink, Gustav</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1"><seg id="2" type="frame" pos="start">Nur die <seg id="2" type="intExpr">Hoffnung</seg>,</seg> <said id="2" mode="indirect" content="thought" level="2">endlich, endlich doch den wahren Aufenthalt Kassekanaris entdecken und das arme Opfer befreien zu können</said>, hielt mich vom Selbstmord zurück. 
+                  
+                     <seg id="3" type="frame" pos="start">Stundenlang lag <seg id="3" type="speaker">ich</seg> auf den Knien, Gott <seg id="3" type="intExpr">anflehend</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2">mich die Kraft finden zu lassen, den Brief ungelesen zu vernichten.</said> 
+                  Aber niemals fand ich die Kraft dazu. 
+                  Immer wieder habe ich die Briefe geöffnet, und immer wieder bin ich in Ohnmacht zusammengebrochen. <said id="4" mode="direct" content="speech thought" level="2"><said id="5" mode="reported" content="speech" level="3" nonfact="yes">Kläre ich ihn auf über seinen Irrtum</said></said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">ich</seg> mir vor,</seg> <said id="4" mode="direct" content="speech thought" level="2">so fällt wohl sein Haß auf meinen Sohn, der andere aber – der Unschuldige – ist erlöst!</said> 
+                  <said id="6" mode="reported" content="writing" level="3">Und ich griff zur Feder, um alles zu schreiben, zu beweisen.</said> 
+                  Doch der Mut verließ mich – ich konnte nicht wollen und wollte nicht können und wurde so zum Missetäter an dem armen kleinen Manuel, – – der doch auch Beatrix' Kind war, – – – <said id="7" mode="reported" content="speech" level="2" nonfact="yes">indem ich schwieg.</said> 
+                  Das Fürchterlichste jedoch in allen meinen Qualen war das gleichzeitige grauenvolle Emporzüngeln eines fremden, finsteren Einflusses in mir, über den ich keine Gewalt hatte, der sich in mein Herz schlich, – leise und unwiderstehlich – eine Art haßerfüllte Befriedigung, daß es sein eigenes Fleisch und Blut sei – gegen das das Ungeheuer raste.«</said> 
+                  Die Logenbrüder waren aufgesprungen und starrten Ariost an, <said id="8" mode="reported" content="speech" level="1">der sich in seinem Sessel kaum aufrecht erhielt und die Sätze mehr flüsterte als sprach.</said> 
+                  
+                     <said id="9" mode="direct" content="speech" level="1">»Jahrelang hat er Manuel gefoltert –, ihm Martern zugefügt, <said id="10" mode="reported" content="speech" level="2" nonfact="yes">deren Schilderung ich nicht über die Lippen bringe</said> – hat ihn gefoltert und gefoltert, bis ihm der Tod das Messer aus der Hand schlug, – hat Bluttransfusionen von weißen entarteten Tieren und solchen, die das Tageslicht scheuen, an ihm vollzogen, – ihm die Gehirnteilchen exstirpiert, <said id="11" mode="reported" content="thought" level="2">die nach seinen Theorien die guten und milden Regungen im Menschen erwecken</said>, – und ihn dadurch zu dem gemacht, <said id="12" mode="reported" content="speech" level="2">was er einen <said id="13" mode="direct" content="speech" level="3">›seelisch Gestorbenen‹</said> nannte.</said> Und mit der Ertötung aller menschlichen Regungen des Herzens, aller Keime des Mitleids, der Liebe, des Erbarmens, trat bei dem armen Opfer <said id="14" mode="reported" content="writing" level="2">genau wie Kassekanari in einem Briefe vorausgesagt</said>, auch die körperliche Degeneration ein, jenes grausige Phänomen, <said id="15" mode="reported" content="speech" level="2">das die afrikanischen Völker den <said id="16" mode="direct" content="speech" level="3">›echten, weißen Neger‹</said> nennen.</said> – – – – – 
+                  Nach langen, langen Jahren verzweiflungsvollen Forschens und Suchens – die Verhältnisse des Ordens und meine eigenen ließ ich achtlos ihrer Wege treiben – gelang es mir endlich (Manuel war und blieb spurlos verschwunden) meinen Sohn – als Erwachsenen aufzufinden. 
+                  Aber ein letzter Schlag traf mich dabei: <said id="17" mode="reported" content="speech" level="2">Mein Sohn nannte sich Emanuel Kassekanari – – –!</said> 
+                  Derselbe Bruder ›Corvinus‹, den ihr ja alle in unserem Orden kennt. 
+                  
+                     
+                        Emanuel Kassekanari. 
+                  <seg id="18" type="frame" pos="start">Und <seg id="18" type="speaker">er</seg> <seg id="18" type="intExpr">behauptet</seg> unerschütterlich,</seg> <said id="18" mode="indirect" content="speech" level="2"><said id="19" mode="reported" content="speech" level="3" nonfact="yes">niemals mit dem Vornamen Pasqual genannt worden zu sein.</said></said> 
+                  
+                     <seg id="20" type="frame" pos="start">Seitdem <seg id="20" type="intExpr">verfolgt</seg> <seg id="20" type="speaker">mich</seg> der <seg id="20" type="intExpr">Gedanke</seg>,</seg> <said id="20" mode="indirect" content="thought" level="2"><said id="21" mode="reported" content="speech" level="3">daß der Alte mich belogen</said> und Pasqual und nicht Manuel verstümmelt haben könnte, – daß also doch mein Kind zum Opfer gefallen ist.</said> – Die Photographien damals zeigten die Gesichtszüge zu undeutlich, und im Leben sahen die Kinder einander zum Verwechseln ähnlich. –</said> 
+                  – – – – – – – – – – – – – – – – – – – – – – – – – – – – 
+                  
+                     <said id="22" mode="direct" content="speech" level="1">Doch das darf, das darf, das darf ja nicht sein, – das Verbrechen, all die ewiglange Gewissenspein umsonst! – Nicht wahr?«</said> <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">schrie</seg> plötzlich <seg id="22" type="speaker">Ariost</seg> wie ein Wahnsinniger auf; –</seg> <said id="22" mode="direct" content="speech" level="1">»nicht wahr, <said id="23" mode="reported" content="speech" level="2">sagt Brüder</said>, nicht wahr, ›Corvinus‹ ist mein Sohn, mir wie aus den Augen geschnitten!«</said> 
+                  <said id="24" mode="reported" content="speech" level="1" nonfact="yes">Die Brüder sahen scheu zu Boden und brachten die Lüge nicht über die Lippen.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

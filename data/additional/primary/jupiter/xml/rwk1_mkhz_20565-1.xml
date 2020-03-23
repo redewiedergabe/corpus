@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Arbeitslosenfürsorge.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MZ_1914_05_05.txt_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Arbeitslosenfürsorge.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.marburger</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Österreichische Vereinigung zur Bekämpfung der Arbeitslosigkeit hat soeben als erstes Flugheft <said id="1" mode="reported" content="speech" level="1">den von Hofrat Professor Dr. E. Schwiedland in der Gesellschaft österreichischer Volkswirte
+                        gehaltenen Vortrag „Systeme der Arbeitslosenunterstützung“</said> herausgegeben. <said id="2" mode="reported" content="speech" level="1">Den fesselnden Ausführungen</said> entnehmen wir u. a.: Arbeitslosigkeit hat
+                        für Leute, die ganz auf den Ertrag ihrer Arbeit
+                        angewiesen sind, das Versiegen jeglichen Einkommens
+                        zur Folge. Das bedeutet für sie nicht allein Mangel,
+                        sondern auch seelischen Druck — bewirkt also Entbehrungen, Not und Elend, und zugleich tiefste Beunruhigung, peinvolle Suche nach entlohnter Beschäftigung und <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">Ungewißheit</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes">sie zu finden.</said> Abgesehen von der Gefährdung seines Lebensfußes und
+                        der Erziehung seiner Kinder kommt dabei der
+                        ständig beschäftigte gelernte Arbeiter in Gefahr, ein
+                        nur aushilfsweise und gelegentlich beschäftigter Mann
+                        zu werden, aus seiner sozialen Schichte niederzugleiten, sein Kapital an Arbeitsgeschick einzubüßen
+                        und innerlich zu verkommen — der unständige
+                        Gelegenheitsarbeiter aber, der stets ohne Rückhalt
+                        ist, verfällt dem nackten Elend mit seinem gesundheitsverwüstenden, kräfteverzehrenden, seelische Verlumpung fördernden Folgen. Solchem unverschuldeten Schicksal gegenüber entsteht für die Gesamtheit die Aufgabe einer Arbeitslosigkeitsverhütung
+                        und einer Fürsorge für die Fälle dennoch sich ergebender Not. <said id="4" mode="reported" content="speech" level="1">Der Verfasser bespricht sodann die
+                        verschiedenen Systeme der Fürsorge für die Arbeits losenfürsorge</said> und <said id="5" mode="reported" content="speech thought" level="1">kommt zum Schlusse:</said> Die Arbeiterschaft hat Grund, zugunsten der von ihr heiß
+                        ersehnten öffentlichen Arbeitslosenfürsorge, Entgegenkommen zu zeigen und <said id="6" mode="reported" content="thought" level="1" nonfact="yes">ohne Hintergedanken</said> und
+                        Zurückhaltung für paritätisch geleitete Arbeitsnachweise einzutreten. Die Gefährdung des Lohnniveaus
+                        der in Arbeit Stehenden durch Arbeitslose ist ein
+                        großes Argument, und <said id="7" mode="indirect" content="thought" level="1" nonfact="yes">daß zentralisierte Nachweise
+                        den besten Dienst tun</said><seg id="7" type="frame" pos="end">, ist wohl nicht zu <seg id="7" type="intExpr">bezweifeln</seg>.</seg>
+                        <seg id="8" type="frame" pos="start">Hat doch jüngst ein deutscher <seg id="8" type="speaker">Fachmann</seg> darauf <seg id="8" type="intExpr">hingewiesen</seg>,</seg> <said id="8" mode="indirect" content="speech writing" level="1">daß <said id="9" mode="reported" content="speech writing" level="2" nonfact="yes">fachliche Nachweise es heute vielfach
+                        vermeiden, Arbeitslosen alle auswärtigen offenen
+                        Stellen bekanntzugeben:</said></said> Arbeiter, weil sie keinen
+                        Lohnbruch verursachen, Unternehmer, weil sie nicht
+                        Konkurrenten wohlfeile Arbeiter verschaffen wollen.
+                        Somit hätten auch die Unternehmer ihrerseits auf
+                        parteimäßig geleitete Vermittlungen zu verzichten.
+                        <seg id="9" type="frame" pos="start">Jedenfalls kann <seg id="10" type="intExpr">gesagt</seg> werden,</seg> <said id="10" mode="indirect" content="speech" level="1">daß interlokal tätige
+                        Nachweise den Arbeitsmarkt nach Möglichkeit entlasten und andrerseits auch gestatten würder, das
+                        finanzielle Erfordernis einer Arbeitslosenversicherung
+                        annähernd zu schätzen.</said> Ohne eine durchgreifende
+                        öffentliche Arbeitsvermittlung ließe sich auf dem
+                        Gebiete der Arbeitslosenfürsorge nichts Besseres erreichen als das Surrogat — ein sachlich unzureichendes Genter System. Das belgische (oder Genter)
+                        System, die älteste öffentlich-rechtliche Hilfsorganisation, beruht auf den Grundsätzen: 1. Die Gewerkschaften der Arbeiter sollen selbst ihre arbeitslosen
+                        Mitglieder unterstützen, 2. hierzu aber aus öffentlichen Mitteln Zuschüsse erhalten. Unter unseren
+                        Verhältnissen hätte somit die Regierung zu leisten:
+                        1. die Ausführung aller im Budget bewilligten Arbeiten mit möglichster Beschleunigung; 2. Einflußnahme, damit Länder und Städte das nämliche tun
+                        und überdies Notstandsarbeiten unternehmen; 3.
+                        Schaffung einer staatlich geregelten, paritätisch verwalteten Arbeitsvermittlung; 4. Verhandlungen mit
+                        Städten, damit diese außerhalb der Armenpflege
+                        Arbeitslosenunterstützungen auszahlen unter Entgegennahme eines staatlichen Zuschusses hierzu. —
+                        So also Professor Dr. Schwiedland. Die Arbeitslosenfürsorge ist aber ein Kapitel, welches tief hineingreift in gegensätzliche soziale und politische Anschauungen, die sich nur sehr schwer oder gar nicht
+                        auf ein gemeinsames Ziel vereinen lassen wollen.
+                        Dem Lande ist diese brennende Frage völlig fremd;
+                        sie lebt nur in den Städten. Die Landwirtschaft
+                        entbehrt oft der notwendigsten Kräfte, weil alles in
+                        die Städte läuft, einer oft unsicheren Zukunft entgegen und dort das Heer der Arbeitslosen vermehrend.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

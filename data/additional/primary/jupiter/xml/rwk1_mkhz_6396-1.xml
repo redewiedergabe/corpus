@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Champignon.</title>
+             <author>Kummer, B.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt45_1868_5.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Der Champignon.</f>
+         <f name="author">Kummer, B.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Gewiß, wen der edle Geschmack dieser Pilze nicht rührt, den kann doch
+                        der gemüthliche Sondercharakter derselben und speziell der weg= und angervertrauten Champignons noch fesseln. Und Sonderlinge sind sie! Der
+                        monotone Typus ihrer Schirmgestalt scheint in die sonstige Formenwelt
+                        der postdiluvianischen Jahrhunderte kaum mehr zu passen. Sie schießen
+                        oft am reichlichsten auf zu einer Zeit, wo die sonstige vegetative Natur
+                        zur herbstlichen Neige geht, und schließen als die Schneeglöckchen des
+                        Herbstes das Jahr; sie läuten es aus, denn nach ihnen blüht keine Blume
+                        mehr auf in weiter Flur. Und es erntet in ihnen der Mensch einmal,
+                        ohne vorher gesäet zu haben. So sind sie wie verstreute Fremdlinge aus
+                        einer andern Welt, denn mit all' diesen formellen wie geistigen Zügen
+                        passen sie nicht in die unsrige.
+            Wie sollte man nicht den Champignon ( Agaricus campestris ) vor
+                        allen seines Gleichen ehren! Er ist aus der Familie der Hutblätterpilze
+                        der Superlativ für den gebildeten Gourmand. Aber er kommt so massenhaft vor, daß auch der Aermste sich eine Mahlzeit davon herrichten kann.
+                        Dabei steht er so traulich am Wege, wie in idyllischen Gruppen auf dem
+                        abgeernteten Felde, <said id="1" mode="reported" content="speech" level="1">daß ihm die Liebe des natursinnigen Volkes vieler
+                        Orten liebkosend den Namen „Brachmännlein“ gegeben.</said> Durch seine vom
+                        grünen Rasen sich abhebenden schneeweißen Jndividuen zieht er das Auge
+                        des Wanderers unwillkürlich auf sich und ladet ihn zum Genuß ein, daß
+                        kein Wirthshaus weit und breit mehr vonnöthen ist, und roh ist sein
+                        Geschmack am köstlichsten.
+            Wenn wir ihn auf unserem Gange nun betrachtend in die Hand nehmen, so überrascht er das Auge durch seinen seltsamen Bau, wegen dessen
+                        <said id="2" mode="reported" content="thought" level="1" nonfact="yes" border="yes">kein Kind und keine Köchin ihn verkennen kann.</said>
+            <said id="3" mode="indirect" content="thought" level="1" border="yes"><said id="4" mode="reported" content="thought" level="2" border="yes">Ueber den Bau, d. h. über die „Kennzeichen“ aber Gewißheit zu haben</said>,
+                        um ihn als edle Küchengabe mit keinem giftigen zu verwechseln</said>, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">ist</seg> der
+                        erste berechtigte <seg id="3" type="intExpr">Wunsch</seg> jeder kulinarischen <seg id="3" type="speaker">Herrin</seg></seg>, <said id="5" mode="reported" content="speech" level="1">die über Champignons
+                        reden hört.</said> Die Antwort besteht darin, daß er von giftigen Arten nur
+                        mit einer oder zweien verwechselt werden kann, mit zwar nicht giftigen,
+                        aber geschmack- und darum werthlosen anderen Arten nur allzu leicht.
+                        Die ähnlichen giftigen sind aus der Gattung Amanita, deren Typus der
+                        Fliegenpilz ist, und da ist es vor Allem der grünlichweiße „Gichtschwamm“
+                        ( Agaricus phalloides ) , und der oft innen und außen röthlich angelaufene
+                        „Perlenschwamm“ ( Agaricus rubescens ) , die, wie der Champignon, einen
+                        Ring um den Strunk ( Stiel ) haben und besonders in der Jugend ihm
+                        auch sonst ähnlich sehen. Aber abgesehen davon, daß sie fast nur in Wäldern vorkommen, haben sie in den meisten Fällen weißliche zerstreute
+                        Warzen auf dem Hut, immer aber weiße Lamellen ( Strahlenblätter )
+                        unter dem Hut, während diese beim Champignon stets in Roth gefärbt
+                        sind. Meist sind sie bei ihm charakteristisch rosenfarbig, besonders bei eben
+                        aufgebrochenen Exemplaren; im Alter werden sie kirsch= oder braunschwarz
+                        und zerfließlich; bei einer Varietät sind sie auch matt chokoladensarbig.
+                        Diese Färbung der Lamellen hat kein giftiger Pilz! Jst der
+                        Champignon noch kugelig geschlossen, so sind die Lamellen blaß; <said id="6" mode="reported" content="thought" level="1">ist man
+                        in Zweifel</said>, <said id="7" mode="reported" content="thought" level="1" nonfact="yes" border="yes">weil man seinen sonstigen Habitus noch nicht genau kennt</said>,
+                        so lasse man ihn vorläufig liegen, und nach wenigen Stunden wird die
+                        Färbung eingetreten sein.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

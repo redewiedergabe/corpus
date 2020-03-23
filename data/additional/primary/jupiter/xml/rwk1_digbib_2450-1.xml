@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Goldregen</title>
+             <author>Panizza, Oskar</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Panizza,_Oskar_Der_Goldregen.tg57_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1893</f>
+         <f name="decade">1890</f>
+         <f name="title">Der Goldregen</f>
+         <f name="author">Panizza, Oskar</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">yes_DS</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_2450
+Panizza,_Oskar_Der_Goldregen.tg57_1.xml
+1893
+1890
+erz
+Der Goldregen
+Panizza, Oskar
+yes
+506
+1
+
+
+
+
+
+<said id="1" mode="reported" content="thought" level="1" border="yes">Alle schienen befriedigt.</said> Die Meisten, wie sie zuerst den Platz 
+betraten, machten zunächst große Augen, <seg id="2" type="frame" pos="start">und <seg id="2" type="intExpr">begriffen</seg> nicht,</seg> <said id="2" mode="indirect" content="thought" level="1">wie Militär daherkam.</said> Einzelne, als sie des Königs ansichtig wurden, durch die Uebung gedrillt, wollten ihr <said id="3" mode="reported" content="speech" level="1" nonfact="yes">»Hoch!« loslegen.</said> Doch es blieb ihnen in der Kehle stecken. <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">Meinten</seg> wohl doch im letzten Moment,</seg> <said id="4" mode="indirect" content="thought" level="1">die Gelegenheit sei nicht günstig, und zu extraordinär.</said> – Jetzt begann vom Himmel wieder, wie vor zwei Stunden, jener verdächtige citronengelbe Schwadem sich herabzusenken, der das erstemal die entsetzlichen gelben Schloßen zur Folge gehabt hatte. – <said id="5" mode="reported" content="thought" level="1">Ich dachte an Deckung</said>, und ging wie zufällig, da die vollständig zerfetzte Allee keinen Schutz mehr bot, gegen das andere Ende des Platzes, welches der Stadt abgewandt war, und wo eine große Bauhütte, die eine Seite ganz offen, genügend Schutz und Raum gewährte. <said id="6" mode="reported" content="thought" level="1" border="yes">Dort angekommen bemerkte ich, <said id="7" mode="reported" content="thought" level="2" border="yes">mit nicht geringer Verwunderung</said>, eine Gruppe kleiner, untersetzter, etwas nachlässig gekleideter Leute</said>, die offenbar alle zusammengehörten und sich verstanden, und von denen nicht ein Einziger an dem aufgeregten Trubel sich zu betheiligen schien. <said id="8" mode="reported" content="thought" level="1">Mir kam plötzlich ein lächerlicher Gedanke:</said> <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">meinte</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">die Leute da hätten das ganze Ding in Scene gesetzt, und beobachteten, von einem geschützten Ort aus, wie Feuerwerker, ob alles programmmäßig ablaufe</said>; so apathisch, ruhig, gleichgültig standen diese Menschen da. <said id="10" mode="reported" content="thought" level="1">Sie waren sich alle so egal</said>, aus ein und derselben Masse gemacht, ja, ihr Kleiderschnitt stimmte zusammen; <said id="11" mode="reported" content="thought" level="1">da mußten die Gedanken auch gleichgerichtet gewesen sein.</said> Ihre Köpfe saßen tief in den Schultern, die Beine kurz und wackelig, der Oberkörper wuchtig, breit; Grauköpfe und Graubärte; die Lippen fleischig und um-und-um ausrasirt; Nasen pointirt; Augen klein und vigilant; angenehm schnarrige Organe; die Rocktalljen saßen etwa 1 Schuh tiefer als die Körpertalljen; die Schöße lang, glänzend und abgerieben; schiefes Stiefelwerk; breitgeschwollene Hände; die ganze Erscheinung humoristisch. – <seg id="13" type="frame" pos="start"><said id="12" mode="reported" content="thought" level="1">Und Folgendes etwa konnte ich vernehmen:</said></seg> 
+                  <said id="13" mode="direct" content="speech" level="1">»Lassen S'es geh'n! Lassen S'es geh'n! <seg id="14" type="frame" pos="start"><seg id="14" type="intExpr">Erinnern</seg> <seg id="14" type="speaker">Se</seg> sich gefälligst,</seg> <said id="14" mode="indirect" content="thought" level="2"><said id="15" mode="reported" content="speech" level="3">was ich Ihnen gesaagt habe:</said></said> Das Silber geht noch 
+höher!«</said> – <said id="16" mode="direct" content="speech" level="1">»»Gott, <said id="17" mode="reported" content="speech" level="2">wie reden Se daher?</said> Was helft mich das Silber? Mer brauche neue Metallicher!««</said> – <said id="18" mode="direct" content="speech" level="1">»Nu, haben Se neue Metallicher?«</said> – <said id="19" mode="direct" content="speech" level="1">»»Ob mer haben neue Metallicher?! Mer haben das Platiin, mer haben......««</said> – <said id="20" mode="direct" content="speech" level="1">»Krause, sehen Se mal nach, wie Platin steht?«</said> – <said id="21" mode="direct" content="speech" level="1">»»Platin steht 2039 das Kilo««</said> – <said id="22" mode="direct" content="speech" level="1">»Gott, meine Herren, es helft Ihne nix, wann Se des Platiin so erufftreibe. Es gibteres nit genug!«</said> – <said id="23" mode="direct" content="speech" level="1">»»Platin genuch, um en Mond drauß zu mache, und Ihren dumme Kopp dazu!««</said> – <said id="24" mode="direct" content="speech" level="1">»<said id="25" mode="reported" content="speech" level="2" nonfact="yes">Ka Beleidichung!</said> 'S Gered is umasonst! <said id="26" mode="reported" content="thought" level="2" nonfact="yes">Mer muß sich entschließe.</said> Ich hab 50 Pud Platin bei meim Schwager Salomon in Odessa liche. Ich gäb's um zwatausend un sechzig!«</said> –<said id="27" mode="direct" content="speech" level="1"> »»Ich nähm's; ich nähm's.««</said> – <said id="28" mode="direct" content="speech" level="1">»Gott, wie de Leut kreische. In Paris hem se schon vor fufzig Johr Minze aus Platin gemacht; ham 's widder aufstecke müsse; des Zeug war zu schwar; da könnt mer sich alle Woch e nei Hosetasch mache lasse müsse!«</said> – <said id="29" mode="direct" content="speech" level="1">»»Gott, <said id="30" mode="reported" content="speech" level="2">wie Se redde!</said> Schaue Se doch de Misemaschin an! Wie das Zeug vom Himmel runner droppt. Mer brauche neie Metallicher, <said id="31" mode="reported" content="speech" level="2" prag="yes">wie ich Ihne gesagt hab!</said>««</said> – <said id="32" mode="direct" content="speech" level="1">»Herr Goldstein!«</said> – <said id="33" mode="direct" content="speech" level="1">»»Gehesemerewegg mit Ihrem ›Herr Goldstein‹. Ich bin ka ›Herr Goldstein‹ mehr.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

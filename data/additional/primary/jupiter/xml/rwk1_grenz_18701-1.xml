@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ekkehard der Erste von St. Gallen und das Waltharilied</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341877_241213.txt_37.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Ekkehard der Erste von St. Gallen und das Waltharilied</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Seine Milde und
+                        Freigebigkeit waren im Kloster bekannt und gerühmt, auch den Abt soll er in
+                        diesem Sinne beeinflußt haben, sodaß der Kämmerer niedere, dem die Ver 
+            
+            waltung des Klosterguts und die Verteilung der Almosen oblag, <said id="1" mode="reported" content="speech" level="1">diesem oftmals
+                        Vorwürfe über seine Verschwendung machte</said>, <said id="2" mode="reported" content="speech" level="1">worauf sich dann der Abt auf
+                        den Dekan Ekkehard als seinen Freund und Helfershelfer im Wohltun zu berufen pflegte.</said>
+            Ekkehards Name ist auch mit <said id="3" mode="reported" content="speech" level="1">der oft nacherzählten <said id="4" mode="reported" content="speech" level="2">Anekdote von dem Landstreicher</said></said> verknüpft, der, indem er sich lahm stellte, die Gastlichkeit des Klosters
+                        in Anspruch nahm. <said id="5" mode="reported" content="speech" level="1">Ihm wurde auf Ekkehards Geheiß ein warmes Bad bereitet</said>, und da ihm das Wasser zu heiß war, <seg id="6" type="frame" pos="start">so <seg id="6" type="intExpr">schrie</seg> <seg id="6" type="speaker">er</seg> laut in seiner welschen
+                        Sprache:</seg> <said id="6" mode="direct" content="speech" level="1">ei mihi, cald est, cald est</said>, <seg id="7" type="frame" pos="start">worauf der <seg id="7" type="speaker">Diener</seg>, der das Bad zurichtete,
+                        <seg id="7" type="intExpr">in</seg> der <seg id="7" type="intExpr">Meinung</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">der Fremde sei ein Deutscher und beklage sich über die Kälte
+                        des Wassers</said> — aber auch nicht ohne einen Zusatz von Bosheit, <seg id="8" type="frame" pos="start">weil <seg id="8" type="speaker">er</seg> sich
+                        <seg id="8" type="intExpr">ärgerte</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß er den dicken Kerl auf seinem Rücken in das Badezimmer hatte
+                        schleppen müssen</said> —, heißes Wasser herbeitrug und solches in Strömen in die
+                        Badewanne goß. Da sprang der Fremde, <said id="9" mode="reported" content="speech" level="1" nonfact="yes" border="yes">seine Lähmung vergessend</said>, aus der
+                        Wanne heraus und suchte, der Tür zueilend, das Weite, während der Diener,
+                        <said id="10" mode="reported" content="thought" level="1" border="yes">da er den Betrug erkannt hatte</said>, dem Fliehenden nachsprang und ihm mit
+                        einem halbglüheuden Holzscheit, das er dem Feuer entrissen hatte, ungezählte
+                        Streiche aufmaß. Von dem Lärm herbeigerufen erschien dann Ekkehard, wehrte
+                        dem Wütenden und ließ den betrügerischen Schelm laufen. Vier Neffen hat
+                        Ekkehard dem Kloster zugeführt, darunter Ekkehard den Zweiten, der die Herzogin
+                        Hadwig im Lateinischen unterrichtet hat — dann ist <said id="11" mode="direct" content="writing" level="1">„der edle Weinstock, der
+                        solche Schößlinge entsandte, selbst in guter Reife am Tage des heiligen Felix
+                        (14. Januar 973) eingeherbstet worden."</said> <said id="12" mode="reported" content="speech" level="1">Groß war die Klage um den allerseits verehrten Mann.</said> Weinend ging Immo, Ekkehards Nachfolger im Dekanat
+                        und später des Klosters Abt, als der Leichnam auf der Bahre lag, beiseite
+                        <seg id="13" type="frame" pos="start">und <seg id="13" type="intExpr">rief</seg> laut:</seg> <said id="13" mode="direct" content="speech" level="1">„Sieh, Herr, und betrachte, wen du so eingeherbstet hast."</said>
+                         
+            <said id="14" mode="reported" content="thought" level="1" border="yes">Das ist so ziemlich alles, was wir von dem Leben Ekkehards wissen</said>, der
+                        den Namen seines Klosters so berühmt gemacht hat. Auch von <said id="15" mode="reported" content="writing" level="1">seinen Dichtungen</said> ist nicht alles erhalten: <said id="16" mode="reported" content="writing" level="1">seine Hymnen und Sequenzen</said> sind verschollen,
+                        dagegen strahlt <said id="17" mode="reported" content="writing" level="1">sein Waltharius manu fortis</said> noch heute in unvergänglichem
+                        Glanz und ist seit Scheffels Ekkehard auch in der kleinsten Bücherei zu finden.
+                        <said id="18" mode="reported" content="speech" level="1">In den Schulen wird Ekkehards Name neben dem seines Zeitgenossen, des
+                        großen Königs aus dem Sachsenstamme, genannt</said>, <seg id="19" type="frame" pos="start">und in jedem Handbuch der
+                        Literaturgeschichte <seg id="19" type="intExpr">steht</seg> zu lesen,</seg> <said id="19" mode="indirect" content="writing" level="1"><said id="20" mode="reported" content="writing" level="2">daß Ekkehard von St. Gallen den Waltharius
+                        in der Jugend gedichtet hat.</said></said> So ist es, der Waltharius ist kein Werk des
+                        reifern Alters, <said id="21" mode="reported" content="writing" level="1">sondern ans der Schulbank verfaßt</said>, <said id="22" mode="reported" content="speech" level="1">ein debitum magistro, wie
+                        man sich in der Klostersprache ausdrückte.</said> <said id="23" mode="reported" content="writing" level="1">Ein Exemplar dieses Gedichts</said> gelangte wenig Jahre vor oder nach Ekkehards Tode nach Straßburg, es
+                        wurde dem Bischof Erchambald übersandt mit <said id="24" mode="reported" content="writing" level="1">einer in lateinischen Hexametern
+                        abgefaßten Widmung</said>, <said id="25" mode="reported" content="writing" level="1">als deren Verfasser sich Geraldus nennt</said>, <seg id="26" type="frame" pos="start">ohne jedoch
+                        von seiner Persönlichkeit etwas andres <seg id="26" type="intExpr">anzugeben</seg>,</seg> <said id="26" mode="indirect" content="writing" level="1">als daß er ein fragilis
+                        peccator, d. h. ein alter sündhafter Mann, und ein certus corde et fidelis
+                        alumnus, d. h. in der Sprache des Mittelalters ein treuer und ergebner Diener
+                        seines hochmächtigen Gönners sei.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

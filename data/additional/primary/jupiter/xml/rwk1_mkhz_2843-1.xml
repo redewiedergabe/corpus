@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0114_1905_32.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>            
+ 
+  zeit_2843 
+ nn_europa0114_1905_32.xml 
+ 1905 
+ 1900 
+ zeit 
+ None 
+ None 
+ no 
+ 534 
+ 1 
+ 
+ 
+ 
+  Jnsbesondere<said id="1" mode="reported" content="speech" level="1"> haben sich fast alle Versammlungen
+                        der Jntellektuellen Rußlands, haben sich, wie die Aerzte, die Professoren, so
+                        auch jetzt die Advokaten, mit merkwürdiger Geschlossenheit für ein russisches
+                        Reichsparlament auf Grund des allgemeinen, gleichen, direkten und geheimen
+                        Stimmrechts erklärt.</said>  
+             <said id="2" mode="reported" content="thought" level="1" border="yes"> Das ist eine wahrhaft überraschende, dem Ausländer fast unerklärliche
+                        Erscheinung.</said>   Rußlands soziale Struktur ist im ganzen eine solche, daß gerade das liberale Bürgertum vom allgemeinen Stimmrecht am meisten bedroht erscheint.   Jn den Städten ein wachsendes Proletariat, das übrige
+                        Land -- achtzig Prozent der Bevölkerung -- fast rein agrarisch, aus einer
+                        geistig unentwickelten, vielfach über weite Landstrecken dünn verteilten, zum
+                        großen Teil noch aus Analphabeten bestehenden Masse von Bauern und Landarbeitern zusammengesetzt, was für Perspektiven können sich da dem bürgerlichen Liberalismus eröffnen?   Wer in der Atmosphäre der westeuropäischen
+                        politischen Dogmatik aufgewachsen ist,<seg id="3" type="frame" pos="start"> würde es eher <seg id="3" type="intExpr">verstehen</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes">wenn ein zäsaristisch veranlagter Minister des Zaren, um sich der unbequemer werdenden
+                        liberalen Bewegung zu erwehren, quasi als Drohung oder schließlich als
+                        äußerstes Rettungsmittel für den Zarismus das allgemeine Wahlrecht auf
+                        die Tagesordnung setzte, als daß die Liberalen selbst es auf ihr Banner schrieben.</said>   <said id="4" mode="direct" content="speech" level="1">Haben denn die Russen,</said> <seg id="4" type="frame" pos="mid">mag sich namentlich in Deutschland mancher
+                        liberale <seg id="4" type="speaker">Bürgersmann</seg><seg id="4" type="intExpr"> fragen</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">von unserer Geschichte gar nichts gelernt?</said>
+                           
+              Peter von Struve, zur Zeit einer der angesehensten literarischen Vertreter des demokratischen Liberalismus in Rußland, hat in diesen Tagen den
+                        von der Partei der Oswobodjenie ( Befreiung ) <said id="5" mode="reported" content="writing" level="1">verfochtenen Entwurf einer
+                        Verfassung</said> veröffentlicht.   Der Entwurf würde Rußland in eine streng konstitutionelle Monarchie mit Ministerverantwortlichkeit, Vereidigung des Zaren
+                        auf die Verfassung, staatsbürgerlicher Gleichheit aller, Preß=, Vereins= und
+                        Versammlungsfreiheit, demokratischer Selbstverwaltung und dem allgemeinen,
+                        gleichen, direkten und geheimen Wahlrecht für Gemeinde=, Kreis= und Landesvertretung verwandeln.   Der Entwurf soll <said id="6" mode="reported" content="writing" level="1">mit einer Begründung aus
+                        der Feder Struves </said>in diesen Tagen erscheinen, <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">den Anfang </seg>der Begründung<seg id="7" type="intExpr"> macht</seg> eine Auseinandersetzung,</seg> <said id="7" mode="indirect" content="writing" level="1">warum das allgemeine Wahlrecht, <said id="8" mode="reported" content="writing" level="2">das
+                        von Struve als der Eckstein des Projekts bezeichnet wird</said>, für Rußland eine
+                         Notwendigkeit sei. </said>  Es ist interessant,<said id="9" mode="reported" content="writing" level="1"> diese Darlegungen Struves</said>, die
+                        im „Courrier Europ é en “ vom 7. April veröffentlicht sind, in ihren Hauptsätzen kennen zu lernen.  
+             <seg id="10" type="frame" pos="start"><seg id="10" type="speaker"> Struve</seg><seg id="10" type="intExpr"> knüpft</seg> an die Anschauung<seg id="10" type="intExpr"> an</seg>,</seg> <said id="10" mode="indirect" content="writing" level="1">daß Rußland beim allgemeinen
+                        Wahlrecht unter der Herrschaft der unwissenden Masse ein Spielzeug der
+                        Reaktionäre sein würde,</said> und <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">bemerkt</seg> dazu:</seg>
+                           
+             <said id="11" mode="direct" content="speech" level="1"> „ Das ist nur <said id="12" mode="reported" content="speech" level="2">eine höchst problematische, auf oberflächliche historische
+                        Analogien gegründete Vermutung</said>.   Jn den konkreten Verhältnissen der russischen Wirklichkeit findet sie keine Stütze.   Die Volksmassen werden in Rußland wie
+                        allerwärts den Tendenzen und Politikern folgen,<said id="13" mode="reported" content="speech" level="2" nonfact="yes"> welche diejenigen Reformen zu
+                        versprechen</said> und durchzuführen geeignet sind, die den dringenden Bedürfnissen
+                        dieser Massen wirklich genüge zu leisten vermögen.   Die wesentlichen Bedürfnisse
+                        der Volksmassen in Rußland können aber nur durch umfassende ökonomische Reformen demokratischen Charakters befriedigt werden, welche keine der vorhandenen
+                        und möglichen reaktionären Mächte in Rußland gutheißen wird.   Zudem sind die
+                        wirtschaftlich demokratischen Reformen im heutigen Rußland so komplizierter
+                        Natur, daß ihre Verwirklichung die Kräfte eines von den Reaktionären geleiteten
+                        Staatsapparates übersteigt.“
+ </said>                          
+              <seg id="14" type="frame" pos="start">Nicht besser <seg id="14" type="intExpr">stehe</seg> es <seg id="14" type="intExpr">um</seg> die<seg id="14" type="intExpr"> Ansicht</seg>,</seg><said id="14" mode="indirect" content="thought" level="1"> daß unter dem allgemeinen Wahlrecht eine reaktionäre Regierung den Bauern alles bewilligen werde, um mit
+                        ihrer Hilfe jede Freiheitsbewegung im Lande erdrücken zu können. </said> 
+             <said id="15" mode="direct" content="speech" level="1"> „ <seg id="16" type="frame" pos="start">Wer da <seg id="16" type="intExpr">denkt</seg>,</seg><said id="16" mode="indirect" content="thought" level="2"> daß dies die Folge des Allgemeinen Wahlrechts in Rußland sein werde,</said> vergißt, daß die Regierung eines Landes keine abstrakte Kategorie
+                        ist, die man für bestimmte Zwecke in jede beliebige Verbindung politischer und
+                        sozialer Kräfte hineinversetzen kann.</said> 
+ 
+ 
+ 
+ 
+ </p>
+      </body>
+   </text>
+</TEI>

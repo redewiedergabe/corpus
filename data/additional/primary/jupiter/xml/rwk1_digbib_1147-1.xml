@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der gute Mond</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Der_gute_Mond.tg120_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Der gute Mond</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ein großer Jubel, besonders von seiten der Damen, belohnte <said id="1" mode="reported" content="speech" level="1">diese meine Erklärung.</said> Die Gnädigste erhob sich von ihrem Platz und umarmte mich vor der ganzen Gesellschaft. Nach der Tafel gab es feierliche Aufzüge der Dorfbewohner, <said id="2" mode="reported" content="speech" level="1">glückwünschende Deputationen aus den nächsten Ortschaften</said> und endlich Ball vor dem Haus, unter Gottes freiem Himmel, bei Mondenschein und Sternenschimmer, und Ball im Haus unter den Kronleuchtern bei Kerzenglanz. Eine Polonaise eröffnete ihn, bei welcher mir die Auszeichnung zuteil wurde, mit der Gnädigsten, die ihre Fingerspitzen auf meinen Arm legte, die Runde um den Saal zu machen. Den ersten Ländler tanzte ich mit der verehrten Kleinen. Bis tief in die Nacht dauerte das Fest, <said id="3" mode="reported" content="speech" level="1">und nachdem der letzte Gast sich bei uns empfohlen hatte</said>, <said id="4" mode="reported" content="speech" level="1">empfahlen die Gnädigste und ihre Nichte sich bei mir.</said> 
+                  <said id="5" mode="reported" content="speech" level="1" prag="yes">Und ich sage euch</said>, liebe Freunde, ich habe gut und sanft geschlafen und angenehm geträumt, und zwar von der Kleinen. Wir gingen miteinander spazieren daheim in meinem Garten, und ich hielt sie umschlungen, <seg id="6" type="frame" pos="start">und <seg id="6" type="speaker">sie</seg> <seg id="6" type="intExpr">sprach</seg> zu mir:</seg> <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="thought" level="2">Das war ein Irrtum, das mit dem andern Franz.</said> Du bist der Rechte – du!«</said> 
+                  Ein Mensch, der mir die Hand küßte, weckte mich – <said id="8" mode="reported" content="thought" level="1" border="yes">der Alte, der heute viel weniger ängstlich tat</said> <seg id="9" type="frame" pos="start">und mich <seg id="9" type="intExpr">in</seg> schmelzendem <seg id="9" type="intExpr">Tone</seg> <seg id="9" type="intExpr">ersuchte</seg>,</seg> <said id="9" mode="indirect" content="speech" level="1">ich möge geruhen, mich ankleiden zu lassen 
+und mich dann zum Frühstück zu begeben zu der Allergnädigsten und zu meiner jungen Gemahlin.</said> <said id="10" mode="reported" content="speech" level="1">Das letztere hatte er mit <said id="11" mode="reported" content="speech" level="2" metaph="yes">einem für den Scherz um Verzeihung bittenden untertänigen Bückling</said> hinzugesetzt.</said> Ich gab ihm einen leichten Schlag auf den gekrümmten Rücken <seg id="12" type="frame" pos="start">und <seg id="12" type="intExpr">sagte</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»Was nicht ist, kann werden«</said>, <seg id="13" type="frame" pos="start">worauf <seg id="13" type="speaker">er</seg> mit freundlichem Ernst <seg id="13" type="intExpr">erwiderte</seg>:</seg> <said id="13" mode="direct" content="speech" level="1">»Das walte Gott!«</said> und mir wieder die Hand küßte. 
+                  Dieser alte Mensch ist mein getreuer Anhänger geblieben während der ganzen Zeit, die ich noch in Folt zugebracht habe,<said id="14" mode="reported" content="speech" level="1"> hat mir auch manchen nützlichen Wink gegeben</said> <said id="15" mode="reported" content="speech" level="1">und mir manches Licht aufgesteckt</said>, das meinen sehr nebeligen Pfad freundlich erhellte. <seg id="16" type="frame" pos="start">So zum Beispiel erfuhr ich durch <seg id="16" type="speaker">ihn</seg>,</seg> <said id="16" mode="indirect" content="speech" level="1">daß die Gnädigste, <said id="17" mode="reported" content="speech" level="2">als Franz sich um Fräulein Alma bewarb</said>, <said id="18" mode="reported" content="writing" level="2">an einen Gewährsmann in unserer Nähe geschrieben</said> <said id="19" mode="reported" content="writing" level="2"><said id="20" mode="reported" content="speech" level="3">und sich bei ihm nach Herrn Franz von Bauer erkundigt hatte.</said></said></said> <seg id="21" type="frame" pos="start">Infolge eines Irrtums in ihrem Briefe mußte besagter <seg id="21" type="speaker">Gewährsmann</seg> <seg id="21" type="intExpr">meinen</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes"><said id="22" mode="reported" content="thought" level="2"><said id="23" mode="reported" content="speech writing" level="3">die gewünschte Auskunft</said></said> beträfe mich, und auf <said id="24" mode="reported" content="thought" level="2" border="yes">meinen Leumund</said> hin <said id="25" mode="reported" content="speech" level="2">hat Franz das Jawort erhalten.</said></said> Was die Repräsentation anbelangt, <said id="26" mode="reported" content="thought" level="1">die verstand er</said>, und die Gedichte haben auch ihren Effekt gemacht. Von einer Neigung des Kindes zu ihm fand ich keine Spur, <seg id="27" type="frame" pos="start">und <seg id="27" type="speaker">ihr</seg> könnt euch <seg id="27" type="intExpr">denken</seg>,</seg> <seg id="28" type="frame" pos="start"><said id="27" mode="indirect" content="thought" level="1" nonfact="yes">wie <seg id="28" type="speaker">ich</seg> darauf aus war zu erfahren:</said></seg> <said id="28" mode="direct" content="thought" level="1">Hat sie ihn liebgehabt, die Kleine, <said id="29" mode="reported" content="thought" level="2" nonfact="yes" border="yes">hat sein niederträchtiges Benehmen sie empört?</said> und schließlich: Welches Mittel hat die Gnädigste angewendet, um sie zu bewegen, mir zum Altar zu folgen?</said> 
+                  Die Lösung des Rätsels war einfach – die Kleine war eben ein Kind; <said id="30" mode="reported" content="thought" level="1">ahnungsvoll</said> <said id="31" mode="reported" content="thought" level="1" nonfact="yes">und doch gedankenlos</said>, verwöhnt und doch willenlos. Willenlos! der einzige dunkle Punkt in der Sache ... <seg id="32" type="frame" pos="start">Wenn <seg id="32" type="speaker">ich</seg> <seg id="32" type="intExpr">fragte</seg>:</seg> <said id="32" mode="direct" content="speech" level="1">»Beliebt es Ihnen spazierenzugehen?«</said> Ja, es beliebte ihr. <said id="32" mode="direct" content="speech" level="1">»Beliebt es Ihnen zu Hause zu bleiben?«</said> Es beliebte ihr gleichfalls. <said id="32" mode="direct" content="speech" level="1">»Täten wir nicht besser auszureiten?«</said> Gewiß, wir täten besser. 
+                  Eines schönen Morgens wanderten wir zusammen im Wald herum.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

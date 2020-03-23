@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Hector Berlioz.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_pfennig111_1855_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">Hector Berlioz.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">mkhz.pfennig</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Hector Berlioz.
+                        
+            
+            
+            
+            
+               D ieser ausgezeichnete französische Musiker, der in seinen großartigen Compositionen namentlich die Instrumentalmusik auf eine früher nicht dagewesene Höhe
+                        emporgebracht hat, ward am 11. December 1803 zu
+                        La-C ô te-St.-André im Departement Isère geboren,
+                        wo sein Vater <said id="1" mode="reported" content="thought" level="1" border="yes">als geschätzter Arzt</said> wirkte. Der junge
+                        Hector war auch zunächst für die medicinische Laufbahn
+                        bestimmt und schlug die dahin abzielende Studienlaufbahn ein. Aber in Paris machte sich sein Drang zur
+                        Musik, der schon in dem Knaben sich offenbart hatte,
+                        Luft; <said id="2" mode="reported" content="thought" level="1" border="yes">er ließ sich nicht abschrecken</said>, daß sein Vater ihm
+                        alle Unterstützung entzog, er half sich als Chorist bei
+                        dem Theâtre des nouveautés fort, bald darauf als
+                        Gesanglehrer <seg id="3" type="frame" pos="start">und <seg id="3" type="intExpr">sah</seg> <seg id="3" type="speaker">sich</seg> dann <seg id="3" type="intExpr">in</seg> den <seg id="3" type="intExpr">Stand</seg> <seg id="3" type="intExpr">gesetzt</seg>,</seg>
+                        <said id="3" mode="indirect" content="thought" level="1">seine theoretischen Studien auf dem Conservatorium der
+                        Musik unter Reicha und Lesueur fortzusetzen und zu
+                        vollenden.</said> <said id="4" mode="reported" content="thought" level="1" border="yes">Symphonien, Ouverturen und Opern machten seinen Namen bald rühmlich bekannt</said>, obschon er
+                        auch durch das Außergewöhnliche, welches er in seinen
+                        Compositionen anzubringen liebte, <said id="5" mode="reported" content="thought" level="1">Zwiespalt unter <said id="6" mode="reported" content="thought" level="2" border="yes">die
+                        Kenner der Kunst</said> brachte.</said> Auf einer Kunstreise durch
+                        Belgien und Deutschland machte er auch das Ausland
+                        mit seinen Compositionen bekannt; zu einer allgemeinern Verbreitung hat er es aber bisjetzt noch nicht zu
+                        bringen vermocht <said id="7" mode="reported" content="thought" level="1">und die Meinungen der Kunstverständigen über den Werth seiner Leistungen sind noch
+                        immer getheilt.</said>
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

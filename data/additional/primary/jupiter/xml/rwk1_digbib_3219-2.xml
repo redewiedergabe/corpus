@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Schutzimpfung</title>
+             <author>Wedekind, Frank</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wedekind,_Frank_Die_Schutzimpfung.tg364_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1903</f>
+         <f name="decade">1900</f>
+         <f name="title">Die Schutzimpfung</f>
+         <f name="author">Wedekind, Frank</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»<seg id="2" type="frame" pos="start">Und <seg id="2" type="intExpr">glaubst</seg> <seg id="2" type="speaker">du</seg> wirklich,</seg> <said id="2" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß dieses Mittel seine Wirksamkeit auf die Dauer behält?</said>«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">fragte</seg> <seg id="1" type="speaker">ich</seg> befangen.</seg> 
+                  <said id="3" mode="direct" content="speech" level="1">»Es ist unfehlbar«</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">entgegnete</seg> <seg id="3" type="speaker">sie</seg> mit der Zuversicht eines Astronomen.</seg> 
+                  <said id="4" mode="reported" content="thought" level="1">Trotzdem setzte ich noch großen Zweifel in die Unverbrüchlichkeit ihrer psychologischen Berechnungen</said>, bis mich eines Tages folgendes Ereignis in staunenerregender Weise eines Besseren belehrte. 
+                  Ich bewohnte damals inmitten der Stadt in einer engen Gasse ein kleines möbliertes Zimmer im vierten Stock eines hohen Miethauses und hatte die Gewohnheit, bis in den hellen Tag hinein zu schlafen. – An einem sonnigen Morgen um neun Uhr etwa geht die Türe auf, und sie tritt ein. Was nun folgt, <said id="5" mode="reported" content="speech" level="1" nonfact="yes">würde ich niemals erzählen</said>, böte es nicht den Beweis für <said id="6" mode="reported" content="thought" level="1">eine der überraschendsten und trotzdem begreiflichsten Verblendungen, die im Geistesleben des Menschen möglich sind.</said> – Sie entledigt sich auch der letzten Hülle und gesellt sich zu mir. Weiter habt ihr lieben Freunde nichts Verfängliches, Anzügliches von <said id="7" mode="reported" content="speech writing" level="1">meiner Erzählung</said> zu gewärtigen. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Ich</seg> muß immer wieder <seg id="8" type="intExpr">betonen</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß es mir nicht darum zu tun ist, euch mit Unschicklichkeiten zu unterhalten.</said> – Kaum hat die Decke die Reize ihres Körpers verhüllt, als Schritte vor der Türe laut werden; es klopft, und ich habe eben noch Zeit, durch rasches Emporziehen der Decke ihren Kopf zu verbergen, als ihr Mann eintritt, schweißtriefend und pustend infolge der Anstrengung, mit der er die hundertundzwanzig Stufen zu mir heraufgestiegen war, aber mit glückstrahlendem, freudig erregtem Gesicht. 
+                  <said id="9" mode="direct" content="speech" level="1">»<seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> wollte dich <seg id="10" type="intExpr">fragen</seg>,</seg> <said id="10" mode="indirect" content="speech" level="2">ob du mit Röbel, Schletter und mir einen Ausflug machst.</said> Wir fahren per Bahn nach Ebenhausen und von dort mit dem Rad nach Ammerland. Eigentlich wollte ich heute zu Hause arbeiten; nun ist meine Frau aber schon früh zu Brüchmanns gegangen, um zu sehen, was deren Jüngstes macht, und da fand ich bei dem herrlichen Wetter keine rechte Sammlung mehr zu Hause. Im Café Luitpold traf ich Röbel und Schletter, 
+ und <said id="11" mode="reported" content="speech" level="2">da haben wir die Partie verabredet.</said> Um zehn Uhr siebenundfünfzig fährt unser Zug.«</said> 
+                  Derweil hatte ich etwas Zeit gehabt, mich zu sammeln. <said id="12" mode="direct" content="speech" level="1">»Du siehst«</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">ich</seg> lächelnd,</seg> <said id="12" mode="direct" content="speech" level="1">»daß ich nicht allein bin.«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Ja, <said id="14" mode="reported" content="thought" level="2" border="yes">das merke ich</said>«</said><seg id="13" type="frame" pos="end">, <seg id="13" type="intExpr">entgegnete</seg> <seg id="13" type="speaker">er</seg> mit dem nämlichen verständnisinnigen Lächeln.</seg> Dabei begannen seine Augen zu funkeln, und die Kinnlade wackelte auf und ab. Zögernd tat er einen Schritt vorwärts und stand nun dicht vor dem Stuhl, auf den ich meine Kleider zu legen pflegte. Zuoberst auf diesem Sessel lag ein feines batistenes Spitzenhemd ohne Ärmel <said id="15" mode="reported" content="writing" level="1">mit rotgesticktem Namenszug</said> und darüber zwei lange schwarzseidene, durchbrochene Strümpfe mit goldgelben Zwickeln. Da nichts anderes von einem weiblichen Wesen sichtbar war, hefteten sich seine Blicke mit unverkennbarer Lüsternheit auf diese Garderobestücke. 
+                  Dieser Augenblick war entscheidend. Nur ein Moment noch <seg id="16" type="frame" pos="start">und <seg id="16" type="speaker">er</seg> mußte sich <seg id="16" type="intExpr">erinnern</seg>,</seg> <said id="16" mode="indirect" content="thought" level="1">diese Kleidungsstücke irgendwo in diesem Leben schon einmal gesehen zu haben.</said> Kostete, was es kosten wollte, ich mußte seine Aufmerksamkeit von dem verhängnisvollen Anblick ablenken und derart bannen, daß sie mir nicht mehr entglitt. Das war aber nur durch etwas Nochniedagewesenes zu erreichen. <said id="17" mode="reported" content="thought" level="1">Dieser Gedankengang, der sich blitzartig in meinem Hirne vollzog</said>, veranlaßte mich dazu, eine Roheit von solcher Ungeheuerlichkeit zu begehen, <said id="18" mode="reported" content="thought" level="1" nonfact="yes">daß ich sie mir heute nach zwanzig Jahren, wiewohl sie damals die Situation rettete, noch nicht verziehen habe.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

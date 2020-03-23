@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>G.L.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1885_08_03.txt_11.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Undefined</f>
+         <f name="author">G.L.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das Wetter hat
+                        uns aber auch arg mitgespielt, immer bewegter
+                        wurde das stürmische Treiben unseres Schiffes
+                        und erreichte jetzt seinen Höhepunct. Welle auf
+                        Welle schlägt mit Centner-Gewalt und donnernden
+                        Dröhnen an unser Schiff, so daß die noch wenigen am Verdeck verbliebenen Passagiere, welche
+                        durch eine Sturzwelle den unangenehmen Vorgeschmack eines Seebades erhalten, völlig durchnäßt flüchten müssen. Kein Wunder, daß solch eine
+                        stürmische Seefahrt so viel Verwundete zählt,
+                        denn wer kann auch die übermüthigen Bewegungen des Schiffes ertragen, hat man doch stets das
+                        Gefühl, wie wenn man mit überirdischer Gewalt
+                        in eine Untiefe getaucht würde um sodann
+                        wieder eine Fahrt durch die Lüfte zu machen.
+                        Eine andächtige Stille herrscht jetzt am Schiffe —
+                        denn die leidende Menschheit ergibt sich in ihr
+                        Schicksal mit Resignation und <said id="1" mode="reported" content="thought" level="1">hofft auf bessere
+                        Zeiten!</said> Durch ungünstigen Wind wurde aber die
+                        Fahrt noch verlängert <seg id="3" type="frame" pos="start">und nach dreistündiger
+                        Qual <seg id="3" type="intExpr">erwidert</seg> der <seg id="3" type="speaker">Capitain</seg> <said id="2" mode="reported" content="speech" level="1">auf unser Befragen</said> mit stoischer Ruhe:</seg> <said id="3" mode="direct" content="speech" level="1">„Ich leiste ihnen
+                        noch 1½ Stunden Gesellschaft“</said>, <seg id="4" type="frame" pos="start">worauf eine
+                        schwer heimgesuchte <seg id="4" type="speaker">Dame</seg> (in dem ihrem Geschlechte angestammten Ungerechtigkeitssinn) die
+                        Verwünschung:</seg> <said id="4" mode="direct" content="speech" level="1">„O, dieser Mephisto“</said> <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">ausrief</seg>.</seg>
+               Ich tummelte mich auf dem Schiffe umher,
+                        bedauerte die Mitreisenden, betrachtete die großartige erboste See, bis ich durch eine kalte Wasserfluth <said id="5" mode="reported" content="thought" level="1">aus meinem Grübeln</said> geweckt wurde. Dem
+                        Bedürfniß <said id="6" mode="reported" content="speech" level="1" nonfact="yes">eines Gedankenaustausches</said> folgend
+                        suchte ich meinen Freund auf, der im unteren
+                        Schiffsraum schlief. <said id="7" mode="reported" content="speech" level="1" metaph="yes">Sein bleiches Gesicht, das
+                        mir nur zu beredt seine ganze Leidensgeschichte
+                        erzählte</said>, athmete jene Ruhe und Ergebung, die
+                        der gütige Gott Morpheus seinen Schutzbefohlenen in dieser Lage spendet.
+               Aber plötzlich kommt wieder eine jener zahlreichen tückischen Wellen, das ganze Schiff tanzt
+                        und mit ihm seine Insassen. Mein Freund erwacht, und mit neidischen ungläubigen Blicken
+                        mustert er mich, den Verschontgebliebenen. <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">Ich</seg>
+                        <seg id="8" type="intExpr">rufe</seg> ihm aufmunternd zu:</seg> <said id="8" mode="direct" content="speech" level="1">„Muth, Muth! Es
+                        wird schon schief gehen“</said> aber wie mir zum Spott
+                        — <said id="9" mode="reported" content="thought" level="1">sah ich bald <said id="10" mode="reported" content="speech" level="2" nonfact="yes">die Unmöglichkeit einer Unter haltung</said> mit ihm ein</said> und überließ ihn seinem
+                        unabwendbaren Schicksale.
+               Alles erreicht sein Ende und so auch diese stürmische Seereise. Die Gesichter erhellen sich, alles
+                        dehnt und streckt sich. Die Zuversicht der Vielgeprüften kehrt zurück, denn bald werden sie wieder festen Boden unter ihren Füßen fühlen und
+                        <said id="11" mode="reported" content="thought" level="1" nonfact="yes">dann nur mit Lachen an die ausgestandenen
+                        Drangsale zurückdenken.</said>
+               Der Dampfer hält und Jollen (Barken)
+                        tragen uns an das langersehnte Land. <seg id="12" type="frame" pos="start"><seg id="12" type="speaker">Man</seg> sollte
+                        <seg id="12" type="intExpr">glauben</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1" nonfact="yes">die dichtgedrängte Menschenmenge,
+                        welche die Ankommenden erwartet, habe Erbarmen
+                        mit den armen Seereisenden und werde mitleidig
+                        die blassen Gesichter betrachten</said>; aber wer den
+                        Schaden hat, hat auch den Spott dazu und mit
+                        übermüthiger Unverschämtheit blicken sie jedem
+                        Vorübergehenden ins Antlitz und wehe wenn es
+                        die ausgestandene Pein wiederspiegelt! <said id="13" mode="reported" content="speech" level="1"><said id="14" mode="reported" content="speech" level="2">Ein vieltönendes Oho! O jemine!</said> und wie <said id="15" mode="reported" content="speech" level="2">die ironischen
+                        Zurufe</said> alle heißen, summt ihm dann in die
+                        Ohren</said> und gibt ihm das Geleite.
+               Ein geradezu frenetischer Jubel bemächtigte
+                        sich der ausgelassenen Menge, als mein unglücklicher Freund — Fischer sind doch sonst mit dem
+                        Wasser vertraut — vorbeimarschierte, denn ihm
+                        gebührte unstreitig die Palme des Tages, und
+                        das erste Roth auf seinen Wangen malte diese
+                        Beweise herzlicher Theilnahme und ehrender Anerkennung. Unser Humor aber hatte nicht gelitten,
+                        am selben Abend noch tanzten wir mit mancher
+                        schönen Helgoländerin auf der „Grünen Wiese“
+                        <said id="16" mode="reported" content="thought" level="1" nonfact="yes" border="yes">vergessen war die nur zu bewegte — Vergangenheit</said>, und noch lange lachten wir über unseren
+                        Empfang in der Lästerallen zu Helgoland.
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

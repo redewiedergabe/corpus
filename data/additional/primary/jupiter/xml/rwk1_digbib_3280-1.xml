@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Lebensglück</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_Lebensglueck.tg93_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Lebensglück</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>            
+ 
+  erz_3280 
+ Wildermuth,_Ottilie_Lebensglueck.tg93_1.xml 
+ 1852 
+ 1850 
+ erz 
+ Lebensglück 
+ Wildermuth, Ottilie 
+ yes 
+ 709 
+ 1 
+ 
+ 
+ 
+ 
+ 
+  Marie hatte immer noch an ihr zu beruhigen.   <said id="1" mode="direct" content="speech" level="1">»Ach ja,«</said> <seg id="1" type="frame" pos="mid"><seg id="1" type="intExpr">lächelte</seg> <seg id="1" type="speaker">Elisabeth</seg> unter Thränen,</seg> <said id="1" mode="direct" content="speech" level="1">»<seg id="2" type="frame" pos="start"><seg id="2" type="speaker">ich</seg> <seg id="2" type="intExpr">weiß</seg> wohl,</seg> <said id="2" mode="indirect" content="thought" level="2" border="yes">es ist einfältig von mir,<said id="3" mode="reported" content="thought" level="3"> zu denken</said>, ich sei euch nötig geworden.</said>   Du wirst mich nicht lange vermissen; oh, <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">ich</seg> <seg id="4" type="intExpr">hatte</seg> wohl <seg id="4" type="intExpr">recht</seg>,</seg> <said id="4" mode="indirect" content="thought" level="2">Marie, den Abschied von dir an deiner Hochzeit so schwer zu nehmen</said>, es war ein Scheiden auf immer.   Du gehörst nicht mehr mir!   Es ist doch nichts mehr mit den Frauen!«</said> – <said id="5" mode="direct" content="speech" level="1">»Das Herz wird immer weiter, je mehr es Kammern vermietet,«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">Marie</seg> heiter, ihr die Tränen von den Augen küssend;</seg> <said id="5" mode="direct" content="speech" level="1">»liebes Kind, du wirst auch einmal so von mir scheiden, und deine Abschiedstränen werden trocknen in einem einzigen strahlenden Blick; aber wenn der Herzenskönig sein Reich eingenommen hat, dürfen all die alten Freunde auch wieder einziehen und fröhlich daneben wohnen.«</said>   
+                    Madame Buisson und der Vetter traten ein <said id="6" mode="reported" content="speech" level="1">und mahnten zum Gehen.</said>   <said id="7" mode="reported" content="speech" level="1">Elisabeth wurde fast nicht fertig mit Abschiednehmen von den Kindern</said>, <said id="8" mode="reported" content="speech" level="1">sie versprach jedem etwas recht Schönes von Baden zu bringen</said>; <said id="9" mode="reported" content="speech" level="1">auch von dem Schwager, mit dem sie sich in letzter Zeit erst recht befreundet hatte, schied sie herzlich.</said>   Marie, <said id="10" mode="reported" content="speech" level="1">über deren Gleichgültigkeit sie geklagt hatte</said>, küßte sie schweigend, um nicht weinen zu müssen; sie war eine glückliche Frau und eine gute Mutter, aber ein Stück Frühling und Sonnenschein schied ihr doch wieder mit der blühenden Schwester.   
+                    Die Läden am Gartenhaus waren noch fest geschlossen, als der leichte Wagen vorüberrollte; Elisabeth blickte wehmütig hinauf, ohne <said id="11" mode="reported" content="speech" level="1">das Witzwort</said> zu hören, <said id="12" mode="reported" content="speech" level="1">das Madame Buisson Herrn Gérard zuflüsterte über die junge soeur grise .</said>   Aber es ging hinaus in die weite, freie, bunte Welt, im goldnen Sonnenschein zwischen grünen Bäumen; all der fröhliche, sorglose Reiseleichtsinn, der sogar oft kühle, nüchterne Naturen ergreift, kam über sie, <said id="13" mode="reported" content="thought" level="1" border="yes">und sie gab sich dem ganzen süßen Gefühle jungen, frischen Lebens hin.</said>   
+                    Der Dekan und seine Familie waren derweil von der Begleitung ins Haus zurückgekehrt, in der etwas öden, langweiligen Stimmung, die nach jeder Abreise die Zurückbleibenden beschleicht.   <said id="14" mode="direct" content="speech" level="1">»Das hat sich ja ganz prächtig gefügt,«</said> <seg id="14" type="frame" pos="mid"><seg id="14" type="intExpr">meinte</seg> der <seg id="14" type="speaker">Dekan</seg>,</seg> <said id="14" mode="direct" content="speech" level="1">»die Frau Mama wird erfreut sein, <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">die</seg> schon lange <seg id="15" type="intExpr">fürchtete</seg>,</seg> <said id="15" mode="indirect" content="thought" level="2">ihr Töchterlein gehe bei uns zugrunde in häuslicher Drangsal!</said>«</said> – <said id="16" mode="direct" content="speech" level="1">»<said id="17" mode="reported" content="thought" level="2" nonfact="yes" border="yes" prag="yes">Ich weiß nicht recht</said>,«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">meinte</seg> <seg id="16" type="speaker">Marie</seg> bedenklich,</seg><said id="16" mode="direct" content="speech" level="1"> »<seg id="18" type="frame" pos="start">es <seg id="18" type="intExpr">gefällt</seg> <seg id="18" type="speaker">mir</seg> nicht so ganz,</seg> <said id="18" mode="indirect" content="thought" level="2" border="yes">das junge Mädchen mit dem jungen Mann ...</said>«</said> – <said id="19" mode="direct" content="speech" level="1">»Nun, die Jugend schadet dem Vetter Georg nichts mehr, er muß vorn in die Dreißig sein; auch ist ja die Frau Associé nebst Kammerjungfer als Ehrenwache da, und dann – wäre es auch kein Unglück, wenn aus dem Reisegefährten ein Associé für unsre Elisabeth würde; <seg id="20" type="frame" pos="start"><seg id="20" type="intExpr">gestehe</seg> nur,</seg> <said id="20" mode="indirect" content="speech" level="2" nonfact="yes"><said id="21" mode="reported" content="thought" level="3">das hast du auch schon gedacht!</said></said>«</said> – <said id="22" mode="direct" content="speech" level="1">»<said id="23" mode="reported" content="thought" level="2">Gedacht vielleicht</said>, <said id="24" mode="reported" content="thought" level="2" nonfact="yes">aber nicht gewünscht</said>,«</said><seg id="22" type="frame" pos="mid"> <seg id="22" type="intExpr">sagte</seg> <seg id="22" type="speaker">Marie</seg>;</seg> <said id="22" mode="direct" content="speech" level="1">»<seg id="25" type="frame" pos="start"><seg id="25" type="speaker">ich</seg> <seg id="25" type="intExpr">weiß</seg> nicht,</seg> <said id="25" mode="indirect" content="thought" level="2" nonfact="yes">ob es gut wäre für Elisabeth.</said>«</said> – <said id="26" mode="direct" content="speech" level="1">»Je nun, Georg ist ein guter Bursche, <said id="27" mode="indirect" content="thought" level="2">ziemlich solid</said><seg id="27" type="frame" pos="end">, wie <seg id="27" type="speaker">ich</seg> <seg id="27" type="intExpr">glaube</seg></seg>; <said id="28" mode="reported" content="thought" level="2" nonfact="yes" border="yes">die Frau Mama würde sich nimmer kennen vor Freude</said>, und Elisabeth gäbe eine prächtige Dame in so glänzenden Verhältnissen; <said id="29" mode="reported" content="thought" level="2" border="yes">war ihr's doch oft viel zu werktäglich bei uns</said>, da könnte sie immer Sonntag haben!«</said> – <said id="30" mode="direct" content="speech" level="1">»Vielleicht nie,«</said> <seg id="30" type="frame" pos="mid"><seg id="30" type="intExpr">sagte</seg> <seg id="30" type="speaker">Marie</seg> ernst;</seg> <said id="30" mode="direct" content="speech" level="1">»<seg id="31" type="frame" pos="start"><seg id="31" type="intExpr">glaubst</seg> <seg id="31" type="speaker">du</seg> nicht,</seg> <said id="31" mode="indirect" content="thought" level="2" nonfact="yes">daß wir mehr Sonntag haben, und wäre unsre Arbeit doppelt so viel als ein solches Leben voll äußerlichen Glanzes?</said>« </said>– <said id="32" mode="direct" content="speech" level="1">»Du hast recht,«</said><seg id="32" type="frame" pos="end"> <seg id="32" type="intExpr">sagte</seg> der<seg id="32" type="speaker"> Dekan</seg>,</seg> <said id="33" mode="reported" content="thought" level="1" nonfact="yes">dem sich, wie das auch ernsten und guten Menschen zu gehen pflegt, die tiefere Ansicht der Dinge unter der Oberfläche versteckt hatte</said>, und gab der sanften Mahnerin die Hand.   <said id="34" mode="direct" content="speech" level="1">»Dem Baron wird's fehlen um seine Vorleserin und Sängerin,«</said> <seg id="34" type="frame" pos="end"><seg id="34" type="intExpr">fing</seg> <seg id="34" type="speaker">er</seg> wieder <seg id="34" type="intExpr">an</seg>.</seg>   – <said id="35" mode="direct" content="speech" level="1">»<said id="36" mode="reported" content="thought" level="2" border="yes">Seinetwegen ist mir Elisabeths Abreise eigentlich lieb</said>,«</said><seg id="35" type="frame" pos="mid"> <seg id="35" type="intExpr">sagte</seg> <seg id="35" type="speaker">Marie</seg>;</seg> <said id="35" mode="direct" content="speech" level="1">»der Verkehr hätte am Ende doch gefährlich werden können.«</said> – <said id="37" mode="direct" content="speech" level="1">»Oh, <said id="38" mode="reported" content="thought" level="2" prag="yes">wohin denkst du?</said>«</said> <seg id="37" type="frame" pos="mid"><seg id="37" type="intExpr">sagte</seg> lachend der <seg id="37" type="speaker">Dekan</seg>,</seg> <said id="37" mode="direct" content="speech" level="1">»ein Siecher wie er!   So einfältig ist der Baron selbst nicht, der arme Mann, dem von der Wiege auf der Sarg neben dem Bette stand; und vollends Elisabeth, ein so junges, schönes, lebenslustiges Geschöpf!« </said>  
+                   <said id="39" mode="direct" content="speech" level="1"> »<said id="40" mode="reported" content="thought" level="2">Mitleid</said> ist ein gefährliches Ding,«</said> <seg id="39" type="frame" pos="end"><seg id="39" type="intExpr">meinte</seg> <seg id="39" type="speaker">Marie</seg>.</seg>   – <said id="41" mode="direct" content="speech" level="1" prag="yes">»Nicht wahr,«</said> <seg id="41" type="frame" pos="mid"><seg id="41" type="intExpr">lächelte</seg> der <seg id="41" type="speaker">Dekan</seg>,</seg> <said id="41" mode="direct" content="speech" level="1">»sonst hättest du mich auch nicht genommen?«</said> – <said id="42" mode="direct" content="speech" level="1">»Die Ehre ist meinerseits,«</said> <seg id="42" type="frame" pos="mid"><seg id="42" type="intExpr">scherzte</seg> <seg id="42" type="speaker">Marie</seg>;</seg> <said id="42" mode="direct" content="speech" level="1">»<seg id="43" type="frame" pos="start">hast <seg id="43" type="speaker">du</seg> mir nicht neulich aus der Bevölkerungsliste <seg id="43" type="intExpr">nachgewiesen</seg>,</seg> <said id="43" mode="indirect" content="speech" level="2">daß allein in unserm kleinen Vaterland zehntausend unverheiratete Frauen übrig bleiben?</said>«</said> – <said id="44" mode="direct" content="speech" level="1">»Dreizehntau sendachthundertundneunundvierzig sogar,«</said> <seg id="44" type="frame" pos="end"><seg id="44" type="intExpr">berichtigte</seg> der <seg id="44" type="speaker">Dekan</seg>.</seg>« – <said id="45" mode="direct" content="speech" level="1">»<said id="46" mode="reported" content="speech" level="2" nonfact="yes">Da muß ich mich ja noch schön bedanken</said>,«</said> <seg id="45" type="frame" pos="end"><seg id="45" type="intExpr">lachte</seg> <seg id="45" type="speaker">Frau Marie</seg></seg> und ging getrosten Mutes wieder an das bewegte Tagewerk, <said id="47" mode="reported" content="speech" level="1">wegen dessen Elisabeth sie so beklagt hatte</said>, um in emsigem Fleiße das Heimweh nach ihrem Sonntagskind zu verarbeiten. 
+ 
+ 
+ 
+ 
+ 
+ 
+ </p>
+      </body>
+   </text>
+</TEI>
