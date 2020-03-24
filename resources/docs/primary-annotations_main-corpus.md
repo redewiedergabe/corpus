@@ -24,10 +24,10 @@ The following table lists the annotator agreement scores for 834 samples of the 
 | annotations   | Fleiss’ Kappa |               |
 |---------------|---------------|---------------|
 |               | type          | type & medium |
-| all types     | 0,73          | 0.72          |
-| only direct   | 0,92          | 0.89          |
-| only indirect | 0,73          | 0.68          |
-| only reported | 0,49          | 0.47          | 
+| all types     | 0.73          | 0.72          |
+| only direct   | 0.92          | 0.89          |
+| only indirect | 0.73          | 0.68          |
+| only reported | 0.49          | 0.47          | 
 
 *There are no scores provided for the types free indirect and indirect free indirect, as those were too infrequent to calculate meaningful scores.*
 
