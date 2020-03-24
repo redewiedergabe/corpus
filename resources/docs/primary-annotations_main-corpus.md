@@ -31,3 +31,17 @@ The following table lists the annotator agreement scores for 834 samples of the 
 
 *There are no scores provided for the types free indirect and indirect free indirect, as those were too infrequent to calculate meaningful scores.*
 
+## Statistics
+Distribution of annotators
+| annotator | files | tokens | instances |
+|-----------|-------|--------|-----------|
+| mercury | 188 | 109,029 | 2,508 |
+| venus | 68 | 40,149 | 949 |
+| earth | 108 | 69,250 | 2,006 |
+| mars | 335 | 190,293| 4,646 |
+| jupiter | 406 | 237,276 | 8,554 |
+| saturn | 344 | 196,622 | 4,908 |
+| uranus | 243 | 139,609 | 3,515 |
+| neptune | 6 | 3,578 | 109 |
+| pluto | 6 | 3,578 | 102 |
+| total | 1,704 | 989,384 | 27,297 |
