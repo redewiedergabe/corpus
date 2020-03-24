@@ -26,7 +26,7 @@ This is a collection of several types of additional annotated material produced 
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
 | [Single-annotated samples](data/additional/single_annotated/samples) |  258    | 150,162 | 4,395          |   [Description](resources/docs/single_annotated_samples.md)
 | [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   18   | 235,493|   6,232        |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
-| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  12    | 61,263|   1,233        |  [Description](resources/docs/full_texts.md)
+| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  15    | 84,769 |   1,233        |  [Description](resources/docs/full_texts.md)
 | [Indirect full texts](data/additional/simplified/indirect)| 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: Only instances of *indirect* STWR with a simplified annotation system
 | [Free indirect full texts (fictional) (semi-automatic)](data/additional/simplified/free_indirect) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: Only instances of *free indirect* STWR with a simplified annotation system
 | [Primary annotations of the main corpus](data/additional/primary) | 1,704 | 989,384 | 27,297 | [Description](resources/docs/primary-annotations_main-corpus.md)
