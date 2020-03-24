@@ -44,4 +44,4 @@ Distribution of annotators
 | uranus | 243 | 139,609 | 3,515 |
 | neptune | 6 | 3,578 | 109 |
 | pluto | 6 | 3,578 | 102 |
-| total | 1,704 | 989,384 | 27,297 |
+| *total* | *1,704* | *989,384* | *27,297* |
