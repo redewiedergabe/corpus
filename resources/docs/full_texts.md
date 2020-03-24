@@ -50,15 +50,18 @@ This collection consists of complete magazine and newspaper articles. The source
 
 | filename | title | periodical | year | tokens |
 |----------|-------|------------|------|--------|
+| rwz_full_grenz_13 | Der Musikunterricht in Elementarschulen in Deutschland und Frankreich | Die Grenzboten | 1842 | 9,240 |
 | rwz_full_mkhz_599 | - | Allgemeine Auswanderungs-Zeitung | 1847 | 4,514 |
 | rwz_full_mkhz_336 | - | Allgemeine Auswanderungs-Zeitung | 1848 | 3,368 |
 | rwz_full_mkhz_1098 | Die deutsche Kolonie Santa Cruz in der Provinz Rio Grande do Sul in Brasilien | Deutsche Auswanderer-Zeitung | 1852 | 3,175 |
 | rwz_full_grenz_3721 | Regierung und Volk in Neapel | Die Grenzboten | 1856 | 7,041 |
 | rwz_full_grenz_6595 | Die Petrussagen | Die Grenzboten | 1867 | 5,833 |
+| rwz_full_grenz_7300 | Polnischer Monatsbericht | Die Grenzboten | 1869 | 7,071 |
 | rwz_full_mkhz_5884 | - | Social-Politische Blätter | 1873 | 5,118 |
 | rwz_full_grenz_10479 | Die Tragik in Werken der hellenischen Plastik | Die Grenzboten | 1880 | 6,609 |
 | rwz_full_mkhz_10107 | Die Versammlung der deutschen Vertrauensmänner in Brünn | Mährisches Tageblatt | 1887 | 6,418 |
 | rwz_full_mkhz_10440 | Die 15. Hauptversammlung des Deutschen Schulvereins | Mährisches Tageblatt | 1895 | 6,257 |
+| rwz_full_grenz_18399 | Musikalische Zeitfragen | Die Grenzboten | 1902 | 7,195 |
 | rwz_full_mkhz_2733 | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
 | rwz_full_grenz_20389 | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
 | rwz_full_grenz_23110 | Die Stellung Belgiens zum alten Reiche | Die Grenzboten | 1915 | 5,091 |
