@@ -65,6 +65,6 @@ This collection consists of complete magazine and newspaper articles. The source
 | rwz_full_mkhz_2733 | Zur Beurteilung der jüngsten Schulkonflikte | Europa. Wochenschrift für Kultur und Politik | 1905 | 3,356 |
 | rwz_full_grenz_20389 | Goethe und die Boisserée | Die Grenzboten | 1907 | 4,483 |
 | rwz_full_grenz_23110 | Die Stellung Belgiens zum alten Reiche | Die Grenzboten | 1915 | 5,091 |
-| **total** | **12 files** | - | - | **61,263** |
+| **total** | **15 files** | - | - | **84,769** |
 
 
