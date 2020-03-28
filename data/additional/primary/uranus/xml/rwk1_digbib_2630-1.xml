@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das gräfliche Milchgeschäft</title>
+             <author>Reventlow, Franziska Gräfin zu</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Reventlow,_Franziska_Graefin_zu_Das_graefliche_Milchgeschaeft.tg84_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1897</f>
+         <f name="decade">1890</f>
+         <f name="title">Das gräfliche Milchgeschäft</f>
+         <f name="author">Reventlow, Franziska Gräfin zu</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Keine Spur, was war denn damit?«</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»Na, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">stell'</seg> dir <seg id="3" type="intExpr">vor</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" nonfact="yes"><said id="4" mode="reported" content="thought" level="3">das verrückte Frauenzimmer verfiel eines Tages auf die Idee, ein Milchgeschäft zu betreiben.</said></said> Sie hatte es ja immer mit Erwerbszweigen zu tun.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ja, <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">weiß</seg>,</seg><said id="6" mode="indirect" content="thought" level="1" border="yes"> damals wollte sie sich durchaus bei einer Akrobatengesellschaft von der Oktoberwiese engagieren lassen</said>«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">der</seg></seg> <said id="5" mode="direct" content="speech" level="1">»jeune homme chic«.</said> <said id="5" mode="direct" content="speech" level="1">»<said id="7" mode="indirect" content="speech" level="2">Sie war ganz wild darauf, drei Abende lang hat sie mit allem jongliert, was ihr in die Hand kam, und <said id="8" mode="reported" content="speech" level="3">verfluchte ihre Erzieher</said>, die ihre Gelenke hatten einrosten lassen</said><seg id="7" type="frame" pos="end">, wie <seg id="7" type="speaker">sie</seg> <seg id="7" type="intExpr">sagte</seg>.</seg>«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Gut«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">fuhr</seg> <seg id="9" type="speaker">der andere</seg> <seg id="9" type="intExpr">fort</seg>.</seg> <said id="9" mode="direct" content="speech" level="1">»Das ging vorbei, aber die Idee mit dem Milchgeschäft saß fest. <said id="10" mode="reported" content="speech" level="2">Wochenlang redete sie von nichts anderem.</said> <said id="11" mode="reported" content="speech" level="2" nonfact="yes">Dann schwieg sie wieder</said> und kam überhaupt des Abends nicht her. <seg id="12" type="frame" pos="start">Wie <seg id="12" type="speaker">wir</seg> nachher <seg id="12" type="intExpr">erfuhren</seg>,</seg> <said id="12" mode="indirect" content="speech" level="2" border="yes">war sie als Statistin am Hoftheater und verdiente allabendlich 58 Pfennige und morgens für die Proben 35.</said> Davon lebte sie und legte ihr anderes Geld zurück. 
+Dann kam sie nach einigen Monaten endlich wieder, abgerissener als je, aber sonst gar nicht wiederzuerkennen. Sie hat nicht gesungen, nicht gepfiffen, keinen unnötigen Lärm gemacht, sondern sich ganz stillbefriedigt herangesetzt und ihren Absinth getrunken. Und dann auf einmal emporgefahren <seg id="13" type="frame" pos="start">und mit dem unvermeidlichen Fuchtelknochen auf den Tisch geschlagen:</seg> <said id="13" mode="direct" content="speech" level="2">›Kinder, ich hab's.‹</said> 
+                  <said id="14" mode="direct" content="speech" level="2">›Was hast du, was ist los‹</said><seg id="14" type="frame" pos="end">, <seg id="14" type="intExpr">brüllen</seg> <seg id="14" type="speaker">wir</seg> ganz gespannt</seg>, denn, wenn es auch immer Blödsinn war, was sie ›hatte‹, so war es doch wenigstens meist etwas Neues und es lag eine Art Methode darin. 
+                  Diesmal waren wir gründlich überrascht. Sie hatte die Geschichte mit ihrem Milchgeschäft wirklich zustande gebracht.«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Na, und wo hatte sie das Geld her?«</said> <seg id="15" type="frame" pos="mid"><seg id="15" type="intExpr">fragte</seg> <seg id="15" type="speaker">Raoul Lichtwitz</seg> gespannt,</seg> <said id="15" mode="direct" content="speech" level="1">»die Ersparnisse werden doch schwerlich gereicht haben.«</said> 
+                  <said id="16" mode="direct" content="speech" level="1">»Gott bewahre, sie hat da die unglaublichsten Geschichten geleistet. <said id="17" mode="indirect" content="thought" level="2">Finanzoperationen waren ja immer ihre starke Seite</said><seg id="17" type="frame" pos="end">, wie du dich <seg id="17" type="intExpr">erinnern</seg> wirst.</seg> Da ist sie bei allen ihren Bekannten herumgegangen, die noch so glücklich waren, silberne Löffel oder goldene Uhren zu besitzen und hat sich was zum Versetzen ausgeliehen –«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Na hör mal«</said> – 
+                  <said id="19" mode="direct" content="speech" level="1">»Nun, <seg id="20" type="frame" pos="start"><seg id="20" type="speaker">du</seg> <seg id="20" type="intExpr">weißt</seg> doch selbst,</seg> <said id="20" mode="indirect" content="thought" level="2" border="yes">wie das in uns'rer damaligen Gesellschaft war.</said> Was man grad' nicht selbst versetzt hat, ist doch egal, ob's jemand anders versetzt. Man hilft sich eben aus. Und <said id="21" mode="reported" content="speech" level="2">sie hat so überzeugend zu reden gewußt</said> von momentaner Verlegenheit <seg id="22" type="frame" pos="start">und den Leuten <seg id="22" type="intExpr">plausibel</seg> <seg id="22" type="intExpr">gemacht</seg>,</seg> <said id="22" mode="indirect" content="speech" level="2">daß ein Reklamelöffel mit der Inschrift: <said id="23" mode="reported" content="writing" level="3">›Trinkt Kath'reiners Malzkaffee‹</said> genau dieselben Dienste leistet wie ein silberner.</said> Genug, sie bekam alles mögliche zusammen. Aber es reichte immer noch nicht. Dann ist sie 
+auf die Anatomie gegangen zu dem alten Professor Rüdiger. <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">Sie</seg> hatte mal irgendwo <seg id="24" type="intExpr">gehört</seg>,</seg> <said id="24" mode="indirect" content="speech" level="2" border="yes">daß man seinen Leichnam schon bei Lebzeiten zur Sektion verkaufen könne.</said> <seg id="26" type="frame" pos="start"><said id="25" mode="reported" content="speech" level="2">Das hat <seg id="26" type="speaker">sie</seg> uns später alles selbst <seg id="26" type="intExpr">erzählt</seg>:</said></seg> <said id="26" mode="indirect" content="speech" level="2">wie der weißhaarige Alte, eben aus der Vorlesung gekommen, in Seziermantel und schwarzer Samtmütze, umringt von anatomischen Präparaten, vor einem ›auserlesenen Frühstück‹ saß, <said id="27" mode="reported" content="speech" level="3">während sie ihm ihr Anliegen vortrug.</said></said> <seg id="28" type="frame" pos="start">Wie <seg id="28" type="speaker">er</seg> dann ganz desperat <seg id="28" type="intExpr">gesagt</seg> hat,</seg><said id="28" mode="indirect" content="speech" level="2"> jetzt im Karneval käme halb München und wolle sich sezieren lassen, um das Geld zu verjubeln</said>, und <seg id="29" type="frame" pos="start">schließlich hat <seg id="29" type="speaker">er</seg> ihr väterlich liebevoll die Backen getätschelt und <seg id="29" type="intExpr">gesagt</seg>:</seg> <said id="29" mode="direct" content="speech" level="2">›Nein, nein, mein Kind, daraus wird nichts.</said></said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

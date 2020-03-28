@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das schwatzende Herz</title>
+             <author>Poe, Edgar Allan</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Poe,_Edgar_Allan_Das_schwatzende_Herz.tg50_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Das schwatzende Herz</f>
+         <f name="author">Poe, Edgar Allan</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich erschauerte bis ins Mark. Aber ich konnte von des alten Mannes Gesicht und Gestalt nichts weiter sehen, denn ich hatte den Strahl wie instinktiv ganz genau auf die verfluchte Stelle gerichtet. 
+                  Und nun – <seg id="1" type="frame" pos="start">habe <seg id="1" type="speaker">ich</seg> euch nicht <seg id="1" type="intExpr">gesagt</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes" prag="yes">daß das, was ihr für Wahnsinn haltet, nur eine Überfeinerung der Sinne ist?</said> – nun, <said id="2" mode="reported" content="speech" level="1" prag="yes">sage ich</said>, <said id="3" mode="reported" content="thought" level="1" border="yes">vernahm mein Ohr ein leises, dumpfes, schnelles Geräusch, ein Geräusch wie das Ticken einer Uhr, die man mit einem Tuch umwickelt hat.</said> Auch diesen Laut kannte ich gut. Es war des alten Mannes Herz, das so schlug. Es steigerte meine Wut, wie das Schlagen einer Trommel den Soldaten zu mutigerem Vorgehen anreizt. 
+                  Aber selbst jetzt bezwang ich mich und blieb still. Ich atmete kaum. Ich hielt die Laterne regungslos. Ich versuchte den Strahl so beständig wie möglich auf das Auge zu heften. Inzwischen steigerte sich das höllische Trommeln des Herzens. Es wurde jede Minute schneller und schneller und lauter und lauter. Das Entsetzen des alten Mannes muß furchtbar gewesen sein. Das Klopfen wurde lauter, <said id="6" mode="reported" content="speech" level="1" prag="yes">sage ich</said>, lauter von Minute zu Minute! – Hört ihr mich wohl? <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Ich</seg> habe euch <seg id="5" type="intExpr">gesagt</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">daß ich nervös sei</said>, und das bin ich. Und nun, in so toter Nachtstunde, in diesem alten Hause, das so grauenhaft schweigsam war, erweckte dies eine seltsame Geräusch in mir ein maßloses Entsetzen. Doch noch einige Minuten länger bezwang ich mich und stand still. Aber das Klopfen wurde lauter und  lauter! <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">dachte</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1">das Herz müsse zerspringen.</said> Und nun faßte mich eine neue Angst: <said id="8" mode="freeIndirect" content="thought" level="1">das Geräusch könnte von einem Nachbarn vernommen werden! 
+                  Da war des Alten Stunde gekommen!</said> Mit einem lauten Geheul riß ich die Blendlaterne auf und sprang ins Zimmer. Er schrie auf – nur ein einziges Mal! Im Augenblick zerrte ich ihn auf den Boden hinunter und zog das schwere Federbett über ihn. Dann lächelte ich, froh, die Tat so weit vollbracht zu sehen. Aber noch viele Minuten hörte ich den erstickten Laut des klopfenden Herzens. Das kümmerte mich jedoch nicht. Das konnte nicht durch die Wände hindurch gehört werden. Endlich hörte es auf. Der alte Mann war tot. Ich entfernte das Bett und untersuchte den Leichnam. <said id="9" mode="freeIndirect" content="thought" level="1">Ja, er war tot – tot wie ein Stein.</said> Ich legte ihm meine Hand aufs Herz und ließ sie minutenlang da liegen. Kein Pulsschlag war zu spüren. Er war endgültig tot. Sein Auge würde mich nicht mehr belästigen. 
+                  Solltet ihr mich noch immer für wahnsinnig halten, so werdet ihr eure Anschauung sicher ändern, <seg id="10" type="frame" pos="start">wenn <seg id="10" type="speaker">ich</seg> euch <seg id="10" type="intExpr">schildere</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">welch kluge Vorsichtsmaßregeln ich ergriff, um den Leichnam zu verbergen.</said> Die Nacht schwand hin, und ich arbeitete eilig, aber in großer Stille. 
+                  Aus dem Fußboden des Zimmers hob ich drei Dielen heraus und bereitete darunter dem Toten sein Grab. Dann legte ich die Bretter wieder an Ort und Stelle. So geschickt, so sorgfältig tat ich dies, daß kein menschliches Auge – nicht einmal das seine – irgend etwas Auffallendes hätte bemerken können. Da gab es nichts wegzuwaschen – keinen Fleck irgendwelcher Art – nicht das kleinste Bluttröpfchen. Dafür war ich viel zu bedachtsam vorgegangen. 
+                  
+                      Als ich mit dieser Arbeit fertig war, war es vier Uhr – noch immer schwarz wie Mitternacht.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

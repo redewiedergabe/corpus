@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Englische Prdeiger und Landarbeiter.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_social03_1873_23.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Englische Prdeiger und Landarbeiter.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.social</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Englische Prediger und Landarbeiter.
+                        
+            
+            <seg id="1" type="frame" pos="start">Anfang der vierziger Jahre enthielt das „Morning Chronicle“
+                        folgende drastische <seg id="1" type="intExpr">Schilderung</seg> der Stimmung der ländlichen
+                        Tagelöhner ihren Predigern gegenüber:</seg>
+                         
+            <said id="1" mode="direct" content="writing" level="1">„ <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Jch</seg> <seg id="4" type="intExpr">fragte</seg> einen dieser Leute,</seg> <said id="4" mode="indirect" content="speech" level="2">ob der heutige Prediger ihr
+                        eigner Geistlicher sei.</said> -- <said id="5" mode="indirect" content="speech" level="2">Ja, verdammt sei er</said>, <said id="6" mode="direct" content="speech" level="2">ja wohl ist er
+                        unser eigner Pfaff, er bettelt in einem fort, er hat immer gebettelt, so lange ich ihn kenne.</said> ( Es war nämlich eine Predigt
+                        für die Heidenmission gehalten worden. ) -- <said id="7" mode="direct" content="speech" level="2">Und seit ich ihn
+                        kenne, auch</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">setzte</seg> ein <seg id="7" type="speaker">anderer</seg> <seg id="7" type="intExpr">hinzu</seg>,</seg> <said id="7" mode="direct" content="speech" level="2">und ich hab' nie einen
+                        Pfaffen gekannt, <said id="8" mode="reported" content="speech" level="3" nonfact="yes">der nicht immer für dies oder das gebettelt
+                        hätte.</said></said> -- <said id="9" mode="direct" content="speech" level="2">Ja</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagte</seg> eine <seg id="9" type="speaker">Frau</seg>, die eben aus der Kirche kam,</seg>
+                        <said id="9" mode="direct" content="speech" level="2"><seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">seht</seg>,</seg> <said id="10" mode="indirect" content="thought" level="3" nonfact="yes" border="yes">wie der Lohn heruntergeht</said>, und seht mal die reichen
+                        Vagabunden an, womit die Pfaffen essen und trinken und auf
+                        die Jagd gehen. So helf mir Gott, wir sind eher reif, ins
+                        Arbeitshaus zu gehen und zu verhungern, als für Pfaffen zu
+                        bezahlen, die unter die Heiden gehen.</said> -- <said id="11" mode="direct" content="speech" level="2">Und warum</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> eine
+                        <seg id="11" type="speaker">andere</seg>,</seg> <said id="11" mode="direct" content="speech" level="2">warum schicken sie nicht die Pfaffen hin, <said id="12" mode="reported" content="speech" level="3">die alle Tage
+                        im Dome zu Salisbury plärren</said>, und das für Niemand, als für
+                        die nackten Steine? Warum gehen die nicht unter die Heiden?</said>
+                        -- <said id="13" mode="direct" content="speech" level="2">Die gehen nicht</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> der <seg id="13" type="speaker">Alte</seg>, <said id="14" mode="reported" content="speech" level="3">den ich zuerst gefragt</said>,</seg> <said id="13" mode="direct" content="speech" level="2">weil
+                        sie reich sind, sie haben mehr Land als sie brauchen, sie wollen
+                        Geld haben, um sich die armen Pfaffen vom Halse zu schaffen;
+                        <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">ich</seg> <seg id="15" type="intExpr">weiß</seg></seg> <said id="15" mode="indirect" content="thought" level="3" border="yes">was sie wollen</said>, dazu kenn' ich sie zu lange.</said> -- <said id="16" mode="direct" content="speech" level="2">Aber,
+                        gute Freunde</said><seg id="16" type="frame" pos="mid">, <seg id="16" type="intExpr">fragte</seg> <seg id="16" type="speaker">ich</seg>,</seg> <said id="16" mode="direct" content="speech" level="2">Jhr kommt doch nicht immer mit solchen
+                        bittern Gefühlen gegen den Prediger aus der Kirche? Weshalb
+                        
+               
+               geht Jhr denn sonst überhaupt hin?</said> -- <said id="17" mode="direct" content="speech" level="2">Weshalb wir hin gehen</said>,
+                        <seg id="17" type="frame" pos="mid"><seg id="17" type="intExpr">sagte</seg> die <seg id="17" type="speaker">Frau</seg>,</seg> <said id="17" mode="direct" content="speech" level="2">wir müssen wohl, wenn wir nicht Alles verlieren
+                        wollen, Arbeit und Alles, wir müssen wohl.</said> -- <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Jch</seg> <seg id="19" type="intExpr">sah</seg> später,</seg>
+                        <said id="19" mode="indirect" content="thought" level="2" border="yes">daß sie einige kleine Vorrechte wegen Feuerung und etwas Kartoffelland, was sie bezahlen mußten, erhielten, wenn sie in die
+                        Kirche gingen!</said>“</said>
+                         
+            <said id="3" mode="reported" content="writing" level="1">Nach einer Schilderung ihrer Armuth und Unwissenheit</said> <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">schließt</seg>
+                        der <seg id="2" type="speaker">Korrespondent</seg>:</seg>
+                         
+            <said id="2" mode="direct" content="writing" level="1">„ <seg id="18" type="frame" pos="start">Und nun <seg id="18" type="intExpr">versichere</seg> <seg id="18" type="speaker">ich</seg> kühn,</seg> <said id="18" mode="indirect" content="speech" level="2">daß die Lage dieser Leute,
+                        ihre Armuth, ihr Haß gegen die Kirche, ihre äußerliche Fügsamkeit und ihre innerliche Bitterkeit gegen die kirchlichen Würdenträger die Regel ist durch die Landgemeinden von
+                        England, und das Gegentheil nur die Ausnahme.</said>“</said>
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

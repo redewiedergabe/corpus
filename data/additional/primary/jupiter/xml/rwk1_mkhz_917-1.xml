@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Briefauszüge</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_auswandererzeitung034_1852_3.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">Briefauszüge</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.auswandererzeitung</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Diese Vorsicht darf getrost gegen Alle,
+                        welche Schilde aushängen haben und eine Office ( Geschäftsstube ) halten,
+                        gleichmäßig geübt werden. Jch will keineswegs den redlichen Verkaufsvermittlern zu nahe treten, <said id="1" mode="reported" content="speech writing" level="1">denen ich vielmehr ein Dankvotum hiermit
+                        zubringe.</said> Aber es giebt Unredliche, denen dies nicht am glatten Hemdbusen angesehen werden kann. Vor dem Ankaufe lasse man den
+                        Besitztitel prüfen.
+                        
+             
+            <seg id="2" type="frame" pos="start">Es giebt <seg id="2" type="speaker">Leute</seg>, welche <seg id="2" type="intExpr">vorgeben</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">mit Landverkäufen für Private
+                        beauftragt zu sein</said>, und welche, <said id="3" mode="reported" content="writing" level="1" nonfact="yes">wenn sich Jemand in einen Kaufvertrag
+                        mit ihnen einläßt</said>, Staats ländereien verkaufen. <said id="4" mode="reported" content="speech writing" level="1" nonfact="yes">Statt daß sie1 1 / 4 $
+                        per Acker fordern</said> und nehmen, streichen sie dann einen höhern Preis nebst
+                        Gewinn ein.
+            Da die Einwanderung hier fortwährend zunimmt und hauptsächlich
+                        von Bauern geschieht, <seg id="5" type="frame" pos="start">so <seg id="5" type="intExpr">bemerke</seg> <seg id="5" type="speaker">ich</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">daß die vorerwähnte Prellerei auch
+                        in Jowa vorkommt <seg id="6" type="frame" pos="start">und ihr allemal die <seg id="6" type="intExpr">Versicherung</seg> vorausgeht,</seg> <said id="6" mode="indirect" content="speech" level="1">daß in
+                        der betreffenden Gegend keine Staatsländereien mehr seien.</said></said> Es liegen aber
+                        noch viele Millionen Acker „Congreßland“ unverkauft in Jowa, freilich nicht
+                        mehr längs dem Mississippi und dem untern Desmoines.
+            Nichts ist hemmender im Aufblühen, Nichts verderblicher, als die
+                        großen Landkäufe durch Spekulanten. So befindet sich Davenport's
+                         ( Jowa ) Zukunft so ziemlich in den Händen von St. Louis Spekulanten,
+                        <said id="7" mode="indirect" content="speech" level="1">welche</said> -- wenn es wahr<seg id="7" type="frame" pos="mid">, was <seg id="7" type="speaker">ich</seg> <seg id="7" type="intExpr">höre</seg></seg> -- <said id="7" mode="indirect" content="speech" level="1">alle Bauplätze daselbst, und
+                        Newyorker Spekulanten, welche 48,000 Acker Land in Davenports's
+                        Umgegend aufgekauft haben.</said>
+            Kapitalisten können hier gute Geschäfte machen, wenn sie Schafzucht im Großen treiben. Auch ließe sich damit auf's Vortheilhafteste
+                        eine Weberei verbinden, in welcher die Wolle alsbald zu groben Decken 
+                  ec.
+                        
+                verarbeitet würde.
+            Der Gesundheitszustand war den ganzen Winter hindurch ausgezeichnet.
+            Es bereiten sich in Jowa eben mehrere Associationen für den Landbau
+                        vor. <said id="8" mode="reported" content="thought" level="1">Sie gehen nur von Deutschen aus.</said> Der Yankee, es sei denn, daß er
+                        zur Secte und zum Staate der Mormonen gehöre, bildet keine solche.
+                        <said id="9" mode="reported" content="writing" level="1" nonfact="yes">Seiner Zeit werde ich darüber berichten.</said> <seg id="10" type="frame" pos="start">Hier nur soviel <seg id="10" type="intExpr">gesagt</seg>:</seg> <said id="10" mode="direct" content="speech" level="1">Von
+                        allen den in Deutschland zusammengenebelten Freundschaftskolonien sind
+                        diejenigen, welche nicht bald zerstoben, später in Trümmer gegangen.
+                        <said id="11" mode="reported" content="thought" level="2" nonfact="yes">Jch tadle nicht die Absicht</said>, sie ist erhebend und zeugt von dem edeln
+                        Sinne des Deutschen: <said id="12" mode="reported" content="thought" level="2">aber ich tadele <said id="13" mode="reported" content="thought" level="3" metaph="yes">das leichtsinnig schwärmerische
+                        Element</said> darin</said>, denn es verräth das Unpraktische des welt= und
+                        geschäftsunkundigen Deutschen. Dazu kommt <said id="14" mode="reported" content="thought" level="2" border="yes">der Mangel an Sprachkenntnissen</said> und <said id="15" mode="reported" content="thought" level="2" nonfact="yes" border="yes">die Unkunde der Verhältnisse.</said></said>
+            Hier soll man, wenn die Börse es erlaubt, zunächst Landessitte und
+                        <said id="16" mode="reported" content="thought" level="1">Sprache kennen lernen</said> und dann erst, aber mit Vorsicht, <said id="17" mode="reported" content="thought" level="1">eine Gelegenheit
+                        erspähen.</said> Hat man aber kein Geld, so soll man das erste beste Geschäft
+                         treiben oder erlernen, und jedes ernährt auch den Lehrling. -- Der
+                        Fluß ist wieder frei.
+            Es ist erstaunlich, wie im Staate Jowa das Obst aller Art gedeiht.
+                        Und es geschieht viel zur Veredelung. Man hält nur die besten Sorten.
+                        Die größten Baumschulen erfreuen das Auge. Das Tausend Apfelbäume
+                        ist zu 80 $ zu haben. Das Pfropfen geschieht im Winter. Man hebt die
+                        aus Kernen gezogenen Ruthen, welche so schon edles Obst bringen würden,
+                        im Spätherbst aus und schlägt sie in Kellern ein. Jm Winter werden sie
+                        auf einem Pfropfstuhle in Gesellschaft gepfropft. Einer macht den Schrägschnitt, ein Anderer wickelt das Pfropfreis an das Stämmchen fest, ein
+                        Dritter bestreicht die Baumwunden und die Umwickelung.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

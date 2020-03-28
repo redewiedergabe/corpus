@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>(Drei Königstöchter.)</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MT_1888_09_05.txt_14.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1888</f>
+         <f name="decade">1880</f>
+         <f name="title">(Drei Königstöchter.)</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.maehrisches</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Vom Tage.
+                        
+            
+            
+               
+                  (Drei Königstöchter.)
+               
+               Eine reizende Idylle
+                        aus dem Leben dreier Fürstinnen ist es, <said id="1" mode="reported" content="writing" level="1">welche der
+                        Pariser „Figaro“ Montag schilderte.</said> <seg id="2" type="frame" pos="start">Das <seg id="2" type="speaker">französische
+                        Blatt</seg> <seg id="2" type="intExpr">erzählt</seg>:</seg> <said id="2" mode="direct" content="writing" level="1">Es waren drei Mädchen, drei kleine
+                        Mädchen, welche vor nun fü n fundzwanzig Jahren
+                        auf der Straße von Jugenheim spielten; sie waren
+                        sehr heiter, die kleinen Mädchen mit ihrem langen,
+                        offenen Haar, und alle Bewohner der guten Stadt
+                        Frankfurt am Main kannten sie wohl; <seg id="3" type="frame" pos="start">die <seg id="3" type="speaker">Diplomaten</seg> grüßten sie ehrfurchtsvoll — es gab damals
+                        in Frankfurt noch Diplomaten — und <seg id="3" type="intExpr">dachten</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2">was
+                        wohl nach dem Successionsgesetze aus den kleinen
+                        Mädchen werden wird!</said> allein die Mädchen in dem
+                        kleinen Hause von Jugenheim achteten nicht auf dieselben: sie machten ihre Kleider selbst und Maria
+                        Sophie, die zweite, schnitt sich dieselben eigenhändig
+                        zu, und mit den fünfzehn Francs monatlich, welche
+                        man Jeder von ihnen für ihre Toilette gab, waren
+                        sie reizend zum Anbeißen und <seg id="4" type="frame" pos="start">ihr einziger <seg id="4" type="intExpr">Kummer</seg>
+                        war,</seg> <said id="4" mode="indirect" content="thought" level="2">daß die Schuhe zu rasch zerrissen.</said> Die kleinen
+                        Mädchen aber waren die Töchter des Herzogs von
+                        Schleswig-Holstein-Sonderburg-Glücksburg, der, um
+                        sein bescheidenes Einkommen zu vergrößern, Lectionen
+                        im Zeichnen gab, während er auf die Krone von
+                        Dänemark wartete. Und eines Tages kam diese Krone
+                        und man sah die kleinen Mädchen nicht mehr auf
+                        der Straße von Jugenheim; <seg id="5" type="frame" pos="start">man hörte zur Zeit
+                        des Abendessens nicht mehr <seg id="5" type="intExpr">rufen</seg>:</seg> <said id="5" mode="direct" content="speech" level="2" border="yes">„Alexandra,
+                        Dagmar, Thyra, kommt rasch, der Vater ist da!“</said>
+                        Sie waren auch keine kleine Mädchen mehr, sondern
+                        Hoheiten. Allein das war erst der Anfang. Alexandra
+</said>                         
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

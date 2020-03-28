@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Kommentar</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="indirect" content="speech" level="1"><said id="2" mode="reported" content="thought" level="2" border="yes">Den deutschfeindlichen Ausstreuungen habe die japanische Regierung niemals Glauben geschenkt</said><seg id="3" type="frame" pos="start">, <seg id="3" type="speaker">sie</seg> <seg id="3" type="intExpr">wisse</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2" border="yes">daß gegen uns Jntriguen spielen....
+                        ............................</said></said>
+                        <seg id="4" type="frame" pos="start">Der japanische <seg id="4" type="speaker">Minister</seg> <seg id="4" type="intExpr">fährt fort</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1">auch er habe keinen Grund, uns zu mißtrauen <said id="5" mode="reported" content="speech" level="2">oder über uns zu klagen.</said></said> <said id="6" mode="indirect" content="speech" level="1"><said id="7" mode="reported" content="thought" level="2" border="yes">Er lege auf gute Beziehungen zu Deutschland den
+                        größten Wert</said>,<said id="8" mode="reported" content="thought" level="2" border="yes"> er sehe zu Kollisionen zwischen Deutschland und Japan absolut
+                        keinen Grund.</said></said> <said id="9" mode="reported" content="speech" level="1">Auch bat mich der Herr Minister <seg id="10" type="frame" pos="start">zu<seg id="10" type="intExpr"> melden</seg>,</seg> <said id="10" mode="indirect" content="speech" level="2">daß die japanische
+                        Regierung uns wie anderen Mächten gegenüber vollzogene Tatsachen und erworbene Rechte in Ostasien respektieren werde.</said></said><said id="11" mode="indirect" content="speech" level="1"> Es sei dies nicht allein der
+                        feste Entschluß der jetzigen japanischen Regierung, sondern ein bleibender und
+                        leitender Grundsatz der japanischen Politik.“</said>
+                         
+            <said id="12" mode="reported" content="speech" level="1">Nun erzählte Graf Bülow</said>, <said id="13" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">so wird man sagen</said>, <said id="12" mode="reported" content="speech" level="1">gewiß nur deshalb von
+                        dem Telegramm</said>, <said id="14" mode="reported" content="thought" level="1" border="yes">weil er damit den Vorwurf der Parteinahme für Rußland
+                        entkräften wollte.</said> Selbstverständlich. <seg id="15" type="frame" pos="start">Aber <seg id="15" type="intExpr">glaubt</seg> <seg id="15" type="speaker">man</seg> etwa,</seg> <said id="15" mode="indirect" content="thought" level="1">daß der Reichskanzler sich dieses Telegramm aus Tokio extra bestellt habe, um sich gegen Bebel
+                        verteidigen zu können</said>, <said id="33" mode="reported" content="thought" level="1" border="yes">sieht das Telegramm nicht vielmehr darnach aus, <said id="16" mode="reported" content="speech" level="2">als
+                        ob Deutschland vorher bestimmte Versicherungen seiner freundschaftlichen Gesinnung abgegeben hat?</said></said> <said id="17" mode="reported" content="speech" level="1">Und hätte Graf Bülow das Telegramm erwähnt</said>,
+                        wenn noch das alte herzliche Verhältnis zu Rußland bestehen würde? Jn
+                        diesem Falle hätte er es doch sicher beiseite gelassen. <seg id="18" type="frame" pos="start">Daß <seg id="18" type="speaker">Graf Bülow</seg> das Telegramm zugleich benutzt, um zu <seg id="18" type="intExpr">zeigen</seg>,</seg> <said id="18" mode="indirect" content="speech" level="1"><seg id="19" type="frame" pos="start">daß <seg id="19" type="speaker">man</seg> sogar in Tokio der <seg id="19" type="intExpr">Meinung</seg>
+                        sei,</seg> <said id="19" mode="indirect" content="thought" level="2" border="yes">Deutschland habe sich durchaus unparteiisch neutral verhalten</said></said>, <said id="20" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">das ist
+                        natürlich auf gut deutsch gesagt</said>, einfach Spiegelfechterei. <said id="21" mode="reported" content="speech" level="1">Die Kritik, der die
+                        deutsche äußere Politik in der Etatsdebatte unterworfen wurde</said><seg id="22" type="frame" pos="start">, der <seg id="22" type="intExpr">Vorwurf</seg>,
+                        der gegen sie erhoben wurde,</seg> <said id="22" mode="indirect" content="speech" level="1">daß sie Rußland moralisch, manchmal sogar, wenn auch natürlich in verschleierter Weise, durch die Tat gestützt habe</said>, waren zwar
+                        verspätet, weil die Situation sich inzwischen geändert hat, beruhten aber auf
+                        tatsächlichen unbestreitbaren Unterlagen. Und was beweist es<seg id="23" type="frame" pos="start">, daß die japanische <seg id="23" type="speaker">Regierung</seg> <seg id="23" type="intExpr">erklärt</seg>,</seg> <said id="23" mode="indirect" content="speech" level="1"><said id="24" mode="reported" content="thought" level="2" nonfact="yes" border="yes">sie habe den deutschfeindlichen Ausstreuungen niemals
+                        Glauben geschenkt.</said></said> Soll sie sich etwa das Geschäft, das so kurz vor dem Abschluß steht, verderben, <said id="25" mode="reported" content="speech" level="1">indem sie die Stimmung verbittert durch Hinweis auf
+                        <said id="26" mode="reported" content="speech writing" level="2">all die diplomatischen Reden, Handlungen und kaiserlichen Handschreiben, durch
+                        die die deutsche Regierung ihre Sympathie für die russische bis vor kurzem
+                        bewiesen hat?</said> </said>Soll sie in diesem Augenblick vielleicht schon in ihr Herz sehen
+                        lassen, in dem sicher das Mißtrauen und die Erbitterung noch stark genug sind,
+                        <said id="27" mode="reported" content="speech" level="1">und an Port Arthur erinnern</said>, an Port Arthur, um das tausende von
+                        Japanern und Russen in diesem Kriege haben ihr Leben lassen müssen, weil
+                        diese Frucht des Sieges im chinesisch=japanischen Kriege hauptsächlich mit durch
+                        Deutschland den Japanern wieder entrissen wurde?
+                         
+            <said id="28" mode="reported" content="writing" level="1">Jn der Rede des Reichskanzlers zur Etatsdebatte steht noch ein Satz,
+                        der sich auf das Verhältnis Deutschlands zu Japan bezieht.</said> <seg id="29" type="frame" pos="start">Der <seg id="29" type="speaker">Reichskanzler</seg>
+                        <seg id="29" type="intExpr">versicherte</seg>,</seg> <said id="29" mode="indirect" content="writing" level="1">daß die deutsche Regierung auch gegen eine japanische Anleihe in
+                        Deutschland nichts einzuwenden habe.</said> <seg id="30" type="frame" pos="start">Sonderbarerweise <seg id="30" type="intExpr">steht</seg> hinter diesem Satz
+                        in den Zeitungsberichten</seg> <said id="30" mode="direct" content="writing" level="1">„Heiterkeit“</said> <seg id="30" type="frame" pos="end"><seg id="30" type="intExpr">verzeichnet</seg>.</seg> Daß jene Worte aber eine
+                        sehr ernste Bedeutung hatten, hat sich unterdessen herausgestellt. <said id="31" mode="reported" content="thought" level="1" border="yes">Schon lesen
+                        wir in den Tageszeitungen, daß die deutsch=asiatische Bank, die bekanntermaßen
+                        nichts ohne vorherige Verständigung mit dem Auswärtigen Amte tut, eine
+                        japanische Anleihe vorbereitet.</said> <said id="32" mode="reported" content="speech" level="1" nonfact="yes">Und sollte das etwa dementiert werden</said>, so
+                        bleibt es deshalb doch ganz sicherlich wahr.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

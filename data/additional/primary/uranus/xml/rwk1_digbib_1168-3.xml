@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Mathilde Möhring</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Mathilde_Moehring.tg787_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Mathilde Möhring</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Wird denn diese Dauerläuferei nicht mal ein Ende nehmen? Paßt doch eigentlich nicht zu dir. Du hast entschieden mehr vom Siebenschläfer als vom Landbriefträger. Also warum pendelst du zwischen Grunewald und Wilmersdorf immer hin und her? Oder hast du jetzt eine andre Pendelbewegung?«</said> 
+                     <said id="2" mode="direct" content="speech" level="1">»Muß sich erst herausstellen, Freund. Ich bin ja erst gute vierundzwanzig Stunden hier, gestern früh angekommen, hier drüben Friedrichsstraße. Gott sei Dank, daß ich wieder da bin, und auch wieder nicht. Owinsk ist ein Nest, natürlich, und wenn man aufgestanden ist, kann man auch schon wieder zu Bette gehn, und dazu die ewige Klagerei von Mutter und Schwester und <said id="3" mode="reported" content="thought" level="2" nonfact="yes">keine Spur Verständnis für ein Buch oder ein Bild</said>, und wenn ein Tanzbär auf den Markt kommt, dann ist es, als ob die Wolter gastierte... Na, das alles is nicht grade mein Geschmack. Aber ein Gutes hat solch Nest doch, man hat Muße, <said id="4" mode="reported" content="thought" level="2" nonfact="yes">man kann seinen paar Gedanken nachhängen</said>, wenn man welche hat, und die Büffelei hat ein Ende. Ach, Rybinski, das geht nun wieder los. Wie steht es denn mit dir? Wenn ich dich so ansehe mit deiner Polenmütze, nimm mir nicht übel, es sieht so 'n bißchen theaterhaft aus, und deinen Stiefeln über der Hose – du siehst mir auch nicht aus, als kommst du recte vom Repetitorium.«</said> 
+                     <said id="5" mode="direct" content="speech" level="1">»Welche feine Fühlung du hast, Großmann. Recte vom Repetitorium: nein. Aber was von recte ist auch dabei; recte vom Galgen...«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Wie Roller?«</said> 
+                     Rybinski nickte. 
+                     <said id="7" mode="direct" content="speech" level="1">»Ach, mache keinen Unsinn, Rybinski. <said id="8" mode="reported" content="thought" level="2">Was meinst du?</said>«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»<said id="10" mode="reported" content="thought" level="2">Was ich meine</said>, davon später. <said id="11" mode="reported" content="speech" level="2" nonfact="yes">Erzähle mir erst ein Wort von dir</said> und von den Owinskern. Hast du zufällig meinen Onkel gesehn? Er kommt ja dann und wann in die Stadt, bei Pferdemarkt oder wenn er Geld braucht. Auf <said id="12" mode="reported" content="writing" level="2">meinen letzten Brief</said> hat er nicht geantwortet; es wird wohl grade Ebbe bei ihm gewesen sein. Und dein Vater? Woran starb er denn eigentlich? Er kann ja noch keine Sechzig gewesen sein. Und wie steht es mit dem Vermögen? <seg id="13" type="frame" pos="start"><seg id="13" type="intExpr">Es</seg> <seg id="13" type="intExpr">hieß</seg> immer,</seg> <said id="13" mode="indirect" content="speech" level="2">er hätte was.</said>«</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Ja, so heißt es immer, und wenn Gott den Schaden besieht, ist nichts da. Da war eine Kiste, so eine Art Arnheim, in seinem Bureau, die wir immer mit Respekt betrachteten, <seg id="15" type="frame" pos="start">weil <seg id="15" type="speaker">wir</seg> <seg id="15" type="intExpr">uns</seg> alle <seg id="15" type="intExpr">sagten</seg>,</seg> <said id="15" mode="indirect" content="speech" level="2">da liegt es drin.</said> <seg id="16" type="frame" pos="start">Und nun <seg id="16" type="intExpr">denke</seg> dir,</seg> <said id="16" mode="indirect" content="thought" level="2" nonfact="yes">was wir nachher gefunden haben.</said>«</said> 
+                     <said id="17" mode="direct" content="speech" level="1">»Nun, die Hälfte.«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Ja, proste Mahlzeit; eine Zereviskappe, ein Kommersbuch und ein Paar hohe Jagdstiefeln, gelbes Leder, genau wie wenn er sie von Wallenstein hätte.«</said> 
+                     <said id="19" mode="direct" content="speech" level="1">»War er denn ein Nimrod...? Übrigens könntest du mir erst eine Zigarre geben. Ich sah da eine kleine Kiste; sie enttäuscht mich hoffentlich nicht so wie dich die große Erbkiste. Ja, war er denn solch Jäger vor dem Herrn?«</said> 
+                     <said id="20" mode="direct" content="speech" level="1">»I Gott bewahre. Dazu war er viel zu bequem und fror immer. Er wird wohl, als er eben Burgemeister geworden war, mal eine Jagd mitgemacht haben, aber als ich so 'n halbwachsner Junge war, so kurz vorher, eh wir nach Inowroclaw aufs Gymnasium kamen, fuhr er immer bloß raus, wenn das Getafle beim Oberförster oder beim Amtsrat losging. <said id="21" mode="indirect" content="thought" level="2" border="yes">Und einmal war es beim Torf-Inspektor</said><seg id="21" type="frame" pos="end">, das <seg id="21" type="intExpr">weiß</seg> <seg id="21" type="speaker">ich</seg> noch genau.</seg>«</said> 
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

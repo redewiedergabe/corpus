@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die griechische Tänzerin</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Die_griechische_Taenzerin.tg288_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1902</f>
+         <f name="decade">1900</f>
+         <f name="title">Die griechische Tänzerin</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Und im letzten Winter hab' ich sie im Prater gesehen; an einem klaren, kalten Tage. Sie ging mit ihrem kleinen Mäderl unter den kahlen Kastanien über den Schnee. Der Wagen fuhr langsam nach. Ich befand mich auf der anderen Seite der Fahrbahn und ging nicht einmal hinüber. Wahrscheinlich war ich innerlich mit ganz anderen Dingen beschäftigt; auch interessierte mich Mathilde schließlich nicht mehr besonders. <said id="1" mode="reported" content="thought" level="1" nonfact="yes">So würde ich mir heute vielleicht gar keine weiteren Gedanken über sie und über ihren plötzlichen Tod machen</said>, wenn nicht jenes letzte Wiedersehen bei Wartenheimers stattgefunden hätte. <said id="2" mode="reported" content="thought" level="1" border="yes">Dieses Abends erinnere ich mich heute mit einer merkwürdigen, geradezu peinlichen Deutlichkeit</said>, etwa so wie manchen Tags am Genfersee. Es war schon ziemlich dämmerig, als ich hinauskam. Die Gäste gingen in den Alleen spazieren, <said id="3" mode="reported" content="speech" level="1">ich begrüßte den Hausherrn und 
+einige Bekannte.</said> Irgendwoher tönte die Musik einer kleinen Salonkapelle, die in einem Boskett versteckt war. Bald kam ich zu dem kleinen Teich, der im Halbkreis von hohen Bäumen umgeben ist; in der Mitte auf einem dunklen Postament, so daß sie über dem Wasser zu schweben schien, leuchtete die griechische Tänzerin; durch elektrische Flammen vom Hause her war sie übrigens etwas theatralisch beleuchtet. <said id="4" mode="reported" content="thought" level="1" border="yes">Ich erinnere mich des Aufsehens, das sie im Jahre vorher in der Sezession erregt hatte</said>; <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">ich</seg> muß <seg id="5" type="intExpr">gestehen</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">auch auf mich machte sie einigen Eindruck</said>, obwohl mir Samodeski ausnehmend zuwider ist, und <seg id="6" type="frame" pos="start">trotzdem <seg id="6" type="speaker">ich</seg> die sonderbare <seg id="6" type="intExpr">Empfindung</seg> habe,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes">daß eigentlich nicht er es ist, der die schönen Sachen macht, die ihm zuweilen gelingen, sondern irgend etwas anderes in ihm, irgend etwas Unbegreifliches, Glühendes, Dämonisches meinethalben, das ganz bestimmt erlöschen wird, wenn er einmal aufhören wird, jung und geliebt zu sein.</said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">glaube</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1">es gibt mancherlei Künstler dieser Art</said>, und dieser Umstand erfüllt mich seit jeher mit einer gewissen Genugtuung. 
+                  In der Nähe des Teiches begegnete ich Mathilden. Sie schritt am Arm eines jungen Mannes, der aussah wie ein Korpsstudent und <said id="8" mode="reported" content="speech" level="1">sich mir als Verwandter des Hauses vorstellte.</said> <said id="9" mode="reported" content="speech" level="1">Wir spazierten zu dritt sehr vergnügt plaudernd im Garten hin und her</said>, in dem jetzt überall Lichter aufgeflackert waren. Die Frau des Hauses mit Samodeski kam uns entgegen. Wir blieben alle eine Weile stehen, und <said id="10" mode="reported" content="speech" level="1">zu meiner eigenen Verwunderung sagte ich dem Bildhauer einige höchst anerkennende Worte über die griechische Tänzerin.</said> Ich war eigentlich ganz unschuldig daran; offenbar lag in der Luft eine friedliche, heitere Stimmung, wie das an solchen Frühlingsabenden manchmal vorkommt: <said id="11" mode="reported" content="speech" level="1">Leute</said>, die einander sonst gleichgültig sind, <said id="11" mode="reported" content="speech" level="1">begrüßen sich herzlich</said>, <said id="12" mode="reported" content="speech" level="1">andere</said>, die schon eine gewisse Sympathie verbindet, <said id="12" mode="reported" content="speech" level="1">fühlen sich zu allerlei Herzensergießungen angeregt.</said> Als ich beispielsweise eine Weile später auf einer Bank saß und eine Zigarette rauchte, gesellte sich ein Herr zu mir, den ich nur oberflächlich kannte und <said id="13" mode="reported" content="speech" level="1">der plötzlich die Leute zu preisen begann</said>, die von ihrem Reichtum einen so vornehmen Gebrauch machen wie unser Gastgeber. Ich war vollkommen seiner Meinung, obwohl ich Herrn von Wartenheimer sonst für einen ganz einfältigen Snob halte. <said id="14" mode="reported" content="speech" level="1">Dann teilte ich wieder dem Herrn ganz ohne Grund meine Ansichten über moderne Skulptur mit</said>, von der ich nicht sonderlich viel verstehe, Ansichten, die für ihn sonst gewiß ohne jedes Interesse gewesen wären; 
+<said id="15" mode="reported" content="speech" level="1">aber unter dem Einflüsse dieses verführerischen Frühlingsabends stimmte er mir begeistert zu.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Rubin</title>
+             <author>Hebbel, Friedrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hebbel,_Friedrich_Der_Rubin.tg982_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1843</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Rubin</f>
+         <f name="author">Hebbel, Friedrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Alte, kreideweiß geworden, wandte sich um, und winkte mit der Hand eine stattlich gekleidete Schar Bewaffneter heran. <said id="1" mode="direct" content="speech" level="1">»Zeigt dem Hund da«</said><seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">rief</seg> <seg id="1" type="speaker">er</seg> ihnen entgegen und deutete mit einer heftigen Bewegung auf Assad,</seg> <said id="1" mode="direct" content="speech" level="1">»wie der Sultan mit denen verfährt, die ihm trotzen.«</said> Assad zog seinen Dolch, doch sein Widerstand war fruchtlos, er sah sich alsbald von der Menge umringt, und war nahe daran, überwältigt zu werden. Da fiel sein Blick auf den Sultan, der ihn scharf beobachtete, ein spöttisches Lächeln überflog sein Gesicht, er zog den Rubin hervor, nickte dem Sultan zu, und warf, bevor noch jemand daran denken konnte, ihn zu hindern, den Stein weit von sich in den Fluß. <said id="2" mode="direct" content="speech" level="1">»Durchstoßt ihn!«</said> <seg id="2" type="frame" pos="end"><seg id="2" type="intExpr">rief</seg> der <seg id="2" type="speaker">Sultan</seg>, und riß, zitternd vor Wut, sein Schwert aus der Scheide.</seg> <said id="3" mode="direct" content="speech" level="1">»Ich tus selbst!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sagte</seg> <seg id="3" type="speaker">Assad</seg></seg>, und zückte den Dolch gegen die eigene Brust. Da ertönte auf einmal ein leises Ach, es war nur ein Laut, aber ein Laut, der in Assad das innerste Leben noch im Angesicht des Todes zur 
+ungestümen Flamme auftrieb, er ließ den erhobenen Arm sinken und stand, wie in ein Wunder verloren, regungslos. 
+                  <said id="4" mode="direct" content="speech" level="1">»O, Fatime, Tochter, so sehe ich dich endlich wieder?«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">rief</seg> der <seg id="4" type="speaker">Sultan</seg> <seg id="4" type="intExpr">aus</seg></seg>, und tat einen Schritt vorwärts, hielt dann aber plötzlich an, als ob er fürchtete, die teure Erscheinung mögte sich in nichts auflösen, sobald er sie zu fassen versuchte. – <said id="5" mode="direct" content="speech" level="1">»Allah sei gelobt!«</said><seg id="5" type="frame" pos="end"> <seg id="5" type="intExpr">jauchzten</seg> die erstaunten <seg id="5" type="speaker">Trabanten</seg></seg> und warfen sich, ihr Angesicht verhüllend, zu Boden. 
+                  <said id="6" mode="direct" content="speech" level="1">»Vater, führe mich zu meiner Mutter!«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">rief</seg> die süße <seg id="6" type="speaker">Stimme</seg>, die Assad in jener Mitternacht vernahm</seg>, und leidenschaftlich ängstlich umschlang die Jungfrau den alten Mann. – Schmerz und Freude vermischten sich in Assads Brust, er seufzte laut auf, <seg id="7" type="frame" pos="start">da trat die <seg id="7" type="speaker">Prinzessin</seg> zu ihm heran, faßte errötend seine Hand und <seg id="7" type="intExpr">sagte</seg>, indem sie ihn zu ihrem Vater führte:</seg> <said id="7" mode="direct" content="speech" level="1">»Hier ist mein Retter!«</said> 
+                  <seg id="8" type="frame" pos="start">Der <seg id="8" type="speaker">Sultan</seg> blieb eine Weile stumm und ernst, dann <seg id="8" type="intExpr">sprach</seg> er zu Assad:</seg> <said id="8" mode="direct" content="speech" level="1">»Ich wollte dich töten!«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Ja«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">erwiderte</seg> <seg id="9" type="speaker">Assad</seg>,</seg> <said id="9" mode="direct" content="speech" level="1">»aber noch leb ich.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Und du sollst leben bis ans Ende deiner Tage«</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">versetzte</seg> der <seg id="10" type="speaker">Sultan</seg> mit erhöhter Stimme,</seg> <said id="10" mode="direct" content="speech" level="1">»und <said id="11" mode="reported" content="speech" level="2" nonfact="yes">wenn du mein Reich forderst</said>, so will ichs dir zu Füßen legen und mir nichts ausbedingen, als einen Turban, ein Schwert und ein Grab.«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»<said id="13" mode="reported" content="speech" level="2" nonfact="yes">Ich habe nichts zu fordern!</said>«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">entgegnete</seg> <seg id="12" type="speaker">Assad</seg> düster und dumpf.</seg> <seg id="14" type="frame" pos="start">Dann <seg id="14" type="intExpr">fuhr</seg> <seg id="14" type="speaker">er</seg>, sich zu der Prinzessin wendend, langsam und gemessen <seg id="14" type="intExpr">fort</seg>, wie einer, der über sich selbst ein Todesurteil ausspricht:</seg> <said id="14" mode="direct" content="speech" level="1">»Ich hätte gern für dich den letzten Tropfen meines Blutes verspritzt, aber es ward mir nicht vergönnt, ich konnte dich nicht erlösen, ich konnte dich bloß beklagen, und das konnte jedermann. Und heute – heute war ich sogar nichtswürdig genug, den Stein, der dein holdes Selbst umschloß, in die schlammige Tiefe hinabzuschleudern, als der Mann, der, wie ich jetzt sehe, dein Vater ist, und in dem gewiß nur ahnungsvolle Sehnsucht den Wunsch nach seinem Besitz so heftig entzündete, ihn von mir verlangte. O! ich verachte mich selbst, und du mußt mich auch verachten!«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Du tust dir unrecht«</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">Fatime</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">»denn dadurch, daß du den Rubin, den du bisher, wie alle früheren Besitzer, nur zu starrsinnig festgehalten hattest, freiwillig und aus eigenem Antriebe 
+von dir warfst, ward meine Erlösung vollbracht, dies war ja eben die schlimme Bedingung, die dieselbe, obgleich ein jeder sie an jedem Ort und zu jeder Stunde erfüllen konnte, ungewisser machte, wie ein Kampf mit Ungeheuern und Drachen.«</said> 
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

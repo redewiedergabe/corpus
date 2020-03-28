@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>24. Des Königs Schatzkammer</title>
+             <author>Spiegel, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Spiegel,_Karl_24__Des_Koenigs_Schatzkammer.tg38_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">24. Des Königs Schatzkammer</f>
+         <f name="author">Spiegel, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Dem Hans ging es nicht schlecht. Da er fleißig und tüchtig war, bekam er leicht überall einen Dienst. Aber nirgends hielt er es lange aus; hatte er etwas Geld beisammen, so war er allemal eines schönen Tages verschwunden, er wollte weit umeinanderkommen und die Welt sehen. 
+                  Einst war Hans wieder von einem Dienstherrn ausgeschlitzt und wanderte der Hauptstadt zu. Er wollte auch das Leben in einer großen Stadt kennen lernen; er hatte schon viel davon gehört und war in seinem Leben (»zelattig«) noch nie in eine große Stadt gekommen. Als nun Hans zur Stadt hineinging und ein lustiges Stücklein pfiff, schaute ein Mann zum Fenster heraus. Diesem gefiel der Hans und <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">rief</seg> vom Fenster aus dem Hans zu,</seg> <said id="1" mode="indirect" content="speech" level="1">er möge zu ihm ins Haus kommen.</said> <said id="2" mode="reported" content="speech" level="1" prag="yes"><seg id="3" type="speaker">Hans</seg> ließ sich dies nicht zweimal <seg id="2" type="intExpr">sagen</seg></said> und ging in das Haus <seg id="3" type="frame" pos="start">und <seg id="3" type="speaker">fragte</seg>,</seg><said id="3" mode="indirect" content="speech" level="1"> was man von ihm wolle.</said><said id="4" mode="direct" content="speech" level="1"> »Du bist ein lustiger Patron«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">sagte</seg> der <seg id="4 8" type="speaker">Mann</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="intExpr"><said id="5" mode="reported" content="speech" level="2" nonfact="yes">sag</said></seg>, wo kommst du her, wo willst du hin und was hast du vor?«</said> <said id="6" mode="reported" content="speech" level="1"><seg id="6" type="speaker">Hans</seg> <seg id="6" type="intExpr">erzählte</seg>, wie es ihm seither ergangen</said>, <said id="7" mode="freeIndirect" content="speech" level="1">jetzt wolle er sich um einen Dienst in der Stadt umsehen.</said> <said id="8" mode="direct" content="speech" level="1">»Du bist mein Mann und der richtige Kerl, den ich brauche. Paß auf, <seg id="9" type="frame" pos="start">was <seg id="9" type="speaker">ich</seg> dir <seg id="9" type="intExpr">sage</seg>:</seg> <said id="9" mode="direct" content="speech" level="2">›Ich habe einen Sohn, einen ganz blöden Kerl, der kein bißchen Leben hat, den richt mir her und mach einen lustigen Kerl daraus; geh fort mit ihm hinaus in die Welt, Geld brauchst du nicht zu sparen.‹</said>«</said> Hans hüpfte vor Freude wie ein Distelfink; so etwas hätte er sich nie träumen lassen. 
+                  Hans ging gleich ans Werk, kaufte sich neue Kleider und alles, was er noch zum Reisen nötig hatte, füllte seinen Ledergurt mit lauter Dukaten und hoppediheh dahin gings in die Welt hinaus. Nach einem halben Jahre kam Hans und sein Begleiter wieder in die Stadt zurück, sein Geld war all. <said id="10" mode="reported" content="thought" level="1"><seg id="10" type="speaker">Hans</seg> hatte als braver Junge natürlich auch an seine Eltern <seg id="10" type="intExpr">gedacht</seg> </said>und denselben von dem Gelde zukommen lassen. 
+                  Nachdem Hans sich wieder eine Zeit lang in der Stadt aufgehalten hatte, füllte der Alte wieder den beiden ihre Geldgurte und wieder ging es in die Welt hinaus. 
+                  So ging das Ding einige Jahre fort. Hans war jetzt ein ganz ausgewichster Kerl geworden; denn er hatte viel gesehen und viel gelernt; auch sein Begleiter, der Sohn seines Herrn, war jetzt ein aufgeräumter und tüchtiger Bursche, woran der Alte seine Hexenfreude hatte. 
+                  Als die beiden wieder einmal heim kamen, fanden sie, daß der Alte recht schlecht (krank) war. Eines Tages ließ <seg id="11" type="speaker">er</seg> Hans an sein Bett kommen<seg id="11" type="frame" pos="start"> und <seg id="11" type="intExpr">sprach</seg> zu ihm:</seg><said id="11" mode="direct" content="speech" level="1"> »Hans ich habe dich gern, so gern wie meinen eigenen Sohn, und weil du ein heller Kopf bist, <said id="12" mode="reported" content="speech" level="2" nonfact="yes">so will <seg id="12" type="speaker">ich</seg> dir ein Geheimnis <seg id="12" type="intExpr">sagen</seg>.</said> In der hintern Kammer sind zwei Stubendielen; wenn du drauf klopfst, so gibt es einen hohlen Ton. Diese Dielen hebe in die Höhe und du siehst eine Treppe, diese gehst du nunter und in dem Gang, wo du dann kommst, gehst du fort so lange, bis du wieder an eine Treppe kommst. Diese gehst du nauf und dort findest du einen kleinen, runden Knopf.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

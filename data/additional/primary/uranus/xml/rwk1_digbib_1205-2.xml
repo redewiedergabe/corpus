@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Tag Anderer</title>
+             <author>Heyking, Elisabeth von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heiseler,_Henry_von_Der_Begleiter.tg21_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Tag Anderer</f>
+         <f name="author">Heyking, Elisabeth von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">dash none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ein voller Klavierakkord übertönte das Klirren des Glases, Kyrill lehnte sich an die Wand und heftete seinen Blick mit hartnäckiger Bestimmtheit auf Sara, die beim er sten Ton der Musik aufgesprungen war und mit einer rätselhaft tiefen Stimme, die kein Mensch in diesem jungen und schmächtigen Körper hätte vermuten können, zu singen anhub. <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">Wer singt nur aus ihr heraus</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">dachte</seg> der <seg id="2" type="speaker">Rittmeister</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">das ist doch nicht diese junge Zigeunerin, es ist ein Land oder ein Volk oder ein Geist oder der Teufel ...</said> und bald hatte die Frage nach dem eigentlichen Urheber dieses dunklen Singens alle übrigen Vorstellungen aus Kyrills Hirn verdrängt <said id="3" mode="reported" content="speech" level="1">und er begleitete in Gedanken den Gesang mit einem hastig wiederholten: <said id="4" mode="direct" content="speech" level="2">wer? wer? wer?</said> im Takte der Melodie.</said> Als die Musik verstummt war und Sara wieder fast regungslos in der Mitte ihrer Gefährtinnen saß,<seg id="5" type="frame" pos="start"> <seg id="5" type="intExpr">schien</seg> es dem <seg id="5" type="speaker">Rittmeister</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" border="yes">als wäre die Welt jetzt in ihren, wesenlosen Schlaf der Wirklichkeit zurückgefallen und das eigentlich wahre Leben, das Leben des Traums, sei unwiederbringlich vorüber.</said> <said id="7" mode="direct" content="thought" level="1">Festhalten!</said> <seg id="7" type="frame" pos="mid">– <seg id="7" type="intExpr">dachte</seg> <seg id="7" type="speaker">er</seg> –</seg> <said id="7" mode="direct" content="thought" level="1" nonfact="yes">nur jetzt nicht loslassen, sonst ist alles vorbei!</said> – und schon hatte er den Leiter des Chors, einen ältlichen Zigeuner mit glattem Scheitel und hängendem Schnurrbart, zu sich herangewinkt <seg id="8" type="frame" pos="start">und ihm seine <seg id="8" type="intExpr">Forderung</seg>,</seg> <said id="8" mode="indirect" content="speech" level="1">daß er Sara haben müsse und dem Chor gegenüber zu jeder Entschädigung bereit sei</said>, wie einen Revolver auf die Brust gesetzt. Der Zigeuner zog Sara und deren Mutter in die Verhandlung, doch Sara setzte <said id="9" mode="reported" content="speech" level="1">allen Mitteln der Überredung</said> einen so still-entschlossenen Widerstand entgegen, daß Kyrill sich die Wucht der Enttäuschung fast wie eine Ohnmacht auf sein Herz legen fühlte; <seg id="10" type="frame" pos="start">doch raffte <seg id="10" type="speaker">er</seg> sich noch einmal zusammen, warf <seg id="10" type="intExpr">mit den Worten:</seg></seg> <said id="10" mode="direct" content="speech" level="1" nonfact="yes">da zähle!</said> seine gefüllte Brieftasche in die geschickt ausgestreckten Hände des Chorleiters <seg id="11" type="frame" pos="start">und <seg id="11" type="intExpr">fügte</seg> noch <seg id="11" type="intExpr">hinzu</seg>,</seg> <said id="11" mode="indirect" content="speech" level="1">daß der Chor die Tasche behalten dürfe, sofern ihm, dem Rittmeister, Sara für die kurze Zeit seines Urlaubs überlassen werde.</said> Der Zigeuner legte nach einer kurzen Prüfung die Brieftasche mit Überwindung in des Rittmeisters Hände zurück <said id="12" mode="reported" content="speech" level="1">und führte 
+mit Zähigkeit die Verhandlung weiter.</said> Kyrill aber wandte sich mit dem verlorenen Gesichtsausdruck eines Vabanque -Spielers von der streitenden Gruppe ab und setzte sich an den Tisch zu seinen Freunden, wo er ohne Teilnahme die folgenden Lieder des Chors an seinen Ohren vorbeirauschen ließ und nicht einmal aufblickte, <said id="13" mode="reported" content="speech" level="1">als der Chor nach Verlauf einer Viertelstunde seine Vorträge beendet hatte</said> und alle Männer und Frauen, Sara mit eingeschlossen, einer nach dem anderen hinter der Tür verschwanden. <seg id="14" type="frame" pos="start">Der <seg id="14" type="speaker">Rittmeister</seg> wußte später selbst nicht mehr zu <seg id="14" type="intExpr">erzählen</seg>,</seg><said id="14" mode="indirect" content="speech" level="1" nonfact="yes"> in welcher Stimmung er die übrige Zeit am Tisch seiner Freunde verbracht hatte</said>, denn der Augenblick, als er später durch das Portal in die Nacht hinaustrat und im Schatten des Hauses die dunklen Gestalten Saras und des alten Zigeuners auf sich zugehen sah, erfüllte ihn mit einem so erschütternden Übermaß von Glück, daß alles Vorangegangene wie mit einem Schlage ausgelöscht war und er eine Zeitlang nach Luft ringen mußte, wie ein Ertrinkender, der die Wasser eines großen und von der Sonne beschienenen Meeres über sich zusammenschlagen fühlt. Die Brieftasche verschwand sogleich unter dem schäbigen Überzieher des Zigeuners und Kyrill fuhr mit Sara durch die trotz der vorgerückten Nachtstunde noch immer nicht stillgewordenen Straßen nach seiner Wohnung.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

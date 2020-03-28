@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Zu spät</title>
+             <author>Meysenbug, Malwida Freiin von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meysenbug,_Malwida_Freiin_von_Zu_spaet.tg9_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1907</f>
+         <f name="decade">1900</f>
+         <f name="title">Zu spät</f>
+         <f name="author">Meysenbug, Malwida Freiin von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Frau v. Sch... war aufgestanden und, wie um etwas zu holen, in das Nebenzimmer gegangen. Die Fürstin, <said id="1" mode="reported" content="thought" level="1" border="yes"><seg id="1 " type="speaker">die</seg> den Zusammenhang schnell <seg id="1" type="intExpr">begriff</seg></said>, litt für ihre Freundin <said id="2" mode="reported" content="speech" level="1">und suchte das <seg id="2" type="intExpr">Gespräch</seg> zu wenden</said>, um so mehr, da es ihr um Irenes willen sehr unangenehm war. <said id="3" mode="reported" content="speech" level="1">Aber die <seg id="3" type="speaker">Prinzessin</seg> <seg id="3" type="intExpr">bemächtigte</seg> sich des Themas mit Leidenschaft.</said> 
+                  <said id="4" mode="direct" content="speech" level="1">» Ah voilà!«</said> <seg id="4" type="frame" pos="mid"><seg id="4" type="intExpr">rief</seg> <seg id="4" type="speaker">sie</seg>,</seg> <said id="4" mode="direct" content="speech" level="1">»eine neue Illustration zu der unvergleichlichen Vortrefflichkeit von Madame C...! Also da hat sie wieder einen vielleicht seiner Familie und seinen Pflichten entführt! O ihr blinden Männer! Wie wehrlose Mücken schwärmt ihr um die gefährliche Flamme herum, bis ihr hineintaumelt und verbrennt. Was kümmert es die Flamme? Sie brennt ungerührt weiter und verschlingt neue Opfer.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Nun, das ist die Natur der Flamme, meine Gnädige,«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">versetzte</seg> der <seg id="5" type="speaker">Herr</seg>;</seg> <said id="5" mode="direct" content="speech" level="1">»<said id="6" mode="reported" content="speech" level="2" nonfact="yes">sollen <seg id="6" type="speaker">wir</seg> sie deshalb <seg id="6" type="intExpr">schmähen</seg></said>, weil ihr reizendes Licht so übermächtig zauberisch lockt, daß die Mücke im Sehnsuchtsdrang sich in diesen seligen Tod stürzt?«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">» Ah pardon! Hier hört der Vergleich auf,«</said> <seg id="7" type="frame" pos="mid"><seg id="7" type="intExpr">versetzte</seg> die <seg id="7" type="speaker">Prinzessin</seg>, indem ihr mageres, ohnehin etwas kupferiges Gesicht von Eifer noch mehr erglühte;</seg> <said id="7" mode="direct" content="speech" level="1">»<said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">die <seg id="8" type="speaker">Flamme</seg> mordet <seg id="8" type="intExpr">bewußtlos</seg></said>, deshalb ist sie unschuldig;<said id="9" mode="reported" content="thought" level="2" border="yes"> eine Frau, die wie <seg id="9" type="speaker">Madame C</seg>... die Kinderschuhe längst ausgetreten hat, die einen guten, rechtschaffenen Mann und ein Kind hat, die <seg id="9" type="intExpr">weiß</seg>, was sie tut.</said> Und das ist ja eben das Abscheuliche an einer Kokette, daß sie mit kaltem Blut, selbst ungerührt, ihre Opfer in das Verderben lockt.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Meine Beste, höre doch auf mit diesem ewigen Verfolgen von Madame C....«</said> <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">sagte</seg> die <seg id="10" type="speaker">Fürstin</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="thought" level="2">du ziehst nur den <seg id="11" type="intExpr">Verdacht</seg> auf dich</said>, du habest ein persönliches Motiv dabei, was bei deinem edlen Herzen gewiß nicht der Fall ist. Eine Frau von großem Talent, die, auf dieses Talent gestützt, allein hinaustritt in die Welt, hat bei den heutigen sozialen Begriffen noch einen so schweren Stand, daß es fast unmöglich für sie ist, <said id="12" mode="reported" content="thought" level="2">nicht gegen hergebrachte <seg id="12" type="intExpr">Meinungen</seg> anzustoßen</said>, wenn sie den mannigfaltigen, reichen Bedürfnissen einer Künstlernatur genügen will, und das muß sie doch um ihres Talentes willen. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">gestehe</seg>, </seg><said id="13" mode="indirect" content="speech" level="2">ich bin selbst sehr begierig auf die Bekanntschaft mit Madame C..., <said id="14" mode="reported" content="thought" level="3">um <seg id="14" type="speaker">mir</seg> mein eigenes <seg id="14" type="intExpr">Urteil zu bilden</seg></said></said> <seg id="15" type="frame" pos="start">und <seg id="15" type="speaker">ich</seg> <seg id="15" type="intExpr">hoffe</seg>,</seg> <said id="15" mode="indirect" content="thought" level="2">wir begegnen ihr irgendwo auf der Reise.</said>«</said> 
+                  Nach mehreren Tagen kehrte Iwan zurück. <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Frau v. Sch...</seg>, die nicht mehr daran <seg id="16" type="intExpr">zweifelte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="1" nonfact="yes">daß es ihr Sohn gewesen sei, der mit Ludmilla zusammen gesehen worden war</said>, war äußerst unwohl von der tiefen, schmerzlichen Erschütterung, die ihr dieser erste Betrug, den sie von ihm erlitten hatte, verursachte. Sie verbrachte ihre Nächte in Tränen und ihre Tage in dumpfem Brüten. <said id="17" mode="reported" content="speech" level="1">Vergebens wollte <seg id="17" type="speaker">Sergei</seg> es ihr <seg id="17" type="intExpr">ausreden</seg>, daß es Iwan gewesen sei.</said> Sie war aus ihrem Vertrauenstraum geweckt und wie es oft zu gehen pflegt bei weichen, hingebenden Naturen, wenn sie gewaltsam zum Bewußtsein gebracht werden: <said id="18" mode="reported" content="thought" level="1">das <seg id="18" type="intExpr">Mißtrauen</seg> war für immer bei <seg id="18" type="speaker">ihr</seg> eingezogen.</said> Sie lag unwohl zu Bett, als Iwan am Abend ankam. Sie wollte sich zwingen, kalt zu sein, aber als der Liebling nun vor ihr stand <seg id="19" type="frame" pos="start">und der <seg id="19" type="intExpr">Gedanke</seg> über <seg id="19" type="speaker">sie</seg> kam,</seg> <said id="19" mode="indirect" content="thought" level="1">daß dieser Sohn, ihr Stolz, ihre Hoffnung für die Zukunft, sie so getäuscht, so absichtlich verletzend gehandelt hatte</said>, da verwandelte sich ihr Zorn in grenzenlosen Schmerz und sie weinte laut.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

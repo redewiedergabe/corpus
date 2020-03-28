@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gräfin Ursula</title>
+             <author>Riehl, Wilhelm Heinrich von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Riehl,_Wilhelm_Heinrich_von_Graefin_Ursula.tg29_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1862</f>
+         <f name="decade">1860</f>
+         <f name="title">Gräfin Ursula</f>
+         <f name="author">Riehl, Wilhelm Heinrich von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Den ganzen Tag saß er über der Bibel und den theologischen Lehr- und Streitschriften, die seine kleine Bibliothek bildeten. 
+                     Das ging so mehrere Wochen. 
+                     Da kam eines Tags der gräfliche Rat Sprenger im Sturm angeritten an das ärmliche Bauernhaus, wo Niesener jetzt wohnte. Eilfertig, daß Mann und Frau erschraken, trat <seg id="1" type="speaker">er</seg> in die Stube, kaum grüßend. 
+                     <said id="1" mode="direct" content="speech" level="1">»<seg id="23" type="speaker">Ich</seg> wollte Euch im Vorübergehen nur <said id="23" mode="reported" content="speech" level="2" prag="yes">eine <seg id="23" type="intExpr">Warnung</seg> und einen guten <seg id="23" type="intExpr">Rat</seg> ins Haus werfen.</said> Niesener, macht Euch aus dem Staube! Verlaßt diesen Ort heute noch, säumt keine Stunde, oder es wird Euch übel ergehen.« </said>
+                    <said id="2" mode="direct" content="speech" level="1"> »<seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Ich</seg> habe dem Grafen <seg id="3" type="intExpr">das Wort gegeben</seg>,</seg> <said id="3" mode="indirect" content="speech" level="2" metaph="yes">hier zu bleiben</said>; ich werde mich dem Gericht stellen.«</said> 
+                     <said id="4" mode="direct" content="speech" level="1">»Ach, <said id="24" mode="reported" content="thought" level="2" border="yes"><seg id="24" type="speaker">Ihr</seg> <seg id="24" type="intExpr">mißversteht</seg> mich</said>, Pfarrer. Um den Grafen und die Untersuchung handelt es sich jetzt gar nicht. <said id="5" mode="reported" content="speech" level="2" nonfact="yes"><seg id="5" type="speaker">Ich</seg> darf nicht alles <seg id="5" type="intExpr">aussprechen</seg></said>, <said id="6" mode="reported" content="thought" level="2" border="yes">was <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">weiß</seg>. </said><said id="25" mode="reported" content="speech" level="2">Aber nur das eine <seg id="25" type="intExpr">sage</seg> <seg id="25" type="speaker">ich</seg> Euch als Euer wahrer Freund</said>, verlaßt Rennerod zur Stunde und geht an einen sicheren Ort, geht meinetwegen nach Hadamar und stellt Euch unter den Schutz der Herrschaften selber; dann habt Ihr ja Euer Wort dem Sinn und Wesen nach gehalten.«</said> 
+                   <said id="8" mode="direct" content="speech" level="1">  »Und dennoch würde ich es brechen,«</said><seg id="8" type="frame" pos="mid"> <seg id="8" type="intExpr">rief</seg> der unbeugsame <seg id="8" type="speaker">Pfarrer</seg>,</seg> <said id="8" mode="direct" content="speech" level="1">»<seg id="9" type="frame" pos="start">denn <seg id="9" type="speaker">ich</seg> habe <seg id="9" type="intExpr">geschworen</seg>,</seg> <said id="9" mode="indirect" content="speech" level="2">in Rennerod zu bleiben.</said>«</said> 
+                     <seg id="10" type="frame" pos="start">Die <seg id="10" type="speaker">Pfarrerin</seg> <seg id="10" type="intExpr">drang</seg> unter Thränen <seg id="10" type="intExpr">in</seg> den Rat,</seg><said id="10" mode="indirect" content="speech" level="2"> <said id="11" mode="reported" content="speech" level="2" nonfact="yes">daß <seg id="11" type="speaker">er</seg> die drohende Gefahr nur um etwas näher <seg id="11" type="intExpr">bezeichnen</seg> möge.</said></said> 
+                     <said id="12" mode="direct" content="speech" level="1">»Habt Ihr nicht gehört, Niesener, <said id="13" mode="reported" content="speech" level="2">wie <seg id="13" type="speaker">ich</seg> neulich an dem unseligen Tag von der Pfaffenhetze im Braunfelsischen <seg id="13" type="intExpr">erzählte</seg>?</said> Der kaiserliche Kommandant stiehlt den Reformierten ihren Pfarrer aus dem Bett, dafür stehlen ihm die Holländer seinen Prior aus der Klosterzelle – oder vielleicht auch aus dem Klosterkeller, vom Weihrauchfaß oder vom Weinfaß hinweg – gleichviel.<seg id="14" type="frame" pos="start"> <seg id="14" type="intExpr">Meint</seg> <seg id="14" type="speaker">Ihr</seg> denn,</seg><said id="14" mode="indirect" content="thought" level="2" nonfact="yes"> <seg id="15" type="frame" pos="start">die benachbarten katholischen <seg id="15" type="speaker">Herren</seg>, die der holländische Oberst in Soest auch bereits mit dem Jesuitenfang zu molestieren beginnt, könnten nicht gleichfalls <seg id="15" type="intExpr">auf den Gedanken kommen</seg>,</seg> <said id="15" mode="indirect" content="thought" level="3">so ein Dutzend reformierte Pfarrer aus der Nachbarschaft als Repressalie wegzufangen?</said></said> Und da wäret Ihr der erste, Niesener. Besonders den Kurkölnern sitzet Ihr gar bequem hier in Rennerod; die brauchen nur die Hand auszustrecken, so haben sie Euch. <said id="16" mode="reported" content="speech" level="2">Und da <seg id="16" type="speaker">ich</seg> mein Geheimnis nun doch so weit <seg id="16" type="intExpr">ausgeplaudert</seg></said>, so mag es auch ganz heraus; denn wahrlich, die Gelassenheit, womit Ihr das alles anhöret – ein anderer wäre schon davongelaufen,<said id="17" mode="reported" content="speech" level="2"> ehe <seg id="17" type="speaker">ich</seg> nur <seg id="17" type="intExpr">ausgesprochen</seg></said> – <said id="18" mode="reported" content="speech" level="2" nonfact="yes" metaph="yes">könnte einen <seg id="18" type="speaker">Heiligen</seg> zum <seg id="18" type="intExpr">Fluchen</seg> bringen.</said> Ihr stehet auf der Liste, Niesener, obenan auf der Liste der Kölnischen, und wenn Ihr Euch nicht gleich aus dem Staube macht, dann sitzt Ihr in ein paar Tagen in Köln im Turm, und man wird das doppelte Lösegeld für Euch fordern wie für den Pfarrer von Dauborn. <said id="19" mode="reported" content="speech" level="2" nonfact="yes"><seg id="19" type="speaker">Frau Pfarrerin</seg>, <seg id="19" type="intExpr">redet</seg> Eurem Manne <seg id="19" type="intExpr">zu</seg>!</said> Es geht Euch hier freilich noch so leidlich wohl«</said> der <seg id="20" type="speaker">Rat</seg> schaute bei diesen Worten mit einem etwas verdächtigen Blick in der kahlen Stube umher –<said id="20" mode="direct" content="speech" level="1"> »und wenn Ihr so ins Weite hinauszögert, möchte es Euch mit den Kindern wohl anfangs etwas schlechter gehen. Aber besser Kraut und Rüben in Ruh', als einen gemästeten Ochsen in Unruh'.«</said> 
+                    <said id="21" mode="direct" content="speech" level="1"> »Ach, lieber Herr Rat,«</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">entgegnete</seg> die <seg id="21" type="speaker">Pfarrerin</seg>,</seg> <said id="21" mode="direct" content="speech" level="1">»von gemästeten Ochsen haben wir seit Jahr und Tag nichts mehr geschmeckt und essen selbst Kraut und Rüben in Unruh'. <said id="22" mode="reported" content="thought" level="2" metaph="yes">Aber wenn mein <seg id="22" type="speaker">Mann</seg> sich einmal einen <seg id="22" type="intExpr">Gedanken</seg> fest in den Kopf gesetzt hat</said>, den könnt Ihr ihm nicht herausbringen, und den bringe ich ihm auch nicht heraus.
+</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

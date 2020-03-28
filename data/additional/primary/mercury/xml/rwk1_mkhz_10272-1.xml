@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">BZ_1898_02_16.txt_5.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1898</f>
+         <f name="decade">1890</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.badener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der ansprechendste Brief und die besten Zeugnisse
+                        waren von Fräulein Mary Lammont eingereicht
+                        worden. Die Hoffnungen und Befürchtungen, <said id="1" mode="reported" content="writing" level="1">unter
+                        denen dieser Brief <seg id="1" type="intExpr">geschrieben</seg> worden war</said>, können
+                        wohl errathen, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">nicht <seg id="2" type="intExpr">geschildert</seg> werden</said>; es hing für
+                        sie ja zuviel ab von dem Erfolg dieser Bewerbung.
+                        Das Geld, das die Eltern für ihre Ausbildung
+                        geben konnten, war gänzlich verbraucht, mehr konnten
+                        sie nicht schicken. Fand Mary nicht sogleich eine
+                        Stellung, so musste sie auf ihr einsames Dorf
+                        zurückkehren und von dort aus würde es so schwer
+                        sein, einen Posten zu finden. Gewiss, daheim würde
+                        sie willkommen geheißen, aber doch blieb ihr dann
+                        das Gefühl, dass sie eine Last sei, <seg id="3" type="frame" pos="start">wo <seg id="3" type="speaker">sie</seg> <seg id="3" type="intExpr">gehofft</seg>
+                        hatte,</seg><said id="3" mode="indirect" content="thought" level="1"> eine Hilfe zu werden.</said>
+               Sie stellte sich pünktlich auf die Minute in
+                        dem Geschäftslocale ein. Herr Braun war nicht ganz
+                        so pünktlich. Sie wartete im Vorzimmer, bis ein
+                        freundliches: <said id="4" mode="direct" content="speech" level="1">„Da kommt der <seg id="5" type="speaker">Chef</seg>, <said id="5" mode="reported" content="speech" level="2" nonfact="yes">um Sie zu
+                        <seg id="5" type="intExpr">sprechen</seg></said>“</said>, von dem <seg id="4" type="speaker">Laufjungen</seg> sie veranlasste, ihre
+                        Blicke der Thür zuzuwenden. In ihrer zitternden
+                        Hand hielt sie ein Empfehlungsschreiben von dem
+                        Director der Handelsschule, <said id="6" mode="reported" content="speech" level="1">wie hart <seg id="6" type="speaker">sie</seg> auch mit
+                        sich selbst <seg id="6" type="intExpr">sprach</seg></said>, Thränen traten ihr in die Augen,
+                        denn es hing ja zuviel von dem Erfolge dieser
+                        Vorstellung ab.
+               Da sah sie, dass er kein Fremder war und
+                        plötzliche Hoffnung, ja Vertrauen zog in ihr Herz
+                        ein. Er erkannte sie ebenso schnell und eine dunkle
+                        Wolke des Unmuthes legte sich auf seine Stirn beim
+                        Anblick des lieblichen Gesichtes, das so ängstlich aus
+                        der Umrahmung einer billigen schwarzen Pelzboa
+                        hervorsah.
+               Ohne seine Cigarre aus dem Munde zu nehmen,
+                        eilte <seg id="7" type="speaker">er</seg> an ihr vorüber <seg id="7" type="frame" pos="start">mit der kurzen <seg id="7" type="intExpr">Versicherung</seg>,
+ </seg>                       <said id="7" mode="indirect" content="speech" level="1">dass er augenblicklich zu ihren Diensten stehen werde.</said>
+               Mary sank auf ihren Stuhl zurück; sie empfand
+                        Mitleid mit ihm, da ihn doch augenscheinlich Geschäftssorgen drückten.
+              <said id="8" mode="direct" content="speech" level="1"> „Himmel,“</said> <seg id="8" type="frame" pos="mid"><seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg> gerade zu dem älteren
+                        Chef des Geschäftes,</seg> <said id="8" mode="direct" content="speech" level="1">„das fehlte auch noch; Fräulein
+                        Lammont ist jene kleine Straßenpoussade,<said id="9" mode="reported" content="speech" level="2"> von der
+                        <seg id="9" type="speaker">ich</seg> Ihnen neulich <seg id="9" type="intExpr">erzählte</seg>.</said> Nun kann man all die
+                        Mühe des Durchsehens der Bewerbungen noch einmal
+                        haben — oder nein, ich habe ja eine andere Bewerberin eine Stunde später bestellt, nehmen wir die.“
+ </said>                        
+               
+              <said id="10" mode="direct" content="speech" level="1"> „Aber warum?“</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">fragte</seg> der <seg id="10 11" type="speaker">Compagnon</seg></seg> mit
+                        der Freiheit seines väterlichen Freundes.<said id="11" mode="direct" content="speech" level="1"> „Fräulein
+                        Lammont’s Empfehlungen sind ausgezeichnet und <seg id="12" type="frame" pos="start">wir
+                        <seg id="12" type="intExpr">hören</seg>,</seg><said id="12" mode="indirect" content="speech" level="2"> dass sie einer guten Stellung sehr bedarf</said>,
+                        auch scheint sie sich ausgezeichnet für unseren Posten
+                        zu eignen und sie ist eine Dame.“</said>
+                         
+              <said id="13" mode="direct" content="speech" level="1"> „Zum Henker mit den Empfehlungen! Ich will
+                        in meinem Geschäfte keine Dame, die auf der
+                        Straße mit mir kokettiert.“</said>
+                         
+               Der alte <seg id="14" type="speaker">Herr</seg> lächelte: <said id="14" mode="direct" content="speech" level="1">„Sollten Sie gerade
+                        darum den Stab über sie brechen?“</said>
+                         
+              <said id="15" mode="direct" content="speech" level="1"> „Schulmeistern Sie nicht! Geschäft ist Geschäft,
+                        und ich liebe gemischte Getränke nicht. Nette Ordnung könnte ich in meinem Bureau halten, wenn ich
+                        mich damit abgäbe, meiner Stenographin Veilchensträuße zu überreichen. Außerdem will ich auch hier
+                        im Geschäfte vor meiner Frau nicht erröthen müssen,
+                        wenn sie mich abholt. Sollte ich den süßen braunen
+                        Augen auf der Straße wieder begegnen, dann
+                        freilich —“</said> ein Lachen schloss den Satz.<said id="16" mode="direct" content="speech" level="1"> „Jetzt aber
+                        müssen Sie mit ihr fertig werden. Sie sah aus, als
+                        ob sie weinen wollte, als sie mich oben sah und ich
+                        kann weinerliche Frauenzimmer nicht leiden.“</said>
+                         
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

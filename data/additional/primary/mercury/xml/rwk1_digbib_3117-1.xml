@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Bergkristall</title>
+             <author>Stifter, Adalbert</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Stifter,_Adalbert_Bergkristall.tg139_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Bergkristall</f>
+         <f name="author">Stifter, Adalbert</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es verschwand nicht mehr so oft und nicht mehr auf so lange Zeit wie früher Nach einer Weile vernahmen sie in der stillen blauen Luft schwach, sehr schwach etwas wie einen lange anhaltenden Ton aus einem Hirtenhorne. Wie aus Instinkt schrieen beide Kinder laut. Nach einer Zeit hörten sie den Ton wieder. Sie schrieen wieder, und blieben auf der nämlichen 
+Stelle stehen. Das Feuer näherte sich auch. Der Ton wurde zum dritten Male vernommen, und dieses Mal deutlicher. Die Kinder antworteten wieder durch lautes Schreien. Nach einer geraumen Weile erkannten sie auch das Feuer. Es war kein Feuer, es war eine rote Fahne, die geschwungen wurde. Zugleich ertönte das Hirtenhorn näher, <said id="1" mode="reported" content="speech" level="1">und die <seg id="1" type="speaker">Kinder</seg> <seg id="1" type="intExpr">antworteten</seg>.</said> 
+                 <said id="2" mode="direct" content="speech" level="1"> »Sanna,«</said> <seg id="2" type="frame" pos="mid"><seg id="2" type="intExpr">rief</seg> der <seg id="2" type="speaker">Knabe</seg>, </seg><said id="2" mode="direct" content="speech" level="1">»da kommen Leute aus Gschaid, ich kenne die Fahne, es ist die rote Fahne, welche der fremde Herr, der mit dem jungen Eschenjäger den Gars bestiegen hatte, auf dem Gipfel aufpflanzte, daß sie der Herr Pfarrer mit dem Fernrohre sähe, was als Zeichen gälte, daß sie oben seien, und welche Fahne damals der fremde Herr dem Herrn Pfarrer geschenkt hat. Du warst noch ein recht kleines Kind.«</said> 
+                 <said id="3" mode="direct" content="speech" level="1"> »Ja, Konrad.«</said> 
+                  Nach einer Zeit sahen die Kinder auch die Menschen, die bei der Fahne waren, kleine schwarze Stellen, die sich zu bewegen schienen. Der Ruf des Hornes wiederholte sich von Zeit zu Zeit, und kam immer näher. <said id="4" mode="reported" content="speech" level="1">Die <seg id="4" type="speaker">Kinder</seg> <seg id="4" type="intExpr">antworteten</seg> jedes Mal. </said>
+                  Endlich sahen sie über den Schneeabhang gegen sich her mehrere Männer mit ihren Stöcken herabfahren, die die Fahne in ihrer Mitte hatten. Da sie näher kamen, erkannten sie dieselben. Es war der Hirt Philipp mit dem Horne, seine zwei Söhne, dann der junge Eschenjäger, und mehrere Bewohner von Gschaid. 
+                  <said id="5" mode="direct" content="speech" level="1">»Gebenedeit sei Gott,«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">schrie</seg> <seg id="5" type="speaker">Philipp</seg>,</seg><said id="5" mode="direct" content="speech" level="1"> »da seid ihr ja. Der ganze Berg ist voll Leute. Laufe doch einer gleich in die Sideralpe hinab, und läute die Glocke, daß die dort hören, daß wir sie gefunden haben, und einer muß auf den Krebsstein gehen und die Fahne dort aufpflanzen, daß sie dieselbe in dem Tale sehen, und die Pöller abschießen, <said id="6" mode="reported" content="thought" level="2" nonfact="yes" border="yes">damit <seg id="6" type="speaker">die</seg> es <seg id="6" type="intExpr">wissen</seg>, die im Millsdorfer Walde suchen</said>, und damit sie in Gschaid die Rauchfeuer anzünden, die 
+in der Luft gesehen werden, und alle, die noch auf dem Berge sind, in die Sideralpe hinab bedeuten. Das sind Weihnachten!« 
+ </said>                <said id="7" mode="direct" content="speech" level="1"> »Ich laufe in die Alpe hinab«</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">einer</seg>.</seg> 
+                 <said id="8" mode="direct" content="speech" level="1"> »Ich trage die Fahne auf den Krebsstein«</said><seg id="8" type="frame" pos="end">, <seg id="8" type="intExpr">sagte</seg> ein <seg id="8" type="speaker">anderer</seg>.</seg> 
+                <said id="9" mode="direct" content="speech" level="1">  »Und wir werden die Kinder in die Sideralpe hinab bringen, so gut wir es vermögen, und so gut uns Gott helfe«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">Philipp</seg>.</seg> 
+                  Ein Sohn Philipps schlug den Weg nach abwärts ein, und der andere ging mit der Fahne durch den Schnee dahin. 
+                  Der Eschenjäger nahm das Mädchen bei der Hand, der Hirt Philipp den Knaben. Die andern halfen, wie sie konnten. So begann man den Weg. Er ging in Windungen Bald gingen sie nach einer Richtung, bald schlugen sie die entgegengesetzte ein, bald gingen sie abwärts, bald aufwärts. Immer ging es durch Schnee, immer durch Schnee, und die Gegend blieb sich beständig gleich. Über sehr schiefe Flächen taten sie Steigeisen an die Füße, und trugen die Kinder.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

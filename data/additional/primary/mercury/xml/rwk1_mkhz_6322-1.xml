@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt24_1869_4.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Es kam ihm
+                        daher nichts erwünschter, <said id="6" mode="reported" content="writing" level="1">als ein <seg id="6" type="intExpr">Ruf</seg> nach Jena auf den germanistischen
+                        und allgemein sprachwissenschaftlichen Lehrstuhl.</said> In Prag war er heimathlos gewesen, in Jena, wo er seine Lehrthätigkeit im Jahre 1857
+                        eröffnete, fand er wieder eine Heimath, aus der er sich nicht heraus sehnte
+                        und in welcher er, obwohl seine akademische Stellung als ordentlicher
+                        Honorar=Professor hinsichtlich des Gehalts und der Einkünfte aus den
+                        Kollegiengeldern, die in Jena nicht hoch sind und ziemlich saumselig einzugehen pflegen, keine besonders glänzende war, Tage des Glücks und freudigen Schaffens verlebte. Er besaß das Haus in der Bachgasse, in welchem
+                        J. H. Voß einmal gewohnt hatte; den dahinter liegenden Garten bewirthschaftete er selbst, da konnte man ihn grabend, pflanzend und sonst wie
+                        schaffend antreffen. Er zählte diese Handarbeiten zu seinen liebsten Erholungen, sie machten ihm die Zimmer=Gymnastik, durch die er seinen
+                        Gliedern Kraft und Gelenkigkeit zu erhalten suchte, nicht mehr so nothwendig.
+            <seg id="1" type="speaker">Seine</seg> Vorlesungen in Jena erstreckten sich auf altdeutsche Poesie,<said id="1" mode="reported" content="speech" level="1"> in
+                        deren <seg id="1" type="intExpr">Erklärung</seg></said> <seg id="2" type="speaker">er</seg> sich seine Zuhörer <said id="2" mode="reported" content="speech" level="1">nach vorhergegangenen <seg id="2" type="intExpr">Einleitungen</seg></said>
+                        vielfach selbst üben ließ, und auf Sprachvergleichung. Traten auch <said id="3" mode="reported" content="speech" level="1"><seg id="3" type="speaker">seine</seg>
+                        <seg id="3" type="intExpr">Vorträge</seg></said> nicht im glänzenden Gewande rednerischen Schmuckes auf, sondern konnten Manchem mitunter selbst etwas trocken erscheinen, so hatten
+                        sie doch trotzdem, und zwar <said id="7" mode="reported" content="speech" level="1">weil <seg id="7" type="speaker">er</seg> in höchst methodischer Weise das
+                        Sprachgebäude anschaulich vor den Augen der Zuhörer <seg id="7" type="intExpr">konstruirte</seg></said>, etwas
+                        ungemein Anregendes. Dies und sein einnehmendes Entgegenkommen
+                        gegen die Studirenden, vor denen er sich durchaus nicht, wie dies zuweilen
+                        so beliebt ist, mit dem Nimbus des hochgelahrten Professors umgab, machte
+                        ihn besonders dazu fähig, für den Fortbau seiner Wissenschaft durch Begründung einer Schule zu sorgen, und wenn dies nicht in der Ausdehnung
+                        geschah, in welcher es hätte geschehen können, so lag es einzig an den
+                        beengten Verhältnissen der kleinen Universität, auf der die meisten Studirenden nur den Studien obliegen, welche sie am ersten und besten in
+                        Amt und Brot bringen. <said id="4" mode="indirect" content="thought" level="1" border="yes">Ob Schleicher einmal <said id="8" mode="reported" content="writing" level="1">einen <seg id="8" type="intExpr">Ruf</seg> von Jena
+                        an eine größere Hochschule</said> erhielt</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">ist</seg> <seg id="4" type="speaker">mir</seg> nicht <seg id="4" type="intExpr">bekannt</seg></seg>, zweifelhaft ist's,
+                        ob er denselben angenommen haben würde; am wenigsten dürften ihn wohl
+                        materielle Rücksichten und Vortheile geleitet haben, denn seine schlichte
+                        und gemüthliche Natur ließ ihn in Jena Alles finden, dessen er bedurfte.
+            Von seinen Schriften fallen in die Jenaer Periode, <said id="5" mode="reported" content="speech" level="1">außer den schon
+                        <seg id="5" type="intExpr">erwähnten</seg></said>, noch sein Buch über die deutsche Sprache, in welchem er in
+                        populärer Darstellung das gebildete Publikum mit den Ergebnissen der
+                        Sprachwissenschaft im Allgemeinen und mit dem Wesen der Muttersprache
+                        in den Hauptzügen bekannt machen wollte und wovon ihm noch kurz vor
+                        seinem Tode die Bearbeitung einer zweiten Auflage übertragen wurde -und sein Hauptwerk, das „Compendium der vergleichenden Grammatik des
+                        indogermanischen Sprachstammes“ ( Weimar, 1861--1862 ) , worin eine Zusammenstellung der gesammten indogermanischen Grammatik zum ersten
+                        Mal vollständig geboten wird: ein Buch, welches dem Sprachforscher ein
+                        unentbehrliches Hülfsmittel geworden ist. Auch das Erscheinen einer indogermanischen Chrestomathie, als Beigabe zur Grammatik, hat er noch
+                        erlebt. Andere Zeugnisse seines Fleißes und Scharfsinns hat er theils
+                        ziemlich beendet, theils begonnen hinterlassen; er war mit seiner Thätigkeit so recht im Zuge, als ihm das neidische Schicksal Halt gebot.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

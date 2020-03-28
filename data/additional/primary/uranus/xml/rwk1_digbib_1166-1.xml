@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ellernklipp</title>
+             <author>Fontane, Theodor</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Fontane,_Theodor_Ellernklipp.tg725_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1881</f>
+         <f name="decade">1880</f>
+         <f name="title">Ellernklipp</f>
+         <f name="author">Fontane, Theodor</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ja, das war es. Und er schämte sich vor sich selbst. Aber zuletzt bezwang er's, und nur zweierlei blieb ihm in der Seele zurück: einmal, daß die Hilde kein Kind mehr sei, und zweitens und hauptsächlichst, daß sie sein Kind nicht sei. Diese zweite Wahrnehmung indessen ging niemanden etwas an, und so war es denn lediglich um des ersten Punktes willen, daß er am folgenden Tage die Grissel in seine Stube rief. 
+                     Diese hatte den Türknopf in der Hand behalten und stand auf der Schwelle wie jemand, der rasch wieder fort will; <seg id="1" type="frame" pos="start">als <seg id="1" type="speaker">sie</seg> jedoch <seg id="1" type="intExpr">merkte</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1" border="yes">daß es ein langes und breites geben würde</said>, kam sie näher und stellte sich mit ihrer Schulter bequem an den Ofen, während der Heidereiter in ersichtlicher Erregung auf und ab ging. <seg id="2" type="frame" pos="start">Endlich aber <seg id="2" type="intExpr">begann</seg> <seg id="2" type="speaker">er</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Es ist wegen der Hilde, daß<said id="3" mode="reported" content="speech" level="2" nonfact="yes"> ich mit dir sprechen will.</said> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Ich</seg> <seg id="4" type="intExpr">denke</seg>, Grissel,</seg> <said id="4" mode="indirect" content="thought" level="2"><said id="5" mode="reported" content="thought" level="3">wir sind einerlei Meinung</said> und bleiben gute Freunde.</said> Denn du bist eine verständige Person...«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»All Fruenslüd sinn unverstännig.«</said> 
+                     <said id="7" mode="direct" content="speech" level="1">»<said id="8" mode="reported" content="speech" level="2">Wer sagt das?</said>«</said> 
+                     <said id="9" mode="direct" content="speech" level="1">»Joost.«</said> 
+                     <said id="10" mode="direct" content="speech" level="1">»Joost ist ein Narr«</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">entgegnete</seg> <seg id="10" type="speaker">Baltzer</seg>.</seg> Aber <said id="11" mode="reported" content="speech" level="1">die kleine Zwischenbemerkung</said> war ihm doch gelegen gekommen, <seg id="12" type="frame" pos="start">und <seg id="12" type="speaker">er</seg> <seg id="12" type="intExpr">fuhr</seg> nun freier <seg id="12" type="intExpr">fort</seg>:</seg> <said id="12" mode="direct" content="speech" level="1">»Also wegen der Hilde. Sie ist nun achtzehn, schon ein Viertel drüber, und ist kein Kind mehr. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">denke</seg>,</seg> <said id="13" mode="indirect" content="thought" level="2">sie muß nun aus dem Müßiggang heraus und sich dran gewöhnen, daß sie was unter Pflicht und Obhut hat und nicht so hineinlebt in den Tag</said>, immer bloß bei dem Alten oben oder auf Kunerts-Kamp oder bei Sörgel drüben, der sie verhätschelt und verwöhnt. Das soll nicht sein, und ich will's nicht. Sie muß also Arbeit haben, und die müssen wir ihr geben. <seg id="14" type="frame" pos="start">Da <seg id="14" type="intExpr">mein</seg> <seg id="14" type="speaker">ich</seg> denn,</seg> <said id="14" mode="indirect" content="thought" level="2">wir geben ihr die Milchwirtschaft, das Leinenzeug und die Wäsche...</said> <said id="15" mode="reported" content="thought" level="2" border="yes">Du verstehst?</said>«</said> 
+                     <said id="16" mode="direct" content="speech" level="1">»Wohl. <said id="17" mode="reported" content="thought" level="2" border="yes">Ich versteh.</said>«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Und alles andere bleibt. Und ist bloß noch das mit der Stub oder der Kammer. Ihr waret immer zusammen, und das war gut. <seg id="19" type="frame" pos="start">Aber <seg id="19" type="speaker">ich</seg> <seg id="19" type="intExpr">denke</seg>,</seg> <said id="19" mode="indirect" content="thought" level="2">wir lassen ihr jetzt den Giebel oben allein, und du nimmst unten die Kammer.</said> Die neben der Küche, die hübsche gelbe, die letzten Herbst erst gestrichen ist; da hast du's warm, und ist auch bequemer für dich und brauchst nicht immer treppauf und treppab... <said id="20" mode="reported" content="thought" level="2" border="yes">Du verstehst?</said>«</said> 
+                     
+                        <said id="21" mode="direct" content="speech" level="1">»I, <said id="22" mode="reported" content="thought" level="2" nonfact="yes">was werd ich nicht verstehen!</said>«</said> 
+                     <said id="23" mode="direct" content="speech" level="1">»Und an nichts wird gerührt. Und ist bloß, daß sie jetzt achtzehn geworden und die Tochter vom Hause sein muß. <said id="24" mode="reported" content="speech" level="2">Und wenn sie was sagt</said>, so muß es gelten, und wenn's auch der Joost wär, <said id="25" mode="reported" content="speech" level="2" nonfact="yes">und muß gelten ohne Streit und Widerrede.</said> Denn viele Köche verderben den Brei. Wobei mir die Küch in den Sinn kommt, die doch immer die Hauptsache bleibt. Und da bleibst du, da hat dir keiner dreinzureden, keiner, auch die Hilde nicht. <said id="26" mode="reported" content="speech" level="2" nonfact="yes">Und ich werd es ihr ernsthaft sagen</said> <seg id="27" type="frame" pos="start">und ihr <seg id="27" type="intExpr">anbefehlen</seg>,</seg> <said id="27" mode="indirect" content="speech" level="2" nonfact="yes">daß alles beim alten bleibt...</said> <said id="28" mode="reported" content="thought" level="2" border="yes">Du verstehst?</said>«</said> 
+                     <said id="29" mode="direct" content="speech" level="1">»O wohl, ich versteh.«</said> 
+                     <said id="30" mode="direct" content="speech" level="1">»<said id="31" mode="reported" content="speech" level="2">Und das war es, Grissel, was ich dir sagen wollte.</said> <seg id="32" type="frame" pos="start">Vor allem aber <seg id="32" type="intExpr">denk</seg> <seg id="32" type="speaker">ich</seg>,</seg> <said id="32" mode="indirect" content="thought" level="2">wir bleiben gute Freunde.</said> Nicht wahr...? Und was hast du denn für heut abend?«</said> 
+                     <said id="33" mode="direct" content="speech" level="1">»<seg id="34" type="frame" pos="start"><seg id="34" type="speaker">Ich</seg> <seg id="34" type="intExpr">dacht</seg>,</seg> <said id="34" mode="indirect" content="thought" level="2">'nen Schlei.</said>«</said> 
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

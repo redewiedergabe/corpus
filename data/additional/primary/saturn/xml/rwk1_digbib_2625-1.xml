@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Frau Salome</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Frau_Salome.tg243_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Frau Salome</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<seg id="0" type="frame" pos="start"><seg id="1" type="intExpr">murmelte</seg> <seg id="1" type="speaker">sie</seg></seg>, und der Justizrat, auf die schindelgedeckten Häuser und Hütten deutend, brachte die Terzine und den dritten Gesang der »Hölle« mit einem gewissen mürrischen Nachdruck zu Ende.
+                     
+                        <said id="1" mode="direct" content="speech" level="1">Hinsank ich ohne meines Daseins Kunde,
+                        Wie unter eines schweren Schlafs Gewicht,</said>
+                        
+                     
+                     <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">zitierte</seg> <seg id="1" type="speaker">er</seg></seg> und <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">fügte</seg> seinerseits <seg id="2" type="intExpr">hinzu</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Es haben schon mehr Leute ausfindig gemacht, daß es hier gewöhnlich ziemlich kühl weht. Das ist nervenstärkend, Baronin; und was den Schlaf anbetrifft, so habe ich seinetwegen hier Quartier genommen. Er hat sich niemals im Leben zu schwer auf mich gelegt; – auf meines Daseins Kunde aber verzichte ich dann und wann mit dem größten Vergnügen.«</said>
+                         
+                     <said id="3" mode="direct" content="speech" level="1">»Um so weniger finde ich es passend und berechtigt, <said id="4" mode="reported" content="speech" level="2">daß Sie mich vorhin so grimmig anfuhren und von Ihrer Amtserfahrung und Kriminalgesetzbuchweisheit aus lächerlich machten.</said>«</said> 
+                     
+                        <said id="5" mode="direct" content="speech" level="1">»Wenn wir demnächst einmal wieder eine Partie Billard zusammen spielen, wollen wir die Kontroverse fortsetzen, Frau Salome. Wenn wir uns jetzt nicht beeilen, wird wahrscheinlicherweise mein Besuch des Wartens überdrüssig werden und heimgehen, ohne eine Visitenkarte zurückzulassen.«</said> 
+                     Er ergriff von neuem den Zügel des Maultiers und führte es von dem Waldpfade auf den steinigen Dorfweg und dem Dorfe zu. 
+                     <seg id="6" type="frame" pos="start">Die schöne <seg id="6" type="speaker">Frau</seg> lachte und <seg id="6" type="intExpr">sagte</seg>:</seg> 
+                     <said id="6" mode="direct" content="speech" level="1">»So seid ihr!«</said> 
+                     <said id="7" mode="direct" content="speech" level="1">»Ja, so sind wir!«</said> <seg id="7" type="frame" pos="end"><seg id="7" type="intExpr">brummte</seg> <seg id="7" type="speaker">Scholten</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">»Als ob noch jemand nötig hätte, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">mir das zu sagen?!</said>«</said> 
+                  
+               
+            
+            
+               
+                  
+                     Fünftes Kapitel
+                     Wie unter eines schweren Schlafes Macht lag trotz der Tageshelle das Dorf da. Was die drei anging, so war der Esel der gleichmütigste unter ihnen; aber auch er hatte sich mit seinem Verdruß abzufinden. Es wuchsen ausgezeichnete Disteln farbenprächtig zwischen dem Gestein bis in den Weg; man wußte ihren Zuckergehalt wohl zu taxieren, aber der zweibeinige Narr mit dem dicken Prügel und dem ewigen widerlichen, unverständlichen Menschengeschnatter zog nicht am Zügel, sondern er riß an ihm, und die dumm-unverschämte Kreatur, die man den lieben langen Tag auf dem Rücken gehabt hatte, hätte einem freilich durch ihren Anblick den Genuß an der vollsten Krippe verleiden können. 
+                     »Was ist Talent für Lebensbehagen?« murmelte in dem Augenblick der Justizrat Scholten. »Nichts als die Gabe, aus dem Qualm etwas zu machen, der von dem Feuer der Leidenschaften in der Luft wirbelt!« 
+                     Die Frau Salome aber sah mit ihren orientalischen Augen auf das stumme Dorf. 
+                     Kein Kindergeschrei – kein Gänsegeschnatter – kein fröhliches Singen der Feldarbeiter! Viel Gebüsch doch wenige Obstbäume um die Schindelhäuser. Eine graue Steinkirche abseits auf einem Hügel zwischen den Gräbern des Dorfes; das hohe Gebirge seitwärts über den Wäldern, und nach der andern Richtung hin, über die Dächer, das Gebüsch und die mageren Felder hinaus, die ferne blaue Ebene! 
+                     »Es ist ein einsilbiges Volk, das hier haust«, sagte Scholten. »Zum größten Teil befindet es sich gegenwärtig sogar unter der Erde; drei Viertel der männlichen Bevölkerung treiben Bergbau, und das letzte Viertel mit den Weibern befindet sich im Walde oder auf den Äckern. Sie haben kurz anzubeißen, das sehen Sie schon den Kindergesichtern an. Manchmal passieren da Geschichten, die das Gepräge eines ganz andern Säkulums tragen. Sie stoßen auf Worte, Ausdrücke, Ansichten, die ganz sonderbar nach der Wüstenei des siebzehnten Jahrhunderts riechen, kurz, einen idyllischern Sommeraufenthalt für einen Juristen werden Sie sich schwerlich vorstellen können, liebe Baronin.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

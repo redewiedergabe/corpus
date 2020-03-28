@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Sinngedicht</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Das_Sinngedicht.tg830_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1882</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Sinngedicht</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">3</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich fand ihn in wohleingerichteter Wohnung, die von gutem Geschmacke förmlich glänzte, und zwar in tiefer, stiller Ruhe. Zu meiner Überraschung wurde ich der Gemahlin vorgestellt, einer vornehm gekleideten, allerschönsten Dame von herrlicher Gestalt. Das reiche Haar war modisch geordnet, die nicht zu kleine, aber wohlgeformte Hand ganz weiß und mit altertümlichen bunten Ringen geschmückt, den Geschenken aus den Familienschätzen des Hauses in Boston. Ich hatte die Regine nur jenes einzige Mal in der Nacht gesehen, wo ich dabeistand, als sie von den Studenten bedrängt wurde; ihre Gesichtszüge waren mir kaum erkennbar geworden, <seg id="1" type="frame" pos="start">doch auch sonst hätte <seg id="1" type="speaker">ich</seg> jetzt nicht <seg id="1" type="intExpr">vermuten</seg> können,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">daß die arme Magd vor mir stand</said>, weil die kleine Begebenheit mir vollkommen aus dem Gedächtnis verschwunden war. Ein Anflug von Schwerfälligkeit in den Bewegungen, der sich erst mit der eleganten Bekleidung eingestellt, war schon im Verschwinden begriffen und schien eher ein Zeichen fremdartigen Wesens als etwas anderes zu sein. Sie sprach ziemlich geläufig Englisch und auch etwas Französisch, wie sich im Verlaufe zeigte, letzteres sogar besser als die meisten Damen bei den amerikanischen Legationen. <seg id="2" type="frame" pos="start">Als <seg id="2" type="speaker">sie</seg> <seg id="2" type="intExpr">hörte</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">woher ich sei</said>, sah sie ihren Mann flüchtig an, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">wie wenn <seg id="3" type="speaker">sie</seg> ihn über ihr Verhalten <seg id="3" type="intExpr">befragen</seg> wollte</said>; er rührte sich aber nicht, und so ließ sie sich auch weiter nichts merken. Dennoch schämte er sich nicht etwa ihres frühern niedern Standes, sondern wollte denselben nur so lange geheim halten, bis sie die völlige Freiheit und Sicherheit der Haltung und damit eine Schutzwehr gegen Demütigungen erworben habe. 
+                     <said id="4" mode="reported" content="speech" level="1">Da er indessen das Bedürfnis offener Mitteilung an irgendeiner Seite hin nicht ganz unterdrücken konnte, schon um dem Geheimnisse jeden verdächtigen Charakter zu nehmen, <seg id="4" type="intExpr">wählte</seg> <seg id="4" type="speaker">er</seg> <seg id="4" type="intExpr">mich</seg> bald zum Mitwisser</said>, <seg id="5" type="frame" pos="start">und <seg id="5" type="speaker">ich</seg> war nicht wenig <seg id="5" type="intExpr">verwundert</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes">in der eigentümlichen Staatsdame die arme Magd wiederzufinden</said>, <said id="6" mode="reported" content="thought" level="1">die jetzt allmählich im meinem <seg id="6" type="intExpr">Gedächtnisse</seg> lebendig ward, wie sie wortlos die Bedränger von sich abwehrte. </said>Auch der Frau geschah damit ein Gefallen; denn sie hatte wenigstens außer ihrem Manne noch einen Menschen, mit welchem sie ohne Rückhalt von sich sprechen konnte. 
+                     <said id="7" mode="reported" content="speech" level="1"><seg id="7" type="speaker">Ich</seg> <seg id="7" type="intExpr">erfuhr</seg> nun auch, in wie seltsamer Art Erwin die Ausbildung der Frau bis anhin durchgeführt hatte.</said> Vor allem war er mit ihr nach London gegangen, da es ihm zuerst um die englische Sprache zu tun gewesen; und damit sie vor jeder häuslichen Arbeit bewahrt blieb, wohnte er, wie später in Paris, nur in Gasthäusern, und auch dort mußte er fortwährend aufpassen und dazwischentreten, daß sie nicht die Zimmer selbst aufräumte und die Betten machte oder gar zu den Dienstboten und Angestellten in die Küche ging, um ihnen zu helfen. Ebenso kostete es ihn einige Mühe, sie an größere Zurückhaltung gegenüber den Dienenden und Geringen zu gewöhnen, so zwar, daß sie, ohne der menschlichen Freiheit Abbruch zu tun, die zu große Vertraulichkeit vermieden lernte, um einst leichter befehlen zu können. Dieser Punkt soll für beide Personen nicht ohne etwelche Bekümmernis erledigt worden sein; <seg id="8" type="frame" pos="start">denn während <seg id="8" type="speaker">Regine</seg> sich immer wieder <seg id="8" type="intExpr">vergaß</seg> und schwer <seg id="8" type="intExpr">begriff</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" nonfact="yes"><seg id="9" type="frame" pos="start">warum <seg id="9" type="speaker">sie</seg> nicht mit ihresgleichen über alles <seg id="9" type="intExpr">plaudern</seg> sollte,</seg> <said id="9" mode="indirect" content="speech" level="2" nonfact="yes">was diese freute oder betrübte</said></said>, <said id="10" mode="reported" content="thought" level="1"><seg id="10" type="intExpr">dachte</seg> <seg id="10" type="speaker">Erwin</seg> fortwährend nur <seg id="10" type="intExpr">an</seg> den gemessenen Ton, der in seinem elterlichen Hause herrschte, und an die Rangstufe, welche Regine dort einzunehmen berufen war.</said>
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

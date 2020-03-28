@@ -1,5 +1,7 @@
 # Primary annotations of the main corpus
 
+folder: [/data/additional/primary](/data/additional/primary)
+
  Each sample of the [main corpus](/data/main) was annotated independently by two different people. Then, a third person created a consens annotation on this basis - these are the annotations you find in the main corpus. 
  
  In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consens annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
@@ -18,15 +20,28 @@ Click the following links to get familiar with the [annotation structure](annota
  In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
 
 ## Annotator agreement
-The following table lists the annotation agreement scores for 834 samples of the main corpus. If more than two primary annotation was available, two were chosen at random. 4 samples are missing in this calculation.
-
+The following table lists the annotator agreement scores for 834 samples of the main corpus (4 samples are missing in this calculation). If more than two primary annotation was available, two were chosen at random. 
 | annotations   | Fleiss’ Kappa |               |
 |---------------|---------------|---------------|
 |               | type          | type & medium |
-| all types     | 0,73          | 0.72          |
-| only direct   | 0,92          | 0.89          |
-| only indirect | 0,73          | 0.68          |
-| only reported | 0,49          | 0.47          | 
+| all types     | 0.73          | 0.72          |
+| only direct   | 0.92          | 0.89          |
+| only indirect | 0.73          | 0.68          |
+| only reported | 0.49          | 0.47          | 
 
 *There are no scores provided for the types free indirect and indirect free indirect, as those were too infrequent to calculate meaningful scores.*
 
+## Statistics
+Distribution of annotators
+| annotator | files | tokens | instances |
+|-----------|-------|--------|-----------|
+| mercury | 188 | 109,029 | 2,508 |
+| venus | 68 | 40,149 | 949 |
+| earth | 108 | 69,250 | 2,006 |
+| mars | 335 | 190,293| 4,646 |
+| jupiter | 406 | 237,276 | 8,554 |
+| saturn | 344 | 196,622 | 4,908 |
+| uranus | 243 | 139,609 | 3,515 |
+| neptune | 6 | 3,578 | 109 |
+| pluto | 6 | 3,578 | 102 |
+| *total* | *1,704* | *989,384* | *27,297* |

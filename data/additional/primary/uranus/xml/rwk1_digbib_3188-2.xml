@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Faust. Erzählung in neun Briefen</title>
+             <author>Turgenev, Ivan Sergeeviç</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Turgenev,_Ivan_Sergeeviç_Faust__Erzaehlung_in_neun_Briefen.tg4_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Faust. Erzählung in neun Briefen</f>
+         <f name="author">Turgenev, Ivan Sergeeviç</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                           M ..., 8. September 1850
+                        
+                     
+                     Mein teurer Freund!
+                         
+                     Du hast Dir <said id="1" mode="reported" content="writing" level="1">meinen letzten Brief</said> zu sehr zu Herzen genommen. <seg id="2" type="frame" pos="start"><seg id="2" type="speaker">Du</seg> <seg id="2" type="intExpr">weißt</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">wie ich immer geneigt war, meine Empfindungen zu übertreiben.</said> Es macht sich das unwillkürlich bei mir; ich habe etwas Weibliches in meiner Natur. Mit den Jahren wird das gewiß schon vergehen. <seg id="3" type="frame" pos="start">Doch <seg id="3" type="speaker">ich</seg> <seg id="3" type="intExpr">bekenne</seg> mit Seufzen,</seg> <said id="3" mode="indirect" content="speech" level="1">bis zur Stunde habe ich diese Schwäche noch nicht überwinden können.</said> Indes, beruhige Dich! <said id="4" mode="reported" content="speech thought" level="1" nonfact="yes">Ich will den Eindruck nicht verleugnen</said>, den Wera auf mich gemacht hat; allein ich wiederhole Dir, in alledem liegt durchaus nichts Ungewöhnliches. <said id="5" mode="indirect" content="writing" level="1">Du willst hierherkommen</said><seg id="5" type="frame" pos="end">, <seg id="5" type="intExpr">schreibst</seg> <seg id="5" type="speaker">Du</seg></seg> – das sollst Du ja nicht. Eine Reise von tausend Werst zu machen, <said id="6" mode="reported" content="thought" level="1" prag="yes">Gott weiß weshalb</said>, das wäre unsinnig. Aber ich bin Dir von Herzen dankbar für diesen neuen Beweis Deiner Freundschaft, <seg id="7" type="frame" pos="start">und <seg id="7" type="intExpr">glaube</seg> mir,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes"><said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">ich werde Dir das nie vergessen.</said></said> Deine Reise hierher ist auch schon deshalb unstatthaft, da ich selbst beabsichtige, demnächst nach Petersburg zu gehen. Wenn ich neben Dir auf dem Sofa sitzen werde, <said id="9" mode="reported" content="speech" level="1" nonfact="yes">will ich Dir vieles erzählen</said>; jetzt mag ich wahrlich nicht. Ich wäre imstande, wieder allerlei wirres Zeug zu schwatzen. Vor meiner Abreise <said id="10" mode="reported" content="writing" level="1" nonfact="yes">schreibe ich Dir noch einmal.</said> Also auf baldiges Wiedersehen! Bleibe gesund und munter und beunruhige Dich nicht allzusehr über das Schicksal
+                         
+                     Deines treu ergebenen P. B.
+                  
+               
+            
+            
+               
+                  
+                     10. März 1853
+                     
+                        P ... wo, 10. März 1853
+                         
+                     Ich habe <said id="11" mode="reported" content="writing" level="1">Deinen Brief</said> lange unbeantwortet gelassen, diese letzten Tage aber immerfort <said id="12" mode="reported" content="thought" level="1">an Dich gedacht.</said> <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Ich</seg> <seg id="13" type="intExpr">fühlte</seg>,</seg><said id="13" mode="indirect" content="thought" level="1" border="yes"> daß keine müßige Neugier ihn diktiert habe, sondern aufrichtige freundschaftliche Teilnahme</said>; dennoch schwankte ich, ob ich <said id="14" mode="reported" content="speech thought" level="1">Deinem Rat</said> folgen, <said id="15" mode="reported" content="thought writing" level="1">Deinen Wunsch</said> erfüllen sollte. Endlich habe ich mich entschlossen und <said id="16" mode="reported" content="speech" level="1" nonfact="yes">will Dir alles erzählen.</said> <said id="17" mode="indirect" content="thought" level="1">Ob meine Beichte mir das Herz erleichtern wird</said><seg id="17" type="frame" pos="end">, wie <seg id="17" type="speaker">Du</seg> <seg id="17" type="intExpr">meinst</seg></seg>, <said id="18" mode="reported" content="thought" level="1" nonfact="yes" border="yes">weiß ich nicht</said>; <seg id="19" type="frame" pos="start">aber <seg id="19" type="intExpr">es</seg> <seg id="19" type="intExpr">scheint</seg> <seg id="19" type="intExpr">mir</seg>,</seg> <said id="19" mode="indirect" content="thought" level="1">daß ich kein Recht habe, Dir etwas zu verhehlen, was mein Leben auf immer völlig umgewandelt hat</said>; daß dies eine Unterlassungssünde gegen Dich sein würde ... Ach! eine noch größere Sünde gegen die unvergeßliche liebe Seele, wenn ich unser trauriges Geheimnis nicht dem einzigen Herzen anvertraute, welches mir noch teuer ist. <said id="20" mode="reported" content="thought" level="1">Du allein auf der Welt außer mir erinnerst Dich vielleicht noch Weras</said>, und <said id="21" mode="reported" content="thought" level="1">Du beurteilst sie nicht leichtfertig und falsch</said>; das kann ich nicht ertragen. <said id="22" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Darum sollst Du alles wissen.</said> Ach! dies alles ließe sich in zwei Worten sagen. Was zwischen uns vorgefallen, kam jählings über uns wie ein Blitz, und wie der Blitz brachte es Tod und Verderben ...
+                     Seit jener Zeit, wo ich sie verloren, seit jener Zeit, wo ich mich in diese Einöde geflüchtet, die ich bis an mein Lebensende nicht mehr verlassen werde, sind mehr als zwei Jahre hingegangen, <said id="23" mode="reported" content="thought" level="1" prag="yes">und alles ist noch so klar in meinem Gedächtnis</said>, meine Wunden sind noch so frisch, mein Gram noch so bitter ... Doch ich will nicht klagen. Bei andern mag das Klagen, das den Schmerz aufregt, ihn zugleich lindern; bei mir nicht. <said id="24" mode="reported" content="speech" level="1" nonfact="yes">Ich will nur erzählen.</said> 
+                     <seg id="25" type="frame" pos="start"><seg id="25" type="intExpr">Erinnerst</seg> <seg id="25" type="speaker">Du</seg> Dich</seg> <said id="25" mode="indirect" content="thought" level="1" nonfact="yes"><said id="26" mode="reported" content="writing" level="2">meines letzten Briefes</said> –<seg id="27" type="frame" pos="start"> jenes <seg id="27" type="intExpr">Briefes</seg>,</seg> <said id="27" mode="indirect" content="writing" level="1">in welchem ich Deine Befürchtungen zu zerstreuen suchte – und Deiner beabsichtigten Reise zu mir widerriet?</said></said> Du trautest nicht der gezwungenen Ungeniertheit seines Tones, <said id="28" mode="reported" content="thought" level="1" nonfact="yes" border="yes">glaubtest nicht an unser baldiges Wiedersehen</said> – Du hattest recht!
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

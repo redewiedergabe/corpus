@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Amulett</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Das_Amulett.tg330_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Das Amulett</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">So ist es recht! Sind wir ja alle vom Weibe geboren und ist doch die Seife nicht teuer!«</said> 
+                    <seg id="2" type="frame" pos="start"> <seg id="2" type="speaker">Mir</seg> <seg id="2" type="intExpr">schien</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">als ob der Gascogner schwere Besorgnis unter diesem scherzhaften Tone verberge</said>, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">und <seg id="3" type="speaker">ich</seg> wollte ihn weiter <seg id="3" type="intExpr">zur Rede stellen</seg></said>, als der alte Diener einen Boten des Admirals meldete, <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">welcher</seg> mich und Gasparde unverzüglich zu sich <seg id="4" type="intExpr">berief</seg>. </said>
+                     Gasparde warf einen dichten Schleier über und wir eilten. 
+                     <said id="5" mode="reported" content="speech" level="1">Unterwegs <seg id="5" type="intExpr">erzählte</seg> <seg id="5" type="speaker">sie</seg> mir, was sie in meiner Abwesenheit ausgestanden.</said> <said id="6" mode="direct" content="speech" level="1">»An deiner Seite durch einen Kugelregen zu reiten, wäre mir ein Spiel dagegen!«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">versicherte</seg> <seg id="6" type="speaker">sie</seg>.</seg> <said id="7" mode="direct" content="speech" level="1">»Der Pöbel in unsrer Straße ist so giftig geworden, daß ich das Haus nicht verlassen konnte, <said id="8" mode="reported" content="speech" level="2" metaph="yes">ohne mit <seg id="8" type="intExpr">Schimpfworten</seg> verfolgt zu werden.</said> Kleidete ich mich nach meinem Stande, <seg id="9" type="frame" pos="start">so <seg id="9" type="intExpr">schrie</seg> <seg id="9" type="speaker">man</seg> mir nach</seg><said id="9" mode="direct" content="speech" level="2"> ›Seht die Übermütige!‹</said> Legte ich schlichtes Gewand an, <seg id="10" type="frame" pos="start">so <seg id="10" type="intExpr">hieß</seg> es</seg> <said id="10" mode="direct" content="speech" level="2">›Seht die Heuchlerin!‹</said> – Einen Tag, oder eine Woche hielte man das schon aus; aber wenn man kein Ende davon absieht! – Unsere Lage hier in Paris erinnert mich an die jenes Italieners, den sein Feind in einen Kerker mit vier kleinen Fenstern werfen ließ. Als er am nächsten Morgen erwachte, waren deren nur noch drei, am folgenden zwei, am dritten noch eins, kurz, <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">er</seg> <seg id="11" type="intExpr">begriff</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">daß sein höllischer Feind ihn in eine Maschine gesperrt hatte, die sich allmählich in einen erdrückenden Sarg verwandelte.</said>« </said>
+                   <said id="12" mode="reported" content="speech" level="1">  Unter diesen <seg id="12" type="intExpr">Reden</seg></said> waren wir in die Wohnung des Admirals gelangt, der uns sogleich zu sich beschied. 
+                     Er saß aufrecht auf seinem Lager, den verwundeten linken Arm in der Schlinge, blaß und ermattet. Neben ihm stand ein Geistlicher mit eisgrauem Barte. <said id="13" mode="reported" content="speech" level="1" nonfact="yes">Er ließ <seg id="13" type="speaker">uns</seg> nicht <seg id="13" type="intExpr">zu Worten kommen</seg>.</said> 
+                     <said id="14" mode="direct" content="speech" level="1">»Meine Zeit ist gemessen«</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">sprach</seg> <seg id="14" type="speaker">er</seg>, </seg><said id="14" mode="direct" content="speech" level="1">»hört mich an und gehorcht mir! Du, Gasparde, bist mir durch meinen teuern Bruder blutverwandt. Es ist jetzt nicht der Augenblick etwas zu verhüllen, <said id="15" mode="reported" content="thought" level="2" border="yes">das <seg id="15" type="speaker">du</seg> <seg id="15" type="intExpr">weißt</seg></said> und diesem nicht verborgen bleiben darf. – Deiner Mutter ist durch einen Franzosen Unrecht geschehn; ich will nicht, daß auch du unsres Volkes Sünden mitbüßest. Wir bezahlen, was unsre Väter verschuldet haben. Du aber sollst, soviel solches an mir liegt, auf deutscher Erde ein frommes und ruhiges Leben führen.« </said>
+                     Dann sich zu mir wendend, <seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">fuhr</seg> <seg id="16" type="speaker">er</seg> <seg id="16" type="intExpr">fort</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Schadau, Ihr werdet Eure Kriegsschule nicht unter mir durchmachen. Hier sieht es dunkel aus. Mein Leben geht zur Neige und mein Tod ist der Bürgerkrieg. Mischt Euch nicht darein, ich verbiete es Euch. – Reicht Gasparde die Hand, ich gebe sie Euch zum Weibe. Führt sie ohne Säumnis in Eure Heimat. Verlaßt dieses ungesegnete Frankreich, sobald Ihr meinen Tod erfahrt. Bereitet ihr eine Stätte auf Schweizerboden; dann nehmt Dienste unter dem Prinzen von Orangen und kämpft für die gute Sache!«</said> – 
+                     Jetzt winkte <seg id="17" type="speaker">er</seg> dem Greise <seg id="17" type="frame" pos="start">und <seg id="17" type="intExpr">forderte</seg> ihn <seg id="17" type="intExpr">auf</seg>,</seg><said id="17" mode="indirect" content="speech" level="1"> uns zu trauen. 
+ </said>                    <said id="18" mode="direct" content="speech" level="1">»Macht es kurz«</said><seg id="18" type="frame" pos="mid">, <seg id="18" type="intExpr">flüsterte</seg> <seg id=" 18" type="speaker">er</seg>,</seg> <said id="18" mode="direct" content="speech" level="1">»ich bin müde und bedarf Ruhe.«</said> 
+                     Wir ließen uns an seinem Lager auf die Kniee nieder und der <seg id="19" type="speaker">Geistliche</seg> verrichtete sein Amt, unsre Hände zusammenfügend und <said id="19" mode="reported" content="speech" level="1">die liturgischen Worte aus dem Gedächtnisse <seg id="19" type="intExpr">sprechend</seg>.</said> 
+                     Dann segnete uns der Admiral mit seiner ebenfalls verstümmelten Rechten. 
+                   <said id="20" mode="direct" content="speech" level="1">  »Lebt wohl!«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">schloß</seg> <seg id="20" type="speaker">er</seg></seg>, legte sich nieder und Lehrte sein Antlitz gegen die Wand.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

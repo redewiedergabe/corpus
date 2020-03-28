@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Briefmarke auf der Feldpostkarte</title>
+             <author>Klabund</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Klabund_Die_Briefmarke_auf_der_Feldpostkarte.tg453_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1918</f>
+         <f name="decade">1910</f>
+         <f name="title">Die Briefmarke auf der Feldpostkarte</f>
+         <f name="author">Klabund</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er brachte ihr jene väterlichen Gefühle entgegen, die dem Manne über 35 Jahren so leicht werden. <said id="1" mode="freeIndirect" content="thought" level="1">Wie sollte er aus der Ferne für sie sorgen?</said> Sie war seiner Sorge ewig bedürftig. Und ein hilfloses kleines Mädchen ohne seine leitenden Blicke, Gebärden und <said id="2" mode="reported" content="speech" level="1">Worte, mit denen er sie bald zärtlich, bald streng wies oder verwies.</said> <said id="3" mode="freeIndirect" content="thought" level="1">Sollte er sie ihren Eltern, dem Zahnarzt P. und seiner Gattin, für die Dauer des Krieges anvertrauen?</said> <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Er</seg> war <seg id="4" type="intExpr">froh</seg>,</seg> <said id="4" mode="indirect" content="thought" level="1" border="yes">daß er sie deren seelischen Plombierapparaten und Kneif- und Brechzangen entrissen hatte.</said> So ließ er sie in der Obhut einer älteren Tante, welche schlecht hörte, aber vortrefflich und ausdauernd Klavier spielte. <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Er</seg> <seg id="5" type="intExpr">hoffte</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">daß Annette (<said id="6" mode="reported" content="speech" level="2" border="yes">so hieß die schöne junge Frau</said>) den Tröstungen der Musik nicht unzugänglich sei und mit ihrer holden Hilfe die Trennung leichter überwinden werde.</said> Nun ist Chopin nicht die rechte Musik, jemand auf helle Gedanken zu 
+bringen. Aber was blieb dem älteren Fräulein übrig, als Chopin zu spielen? Da sie ihn und nur ihn seit 43 Jahren spielte? Sie spielte Chopin, und Annette lauschte, seufzend und strickend. 
+                  Zum Abendbrot erschien jeden Mittwoch und Samstag ein entfernter Vetter von ihr, ein junger Postreferendar, <said id="7" mode="reported" content="speech writing" level="1">welcher entweder als unabkömmlich erklärt war</said> oder dem ungedienten Landsturm angehörte. <said id="8" mode="reported" content="speech" level="1">Er erzählte ihr von seiner Briefmarkensammlung</said>, und sie lachte gern mit ihm. Eines Mittwochabends küßte er sie im Korridor. Und den Samstag darauf wußten sich ihre Lippen kaum zu trennen. So ineinander verbrannt waren sie. 
+                  Hauptmann R. machte Namur und Charleroi mit. Er wurde in den Straßenkämpfen schwer verwundet und in das Lazarett von Lüttich eingeliefert. Hier lag er nun und träumte fiebernd von seiner jungen, schönen Frau, welche noch ein Kind war. <said id="9" mode="freeIndirect" content="thought" level="1"><seg id="10" type="frame" pos="start">Sollte er ihr<seg id="10" type="intExpr"> schreiben</seg> lassen,</seg> <said id="10" mode="indirect" content="writing" level="2" nonfact="yes">wie es um ihn stünde?</said></said> Eine nie zuvor begriffene Eifersucht ließ ihn heftiger glühen, da er sein Weib blühend und gesund und sich selber für alle Zeit verkrüppelt und verstümmelt fühlte. <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Er</seg> <seg id="11" type="intExpr">diktierte</seg> der Schwester eine Feldpostkarte:</seg> <said id="11" mode="direct" content="speech" level="1">»Liebe Annette, ich liege leichtverwundet im Lazarett von Lüttich, Du brauchst Dir keine schlimmen Gedanken zu machen. Sei umarmt von Deinem getreuen Gerd.«</said> Aber auf die Feldpostkarte klebte er eine belgische Briefmarke. 
+In den Tagen ihrer Verlobung hatten sie ihre heimlichen Liebesgeständnisse immer in winziger Schrift unter der Briefmarke verborgen. 
+                  Die Feldpostkarte langte eines Samstagabends an. <said id="12" mode="direct" content="speech" level="1" border="yes">»O,«</said> <seg id="12" type="frame" pos="mid"><seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">Annette</seg> bedauernd,</seg> <said id="12" mode="direct" content="speech" level="1">»er ist leicht verwundet. Aber es geht ihm gut.«</said> <said id="13" mode="direct" content="speech" level="1">»Zeig einmal die Briefmarke,«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">sagte</seg> der <seg id="13" type="speaker">Postreferendar</seg>.</seg> <said id="14" mode="direct" content="speech" level="1">»Willst Du sie für Deine Sammlung haben?«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fragte</seg> <seg id="14" type="speaker">Annette</seg></seg> und begann, sie vorsichtig abzutrennen. Leise erschrak sie und las: <said id="15" mode="direct" content="writing" level="1">»Wenn es Dich treibt, im Gedächtnis unserer Brautzeit die Marke zu entfernen, <seg id="16" type="frame" pos="start">so<seg id="16" type="intExpr"> weiß</seg><seg id="16" type="speaker"> ich</seg>,</seg> <said id="16" mode="indirect" content="thought" level="2" border="yes">daß Du mich noch liebst wie einst, und daß Du stark genug bist, auch das Entsetzlichste zu vernehmen und mit heiligem Herzen zu tragen</said>: meine Augen sind erblindet, meine Füße von einer Granate zerrissen. Ich bin nur noch ein Stumpf. Sei stark. Es liebt Dich wild wie je Dein Gerd.«</said> 
+                  Annette faßte sich an die Brust. Sie wollte schreien. Der Postreferendar war erblaßt. Im Nebenzimmer spielte die Tante einen Chopinschen Walzer. Wie zwei zerschossene Vögel fielen die Augen der Annette tot in sich zusammen.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

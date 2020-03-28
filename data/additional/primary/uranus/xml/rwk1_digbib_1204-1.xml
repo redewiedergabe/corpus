@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Matteo</title>
+             <author>Hebbel, Friedrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Hebbel,_Friedrich_Matteo.tg970_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1841</f>
+         <f name="decade">1840</f>
+         <f name="title">Matteo</f>
+         <f name="author">Hebbel, Friedrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">dash chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Endlich wurde ein Schiebfenster geöffnet <seg id="1" type="frame" pos="start">und die dünne zitternde <seg id="1" type="speaker">Stimme eines Greises</seg> <seg id="1" type="intExpr">fragte</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">wer noch so spät störe.</said> <said id="2" mode="direct" content="speech" level="1">»Ich will Euch nur anzeigen, alter Herr – versetzte Matteo – daß soeben ein Besuch bei Euch eingetroffen ist ;es mag ein Freund sein, der es mit Eurer jungen Frau, wenn Ihr vielleicht eine genommen habt, oder mit Eurer Tochter wohl meint, und es wäre Euch gewiß unangenehm, wenn der nächtliche Gast sich wieder entfernte, ohne daß Ihr ihn gebührend bewillkommt hättet!«</said> <said id="3" mode="direct" content="speech" level="1">»Treibt Eure abgeschmackten Possen anderwärts</said> <seg id="3" type="frame" pos="mid">– <seg id="3" type="intExpr">erwiderte</seg> der <seg id="3" type="speaker">Alte</seg> verdrießlich –</seg> <said id="3" mode="direct" content="speech" level="1">meine Tür ist 
+fest verschlossen, und durchs Schlüsselloch kommen nur die Gespenster!«</said> <said id="4" mode="direct" content="speech" level="1" metaph="yes">»Die Liebe hat Flügel!</said><seg id="4" type="frame" pos="mid"> – <seg id="4" type="intExpr">sagte</seg> <seg id="4" type="speaker">Matteo</seg> und hob die Leiter vom Boden auf –</seg><said id="4" mode="direct" content="speech" level="1"> sie fürchtet sich nicht, den Hals zu brechen und klettert, wie die Katzen, übers Dach.«</said> <said id="5" mode="direct" content="speech" level="1">»Mein Geld! mein Geld!</said> <seg id="5" type="frame" pos="mid">– <seg id="5" type="intExpr">schrie</seg> jetzt der <seg id="5" type="speaker">Alte</seg> hell auf –</seg> <said id="5" mode="direct" content="speech" level="1">Pietro! Nicolo! Diebe! Diebe!«</said> Es ward augenblicklich lebendig im Hause, angezündete Lichter, umhergetragen, erhellten Zimmer nach Zimmer. <said id="6" mode="direct" content="thought" level="1">»Steht es so?</said> <seg id="6" type="frame" pos="mid">– dachte Matteo –</seg> <said id="6" mode="direct" content="thought" level="1">so lege ich die Leiter wieder an!«</said> Wirklich tat ers, doch der gehetzte, fliehende Dieb, der sie nicht am alten Platz fand, sprang in seiner Angst von der hohen Terrasse auf die Straße herab, wobei ihm klingend ein Geldsack entfiel. Jammernd blieb er am Boden liegen, denn er hatte ein Bein gebrochen. <said id="7" mode="direct" content="speech" level="1">»Jetzt</said><seg id="7" type="frame" pos="mid"> – <seg id="7" type="intExpr">sprach</seg> <seg id="7" type="speaker">Matteo</seg> –</seg> <said id="7" mode="direct" content="speech" level="1">müßte ich den Dieb bestehlen, dann wäre der Wahnsinn vollkommen!«</said> <said id="8" mode="freeIndirect" content="thought" level="1">Vielleicht hätte er es getan</said>, aber es war zu spät, schon stürzte der Alte samt seinen Dienern mit Windlichtern aus der Tür, und von einer anderen Seite näherte sich die durch das Geschrei und Geräusch herbeigezogene Scharwache. Der Alte hob zuerst den Geldsack auf, dann stieß er nach dem Dieb mit dem Fuß, <said id="9" mode="reported" content="speech" level="1">zuletzt sagte er Matteo in einigen kahlen Worten seinen Dank</said>, <seg id="10" type="frame" pos="start">gab aber zugleich, Matteos zerrissenes Kleid mit Entsetzen bemerkend, dem Nicolo <seg id="10" type="intExpr">Befehl</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1" nonfact="yes">aufs Haus zu passen, damit sich keiner einschleiche.</said> Matteo ging weiter. <said id="11" mode="direct" content="speech" level="1">»Der angehende Mörder</said><seg id="11" type="frame" pos="start"> – <seg id="11" type="intExpr">rief</seg> <seg id="11" type="speaker">er</seg> grimmig lachend –</seg><said id="11" mode="direct" content="speech" level="1"> liefert den Dieb an den Galgen!«</said><said id="12" mode="reported" content="thought" level="1" border="yes"> Der unergründliche Widerspruch des Lebens packte ihn, wie mit Krallen, die Welt kam ihm wie ein unsinniges Kaleidoskop vor, das in buntem Gemisch kluge und dumme Figuren ohne Zweck und ohne Regel darstellt, und die menschliche Vernunft, wie der Versuch eines Kindes, auf dem Sturmwind, der alles bewegt und durcheinanderschüttelt, zu reiten.</said> 
+                  An einem übel berüchtigten Platz stand er still. Ein Mord schien ihm jetzt ein Nichts, <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">ihm</seg> <seg id="13" type="intExpr">war</seg>,</seg> <said id="13" mode="indirect" content="thought" level="1" nonfact="yes">als müßte er sich mit einer schweren Tat , wie ein Ballast, beladen, damit seine Gedanken ihm nur nicht ins Grenzenlose, in die unendliche Leere, hineinwirbelten.</said> Bald kam ein Mann daher, an der Hand seinen Knaben. Matteo nahm eine drohende Stellung an, <seg id="14" type="frame" pos="start">doch der <seg id="14" type="speaker">Mann</seg> trat vertrauensvoll auf ihn zu und <seg id="14" type="intExpr">sprach</seg>:</seg> <said id="14" mode="direct" content="speech" level="1">»Guter Freund, es ist hier ein gar unheimlicher Ort, den jeder gern meidet, wenn er 
+kann! Habt Ihr nichts Notwendiges zu versäumen, so tut mir den Gefallen, mich über die verrufene Strecke bis an mein Haus zu begleiten, ich will Euch den Weg bezahlen!«</said> Diese unerwartete Anrede drang Matteo anfangs zum Herzen, <seg id="15" type="frame" pos="start">doch bald <seg id="15" type="intExpr">dachte</seg> <seg id="15" type="speaker">er</seg>:</seg><said id="15" mode="direct" content="thought" level="1"> es ist die List der Furcht, die so spricht!</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

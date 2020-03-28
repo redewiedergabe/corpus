@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Narr auf Manegg</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Der_Narr_auf_Manegg.tg820_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Narr auf Manegg</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mitternacht war schon vorüber, als die mutwillige Schar bei der Manegg anlangte. Trommelschlag, Lärm und <said id="3" mode="reported" content="speech" level="1">Gesang</said> weckten den Narren auf, <said id="2" mode="reported" content="thought" level="1" border="yes">der den Wald rings von Fackeln erhellt sah.</said> Wie der Blitz fuhr er mit einem Lichtlein in der Burg umher, <said id="4" mode="reported" content="thought" level="1" border="yes">was man an den fluchtig erhellten Fenstern bemerkte</said>; bald war er hier, bald dort in den Sälen und zuletzt zuoberst im Turm, als eine Zahl Männer auf der Schloßbrücke stand und donnernd an das Tor pochte. Wieder fuhr er herunter und erschien in einer Mauerritze über dem Tor. Der aber klopfte, war ein großer Mann in einer Bärenhaut, das heißt ein als Bär Verkleideter, den die Metzger alljährlich an diesem Tage herumzuführen pflegten. Entsetzt floh der Narr wieder zurück, <seg id="5" type="frame" pos="start">denn<seg id="5" type="speaker"> er</seg> <seg id="5" type="intExpr">glaubte</seg>, </seg><said id="5" mode="indirect" content="thought" level="1" border="yes">die ganze Hölle sei vor der Türe.</said> <seg id="6" type="frame" pos="start">Nachdem er vergeblich <seg id="6" type="intExpr">aufgefordert</seg> worden,</seg> <said id="6" mode="indirect" content="speech" level="1">die Festung zu übergeben und das Tor zu öffnen</said>, wurde dasselbe mit einer alten Geländerstange von der Brücke eingestoßen, und der Bär drang mit einigen bunten Schellenkappen hinein, den belagerten Schalk aufzuspüren und zu fangen. 
+                  
+                     Zu gleicher Zeit aber schleuderte auf einer andern Seite der Burg ein Unbesonnener seine Fackel in weitem Bogen über den Graben und in ein Fenster, mehr um seine Kraft zu erproben, als um Schaden anzurichten. Allein unglücklicherweise reichte die Kraft gerade aus, daß die Fackel in das Innere des Gemaches fiel und das warme Heulager des Narren entzündete. Da der erwachende Frühling mit einem starken Föhnwind dareinblies, o stand die alte, morsche Burg bald in Flammen, und der arme Narr irrte mit <said id="7" mode="reported" content="speech" level="1" border="yes">erbärmlichem Geschrei</said> zwischen dem Feuer und dem Bären umher. Jetzt drang jedoch der von Sax, der den Zug hauptsächlich des Buches wegen mitmachte, in das Innere, um las Kleinod zu retten. Ungeachtet der Gefahr verfolgte er den Narren, als der Bär mit seinen Gesellen und mit angesengtem Pelze schon zurückwich, bis er jenen fassen konnte <seg id="8" type="frame" pos="start">und <seg id="8" type="intExpr">fand</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß er glücklicherweise das Buch bewußtlos mit sich schleppte und krampfhaft umklammerte.</said> Mit großer Mühe brachte der mutige und gewandte junge Mann den Narren samt dem Buche aus der brennenden Burg, ersteren freilich von Schreck oder Schwäche entseelt. 
+                  Man legte den Toten auf grünes Moos unter den Bäumen; friedlich und beruhigt lag er da, erlöst von der Qual,<said id="9" mode="reported" content="thought" level="1" border="yes"> sein zu wollen, was man nicht ist</said>, und es schlummerte mit ihm ein unechtes Leben, das über hundert Jahre im verborgenen gewuchert hatte, endlich ein. 
+                  Stiller geworden, tranken die Gesellen, in weitem Ringe sitzend, ihren Wein, obschon nicht sehr zerknirscht, und betrachteten den Untergang der Burg, die jetzt in vollen Flammen zum Himmel lohte und in das Morgenrot hinein, das im Osten heraufstieg. Einige alte Bäume, Zeugen ihrer besseren Tage, brannten mit und legten der verglühenden Nachbarin die brennenden Kronen zu Füßen. 
+                  Der von Sax aber eilte mit dem Buche, das er in seinen Mantel einschlug, der Schar voraus und traf den Ital Manesse noch auf der Rüdenstube, wo er als der letzte Gast hinter dem letzten Becher saß, blaß und kalt wie der Morgen, der in den Saal trat. 
+                  <said id="10" mode="direct" content="speech" level="1">»Hier hast du das Buch!«</said> <seg id="10" type="frame" pos="start"><seg id="10" type="intExpr">rief</seg> <seg id="10" type="speaker">jener</seg> voll Freuden.</seg>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

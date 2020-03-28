@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Streit in der Liebe</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_Streit_in_der_Liebe.tg53_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">Streit in der Liebe</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sie war nie mit andern Kindern herumgesprungen, um ja nicht Kleider und Schuhe zu zerreißen, und je älter sie wurde, desto mehr trat dieser praktische Sinn hervor. <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">Man</seg> <seg id="1" type="intExpr">sagte</seg> ihr <seg id="1" type="intExpr">nach</seg>,</seg> <said id="1" mode="indirect" content="speech" level="1">sie gehe barfuß, sobald sie vor dem Dorfe sei, um ihre Schuhe zu schonen, und wo sie im Grasen gewesen, da sei der Boden wie vom Barbier rasiert.</said> 
+                  Georg dagegen war ein sorgloser, leichtsinniger Bursch, dem alles, was teuer war, am besten gefiel und am besten schmeckte, rasch, hitzig und unbedacht, ein »Schußbartle« nach dem Volksausdruck, und <seg id="2" type="frame" pos="start">gescheite <seg id="2" type="speaker">Leute</seg> <seg id="2" type="intExpr">meinten</seg>,</seg> <said id="2" mode="indirect" content="thought" level="1">er und Lisbeth passen nimmermehr zusammen, sie seien gar zu zweierlei</said>; <seg id="3" type="frame" pos="start">noch <seg id="3" type="speaker">gescheitere</seg> <seg id="3" type="intExpr">fanden</seg> das eben gut:</seg> <said id="3" mode="direct" content="speech" level="1">»Die können einander helfen; was er vertut, das kann sie hereinhausen.«</said> 
+                  In Wahrheit konnten die zwei nicht voneinander lassen, wie oft sie sich auch gegenseitig erzürnten. <said id="4" mode="reported" content="speech" level="1"><seg id="4" type="speaker">Georg</seg> <seg id="4" type="intExpr">verhöhnte</seg> Lisbeth, wo er konnte, wegen ihrer Sparsamkeit.</said> Einmal lud er ein Dutzend junge Bursche und Mädchen in ihrem Namen zum Karz (Spinnstube) ein. Lisbeth spann eben im Mondenlicht wie das Waldfräulein, aber nicht aus Romantik, sondern um Öl zu sparen; da polterten ihre unerwarteten Gäste herein und lachten hell auf, als nicht einmal Licht in der Stube war. <said id="5" mode="reported" content="speech" level="1"><seg id="5" type="speaker">Georg</seg> kam hinterdrein und <seg id="5" type="intExpr">klärte</seg> den Spaß <seg id="5" type="intExpr">auf</seg></said>; Lisbeth aber mußte, wohl oder übel, Licht anzünden und Äpfelküchlein backen. 
+                  Ein andermal kamen drei alte <seg id="6" type="speaker">Weiber</seg> aus dem Armenhause und <said id="6" mode="reported" content="speech" level="1"><seg id="6" type="intExpr">bedankten sich</seg> gar schön bei ihr für Speck und Fleisch, das sie ihnen geschickt hatte.</said> <said id="7" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="7" type="speaker">Lisbeth</seg> <seg id="7" type="intExpr">wußte</seg> nicht, wie ihr geschah.</said> Sie führte als einzige Tochter den Haushalt des verwitweten Vaters und hatte die bestausgestattete Rauchkammer im Dorfe; <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">man</seg> <seg id="8" type="intExpr">behauptete</seg> aber,</seg> <said id="8" mode="indirect" content="speech" level="1">sie lasse den Vater, wenn er Kraut esse, nur riechen am Speck und habe so den ganzen Winter an einer Speckseite</said>; <said id="9" mode="freeIndirect" content="thought" level="1">wie würde sie nun Bettelweibern Speck und Fleisch schicken!</said> Tödlich erschrocken sah <seg id="10 11" type="speaker">sie</seg> in der Rauchkammer nach – <said id="10" mode="direct" content="thought" level="1">da war freilich eine bedeutende Lücke</said>; – <said id="11" mode="direct" content="speech thought" level="1">das hatte kein andrer Mensch als der Georg getan!</said> Nehmen konnte sie den Weibern das Fleisch nicht wieder, 
+und so mußte sie mit sauersüßem Gesicht den Dank für ihre unfreiwillige Großmut hinnehmen. 
+                  Der Georg aber sollte es büßen, und als er nach einer Weile mit pfiffigem Lachen über den Zaun herüberblickte, <said id="12" mode="reported" content="speech" level="1">da <seg id="12" type="intExpr">sagte</seg> <seg id="12 13" type="speaker">sie</seg> ihm in geläufigem und lichtvollem Vortrag die Wahrheit umsonst über sein faules und nichtsnutziges Leben</said> <said id="13" mode="reported" content="speech" level="1">und <seg id="13" type="intExpr">verhieß</seg> ihm ganz und gar keine lockende Zukunft.</said> 
+                  Sonntags drauf wollte Georg auch trutzen, er schloß sich an des Adlerwirts Sohn an und zog an der Lisbeth Haus vorüber, andern Mädchen nach. Lisbeth war nicht vor dem Hause und nicht am Fenster zu sehen; daheim aber fuhr sie herum wie unsinnig, und als Georg spät am Abend nach Hause kam, da hatte <seg id="16" type="speaker">sie</seg> scheint's noch Geschäfte im Hausgärtchen, sie sah ihn aber gar nicht, <said id="14" mode="freeIndirect" content="thought" level="1">bewahre!</said> <said id="15" mode="direct" content="speech" level="1">»Guten Abend!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> <seg id="15 17" type="speaker">Georg</seg> hinüber.</seg> – <said id="16" mode="reported" content="speech" level="1" nonfact="yes">Keine <seg id="16" type="intExpr">Antwort</seg>.</said> – <said id="17" mode="direct" content="speech" level="1">»Warum bist nicht auch spazieren gegangen?«</said> – <said id="18" mode="direct" content="speech" level="1">»Hab' noch gar nicht Zeit gehabt nur zum 'nausgucken, meine Dote ist hier gewesen,«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">sagte</seg> <seg id="18" type="speaker">Lisbeth</seg> kurz.</seg> – <said id="19" mode="direct" content="speech" level="1">»Schön Wetter heut,«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">hub</seg> etwas verlegen <seg id="19" type="speaker">Georg</seg> wieder <seg id="19" type="intExpr">an</seg></seg>, <said id="20" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="20" type="speaker">der</seg> nicht recht <seg id="20" type="intExpr">wußte</seg>, wie er anknüpfen sollte.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

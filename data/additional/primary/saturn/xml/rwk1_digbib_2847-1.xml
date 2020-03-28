@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>171. Das Schauteufelskreuz</title>
+             <author>Schambach, Georg</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schambach,_Georg_171__Das_Schauteufelskreuz.tg397_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">171. Das Schauteufelskreuz</f>
+         <f name="author">Schambach, Georg</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+– Jetzt sind es nun bald vierhundert Jahre her, als ein ausgelassener junger Bursche sich beim Fastnachtsaufzug zu der gottlosen Mummerei hergab. Schon hatte er mit seinem Haufen viele Straßen <said id="1" mode="reported" content="speech" level="1">die Leute neckend</said> und ohrfeigend durchzogen, als er plötzlich auf der Stelle, wo jetzt das Schauteufelskreuz ist, vor Schrecken stillstand. Auch der ganze Zug war wie festgebannt, denn ihm gerade entgegen vom alten Markte her kam ein anderer Zug, der aus leibhaftigen Teufeln bestand. Allen voran stürmte der böse Feind daher und gab seinem unglücklichen Nachäffer eine solche Ohrfeige, daß er auf dem Platze blieb und starb. Da riß alles aus, was Beine hatte, und der höllische Spuk verschwand mit großem Lärm und Stank in der Luft. – <said id="2" mode="reported" content="speech writing" level="1">Der Magistrat verbot seitdem das Schauteufellaufen ein für alle Male.</said> – 
+                  <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Andere</seg> <seg id="3" type="intExpr">erzählen</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">das Schauteufelskreuz habe ein Schuster gestiftet, der vor vielen Jahren an der Ecke des alten Marktes wohnte.</said> <said id="4" mode="reported" content="thought" level="1" border="yes">Dieser Schuster wuste vor Hunger und Kummer weder aus noch ein</said>, <seg id="5" type="frame" pos="start">und <seg id="5" type="intExpr">faßte</seg> endlich den gottlosen <seg id="5" type="intExpr">Entschluß</seg></seg> <said id="5" mode="indirect" content="thought" level="1"><said id="6" mode="reported" content="speech writing" level="2">einen Vertrag mit dem Teufel zu machen.</said></said> Er stahl deshalb bei Nacht und Nebel von der Dombibliothek den Höllenzwang, der dort an einer großen Kette lag, <said id="7" mode="reported" content="speech" level="1">und beschwor den bösen Feind.</said> Dieser, der nie lange auf sich warten läßt, wenn er eine Seele wittert, die für seiner Großmutter Kaffeekessel reif ist, erschien auch bald und <said id="8" mode="reported" content="speech" level="1">fragte nach seinem Begehr.</said> <said id="9" mode="reported" content="speech" level="1">Der Schuster verschrieb ihm gegen drei Himpten Geld seine Seele</said> <seg id="10" type="frame" pos="start">unter der <seg id="10" type="intExpr">Bedingung</seg>,</seg> <said id="10" mode="indirect" content="speech" level="1">daß ihm der Teufel die Seele lassen sollte, wenn er nach Jahresfrist wiederkehrte und <seg id="11" type="frame" pos="start"><seg id="11" type="intExpr">fände</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" border="yes">daß das ganze Geld bis auf Heller und Pfennig nur zu einem Gott wohlgefälligen Zwecke angewandt sei.</said></said> Das war der Teufel gern zufrieden und fuhr hohnlachend davon; <seg id="12" type="frame" pos="start">denn <seg id="12" type="speaker">er</seg> konnte wohl <seg id="12" type="intExpr">denken</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1">daß der verhungerte Schuster, wenn er auch Kirchen und Klöster reichlich bedächte, doch einen großen Theil des Geldes für seinen bellenden Magen und seine durstige Kehle verwenden würde, und wenn er einmal ins Wohlleben gekommen wäre, würde es mit andern Dingen, die Gott nicht wohlgefallen, keine Noth haben.</said> <seg id="13" type="frame" pos="start">Der <seg id="13" type="speaker">Schuster</seg> aber war nicht von ehegestern und <seg id="13" type="intExpr">dachte</seg> bei sich:</seg> <said id="13" mode="direct" content="thought" level="1">»hast du so lange in Hunger und 
+ Kummer gelebt, so wirst du es auch noch ein Jahr aushalten,«</said> trug also seine drei Himpten Geld zum Goldschmied und ließ ein großes silbernes Kreuz daraus machen: das nahm er mit sich nach Hause und erwartete nach Ablauf des Jahres ganz ruhig den Teufel. Dieser blieb auch nicht eine Minute länger aus, war aber sehr erstaunt, als er den halbverhungerten Schuster noch eben so wie vor einem Jahre in seiner ärmlichen Schusterstube den Pechdraht ziehen sah. <said id="14" mode="direct" content="speech" level="1">»Was hast du mit dem Gelde gemacht?«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fuhr</seg> ihn der <seg id="14" type="speaker">Teufel</seg> <seg id="14" type="intExpr">an</seg>.</seg> – <said id="15" mode="direct" content="speech" level="1">» Schau Teufel dieses Kreuz «</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">rief</seg> der <seg id="15" type="speaker">Schuster</seg></seg> aufspringend und ihm das silberne Kreuz entgegenhaltend. Da zerschlug der Teufel bitter und böse ein Fach Fenster und fuhr <said id="16" mode="reported" content="speech" level="1">fluchend</said> und stinkend davon. – Der Schuster aber lachte ins Fäustchen, ließ sein Kreuz wieder einschmelzen und war von nun an ein steinreicher Mann. Zum Danke für seine Erlösung aus des Teufels Krallen, ließ er den Denkstein setzen, <said id="17" mode="reported" content="speech" level="1" border="yes">der noch heute das Schauteufelskreuz heißt.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

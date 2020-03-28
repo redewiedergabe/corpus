@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Else von der Tanne</title>
+             <author>Raabe, Wilhelm</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Raabe,_Wilhelm_Else_von_der_Tanne.tg228_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Else von der Tanne</f>
+         <f name="author">Raabe, Wilhelm</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Auf die erste stumpfsinnige Betäubung folgte <said id="1" mode="reported" content="thought" level="1" border="yes">die gottlästernde Verzweiflung</said> und dieser die unheilbare, herzzerfressende, täglich wachsende Melancholie. <said id="2" mode="reported" content="thought" level="1">Das neue Leben, welches sich auf der schwarzgebrannten, blutgetränkten Stätte um ihn her kümmerlich und kläglich erhob, hatte keinen Sinn für ihn</said>; die Geister der erschlagenen dreißigtausend Männer, Weiber und Kinder, welche in den Ruinen umgingen, machten diese winzige, trostlose Lebendigkeit selber zu einem Spuk, und der Schatten der versunkenen Stadt duldete kein Sonnenlicht über den neuen Wohnstätten, die aus rauchgeschwärzten Mauersteinen und halbverkohlten Balken langsam aufwuchsen. Und die Pest saß mit unter den Trümmern und wich nicht; neue Kriegsstürme brausten heran und drangen durch die alten Breschen der Wallonen und Kroaten und fuhren grimmig durch die offenen Pf orten der Stadt, deren Torflügel seit dem zehnten Mai zu Boden lagen wie alles andere. Vergeblich versuchte es der Gelehrte, seinen Lehrstuhl wiederaufzurichten; in allem vernichtet, wich der Meister Konrad im vierten Jahre nach der Verwüstung – gen Halberstadt und von dort in den Wald, um den Menschen, dem Greuel der Welt ganz zu entfliehen und sein Kind zu retten aus dem Chaos und der Sünde der Zeit. – <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Wir</seg> haben <seg id="3" type="intExpr">erzählt</seg>,</seg> <said id="3" mode="indirect" content="speech" level="1">wie ihm die Leute von Wallrode im Elend und ihr Pfarrer Friedemann Leutenbacher seine Hütte an der hohen Tanne bauen halfen und wie er sein Einsiedlerleben daselbst begann.</said> – – – 
+                  <said id="4" mode="freeIndirect" content="thought" level="1">Wollte dieser Schneesturm nimmer zu einem Ende kommen?</said> Mächtiger und mächtiger sauste und brauste es und schüttete die weißen Lasten auf Forst und Dorf. Es knackte und knirschte das Gezweig, es krachten die Stämme; der Wolf heulte, wenn die Windsbraut Atem schöpfte, und durch all den Aufruhr der Natur <said id="5" mode="reported" content="speech" level="1">klang dem Pfarrer Friedemann Leutenbacher ein Lied ins Ohr</said>, <said id="6" mode="reported" content="speech" level="1"><said id="7" mode="reported" content="writing" level="2">Verse aus einem Liede</said>, <seg id="8" type="frame" pos="start">welches <seg id="8" type="speaker">Else von der Tanne</seg> <seg id="8" type="intExpr">gesungen</seg> hatte:</seg></said>
+                         
+                  
+                     <said id="8" mode="direct" content="speech" level="1">Vierzehn lange, lange Wochen
+                     Gab die Liga Sturm auf Sturm,
+                     Vierzehn lange, lange Wochen
+                     Trotzte Mauer, Wall und Turm.
+                     Tapfre, fromme, teutsche Bürger
+                     Schützten Glauben, Ehr und Haus –
+                     Dreißigtausend Ketzerleben
+                     Rottet heut die Kirche aus!
+                  
+                  
+                     Stadt gewonnen! all gewonnen!
+                     <seg id="9" type="frame" pos="start">Und des Kaisers <seg id="9" type="speaker">Feldherr</seg> <seg id="9" type="intExpr">spricht</seg>:</seg>
+                     <said id="9" mode="direct" content="speech" level="2">Seit Jerusalem verloren,
+                     Sah man solch Viktori nicht!
+                     Heilige Jungfrau, Mutter Gottes,
+                     Dank und Gloria! Dir die Ehr!
+                     Seit man Troja hat gewonnen,
+                     Sah man solchen Sieg nicht mehr!</said></said>
+                        
+                  
+                  Aber nicht bloß dieses Lied, nein, <said id="10" mode="reported" content="speech" level="1">manch andere Weisen, <said id="11" mode="reported" content="writing" level="2" nonfact="yes">deren Noten niemals eine Menschenhand auf Papier festgebannt hatte</said> wie die Buchstaben eines Buches, sang Else von der Tanne!</said> Else von der Tanne, die schönste Maid – Else von der Tanne, die von der Sünde und dem Greuel der Welt im Wald, im Elend unberührt geblieben war! Else von der Tanne, die reinste, heiligste Blume in der grauenvollen Wüstenei der Erde – Else von der Tanne, die Seele des großen Waldes! Der Pfarrer Friedemann Leutenbacher im Elend mußte beide Hände vor das Gesicht schlagen, er mußte bitter weinen; die winterliche Sturmnacht mußte endlich doch zu ihrem Ende gelangen; aber die Nacht, welche sein Leben jetzt bedrohte, die konnte nicht enden, solange er noch unter den Lebenden wandelte. 
+                  Else von der Tanne hatte als Kind an seiner Seite gesessen und hatte um seine Knie gespielt, <said id="12" mode="reported" content="speech" level="1">während er mit ihrem finstern Vater ernstes Gespräch über der Welt Lauf und Bedrängnis pflog.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

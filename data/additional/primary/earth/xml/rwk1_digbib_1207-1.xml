@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Begleiter</title>
+             <author>Heiseler, Henry von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyking,_Elisabeth_von_Der_Tag_Anderer.tg74_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Der Begleiter</f>
+         <f name="author">Heiseler, Henry von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_1207
+Heyking,_Elisabeth_von_Der_Tag_Anderer.tg74_1.xml
+1905
+1900
+erz
+Der Tag Anderer
+Heyking, Elisabeth von
+yes
+507
+1
+
+
+
+
+
+Und all das mußte sie opfern wegen zweier fröhlicher Kinder, <seg id="1" type="frame" pos="start"><seg id="1" type="speaker">die</seg> wahrscheinlich viel weniger als Aga zu <seg id="1" type="intExpr">sagen</seg> vermocht hätten,</seg> <said id="1" mode="indirect" content="speech" level="1" nonfact="yes">wie sie zu dem gekommen waren, <said id="2" mode="reported" content="speech" level="2">was diese ihre Verliebtheit genannt hatte</said></said> – die aber das eine besaßen, was ein Recht zu allem Schönen gibt – die Jugend. 
+                  Nun hielt sie die Feder in der Hand. 
+                  <said id="19" mode="freeIndirect" content="thought" level="1">Wie sollte sie ihn wohl anreden?</said> 
+                  Und <said id="3" mode="direct" content="writing" level="1">»Lieber Freund!«</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">begann</seg> <seg id="3" type="speaker">sie</seg> dann schließlich</seg>, denn das konnte er ihr doch immer bleiben. 
+                  Dann setzte sie wieder ab. 
+                  <said id="4" mode="reported" content="thought" level="1">Ach, wie anders hatte sie sich doch vorhin <said id="5" mode="reported" content="writing" level="2">das Schreiben dieses Briefes</said> vorgestellt!</said> 
+                  <said id="6" mode="reported" content="speech" level="1">Und wie sie das dachte</said>, <said id="20" mode="reported" content="writing" level="1">formten sich ihr auch schon die Worte unter der Feder:</said> <said id="7" mode="direct" content="writing" level="1">»Es sollte ein ganz andrer Brief werden, <said id="8" mode="reported" content="speech" level="2" nonfact="yes">ich wollte Ihnen sagen</said> – aber es ist ja nun ganz einerlei, <said id="9" mode="reported" content="speech" level="2" nonfact="yes">was ich Ihnen sagen wollte</said>, denn es bleibt nur das, <said id="10" mode="reported" content="speech" level="2" nonfact="yes">was ich Ihnen sagen muß.</said>«</said> 
+                  <said id="11" mode="reported" content="writing" level="1">Und dann schrieb sie ihm alles, alles.</said> Und es war ihr dabei, als durchschritte sie mit ihm noch 
+einmal ihr ganzes vergangenes Leben, dessen Schatten sie gefangen hielten; als durchschritte sie auch das mit ihm, was doch nie sein würde, was sich vor ihr ausbreitete wie gelobtes Land, zu dem die Brücke führte, die sie nimmer betreten durfte. <seg id="12" type="frame" pos="start">Und <seg id="12" type="speaker">sie</seg> <seg id="12" type="intExpr">sagte</seg> ihm,</seg> <said id="12" mode="indirect" content="speech" level="1">warum es nicht sein konnte.</said> <said id="13" mode="reported" content="writing" level="1">Die ganze Nacht schrieb sie ihm</said> – diese eine Nacht sollte ihm ganz gehören – und <said id="14" mode="reported" content="writing" level="1">bei dem Schreiben</said> sank es über sie <said id="24" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">wie müdes Entsagen</said>, <said id="15" mode="reported" content="writing" level="1">während des Schreibens</said> fühlte sie, wie sie in dieser Nacht in Wirklichkeit alt ward. 
+                  Sie hielt wohl manchmal inne, als könne sie nicht weiter, weil es gar zu wehe tat, weil sie sich gar zu sehr danach sehnte, daß er doch plötzlich dastehen möchte und sie in die Arme schlösse und sie sich an seiner Schulter ausschluchzen könne. Aber wenn es auch viele Verluste und manchen Schmerz gibt, um die wir in den Armen eines andern weinen können – um ungelebtes Leben, da weint ein jeder ganz allein! Und sie nahm die Feder wieder auf in altgewohnter Tapferkeit. – War es denn nicht schon Glück,<said id="21" mode="reported" content="speech" level="1"> es ihm doch einmal alles sagen zu dürfen?</said> <said id="22" mode="reported" content="thought" level="1" nonfact="yes">Und er würde es ja alles verstehen</said>, würde fühlen, daß sie ihm da in diesem Briefe ihre sterbende Jugend schenkte. Das einzige Lied der stummen Harfe, die scheu gehütete Perle auf Muschelsgrund, die sehnsüchtig duftenden
+ Blüten der vergessenen Insel, alles, was sie ihm in der Dauer des kommenden Lebens hatte schenken wollen – das sollte, zu einziger Gabe vereint, dieser eine Brief ihm bringen. 
+                  So ward in Schmerzen wahr, <said id="16" mode="reported" content="thought" level="1">was sie vorhin in Seligkeit gedacht: der eine Zweck ihres armen Daseins war es, <said id="23" mode="reported" content="writing" level="2">diesen einen Brief zu schreiben.</said></said> 
+                  Nachdem sie zu Ende gekommen war, starrte sie lange sinnend auf die beschriebenen Bogen. Es war ihr, als sei sie in dieser Nacht gestorben und als läge sie da in diesen Blättern begraben. <seg id="17" type="frame" pos="start">Dabei <seg id="17" type="intExpr">fiel</seg> <seg id="17" type="speaker">ihr</seg> <seg id="17" type="intExpr">ein</seg>,</seg> <said id="17" mode="indirect" content="thought" level="1">daß viele Menschen gestorben sein mußten, <said id="18" mode="reported" content="writing" level="2">während sie den Brief geschrieben hatte</said>, weil ja in jeder Nacht viele sterben.</said> Die brauchten keiner Sonne Aufgang je mehr zu sehen. 
+                  Nun erhob sie sich, trat ans Fenster und schob die Vorhänge zurück.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

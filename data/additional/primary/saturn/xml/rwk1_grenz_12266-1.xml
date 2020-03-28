@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>F.M.Dostojewsky.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341841_194675.txt_54.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">F.M.Dostojewsky.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wenn
+                        ein Realist einmal glaubt, dann zwingt ihn gerade sein Realismus, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">auch das
+                        Wunder zu statuiren.</said> <seg id="2" type="frame" pos="start">Der <seg id="2" type="speaker">Apostel Thomas</seg> <seg id="2" type="intExpr">erklärte</seg>,</seg> <said id="2" mode="indirect" content="speech" level="1">er werde nicht glauben,
+                        es sei denn, er habe gesehen</said>; aber nachdem er gesehen hatte, <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr">sagte</seg> <seg id="3" type="speaker">er</seg>:</seg> <said id="3" mode="direct" content="speech" level="1">»Mein
+                        Herr und mein Gott!«</said> Hat etwa das Wunder ihn gezwungen, zu glauben?
+                        Am wahrscheinlichsten ist es, daß es nicht der Fall war, sondern er glaubte
+                        lediglich deshalb, <seg id="4" type="frame" pos="start">weil <seg id="4" type="speaker">er</seg></seg> <said id="4" mode="indirect" content="thought" level="1">zu glauben</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">wünschte</seg></seg>, und vielleicht glaubte er vollständig, im geheimsten Herzen, schon damals, <seg id="5" type="frame" pos="start">als <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">sprach</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Ich werde nicht
+                        glauben, es sei denn, daß ich sehe.«</said>" (I, 29.) <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Dostojewsky</seg> gebraucht hier die
+                        <seg id="6" type="intExpr">Bezeichnung</seg></seg> <said id="6" mode="direct" content="writing" level="1" border="yes">„Realist"</said> in einem bei uns nicht gangbaren Sinne; einen Menschen, der sich auf den thatsächlichen Augenschein nicht so stützt, daß er diesen
+                        allein als Wahrheitsbeweis anerkennt, <said id="7" mode="reported" content="speech" level="1" nonfact="yes" border="yes" prag="yes">pflegen wir nicht als einen Realisten zu
+                        bezeichnen.</said> Wer da sieht, <seg id="8" type="frame" pos="start">was <seg id="8" type="speaker">er</seg></seg> <said id="8" mode="indirect" content="thought" level="1">zu sehen</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">wünscht</seg></seg>, hat mehr Vertrauen in
+                        sich selbst, in die Wahrheit, die sein Geist produzirt, als in die Außenwelt. Und
+                        da es der ideale Held des Romans ist, <said id="9" mode="reported" content="writing" level="1">den der Dichter so charakterisirt</said>, so ist
+                        es vielmehr der entschlossenste Idealismus, zu dem er sich in dieser Form bekennt,
+                        als der wirkliche Realismus.
+            Auch aus <said id="10" mode="reported" content="writing" level="1">den als sechstes Buch in den Roman eingeschobenen Bekenntnissen „Aus den Unterhaltungen und Lehren des Staretz Sossima"</said> (eines im
+                        Geruche der Heiligkeit stehenden geistlichen Weisen) darf man <said id="11" mode="reported" content="writing" level="1">die eigne Anschauung des Dichters</said> herauslesen; sie enthalten seine Ethik. <seg id="12" type="frame" pos="start">Und da <seg id="12" type="intExpr">heißt</seg> <seg id="12" type="speaker">es</seg>
+                        u. a.:</seg> <said id="12" mode="direct" content="writing" level="1">„Brüder, scheut nicht zurück vor der Sünde der Menschen, liebet die
+                        Menschen auch in ihrer Sünde, denn das ist das Ebenbild der göttlichen Liebe
+                        und der Gipfel der Liebe auf Erden. Liebet die ganze Schöpfung Gottes, wie
+                        das Ganze, so auch jedes Sandkörnchen. Liebet jedes Blättchen, jeden Lichtstrahl Gottes. Liebt die Tiere, liebt die Pflanzen, liebt jegliches Ding. Liebst
+                        du jegliches Ding, so wird sich dir Gottes Geheimnis in den Dingen offenbaren.
+                        Einstmals wird es dir offenbar werden, und dann wirst du es Tag für Tag
+                        immer mehr erkennen. Und schließlich wirst du das ganze Weltall lieben mit
+                        alles umfassender, alles umspannender Liebe. Liebet die Tiere. Gott hat ihnen
+                        das Prinzip des Denkens und harmlose Freudigkeit verliehen. Stört sie nicht,
+                        quält sie nicht, nehmt ihnen nicht den Frohsinn, handelt nicht dem Gedanken
+                        Gottes zuwider. Der Mensch überhebe sich nicht den Tieren gegenüber; sie
+                        sind sündlos, er aber in seiner Größe versetzt die Erde durch seine Erscheinung
+                        in Fäulnis und läßt seine faulige Spur hinter sich — o weh, fast jeder von
+                        uns. Liebet besonders die Kinder, denn auch sie sind sündlos, gleich den Engeln,
+                        sie leben zu unsrer Demütigung, zur Reinigung unsrer Herzen und gleichsam
+                        als Beispiel für uns. Fluch dem, der ein Kind gekränkt hat. <seg id="13" type="frame" pos="start">Mich hat der
+                        <seg id="13" type="speaker">Pater Anfim</seg> (sein Begleiter beim Pilgern) <seg id="13" type="intExpr">gelehrt</seg>,</seg> <said id="13" mode="indirect" content="speech" level="2">die Kinder zu lieben.</said> Auf
+                        unsern Wanderungen hat dieser liebe Schweiger ihnen für geschenkte Groschen
+                         
+            
+            Lebkuchen und Zuckerwerk gekauft und verteilt; er konnte nicht an ihnen vorübergehen, ohne daß seine Seele erbebte, . . . Meine Freunde, <said id="14" mode="reported" content="speech thought" level="2" border="yes">bittet Gott um
+                        Fröhlichkeit</said>, Seid heiter wie die Kinder und die Vöglein des Himmels."</said>
+                        (II, 202 bis 204,)
+                         
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

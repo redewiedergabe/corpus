@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Fürstin Morrow</title>
+             <author>Meisner, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">MZ_1914_05_05.txt_2.xml</f>
+         <f name="name">venus</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">Fürstin Morrow</f>
+         <f name="author">Meisner, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.marburger</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">„Bitte, gehen Sie noch nicht fort, bleiben Sie
+                        hier“</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">bat</seg> <seg id="1 2" type="speaker">sie</seg>.</seg> <said id="2" mode="direct" content="speech" level="1">„Nur jetzt entschuldigen Sie mich
+                        einige Augenblicke, ich bin in kurzer Zeit wieder
+                        bei Ihnen.“</said> Damit verschwand sie eiligen Schritts
+                        in einem Seitengemach.
+               Kara hatte sich noch nicht ganz von dem Erstaunen über die plötzliche Aufregung der Fürstin
+                        erholt, als die große Türe geöffnet ward und Graf
+                        Lemuroff eintrat, der bei dem Anblick des jungen
+                        Mädchens stutzte und verlegen um sich blickte, als
+                        suche er die Herrin dieses Raumes. Auch Kara
+                        war sehr verlegen geworden, als sie auf den ersten
+                        Blick den jungen Herrn wiedererkannte, der ihrem
+                        Vater den Diamanten verkaufen wollte. Eine
+                        brennende Röte überzog ihr Gesichtchen und vermehrte noch ihre Befangenheit.<said id="3" mode="reported" content="speech" level="1"> Kaum konnte <seg id="3" type="speaker">sie</seg>
+                        <said id="4" mode="reported" content="speech" level="2">den höflichen <seg id="4" type="intExpr">Grnß</seg> des <seg id="4 5 8" type="speaker">Grafen</seg></said> formgewandt <seg id="3" type="intExpr">erwidern</seg>.
+ </said>             <said id="5" mode="direct" content="speech" level="1"> „Verzeihen Sie, Fräulein Pitras, daß ich unangemeldet hier eingetreten bin. <said id="6" mode="reported" content="thought" level="2" border="yes">Aber <seg id="6" type="speaker">ich</seg> <seg id="6" type="intExpr">glaubte</seg>
+                        die Fürstin allein</said>, und als altbekannter Freund
+                        des Hanses bedarf ich weiter keiner Anmeldung.
+                       <seg id="23" type="frame" pos="start"> <seg id="23" type="speaker">Ich</seg> <seg id="23" type="intExpr">wundere</seg> mich,</seg><said id="23" mode="indirect" content="thought" level="2"> Sie hier zu sehen.</said>“
+ </said>                        
+              <said id="7" mode="direct" content="speech" level="1"> „Ich habe das bestellte Armband abgeliefert“</said><seg id="7" type="frame" pos="end">,
+                        <seg id="7" type="intExpr">flüsterte</seg> <seg id="7 9 11 15" type="speaker">Kara</seg> kaum vernehmlich.
+ </seg>              <said id="8" mode="direct" content="speech" level="1">„Ach ja, ganz recht, ich war ja selbst dabei,
+                        wie der Schmuck bestellt wurde. Doch, wo ist die
+                        Fürstin?“
+ </said>                        
+              <said id="9" mode="direct" content="speech" level="1"> „Dort im Zimmer, sie wird sogleich zurückkommen.“
+ </said>                        
+              <said id="10" mode="direct" content="speech" level="1"> „Fräulein“</said><seg id="10" type="frame" pos="mid">, <seg id="10" type="intExpr">begann</seg> der <seg id="10 14" type="speaker">Graf</seg> in peinlicher
+                        Verwirrung,</seg><said id="10" mode="direct" content="speech" level="1"> „ich habe heute mittag bei Ihrem
+                        Vater ein Geschäft abgeschlossen,<seg id="24" type="frame" pos="start"> von dem <seg id="24" type="speaker">ich</seg> <seg id="24" type="intExpr">wünschen</seg>
+                        muß,</seg> <said id="24" mode="indirect" content="thought" level="2">daß es geheim bleibt. </said>Vor- allen Dingen
+                        darf die Fürstin Morrow garnichts davon erfahren.“
+ </said>                        
+               <said id="11" mode="direct" content="speech" level="1">„Selbstredend, Herr Graf, bleibt das abgeschossene Geschäft ein Geheimnis. <said id="12" mode="reported" content="speech" level="2" nonfact="yes">Auch ohne daß
+                        <seg id="12" type="speaker">Sie</seg> mich besonders darauf <seg id="12" type="intExpr">hinwiesen</seg></said>, <said id="13" mode="reported" content="speech" level="2" nonfact="yes">hätte <seg id="13" type="speaker">ich</seg> nie
+                        darüber <seg id="13" type="intExpr">gesprochen</seg></said>, auch mit der Fürstin nicht.
+                        Wir machen uns stets des Vertrauens würdig, das
+                        man in uns setzt.“
+ </said>                        
+              <said id="14" mode="direct" content="speech" level="1"> „Verzeihen Sie, Fräulein Pitras,<said id="25" mode="reported" content="thought" level="2" nonfact="yes"> <seg id="25" type="speaker">ich</seg> <seg id="25" type="intExpr">zweifle</seg>
+                        nicht daran</said>, aber die Angelegenheit ist für mich
+                        von solcher Wichtigkeit,<said id="26" mode="reported" content="speech" level="2" prag="yes"> daß <seg id="26" type="speaker">ich</seg> Sie ausdrücklich
+                        um Ihr Ehrenwort <seg id="26" type="intExpr">bitte</seg>.</said>“
+ </said>                        
+              <said id="15" mode="direct" content="speech" level="1"> „Ich gebe es Ihnen hiermit, Herr Graf, gleichzeitig auch im Namen meines Vaters.“
+ </said>                        
+               Der Graf sah sie dankbar an, ergriff ihre kleine
+                        Hand und drückte leise einen Kuß darauf. Kara
+                        erglühte und ein leichtes Beben durchzitterte ihren
+                        Körper. Bisher hatte sie noch kein junger Mann
+                        berührt, geschweige denn geküßt. Deshalb brannte
+                        dieser erste Kuß wie Feuer und ließ ihre Pulse
+                        heftig schlagen.
+               Paul Lemuroffs Blick hing wie gebannt an
+                        der anmutigen Erscheinung Karas, die aussah, als
+                        gehöre sie durch ihre Geburt in diese Räume, in
+                        denen sie sich gerade befanden. <said id="16" mode="reported" content="speech" level="1" nonfact="yes"><seg id="16" type="speaker">Beide</seg> <seg id="16" type="intExpr">schwiegen</seg></said>,
+                        <said id="17" mode="reported" content="speech" level="1" metaph="yes">aber in ihren Herzen <seg id="17" type="intExpr">redete</seg> eine <seg id="17" type="speaker">Stimme</seg>, die
+                        mächtiger war als die Worte des Mundes hätten
+                        sein können.</said> Plötzlich trat die Fürstin ein, immer
+                        noch erregt. Als <seg id="18 21" type="speaker">sie</seg> den <seg id="20" type="speaker">Grafen</seg> erblickte, zwang
+                        sie ein Lächeln auf ihre Züge, das aber ihrer
+                        wahren Gemütsstimmung fern lag und deshalb auch
+                        nicht ihre Züge verschönte, wie es sonst der Fall
+                        war.
+             <said id="18" mode="direct" content="speech" level="1">  „Entschuldigen Sie mich einen Augenblick,
+                        lieber Graf, <said id="19" mode="reported" content="speech" level="2" nonfact="yes"><seg id="19" type="speaker">ich</seg> habe mit der Tochter meines Juweliers noch einige Worte zu <seg id="19" type="intExpr">reden</seg>.</said> Ich kehre
+                        gleich zu Ihnen zurück.“
+ </said>                        
+             <said id="20" mode="direct" content="speech" level="1">  „Bitte, Fürstin, ordnen Sie Ihre Geschäfte, ich
+                        werde mich zurückziehen.“
+ </said>                        
+              <said id="21" mode="direct" content="speech" level="1"> „Nicht doch, lieber Graf! Dort steht mein
+                        Piano, das erst heute morgen aus Paris hier
+                        eingetroffen ist. Phantasieren Sie ein wenig darauf.
+                        Aber spielen <seg id="22" type="speaker">Sie</seg>, bitte, laut, <said id="22" mode="reported" content="speech" level="2" nonfact="yes">und <seg id="22" type="intExpr">sagen</seg> mir dann
+                        Ihr Urteil</said>, denn Sie sind ja Kenner.“
+ </said>                        
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

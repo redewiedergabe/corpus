@@ -1,0 +1,164 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_morgenblatt48_1856_15.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.morgenblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+            
+            
+                        
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                                    
+                        
+                        
+                                    
+                                                
+                                                  -- Neues
+                                                  Bauprojekt.
+                                                  -- Schillerhaus zu Oggersheim.
+                                                  -- Johann Schiller.
+                                                  -- Redwitz.
+                                                  -- Professor Riehl.
+                                                  -- Die Prinzessin von Preußen.
+                                                  
+                                                
+                                                
+                                                
+                                                  Die Zahl der magern Jahre, die sich
+                                                  für unsere Winzer schon über die böse sieben
+                                                  beläuft, scheint noch nicht voll zu seyn.
+                                                  Der Herbst ist abermals ohne Jubel
+                                                  vorübergegangen, und die schweren Nebel, welche
+                                                  während desselben über den Weinbergen lagen, haben
+                                                  so recht das Bild der Winzerphysiognomien
+                                                  abgegeben.
+                                                  Wäre der kärglich fließende
+                                                  Rebensaft nicht noch viel theurer, als er gut ist,
+                                                  die Calamität müßte für den ganzen Landstrich
+                                                  längs der Haardt unerträglich drückend werden, wie
+                                                  sie es für Einzelne schon geworden ist.
+                                                  Mittlerweile sitzen unsere Frucht=,
+                                                  Kartoffel = und Tabaksbauern wieder im Fett und
+                                                  brauchen keinen Tröster, wie ihn jene in dem Wun
+                                                  derdoktor Gall suchen möchten, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">wenn die
+                                                  Gerichte nicht so gar scharf über die
+                                                  Wunderthuerei urtheilten</said>, die nicht nur aus saurem
+                                                  Wein süßen, sondern selbst aus Wasser Wein
+                                                  macht.
+                                                  Was uns im Allgemeinen dabei als
+                                                  Trost bleibt, ist das, daß wir dem nahenden Winter
+                                                  nicht mit so banger Sorge entgegen sehen müssen,
+                                                  wie dieß vor einigen Jahren der Fall war.
+                                                  Es steht im Ganzen nicht schlecht
+                                                  im Lande, und selbst da, wo es schlecht steht, ist
+                                                  in einer Weise Fürsorge getroffen, daß es an
+                                                  Durchhülfe nicht fehlen wird.
+                                                
+                                                
+                                                  <said id="2" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">Doch was rede ich von der
+                                                  Zukunft?</said>
+                                                  <said id="3" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">Jch habe noch so vieles von
+                                                  Vergangenheit und Gegenwart zu erzählen</said>, 
+                                                  
+                                                  <said id="4" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">was ich theilweise schon früher
+                                                  hätte berichten können</said>, aber auf diesen Brief
+                                                  verschoben habe, um den Lesern einen Ueberblick
+                                                  über das zu geben, was Sommer und Herbst uns
+                                                  gebracht haben, oder was doch an uns
+                                                  vorübergezogen ist.
+                                                  Da tritt denn vor allem wieder die
+                                                  herrliche Ludwigshöhe hoch heraus.
+                                                  Sie war in diesem Sommer wieder der
+                                                  Centralpunkt jenes Lebens und Treibens, das sich
+                                                  in einer entlegenen Provinz über das Niveau des
+                                                  Alltäglichen erhebt und die Blicke auf sich
+                                                  zieht.
+                                                  Jn seine Villa Ludwigshöhe ist
+                                                  König Ludwig am 7. Juni wieder eingezogen, von der
+                                                  Bevölkerung herzlicher als je empfangen.
+                                                  Sie hat sich innig gefreut, ihn
+                                                  nach der schweren Krankheit gesund wieder zu
+                                                  sehen, um so mehr<seg id="5" type="frame" pos="start">, als <seg id="5" type="speaker">sie</seg> schon <seg id="5" type="intExpr">gezweifelt</seg> hatte,</seg>
+                                                  <said id="5" mode="indirect" content="thought" level="1" border="yes">ob er je wieder kommen werde, nachdem der Tod ihm
+                                                  die Gemahlin von der Seite gerissen.</said>
+                                                  <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">Man</seg> <seg id="6" type="intExpr">fürchtete</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1" border="yes">es werde dem Könige
+                                                  droben zu einsam werden</said>, aber statt dessen
+                                                  entfaltete sich just in diesem Jahre ein viel
+                                                  bunteres und bewegteres Leben auf Ludwigshöhe, als
+                                                  dieß bei einer der früheren Villeggiaturen des
+                                                  Königspaares je der Fall gewesen.
+                                                  Schon am Tag nach der Ankunft des
+                                                  Vaters traf auch Prinzessin Alexandra ein, die
+                                                  sich durch ihre Leutseligkeit und durch zahlreiche
+                                                  Wohlthaten einen gefeierten Namen in der Pfalz
+                                                  gemacht hat.
+                                                  Nicht nur daß sie den Vater auf
+                                                  seinen täglichen Ausflügen begleitete, sie machte
+                                                  solche auch allein an Orte, wo Pfleghäuser armer
+                                                  Kinder bestehen, um diesen durch allerlei
+                                                  Geschenke Freude zu bereiten.
+                                                  Besonders scheint es der Prinzessin
+                                                  in den stillen Thälern jenseits des Trifels
+                                                  gefallen zu haben.
+                                                  So erschien sie nicht weniger als
+                                                  dreimal in dem lieblichen Gossersweiler Thale und
+                                                  machte oft weitere Touren zu Fuß, um den Kindern
+                                                  ihre Geschenke zu bringen.
+                                                  Auch die
+                                                  Großherzogin von Hessen kam, und blieb, wie in
+                                                  früheren Sommern, die beständige Begleiterin ihres
+                                                  königlichen Vaters.
+                                                
+                                    
+                        
+            
+
+</p>
+      </body>
+   </text>
+</TEI>

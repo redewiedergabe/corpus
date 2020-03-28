@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die fünfundzwanzig Regentenjahre des Großherzogs von Baden.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341825_157642.txt_21.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Die fünfundzwanzig Regentenjahre des Großherzogs von Baden.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Das Vorstehende möge genügen, zu zeigen,
+                        wie wirklich ein frischer Hauch ächt konstitutionellen Lebens reinigend, kräftigend, befreiend das schöne Ländchen an Deutschlands südwestlicher Ecke durchzieht zum Segen des in ihm sich findenden Volkes.
+            Das Programm der neuen Aera wurde von dem Volk und seiner Vertretung gebilligt. Die Kirchen waren dnrch die Ereignisse des Jahres 1860
+                        zunächst berührt. Die aus der bevormundenden Gewalt des Staates entlassene
+                        evangelische Kirche hat, die geschaffene Lage anerkennend, sich mit dem Grund- 
+            
+            gesetz v. 5. September 1861 <seg id="5" type="frame" pos="start">eine auf dem Gemeindeprinzip beruhende <seg id="5" type="speaker">Repräsentativverfassung</seg> gegeben, der <seg id="5" type="intExpr">zufolge</seg> sie,</seg> <said id="5" mode="indirect" content="writing" level="1">mit dem Rechte konstitutioneller
+                        Selbstverwaltung ausgestattet, direkt uuter dem Großherzog als Landesbischof
+                        steht.</said> <said id="1" mode="reported" content="speech" level="1" metaph="yes">Die römisch-katholische Kirche hat opponirt und protestirt</said> und thut dies
+                        bis zum gegenwärtigen Augenblick, wo für ihre jungen Theologen <said id="6" mode="reported" content="speech writing" level="1">das kirchliche
+                        Verbot der Ablegung des staatlich geforderten Examens</said> feststeht. <said id="2" mode="reported" content="writing" level="1">Jeder neue
+                        Akt der Gesetzgebung, welcher die staatliche Souveränetät auf dem staatskirchlichen
+                        Gebiet zum Ausdruck brachte</said>, <said id="3" mode="reported" content="speech" level="1">rief Proteste der Kurie, klerikale Volksdemonstrationen, Adressenstürme in Masse hervor.</said> <seg id="4" type="frame" pos="start">Im Frühjahr 1869 <seg id="4" type="intExpr">organisirten</seg>
+                        sich die <seg id="4" type="speaker">Ultramontanen</seg> unter dem <seg id="4" type="intExpr">Namen</seg></seg> <said id="4" mode="direct" content="speech" level="1" border="yes">„Katholische Volkspartei"</said> und
+                        versuchten durch <said id="7" mode="reported" content="writing" level="1">Aufstellung eines aus dem Jahre 1848 hervorgeholten Programms
+                        (Trennung von Staat und Kirche, direktes Wahlrecht u. s. w.)</said> eine auf den
+                        Sturz des Ministeriums Jolly abzielende Bewegung in weite Kreise zu tragen.
+                        Das Beginnen machte, obwohl es von einer <seg id="8" type="frame" pos="start"><seg id="8" type="intExpr">sogenannten</seg></seg> <said id="8" mode="direct" content="speech" level="1" border="yes">„Wahlreform-Liga"</said> der
+                        demokratisch-großdeutschen Partei (v. Edelsheim, v. Berlichingen, dem spezifisch
+                        Mannheimer Demokraten v. Feder und dem alten Burschenschafter Venedey) unterstützt wurde, kläglich Fiasko. In der zweiten Kammer haben die Ultramontanen
+                        gegenwärtig dreizehn Sitze inne, drei sind von den sogenannten Demokraten besetzt
+                        und siebenundvierzig gehören den Nationalliberalen. Einzelne Verstimmungen
+                        zwischen der Regierung und der nationalliberalen Partei, wie z. B. die, welche gegen
+                        Ende des Jahres 1868 in der sogenannten Offenburger Bewegung gipfelte, hoben
+                        sich rasch wieder, und es konnte bis zur Stunde bei dem einträchtigen Zusammenwirken des Fürsten und seiner Regierung mit der Volksvertretung auf Grund des
+                        Programms vom 7. April 1860 bleiben. <said id="9" mode="direct" content="speech" level="1">„In schwerer Probe bewährt wird das
+                        öffentliche Recht des Landes eine neue Weihe empfangen!"</said> <seg id="9" type="frame" pos="end">Dieses <seg id="9" type="intExpr">Wort</seg> hat
+                        sich bewahrheitet.</seg> Das badische Volk keunt die Feinde seiner Selbständigkeit
+                        und Freiheit. Auch Fürst und Regierung kennen sie. Man ist in Baden zunächst am Feuer gesessen und darum zuerst warm geworden. Anwandlungen
+                        einer sentimentalen Friedensstimmung in Bezug auf den Kampf mit Rom finden
+                        hier keinen Beifall. <said id="10" mode="indirect" content="thought" level="1" border="yes">Sie werden</said><seg id="10" type="frame" pos="mid">, so <seg id="10" type="intExpr">vertraut</seg> das badische <seg id="10" type="speaker">Volk</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">ihn auch am
+                        Throne nicht finden.</said> <said id="11" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Würde es dies nicht vertrauen</said><seg id="12" type="frame" pos="start">, so müßte auf den Tag
+                        der Jubelfeier der Ruf der <seg id="12" type="speaker">Besten</seg> zu den Ohren des Fürsten schallen</seg>, <said id="13" mode="reported" content="speech" level="1" border="yes">getragen
+                        von dem tausendstimmigen Beifall der überwältigenden Mehrheit des Volkes</said>,
+                        <seg id="12" type="frame" pos="start">der <seg id="12" type="intExpr">Ruf</seg>:</seg> <said id="12" mode="direct" content="speech" level="1" nonfact="yes">Landgraf, werde hart!</said>
+                         
+            <said id="14" mode="reported" content="speech" level="1">Wir haben oben die mit dem Jahre 1860 eingeleitete neue Aera eine
+                        konstitutionelle und nationale genannt.</said> <seg id="15" type="frame" pos="start">Es erübrigt, noch in Kürze <seg id="15" type="intExpr">aufzuzeigen</seg>,</seg>
+                        <said id="15" mode="indirect" content="writing" level="1">wie sehr die Berechtigung gegeben ist, anch diese letztere Bezeichnung auf sie
+                        anzuwenden.</said>
+            <said id="16" mode="reported" content="speech" level="1">Ein energisches Festhalten und Betonen des nationalen Gedankens</said> konnte
+                         
+            
+            man nach Niederwerfung des Aufstandes von 1849 auch von der denkbar besten
+                        Regierung und dem deutsch gesinntesten Fürsten nicht erwarten. Jedes andere
+                        Streben war jetzt naturgemäß zurückgedrängt durch das Bemühen um die
+                        Selbsterhaltung, um Befestigung der eigenen, wenn auch noch so kleinen
+                        Souveränetät und Machtstellung.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

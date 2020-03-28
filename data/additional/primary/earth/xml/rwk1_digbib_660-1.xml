@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die verzauberte Prinzessin</title>
+             <author>Bechstein, Ludwig</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Bechstein,_Ludwig_Die_verzauberte_Prinzessin.tg61_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Die verzauberte Prinzessin</f>
+         <f name="author">Bechstein, Ludwig</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_660
+Bechstein,_Ludwig_Die_verzauberte_Prinzessin.tg61_1.xml
+1845
+1840
+erz
+Die verzauberte Prinzessin
+Bechstein, Ludwig
+yes
+513
+1
+
+
+
+
+
+<said id="1" mode="reported" content="speech" level="1">Denn also hatte der König, ihr Vater, verkündigen lassen.</said> – Schleunig kehrte er nach Haus und <said id="2" mode="reported" content="thought" level="1" nonfact="yes">vergaß seine Schulden und Kunden über der neuen Mär</said>, die er eilig seiner Frau hinterbrachte. <seg id="3" type="frame" pos="start">Des andern 
+Morgens schon <seg id="3" type="intExpr">sprach</seg> <seg id="3" type="speaker">er</seg> zum Helmerich,</seg> <said id="3" mode="indirect" content="speech" level="1">daß er ihn mit Roß und Wehr ausrüsten wolle zu der Fahrt</said>, und wie schnell machte der sich auf die Reise! Als er Abschied nahm, <seg id="4" type="frame" pos="start"><seg id="4" type="intExpr">versprach</seg> <seg id="4" type="speaker">er</seg> seinen Eltern,</seg> <said id="4" mode="indirect" content="speech" level="1">er wolle sie samt dem dummen Bruder Hans gleich holen lassen in einem sechsspännigen Wagen;</said> <seg id="5" type="frame" pos="start">denn <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">meinte</seg> schon,</seg> <said id="5" mode="indirect" content="thought" level="1">er wäre König.</said> Übermütig wie er dahinzog, ließ er seinen Mutwillen aus an allem, was ihm in den Weg kam. Die Vögel, die auf den Zweigen saßen und den Herrgott lobten mit Gesang wie sie es verstanden, scheuchte er mit der Gerte von den Ästen und kein Getier kam ihm in den Weg, daran er nicht seinen Schabernack ausgelassen hätte.Und zum ersten begegnete er einem Ameisenhaufen; den ließ er sein Roß zertreten, und die Ameisen, die erzürnt an sein Roß und an ihn selbst krochen und Pferd und Mann bissen, erschlug und erdrückte er alle. Weiter kam er an einen klaren Teich, in dem schwammen zwölf Enten. Helmerich lockte sie ans Ufer und tötete deren elf, nur die zwölfte entkam. Endlich traf er auch einen schönen Bienenstock; da machte er es den Bienen wie er es den Ameisen gemacht. Und so war seine Freude die unschuldige Kreatur nicht sich zum Nutzen, sondern aus bloßer Tücke zu plagen und zu zerstören. 
+                  Als Helmerich nun bei sinkender Sonne das prächtige Schloß erreicht hatte, darin die Prinzessin verzaubert war, klopfte er gewaltig an die geschlossene Pforte. Alles war still; immer heftiger pochte der Reiter. Endlich tat sich ein Schiebefenster auf und hervor sah ein altes Mütterlein mit spinnewebfarbigem Gesichte, <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">die</seg> <seg id="6" type="intExpr">fragte</seg> verdrießlich,</seg> <said id="6" mode="indirect" content="speech" level="1">was er begehre.</said> <said id="7" mode="direct" content="speech" level="1">»Die Prinzeß will ich erlösen«</said><seg id="7" type="frame" pos="start">, <seg id="7" type="intExpr">rief</seg> <seg id="7" type="speaker">Helmerich</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»geschwind macht mir auf.«</said> <said id="8" mode="direct" content="speech" level="1">»Eile mit Weile, mein Sohn«</said><seg id="8" type="frame" pos="start">, <seg id="8" type="intExpr">sprach</seg> die<seg id="8" type="speaker"> Alte</seg>;</seg> <said id="9" mode="direct" content="speech" level="1">»morgen ist auch ein Tag, um neun Uhr werde ich dich hier erwarten.«</said> Damit schloß sie den Schalter. 
+                  Am andern Morgen um neun Uhr, als Helmerich wieder 
+erschien, stand das Mütterchen schon seiner gewärtig mit einem Fäßchen voll Leinsamen, den sie ausstreute auf eine schöne Wiese.<said id="10" mode="direct" content="speech" level="1"> »Lies die Körner zusammen«</said><seg id="10" type="frame" pos="start">, <seg id="10" type="intExpr">sprach</seg> sie zu dem <seg id="10" type="speaker">Reiter</seg>,</seg> <said id="10" mode="direct" content="speech" level="1">»in einer Stunde komme ich wieder, da muß die Arbeit getan sein.«</said> – <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Helmerich</seg> aber <seg id="11" type="intExpr">dachte</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1">das sei ein alberner Spaß und lohne es nicht sich darum zu bücken;</said> er ging derweil spazieren und als die Alte wiederkam, war das Fäßchen so leer wie vorher. <said id="12" mode="direct" content="speech" level="1">»Das ist nicht gut«</said><seg id="12" type="frame" pos="start">, <seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">sie</seg>.</seg> Darauf nahm sie zwölf goldene Schlüsselchen aus der Tasche und warf sie einzeln in den tiefen dunklen Schloßteich. <said id="13" mode="direct" content="speech" level="1">»Hole die Schlüssel herauf«</said><seg id="13" type="frame" pos="start">, <seg id="13" type="intExpr">sprach</seg> <seg id="13" type="speaker">sie</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»in einer Stunde komme ich wieder, da muß die Arbeit getan sein.«</said> Helmerich lachte und tat wie vorher. – Als die Alte wiederkam und auch diese Aufgabe nicht gelöst war, <seg id="14" type="frame" pos="start">da <seg id="14" type="intExpr">rief</seg> <seg id="14" type="speaker">sie</seg> zweimal:</seg> <said id="14" mode="direct" content="speech" level="1">»Nicht gut! nicht gut!«</said> Doch nahm sie ihn bei der Hand und führte ihn die Treppe hinauf in den großen Saal des Schlosses; da saßen drei Frauenbilder, alle drei in dichte Schleier verhüllt.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

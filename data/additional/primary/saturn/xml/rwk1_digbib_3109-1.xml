@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>9.Der Zauberer und sein Lehrling</title>
+             <author>Spiegel, Karl</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Spiegel,_Karl_9__Der_Zauberer_und_sein_Lehrling.tg14_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1914</f>
+         <f name="decade">1910</f>
+         <f name="title">9.Der Zauberer und sein Lehrling</f>
+         <f name="author">Spiegel, Karl</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Bald hätte er den Hans erschnappt, aber Hans machte sich zu einem Fingerle (Fingerringlein) und fiel vor einem Mädchen nieder, das gerade daher ging. Das Mädchen sah das Fingerle, hob es auf und steckte es an seinen Finger, wohin es recht schön paßte. Alle Tage kam nun ein Mann, der dem Mädchen das Ringlein abkaufen wollte. Doch das Mädchen gab es nicht her. Eines Tages, als der Mann wieder lange umsonst gehandelt hatte, wollte er dem Mädchen das Ringlein mit Gewalt nehmen. Da fiel das Ringlein auf den Boden und wurde zu lauter Hirsekörnern. Der fremde Mann, es war der Hexenmeister, machte sich zu einem ›Göhger‹ (Hahn) und fraß die Hirsekörner auf; dann flog er davon. Die Sache hatte aber doch einen Haken gehabt; <seg id="1" type="frame" pos="start">der <seg id="1" type="speaker">Hexenmeister</seg> <seg id="1" type="intExpr">glaubte</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1">er hätte den Hans vertilgt</said>, aber der Hans lebte noch. Ein Hirsekörnlein, welches der Hans selbst war, hatte der Hexenmeister übersehen. Dies Hirsekörnlein war in des Mädchens Pantoffel gefallen und dort hatte es der Hexenmeister nicht gesehen. Hans verwandelte sich wieder in seine richtige Gestalt und freite um das Mädchen, das ihn schon als Ring an der Hand getragen hatte. Das Mädchen fand Gefallen an Hans und wurde seine Frau. 
+                  Sie lebten sehr lange und waren glücklich miteinander. <said id="2" mode="reported" content="speech" level="1" nonfact="yes">Aber nie soll Hans seiner Frau etwas von seiner Hexenkunst erzählt haben</said> und <seg id="3" type="frame" pos="start">ihr auch nie <seg id="3" type="intExpr">gesagt</seg> haben,</seg> <said id="3" mode="indirect" content="speech" level="1" nonfact="yes">daß sie ihn schon als Ring an der Hand getragen habe.</said> Gegen seine Frau war Hans sehr gut<seg id="4" type="frame" pos="start">, da <seg id="4" type="speaker">er</seg> sich immer <seg id="4" type="intExpr">dachte</seg>,</seg> <said id="4" mode="direct indirect" content="thought" level="1">hat sie mich als Ring schon so gern gehabt, so hat sie mich als Mensch noch viel lieber.</said> 
+                  Seine Hexenkunst hat Hans nie mehr ausgeübt, da er bei seinem ersten Versuch so viel Angst hat ausstehen müssen, und <said id="5" mode="reported" content="speech" level="1">wenn einmal die Rede aufs Hexen kam</said>, <seg id="6" type="frame" pos="start">soll <seg id="6" type="speaker">Hans</seg> immer <seg id="6" type="intExpr">gesagt</seg> haben:</seg> <said id="6" mode="direct" content="speech" level="1">Das ist nichts für rechtschaffene Leute.</said>
+                  
+                     Aufgeschrieben durch Herrn Adolf Schäfer, z.Z. Steuerrevisor in Fichtelberg, O.-Fr.; dem Verein übergeben am 3. 2. 1896. (Urschrift.)
+               
+               
+                  Fußnoten
+                  <note>
+                     
+                        
+                        1 Vorbemerkung des Märchen-Aufschreibers: Die Märchen auf der Rhön sind noch zahlreich, mehr als die Sagen. In jedem Dorfe gibt es gewisse Personen, <said id="7" mode="reported" content="speech" level="1">die besonders gut Märchen erzählen können</said> und über eine große Anzahl solcher verfügen. Solche Personen haben immer ein gutes <said id="8" mode="direct" content="speech" level="1">»Sprechwerk«</said><seg id="8" type="frame" pos="end">, wie der <seg id="8" type="speaker">Volksausdruck</seg> <seg id="8" type="intExpr">heißt</seg>,</seg> dazu ein beneidenswertes Gedächtnis, <said id="9" mode="reported" content="speech" level="1">so daß sie ein einmal gehörtes Märchen meist sofort Wort für Wort nacherzählen können</said>; dagegen sind sie nur mangelhaft lese- und schreibkundig, manche von ihnen sind es gar nicht. Natürlich war die Erzählweise sehr urwüchsig und durchaus nicht salonfähig. In der Spinnstube, beim Spielgehen, auf der Weide wurden »Märlich« und »Geschichtlich« erzählt, und wo ein Mann oder eine Frau im Hause war, <said id="10" mode="reported" content="speech" level="1">die schön erzählen konnte</said>, dahin ging man gern »spiel« und »spinn«. Ein Märchen, der goldene Johannes, der bei seiner Geburt schon ein goldenes Kreuz auf seiner Brust hatte, <said id="11" mode="reported" content="speech" level="1">wurde besonders gern und oft verlangt</said> und es durfte ein guter Erzähler sein, <said id="12" mode="reported" content="speech" level="1" nonfact="yes">wollte er dieses Märchen an einem Abend erzählen.</said> Die alten Märchen kommen »außer der Modi«, die Leute haben Lesen und Schreiben gelernt und lesen jetzt selbst Geschichten.
+
+</note>
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

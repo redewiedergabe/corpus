@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Leib Weihnachtskuchen und sein Kind</title>
+             <author>Franzos, Karl Emil</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Franzos,_Karl_Emil_Leib_Weihnachtskuchen_und_sein_Kind.tg56_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1896</f>
+         <f name="decade">1890</f>
+         <f name="title">Leib Weihnachtskuchen und sein Kind</f>
+         <f name="author">Franzos, Karl Emil</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Du scheinst dir eine große Neuigkeit zu erwarten«</said><seg id="1" type="frame" pos="mid">, <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg> harmlos,</seg> indem er mit seinem Stock in den Sand vor ihm ein Wappen Davids zeichnete. <said id="1" mode="direct" content="speech" level="1">»Da wirst du enttäuscht sein; es ist ja etwas, was immer so kommt. Nämlich – ich habe es nicht bemerkt, ich alter Esel, wahrhaftig! – aber natürlich sonst jeder ... Also unser klein Miriamchen ist ja gar nicht klein mehr – was, Janko?«</said> 
+                     <said id="2" mode="reported" content="speech" level="1" nonfact="yes">Der junge Bauer erwiderte nichts.</said> Das Haupt an das Holzkreuz zurückgelehnt, saß er regungslos da; schwer ging der Atem durch den halb offenen Mund aus und ein. Das Antlitz war fahl, bis in die Lippen erblaßt, und in den Augen war noch immer jenes Blinzeln, als sähen sie einen tödlichen Hieb herabsausen. 
+                     <said id="3" mode="direct" content="speech" level="1">»Natürlich hast du es bemerkt!« </said><seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">fuhr</seg> der <seg id="3" type="speaker">Kleine</seg> <seg id="3" type="intExpr">fort</seg>.</seg> <said id="4" mode="direct" content="speech" level="1">»Ein schönes, schweres, heiratsfähiges Mädchen«</said> <seg id="4" type="frame" pos="mid">– <seg id="4" type="speaker">er</seg> <seg id="4" type="intExpr">lächelte</seg> stolz und verlegen zugleich –</seg> <said id="4" mode="direct" content="speech" level="1">»und ein solches Mädchen ...«</said> 
+                     <said id="5" mode="direct" content="speech" level="1">»Nun?«</said> Es klang wie ein Röcheln. 
+                     <said id="6" mode="direct" content="speech" level="1">»Da fragst du noch? Ein solches Mädchen verheiratet man eben!«</said> 
+                     Darauf blieb es eine Weile still. <said id="7" mode="direct" content="speech" level="1">»Ja, ja, mein lieber Janko«</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">sagte</seg> dann der <seg id="7" type="speaker">Alte</seg>,</seg> <said id="7" mode="direct" content="speech" level="1">»das also will ich jetzt ...«</said> 
+                     Weiter kam er nicht. Aus der Brust des jungen Bauern brach ein Schrei, so wild, so röchelnd, daß der Jude entsetzt emporfuhr. Aber noch stärker faßte ihn das Grauen, als er in dieses totenfahle, furchtbar verzerrte Antlitz blickte; die Augen starr, den Mund offen, die Mundwinkel tief herabgesenkt ... <seg id="8" type="frame" pos="start">Den <seg id="8" type="speaker">Kleinen</seg> schüttelte der <seg id="8" type="intExpr">Gedanke</seg>:</seg> <said id="8" mode="direct" content="thought" level="1">Der Mensch stirbt ...</said>
+                     <said id="9" mode="direct" content="speech" level="1">»Janko!«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">schrie</seg> <seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">auf</seg></seg> und faßte die Hand des Bauern. Sie war eiskalt, wie die eines Toten. <said id="10" mode="direct" content="speech" level="1">»Was ist dir? ... Du bist krank?«</said> <said id="11" mode="direct" content="thought" level="1">Ein plötzlicher Krampf</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">dachte</seg> <seg id="11" type="speaker">er</seg>,</seg> und sah sich um Hilfe um. Weitab tauchte der Jungknecht hinter dem Pflug auf. Leib hob die Hand. 
+                     <said id="12" mode="direct" content="speech" level="1">»Laß das!«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">stieß</seg> der <seg id="12" type="speaker">Bauer</seg> heiser <seg id="12" type="intExpr">hervor</seg>.</seg> <said id="13" mode="direct" content="speech" level="1">»Hör mich an ...«</said> <said id="15" mode="reported" content="speech" level="1">Die Stimme sank zum keuchenden, fast unverständlichen Flüstern herab.</said> <said id="14" mode="direct" content="speech" level="1">»Es darf nicht sein ...«</said> 
+                     <said id="16" mode="direct" content="speech" level="1">»Was?«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">fragte</seg> der <seg id="16" type="speaker">Jude</seg> angstvoll.</seg> <said id="17" mode="direct" content="thought" level="1">Er ist nicht bei Sinnen</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">dachte</seg> <seg id="17" type="speaker">er</seg>,</seg> <said id="17" mode="direct" content="thought" level="1">ein plötzliches Fieber ...</said> Und wieder blickte er nach dem Knecht aus. 
+                     Janko richtete sich empor; mit zitternder Hand riß er den Hemdkragen auf, als müßte er sonst ersticken, daß die braune, zottige Brust sichtbar wurde und wie sie sich krampfhaft, nach Atem ringend, senkte und hob. Nun endlich hatte er wieder Luft. 
+                     <said id="18" mode="direct" content="speech" level="1">»Ich duld's nicht!«</said> <seg id="18" type="frame" pos="end"><seg id="18" type="intExpr">schrie</seg> <seg id="18" type="speaker">er</seg> laut, verzweiflungsvoll,</seg> und die Augen, in denen nun plötzlich ein wildes Feuer aufglühte, bohrten sich in die des Juden. <said id="19" mode="direct" content="speech" level="1">»Eher töt ich sie, mich, euch alle ... Laß das!«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">wiederholte</seg> <seg id="19" type="speaker">er</seg> wild</seg>, als der Jude wieder ängstlich nach dem Knecht schielte. <said id="20" mode="direct" content="speech" level="1">»Ich bin nicht wahnsinnig – nein, jetzt nicht. Ich war es – all die Zeit – <seg id="21" type="frame" pos="start">da hab <seg id="21" type="speaker">ich</seg> nicht <seg id="21" type="intExpr">gedacht</seg> –</seg> <said id="21" mode="indirect" content="thought" level="2" nonfact="yes">wie es kommen kann ...</said> Aber jetzt ...«</said> Er faßte die Hand des Männchens mit eisernem Druck und zog den Zitternden auf das Bänkchen neben sich nieder. <said id="22" mode="direct" content="speech" level="1">»Hör mich an, Leibko, um Gottes Erbarmung willen hör mich an. ... In Güte, Leibko, in Güte ... Ich bin nicht wahnsinnig, ich drohe nicht ... Vergiß, was ich da gesagt habe ... O mein Gott, lieber sterbe ich ja zehn Tode, als daß ich ihr ein Haar krümme ... Aber siehst du – ich habe ja nichts als sie auf der Welt ... Es darf nicht sein ... siehst du ... es wäre ja auch ein Unglück für sie ...«</said> 
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

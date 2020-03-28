@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Mantel</title>
+             <author>Gogol, Nikolaj Vasilevi?</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Gogol,_Nikolaj_Vasilevic_Der_Mantel.tg8_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Der Mantel</f>
+         <f name="author">Gogol, Nikolaj Vasilevi?</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Petrowitsch ließ nie eine Gelegenheit vorübergehen, ohne den Deutschen einen Hieb zu versetzen. 
+                  <said id="1" mode="direct" content="speech" level="1">»Sie müssen sich unbedingt einen neuen Mantel anschaffen«</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">fügte</seg> <seg id="1" type="speaker">er</seg> <seg id="1" type="intExpr">hinzu</seg>.</seg> 
+                  <said id="2" mode="direct" content="speech" level="1">»Einen neuen Mantel?«</said> 
+                  Akaki Akakjewitsch wurde es schwarz vor den Augen. <seg id="3" type="frame" pos="start">Es <seg id="3" type="intExpr">war</seg> <seg id="3" type="speaker">ihm</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1">als ob sich die Schneiderwerkstatt um ihn herum drehe</said>, und der einzige Gegenstand, den er klar unterscheiden konnte, war das mit Papier beklebte Porträt des Generals auf der Tabaksdose des Schneiders. 
+                  <said id="4" mode="direct" content="speech" level="1">»Einen neuen Mantel«</said><seg id="4" type="frame" pos="mid">, <seg id="4" type="intExpr">murmelte</seg> <seg id="4" type="speaker">er</seg> wie halb bewußtlos.</seg> <said id="4" mode="direct" content="speech" level="1">»Aber ich habe ja kein Geld.«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Jawohl, einen neuen Mantel«</said><seg id="5" type="frame" pos="start">, <seg id="5" type="intExpr">wiederholte</seg> <seg id="5" type="speaker">Petrowitsch</seg> mit grausamer Gelassenheit.</seg> 
+                  <said id="6" mode="direct" content="speech" level="1">»Ja, selbst wenn ich einen solchen Entschluß faßte – wieviel –«</said> 
+                  <said id="7" mode="direct" content="speech" level="1">»<seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Sie</seg> <seg id="9" type="intExpr">meinen</seg>,</seg> <said id="9" mode="indirect" content="speech thought" level="1" nonfact="yes">wieviel er kostet?</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»Ja.«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Etwa hundertfünfzig Papierrubel«</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">antwortete</seg> der <seg id="10" type="speaker">Schneider</seg></seg> und kniff die Lippen zusammen. 
+                  
+                     Diesem verwünschten Schneider machte es ein besonderes Vergnügen, seine Kunden in Verlegenheit zu setzen und den Ausdruck ihrer Gesichter mit seinem schielenden einzigen Auge zu beobachten. 
+                  <said id="11" mode="direct" content="speech" level="1">»Hundertfünfzig Rubel für einen Mantel?«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">wiederholte</seg> <seg id="11" type="speaker">Akaki Akakjewitsch</seg> in einem Tone</seg>, der wie ein Aufschrei klang – vermutlich der erste Schrei, den er seit seiner Geburt ausgestoßen, <said id="12" mode="reported" content="speech" level="1">denn er sprach sonst immer nur in ganz schüchternem Tone.</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Ja«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">versetzte</seg> <seg id="13" type="speaker">Petrowitsch</seg>,</seg> <said id="13" mode="direct" content="speech" level="1">»und dann der Marderkragen und seidenes Futter für die Kapuze – das macht zusammen zweihundert Rubel.«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Petrowitsch, ich beschwöre dich«</said><seg id="14" type="frame" pos="mid">, <seg id="14" type="intExpr">sagte</seg> <seg id="14" type="speaker">Akaki Akakjewitsch</seg> mit flehender Stimme</seg>, da er die Worte des Schneiders nicht mehr hörte noch hören wollte, <said id="14" mode="direct" content="speech" level="1">»versuche, mir diesen Mantel auszubessern, damit er noch eine Zeitlang vorhält.«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Nein, das wäre ganz verlorne Arbeit und unnütze Verschwendung.«</said> 
+                  Nach dieser Antwort ging Akaki ganz vernichtet wieder fort, während Petrowitsch mit zusammengebissenen Lippen, müßig und sehr zufrieden, daß er sich so fest gezeigt und die Schneiderwissenschaft so tapfer verteidigt hatte, auf dem Tische zurückblieb. 
+                  Ohne Ziel; aufs Geratewohl, wanderte Akaki wie ein Traumwandler in den Straßen umher ... <said id="16" mode="direct" content="speech" level="1">»Welch eine Verlegenheit!«</said> <seg id="16" type="frame" pos="end"><seg id="16" type="intExpr">sprach</seg> <seg id="16" type="speaker">er</seg> in einem fort vor sich hin ...</seg> <said id="17" mode="direct" content="speech" level="1">»Wahrlich, <seg id="18" type="frame" pos="start">das hätte <seg id="18" type="speaker">ich</seg> nie <seg id="18" type="intExpr">geglaubt</seg>,</seg> <said id="18" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß es ein solches Ende nehmen würde.</said> Nein«</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">fuhr</seg> <seg id="17" type="speaker">er</seg> nach kurzem Schweigen <seg id="17" type="intExpr">fort</seg>,</seg> <said id="17" mode="direct" content="speech" level="1">»<seg id="19" type="frame" pos="start">das konnte <seg id="19" type="speaker">ich</seg> nicht <seg id="19" type="intExpr">ahnen</seg>,</seg> <said id="19" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß es dahin kommen könnte</said> ... da befinde ich mich nun in einer vollständig unerwarteten Lage ... in einer Bedrängnis, daß –«</said> 
+                  <said id="20" mode="reported" content="speech" level="1">Und sein Selbstgespräch in dieser Weise fortsetzend</said>, ging er, statt sich seiner Wohnung zu nähern, in einer ganz verkehrten Richtung, ohne es auch nur zu merken. Ein Schornsteinfeger schwärzte ihm im Vorübergehen den Rücken. Aus einem Hause, an dem gebaut wurde, schüttete ihm ein Korb eine Ladung Gipsbrei auf den Kopf. Aber er sah und hörte nichts. Nur als er gegen einen Wachtposten anprallte, der, nachdem er seine Hellebarde neben sich gestellt, aus einer Dose Tabak in seine knochige Hand schüttete, wurde Akaki aus seiner Träumerei aufgerüttelt. 
+                  <said id="21" mode="direct" content="speech" level="1">»Was suchst du hier?«</said> <seg id="21" type="frame" pos="mid"><seg id="21" type="intExpr">schrie</seg> ihn der rohe <seg id="21" type="speaker">Hüter</seg> der städtischen Ordnung an;</seg> <said id="21" mode="direct" content="speech" level="1">»kannst du nicht ordentlich da über den Bürgersteig gehen?«</said> 
+                  Diese plötzliche Anrede weckte Akaki endlich vollständig aus seinem dumpfen Zustande. <said id="22" mode="reported" content="thought" level="1">Er sammelte seine Gedanken, betrachtete seine Lage mit ungetrübtem Blick und ging ernst, freimütig, wie mit einem Freunde, dem man seine Herzensgeheimnisse vertraut, mit sich zu Rate.</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Nein«</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">sprach</seg> <seg id="23" type="speaker">er</seg> endlich,</seg> <said id="23" mode="direct" content="speech" level="1">»heute erlange ich nichts von Petrowitsch ... heute ist er in schlechter Laune ... vielleicht hat ihn seine Frau geprügelt ... ich will ihn nächsten Sonntag wieder aufsuchen.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

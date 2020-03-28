@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der entwendete Brief</title>
+             <author>Poe, Edgar Allan</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Poe,_Edgar_Allan_Der_entwendete_Brief.tg55_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1845</f>
+         <f name="decade">1840</f>
+         <f name="title">Der entwendete Brief</f>
+         <f name="author">Poe, Edgar Allan</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+erz_2466
+Poe,_Edgar_Allan_Der_entwendete_Brief.tg55_1.xml
+1845
+1840
+erz
+Der entwendete Brief
+Poe, Edgar Allan
+yes
+539
+1
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Er ist Mathematiker und kein Dichter.«</said> 
+                  <said id="2" mode="direct" content="speech" level="1">»<said id="3" mode="reported" content="thought" level="2">Sie irren sich.</said> Ich kenne ihn gut; er ist beides. <seg id="30" type="frame" pos="start">Als Dichter und Mathematiker <seg id="30" type="intExpr">versteht</seg> <seg id="30" type="speaker">er</seg>,</seg> <said id="30" mode="indirect" content="thought" level="2" border="yes"><said id="31" mode="reported" content="thought" level="3" nonfact="yes">schlau zu überlegen</said></said>; <said id="5" mode="reported" content="thought" level="2" nonfact="yes" border="yes">als bloßer Mathematiker verstände er überhaupt nicht <said id="32" mode="reported" content="thought" level="3" nonfact="yes">zu schlußfolgern</said></said> und wäre sicherlich dem Präfekten in die Hände gefallen.«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Sie überraschen mich«</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">sagte</seg> <seg id="6" type="speaker">ich</seg>.</seg> <said id="7" mode="direct" content="speech" level="1">»<said id="33" mode="reported" content="thought" level="2">Ihre Anschauung</said> wird von der ganzen Welt Lügen gestraft. Sie werden doch wohl nicht eine seit Jahrhunderten festbegründete Ansicht umstoßen wollen? Die Vernunft des Mathematikers gilt seit langem als die Überlegungsfähigkeit par excellence.«</said> 
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»<seg id="9" type="frame" pos="start">Il y a à <seg id="9" type="intExpr">parier</seg></seg>«</said><seg id="8" type="frame" pos="mid">,<seg id="8" type="intExpr">erwiderte</seg> <seg id="8" type="speaker">Dupin</seg>, Chamfort zitierend,</seg> <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="indirect" content="speech" level="2">que toute <said id="10" mode="reported" content="thought" level="3" nonfact="yes">ideé publique</said>, toute convention reçue, est une sottise, car elle a convenu au plus grand nombre.</said>– <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Ich</seg> <seg id="11" type="intExpr">gebe zu</seg>,</seg> <said id="11" mode="indirect" content="speech" level="2">daß die Mathematiker ihr Bestes getan haben, die allgemeine, aber irrige Ansicht, <said id="12" mode="reported" content="speech" level="3">auf die Sie hinweisen</said>, zu verbreiten.</said> So haben sie zum Beispiel mit einer Kunstfertigkeit, die einer besseren Sache würdig gewesen wäre, <said id="34" mode="reported" content="speech" level="2">den Ausdruck ›Analysis‹ in die Algebra hineingebracht.</said> Die Franzosen sind es, denen wir diesen Trug verdanken; soll aber eine Bezeichnung überhaupt Bedeutung haben, sollein Wort nach seiner Anwendbarkeit bewertet werden, so stehen ›Analysis‹ und ›Algebra‹ etwa im selben Verhältnis zueinander, wie der lateinische Ausdruckambitusunser Wort Ehrgeiz,religioReligion oderhomines honestiehrenwerte Männer in sich schließt.«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Sie scheinen demnächst einen Feldzug gegen die Pariser Algebraisten zu planen«</said><seg id="13" type="frame" pos="mid">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">ich</seg> –</seg> <said id="13" mode="direct" content="speech" level="1">»doch bitte nur weiter!«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»<said id="15" mode="reported" content="speech" level="2">Ich bestreite die philosophische Berechtigung eines Systems, das anders als mit abstrakter Logik arbeitet.</said> <said id="16" mode="reported" content="speech" level="2">Ich bestreite im besonderen <said id="17" mode="reported" content="speech" level="3">ein aus mathematischen Studien abgeleitetes Philosophieren.</said></said> Mathematik ist die Lehre von Form und Größe; die Philosophie der Mathematiker ist weiter nichts als auf Beobachtung von Form und Größe aufgebaute Logik. <seg id="18" type="frame" pos="start">Der große Irrtum liegt in der <seg id="18" type="intExpr">Annahme</seg>,</seg> <said id="18" mode="indirect" content="thought" level="2">daß die Wahrheiten dessen, <said id="19" mode="reported" content="speech" level="3">was manreineAlgebra nennt</said>, abstrakte oder allgemeine Wahrheiten seien.</said> Und <said id="20" mode="reported" content="thought" level="2">dieser Irrtum</said> ist so ungeheuer, <seg id="21" type="frame" pos="start">daß <seg id="21" type="speaker">ich</seg> es gar nicht <seg id="21" type="intExpr">begreifen</seg> kann,</seg> <said id="21" mode="indirect" content="thought" level="2" nonfact="yes"><said id="40" mode="reported" content="thought" level="3">wie man ihm so allgemein verfallen konnte.</said></said> Mathematische Axiome sindkeineAxiome von allgemein gültiger Wahrheit. Wasrelativwahr ist – also in Beziehung auf Form und Größe –, ist zum Beispiel durchaus falsch in moralischer Hinsicht. In der Morallehre ist es meistenteilsunwahr, daß diese zusammengefaßten Einzelteile dem Ganzen entsprechen. Auch in der Chemie ist das Axiom nicht anwendbar, ebensowenig in der Lehre von der Bewegung; denn zwei Bewegungen, jede von einem gegebenen Wert, haben nicht notwendigerweise einen Wert, wenn sie gemäß ihrer Einzelwerte zu einer Summe vereinigt werden. Es gibt zahlreiche andere mathematische Wahrheiten, die nur innerhalb ihrer relativen Grenzen Wahrheiten darstellen.<said id="35" mode="reported" content="thought" level="2">Aber der Mathematiker schließt aus Gewohnheit nach seinen begrenzten Wahrheiten</said>, als ob sie von einer absoluten allgemeinen Anwendbarkeit wären – <said id="22" mode="reported" content="thought" level="2">wie man dies in der Tat allgemein annimmt.</said> <said id="36" mode="reported" content="speech" level="2">Bryant erwähnt in seiner geistvollen ›Mythologie‹ eine ähnliche Quelle des Irrtums</said>, <seg id="23" type="frame" pos="start">indem <seg id="23" type="speaker">er</seg> <seg id="23" type="intExpr">sagt</seg>:</seg> <said id="23" mode="direct" content="speech" level="2">›<said id="24" mode="reported" content="thought" level="3" nonfact="yes">Obgleich die Fabeln der Heiden nicht geglaubt werden</said>, <said id="25" mode="reported" content="thought" level="3" nonfact="yes" prag="yes">vergißt man sich doch immer wieder</said> und <said id="26" mode="reported" content="thought" level="3">zieht Folgerungen aus ihnen, als ob sie bestehende Wirklichkeiten wären.</said>‹</said> <said id="27" mode="reported" content="thought" level="2">Bei den Algebraisten nun, die selber Heiden sind, werden die ›Heiden-Fabeln‹ geglaubt</said> und <said id="37" mode="reported" content="thought" level="2">die Folgerungen gezogen</said>, nicht so sehr aus <said id="38" mode="reported" content="thought" level="2" nonfact="yes">Gedankenlosigkeit</said> als vielmehr aus einer erklärlichen Geistesverwirrung. Kurz, ich bin noch nie einem reinen Mathematiker begegnet, dem man über seine Quadratwurzeln hinaus irgendwie hätte trauen können, oder einem, <seg id="29" type="frame" pos="start"><seg id="29" type="speaker">der</seg> es nicht im stillen als <said id="39" mode="reported" content="thought" level="2" nonfact="yes">Glaubenssache</said> <seg id="29" type="intExpr">betrachtet</seg> hätte,</seg> <said id="29" mode="indirect" content="thought" level="2">daß x2+ px unbedingt und unwiderleglich gleich q sei.</said></said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

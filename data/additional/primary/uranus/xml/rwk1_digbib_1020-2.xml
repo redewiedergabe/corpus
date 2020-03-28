@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Gram</title>
+             <author>Cechov, Anton Pavlovi?</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Cechov,_Anton_Pavlovic_Gram.tg4_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Gram</f>
+         <f name="author">Cechov, Anton Pavlovi?</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+                  
+                  
+                                    
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                                  
+                                    
+                                    
+                                                  
+                                                  
+                                                  
+                                                  
+                                                 <said id="12" mode="direct" content="speech" level="1"> ... Hörst du, du
+                                                  alter Drachen?
+                                                  Oder machst du dir nichts aus
+                                                  unseren Worten?«</said> 
+                                                  
+                                                  
+                                                  Jona bekommt einen Stoß in den
+                                                  Nacken, den er mehr hört als fühlt.
+                                                  
+                                                  
+                                                  <said id="1" mode="direct" content="speech" level="1">»Hi, hi ...«</said><seg id="1" type="frame" pos="start"> <seg id="1" type="intExpr">kichert</seg> <seg id="1" type="speaker">er</seg>.</seg>
+                                                  <said id="2" mode="direct" content="speech" level="1">»Das sind mir lustige Herren ...
+                                                  Gott gebe Ihnen Gesundheit!« </said>
+                                                  
+                                                  
+                                                 <said id="3" mode="direct" content="speech" level="1"> »Kutscher, bist du verheiratet?«</said>
+                                                 <seg id="3" type="frame" pos="start"><seg id="3" type="intExpr"> fragt</seg> <seg id="3" type="speaker">einer</seg> der Langen.</seg>
+                                                  
+                                                  
+                                                 <said id="4" mode="direct" content="speech" level="1"> »Ich?
+                                                  Hi, hi ... das sind mir lustige
+                                                  Herren!
+                                                  Jetzt habe ich nur noch eine Frau:
+                                                  die feuchte Erde ... Hi, hi ... Das heißt das
+                                                  Grab!
+                                                  ... Mein Sohn ist eben gestorben,
+                                                  und ich lebe noch ... Eine wunderliche Sache, der
+                                                  Tod hat sich in der Türe geirrt ... Statt zu mir,
+                                                  ist er zu meinem Sohn gekommen ...«</said> 
+                                                  
+                                                  
+                                                  <said id="5" mode="reported" content="speech" level="1">Jona wendet sich um, um zu
+                                                  erzählen, wie sein Sohn gestorben ist,</said> <seg id="6" type="frame" pos="start">aber in
+                                                  diesem Augenblick atmet der <seg id="6" type="speaker">Bucklige</seg> erleichtert
+                                                   auf und <seg id="6" type="intExpr">erklärt</seg>,
+ </seg>                                                 <said id="6" mode="indirect" content="speech" level="1">daß sie Gott sei Dank am Ziel sind.</said>
+                                                  Nachdem Jona seine zwanzig Kopeken
+                                                  bekommen hat, blickt er lange den drei
+                                                  Nachtschwärmern nach, bis sie in einem dunklen
+                                                  Torweg verschwinden.
+                                                  Wieder ist er allein, wieder tritt
+                                                  für ihn Stille ein ... Der Gram, der für kurze
+                                                  Zeit nachgelassen hatte, kommt wieder und drückt
+                                                  ihm die Brust mit noch größerer Kraft
+                                                  zusammen.
+                                                  Jonas Augen schweifen unruhig und
+                                                  schmerzlich über die Menge, die sich zu beiden
+                                                  Seiten der Straße bewegt: <said id="8" mode="freeIndirect" content="thought" level="1">ob sich nicht unter
+                                                  diesen Tausenden von Menschen wenigstens einer
+                                                  findet, der ihn anhört?</said>
+                                                  <said id="9" mode="reported" content="thought" level="1" nonfact="yes" border="yes">Aber die Menge wogt, ohne ihn und
+                                                  seinen Gram zu bemerken</said> ... Es ist ein großer,
+                                                  keine Grenzen kennender Gram.
+                                                  Wenn Jonas Brust zerspränge und
+                                                  sein Gram herausflösse, so würde er wohl die ganze
+                                                  Welt überschwemmen, und doch kann ihn kein Mensch
+                                                  sehen.
+                                                  Er findet in einer so winzigen
+                                                  Schale Platz, daß man ihn selbst bei Licht nicht
+                                                  sieht ...
+                                                  
+                                                  
+                                                  <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">Jona</seg> erblickt einen Hausknecht mit
+                                                  einem Sack und <seg id="11" type="intExpr">entschließt</seg> sich,</seg><said id="11" mode="indirect" content="thought" level="1"> ihn
+                                                  anzusprechen.</said>
+                                                  
+                                                  
+                                                  <said id="13" mode="direct" content="speech" level="1">»Mein Lieber, wie spät mag es jetzt
+                                                  sein?«</said><seg id="13" type="frame" pos="start"> <seg id="13" type="intExpr">fragt</seg> <seg id="13" type="speaker">er</seg> ihn.</seg>
+                                                  
+                                                  
+                                                  <said id="14" mode="direct" content="speech" level="1">»Zehn ... Was stehst du da?
+                                                  Fahr weiter!«</said> 
+                                                  
+                                                  
+                                                  Jona fährt einige Schritte weiter,
+                                                  krümmt sich zusammen und gibt sich ganz seinem
+                                                  Gram hin ... <said id="16" mode="indirect" content="thought" level="1" nonfact="yes">Sich an die Menschen zu wenden, hält
+                                                  er nun für zwecklos.</said>
+                                                  Es vergehen aber keine fünf
+                                                  Minuten, als er sich wieder aufrichtet, den Kopf
+                                                  schüttelt, als ob er plötzlich einen brennenden
+                                                  Schmerz fühlte, und an den Zügeln zupft ...<said id="17" mode="freeIndirect" content="thought" level="1" nonfact="yes"> Er
+                                                  kann es nicht länger aushalten.</said>
+                                                  
+                                                  
+                                                  <said id="18" mode="direct" content="thought" level="1">– Nach Hause, –</said> <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">sagt</seg> <seg id="18" type="speaker">er</seg> sich:</seg><said id="18" mode="direct" content="thought" level="1"> –
+                                                  Nach Hause!</said>
+                                                  
+                                                  
+                                                  <said id="19" mode="reported" content="thought" level="1" border="yes">Das Pferdchen scheint seinen
+                                                  Gedanken erraten zu haben</said> und läuft Trab.
+                                                  Nach eineinhalb Stunden sitzt Jona
+                                                  neben einem großen, schmutzigen Ofen.
+                                                  Auf dem Ofen, auf dem  Fußboden, auf den Bänken,
+                                                  überall schnarchen Menschen.
+                                                  Die Luft ist dumpf und stickig ...
+                                                  Jona blickt auf die Schlafenden, kratzt sich und
+                                                  bedauert, daß er so früh heimgekehrt ist ...
+                                                  
+                                                  
+                                                  <said id="21" mode="indirect" content="thought" level="1" nonfact="yes">– Nicht einmal für den Hafer habe
+                                                  ich heut zusammengefahren, –</said> <seg id="21" type="frame" pos="start"><seg id="21" type="intExpr">denkt</seg> <seg id="21" type="speaker">er</seg> sich.</seg>
+                                                 <said id="21" mode="indirect" content="thought" level="1"> – Daher kommt auch der Gram.
+                                                  Ein Mensch, der seine Sache
+                                                  versteht ... der selbst satt ist und auch ein
+                                                  sattes Pferd hat, ist immer ruhig ...</said>
+                                                  
+                                                  
+                                                  In einer Ecke erhebt sich ein
+                                                  junger Kutscher; er räuspert sich verschlafen und
+                                                  streckt die Hand nach dem Wassereimer aus.
+                                                  
+                                                  
+                                                  <said id="22" mode="direct" content="speech" level="1">»Willst du trinken?«</said><seg id="22" type="frame" pos="start"> <seg id="22" type="intExpr">fragt</seg>
+                                                  <seg id="22" type="speaker">Jona</seg>.</seg>
+                                                  
+                                                  
+                                                  <said id="23" mode="direct" content="speech" level="1">»Gewiß will ich trinken ...«</said> 
+                                                  
+                                                  
+                                                  <said id="24" mode="direct" content="speech" level="1">»So ... Wohl
+                                                  bekomm's ... Mir ist aber, mein Lieber, mein Sohn
+                                                  gestorben ... Hast du es schon gehört?</said>
+                                                  
+                                                  
+                                                  
+                                                  
+                                    
+                  
+
+</p>
+      </body>
+   </text>
+</TEI>

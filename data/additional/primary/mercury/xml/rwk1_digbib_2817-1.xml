@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Sappho</title>
+             <author>Saar, Ferdinand von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Saar,_Ferdinand_von_Sappho.tg361_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1906</f>
+         <f name="decade">1900</f>
+         <f name="title">Sappho</f>
+         <f name="author">Saar, Ferdinand von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">chevron other</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="3" mode="direct" content="speech" level="1"><said id="1" mode="reported" content="writing" level="2">Die <seg id="1" type="speaker">Dichterin</seg>, <said id="2" mode="reported" content="speech" level="3">von der <seg id="2" type="speaker">ich</seg> <seg id="2" type="intExpr">sprach</seg></said>, hat ihn mir <seg id="1" type="intExpr">geschrieben</seg>.</said> Denn ich habe in ihrem Dasein eine kurze, aber bedeutungsvolle Rolle gespielt. Da sie längst nicht mehr atmet und mit dem wenigen, das sie hervorgebracht, verschollen und <said id="17" mode="reported" content="thought" level="2" nonfact="yes" border="yes">vergessen</said> ist, <said id="5" mode="reported" content="speech" level="2" nonfact="yes">so kann <seg id="5" type="speaker">ich</seg> Ihnen das Erlebnis <seg id="5" type="intExpr">mitteilen</seg></said>, das jetzt mit allen Einzelheiten<said id="4" mode="reported" content="thought" level="2"> in der <seg id="4" type="intExpr">Erinnerung</seg></said> vor mir auftaucht.«
+ </said>                        
+                     
+                        *
+                        *
+                        *
+                        
+                      
+                    <said id="22" mode="direct" content="speech" level="1"> »Es war vor ungefähr fünfundzwanzig Jahren. Ich hatte schon damals angefangen, aus der Mode zu kommen. In meinem Schaffen war ein Stillstand eingetreten, und die allgemeine Aufmerksamkeit wandte sich neuen, glänzenderen Erscheinungen zu. Dennoch verkehrte ich noch in der großen Welt, da sich einmal angeknüpfte Beziehungen nicht so leicht abbrechen lassen. 
+                     So fand ich mich auch bei einer Soiree ein, die noch nach Schluß der Saison in einem prachtliebenden plutokratischen Hause stattfand. Gleich bei meinem Eintritt kam der Hausherr, der mit seiner Gattin zum Empfang der Gäste nahe der Tür stand, auf mich zu.<said id="6" mode="direct" content="speech" level="2"> ›Sie können mir eine große Gefälligkeit erweisen‹</said><seg id="6" type="frame" pos="end">, <seg id="6" type="intExpr">sagte</seg> <seg id="6 7" type="speaker">er</seg></seg>, mich vertraulich unter dem Arm fassend. <said id="7" mode="direct" content="speech" level="2">›Es ist heute eine junge Dame hier, die verwaiste Tochter eines höheren Beamten, mit dem einst mein Vater in Verbindung gestanden. Sie versucht sich als Schriftstellerin, und meine <seg id="18" type="speaker">Frau</seg>, die sich für sie interessiert, <seg id="18" type="frame" pos="start"><seg id="18" type="intExpr">bestand darauf</seg>,</seg><said id="18" mode="indirect" content="speech" level="3"> daß sie eingeladen werde.</said><seg id="8" type="frame" pos="start"> <seg id="8" type="speaker">Ich</seg> <seg id="8" type="intExpr">dachte</seg>,</seg> <said id="8" mode="indirect" content="thought" level="3">sie würde sich entschuldigen lassen</said>, denn sie lebt ganz zurückgezogen in bescheidensten Verhältnissen. Nun ist sie aber doch gekommen und dürfte sich unter den vielen ihr unbekannten Menschen ziemlich vereinsamt fühlen. Da wäre es denn sehr edel von Ihnen, wenn Sie sich ihrer ein bißchen annehmen wollten. Möglicherweise ist Ihnen auch ihr Name nicht mehr ganz unbekannt, da sie doch schon einiges veröffentlicht hat.‹</said> 
+                     Es zeigte sich nun, <said id="9" mode="reported" content="thought" level="2">daß <seg id="9" type="speaker">ich</seg> wirklich eine Novelle in <seg id="9" type="intExpr">Erinnerung</seg> hatte</said>, die in einer Tageszeitung erschienen und mir durch <said id="19" mode="reported" content="writing" level="2">sehr lebendige <seg id="19" type="intExpr">Milieuschilderung</seg></said> angenehm aufgefallen war. Sie spielte irgendwo auf einem adeligen Gute und war offenbar unter dem Einflusse Turgenjews entstanden, der damals viel gelesen wurde. Auch hatte ich in einem poetischen Jahrbuche von derselben Verfasserin zwei Gedichte gefunden, die eine ungewöhnlich tiefe Empfindung bekundeten. 
+                     Obgleich ich der persönlichen Bekanntschaft mit Autoren beiderlei Geschlechtes immer gern aus dem Wege ging, so konnte <seg id="10" type="speaker">ich</seg> jetzt doch nicht umhin, <said id="10" mode="reported" content="speech" level="2">dem Hausherrn meine Bereitwilligkeit <seg id="10" type="intExpr">auszusprechen</seg>.</said> 
+                     <said id="11" mode="indirect" content="speech" level="2">›Schön. <said id="20" mode="reported" content="speech" level="3" nonfact="yes">Da werde <seg id="20" type="speaker">ich</seg> Sie gleich <seg id="20" type="intExpr">vorstellen</seg></said>‹</said><seg id="11" type="frame" pos="end">, <seg id="11" type="intExpr">sagte</seg> <seg id="11" type="speaker">er</seg></seg> und lenkte mich durch den bereits stark gefüllten Saal in ein Nebengemach, wo sich sitzende und stehende Gruppen von Herren und Damen befanden. In der Ecke eines kleinen Sofas war eine weißgekleidete Frauengestalt zu erblicken, die eine rote Kamelie im schlicht gescheitelten blonden Haar trug. <said id="12" mode="reported" content="speech" level="2"><seg id="12" type="speaker">Sie</seg> befand sich im <seg id="12" type="intExpr">Gespräch</seg> mit einem noch sehr jungen <seg id="12" type="speaker">Manne</seg></said>, einem nahen Anverwandten des Hauses, der neben ihr in einem Fauteuil saß. Es war eine Dichterin und ihr Nachbar erhob sich sofort wie erlöst,<said id="21" mode="reported" content="speech" level="2"> als jetzt die <seg id="21" type="intExpr">Vorstellung</seg> erfolgte.</said> <seg id="13 15" type="speaker">Ich</seg> nahm seinen Platz ein und <said id="13" mode="reported" content="speech" level="2"><seg id="13" type="intExpr">sagte</seg> der Dame einiges Verbindliche über ihre mir bekannten Leistungen.</said> 
+                     Sie errötete bis unter die Stirnhaare. <said id="14" mode="direct" content="speech" level="2">›Sie kennen also meine Versuche?‹</said><seg id="14" type="frame" pos="end"> <seg id="14" type="intExpr">sagte</seg> <seg id="14" type="speaker">sie</seg> mit vibrierender, etwas klangloser Stimme.</seg> 
+                    <said id="15" mode="direct" content="speech" level="2"> ›Gewiß. <seg id="16" type="frame" pos="start">Und <seg id="16" type="speaker">ich</seg> kann nur <seg id="16" type="intExpr">wiederholen</seg>,</seg> <said id="16" mode="indirect" content="speech" level="3">daß sie mir sehr gefallen haben.</said>‹</said> 
+
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

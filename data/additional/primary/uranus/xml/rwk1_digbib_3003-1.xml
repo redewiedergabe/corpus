@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Mörder</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Der_Moerder.tg300_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Mörder</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+In Neapel, wo das Schiff zu eintägiger Rast anlegen sollte, um 
+dann ohne weiteren Zwischenaufenthalt nach Hamburg abzugehen, <seg id="1" type="frame" pos="start"><seg id="1" type="intExpr">hoffte</seg> <seg id="1" type="speaker">Alfred</seg>,</seg> <said id="1" mode="indirect" content="thought" level="1"><said id="2" mode="reported" content="writing" level="2">von Adelen einen Brief</said> zu finden, <said id="3" mode="reported" content="speech" level="2">um den er sie zuletzt aus Ceylon in glühenden Worten angefleht hatte.</said></said> Das stürmische Wetter enthob ihn der Mühe, einen Vorwand dafür zu suchen, daß er sich ohne Elise in Gesellschaft anderer gleichgültiger Reisender durch einen der bereitliegenden Kähne ans Land setzen ließ. Er fuhr zur Post, trat zum Schalter, <said id="4" mode="reported" content="speech" level="1">nannte seinen Namen</said> und mußte sich mit leeren Händen zurückziehen. <seg id="5" type="frame" pos="start">Wenn <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">sich</seg> auch damit <seg id="5" type="intExpr">zu</seg> <seg id="5" type="intExpr">beruhigen</seg> versuchte,</seg> <said id="5" mode="indirect" content="thought" level="1">daß Adelens Brief nicht rechtzeitig abgesandt oder verloren gegangen war</said>, <seg id="6" type="frame" pos="start">so ließ <seg id="6" type="speaker">ihn</seg> doch das Gefühl von Vernichtung, das nach dieser Enttäuschung über ihn kam, <seg id="6" type="intExpr">erkennen</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1">daß <said id="7" mode="reported" content="thought" level="2" nonfact="yes">ein künftiges Leben ohne Adele für ihn nicht mehr zu denken war.</said></said> <seg id="8" type="frame" pos="start">Am Ende seiner Verstellungskräfte angelangt, <seg id="8" type="intExpr">dachte</seg> <seg id="8" type="speaker">er</seg> zuerst daran,</seg> <said id="8" mode="indirect" content="thought" level="1">sofort nach seiner Rückkehr auf das Schiff Elisen schonungslos die Wahrheit mitzuteilen.</said> <seg id="9" type="frame" pos="start">Gleich aber kam die <seg id="9" type="intExpr">Überlegung</seg>,</seg> <said id="9" mode="indirect" content="thought" level="1">daß die Folgen <said id="10" mode="reported" content="speech" level="2">eines solchen Geständnisses</said> nicht abzusehen waren, daß es Elise nicht nur auf der Stelle tödlich treffen, daß es sie auch in Wahnsinn oder Selbstmord treiben, daß aber eine solche Begebenheit in ihren Ursachen kaum geheim bleiben und damit seinen Beziehungen zu Adele verhängnisvoll werden könnte.</said> <said id="11" mode="reported" content="thought" level="1" nonfact="yes">Das gleiche blieb zu befürchten</said>, wenn er <said id="12" mode="reported" content="speech" level="1">das Geständnis</said> bis zum letzten Augenblick, bis zur Landung in Hamburg oder gar bis zur Ankunft in Wien aufschieben wollte. <said id="13" mode="reported" content="thought" level="1">In so verzweifelten Gedanken</said> und <said id="14" mode="reported" content="thought" level="1" border="yes">ihrer Hinterhältigkeit sich kaum mehr bewußt</said>, wandelte Alfred zur Mittagszeit im brennenden Sonnenschein am Meeresstrand umher, als er sich plötzlich schwindeln und einer Ohnmacht nahe fühlte. Angsterfüllt sank er auf eine Bank und blieb sitzen, bis der Krampf sich löste und die Nebel vor seinen Augen schwanden. Dann aber atmete er wie erwachend auf. <seg id="15" type="frame" pos="start"><seg id="15" type="speaker">Er</seg> <seg id="15" type="intExpr">wußte</seg> mit einemmal,</seg> <said id="15" mode="indirect" content="thought" level="1" border="yes">daß in dem unbegreiflichen Augenblick, da seine äußeren Sinne ihn zu verlassen gedroht hatten, ein Entschluß furchtbar und klar zu Ende gereift war, der längst in den Tiefen seiner Seele sich vorbereitet hatte.</said> <said id="16" mode="freeIndirect" content="thought" level="1">Seinen heißen, <said id="17" mode="reported" content="thought" level="2">grausamen Wunsch</said>, dessen Erfüllung er all die Tage her gleichsam aus feiger Verborgenheit zu fordern gesucht hatte, er mußte ihn nun ohne weiteren Aufschub mit eigenem Willen, mit eigenen Händen zur Tat machen.</said> Und wie <said id="18" mode="reported" content="thought" level="1">das Ergebnis langer innerer Überlegung</said> stieg ein fertiger Plan aus seiner Brust hervor. 
+                  Er erhob sich und begab sich vorerst in ein Hotel, um dort mit dem trefflichsten Appetit sein Mittagsmahl einzunehmen. Dann 
+suchte er nacheinander drei Ärzte auf, <said id="19" mode="reported" content="speech" level="1">gab sich überall als einen von unerträglichen Schmerzen gepeinigten Kranken aus</said>, der, seit Jahren an Morphium gewöhnt,<said id="20" mode="indirect" content="speech" level="1"> mit seinem Vorrat zu Ende gekommen sei</said>, nahm <said id="21" mode="reported" content="speech" level="1">die erbetenen <said id="22" mode="reported" content="writing" level="2">Rezepte</said></said> in Empfang, ließ sie in verschiedenen Apotheken anfertigen und fand sich, als er bei sinkender Sonne wieder an Bord ging, im Besitze einer Dosis, <said id="23" mode="reported" content="thought" level="1">die er für seine Zwecke mehr als genügend halten durfte.</said> <seg id="25" type="frame" pos="start"><said id="24" mode="reported" content="speech" level="1">An der Abendtafel auf dem Schiff <seg id="25" type="intExpr">erzählte</seg> <seg id="25" type="speaker">er</seg> im Tone höchsten Entzückens von einer Wanderung durch Pompeji</said>,</seg> <said id="25" mode="indirect" content="speech" level="1">zu der er den verflossenen Tag ausgenützt hätte</said>, und mit einer brennenden Lust am Lügen, als müßte er nun sein eigenes Wesen ins Teuflische steigern, <said id="26" mode="reported" content="speech" level="1">verweilte er bei der Schilderung einer Viertelstunde</said>, die er im Garten des Appius Claudius verbracht hatte, vor einer Statuette, die er natürlich in Wirklichkeit nie gesehen und von der <said id="27" mode="reported" content="writing" level="1">er zufällig im Reisehandbuch gelesen.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

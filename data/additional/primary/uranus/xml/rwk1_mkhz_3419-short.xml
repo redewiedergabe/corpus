@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_mainzerjournal015_1848_13.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1848</f>
+         <f name="decade">1840</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.mainzerjournal</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               Neueste Nachrichten.
+                        
+            
+            Von der Etsch 25. Juni. Gestern und heute soll von Verona
+                        und Roveredo aus mittels einer combinirten Bewegung gegen
+                        Rivoli die Oeffnung der nun schon vierzehn Tage gesperrten
+                        Hauptstraße durch das Etschthal wiedergenommen werden. <said id="1" mode="reported" content="speech" level="1">Diese
+                        ziemlich glaubwürdige <seg id="1" type="intExpr">Nachricht</seg></said> hat <said id="2" mode="reported" content="speech" level="1">die seit ein paar Tagen verbreitete <seg id="2" type="intExpr">Kunde</seg> über den nahen Abschluß eines Waffenstillstandes</said>
+                        widerlegt. <said id="3" mode="reported" content="writing" level="1">Der Fall von Padua hat auch jenen von Rovigo
+                         nach sich gezogen, wie heute eingetroffene <seg id="3" type="speaker">Briefe</seg> <seg id="3" type="intExpr">bestätigen</seg>.</said> Hat
+                        sich General Pepe nicht zeitig genug nach Venedig zur Uebernahme
+                        des ihm angeblich übertragenen Commando's aller dortigen italienischen Truppen begeben, so könnte er sich nun leicht den Weg
+                        verlegt sehen. ( A. Z. )
+                        
+             
+            Jn Venedig allgemeine Verwirrung! Der dortige französische Consul hat nun doch <said id="4" mode="reported" content="writing" level="1">auf das <seg id="4" type="intExpr">Ansuchen</seg> der provisorischen <seg id="4" type="speaker">Regierung</seg></said> die Vermittelung mit der Republik übernommen. Die
+                        Republik hat übrigens mit sich selbst so viel zu schaffen, daß sie
+                        sich um fremde Angelegenheiten schwerlich bekümmern kann.
+            München 27. Juni. <seg id="5" type="frame" pos="start">So eben <seg id="5" type="intExpr">erfahre</seg> <seg id="5" type="speaker">ich</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">daß nach heute
+                        hier eingetroffenen Briefen die von dem königl. bayerischen Gesandten v. Abel gemeinschaftlich mit dem königl. preußischen Gesandten v. Werther in Turin wegen der Blokade von Triest
+                        gethanen Schritte bei der sardinischen Regierung nicht vergeblich
+                        gewesen seyen, und eine befriedigende Lösung dieser deutschen Angelegenheit in den nächsten Tagen zu erwarten stehe.</said> ( A. Z. )
+                        
+             
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

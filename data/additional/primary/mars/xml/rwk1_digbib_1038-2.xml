@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Als er heim kehrte</title>
+             <author>Christen, Ada</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Christen,_Ada_Als_er_heimkehrte.tg330_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1884</f>
+         <f name="decade">1880</f>
+         <f name="title">Als er heim kehrte</f>
+         <f name="author">Christen, Ada</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Marsch, zu deiner Mutter hinüber!«</said> 
+                  Dem Leopold ging die harte Behandlung des Kindes nahe, er rückte den Sessel geräuschvoll fort, trat an das Fenster und schaute der Lene nach. Die Kleine patschte gleichgültig, ohne sich umzusehen, durch die Regenpfützen über den langen Hof. Als er so hinausstarrte, blendete ihn etwas in der Luft, und wie er aufblickte, guckte das weiße Gesichtchen der Hanne drüben aus der Dachluke, und ihre kleinen Hände winkten ihm tröstend und beruhigend zu. 
+                  <said id="2" mode="direct" content="speech thought" level="1">»Was hat das Kind nur? Es stellt sich an, als wollte es heraus auf das Dach kriechen«</said><seg id="2" type="frame" pos="end">, dachte der Leopold</seg> und erwischte sich dabei, <said id="3" mode="reported" content="speech" level="1">daß er es vor sich hin gesprochen hatte</said>, denn der Alte hielt in seinem Hinundherwandeln inne und schaute auch hinaus in die Luft. 
+                  Der Heimgekehrte lehnte sich mit einer Schulter an das Fensterkreuz und blickte empor zu den hastig treibenden Wolken. Er war wie zerschlagen, so müde, so traurig, wie sollte es in Zukunft werden, wenn schon der Tag, an dem er heimkam, so anhub ... Immer wieder glitten Schatten über sein junges Gesicht, es wurde dunkel und hell, starr und bewegt, je nachdem droben die verschwommenen geisterhaften Gebilde über den bleifarbenen Himmel eilten. Die Wolken ballten sich zusammen zu menschenähnlichen Gestalten, sie schleppten dunkle und helle Gewänder hinter sich her ... und jetzt jagten gar gespenstische Rosse da oben, <seg id="4" type="frame" pos="start">und der <seg id="4" type="speaker">Leopold</seg> <seg id="4" type="intExpr">dachte</seg>:</seg> <said id="4" mode="direct" content="thought" level="1">Vielleicht ist wirklich was dahinter, und es geht droben so wild zu wie drunten, nirgends gibt's eine rechte Ruh!</said> 
+                  Der Schlosser ging noch immer in der Stube auf und nieder 
+und schielte über die Achsel nach seinem Sohn; <seg id="5" type="frame" pos="start">plötzlich <seg id="5" type="intExpr">fragte</seg> <seg id="5" type="speaker">er</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">»Aber stumm bist du doch nicht worden? – He?!«</said> <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="thought" level="2">Glaub nicht.</said>«</said> 
+                  <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="speech" level="2" nonfact="yes">Warum redest du also nicht?</said>«</said> 
+                  <seg id="10" type="frame" pos="start">Wie leiser Spott <seg id="10" type="intExpr">klang</seg> es zurück:</seg> <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="speech" level="2">Bis jetzt hat der Herr Vater hübsch viel zu reden gehabt.</said>«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Jetzt bin ich fertig.«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Schon?...«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Ja!«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»So!«</said> Der Soldat schaute ziellos ins Leere, und über sein hageres Gesicht flog ein Lächeln, das nur ein klein wenig in den Mundwinkeln weilte und dann erstarb, um jenem traurigen Ausdruck Platz zu machen, der öfter und öfter wiederkehrte. 
+                  <said id="16" mode="direct" content="speech" level="1">»Sie haben mich jetzt die ganze Zeit angeschaut und mich behandelt und <said id="17" mode="reported" content="speech" level="2">zu mir geredet, als ob ich recht was Niederträchtiges getan hätt ...</said> <seg id="18" type="frame" pos="start"><seg id="18" type="speaker">ich</seg> <seg id="18" type="intExpr">mein</seg> aber,</seg> <said id="18" mode="indirect" content="thought" level="2">wenn einer von uns zwei schimpfen oder klagen dürft, so wär ich der</said> ... oder etwa nicht?«</said> 
+                  Der Alte hustete sehr laut, räusperte sich, öffnete die Küchentüre und spuckte hinaus, er schaute nicht auf und <said id="19" mode="reported" content="speech" level="1" nonfact="yes">gab keine Antwort.</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»Aber was hilft da alles Schimpfieren und Lamentieren«</said><seg id="20" type="frame" pos="end">, <seg id="20" type="intExpr">fuhr</seg> der <seg id="20" type="speaker">Leopold</seg> <seg id="20" type="intExpr">fort</seg></seg>; er zeigte nachlässig mit einer gewissen Vornehmheit nach dem alten Schubladenkasten, auf welchem die bescheidenen Schaustücke und Prunktassen rund um den vergoldeten Christus standen. <seg id="21" type="frame" pos="start">Mit übertriebenem Ernst <seg id="21" type="intExpr">sagte</seg> <seg id="21" type="speaker">er</seg>:</seg> 
+                  <said id="21" mode="direct" content="speech" level="1">»Dort stehen noch die alten Kaffeeschalen von der Großmutterzeit her, sind alleweil dort gestanden, ist ihnen kein Henkel abgeschlagen worden ... <seg id="22" type="frame" pos="start">Warum <seg id="22" type="intExpr">lobt</seg> denn der Herr <seg id="22" type="speaker">Vater</seg> die alten Schalen nicht dafür,</seg> <said id="22" mode="indirect" content="speech" level="2" nonfact="yes">daß ihnen nichts geschehen ist</said>, weil halt die Frau Mutter allezeit fein Obacht gegeben hat auf das gebrechliche Zeug?«</said> 
+                  Der Schlosser schaute seinen Sohn verdutzt an, dann nahm er im Vorbeigehen eine der Kaffeetassen in die Hand, blickte wieder diese genau an und stellte sie nach einer Weile ungewöhnlich behutsam auf ihren Platz.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der gestohlene König von Belgien</title>
+             <author>Federer, Heinrich</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Federer,_Heinrich_Der_gestohlene_Koenig_von_Belgien.tg15_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1911</f>
+         <f name="decade">1910</f>
+         <f name="title">Der gestohlene König von Belgien</f>
+         <f name="author">Federer, Heinrich</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Das ist wahr,«</said> <seg id="1" type="frame" pos="end"><seg id="1" type="intExpr">gestand</seg> <seg id="1" type="speaker">Berta</seg>.</seg> 
+                    <said id="2" mode="direct" content="speech" level="1"> »Auch muß ich später für den Vater auf den Viehmarkt gehen und Rosse kaufen; und, eja! ins Militär muß ich auch, zur Kavallerie, die reitet, ja, ja, das muß ich, siehst du, es geht schon nicht anders!«</said> 
+                     Elschen hatte noch etwas auf der Zunge. <said id="3" mode="reported" content="thought" level="1"><seg id="3 4" type="speaker">Sie</seg> <seg id="3" type="intExpr">bedachte</seg> sich ein wenig</said>, wurde rot, <seg id="4" type="frame" pos="start">aber <seg id="4" type="intExpr">sagte</seg> dann rasch:</seg><said id="4" mode="direct" content="speech" level="1"> »Aber, Thedi, mit mir sterben?«</said> 
+                   <said id="5" mode="direct" content="speech" level="1">  »O mit dir sterben,«</said> <seg id="5" type="frame" pos="mid"><seg id="5" type="intExpr">erwiderte</seg> statt des Knaben Schwester <seg id="5" type="speaker">Paula</seg>,</seg><said id="5" mode="direct" content="speech" level="1"> »sogleich wollte ich das!«</said> Sie stand Theodor gegenüber auf der anderen Bettseite und schmiegte sich zärtlich an Elschen. 
+                    <said id="6" mode="direct" content="speech" level="1"> »Du wirst auch nicht sterben, dummes Zeug, <said id="7" mode="reported" content="speech" level="2">so zu <seg id="7" type="intExpr">reden</seg>!</said>«</said> <seg id="6" type="frame" pos="end"><seg id="6" type="intExpr">polterte</seg> <seg id="6" type="speaker">Theodor</seg> nun</seg> und fuhr ihr wieder über das Haar, was sie nicht ungern zu leiden schien. 
+                   <said id="8" mode="direct" content="speech" level="1">  »Nein,<said id="9" mode="reported" content="thought" level="2" nonfact="yes"> <seg id="9" type="speaker">wer</seg> <seg id="9" type="intExpr">denkt</seg> denn auch ans Sterben?</said> Die Base, <said id="10" mode="reported" content="thought" level="2" nonfact="yes" border="yes">mußt <seg id="10" type="speaker">du</seg> <seg id="10" type="intExpr">wissen</seg></said>, war schon zweiundachtzig Jahre alt. So ein junges Vögelchen läßt man doch nicht schon ausfliegen!«</said> 
+                     
+                        
+Überrascht blickte ich Theodor an. <said id="11" mode="freeIndirect" content="thought" level="1">Woher hatte er dieses wunderbare Wort?</said> 
+                   <seg id="12" type="frame" pos="start">  Der rauhe und doch feinfühlige <seg id="12 13" type="speaker">Bube</seg> <seg id="12" type="intExpr">merkte</seg> sogleich,</seg> <said id="12" mode="indirect" content="thought" level="1" border="yes">wie sich eine leise Traurigkeit wie ein durchsichtiger Schleier über das kleine kranke Gesicht legte</said>, <seg id="13" type="frame" pos="start">und <seg id="13" type="intExpr">fügte</seg> darum unmittelbar <seg id="13" type="intExpr">bei</seg>:</seg> <said id="13" mode="direct" content="speech" level="1" nonfact="yes" border="yes">»Aber wenn du und ich nach vielen Jahren einmal miteinander sterben dürfen, dann nehmen wir doch den Tyras mit. <seg id="14" type="frame" pos="start"><seg id="14" type="speaker">Man</seg> <seg id="14" type="intExpr">weiß</seg> ja nie, </seg><said id="14" mode="indirect" content="thought" level="2" border="yes" metaph="yes">was einem auf dem Weg passieren kann.</said>«</said> 
+                    <said id="15" mode="direct" content="speech" level="1"> »Aber er dürfte nicht bellen,«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">bemerkte</seg> <seg id="15" type="speaker">Elschen</seg> freudig. </seg>
+                    <said id="16" mode="direct" content="speech" level="1"> »O er wird artig sein. Schau', ich machte nur so –«</said> <seg id="16" type="speaker">er</seg> hob den Zeigefinger – <said id="16" mode="direct" content="speech" level="1">»und der Hund kriecht mir vor die Schuhe.« </said>
+                    <said id="17" mode="direct" content="speech" level="1"> »Ja, das ist wahr,«</said> <seg id="17" type="frame" pos="end"><seg id="17" type="intExpr">bestätigte</seg> <seg id="17" type="speaker">Berta</seg> streng und beinahe zornig</seg>, weil alles so richtig war, <said id="18" mode="reported" content="speech" level="1">was der <seg id="18" type="speaker">Bruder</seg> <seg id="18" type="intExpr">sagte</seg></said> <said id="19" mode="reported" content="speech" level="1" nonfact="yes">und <seg id="19" type="speaker">sie</seg> in nichts <seg id="19" type="intExpr">widersprechen</seg> konnte.</said> 
+                    <said id="20" mode="direct" content="speech" level="1"> »Aber ich würde doch gerne sterben,«</said> <seg id="20" type="frame" pos="end"><seg id="20" type="intExpr">seufzte</seg> <seg id="20 21" type="speaker">Elschen</seg></seg>, <seg id="21" type="frame" pos="start">ohne irgend zu <seg id="21" type="intExpr">wissen</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">was eigentlich leben und was sterben heißt.</said> <said id="22" mode="direct" content="speech" level="1">»Ich würde euch dann zuschauen vom Himmel herab am Abend, ja, ja, durch den Abendstern wie durch eine Brille. Und ich würde schon sehen, was ihr treibt!«</said><seg id="22" type="frame" pos="end"> <seg id="22" type="intExpr">schloß</seg> <seg id="22" type="speaker">sie</seg> vergnügt und schier ein wenig schlau</seg>, <seg id="23" type="frame" pos="start">indem <seg id="23" type="speaker">sie</seg> <seg id="23" type="intExpr">dachte</seg>,</seg> <said id="23" mode="indirect" content="thought" level="1">wie sie uns etwa auf einer Heimlichkeit ertappe.</said> 
+                     Bei diesen Worten schrak ich zusammen wie von einer Wespe gestochen. Ah, sie würde wahrhaft wie jeder Geist alles sehen hier unten auf Erden, nichts 
+ könnte man mehr geheim halten. Wie ich das gestohlene Geld in der Tasche herumtrüge, wie ich es nachts unter das Kopfkissen schöbe, alles sähe sie. Die ganze Dieberei läse sie mir dann aus dem Herzen, denn diese Geister sehen auch in die letzte Falte der Seele hinein. <said id="25" mode="freeIndirect" content="thought" level="1">Nein, das durfte nicht sein, Elschen mußte leben, wenigstens, bis ich kein Dieb mehr war.</said> Morgen ist Samstag, da gehe ich über den Melzberg zum Stoppelhofer und er muß mir bei Gott und Seligkeit den Belgier wieder geben. Es fehlen mir nur noch fünf Rappen daran.<said id="24" mode="reported" content="thought" level="1"> Die <seg id="24" type="intExpr">will</seg> <seg id="24" type="speaker">ich</seg> ihm vierfach nachzahlen</said>, wenn ich nur jetzt, um Gottes willen jetzt das Silber zurück bekomme! 
+                     Das Kind fühlte sich sehr müde, als der Besuch ging. Es schlief fast den ganzen Abend, und wenn es die Augen offen hielt, schien es immer noch zu schlafen, oder es war so zerstreut oder versunken, als lebe es in einer anderen Welt.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

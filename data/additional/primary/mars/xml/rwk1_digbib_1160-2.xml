@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Wetterfrosch</title>
+             <author>Essig, Hermann</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Essig,_Hermann_Der_Wetterfrosch.tg21_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1919</f>
+         <f name="decade">1910</f>
+         <f name="title">Der Wetterfrosch</f>
+         <f name="author">Essig, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            
+               
+                  
+                     <said id="1" mode="direct" content="speech" level="1">»Verlogen ist die Geschichte mit dem großen
+                        See, mit dir wird wohl auch eine Eiskönigin fahren, <said id="2" mode="reported" content="thought" level="2">halt uns nicht für so
+                        dumm!</said>«</said> 
+                  
+                  
+                     <said id="3" mode="direct" content="speech" level="1">»Jawohl ist sie gefahren.«</said> 
+                  
+                  
+                     <said id="4" mode="direct" content="speech" level="1">»<seg id="5" type="frame" pos="start"><seg id="5" type="speaker">Man</seg> sollte dich beim Lehrer <seg id="5" type="intExpr">anzeigen</seg>,</seg> <said id="5" mode="indirect" content="speech" level="2" nonfact="yes"><said id="6" mode="reported" content="speech" level="3">daß du lügst.</said></said>«</said> 
+                  
+                  
+                     <said id="7" mode="direct" content="speech" level="1">»Ich lüge doch nicht.«</said> 
+                  
+                  
+                     <said id="8" mode="direct" content="speech" level="1">»Dann beweis es uns, Ich bin da ... vor mir kannst es ja
+                        beweisen.«</said> 
+                  
+                  
+                     <said id="9" mode="direct" content="speech" level="1">»<seg id="10" type="frame" pos="start"><seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">trau</seg> nicht,</seg> <said id="10" mode="indirect" content="thought" level="2" border="yes">ob's auch halten wird</said>«</said><seg id="9" type="frame" pos="end">, <seg id="9" type="intExpr">zagte</seg> <seg id="9" type="speaker">er</seg> den Heerführer
+                        an.</seg>
+                     <said id="11" mode="freeIndirect" content="thought" level="1">Warum mußte der auch kommen!</said>
+                     er konnte nicht einmal mehr ruhig prüfen.
+                  
+                  
+                     <said id="12" mode="direct" content="speech" level="1">»Halten.
+                     Da.«</said> Der Heerführer trat vorsichtig an den Rand und wippte
+                        bedächtig mit seinem Fuße.
+                     <said id="13" mode="direct" content="speech" level="1">»Trägt mich's nicht?
+                     und ich bin schwerer als du.«</said> 
+                  
+                  
+                     <said id="14" mode="direct" content="speech" level="1">»Aber mit den Schlittschuhen trau ich nicht.«</said> 
+                  
+                  
+                     <said id="15" mode="direct" content="speech" level="1">»<seg id="16" type="frame" pos="start"><seg id="16" type="intExpr">Ueberleg</seg> einmal,</seg> <said id="16" mode="indirect" content="thought" level="2" nonfact="yes">mit den Füssen stehst du mit der ganzen großen
+                        Fläche auf dem Eise, auf den Schlittschuhen nur mit einer dünnen schmalen
+                        Schiene, berührst das Eis im Vergleiche überhaupt nicht.</said>
+                     Wann ist's wohl schwerer, mit den Stiefeln oder mit den schmalen
+                        Schlittschuhen?«</said> 
+                  
+                  
+                     <said id="17" mode="direct" content="speech" level="1">»ha ... mit den Stiefeln«</said> .... <said id="17" mode="direct" content="speech" level="1">»Das Gefühl habe ich zwar
+                        anders.«</said> 
+                  
+                  
+                     <said id="18" mode="direct" content="speech" level="1">»Dein Verstand ist gut, aber dein Gefühl ist ein Esel«</said> 
+                  
+                  
+                     <said id="19" mode="direct" content="speech" level="1">»Ja, <said id="20" mode="reported" content="speech" level="2">du hast gut reden</said>, du hast sie nicht an.«</said> 
+                  
+                  
+                     <said id="21" mode="direct" content="speech" level="1">»Ich ziehe sie gleich an, wenn du sie mir borgst .... gib.«</said>
+                     
+                  
+                  
+                     <said id="22" mode="reported" content="thought" level="1">Der Knabe traute nicht</said>, auf diese Art trachtete ihm der
+                        Heerführer die Schlittschuhe zu entwenden.
+                     Jedoch.
+                     Gab er sie nach der Aufforderung nicht her, zog auch nicht los, so setzte es Prügel, <said id="23" mode="reported" content="speech" level="1" metaph="yes">das sagte ihm
+                        sein eselhaft gescheites Gefühl.</said>
+                  
+                  
+                     Der Heerführer und – noch einer, Schick – lauerten auf den
+                        Augenblick, mäuschenstille.
+                  
+                  
+                     
+                        Der Knabe hing an den straffen
+                        Erlenzweigen, die Erlen hielten ihn fest bis zum Abreißen.
+                     Mit einer Hand ließ er kurz los, dann faßte er wieder an.
+                  
+                  
+                     <said id="24" mode="direct" content="speech" level="1">»Du mußt nur nicht stehen bleiben, sondern .. immer dich
+                        bewegen, dann wird's nicht so sehr krachen.«</said> 
+                  
+                  
+                     – Der Knabe sah noch einmal unschlüssig nach allen Seiten.
+                     <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">Er</seg> <seg id="25" type="intExpr">wußte</seg>,</seg> <said id="25" mode="indirect" content="thought" level="1" border="yes">er hatte furchtbare Angst.</said>
+                     Er blickte auf's Eis, ob nicht der Frosch zu sehen wäre, aber
+                        Schick hatte sich versteckt, er war sich heute selbst zu wüst.
+                  
+                  
+                     <said id="26" mode="direct" content="speech" level="1">»Du zitterst ja, laß doch los ... du reißt ihnen einen ganzen
+                        Zopf aus.«</said> 
+                  
+                  
+                     – Der Knabe blickte hilfesuchend zu den Erlen hinauf, ob sie's
+                        ihm verzeihten, wenn er den Zopf ausrisse.
+                     Die Erlen gaben ihn gerne her.
+                  
+                  
+                     <said id="27" mode="direct" content="speech" level="1">»Wenn er abreißt, dann stürzst du platterlängs in den Teich,
+                        folge mir.
+                     Laß los!«</said> 
+                  
+                  
+                     <said id="28" mode="direct" content="thought" level="1">Wenn das Mädchen da wäre, hätte er eher den Mut</said><seg id="28" type="frame" pos="end">, <seg id="28" type="intExpr">dachte</seg> der
+                        <seg id="28" type="speaker">Knabe</seg>.</seg>
+                  
+                  
+                     <said id="29" mode="direct" content="speech" level="1">»Ewig kannst du nicht da hängen, ich muß heim, mein Vater
+                        wartet«</said><seg id="29" type="frame" pos="end">, <seg id="29" type="intExpr">sagte</seg> der <seg id="29" type="speaker">Heerführer</seg></seg> und tat wie Weggehen.
+                  
+                  
+                     <said id="30" mode="direct" content="speech" level="1">»Bleib doch da!
+                     ... ich laufe jetzt«</said><seg id="31" type="frame" pos="start">, <seg id="31" type="speaker">er</seg> <seg id="31" type="intExpr">schämte</seg> sich,</seg> <said id="31" mode="indirect" content="thought" level="1" border="yes">daß er vor dem Heerführer
+                        so gezittert hatte, was würde der für Schande über ihn ausstreuen.</said>
+                  
+                  
+                     
+                        <said id="32" mode="direct" content="speech" level="1">»Dann wollen wir sehen ... aber ich kann
+                        nicht mehr lang warten.«</said> 
+                  
+                  
+                     Es gab nur noch eins, <said id="33" mode="reported" content="thought" level="1">er vertraute Schick als Freund, <said id="34" mode="reported" content="speech" level="2">der ihm
+                        Eis versprochen hatte</said> und das darum schon halten mußte.</said>
+                     Schick ließ sich jetzt auch sehen, er nickte freundlich.
+                     Der Knabe wurde zuversichtlich und ... zog aus, hinein in den
+                        Teich.
+                  
+                  
+                     <said id="35" mode="direct" content="speech" level="1">»Eiskönig«</said><seg id="35" type="frame" pos="end">, <seg id="35" type="intExpr">schmeichelte</seg> der <seg id="35" type="speaker">Heerführer</seg>.</seg>
+                  
+                  
+                     <said id="36" mode="reported" content="speech" level="1">Aber er schmeichelte nicht lange</said>, dem Knaben kam
+                        eine fadendünne Stelle, ein mit einem Menschenhäutchen überzogenes Loch
+                        entgegen.
+                  
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Diskereditirte Geschichten aus Mittelalter und Neuzeit</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341801_282796.txt_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Diskereditirte Geschichten aus Mittelalter und Neuzeit</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Reportage</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">unsure</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Wenn
+                        in allerjüngster Zeit eine neue Version aufgetreten ist, welche die Geschichte von
+                        dem Pferdetausche aufrecht erhalten und dieselbe nur von Froben auf den
+                        Leibjäger Uhle wenden will, so erscheint diese in Wahrheit noch schlechter verbürgt als die frobensche. Sie beruht auf einer Volkstradition, die augenscheinlich jene Sage von Froben schon kannte, dieselbe That aber, wie dies bei Sagenbildungen so häusig geschieht, einer anderen Person zuschrieb. <seg id="1" type="frame" pos="start">Was den Prinzen von Homburg anbetrifft, so finden wir in den gleichzeitigen <seg id="1" type="speaker">Berichten</seg> nur
+                        eine schwache <seg id="1" type="intExpr">Andeutung</seg> darüber,</seg> <said id="1" mode="indirect" content="writing" level="1">daß seine Verdienste in der Schlacht nicht
+                        genug anerkannt worden seien</said>, alles Weitere ist viel spätere Erfindung.
+            <said id="2" mode="reported" content="writing" level="1">In dieselbe Classe pikanter Erfindungen gehört die <seg id="2" type="intExpr">Anekdote</seg>, welche den
+                        Helden des achtzehnten Jahrhunderts, Friedrich den Großen, mit dem der Revolutionskriege, Napoleon, in eine gewisse visionäre Verbindung setzen will.</said> Es
+                        war im Sommer 1769 zu Breslau, so heißt es. als ein Offizier seiner Instruction gemäß den König um 5 Uhr weckte, <seg id="3" type="frame" pos="start">und sogleich von der <seg id="3" type="intExpr">Frage</seg> begrüßt
+                        wurde:</seg> <said id="3" mode="direct" content="speech" level="1">„Kann Er Träume deuten?"</said> <said id="4" mode="direct" content="speech" level="1">Nein, Ew. Majestät</said><seg id="4" type="frame" pos="end">, <seg id="4" type="intExpr">antwortete</seg> <seg id="4" type="speaker">derselbe</seg></seg>,
+                        <seg id="5" type="frame" pos="start">und <seg id="5" type="speaker">Friedrich</seg> <seg id="5" type="intExpr">sagte</seg>:</seg> <said id="5" mode="direct" content="speech" level="1">„<said id="6" mode="reported" content="thought" level="2" nonfact="yes">Nun so <seg id="6" type="intExpr">merk'</seg> <seg id="6" type="speaker">Er</seg> <seg id="6" type="intExpr">sich</seg> doch den Traum, welchen ich in
+                        dieser Nacht hatte.</said> Mir träumte als sähe ich einen hellen Stern sich herabsenken auf die Erde, der mit wunderbarem überschwenglichen Lichte sie umschloß
+                        und bedeckte, dergestalt, daß ich, umhüllt davon, durch seinen unendlichen Glanz
+                        mich kaum hindurcharbeiten konnte."</said> — In jener Nacht ward Napoleon geboren. — Obwohl nun jener Offizier selbst immer als Gewährsmann angeführt
+                        wird, so stimmen doch Ort und Zeit in keiner der Versionen richtig zusammen*).
+            Aus der Epoche Friedrichs des Großen sind vor Kurzem eine ganze Reihe
+                        von Erzählungen, welche sämmtlich der Zeit nach den zwei schlesischen Kriegen
+                        angehören, als Sagen aufgedeckt worden**), hier mögen noch einige andere ihre
+                        Stelle finden.<seg id="7" type="frame" pos="start"> Wenn <seg id="7" type="speaker">ich</seg> z. B. der Erzählung <seg id="7" type="intExpr">gedenke</seg>,</seg> <said id="7" mode="indirect" content="thought" level="1" nonfact="yes">dem jungen Friedrich
+                        habe nach seinem Fluchtversuch hauptsächlich die nachdrückliche Verwendung des
+                        Kaisers bei seinem erzürnten Vater das Leben gerettet</said>, <said id="8" mode="reported" content="thought" level="1">so thue <seg id="8" type="speaker">ich</seg> es in <seg id="8" type="intExpr">Erinnerung</seg> an <seg id="9" type="frame" pos="start">die <seg id="9" type="intExpr">Behauptung</seg> <seg id="9" type="speaker">Macaulays</seg> in seinem Pamphlet über Friedrich
+                        den Großen,</seg></said> <said id="9" mode="indirect" content="writing" level="1">der König habe gegen das Haus Oestreich die größten persönlichen
+                        Verpflichtungen gehabt, sein Leben sei ihm durch die Verwendung desselben Fürsten
+                        erhalten worden, dessen Tochter er geplündert habe.</said> <said id="10" mode="reported" content="writing" level="1">Noch nicht zu der Zeit,
+                        wo der <seg id="10" type="speaker">Engländer</seg> dies <seg id="10" type="intExpr">schrieb</seg></said>, aber wohl zu der, wo sein Schriftchen bei uns
+                         
+            <note>*) Rödenbcck. Tagebuch. I. S. 6.
+                        </note>
+            <note> **) O. Grünhagen. Aus dem Sagenkreise Friedrichs des Großen. 1864. Breslau,
+                        Moruschte ». Berendt.
+                        </note>
+            
+            verbreitet und bekannt wurde, d. h.<said id="11" mode="reported" content="writing" level="1"> fünfzehn Jahr später, hatte <seg id="11" type="speaker">Ranke</seg> das Unwahre jener Erzählung auf das schlagendste <seg id="11" type="intExpr">nachgewiesen</seg></said>,<seg id="12" type="frame" pos="start"> indem <seg id="12" type="speaker">er</seg> <seg id="12" type="intExpr">zeigte</seg>,</seg> <said id="12" mode="indirect" content="writing" level="1">daß
+                        <seg id="14" type="speaker">Friedrich Wilhelm</seg> der Erste das den Kronprinzen freisprechende Urtheil des Kriegsgerichts ohne Widerspruch entgegengenommen und <said id="14" mode="reported" content="speech" level="2" nonfact="yes">nur bezüglich <said id="13" mode="reported" content="speech" level="3">des <seg id="13" type="intExpr">Spruches</seg>
+                        über Friedrichs Mitschuldigen Katte</said> sich nicht <seg id="14" type="intExpr">einverstanden erklärt</seg></said>, der östreichische Gesandte aber erst einige Tage darnach das Intercessionsschreiben des
+                        Kaisers übergeben habe.</said>
+            <seg id="15" type="frame" pos="start">Auch die durch das Menzelsche Bild so bekannt gewordene Scene möge
+                        hier <seg id="15" type="intExpr">erwähnt</seg> werden,</seg> <said id="15" mode="indirect" content="speech" level="1">wie Friedlich bei der Huldigung Schlesiens im breslauer Fürstensaale 1741 das Reichsschwert vermißt habe, welches Schwerin
+                        neben ihm halten sollte und statt dessen nun seinen siegreichen Degen gezogen und sich dessen bei der Ceremonie bedient habe.</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

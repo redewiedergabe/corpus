@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die beiden Tubus</title>
+             <author>Kurz, Hermann</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Kurz,_Hermann_Die_beiden_Tubus.tg48_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1859</f>
+         <f name="decade">1850</f>
+         <f name="title">Die beiden Tubus</f>
+         <f name="author">Kurz, Hermann</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="5" mode="reported" content="speech" level="1" metaph="yes">Die beiden Pfarrer von <seg id="5" type="speaker">A...berg</seg> und<seg id="5" type="speaker"> Y...burg</seg> hatten sich während der allgemeinen Schlacht in einen <seg id="5" type="intExpr">Einzelkampf</seg> miteinander verwickelt</said>, wobei auf seiten des letzteren neben dem Mißbehagen über die heutige Umgebung und ihren Lärm das schon von Hause mitgebrachte fatale Temperament, auf seiten des ersteren aber das Gefühl, daß durch eine so verbissene Opposition gegen alle hellenische Herrlichkeit alter und neuer Zeiten jegliches Maß des Unbilligen überschritten sei, sowie bei beiden der nicht ganz überwundene antipathische Eindruck des ersten Anblicks, gleichmäßig mitgewirkt haben mag. 
+                  
+                    <said id="6" mode="indirect" content="thought" level="1"> Was eigentlich Gang und Wendung ihres in dem allgemeinen Geräusche unhörbar gebliebenen Streites gewesen</said><seg id="6" type="frame" pos="end">, ist niemals <seg id="6" type="intExpr">enträtselt</seg> worden</seg>, <said id="1" mode="reported" content="thought" level="1" nonfact="yes" border="yes">da der <seg id="1" type="speaker">Pfarrer von A...berg</seg> es nachher selbst nicht mehr <seg id="1" type="intExpr">wußte</seg></said> <said id="2" mode="reported" content="speech" level="1" nonfact="yes">und der <seg id="2" type="speaker">Pfarrer von Y...burg</seg>, vielleicht aus dem gleichen Grunde, ein tiefes <seg id="2" type="intExpr">Stillschweigen</seg> darüber beobachtete. </said>Gewiß ist, daß beide in ziemlicher Verwirrung und so zu sagen Auflösung aus dem Kampfe hervorgingen, gewiß aber auch, daß derselbe mit großer Erbitterung geführt worden sein mußte. <said id="3" mode="reported" content="speech" level="1">So <seg id="3" type="intExpr">bezeugte</seg> später ein wohlwollender <seg id="3" type="speaker">Rechnungsbeamter</seg></said>, <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">der</seg> ihnen vergebens <seg id="4" type="intExpr">zugesprochen</seg> hatte,</seg> <said id="4" mode="indirect" content="speech" level="1">weder um der neuen noch alten Griechen willen Händel anzufangen, sondern sich als gute gemütliche Deutsche miteinander zu vertragen.</said> Ein Protokoll<said id="7" mode="reported" content="speech" level="1"> <seg id="7" type="speaker">ihres</seg> <seg id="7" type="intExpr">Wortwechsels</seg></said> konnte aber auch er nicht eröffnen; es war im Bier untergegangen. 
+                  Als die Gesellschaft endlich Auge und Ohr dem überraschenden Zwischenfall zuwendete, nahm sie nur noch das letzte traurige Stadium und den beklagenswerten Ausgang des Kampfes wahr. Der Pfarrer von A...berg war fast blaurot vor Aufregung geworden, und seine Haare schienen nicht abgeneigt, sich zu sträuben. Der <seg id="13" type="speaker">Pfarrer von Y...burg</seg> sah kälter aus, aber in seinen Augen brannte ein giftiges Feuer, daher das Schlagwort, <said id="13" mode="reported" content="speech" level="1">das man jetzt leider aus dem sonst freundlichsten, leutseligsten Menschenmunde explodieren <seg id="13" type="intExpr">hörte</seg></said>, gleichwohl nicht ganz unbegründet war. 
+                  <said id="8" mode="direct" content="speech" level="1">»Giftmichel!«</said> <seg id="8" type="frame" pos="end"><seg id="8" type="intExpr">schrie</seg> ihn nämlich der <seg id="8" type="speaker">Pfarrer von A...berg</seg> an.</seg> 
+                  
+                     
+<said id="9" mode="direct" content="speech" level="1">»Strohkopf!«</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">gab</seg> der <seg id="9" type="speaker">Pfarrer von Y...burg</seg> <seg id="9" type="intExpr">zurück</seg>.</seg> 
+                  Der Pfarrer von A...berg holte Atem.<said id="10" mode="direct" content="speech" level="1"> »Metternichianer!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">donnerte</seg> <seg id="10" type="speaker">er</seg> dann.</seg> 
+                 <said id="11" mode="direct" content="speech" level="1"> »Meuchelmörder!«</said> <seg id="11" type="frame" pos="end"><seg id="11" type="intExpr">warf</seg> ihm der <seg id="11" type="speaker">Pfarrer von Y...burg</seg> <seg id="11" type="intExpr">ins Gesicht</seg>.</seg> 
+                  Erstarrt über diese Donnerschläge aus blauem Himmel, saß die Gesellschaft sprachlos da. 
+                  Der Pfarrer von A...berg, gleichfalls sprachlos über eine so ganz unerträgliche, mit geistlichen Waffen nicht abzuwehrende Beschuldigung, machte, obwohl nur sehr von weitem, eine etwas kriegerische Bewegung nach einer leeren Flasche, wurde jedoch von seinem Nachbar gehalten, welchen Freundschaftsdienst er ihm mit einem stummen, aber innigen Dankesblick vergalt. Hieran konnte jeder Billigdenkende ermessen, daß der sanfte Mann, selbst in der höchsten und gerechtesten Wut, mehr nicht als eine bloße Demonstration beabsichtigt hatte. 
+                  Allein, der Pfarrer von Y...burg nahm Glas und Flasche, um von ihm auszuwandern.<said id="12" mode="direct" content="speech" level="1"> »Ich will weder auf moderne, noch auf antike Art gemeuchelmordet werden,«</said> <seg id="12" type="frame" pos="end"><seg id="12" type="intExpr">sagte</seg> <seg id="12" type="speaker">er</seg> hämisch</seg> und setzte sich mit eisiger Ruhe an eine andere Seite des Tisches. 
+                  Die beiden Knaben hinter dem Ofen drückten einander die Hände, zum Zeichen, daß sie keinen Teil haben wollten an dem blutigen Haß der Häuser Friedland, Piccolomini. 
+                  Die Gesellschaft war in stumme Bestürzung versunken. Sie blickte teilnehmend auf den Pfarrer von A...berg. Seine Wut legte sich, und stille Trauer trat an ihre Stelle.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

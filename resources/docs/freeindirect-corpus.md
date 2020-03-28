@@ -1,5 +1,7 @@
 # Free indirect corpus
 
+folder: [/data/additional/simplified/free_indirect](/data/additional/simplified/free_indirect)
+
 This subcorpus was created to generate training data training data for our recognizers specifically for **free indirect STWR**. The annotation system is strongly reduced, *only* specifying the type free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
 
 The annotations were generated semi-automatically: The texts were  tagged by one of our automatic free indirect recognizers. The annotations and their immediate environment were then checked by humans, who, if necessary, deleted, corrected or extended the annotations. 

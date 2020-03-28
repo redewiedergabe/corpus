@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_morgenblatt44_1856_9.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.morgenblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            Orso fliehet gleich dem Hirsche,
+                        Um den Buschwald zu erreichen;
+                        Doch verrannt sind schon die Wege,
+                        Das Gebirg ist abgeschnitten. <said id="1" mode="freeIndirect" content="thought" level="1">Ach, wohin? Sieh, fest am Hügel
+                        Steht ein Haus! Winkt dort nicht Zuflucht?
+                        Weh, es ist das Haus des Feindes,
+                        Weh, es ist das Haus Ruggero's!</said> Dennoch springt zur Thüre Orso,
+                        Bricht hinein, durchsucht die Stuben;
+                        Die Bewohner sind im Dorfe,
+                        Und er weiß sich Herr und Meister. Büchse, Blei und Pulver hat er,
+                        Nahrung bietet ihm der Keller,
+                        Rasch verrammelt er den Zugang,
+                        Lange kann er sich vertheid'gen. Und schon nahet mit den Sippen
+                        Dort Ruggero. Keiner waget
+                        Sich heran, aus jeder Lücke
+                        Droht des Orso sichre Kugel.<seg id="2" type="frame" pos="start">Wüthend <seg id="2" type="intExpr">schnaubt</seg> der <seg id="2" type="speaker">Eigenthümer</seg>,</seg>
+                        <said id="2" mode="indirect" content="speech" level="1">Daß in seinem Haus der Todfeind
+                        Schutz gefunden;</said> wilder tobt er,
+                        Als den todten Sohn sie bringen. Und er holet bei dem Nachbarn
+                        Einen Feuerbrand vom Herde,
+                        Schleudert ihn in blinder Rachlust
+                        Auf das Dach der eignen Hütte. Mit entsetzlich grauser Freude
+                        Sieht er, wie die Flamme lecket;
+                        Rings das Dach steht schon in Gluten,
+                        Das Gebälk fängt an zu brechen. Heulend stürzt sein Weib zur Stelle.
+                        <said id="3" mode="direct" content="speech" level="1">„Rasender!“</said> <seg id="3" type="frame" pos="mid">so <seg id="3" type="intExpr">ruft</seg> <seg id="3" type="speaker">sie</seg> gräßlich,
+ </seg>                       <said id="3" mode="direct" content="speech" level="1">Willst du kinderlos dich machen?
+                        Jn der Hütte schläft Francesko! „Weh, Francesko, unser jüngstes,
+                        Einz'ges Kind wird nun verbrennen!“</said> -Wie zerbrach da seine Rachlust!
+                        Stier und starr sah er in's Glutmeer.
+                        
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

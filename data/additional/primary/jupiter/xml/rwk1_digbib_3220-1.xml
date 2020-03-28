@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Riechbüchschen</title>
+             <author>Wildenbruch, Ernst von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildenbruch,_Ernst_von_Das_Riechbuechschen.tg175_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1885</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Riechbüchschen</f>
+         <f name="author">Wildenbruch, Ernst von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Ja, Herr von Sparr, ich bin ein Lutheraner.«</said> 
+                  Ein heiserer Schrei brach aus dem Munde des Alten hervor, seine Hand ballte sich krampfhaft, <said id="2" mode="reported" content="speech" level="1" nonfact="yes">er wollte offenbar <said id="3" mode="reported" content="speech" level="2" nonfact="yes">Verwünschungen</said> gegen Schelia schleudern</said>, <said id="4" mode="reported" content="speech" level="1" nonfact="yes">aber die geöffneten Lippen gaben keinen anderen Laut mehr von sich, als ein dumpfes Ächzen</said>, dann fiel er schwer auf das Kissen zurück, das Antlitz wie mit Blut übergossen, und während der Körper schon regungslos lag, flog die Rechte von hüben nach drüben durch die Luft, <seg id="5" type="frame" pos="start">stumm und doch vernehmlich <seg id="5" type="intExpr">redend</seg> ein schreckliches:</seg> <said id="5" mode="direct" content="speech" level="1">»Nein, in Ewigkeit nein!«</said> 
+                  Endlich sank auch die Hand nieder, der alte Sparr dehnte sich noch einmal und war tot. 
+                  <said id="6" mode="reported" content="speech" level="1">Jammernd fiel Gertrud über des Vaters Leib</said> und ihre Tränen flossen in seinen grauen Bart. Schelia stand regungslos, wie eine Bildsäule, <said id="7" mode="reported" content="thought" level="1" nonfact="yes" border="yes">ohne Haß gegen den schrecklichen, unglückseligen alten Mann</said>, <seg id="8" type="frame" pos="start">und <seg id="8" type="intExpr">sah</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes"><said id="9" mode="reported" content="thought" level="2" border="yes">wie die Tochter am Totenbette des Vaters verzweifelte.</said></said> 
+                  Nach einer langen Pause, die nur vom Schluchzen des Mädchens erfüllt war, trat er dicht an sie heran; er stand hinter ihr, über sie gebeugt <seg id="10" type="frame" pos="start">und <seg id="10" type="intExpr">sagte</seg> ganz leise:</seg> 
+                  <said id="10" mode="direct" content="speech" level="1">»Gertrud!«</said> 
+                  <said id="11" mode="reported" content="speech" level="1">So leise der Ton war, vernahm sie ihn doch</said> und wandte das Gesicht zu ihm empor; als sie aber sein Gesicht über sich gebeugt und die Tränen sah, die still und unaufhaltsam ihm aus den Augen rannen, da war alles, was eben Schreckliches zwischen ihm und dem Vater geschehen, <said id="12" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="13" type="frame" pos="start">da war auch das fürchterliche:</seg> <said id="13" mode="direct" content="speech" level="2">»Nein, in Ewigkeit nein!«</said> des Sterbenden vergessen</said>; sie warf sich in seine Arme, die er weit, weit gegen sie auftat, und indem sie ihr Antlitz und sich selbst an der treuen Brust des starken Mannes barg, trank sie in tiefen Zügen den Becher des Trostes, den Gott in solchen Stunden dem Menschen im Herzen des Nebenmenschen bereitet. Fest hielt er sie umschlungen und küßte sie in das von Tränen überströmte Antlitz, und sie küßte ihn wieder und erschauerte an seinem Herzen, das sie vor so kurzer Zeit erst gefunden hatte, und das nun das Letzte und Einzige war, was sie auf der Erde noch besaß, und sicherlich ward nie ein heiligerer erster Kuß zwischen Liebenden gewechselt, als dieser es war. 
+                  Schelia blieb in den nächstfolgenden Tagen im Sparrschen Hause und half der Verwaisten bei der Bestattung ihres Vaters und all den anderen traurigen Verrichtungen, die den Verlust geliebter Menschen doppelt schmerzlich machen, <said id="14" mode="reported" content="thought" level="1" border="yes">weil sie das große Leid mit dem Ekel der Nüchternheit vermengen.</said> Sie hatte niemanden, als ihn, der ihr hätte helfen können, und darum blieb er und wohnte Tag und Nacht unter demselben Dach mit ihr, <said id="15" mode="reported" content="thought" level="1" nonfact="yes">unbekümmert um die giftigen Blicke, mit denen der alte Martin an ihm vorüberging</said>, <said id="16" mode="reported" content="thought" level="1">seiner selbst sicher und gewiß durch <said id="17" mode="reported" content="thought" level="2" border="yes">seine tiefe, innige und darum reine Liebe zu dem Mädchen.</said></said> 
+                  Die ganze Welt lag für ihn innerhalb der vier Mauern des einsamen Hauses, <said id="18" mode="reported" content="thought" level="1" nonfact="yes">und eine selige Vergessenheit kam über ihn</said>; <said id="19" mode="reported" content="thought" level="1">seine Seele, durchwogt von einer Fülle <said id="20" mode="reported" content="thought" level="2" nonfact="yes">nie geahnter Gefühle und Hoffnungen</said></said>, glich einem tief erregten, in wundervollen Wellen- und Schaumgebilden sich entfaltenden Meere, über das nur ganz zu Zeiten aus einer fernen Wolke ein unheimliches Wetterleuchten fährt, <said id="21" mode="reported" content="thought" level="1">denn nicht anders und nicht öfter traten die letzten Augenblicke mit dem alten Sparr vor seine Seele.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

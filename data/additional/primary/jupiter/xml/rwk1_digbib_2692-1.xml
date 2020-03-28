@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der Waldbauer, dieser Dodel!</title>
+             <author>Rosegger, Peter</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Rosegger,_Peter_Waldheimat__Erzaehlungen_aus_der_Jugendzeit.tg27_1_132.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1877</f>
+         <f name="decade">1870</f>
+         <f name="title">Der Waldbauer, dieser Dodel!</f>
+         <f name="author">Rosegger, Peter</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Eine schundige Wirtschaft, meiner Seel'!«</said> 
+                  Als am Rain das Feuer knisterte, torkte der Knecht hin, häufte Glut und warf ein großes Stück Rohfleisch hinein. <said id="2" mode="indirect" content="thought" level="1" nonfact="yes">Wie prächtig es gebraten wurde</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">weiß</seg> <seg id="2" type="speaker">man</seg> nicht</seg>; raucheln tat es, der Knecht aber nahm das Stück in die Faust und biß drein. <seg id="3" type="frame" pos="start">Während des Kauens <seg id="3" type="intExpr">fluchte</seg> und <seg id="3" type="intExpr">schimpfte</seg> <seg id="3" type="speaker">er</seg> unaufhörlich darüber,</seg> <said id="3" mode="indirect" content="speech" level="1">daß einer bei diesem »G'fröttbauern« schon einmal gar nichts Ordentliches zu essen bekäme.</said> <said id="4" mode="direct" content="speech" level="1">»So, da hast auch was!«</said> <seg id="4" type="frame" pos="end"><said id="5" mode="reported" content="speech" level="1"><seg id="4" type="intExpr">mit</seg> diesem <seg id="4" type="intExpr">Worte</seg> <seg id="4" type="intExpr">warf</seg> <seg id="4" type="speaker">er</seg> dem Waldbauern die Knochen <seg id="4" type="intExpr">vor</seg>.</said></seg> 
+                  Vom Waldhause her schrillte ein Pfiff. <seg id="6" type="frame" pos="start">Die <seg id="6" type="speaker">Bäuerin</seg> <seg id="6" type="intExpr">rief</seg> herab,</seg> <said id="6" mode="indirect" content="speech" level="1">der Vater sollt' heimkommen, <said id="7" mode="reported" content="speech" level="2">es wär' jemand da, der was Notwendiges zu reden habe mit dem Vorstand.</said></said> 
+                  So war der Bub nun ganz dem schrecklichen Knecht überantwortet. Er sollte den Pflug führen und wurde von dem holpernden Ungetüm so mächtig hin und her geschleudert, <seg id="8" type="frame" pos="start">daß der <seg id="8" type="speaker">Fuhrmann</seg> <seg id="8" type="intExpr">auflachte</seg>:</seg> <said id="8" mode="direct" content="speech" level="1">»Nichtige Kochschneck, schau, daß du weiter kommst!«</said> Er packte den Kleinen an den Arm und warf ihn auf die dampfenden Furchen hin. 
+                  Vom Hause her wurde das zweitemal gepfiffen. <said id="9" mode="indirect" content="speech" level="1">Der Knecht solle ausspannen und hinauskommen.</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»Eßt ihr eure Talken selber!«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">gab</seg> der <seg id="10" type="speaker">Knecht</seg> <seg id="10" type="intExpr">zur</seg> <seg id="10" type="intExpr">Antwort</seg>.</seg> 
+                  <said id="11" mode="indirect" content="speech" level="1">Nein, nicht zur Mahlzeit wäre es. Er solle nur hinauskommen.</said> 
+                  <said id="12" mode="reported" content="thought" level="1">Das verblüffte den Knecht ein wenig</said> und er tat, als wolle er das Pferd ausspannen und gegen seinen Großbauernhof treiben. Nun kamen sie aber schon herab, der Nachbar Grieslacher und sein Bruder, der Jokel, undzwei andere Männer und der Waldbauer. Dieser Waldbauer war aber jetzt nicht mehr der Dalkerd, auch nicht der Locherl, und schon gar nicht der Dodel, sondern der Gemeindevorstand. <seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Er</seg> war so sanftmütig wie vorher und <seg id="13" type="intExpr">sagte</seg> zum Knecht:</seg> <said id="13" mode="direct" content="speech" level="1">»Stephan, jetzt wirst du müssen Feierabend machen.«</said> 
+                  Dann setzte er sich auf den Pfluggründel, die anderen standen ringsherum, der Grieslacher und sein Bruder hatten den Knecht zwischen sich. 
+                  Der Waldbauer streifte sich die Erdkrumen von den Schuhen, <said id="14" mode="reported" content="thought" level="1" border="yes">er war verlegen.</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»So heb' an, Vorstand!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">drängte</seg> der <seg id="15" type="speaker">Nachbar</seg>.</seg> 
+                  <seg id="16" type="frame" pos="start">Der <seg id="16" type="speaker">Waldbauer</seg> wendete sich gegen den Knecht und <seg id="16" type="intExpr">sagte</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Du, <seg id="18" type="frame" pos="start"><said id="17" mode="reported" content="speech" level="2" nonfact="yes" prag="yes"><seg id="18" type="speaker">ich</seg> muß dich um was <seg id="18" type="intExpr">fragen</seg></said>, Stephan.</seg> <said id="18" mode="direct" content="speech" level="2">Gelt, du gibst mir gottsaufrichtig Antwort?</said>«</said> 
+                  Dem Knecht wurde jetzt ungleich. Das war eine höchst befremdliche Feierlichkeit. <said id="19" mode="reported" content="speech" level="1" nonfact="yes">Er tat, als wollte er anfangen zu schimpfen</said>, <said id="20" mode="reported" content="thought" level="1">denn seine Schweigsamkeit kam ihm selber verdächtig vor.</said> 
+                  <said id="21" mode="direct" content="speech" level="1">»<said id="22" mode="reported" content="speech" level="2" nonfact="yes" prag="yes">Sag' uns, Stephan:</said> In der Philipp- und Jakobinacht bist du wohl daheim gewesen in deinem Bett?«</said> 
+                  <said id="23" mode="direct" content="speech" level="1">»Warum soll ich nicht daheim gewesen sein?«</said> 
+                  <said id="24" mode="direct" content="speech" level="1">»<said id="25" mode="reported" content="speech" level="2">Ich hab' nur gefragt.</said>«</said> 
+                  <said id="26" mode="direct" content="speech" level="1">»Wo soll ich denn gewesen sein bei der Nacht, als daheim!«</said> 
+                  <said id="27" mode="direct" content="speech" level="1">»<said id="28" mode="reported" content="thought" level="2" nonfact="yes">Weißt du es gewiß?</said>«</said> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">fragte</seg> der <seg id="27" type="speaker">Waldbauer</seg>.</seg> <said id="27" mode="direct" content="speech" level="1">»<said id="29" mode="reported" content="thought" level="2" nonfact="yes">Denke nach.</said> In der Philipp- und Jakobinacht. Das ist die Nacht gewesen am vorigen Samstag bis auf den Sonntag.«</said> 
+                  <said id="30" mode="direct" content="speech" level="1">»Sakra, was hat's denn? Daheim bin ich gewesen und geschlafen hab' ich die ganze Nacht.«</said> 
+                  
+                     <said id="31" mode="direct" content="speech" level="1">»Sie ganze Nacht? <said id="32" mode="reported" content="speech" level="2" nonfact="yes">Sag' es noch einmal</said>, <said id="33" mode="reported" content="thought" level="2" nonfact="yes">aber bedenk's vorher.</said> Ich laß dir Zeit dazu.«</said> 
+                  <said id="34" mode="direct" content="speech" level="1">»Brauch deine Zeit nicht. Geschlafen hab' ich die ganze Nacht.«</said> 
+                  <said id="35" mode="direct" content="speech" level="1">»<seg id="36" type="frame" pos="start"><seg id="36" type="speaker">Sie</seg> <seg id="36" type="intExpr">sagen</seg> aber,</seg> <said id="36" mode="indirect" content="speech" level="2">du wärst in derselbigen Nacht auf der Puchebene beim Maibaumsetzen gesehen worden!</said>«</said> 
+                  <said id="37" mode="direct" content="speech" level="1">»Wen geht's was an!«</said> <seg id="37" type="frame" pos="mid"><seg id="37" type="intExpr">fuhr</seg> der <seg id="37" type="speaker">Knecht</seg> jetzt derb <seg id="37" type="intExpr">drein</seg>,</seg> <said id="37" mode="direct" content="speech" level="1">»das Maibaumsetzen ist nichts Schlechtes.«</said> 
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

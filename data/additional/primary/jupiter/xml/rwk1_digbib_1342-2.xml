@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Romeo und Julia auf dem Dorfe</title>
+             <author>Keller, Gottfried</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Keller,_Gottfried_Romeo_und_Julia_auf_dem_Dorfe.tg803_1.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1856</f>
+         <f name="decade">1850</f>
+         <f name="title">Romeo und Julia auf dem Dorfe</f>
+         <f name="author">Keller, Gottfried</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Er küßte es, <said id="1" mode="reported" content="speech" level="1" nonfact="yes">damit es schweige</said>, heftig auf den Mund, <said id="2" mode="reported" content="thought" level="1" nonfact="yes" border="yes">da es sich ganz vergessen hatte</said> <said id="3" mode="reported" content="speech" level="1">und laut sang.</said> <said id="4" mode="reported" content="thought" level="1">Es verstand ihn endlich</said>, und sie standen still und lauschend, bis ihr tobendes Hochzeitgeleite das Feld entlanggerast war und, ohne sie zu vermissen, am Ufer des Stromes hinauf sich verzog. Die Geige, das Gelächter der Mädchen und die Jauchzer der Bursche tönten aber noch eine gute Zeit durch die Nacht, bis zuletzt alles verklang und still wurde. 
+                  <said id="5" mode="direct" content="speech" level="1">»Diesen sind wir entflohen«</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">Sali</seg>,</seg> <said id="5" mode="direct" content="speech" level="1">»aber wie entfliehen wir uns selbst? Wie meiden wir uns?«</said> 
+                  <said id="6" mode="reported" content="speech" level="1" nonfact="yes">Vrenchen war nicht imstande zu antworten</said> und lag hochaufatmend an seinem Halse. <said id="7" mode="direct" content="speech" level="1">»Soll ich dich nicht lieber ins Dorf zurückbringen<seg id="8" type="frame" pos="start"> und Leute <seg id="8" type="intExpr">wecken</seg>,</seg> <said id="8" mode="indirect" content="speech" level="2" nonfact="yes">daß sie dich aufnehmen?</said> Morgen kannst du ja dann deines Weges ziehen, und gewiß wird es dir wohl gehen, du kommst überall fort!«</said> 
+                  <said id="9" mode="direct" content="speech" level="1">»Fortkommen, ohne dich!«</said> 
+                  <said id="10" mode="direct" content="speech" level="1">»<said id="11" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Du mußt mich vergessen!</said>«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Das werde ich nie! Könntest denn du es tun?«</said> 
+                  <said id="13" mode="direct" content="speech" level="1">»Darauf kommt's nicht an, mein Herz!«</said> <seg id="13" type="frame" pos="mid"><seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">Sali</seg></seg> und streichelte ihm die heißen Wangen, je nachdem es sie leidenschaftlich an seiner Brust herumwarf, <said id="13" mode="direct" content="speech" level="1">»es handelt sich jetzt nur um dich; du bist noch so ganz jung, und es kann dir noch auf allen Wegen gut gehen!«</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Und dir nicht auch, du alter Mann?«</said> 
+                  <said id="15" mode="direct" content="speech" level="1">»Komm!«</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">sagte</seg> <seg id="15" type="speaker">Sali</seg></seg> und zog es fort. Aber sie gingen nur einige Schritte und standen wieder still, um sich bequemer zu umschlingen und zu herzen. <said id="16" mode="reported" content="speech" level="1" metaph="yes">Die Stille der Welt sang</said> und musizierte 
+ihnen durch die Seelen, man hörte nur den Fluß unten sacht und lieblich rauschen im langsamen Ziehen. 
+                  <said id="17" mode="direct" content="speech" level="1">»Wie schön ist es da rings herum! Hörst du nicht etwas tönen, wie ein schöner Gesang oder ein Geläute?«</said> 
+                  <said id="18" mode="direct" content="speech" level="1">»Es ist das Wasser, das rauscht! Sonst ist alles still.«</said> 
+                  <said id="19" mode="direct" content="speech" level="1">»Nein, es ist noch etwas anderes, hier, dort hinaus, überall tönt's!«</said> 
+                  <said id="20" mode="direct" content="speech" level="1">»<seg id="21" type="frame" pos="start"><seg id="21" type="speaker">Ich</seg> <seg id="21" type="intExpr">glaube</seg>,</seg> <said id="21" mode="indirect" content="thought" level="2" border="yes">wir hören unser eigenes Blut in unsern Ohren rauschen!</said>«</said> 
+                  Sie horchten ein Weilchen auf <said id="22" mode="reported" content="thought" level="1">diese eingebildeten oder wirklichen Töne</said>, welche von der großen Stille herrührten oder welche sie mit den magischen Wirkungen des Mondlichtes verwechselten, welches nah und fern über die weißen Herbstnebel wallte, welche tief auf den Gründen lagen. <said id="23" mode="reported" content="thought" level="1">Plötzlich fiel Vrenchen etwas ein</said>; <seg id="24" type="frame" pos="start"><seg id="24" type="speaker">es</seg> suchte in seinem Brustgewand und <seg id="24" type="intExpr">sagte</seg>:</seg> <said id="24" mode="direct" content="speech" level="1">»Ich habe dir noch ein Andenken gekauft, das ich dir geben wollte!«</said> Und es gab ihm den einfachen Ring und steckte ihm denselben selbst an den Finger. Sali nahm sein Ringlein auch hervor und steckte ihn an Vrenchens Hand, <seg id="25" type="frame" pos="start">indem <seg id="25" type="speaker">er</seg> <seg id="25" type="intExpr">sagte</seg>:</seg> <said id="25" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="thought" level="2">So haben wir die gleichen Gedanken gehabt!</said>«</said> Vrenchen hielt seine Hand in das bleiche Silberlicht und betrachtete den Ring. <said id="27" mode="direct" content="speech" level="1">»Ei, wie ein feiner Ring!«</said> <seg id="27" type="frame" pos="mid"><seg id="27" type="intExpr">sagte</seg> <seg id="27" type="speaker">es</seg> lachend;</seg> <said id="27" mode="direct" content="speech" level="1">»<said id="28" mode="reported" content="speech" level="2">nun sind wir aber doch verlobt und versprochen</said>, du bist mein Mann und ich deine Frau, <said id="29" mode="reported" content="thought" level="2" nonfact="yes">wir wollen es einmal einen Augenblick lang denken</said>, nur bis jener Nebelstreif am Mond vorüber ist oder <said id="30" mode="reported" content="speech" level="2" nonfact="yes">bis wir zwölf gezählt haben!</said> Küsse mich zwölfmal!«</said> 
+                  Sali liebte gewiß ebenso stark als Vrenchen, aber <said id="31" mode="reported" content="thought" level="1">die Heiratsfrage war in ihm doch nicht so leidenschaftlich lebendig als ein bestimmtes Entweder – Oder</said>, als ein unmittelbares Sein oder Nichtsein, wie in Vrenchen, welches nur das Eine zu fühlen fähig war und <said id="32" mode="reported" content="thought" level="1">mit leidenschaftlicher Entschiedenheit unmittelbar Tod oder Leben darin sah.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

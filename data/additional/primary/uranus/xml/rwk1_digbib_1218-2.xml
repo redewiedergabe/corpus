@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>L'Arrabbiata</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyse,_Paul_L__Arrabbiata.tg564_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">L'Arrabbiata</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Darauf nahm sie ihm, soviel er auch abwehrte, das eine Ruder aus der Hand und setzte sich ihm gegenüber, doch ohne ihn anzusehn, fest auf das Ruder blickend, das vom Blut gerötet war, und mit kräftigen Stößen die Barke forttreibend. Sie waren beide blaß und still. Als sie näher ans Land kamen, begegneten ihnen Fischer, die ihre Netze auf die Nacht auswerfen wollten. <said id="1" mode="reported" content="speech" level="1">Sie riefen Antonino an</said> <said id="2" mode="reported" content="speech" level="1">und neckten Laurella.</said> Keins sah auf <said id="3" mode="reported" content="speech" level="1" nonfact="yes">oder erwiderte ein Wort.</said> 
+                  Die Sonne stand noch ziemlich hoch über Procida, als sie die Marine erreichten. Laurella schüttelte ihr Röckchen, das fast völlig überm Meer getrocknet war, und sprang ans Land. Die alte spinnende Frau, die sie schon am Morgen hatte abfahren sehn, stand wieder auf dem Dach. <said id="4" mode="direct" content="speech" level="1">Was hast du an der Hand, Tonino?</said><seg id="4" type="frame" pos="mid"> <seg id="4" type="intExpr">rief</seg> <seg id="4" type="speaker">sie</seg> hinunter.</seg> <said id="4" mode="direct" content="speech" level="1">Jesus Christus, die Barke schwimmt ja in Blut!</said> 
+                  <said id="5" mode="direct" content="speech" level="1">'s ist nichts, Commare</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">erwiderte</seg> der <seg id="5" type="speaker">Bursch</seg>.</seg> <said id="5" mode="direct" content="speech" level="1">Ich riß mich an einem Nagel, der zu weit vorsah. Morgen ist's vorbei. Das verwünschte Blut ist nur gleich bei der Hand, daß es gefährlicher aussieht, als es ist.</said> 
+                  <said id="6" mode="direct" content="speech" level="1">Ich will kommen und dir Kräuter auflegen, Comparello. Wart, ich komme schon.</said> 
+                  <said id="7" mode="direct" content="speech" level="1">Bemüht Euch nicht, Commare. Ist schon alles geschehn, und morgen wird's vorbei sein <said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">und vergessen.</said> Ich habe eine gesunde Haut, die gleich wieder über jede Wunde zuwächst.</said> 
+                  <said id="9" mode="direct" content="speech" level="1">Addio!</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">sagte</seg> <seg id="9" type="speaker">Laurella</seg> und wandte sich nach dem Pfad, der hinaufführt.</seg> 
+                  
+                     <said id="10" mode="direct" content="speech" level="1">Gute Nacht!</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">rief</seg> ihr der <seg id="10" type="speaker">Bursch</seg> <seg id="10" type="intExpr">nach</seg>, ohne sie anzusehn.</seg> Dann trug er das Gerät aus dem Schiff und die Körbe dazu und stieg die kleine Steintreppe zu seiner Hütte hinauf.
+                  Es war keiner außer ihm in den zwei Kammern, durch die er nun hin und her ging. Zu den offnen Fensterchen, die nur mit hölzernen Läden verschlossen werden, strich die Luft etwas erfrischender herein, als über das ruhige Meer, und in der Einsamkeit war ihm wohl. Er stand auch lange vor dem kleinen Bilde der Mutter Gottes und sah die aus Silberpapier daraufgeklebte Sternenglorie andächtig an. <said id="11" mode="reported" content="thought" level="1" nonfact="yes">Doch zu beten fiel ihm nicht ein.</said> <said id="12" mode="freeIndirect" content="thought" level="1">Um was hätte er bitten sollen, da er nichts mehr hoffte?</said> 
+                  Und der Tag schien heute stillzustehn. Er sehnte sich nach der Dunkelheit, denn er war müde, und der Blutverlust hatte ihn auch mehr angegriffen, als er sich gestand. Er fühlte heftige Schmerzen an der Hand, setzte sich auf einem Schemel und löste den Verband. Das zurückgedrängte Blut schoß wieder hervor, und die Hand war stark um die Wunde angeschwollen. Er wusch sie sorgfältig und kühlte sie lange. Als er sie wieder vorzog, unterschied er deutlich die Spur von Laurellas Zähnen. <said id="13" mode="direct" content="speech" level="1">Sie hatte recht</said><seg id="13" type="frame" pos="start">, <seg id="13" type="intExpr">sagte</seg> <seg id="13" type="speaker">er</seg>.</seg><said id="13" mode="direct" content="speech" level="1"> Eine Bestie war ich und verdien' es nicht besser. Ich will ihr morgen ihr Tuch durch den Giuseppe zurückschicken. Denn mich soll sie nicht wiedersehn.</said> – Und nun wusch er das Tuch sorgfältig und breitete es in der Sonne aus, nachdem er sich die Hand wieder verbunden hatte, so gut er's mit der Linken und den Zähnen konnte. Dann warf er sich auf sein Bett und schloß die Augen. 
+                  Der helle Mond weckte ihn aus einem halben Schlaf, zugleich der Schmerz in der Hand.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

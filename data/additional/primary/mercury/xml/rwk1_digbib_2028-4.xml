@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Die Mandanenwaise</title>
+             <author>Möllhausen, Balduin</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Moellhausen,_Balduin_Die_Mandanenwaise.tg4_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1865</f>
+         <f name="decade">1860</f>
+         <f name="title">Die Mandanenwaise</f>
+         <f name="author">Möllhausen, Balduin</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">4</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Ich war gezwungen, hier zu lächeln, während dort Thränen meine Blicke verschleierten, Meine Jugend mit all ihren holden Träumen ist zerstoben, <said id="9" mode="reported" content="thought" level="1">und dem mit dem Ernst des Lebens vertraut gewordenen <seg id="9" type="speaker">Manne</seg> blieb Nichts, als die <seg id="9" type="intExpr">Erinnerung</seg>.</said> Aber die Erinnerung hat einen milderen, weniger schmerzhaften Charakter angenommen, <said id="1" mode="reported" content="writing" level="1">seit <seg id="1" type="speaker">ich</seg> meine wechselvollen Erlebnisse in geordneter Weise <seg id="1" type="intExpr">niederzuschreiben</seg> vermochte.</said> Mit viel Schwierigkeiten hatte ich oft zu kämpfen, um dem Tage einige Stunden abzugewinnen und die unterbrochene Arbeit wieder aufzunehmen. Doch es ist mir gelungen, und je größer die Hindernisse, welche sich mir entgegenstellten, um so lieber gewann ich meine Arbeit. Es ist ein umfangreiches Manuscript geworden, und um leinen Preis möchte ich es verlieren. Ich will es daher zurücklassen und, da ich den nächsten Winter ebenfalls wieder hier in meiner Abgeschiedenheit zu verleben gedenke, an einem sichern Ort vergraben. 
+                        Sollte der Tod mich auf meinen nicht ungefährlichen Jagdzügen ereilen, <said id="4" mode="reported" content="thought" level="1" border="yes">so <seg id="4" type="intExpr">weiß</seg> wenigstens meine arme <seg id="4" type="speaker">Mandanenwaise</seg>, wo ich meinen Schatz aufbewahrt habe.</said> <said id="5" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="5 6" type="speaker">Sie</seg> wird ihn zu finden <seg id="5" type="intExpr">wissen</seg></said> und ihn einem Missionair zur Verfügung stellen, zugleich aber auch die fehlenden Blätter, welche mein Ende betreffen,<said id="6" mode="reported" content="speech" level="1" nonfact="yes"> leicht durch <seg id="6" type="intExpr">mündliche Berichte</seg> ergänzen können.</said> Und doch, wer wird sich um das mir zugefallene Loos kümmern, wenn ich erst verschollen bin? Niemand, Niemand; nur <seg id="7" type="speaker">Schanhatta</seg> trauert vielleicht eine kurze Zeit um ihren Wohlthäter,<said id="7" mode="reported" content="thought" level="1" nonfact="yes" border="yes"> um ihn dann ebenfalls zu <seg id="7" type="intExpr">vergessen</seg>.</said> 
+                        Sei dem, wie ihm wolle; fließt meinem Andenken nur eine einzige Thräne, so habe ich nicht ganz umsonst gelebt – und Schanhatta wird gewiß an meinem Grabe weinen. 
+                        Armes Kind, es wäre vielleicht meine Pflicht, Dich im Laufe dieses Sommers auf einer Mission unterzubringen, um Dich der Segnungen der Civilisation theilhaftig werden zu lassen; ist aber auch die verfeinerte Civilisation wirtlich ein Segen für Dich? Und dann, wer sollte im nächsten Winter meine Einsamkeit mit mir theilen, wer sollte mir in meinen kleinen häuslichen Verrichtungen beistehen, mich auf meinen Ausflügen zu meinen Pferden und nach den Biberfallen begleiten? Wer sollte meine Mokassins so schon sticken, meine wildledernen Kleidungsstücke ergänzen und mir die Speisen bereiten? Wer endlich sollte mir in den Dämmerungsstunden oder vor dem flackernden Feuer, wenn's draußen stürmt und schneit,<said id="8" mode="reported" content="speech" level="1" nonfact="yes"> durch kindliches <seg id="8" type="intExpr">Geplauder</seg> die Zeit verkürzen</said>, mit schüchterner, fast ängstlicher Aufmerksamkeit meine Nabenfeder beobachten, wenn sie über das Papier hinfliegt, und mir in späten Stunden, während ich arbeite, mit brennenden, in Fett getauchten Holzspänen und Rindenfasern leuchten? Nein, gute Schanhatta, ein Jahr kannst Du immerhin noch bei mir bleiben; Du zählst höchstens dreizehn Winter, außerdem lernst Du ja auch von mir. Hast Du aber erst Dein muthmaßlich vierzehntes Jahr zurückgelegt, dann, ja dann will ich mich gewiß von Dir trennen und Dich der väterlichen Fürsorge eines presbyterianischen Geistlichen übergeben, und die größte Freude soll es mir gewähren. Dich nach Jahren als die gebildete Gattin eines braven Grenzbewohners wiederzufinden. 
+                        So schließe ich denn meine Winterarbeit, um sie auf wenigstens sieben Monate dem Schooße der Erde anzuvertrauen. Mitten in meiner Hütte will ich sie vergraben, gerade da, wo jetzt das Feuer brennt, und die letzte Zeit meines Aufenthaltes hindurch über meinem Manuscript den glimmenden Kohlenhausen schüren.
+
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Telegraphische (Privat-)Depeschen</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener286_1850_40.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Telegraphische (Privat-)Depeschen</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               C
+               Telegraphische ( Privat= ) Depeschen.
+                        
+            
+            
+               Paris, 26. Nov.<said id="4" mode="reported" content="writing" level="1"> Der Präsident der RüstungsCommission, <seg id="4" type="speaker">Graf Mol é</seg>, <seg id="4" type="intExpr">beantragt</seg> im Namen derselben, die Concentration des Heeres und dessen Vermehrung um 40.000 Mann.</said> Die Majorität der Commission ist Preußen ungünstig gesinnt. Nach dem Departement Yonne sind Truppen entsendet worden, um Unordnungen vorzubeugen. Allais wird vor die Assisen gestellt
+                        werden. Das Resultat der Wahlen im Cher=Departement ist noch nicht bekannt.
+            
+               Berlin, 28. Nov. Die Fraction Geppert=Bodelschwingh ( dem rechten Centrum angehörig ) hat einstimmig folgendes Programm genehmigt: 1. Keine Räumung
+                        Kurhessens. 2. Keine Execution der Bundestruppen in
+                        Schleswig=Holstein. 3. Keine Verfassung eines weitern
+                        Bundes ohne Zustimmung der Preußischen Volksvertreter. Nach der „D. Reform“ beabsichtigt der Kurfürst
+                        von Hessen=Kassel mit den eigenen reorganisirten Truppen
+                        nach Kassel zurück zu kehren und die Regierung verfassungsmäßig zu übernehmen. Die Rückkehr solle in demselben Augenblicke erfolgen, wo die fremden Truppen
+                        sämmtlich das Land verlassen. <said id="1" mode="reported" content="writing" level="1">Der <seg id="1" type="speaker">Kurfürst</seg> habe seine
+                        Jntentionen der Preußischen und Oesterreichischen Regierung <seg id="1" type="intExpr">notificirt</seg></said> und es soll die Zustimmung bereits von einer Seite her eingetroffen sein. General Radowitz ist in
+                        London angelangt.
+            
+               Turin, 25. November. <said id="2" mode="reported" content="speech" level="1" border="yes">Mano ist zum Präsidenten,
+                        Alfieri, Sostegno und Plizza sind zu Vice=Präsidenten
+                        des Senates <seg id="2" type="intExpr">ernannt</seg> worden.
+ </said>           
+               Bologna, 25. November. Ein Gesetz über die Administration der Provinzen ist erschienen. Das Land wird
+                        in 1 hauptstädtisches Gebiet und 4 Legationen, jede mit
+                        einem Cardinal und 4 Räthen an der Spitze eingetheilt.
+                        Die Untereintheilung der Legationen besteht aus Delegationen, Gubernien und Communen. Das zweite und
+                        dritte Capitel des Gesetzes beschäftigt sich mit den Amtsgeschäften der neuen Obrigkeiten; das vierte enthält Anordnungen bezüglich der Hauptstadt. Jm Ganzen besteht es aus 6 Capiteln.
+            
+               Florenz, 25. November. Der <seg id="5" type="speaker">Redacteur</seg> des „ Costituzionale“ ist <said id="5" mode="reported" content="writing" level="1">wegen einer <seg id="5" type="intExpr">Beleidigung</seg> Louis Napoleons über Anklage des Französischen Gesandten</said> vor die
+                        Polizei geladen worden.
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

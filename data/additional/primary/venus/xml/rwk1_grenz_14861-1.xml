@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Friedrich Myconius</title>
+             <author>Kreyenberg, Gotthold</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341855_211167.txt_19.xml</f>
+         <f name="name">venus</f>
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">Friedrich Myconius</f>
+         <f name="author">Kreyenberg, Gotthold</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Biographie</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="8" mode="reported" content="speech" level="1">Er wurde aber <seg id="8" type="intExpr">abgewiesen</seg></said>,
+                        da Tezel, <said id="1" mode="reported" content="speech" level="1"><seg id="1 2" type="speaker">der</seg> sich offenbar <seg id="1" type="intExpr">widersprach</seg></said> und <said id="2" mode="reported" content="speech" level="1">auf die stets nötige „hilfreiche
+                        Hand" <seg id="2" type="intExpr">hinwies</seg></said>, die unentgeltliche Verabfolgung des Ablasses verweigerte.
+                        Hierdurch erhielt des Myconius gläubiges Vertrauen den ersten empfindlichen
+                        Stoß. <said id="11" mode="reported" content="thought" level="1">Weitere <seg id="11" type="intExpr">Zweifel</seg></said> und die Besorgnis um das Heil seiner Seele veranlaßten <seg id="11" type="speaker">ihn</seg>, wie vor ihm Luther, ins Kloster zu gehe». Das kurz zuvor in
+                        Annaberg erbaute stattliche Franziskanerkloster bot die beste Gelegenheit. Im
+                        Juli 1510 überschritt er, <said id="12" mode="reported" content="thought" level="1" nonfact="yes" border="yes">eigentlich ohne <seg id="12" type="intExpr">Wissen</seg> seiner <seg id="12" type="speaker">Eltern</seg></said>, indem er also
+                        Gott mehr gehorchen wollte, als den Menschen, die heilige Schwelle und
+                        wurde ein ebenso eifriger Mönch, wie er ein tüchtiger Lateinschüler gewesen
+                        war. Er setzte im Kloster seine Studien fort und forschte nun nicht mehr
+                        bloß im Aristoteles, sondern auch im Alexander von Hales, Bonaventura,
+                        Augustinus und in andern heiligen Büchern. Hatte er gleich in der ersten
+                        Nacht seines Aufenthalts im Kloster einen ihm bedeutungsvoll scheinenden
+                        Traum gehabt, <said id="3" mode="reported" content="writing" level="1">über den <seg id="3" type="speaker">er</seg> später in dem erwähnten Briefe an Paul Eber
+                        ausführlich <seg id="3" type="intExpr">berichtete</seg></said>, und den er sich anfangs in Hinsicht auf sein klösterliches
+                        Leben auslegte, so fühlte er doch bald, daß auch dieses ihm den gehofften
+                        Frieden nicht gewähren könnte. Den Mönchen, bei denen er schon in Ansehen
+                        stand, da sie ihn wegen seiner Gelehrsamkeit zum Vorleser erwühlt hatten,
+                        <said id="9" mode="reported" content="speech" level="1" nonfact="yes">mochte <seg id="9" type="speaker">er</seg> seinen Seelenzustand nicht <seg id="9" type="intExpr">offenbaren</seg>.</said> Wie ein Faust, des Studirens müde, wählte Mönch Franziskus, <said id="4" mode="reported" content="speech" level="1" border="yes">wie <seg id="4" type="speaker">er</seg> sich <seg id="4" type="intExpr">nannte</seg></said>, andre Beschäftigungen, malte Initialen aus und griff zu Spaten und Beil, um körperliche
+                         
+            
+            Arbeiten zu verrichten. Im Annaberger Kloster scheint er übrigens nur sein
+                        Noviziat durchgemacht zu haben und dann nach Leipzig und weiter versetzt
+                        worden zu sein. Wenigstens finden wir ihn 1516 in Weimar, wo er zum
+                        Priester geweiht wurde. Auch hier muß er bald einen gewissen Ruf erlangt
+                        haben; denn die beiden Fürsten des Sachsen-Ernestinischen Hauses, die Herzoge
+                        Johann der Beständige und dessen Sohn, Johann Friedrich der Großmütige,
+                        wohnten nicht nur seiner ersten Messe bei, sondern trugen auch deren Kosten.
+                        In demselben Jahre wurde er auch Prediger, hielt sich aber als solcher, <said id="5" mode="reported" content="speech" level="1">wie
+                        <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">erzählt</seg></said>, lieber an die Kirchen- und Heiligengeschichte, als daß er päpstliche
+                        Verordnungen auslegte. Als aber dann Luther auftrat, war Myconius sofort
+                        einer seiner entschiedensten Anhänger. <said id="6" mode="direct" content="speech" level="1">„An Luther schloß ich mich</said> <seg id="6" type="frame" pos="mid">— <seg id="6" type="intExpr">bekennt</seg>
+                        <seg id="6" type="speaker">er</seg> freudig — </seg><said id="6" mode="direct" content="speech" level="1">gleich im Jahre 1517 mit Leib und Seele zum <said id="16" mode="reported" content="speech" level="2"><seg id="16" type="intExpr">Bekenntnis</seg> der
+                        Lehre Christi </said>an."</said>
+                         
+           <said id="14" mode="reported" content="speech" level="1" border="yes"> Wegen dieser freien Richtung wurde er nun sieben Jahre lang von den
+                        <seg id="13 14" type="speaker">Mönchen</seg> hart <seg id="14" type="intExpr">bedrängt</seg></said>, <said id="13" mode="reported" content="speech" level="1">ja mit lebenslänglichem Kerker <seg id="13" type="intExpr">bedroht</seg></said>, wie man
+                        einen Eisenacher Mönch, <seg id="15" type="speaker">Johannes Hiller</seg>, <said id="15" mode="reported" content="thought" level="1" border="yes">solcher kirchenfeindlichen <seg id="15" type="intExpr">Gesinnungen</seg></said> halber in der That bis zu seinem Tode im Kloster gefangen gehalten
+                        hatte. <said id="7" mode="reported" content="writing" level="1">Von diesem evangelischen Märtyrer <seg id="7" type="intExpr">spricht</seg> sogar <seg id="7" type="speaker">Melanchthon</seg> in seiner
+                        Apologie. </said>Nach demselben Eisenach wurde nun auch Myconius geschickt, damit
+                        er den Kerker mit eignen Augen sehen möchte, darauf nach Leipzig und dann
+                        in sein Annaberg. Im herzoglichen Sachsen regierte damals ein erbitterter
+                        Feind Luthers, Georg der Bärtige. Und in Annaberg soll Franziskus wirklich
+                        achtzehn Wochen in klösterlichem Gewahrsam gehalten worden sein. Doch
+                        gelang es ihm zu entfliehen. Ein Bergmeister in der Nachbarstadt Annabergs,
+                        in Buchholz, Matthäus Busch, ein treuer Anhänger der Lehre Luthers, half
+                        ihm, nach Zwickau zu entkommen, <said id="10" mode="reported" content="speech" level="1">wo das Evangelium schon öffentlich <seg id="10" type="intExpr">gepredigt</seg> werden durfte.
+
+</said>
+
+
+</p>
+      </body>
+   </text>
+</TEI>

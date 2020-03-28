@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Erinnerungen und die Mittheilungen eines Landschaftsmalers</title>
+             <author>Koekkoek, B. C.</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_282160_266616.txt_30.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1842</f>
+         <f name="decade">1840</f>
+         <f name="title">Erinnerungen und die Mittheilungen eines Landschaftsmalers</f>
+         <f name="author">Koekkoek, B. C.</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="writing" level="1">„Der Gegenstand, <said id="2" mode="reported" content="thought" level="2">der uns augenblicklich beschäftigt</said>, ist interessanter durch den schonen Farbenton, der darin herrscht, als in Bezug auf Zeichnung; kaum habe ich ihn mit einigen Strichen auf
+                        mein Album geworfen, so verliert er schon seinen Reiz: und doch hat
+                        diese Ansicht einen eigenthümlichen Reiz, <seg id="3" type="frame" pos="start">so daß <seg id="3" type="speaker">man</seg> wider Willen
+                        sich <seg id="3" type="intExpr">bewogen</seg> <seg id="3" type="intExpr">fühlt</seg>,</seg> <said id="3" mode="indirect" content="thought" level="2">nach Papier und Bleistift zu greifen.</said>"</said>
+                         
+                  <seg id="4" type="frame" pos="start">Darauf <seg id="4" type="intExpr">entgegnete</seg> <seg id="4" type="speaker">ich</seg> ihm Folgendes:</seg>
+                         
+                  <said id="4" mode="direct" content="writing" level="1">„<seg id="5" type="frame" pos="start">Unmöglich kann <seg id="5" type="speaker">ich</seg> wohl <seg id="5" type="intExpr">annehmen</seg>,</seg> lieber Freund, <said id="5" mode="indirect" content="thought" level="2" nonfact="yes">daß Du
+                        nur zeichnest, weil ich es thue.</said> Denn das wäre gerade so dumm,
+                        als wolltest Du mir in Allem folgen, wie mein Schatten. Man
+                        mag wohl gut thun, <said id="6" mode="reported" content="speech" level="2" nonfact="yes">den Rath eines Andern anzuhören</said>, <said id="7" mode="reported" content="thought" level="2">aber man höre stets auch auf sein eigenes Gefühl.</said>
+                        Hättest Du übrigens Deine Umrisse und Deine Linien getreu der
+                        Natur nachgezeichnet, <said id="8" mode="reported" content="thought" level="2">so würde Dir Deine Skizze besser gefallen.</said>
+                        Denn wenn Du nicht zum Bleistift gegriffen hast, eben nur um
+                        meinem Beispiele zu folgen, so muß sich nothwendig in der Landschaft, die ihre Herrlichkeiten vor uns ausbreitet, ein oder der andre
+                        Gegenstand finden, <seg id="9" type="frame" pos="start">der in <seg id="9" type="speaker">Dir</seg> den <seg id="9" type="intExpr">Wunsch</seg> <seg id="9" type="intExpr">rege</seg> machte,</seg> <said id="9" mode="indirect" content="thought" level="2" nonfact="yes">ein Andenken
+                        davon in Deinem Album zu haben.</said> Denn Alles, was wir hier
+                        sehen, ist natürlich: aber nicht Alles ist schön. Das Siebengebirge
+                        bildet den Hauptgegenstand dieser Landschaft: durch seine grandiosen
+                        und doch angenehmen Umrisse verleiht es derselben ihren ganzen
+                        Glanz. Man nehme sie heraus <said id="10" mode="reported" content="speech" level="2" nonfact="yes" metaph="yes">und die Landschaft will nichts mehr
+                        sagen.</said> Und Du hast nun gerade die schönen Linien dieses Gebirges
+                        vernachlässigt, <seg id="11" type="frame" pos="start">ohne zu <seg id="11" type="intExpr">bedenken</seg>,</seg> <said id="11" mode="indirect" content="thought" level="2" nonfact="yes">daß das Uebrige für die Bleistiftzeichnung keine Wichtigkeit hat.</said> Indem Du so den einzigen Gegen 
+                  
+                  stand, der Deinen Skizzen einen Werth verleihen konnte, bei Seite
+                        gelassen hast, so kann Dir diese keinen weiteren Dienst leisten, <seg id="12" type="frame" pos="start">als
+                        Dich daran <seg id="12" type="intExpr">erinnern</seg>,</seg> <said id="12" mode="indirect" content="thought" level="2" nonfact="yes" metaph="yes">daß Du im Jahre 1840 in Bonn eine Zeichnung gemacht hast.</said> Die Landschaft selbst stellt sie nicht dar."</said>
+                         
+                  
+               
+               
+                  Der Drachenfels.
+                        
+                  Wenn man den Rhein auch nur für einige Tage besucht, <said id="13" mode="reported" content="thought" level="1">so
+                        vergesse man ja nicht, auf den Drachenfels zu steigen</said>; denn man
+                        genießt vom Gipfel dieses Felsens aus, da er die umliegenden Höhen
+                        überragt, eine unvergleichliche Fernsicht.
+                  <said id="14" mode="reported" content="thought" level="1">Kein Maler aber hoffe hier die Natur nachahmen zu wollen:</said>
+                        schon ein bloßer Versuch wäre eine Thorheit. <said id="15" mode="reported" content="thought" level="1" border="yes">Man bewahre tief
+                        im Herzen den Eindruck dieses Anblickes</said>, erfülle seine Seele ganz
+                        damit und so wird man lernen, selbst zu schaffen. <said id="16" mode="reported" content="thought" level="1" border="yes">An solchen Orten
+                        fühlt man recht die Große und die Liebe des Allerhöchsten und die
+                        Kleinheit und Undankbarkeit der Menschen.</said>
+                  
+               
+            
+            
+               Kapitel IV.
+                        Von Remagen nach Ahrweiler.
+                        
+               
+               
+                  Begegnung mit deutschen Kunstbrüdern.
+                        
+                  ...... <said id="17" mode="reported" content="thought" level="1" border="yes">Der Wein schien das zu Wege zu bringen, was
+                        alle Anstrengungen Herrmanns nicht vermocht hatten.</said> <said id="18" mode="reported" content="speech" level="1">Unsere deutschen Collegen wurden gesprächiger</said> und theilnehmender <seg id="19" type="frame" pos="start">und <seg id="19" type="intExpr">erzählten</seg>
+                        uns,</seg> <said id="19" mode="indirect" content="speech" level="1">sie hätten einen großen Theil des Sommers damit verbracht,
+                        Ansichten der Ahr aufzunehmen und hätten jetzt eine Reise nach der
+                        Mosel vor.</said> <said id="20" mode="reported" content="speech" level="1">Bald rollte nun unsre Unterhaltung über allerhand
+                        Kunstinteressen</said> <said id="21" mode="reported" content="speech" level="1">und so kamen wir unter Anderen auch auf die
+                        Düsseldorfer Ausstellung.</said>
+                  <said id="22" mode="direct" content="speech" level="1">„Als Holländer</said>, <seg id="22" type="frame" pos="mid"><seg id="22" type="intExpr">sagte</seg> einer der deutschen <seg id="22" type="speaker">Maler</seg>,</seg> <said id="22" mode="direct" content="speech" level="1"><said id="23" mode="reported" content="thought" level="2" nonfact="yes" border="yes">müssen die
+                        Herren doch wohl auch ihren Landsmann, den Landschaftsmaler
+                        „Koekkoek" kennen</said>, der zwei Mal Gemälde nach Düsseldorf zur Ausstellung geschickt hat."</said>
+                         
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

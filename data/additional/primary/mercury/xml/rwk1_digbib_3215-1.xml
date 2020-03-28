@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Meister Zacharius</title>
+             <author>Verne, Jules</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Verne,_Jules_Meister_Zacharius.tg1908_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Meister Zacharius</f>
+         <f name="author">Verne, Jules</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">other</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meister Zacharius hielt kleine Stücken Uhrmacherwerks aus geschliffenem Krystall von ganz vorzüglicher Arbeit in den Händen. Das Räderwerk, die Angeln, das Gehäuse der Uhr, Alles war aus demselben Material; er hatte ein fast unglaubliches Talent in diesem schwierigen Werk entfaltet. 
+                     Man sah, wie die Wangen des alten Uhrmachers sich vor Erregung färbten,<seg id="1" type="frame" pos="start"> als <seg id="1 3" type="speaker">er</seg> jetzt <seg id="1" type="intExpr">sagte</seg>?</seg> 
+                     <said id="1" mode="direct" content="speech" level="1">»Wie schön wird es sein, diese Uhr durch ihre krystallhelle Umhüllung arbeiten zu sehen und die Schläge ihres Herzens zu zählen!</said> 
+                     
+                       <said id="2" mode="indirect" content="speech" level="1"> – Ich will darauf wetten, Meister, daß sie nicht um eine Secunde im Jahr abweichen wird</said><seg id="2" type="frame" pos="end">, <seg id="2" type="intExpr">rief</seg> der junge <seg id="2" type="speaker">Mann</seg>. 
+ </seg>                   <said id="3" mode="direct" content="speech" level="1"> – Und Du würdest Deine Wette gewinnen! Habe ich nicht mein eigenstes Wesen hineingelegt? weicht vielleicht mein Herz ab?«</said> 
+                     Aubert wagte nicht, in diesem Augenblick den Meister anzusehen. 
+                     <said id="6" mode="direct" content="speech" level="1">»<said id="4" mode="indirect" content="speech" level="2">Sage mir aufrichtig</said><seg id="4" type="frame" pos="start">, <seg id="4" type="intExpr">fuhr</seg> der <seg id="4" type="speaker">Alte</seg> melancholisch <seg id="4" type="intExpr">fort</seg>,</seg> <said id="4" mode="indirect" content="speech" level="2"><said id="5" mode="reported" content="thought" level="3">hast <seg id="5" type="speaker">Du</seg> mich nie <seg id="5" type="intExpr">für</seg> wahnwitzig <seg id="5" type="intExpr">gehalten</seg>?</said></said> <seg id="7" type="frame" pos="start"><seg id="7" type="speaker">Du</seg> <seg id="7" type="intExpr">glaubst</seg>,</seg> <said id="7" mode="indirect" content="thought" level="2" nonfact="yes">daß ich zuweilen in eine unheilvolle Raserei verfalle</said>, nicht wahr? Wie oft habe ich in Deinen und meiner Tochter Augen dies Urtheil über mich gelesen! Ach, es thut weh, wenn man nicht einmal von den Menschen, die man am Meisten liebt, verstanden wird! Dir aber, Aubert, werde ich klar darlegen, daß ich Recht habe. Schüttle nicht ungläubig den Kopf;<seg id="8" type="frame" pos="start"> <seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">sage</seg> Dir,</seg> <said id="8" mode="indirect" content="speech" level="2">Du wirst staunen!</said> An dem Tage,<said id="9" mode="reported" content="thought" level="2"> da <seg id="9" type="speaker">Du</seg><said id="10" mode="reported" content="speech" level="3"> <seg id="10" type="speaker">meine</seg> <seg id="10" type="intExpr">Worte</seg></said> <seg id="9" type="intExpr">verstehen</seg> lernst</said>, <seg id="11" type="frame" pos="start">wirst <seg id="11" type="speaker">Du</seg> <seg id="11" type="intExpr">sehen</seg>,</seg><said id="11" mode="indirect" content="thought" level="2" nonfact="yes"> daß ich die Geheimnisse des Daseins, die Geheimnisse der mysteriösen Vereinigung von Seele und Leib ergründet habe!</said>« </said>
+                    <said id="12" mode="reported" content="speech" level="1"> Als <seg id="12" type="speaker">Meister Zacharius</seg> so <seg id="12" type="intExpr">redete</seg></said>, sah man ihm an, daß sich auch Hochmuth in seinen Stolz mischte. Die Augen glänzten in fast unnatürlichem Feuer, und der Stolz durchzuckte seinen ganzen Körper. Und allerdings, wenn Eitelkeit je gerechtfertigt war,<said id="13" mode="reported" content="speech" level="1" nonfact="yes" prag="yes"> so konnte <seg id="13" type="speaker">man</seg> das bei Meister Zacharius <seg id="13" type="intExpr">sagen</seg>.</said> 
+                     Bis zu seiner Zeit war die Uhrmacherkunst eigentlich noch in ihrer Kindheit geblieben. Seit dem Tage, wo Plato vierhundert Jahre vor der christlichen Zeitrechnung die Nachtuhr, eine Art Wasseruhr (Klepsydra), erfand, welche die Stunden der Nacht durch den Ton und das Spiel einer Flöte angab, blieb diese Wissenschaft fast stationär. Die Meister arbeiteten mehr auf die Kunst als auf die Mechanik hin, und man construirte schöne Uhren aus Eisen, Kupfer, Holz oder Silber, die so sein und köstlich geschnitzt waren, wie eine Wasserkanne Cellini's. So entstanden Meisterwerke der Ciselirarbeit, die zwar als Zeitmesser äußerst unvollkommen waren, aber doch in Bezug auf die Kunst befriedigten. Wenn die Gestaltungskraft des Künstlers weniger nach plastischer Vollendung strebte, so verfiel sie darauf, jene Uhren mit beweglichen Gruppen und Figuren, mit melodischen Glocken zu schaffen, die oft in sehr ergötzlicher Weise die Zahl der Stunden anzeigten oder abriefen. <said id="14" mode="freeIndirect" content="thought" level="1">Wer kümmerte sich denn auch zu jener Zeit darum, den Gang der Zeit zu reguliren?</said> Rechtsverjährungsfrist war noch nicht erfunden; die physischen und astronomischen Wissenschaften begründeten ihre Rechnungen nicht auf scrupulös genaue Maße; es gab keine Etablissements, die zu bestimmter Stunde geschlossen werden mußten, und noch viel weniger Eisenbahnzüge, die auf die Secunde abfuhren. Des Abends hörte man auf den Klang der Feierglocke, und Nachts, <said id="15" mode="reported" content="speech" level="1" nonfact="yes">während des tiefen, allgemeinen <seg id="15" type="intExpr">Schweigens</seg></said>, wurden die Stunden abgerufen. Man lebte wohl weniger Zeit, wenn die Existenz nämlich nach der Menge der vollendeten Dinge abgemessen wird, aber man lebte besser.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Jugend</title>
+             <author>Duncker, Dora</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Duncker,_Dora_Jugend.tg11_1.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Jugend</f>
+         <f name="author">Duncker, Dora</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Da hält sie sich nicht länger. All das zurückgedrängte, sehnende Weh langer, einsamer Jahre, all die verhaltene Liebesglut, die so brennend an ihr gezehrt, brechen in ihr los. Bebend und schluchzend ihn umfangend, sinkt sie an seine Brust. 
+                  Einen Augenblick liegt sie da, ganz still. Auch er rührt sich nicht. Dann richtet sie sich auf und <seg id="1" type="frame" pos="start">leise, wie verzagt, <seg id="1" type="intExpr">fragt</seg> <seg id="1" type="speaker">sie</seg>:</seg> <said id="1" mode="direct" content="speech" level="1">»Nun ist alles gut. Nicht wahr, nun ist alles gut?«</said> 
+                  <seg id="2" type="frame" pos="start">Und mechanisch <seg id="2" type="intExpr">wiederholt</seg> <seg id="2 5 7" type="speaker">er</seg>:</seg> <said id="2" mode="direct" content="speech" level="1">»Ja, nun ist alles gut,«</said> und blickt mit traurigen Augen über Charlottens Kopf fort nach der Tür. 
+                  <seg id="3" type="frame" pos="start">Seine Hand mit ihren Fingern zärtlich fest umspannend, <seg id="3" type="intExpr">fragt</seg> <seg id="3 4 6" type="speaker">sie</seg> leise, <said id="4" mode="reported" content="speech" level="1">jedes <seg id="4" type="intExpr">Wort</seg></said> eine Liebkosung:</seg> 
+                  <said id="3" mode="direct" content="speech" level="1">»Und ihr habt euch getroffen, du und das Kind?«</said> 
+                  <said id="5" mode="direct" content="speech" level="1">»Ich war überarbeitet und müde; ich wollte zwei Tage in die Berge, ehe ich zu dir kam.«</said> 
+                  <said id="6" mode="direct" content="speech" level="1">»Und hast du Erfrischung gefunden?«</said> 
+                  
+                     <said id="7" mode="direct" content="speech" level="1">»Ja, ja.«</said> <said id="8" mode="reported" content="speech" level="1"><seg id="8 9 11" type="speaker">Er</seg> <seg id="8" type="intExpr">sagt</seg> es hastig und gereizt.</said> <said id="9" mode="direct" content="speech" level="1">»Sehe ich nicht so aus?«</said> 
+                  Mit einem stolzen, glücklichen Lächeln blickt sie zu ihm hin. 
+                  <said id="10" mode="direct" content="speech" level="1">»O sehr. Und ich?«</said> <seg id="10" type="frame" pos="end"><seg id="10" type="intExpr">fügt</seg> <seg id="10 12 17" type="speaker">sie</seg> zaghaft <seg id="10" type="intExpr">hinzu</seg>.</seg> 
+                  <said id="11" mode="direct" content="speech" level="1">»Schön wie immer, nur ein wenig blaß.«</said> 
+                  <said id="12" mode="direct" content="speech" level="1">»Das macht die Freude.«</said> 
+                  Sie lehnt sich ein wenig müde an seine Schulter und will ihn küssen, als die Tür heftig aufgeklinkt wird. Frenjen springt auf. Eine kaum verhohlene strahlende Freude geht über sein Gesicht, als er Lena im Türrahmen sieht. Ein Bild frühlingshafter, siegreicher Jugend, steht sie in ihrem schlichten weißen Kleide, einen Strauß Alpenblumen im Gürtel, da, das schwere lichtbraune Haar in dem funkelnden Licht der elektrischen Lampen wie von Goldschimmer überwebt. Ihre strahlenden Augen hängen an Frenjens Blick. 
+                  Auch Charlotte hat die Augen zu dem Geliebten aufgehoben. Ein Schwindel erfaßt sie. Was die Jahre ihm angetan haben, scheint plötzlich aus seinem Antlitz fortgewischt zu sein. So wie jetzt haben seine Augen in jenen unvergeßlichen Maientagen geleuchtet, so wie jetzt hat sein junger ausdrucksvoller Mund gelächelt, so in sehnender Kraft seine Gestalt sich gestrafft und gespannt. <said id="13" mode="freeIndirect" content="thought" level="1">Aber seine leuchtenden Blicke fliegen achtlos über sie hin zu einer anderen, sein beredter Mund lächelt über sie fort zu einer anderen, und diese andere ist ihre Tochter!</said> 
+                  <said id="14" mode="direct" content="speech" level="1">»Nun, Muttchen, <said id="15" mode="reported" content="speech" level="2" nonfact="yes">habt <seg id="15" type="speaker">ihr</seg> euch <seg id="15" type="intExpr">ausgeplaudert</seg>?</said>«</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">fragt</seg> <seg id="14 16" type="speaker">Lenas</seg> frische Stimme.</seg> 
+                  Erschreckt fährt Charlotte zusammen. 
+                  <said id="16" mode="direct" content="speech" level="1">»Es hat nämlich schon zum zweitenmal zu Tisch geläutet. Fanny Laurentius war schon an meiner Tür und hat Lärm geschlagen.«</said> 
+                  <said id="17" mode="direct" content="speech" level="1">»Ich bin bereit.«</said> Sie zwingt sich zu einem Lächeln und nimmt Frenjens dargebotenen Arm. Zu dreien gehen sie in den Speisesaal hinab. 
+                  Frenjen nimmt zwischen Charlotte und Lena Platz. Die Geschwister Laurentius setzen sich den dreien gegenüber. Der Referendar ist augenscheinlich wenig erbaut davon, daß der so plötzlich hereingeschneite Professor, der ihm schon den Abstieg von Heiligwasser verdorben hat, auch hier wieder Lena Magnussens Aufmerksamkeit in Anspruch nimmt. 
+                  Er gibt sich die erdenklichste Mühe, Lenas lebhafte Augen, ihre sprudelnde herzgewinnende Lustigkeit von dem Professor abzulenken. Auch Schwester Fanny tut das ihrige dazu. Langsam gelingt es den beiden, die Freundin für eine kurze Stunde zurückzuerobern. 
+                  <seg id="18" type="frame" pos="start"><seg id="18 19" type="speaker">Frenjen</seg>, der es gar nicht <seg id="18" type="intExpr">bemerkt</seg> hat,</seg> <said id="18" mode="indirect" content="thought" level="1" nonfact="yes">daß Charlotte bleich und still, ohne eine Speise zu berühren, neben ihm gesessen hat</said>, <said id="19" mode="reported" content="speech" level="1"><seg id="19" type="intExpr">spricht</seg> jetzt halblaut auf Frau von Magnussen <seg id="19" type="intExpr">ein</seg>.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

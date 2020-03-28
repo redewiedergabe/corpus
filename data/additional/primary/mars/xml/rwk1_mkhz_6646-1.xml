@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_wiener282_1850_7.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1850</f>
+         <f name="decade">1850</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Nachrichten</f>
+         <f name="source">mkhz.wiener</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nicht allein
+                        die Theologie Studirenden betheiligen sich mit dem
+                        größten Eifer anderer Vereine, sondern auch die
+                        Studirenden von allen Facultäten. Der Verein hat
+                        sich zur Aufgabe gestellt, die Mitglieder mit allen Fragen der inneren und äußeren Mission bekannt zu machen.
+                        <said id="1" mode="reported" content="speech" level="1">Es werden deshalb alle 14 Tage geschichtliche Vorträge über Gegenstände der Mission gehalten.</said> Der Verein
+                        besitzt bis jetzt schon 12 Deutsche Missions Zeitschriften
+                        und es sollen in Zukunft noch Englische und Französische
+                        Blätter angeschafft werden. Den Ueberschuß der Geldeinnahme verwendet der Verein zur Unterstützung seiner
+                        Glaubensbrüder in Nordamerika.
+            -- Die Trauungen der ausgehobenen Laudwehrmänner finden jetzt ohne ein vorhergegangenes Aufgebot Statt.
+            
+               Jserlohn, 18. November. <seg id="2" type="frame" pos="start">Jn einer Versammlung ist <seg id="2" type="intExpr">beschlossen</seg> worden,</seg> <said id="2" mode="indirect" content="speech" level="1">den in Baden gebliebenen und
+                        in Folge Verwundung gestorbenen Cameraden des 2ten
+                        Bataillons ( Jserlohn ) 16ten Landwehr=Regiments bei
+                        Durlach ein Denkmal zu setzen.</said>
+            
+               München, 21. November. Se. k. Hoheit der
+                        Prinz Carl von Baiern hat heute Vormittags als Feldmarschall der Armee sämmtliche seit dem 15. Juli l. J. beförderte oder aus andern Garnisonen hieher versetzte Officiere in seinem Palais empfangen.
+            -- Durch königl. Entschließung vom 2ten ist die Eröffnung der Landrathsversammlungen für die Jahre
+                        18 49 / 50 und18 50 / 51 auf den 26. November festgesetzt,
+                        und haben die Regierungen sämmtlicher Kreise den Auftrag, <said id="3" mode="reported" content="speech" level="1" nonfact="yes">demzufolge die entsprechende Einberufung zu veranlassen.</said>
+            -- <said id="4" mode="reported" content="speech" level="1">Jn Folge des jüngst eingetretenen Ablebens Sr.
+                        kais. Hoheit des Erzherzogs Ferdinand Carl Joseph von
+                        Oesterreich=Este hat Se. Maj. der König eine achttägige
+                        Hoftrauer angeordnet.</said>
+            -- <said id="6" mode="reported" content="writing" level="1">Das königl. Regierungsblatt Nr. 55 enthält eine
+                        Bekanntmachung, <said id="5" mode="direct" content="writing" level="2">„die Reorganisation des landwirthschaftlichen Vereins betreffend“</said></said>, der über 8000 Mitglieder zählt. Sowohl die zugewendete Staats=Dotation
+                        wie die Bildung von Ausschüssen als berathende, den
+                        Behörden beigegebene Sachverständige in der Art der
+                        Gewerbskammern oder der comices agricoles in Belgien
+                        beweisen, daß Se. Majestät der König, der ehedem selbst
+                        thätiger Vorstand des Vereins war, den landwirthschaftlichen Jnteressen noch mit der alten Vorliebe seine besondere Gunst zuwendet.
+            
+               Dresden, 21. November. <said id="7" mode="reported" content="writing" level="1">Auf der Tagesordnung
+                        der heutigen Sitzung der ersten Kammer war der Bericht
+                        der zweiten Deputation über die Erwerbung der Säch 
+               
+               sisch=Schlesischen Eisenbahn für den Staat zur Berathung angesetzt.</said> <said id="8" mode="reported" content="speech" level="1">Bekanntlich hat die zweite Kammer
+                        diesen Gegenstand bereits berathen</said> und dem von der
+                        Staatsregierung mit der Sächsisch=Schlesischen Eisenbahngesellschaft abgeschlossenen Vertrage ohne Debatte
+                        und einstimmig ihre Genehmigung ertheilt. <seg id="9" type="frame" pos="start">Die <seg id="9" type="speaker">Deputation der ersten Kammer</seg> <seg id="9" type="intExpr">empfiehlt</seg></seg> <said id="9" mode="indirect" content="speech" level="1">jetzt nicht nur diesem
+                        Hauptantrage, sondern auch sämmtlichen Nebenanträgen der jenseitigen Kammer allenthalben beizutreten.</said>
+            Bevor die Deputation zu diesem ausführlich motivirten Antrage gelangt ist, konnte sie nicht <said id="10" mode="reported" content="speech" level="1">der gewichtigen
+                        Einwendungen</said> uneingedenk bleiben, welche bei der jüngst
+                        in Frage gewesenen Erwerbung der Chemnitz=Risaer
+                        Eisenbahn, gegen die Erwerbung von Privat=Eisenbahnen überhaupt von Seiten des Staates, erhoben worden
+                        waren.
+            Es scheinen sich ihr diese Einwendungen sofort durch die
+                        einzige Bemerkung widerlegen zu lassen, welche die Staatsregierung gewisser Maßen an die Spitze ihrer Beweggründe
+                        stellt, <seg id="11" type="frame" pos="start">wenn <seg id="11" type="speaker">sie</seg> <seg id="11" type="intExpr">erklärt</seg>:</seg> <said id="11" mode="indirect" content="speech" level="1">„es sei von Niemand zu verkennen,
+                        wie wichtig es sei, wenn die, das Gedeihen des öffentlichen
+                        und Privatverkehrs, mithin eines Theils der Wohlfahrt
+                        Aller, so wesentlich bedingenden Anstalten, wie Eisenbahnen dies sind, von der Gesetzgebung und Verwaltung des
+                        Staates unmittelbar abhängig seien, um den Zwecken
+                        des Staates, d. i. dem Gemeinwohl, als ihrer höchsten und letzten Bestimmung, ausschließlich dienen zu
+                        können.“</said>
+                         
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

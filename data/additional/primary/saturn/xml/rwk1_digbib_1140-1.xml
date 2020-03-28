@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Jugend</title>
+             <author>Duncker, Dora</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Duncker,_Dora_Jugend.tg11_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Jugend</f>
+         <f name="author">Duncker, Dora</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            
+               
+                  
+                     <said id="1" mode="freeIndirect" content="thought" level="1">War es Mannesart, plötzlich abzuspringen vom
+                        Wege zum Ziel, gewalttätig etwas zu begehren, an sich zu reißen, was ihm
+                        zuvor weltfern gelegen hatte?
+                     Mannesart, andere zu vernichten, zu zerstören, nur um für sich
+                        selber aufzubauen?
+                     War es Schicksal, Bestimmung – ein gütiges Schicksal vielleicht
+                        – das sie davor bewahrte, den geliebten Mann unbefriedigt, unglücklich an der Seite der alternden Frau zu
+                        sehen, das ihr vergönnte, durch die eigene Tochter das Glück mit vollen
+                        Händen über ihn zu streuen, das ihren wartenden Händen müde entfallen
+                        war?</said>
+                  
+                  
+                     Leise, dann vernehmlicher klopft es an ihre Tür.
+                     Frenjen tritt ein.
+                     <said id="2" mode="freeIndirect" content="thought" level="1">Ist es nur das Mondlicht, das ihn so geisterhaft bleich
+                        macht?</said>
+                  
+                  
+                     <said id="3" mode="direct" content="speech" level="1">»Ich sah dich fortgehen, Charlotte.
+                     Du bist müde.
+                     Du solltest dich schlafen legen.
+                     <said id="4" mode="reported" content="speech" level="2" nonfact="yes">Oder wollen wir noch ein wenig plaudern?</said>«</said> 
+                  
+                  
+                     <said id="5" mode="direct" content="speech" level="1">»Wie du willst.«</said> <seg id="5" type="frame" pos="end"><seg id="5" type="speaker">Sie</seg> <seg id="5" type="intExpr">sagt</seg> es freundlich</seg>, aber sichtlich
+                        gequält.
+                  
+                  
+                     Er beugt sich ein wenig zu ihr nieder.
+                     <said id="6" mode="reported" content="speech" level="1" nonfact="yes">Er will etwas sagen</said>, unterbricht sich aber beim ersten
+                        Anlauf.
+                  
+                  
+                     Ein leiser Schauer fliegt über ihren Leib.
+                     <said id="7" mode="freeIndirect" content="thought" level="1"><seg id="8" type="frame" pos="start">Soll <seg id="8" type="speaker">sie</seg> auch dies Schwerste von ihm fort auf ihre Schultern
+                        nehmen, ihm <seg id="8" type="intExpr">sagen</seg>:</seg> <said id="8" mode="direct" content="speech" level="2" nonfact="yes">»Quäle dich nicht – <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">ich</seg> <seg id="9" type="intExpr">weiß</seg> –</seg> <said id="9" mode="indirect" content="thought" level="3" border="yes">du hast dich getäuscht –
+                        du liebst nicht mich, du liebst die Jugend</said> – ich gebe dich frei.«</said> 
+                  
+                  
+                     Nein, das konnte sie nicht – heute noch nicht.</said>
+                  
+                  
+                     <said id="10" mode="reported" content="speech" level="1" nonfact="yes">Wieder setzt er zum Sprechen an</said>, jetzt unruhig und erregt durch
+                        den kleinen Salon hin und her laufend, wie er es in schweren Zeiten in ihrem
+                        Boudoir in Berlin oft genug getan hat.
+                  
+                  
+                     <seg id="11" type="frame" pos="start">Diesmal findet <seg id="11" type="speaker">er</seg> <seg id="11" type="intExpr">Worte</seg>, schwer und gepreßt.</seg>
+                  
+                  
+                     <said id="11" mode="direct" content="speech" level="1">»<said id="12" mode="reported" content="speech" level="2" nonfact="yes">Wir haben viel zu besprechen – über unsere Zukunft</said> – <said id="13" mode="reported" content="writing" level="2" nonfact="yes">ich konnte
+                        dir nicht alles schreiben</said> – zum Beispiel, daß – ich – ich möchte nicht nach
+                        Berlin.
+                     Ich möchte in Jena bleiben – wenn es dir dort nicht zu klein und
+                        eng ist –«</said> 
+                  
+                  
+                     Er wartet auf ihre Antwort.
+                  
+                  
+                     <seg id="14" type="frame" pos="start">Nach einer Weile <seg id="14" type="intExpr">sagt</seg> <seg id="14" type="speaker">sie</seg> müde:</seg> 
+                  
+                  
+                     <said id="14" mode="direct" content="speech" level="1">»O, das hat ja Zeit.«</said> 
+                  
+                  
+                     Erleichtert trat er wieder näher auf sie zu.
+                  
+                  
+                     
+                        <said id="15" mode="direct" content="speech" level="1">»Ja, <said id="16" mode="reported" content="thought" level="2">das gerade dachte ich auch</said>, Charlotte
+                        – und – wenn es dich nicht verletzt – ich hätte eine Bitte –«</said> 
+                  
+                  
+                     Er wartet, <said id="17" mode="reported" content="speech" level="1" nonfact="yes">daß sie etwas sagen soll</said>, aber diesmal bleibt sie
+                        stumm.
+                  
+                  
+                     <said id="18" mode="direct" content="speech" level="1">»Ich fühle mich nicht ganz wohl – oder richtiger – es geht mir
+                        vieles durch den Kopf – Berufliches – das ich erst los werden möchte, ehe
+                        wir den Tag unserer Hochzeit – du siehst ja selbst, ich bin zerstreut –
+                        würdest du mir zürnen, wenn ich morgen zunächst auf ein paar Tage in die
+                        Berge ginge – die Berge haben eine wunderbare, beruhigende Macht über mich –
+                        heute ist Donnerstag, am Montag bin ich wieder hier!
+                     Es verletzt dich nicht, Charlotte?«</said> 
+                  
+                  
+                     Sie schüttelt leicht den Kopf.
+                     <said id="19" mode="direct" content="writing" level="1" nonfact="yes">Sprechen kann sie nicht.</said>
+                     Sie fürchtet sich vor den Tränen in ihrer Stimme.
+                  
+                  
+                     <said id="20" mode="direct" content="speech" level="1">»Ich danke dir, Charlotte.«</said> 
+                  
+                  
+                     Er beugt sich über ihre Hand und küßt sie.
+                  
+                  
+                     <said id="21" mode="direct" content="speech" level="1">»Gute Nacht und auf Wiedersehen am Montag.
+                     Ich möchte morgen um fünf Uhr fort.
+                     Die Dunkelheit macht mir nichts.«</said> 
+                  
+                  
+                     Charlotte nimmt ihre letzte Kraft zusammen.
+                  
+                  
+                     <said id="22" mode="direct" content="speech" level="1">»<seg id="23" type="frame" pos="start"><seg id="23" type="intExpr">Weiß</seg> – <seg id="23" type="speaker">Lena</seg>,</seg> <said id="23" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">daß du fort willst?</said>«</said> 
+                  
+                  
+                     Er sieht sie einen Augenblick mit erschreckter Verwunderung
+                        an.
+                     <said id="24" mode="reported" content="speech" level="1">Dann spricht er ein ruhiges, ehrliches Nein.</said>
+                  
+                  
+                     <said id="25" mode="direct" content="speech" level="1">»<said id="26" mode="reported" content="writing" level="2" nonfact="yes">Möchtest du mir nicht deine Adresse
+                        zurücklassen</said> – für alle Fälle – die Luft hier sagt mir nicht sonderlich zu –
+                        wenn ich den Aufenthalt wechselte –«</said> 
+                  
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

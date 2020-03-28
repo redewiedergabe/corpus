@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Er wartet auf den vazierenden Gott</title>
+             <author>Schnitzler, Arthur</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Schnitzler,_Arthur_Er_wartet_auf_den_vazierenden_Gott.tg231_1.xml</f>
+         <f name="name">mercury</f>
+         <f name="year">1886</f>
+         <f name="decade">1880</f>
+         <f name="title">Er wartet auf den vazierenden Gott</f>
+         <f name="author">Schnitzler, Arthur</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nämlich mein Freund Albin wartet auf ihn. Er ist ein Poet, Albin, und zwar ist er das Genie des Fragments; <said id="1" mode="reported" content="writing" level="1"><seg id="0" type="speaker">er</seg> hat noch nie etwas bis zu Ende <seg id="1" type="intExpr">geschrieben</seg>.</said> Die Ideen strömen ihm zu, <said id="2" mode="reported" content="speech" level="1">das <seg id="2" type="intExpr">erzählt</seg> <seg id="0" type="speaker">er</seg> mir oft</said>, und ich war dabei, wie er in seiner Kaffeehausecke saß, auf die Marmorplatte des Tisches starrte und plötzlich aufsprang – weil die Ideen ihn nicht in Ruhe ließen. Ich faßte es sofort auf: er flüchtete vor den hunderterlei Gestalten, die da im Qualm des Kaffeehausdunstes um ihn tanzten, und ich, der ihm gegenübersaß, schaute ihm bewundernd nach. <seg id="3" type="frame" pos="start"><seg id="3" type="speaker">Ich</seg> <seg id="3" type="intExpr">wußte</seg> schon,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">daß <seg id="4" type="speaker">er</seg> morgen<seg id="4" type="frame" pos="start"> mit der <seg id="4" type="intExpr">Mitteilung</seg> vor mich hintreten würde:</seg> <said id="4" mode="direct" content="speech" level="2" nonfact="yes"><said id="5" mode="reported" content="writing" level="3">Gestern nacht um ein Uhr hab' <seg id="5" type="speaker">ich</seg> eine Novelle zu <seg id="5" type="intExpr">schreiben</seg> angefangen</said> ... Oder gar ein Drama!</said></said> <seg id="6" type="frame" pos="start">Oder <seg id="6" type="speaker">er</seg> würde auch <seg id="6" type="intExpr">sagen</seg>:</seg> <said id="6" mode="direct" content="speech" level="1" nonfact="yes">Höre einmal</said> ... <said id="7" mode="reported" content="speech" level="1">dann pflegte <seg id="7" type="speaker">er</seg> Reflexionen <seg id="7" type="intExpr">vorzulesen</seg>, abgerissene Sätze oder nur einzelne Worte mit irgendeinem überraschenden Epitheton. </said>
+                  Seine Reflexionen enden gewöhnlich mit einem Gedankenstrich, so ein Gedankenstrich, <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">der</seg> zu einem <seg id="8" type="intExpr">spricht</seg>:</seg> <said id="8" mode="direct" content="speech" level="1" prag="yes">Bitte sehr, <said id="9" mode="reported" content="thought" level="1">setzen <seg id="9" type="speaker">Sie</seg> jetzt diesen <seg id="9" type="intExpr">Gedanken</seg> fort</said>, wenn Sie können!</said><seg id="10" type="frame" pos="start"> <seg id="10" type="speaker">Ich</seg> <seg id="10" type="intExpr">weiß</seg>,</seg> <said id="10" mode="indirect" content="thought" level="1" border="yes">daß ich einmal über einen solchen Gedankenstrich sehr pikiert war, weil ich nicht fortsetzen konnte, und zwar insbesondere,<said id="11" mode="reported" content="thought" level="2" nonfact="yes" border="yes"> weil <seg id="11" type="speaker">ich</seg> das Aphorisma nicht <seg id="11" type="intExpr">verstand</seg>. </said></said>Albin aber würdigt mich seiner Freundschaft nach wie vor; denn ich bin nichtsdestoweniger der einzige, <said id="12" mode="reported" content="thought" level="1" border="yes"><seg id="12" type="speaker">welcher</seg> ihn <seg id="12" type="intExpr">versteht</seg>.</said> <said id="13" mode="reported" content="thought" level="1" nonfact="yes" border="yes"><seg id="13" type="speaker">Man</seg> wird jetzt <seg id="13" type="intExpr">begreifen</seg>, warum ich manchmal stolz erscheine.</said> 
+                  Ganz seltsam wird mir, wenn er mir gestattet, seine Papiere zu durchblättern. Abgerissene Szenen, Brouillons zu Komödien, erste Kapitel die schwere Menge, Skizzen, Pläne flattern in losen Blättern vor mir auf, und es überkommt mich wie ein ehrfürchtiger Schauer. <said id="14" mode="reported" content="thought" level="1" border="yes"><seg id="14" type="speaker">Ich</seg> <seg id="14" type="intExpr">weiß</seg>, warum Albin eigentlich nichts arbeitet</said>: es fällt ihm zuviel ein. 
+                  Neulich erst brachte er seine Papiere mit ins Kaffeehaus.<said id="15" mode="reported" content="speech" level="1"> <seg id="15 16" type="speaker">Er</seg> <seg id="15" type="intExpr">las</seg> mir an diesem Tage nichts <seg id="15" type="intExpr">vor</seg> als kurze Sätze, Worte oder, wie es in der Überschrift geschmackvoll hieß: <said id="16" mode="direct" content="writing" level="2">»Plötzliches.«</said></said> Im Anfang 
+mußte <seg id="17" type="speaker">ich</seg> <seg id="18" type="speaker">ihn</seg> manchmal unterbrechen und <seg id="17" type="frame" pos="start"><seg id="17" type="intExpr">fragen</seg>:</seg> <said id="17" mode="direct" content="speech" level="1">Was bedeutet das?</said> <seg id="18" type="frame" pos="start">Da empfing ich meist eine <seg id="18" type="intExpr">Antwort</seg> in folgender Art:</seg> <said id="18" mode="direct" content="speech" level="1">Das wird im Zusammenhange klar</said>, <seg id="19" type="frame" pos="start">oder:</seg> <said id="19" mode="direct" content="speech" level="1"><said id="20" mode="reported" content="thought" level="2" border="yes"><seg id="20" type="speaker">ich</seg> <seg id="20" type="intExpr">weiß</seg> es selber nicht mehr</said></said>, <seg id="" type="frame" pos="start">oder:</seg> <said id="21" mode="direct" content="speech" level="1">das gehört in irgend etwas hinein, was mir noch nicht eingefallen ist</said>, oder: wie? das begreifst du nicht? ... Und dann las er unbeirrt weiter. Zum Beispiel: Er spielte eine Tangente am Kreise ... Wer? fragte ich. Er warf mir einen vernichtenden Blick zu und las weiter: Was ist Treue? Zufall, Mangel an Gelegenheit zur Untreue – eine Art Krankheit. (Pause.) Toter Orkan. (Pause.) Als ich sie das erstemal sah, gähnte sie just. (Pause.) Er ging daher wie ein vazierender Gott. 
+                  Wer? rief ich dazwischen. 
+                  Das weiß ich ja noch nicht, erwiderte er beinah erregt; ich warte auf den vazierenden Gott. 
+                  Ah! Du wartest auf ihn ... Was ist das eigentlich, ein vazierender Gott? 
+                  Das läßt sich nicht erklären, das muß man empfinden ...
+                  Ich empfinde es bereits, versetzte ich – jedenfalls etwas voreilig. Ein Gott, hm – ein Gott, der vaziert ... der, auf den der Vergleich paßt, muß entschieden ein gewaltiger Kerl sein! 
+                  Stelle dir vor, sagte Albin ...
+                  Ich stelle mir bereits vor, erwiderte ich. Er geht daher ... im vollen Bewußtsein seiner Göttlichkeit, aber er hat keine Verwendung für diese Göttlichkeit ... Jupiter ohne Anstellung ...
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

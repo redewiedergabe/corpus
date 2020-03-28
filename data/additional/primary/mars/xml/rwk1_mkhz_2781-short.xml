@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_europa0110_1905_12.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1905</f>
+         <f name="decade">1900</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">mkhz.europa</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            Mein liebe Ottilie!
+                        
+            <said id="1" mode="reported" content="speech" level="1">Jch habe mit „Jhm“ gesprochen, ganz offen und ehrlich.</said> Die Sache
+                        brieflich zu erledigen, erschien mir doch zu gefahrvoll. Jch ging also zu ihm.
+                        Mein Porträt steht ja noch in seinem Atelier, und ein Künstler wie er wird
+                        nie fertig. Jn der Tat entdeckte er auch wieder etwas in meinen Zügen,
+                        was ihm bisher entgangen war. Jch ließ ihn diese Entdeckung, diese letzte
+                        Entdeckung -- denn wir werden uns nie wiedersehen -- fixieren; <said id="2" mode="reported" content="speech" level="1">dann fing
+                        ich an, zu sprechen, ruhig und freundlich wie eine ältere Schwester.</said> Er ist
+                        ja auch wirklich noch so jung, im Vergleich zu mir, obwohl er zwei Jahre
+                        älter ist als ich. Ein Kind mit dreißig Jahren! O, diese Künstler! Wie
+                        naiv er war, ich kann es Dir gar nicht sagen. Bezaubernd! Jch war nie so
+                        verliebt in ihn, wie in dieser letzten Stunde. Aber mein Entschluß war gefaßt, und ich fühlte mich sicher. Es war ein eigenes Vergnügen, so mit der
+                        Gefahr zu spielen, <seg id="3" type="frame" pos="start">zu <seg id="3" type="intExpr">wissen</seg>,</seg> <said id="3" mode="indirect" content="thought" level="1" border="yes">daß je mehr sie wuchs, desto größer auch der
+                        Reiz wurde, ihr zu begegnen, der Lockung zu widerstehen.</said> Eine köstliche Sensation! -- Wie er es aufnahm? Mein Gott! Wie nimmt ein Kind es auf,
+                        <seg id="4" type="frame" pos="start">wenn <seg id="4" type="speaker">man</seg> ihm sein Lieblingsspielzeug wegnimmt mit der <seg id="4" type="intExpr">Begründung</seg>,</seg> <said id="4" mode="indirect" content="speech" level="1">es
+                        könnte sich damit wehtun.</said> <said id="5" mode="indirect" content="speech" level="1">Was würde ihm denn</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">meint</seg> <seg id="5" type="speaker">es</seg>,</seg> <said id="5" mode="indirect" content="speech" level="1">größeren Schmerz bereiten, als eben das Wegnehmen?</said> Und was war meinem großen Kinde alle
+                        Gefahr, alle Möglichkeit eines schlimmen oder häßlichen Ausgangs? Schlimmeres konnte ihm ja doch nicht begegnen, als daß ich ihn verlassen wollte. Welch
+                        ein Jammer in allen Tonarten! Schmeicheln, Bitten, Flehen, Weinen, Drohen,
+                        Toben -- weiter ließ ich ihn nicht kommen. Jch machte ein Ende. Und nun
+                        ist es aus, ganz aus. Als ich am Abend mit meinem Manne ins LessingTheater fuhr, reizte es mich plötzlich, <said id="6" mode="reported" content="speech" level="1" nonfact="yes">ihm alles zu erzählen.</said> <seg id="7" type="frame" pos="start">Aber <seg id="7" type="speaker">er</seg> hätte
+                        <seg id="7" type="intExpr">meinen</seg> können,</seg> <said id="7" mode="indirect" content="speech" level="1">ich wollte mich meiner „Ehrbarkeit“ rühmen.</said> Und das wäre
+                        doch unfein gewesen. -- -- Deine Magda.
+            
+               PS. Daß ich noch an „Jhn“ denke, oft, sehr oft, will ich Dir nicht
+                        verschweigen. Und gerade sein Bild aus der letzten Stunde schwebt mir dann
+                        immer vor. Jch hätte nicht gedacht, daß er so an mir hinge. Es ist doch
+                        ein hübsches Gefühl, so geliebt zu sein. <seg id="8" type="frame" pos="start">Wenn <seg id="8" type="speaker">ich</seg> jemals <seg id="8" type="intExpr">erfahren</seg> würde,</seg> <said id="8" mode="indirect" content="speech" level="1">daß
+                        er nicht mehr an mich denkt</said>, ich glaube, ich würde ihm sehr, sehr böse sein.
+            
+               28. November 04.
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

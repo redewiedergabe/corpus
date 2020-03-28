@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>An der Wiege des Königreichs Rumänien: Berichte des preußischen Spezialgesandten Freiherrn von Richthofen an König Friedrich Wilhelm den Vierten</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341897_326811.txt_12.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1913</f>
+         <f name="decade">1910</f>
+         <f name="title">An der Wiege des Königreichs Rumänien: Berichte des preußischen Spezialgesandten Freiherrn von Richthofen an König Friedrich Wilhelm den Vierten</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Reisebericht/Brief</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+famz_22637
+grenzboten_341897_326811.txt_12.xml
+1913
+1910
+famz
+An der Wiege des Königreichs Rumänien Berichte des preußischen Spezialgesandten Freiherrn von Richthofen an König Friedrich Wilhelm den Vierten
+None
+no
+527
+1
+
+
+
+Außer diesen Schriftstücken sind auch noch <said id="1" mode="reported" content="writing" level="1">Originalbriefe des österreichischen
+                        Jnternuntius, Baron Prokesch und des österreichischen Generalkonsuls Göbel in
+                        der Moldau an den dortigen Kaimakam</said> in unsere Hände gekommen, und endlich
+                        einige andere Dokumente, welche über die Mittel, welche man zur Erreichung
+                        der Absichten der Türkei, Österreichs und Englands in den Fürstentümern in
+                        Bewegung setzt, hinreichenden Aufschluß gewähren. Unter diesen befindet sich
+                        unter anderen eine Quittung über 200 Dukaten, welche Vogorides an den
+                        Redakteur des Journals de Constantinople für die Aufnahme <said id="2" mode="reported" content="writing" level="1">eines von ihm
+                        verfaßten Artikels gegen den würdigen Metropoliten</said> bezahlt hat, <said id="3" mode="reported" content="writing" level="1">in welchem
+                        diesem die schandbarsten Dinge angedichtet werden.</said> In diesen Schriftstücken
+                        spiegelt sich die ganze Politik der Pforte, Österreichs und Englands ab, die sich
+                        in <said id="4" mode="reported" content="speech" level="1">den Verhandlungen der Kommission</said> reproduziert; ich darf daher dieselben
+                        <said id="15" mode="reported" content="writing" level="1">dem gegenwärtigen alleruntertänigsten Berichte</said> zugrunde legen. <seg id="13" type="frame" pos="start">In dieser
+                        Hinsicht muß <seg id="13" type="speaker">ich</seg> jedoch in tiefster Ehrfurcht <seg id="13" type="intExpr">voranschicken</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1">daß die Briefe, <said id="5" mode="reported" content="writing" level="2">welche
+                        der Kapu Kiaya Fotiades in Konstantinopel an den Vogorides in Jassy gerichtet
+                        hat</said>, durch die eigentümliche Stellung des Kapu Kiaya, welche nicht mit der
+                        eines gewöhnlichen Chargé d'affaires zu verwechseln ist, ein stärkeres Gewicht
+                        erhalten.</said> Der Kapu Kiaya hat keine einseitige Stellung zu den Gospodaren,
+                        sondern er wird von der Pforte angestellt, und ist der Kanal, <said id="6" mode="reported" content="speech" level="1">durch welchen die
+                        letztere ihren Willen an den Gospodar verkündet.</said>
+            Nach allen diesen Briefen steht nun zunächst soviel fest, daß <said id="7" mode="reported" content="speech" level="1">die Ernennung
+                        des Vogorides zum Kaimakam in der Moldau</said>, mit Rücksicht auf seine Familienverhältnisse, die ihn gänzlich an die Pforte binden, und zum blinden Werkzeuge
+                        derselben machen, erfolgt ist, und sodann, <seg id="8" type="frame" pos="start">daß die Pforte, <seg id="8" type="speaker">Österreich und England</seg> ihm ihre feste Absicht <seg id="8" type="intExpr">verkündet</seg> haben,</seg> <said id="8" mode="indirect" content="speech" level="1">aus der beabsichtigten Reorganisation
+                        der Fürstentümer nichts werden zu lassen, und den Status quo in denselben
+                        nicht bloß zu erhalten, sondern sie, wo möglich, auch noch fester an die Pforte
+                        zu binden.</said>
+            <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">Man</seg> hat dem Vogorides danach ferner <seg id="9" type="intExpr">gesagt</seg>:</seg> <said id="9" mode="indirect" content="speech" level="1">diese unabänderliche Absicht
+                        <said id="14" mode="reported" content="thought" level="2">der gedachten Mächte</said>, <said id="10" mode="reported" content="thought" level="2" nonfact="yes">die er sich bei allen seinen Handlungen vergegenwärtigen
+                        soll</said>, läßt sich am leichtesten und ohne Kollision mit Frankreich erreichen, wenn
+                        die Wahlen in der Moldau so ausfallen, daß sie eine Stimmenmehrheit gegen
+                        die Union und ihre Konsequenzen ergeben, und alle gesetzlichen und ungesetzlichen 
+                        Mittel, <seg id="17" type="frame" pos="start">jedoch wie Baron <seg id="17" type="speaker">Prokesch</seg> in seinen Ratschlägen <seg id="17" type="intExpr">empfiehlt</seg>,</seg> <said id="17" mode="indirect" content="speech" level="2">mit möglichster Geräuschlosigkeit und Mäßigung in den Formen, bei aller Energie in der
+                        Sache selbst</said>, seien daher anzuwenden, um diesen Zweck zu erreichen. Da man
+                        in der Wallachei kein ebenso sicheres Werkzeug zur Ausführung dieses Planes
+                        besitzt, so sollen die Wahlen in der Moldau dergestalt beschleunigt werden, daß
+                        der Diwan in der Moldau bereits konstituiert ist und <said id="12" mode="reported" content="speech" level="2" nonfact="yes">sich möglichst schon gegen
+                         
+            
+            die Union usw. erklärt hat</said>, ehe derjenige in der Wallachei noch zusammentritt.
+                        Nach dem Maße der hierauf verwendeten Sorgfalt und dem Resultate derselben
+                        könne sich Vogorides demnächst der Belohnung und Anerkennung der Pforte und
+                        ihrer beiden Alliierten versichert halten, auf welche Österreich durch das Großkreuz des Ordens der eisernen Krone eine vorläufige Abschlagszahlung geleistet
+                        hat.</said> Dieses ist <said id="16" mode="reported" content="thought" level="1">der Plan</said>, welchen die Pforte, Österreich und England zur
+                        Basis für ihre Operationen genommen haben.
+            Die Hauptaktion fällt dabei wie natürlich dem Kaimakam Vogorides anheim;
+                        er hat an Ort und Stelle zu wirken, daß der Wille der drei Mächte energisch
+                        und schnell zur Ausführung gelange.
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

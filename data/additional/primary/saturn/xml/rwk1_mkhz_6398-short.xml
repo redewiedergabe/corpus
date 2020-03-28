@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein bisher unbekanntes Gedicht Goethe's</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt45_1868_7.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Ein bisher unbekanntes Gedicht Goethe's</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Unsure</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            
+               E in bisher unbekanntes Gedicht Goethe's.
+                        
+            
+               <said id="1" mode="direct" content="writing" level="1">An Lili.
+                        
+             
+            Jm holden Thal, auf schneebedeckten Höhen,
+                        War stets Dein Bild mir nah,
+                        Jch sah's um mich in lichten Wollen wehen,
+                        Jm Herzen war mir's da.
+                        <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">Empfinde</seg> hier,</seg> <said id="2" mode="indirect" content="thought" level="2" border="yes">wie mit allmächt'gem Triebe
+                        Ein Herz das andre zieht
+                        Und daß vergebens Liebe
+                        Vor Liebe flieht.</said></said>
+            Der Eingang bezieht sich auf Goethe's Schweizerreise im Sommer des
+                        Jahres 1775. Wie lebhaft ihn dabei fortwährend Lili's Bild umschwebte,
+                        bezeugt seine Schilderung in Wahrheit und Dichtung, bezeugen insbesondere
+                        die Verse, welche der Blick auf den Zürcher See in ihm erweckte:
+                         
+            <said id="3" mode="direct" content="writing" level="1">Wenn ich, liebe Lili, Dich nicht liebte,
+                        Welche Wonne gäb' mir dieser Blick!
+                        Und doch, wenn ich, Lili, Dich nicht liebte,
+                        Wär', was wär' mein Glück?</said>
+                         
+            <seg id="4" type="frame" pos="start">Die <seg id="4" type="intExpr">Worte</seg></seg> <said id="4" mode="direct" content="writing" level="1">„Empfinde hier“</said> gehen auf Goethe's Drama „Stella“,
+                        das während des Sommers 1775 im Druck vollendet sein mag und im
+                        Herbst erschien. Goethe wird bei seiner Rückkehr aus der Schweiz in
+                        Frankfurt die ersten fertigen Exemplare vorgefunden haben, und überreichte
+                        eins Lili, <said id="5" mode="reported" content="writing" level="1">worin er die obigen Verse als Widmung eingeschrieben hatte.</said>
+                        Aus diesem Exemplar, das sich jetzt auf der großherzoglichen Bibliothek in
+                        Weimar befindet, <said id="6" mode="reported" content="speech" level="1">hat Herr Bibliothekar Dr. Reinhold Köhler das vorstehende Gedicht kürzlich mitgetheilt.</said>
+            
+               M. E manuel Swedenborg war einer der originellsten Schwärmer.
+                        <seg id="7" type="frame" pos="start">Noch auf seinem Sterbebette <seg id="7" type="intExpr">behauptete</seg> <seg id="7" type="speaker">er</seg>,</seg> <said id="7" mode="indirect" content="speech" level="1"><said id="8" mode="reported" content="speech" level="2">daß er mit dem Apostel Paulus
+                        ein ganzes Jahr, mit Johannes dem Täufer siebenmal, mit dem lieben
+                        Gott und Moses einmal, mit Luther aber hundertmal, und mit den Engeln
+                        seit zweiundzwanzig Jahren konversirt habe.</said></said> Einst auf der See machte
+                        er in der Kajüte des Kapitäns vor leeren Stühlen tiefe Verbeugungen.
+            <said id="9" mode="direct" content="speech" level="1">„Wat soll das?“</said> <seg id="9" type="frame" pos="end"><seg id="9" type="intExpr">fragte</seg> der <seg id="9" type="speaker">Kapitän</seg>.</seg>
+            <said id="10" mode="direct" content="speech" level="1">„Ei, sehen Sie denn nicht Karl XII., Sokrates und die Kaiserin Katharina von Rußland?“</said>
+                         
+            <said id="11" mode="direct" content="speech" level="1">„Was treiben sie denn?“</said>
+                         
+            <said id="12" mode="direct" content="speech" level="1">„<seg id="13" type="frame" pos="start"><seg id="13" type="speaker">Sie</seg> <seg id="13" type="intExpr">wünschen</seg></seg> <said id="13" mode="indirect" content="thought" level="2" border="yes">Whist zu spielen</said>“</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">entgegnete</seg> der <seg id="12" type="speaker">Träumer</seg>,</seg> <said id="12" mode="direct" content="speech" level="1">„und suchen
+                        den vierten Mann.“</said>
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

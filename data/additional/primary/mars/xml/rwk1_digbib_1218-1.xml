@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>L'Arrabbiata</title>
+             <author>Heyse, Paul</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Heyse,_Paul_L__Arrabbiata.tg564_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1855</f>
+         <f name="decade">1850</f>
+         <f name="title">L'Arrabbiata</f>
+         <f name="author">Heyse, Paul</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">none</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Es hat jeder sein Bündel zu tragen</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> <seg id="1" type="speaker">er</seg>.</seg> Damit sprang er auf und sah wieder links und rechts nach dem Wetter<seg id="2" type="frame" pos="start">, obwohl <seg id="2" type="speaker">er</seg> <seg id="2" type="intExpr">wissen</seg> mußte,</seg> <said id="2" mode="indirect" content="thought" level="1" border="yes">daß es nur eine Wetterseite gibt.</said> 
+                  <said id="3" mode="direct" content="speech" level="1">Ich bring' Euch noch eine Flasche. Euer Onkel kann's bezahlen</said><seg id="3" type="frame" pos="end">, <seg id="3" type="intExpr">sagte</seg> die <seg id="3" type="speaker">Wirtin</seg>.</seg> 
+                  <said id="4" mode="direct" content="speech" level="1">Nur noch ein Glas, denn Ihr habt hier eine feurige Art Wein. Der Kopf ist mir schon ganz warm.</said> 
+                  <said id="5" mode="direct" content="speech" level="1">Er geht nicht ins Blut. Ihr könnt trinken, soviel Ihr wollt. Da kommt eben mein Mann, <said id="6" mode="reported" content="speech" level="2">mit dem müßt Ihr noch eine Weile sitzen und schwatzen.</said></said> 
+                  Wirklich kam, das Netz über die Schulter gehängt, die rote Mütze über den geringelten Haaren, der stattliche Padrone der Schenke von der Höhe herunter. Er hatte Fische in die Stadt gebracht, die jene vornehme Dame bestellt hatte, um sie dem kleinen Pfarrer von Sorrent vorzusetzen. Wie er des jungen Schiffers ansichtig wurde, winkte er ihm herzlich mit der Hand einen Willkommen zu, setzte sich dann neben ihn auf die Bank und <said id="7" mode="reported" content="speech" level="1">fing an zu fragen und zu erzählen.</said> Eben brachte sein Weib eine zweite Flasche des echten unverfälschten Capri, als der Ufersand zur Linken knisterte und Laurella des Weges von Anacapri daherkam. Sie grüßte flüchtig mit dem Kopf und stand unschlüssig still. 
+                  Antonino sprang auf. <said id="8" mode="direct" content="speech" level="1">Ich muß fort</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">'s ist ein Mädchen aus Sorrent, das heut früh mit dem Signor Curato kam und auf die Nacht wieder zu ihrer kranken Mutter will.</said> 
+                  <said id="9" mode="direct" content="speech" level="1">Nun nun, 's ist noch lang bis Nacht</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sagte</seg> der <seg id="9" type="speaker">Fischer</seg>.</seg> <said id="9" mode="direct" content="speech" level="1">Sie wird doch Zeit haben, ein Glas Wein zu trinken. Holla, Frau, bring noch ein Glas.</said> 
+                  <said id="10" mode="direct" content="speech" level="1">Ich danke, ich trinke nicht</said><seg id="10" type="frame" pos="end">, <seg id="10" type="intExpr">sagte</seg> <seg id="10" type="speaker">Laurella</seg></seg> und blieb in einiger Entfernung. 
+                  <said id="11" mode="direct" content="speech" level="1">Schenk nur ein, Frau, schenk ein! Sie läßt sich nötigen.</said> 
+                  <said id="12" mode="direct" content="speech" level="1">Laßt sie</said><seg id="12" type="frame" pos="mid">, <seg id="12" type="intExpr">sagte</seg> der <seg id="12" type="speaker">Bursch</seg>.</seg> <said id="12" mode="direct" content="speech" level="1">Sie hat einen harten Kopf; was sie einmal nicht will, das redet ihr kein Heiliger ein.</said> – <said id="13" mode="reported" content="speech" level="1">Und damit nahm er eilfertig Abschied</said>, lief nach der Barke hinunter, löste das Seil und stand nun in Erwartung des Mädchens. Die grüßte noch einmal nach den Wirten der Schenke zurück und ging dann mit zaudernden Schritten der Barke zu. Sie sah vorher nach allen Seiten um<seg id="14" type="frame" pos="start">, als <seg id="14" type="intExpr">erwarte</seg> <seg id="14" type="speaker">sie</seg>,</seg> <said id="14" mode="indirect" content="thought" level="1">daß sich noch andere Gesellschaft einfinden würde.</said> Die Marine aber war menschenleer; die Fischer schliefen oder fuhren im Meer mit Angeln und Netzen, wenige Frauen und Kinder saßen unter den Türen, schlafend oder spinnend, und die Fremden, die am Morgen herübergefahren, warteten die kühlere Tageszeit zur Rückfahrt ab. Sie konnte auch nicht zu lange umschauen, denn eh' sie es wehren konnte, hatte Antonino sie in die Arme genommen und trug sie wie ein Kind in den Nachen. Dann sprang er nach, und mit wenigen Ruderschlägen waren sie schon im offenen Meer. 
+                  Sie hatte sich vorn in den Kahn gesetzt und ihm halb den Rücken zugedreht, daß er sie nur von der Seite sehen konnte. Ihre Züge waren jetzt noch ernsthafter als gewöhnlich. Über die kurze Stirn hing das Haar tief herein, um den feinen Nasenflügel zitterte ein eigensinniger Zug; der volle Mund war fest geschlossen.
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

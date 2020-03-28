@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Aus dem Tagebuch eines Hundes</title>
+             <author>Panizza, Oskar</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Panizza,_Oskar_Aus_dem_Tagebuch_eines_Hundes.tg46_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1892</f>
+         <f name="decade">1890</f>
+         <f name="title">Aus dem Tagebuch eines Hundes</f>
+         <f name="author">Panizza, Oskar</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Die Schildkröte hat ihr Dach, die Schnecke ein Haus, der Maulwurf seine Wohnung, der Pfau seinen Popo-Fächer, die Fledermaus ihre Armsegel, der Feuersalamander seine kleinen Monde am Buckel, die Kröte ihre Geruchsfläschen. Aber diese Accidentia sind stabil und man darf sich auf sie verlassen. Bei dieser merkwürdigen Race aber, die ich zum Gegenstande meines Studiums gemacht, geschieht jeden Tag etwas Andres, und jeder von ihnen verändert sich auf beliebige Weise. Der Eine grinst, der Andre spuckt, der Dritte reckt ein Glied heraus, welches er bis morgen einzieht. Viele tragen ihren Popo hinten, viele tragen ihn vorn; und Andere haben einen Popo vorn und hinten; <seg id="1" type="frame" pos="start">und da <seg id="1" type="speaker">ich</seg> <seg id="1" type="intExpr">mir</seg> nicht <seg id="1" type="intExpr">denken</seg> kann,</seg> <said id="1" mode="indirect" content="thought" level="1" nonfact="yes">die Natur habe einem dieser Schauspieler aus besonderer Nachsicht zwei Popo's verliehen</said>, so muß der eine in irgend einem Körperteil-Lager erworben worden sein. O, <said id="2" mode="reported" content="thought writing" level="1" nonfact="yes">wenn ich all die Scheußlichkeiten und Verzerrungen registrieren wollte</said>, ich würde nicht fertig. <said id="3" mode="reported" content="speech writing" level="1" nonfact="yes">Sechs Linné's würden nicht genügen, die Botanik dieses Wackelwerks, <said id="4" mode="reported" content="speech" level="2" border="yes">Mensch geheißen</said>, zu beschreiben und in ein System zu bringen.</said> <seg id="5" type="frame" pos="start">Und <seg id="5" type="speaker">ich</seg> könnte auf den <seg id="5" type="intExpr">Gedanken</seg> kommen,</seg> <said id="5" mode="indirect" content="thought" level="1">diese Zappelrace gesticuliert, rutscht und fakelt so tollhäuslerisch herum und <said id="6" mode="reported" content="speech" level="2">nach vorheriger Abrede</said>, um mich armen Hund, der die Sache in ein System bringen muß, um seinen Verstand zu bringen.</said> <seg id="7" type="frame" pos="start"><seg id="7" type="intExpr">Sah</seg> <seg id="7" type="speaker">ich</seg> doch neulich,</seg> <said id="7" mode="indirect" content="thought" level="1" border="yes">nicht zufrieden damit, sich immer neue Glieder anzuschnallen und Körperteile zu erwerben, sogar, wie ein Beinzeiger sich mit einem Pferd verbinden wollte, auf es hinaufsprang, – wie Hunde sich oft gegenseitig übersteigen, – um eine monströs-unanständige neue Zwitter-Race zu bilden!</said> Das stolze Tier bäumte sich und warf den frechen Kerl ab, so daß er auf seinem – echten oder falschen – Popo grinsend liegen blieb. Das hätte wieder ein schöne Combination gegeben! – O, ich bin nicht mehr so naiv und unvorsichtig wie früher. Seitdem ich meine erste furchtbare Enttäuschung als Beobachter erlebt, <seg id="8" type="frame" pos="start">seitdem <seg id="8" type="speaker">ich</seg> <seg id="8" type="intExpr">weiß,</seg></seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">daß die Menschen farbige Ueberzüge tragen, sich ihre Organe täglich erst <said id="9" mode="reported" content="thought" level="2" border="yes" prag="yes">Gott weiß wo</said> zusammenlesen, um <said id="10" mode="reported" content="thought" level="2" border="yes" prag="yes">Gott weiß wen</said> über ihre wahre Gestalt zu täuschen</said>; <said id="11" mode="reported" content="thought" level="1" border="yes">seitdem ich solche Ueberzüge und Organe Abends habe ablegen und auf's Sofa schleudern sehen und den nackten mehligen Kerl sich in ein weißes großes Haus verkriechen</said>, <seg id="12" type="frame" pos="start">so daß <seg id="12" type="speaker">ich</seg> nicht <seg id="12" type="intExpr">wußte</seg>,</seg> <said id="12" mode="indirect" content="thought" level="1" border="yes">wo jetzt der Bursch liege, auf dem Sofa oder im Bett</said>, <said id="13" mode="reported" content="thought" level="1" border="yes">und schon eine Zweiteilung des Individuums für die nächtlichen Stunden von 12–6 anzunehmen geneigt war</said> –, seitdem bin ich vorsichtig geworden und nehme nicht jede Grimasse oder Hinaus-Reck-Versuch für baare Münze.
+                  September.
+                  <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Was man auch sagen möge über die Nichtsnutzigkeit oder Niedrigkeit der Menschenrace</said>, sie haben Fertigkeiten, Kunststücke, Schauspieler-Sächelchen, Zauberkünste, die ihnen nicht so leicht Jemand nachmacht. Und wenn diese Dinge auch keinen Wert haben, man steht starr vor ihnen und entzückt, wie vor einem Wunder. Und eine Spanne Existenz ist wieder ausgefüllt. <said id="15" mode="reported" content="speech" level="1">Ich rede von der Reproduction des Menschengeschlechts durch das singuläre Individuum.</said> Ich wiederhole: Reproduction oder Wiederholung der Menschenrace durch ein einzelnes Individuum. Ja, lauscht Ihr Hunde, die Ihr oft unter dem Hohngelächter der Menge Euch auf der Straße um Eure Nachkommenschaft abplagt!
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

@@ -1,0 +1,189 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Ein Spätgeborner</title>
+             <author>Ebner-Eschenbach, Marie von</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Ebner-Eschenbach,_Marie_von_Ein_Spaetgeborner.tg95_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1875</f>
+         <f name="decade">1870</f>
+         <f name="title">Ein Spätgeborner</f>
+         <f name="author">Ebner-Eschenbach, Marie von</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>         
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            
+               
+                  
+                     
+                        <said id="1" mode="freeIndirect" content="thought" level="1">– Und wenn – <said id="2" mode="reported" content="thought" level="2" nonfact="yes" border="yes">warum hatte er's nicht selbst,
+                           nicht früher erkannt?</said></said>
+                     
+                     
+                        <said id="3" mode="direct" content="speech" level="1">»<said id="4" mode="reported" content="speech" level="2" prag="yes">Ich bitte Sie</said>«</said><seg id="3" type="frame" pos="mid">, <seg id="3" type="intExpr">hub</seg> <seg id="3" type="speaker">Salmeyer</seg> von neuem <seg id="3" type="intExpr">an</seg>,</seg> <said id="3" mode="direct" content="speech" level="1">»verzichten Sie
+                           auf Ihre Ideale.
+                        Stimmen Sie sich herab.
+                        Sinken Sie, sinken Sie!
+                        herunter – bis zum jetzigen Geschmack!
+                        Je mehr Sie sich verfeinern, desto unverständlicher,
+                           ungenießbarer werden Sie, und werden es endlich mit Recht.
+                        Ein hohes Streben, das immer unbelohnt bleibt, beschädigt
+                           zuletzt den reinsten Charakter, weil es ihn verbittert.
+                        <said id="5" mode="reported" content="thought" level="2" nonfact="yes">Glauben Sie mir</said>: tragen Sie den Anforderungen des Tages
+                           Rechnung!
+                        Unser heutiges Publikum will nicht Erhebung, es will
+                           Unterhaltung, und den, der sie ihm gewährt, belohnt es nach Verdienst,
+                           sehr oft über Verdienst ... Zum Beispiel – mich!... <seg id="6" type="frame" pos="start"><seg id="6" type="intExpr">Meinen</seg> <seg id="6" type="speaker">Sie</seg>,</seg> <said id="6" mode="indirect" content="thought" level="2" nonfact="yes">daß ich
+                           mich täusche über den Wert der Produktionen, denen ich meine Popularität
+                           verdanke?...</said> Doch genug!
+                        Sie sind nicht ohne Talent, machen Sie nur davon den
+                           richtigen Gebrauch.«</said> 
+                     
+                     
+                        Er hatte, <said id="7" mode="reported" content="speech" level="1">während er sprach</said>, die Banknoten vom Tische
+                           genommen und rollte sie zu Tüten zusammen, faltete sie zu dreieckigen
+                           Hütchen.
+                        Jetzt hielt er sie in die Höhe.
+                     
+                     
+                        <said id="8" mode="direct" content="speech" level="1">»Ihre Tantieme, nicht wahr?«</said> 
+                     
+                     
+                        
+                           Andreas nickte bejahend.
+                     
+                     
+                        <said id="9" mode="direct" content="speech" level="1">»Soviel«</said><seg id="9" type="frame" pos="mid">, <seg id="9" type="intExpr">sprach</seg> <seg id="9" type="speaker">Salmeyer</seg> leichthin,</seg> <said id="9" mode="direct" content="speech" level="1">»bezahlt die
+                           Staatszeitung für drei meiner Feuilletons.
+                        <said id="10" mode="reported" content="writing" level="2">Ich schreibe sie meistens im Kaffeehause, auf dem Billard,
+                           zwischen zwei Kegelpartien.</said>
+                        – <said id="11" mode="reported" content="thought" level="2" nonfact="yes">Nun, was beschließen Sie?</said>«</said> 
+                     
+                     
+                        <said id="12" mode="direct" content="speech" level="1">»Mir selbst treu zu bleiben, meinem alten Selbst, von dem ich
+                           doch nicht mehr lassen kann«</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">erwiderte</seg> <seg id="12" type="speaker">Andreas</seg></seg> und glättete die
+                           Banknoten, die Salmeyer wieder auf den Tisch gelegt hatte, sorgfältig mit
+                           beiden Händen.
+                     
+                     
+                        <said id="13" mode="direct" content="speech" level="1">»Nach Ihrem Belieben denn!«</said> <seg id="13" type="frame" pos="end"><seg id="13" type="intExpr">sagte</seg> der <seg id="13" type="speaker">Journalist</seg>
+                           gereizt.</seg>
+                        <said id="14" mode="direct" content="speech" level="1">»Sie gehören zu den Leuten, denen nicht zu helfen ist.«</said> 
+                     
+                     
+                        Er stand auf, wendete sich und <said id="15" mode="reported" content="thought" level="1" border="yes">bemerkte das Bild der Gräfin
+                           von Auwald über der Bücherstelle.</said>
+                     
+                     
+                        <said id="16" mode="direct" content="speech" level="1">»Ha!«</said> <seg id="16" type="frame" pos="mid"><seg id="16" type="intExpr">rief</seg> <seg id="16" type="speaker">er</seg> <seg id="16" type="intExpr">aus</seg>,</seg> <said id="16" mode="direct" content="speech" level="1">»die schöne Auwald!
+                        – Wie kommen Sie zu ihrem Porträt?«</said> 
+                     
+                     
+                        <said id="17" mode="direct" content="speech" level="1">»Ich habe es gekauft«</said><seg id="17" type="frame" pos="end">, <seg id="17" type="intExpr">stotterte</seg> <seg id="17" type="speaker">Andreas</seg> erblassend</seg>, wie im
+                           Vorgefühle eines Unglücks.
+                     
+                     
+                        <seg id="18" type="frame" pos="start">Der <seg id="18" type="speaker">Literat</seg> <seg id="18" type="intExpr">drohte</seg> ihm mit dem Finger:</seg> <said id="18" mode="direct" content="speech" level="1">»So – so – gekauft?...
+                           Ei, Sie stiller Sünder!... Deshalb also Ihre Parteinahme für den
+                           Gemahl?...«</said> 
+                     
+                     
+                        <said id="19" mode="direct" content="speech" level="1">»<said id="20" mode="reported" content="thought" level="2" nonfact="yes">Was meinen Sie?</said>«</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">fragte</seg> <seg id="19" type="speaker">Andreas</seg> in peinvoller
+                           Bestürzung.</seg>
+                     
+                     
+                        <said id="21" mode="direct" content="speech" level="1">»O die böse, böse Welt – o diese vornehmen Damen!«</said> <seg id="21" type="frame" pos="end"><seg id="21" type="intExpr">seufzte</seg>
+                           <seg id="21" type="speaker">Salmeyer</seg> mit drolligem Pathos.</seg>
+                        Er schlug eines der Manuskripte auf und blätterte darin.
+                     
+                     
+                        <said id="22" mode="direct" content="speech" level="1">»Das sind wohl Ihre Werke?... Und wie schön geschrieben, wie
+                           prächtig!
+                        – zehn – fünfzehn – wahrhaftig, fünfzehn sorgfältig
+                           ausgearbeitete Theaterstücke!
+                        <said id="23" mode="indirect" content="thought" level="2" border="yes">In jedem</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="speaker">ich</seg> bin's <seg id="23" type="intExpr">überzeugt</seg>,</seg> <said id="23" mode="indirect" content="thought" level="2" border="yes">so viel Gutes, daß man, wär's
+                           von einem Freunde und Mitarbeiter, leicht ein Lorbeerreislein für den
+                           Dichter daraus entsprießen lassen könnte.</said>
+                        Aber Sie wollen nichts von uns, und alle diese Buchstaben
+                           bleiben tot.«</said> 
+                     
+                     
+                        Andreas blickte zu dem Sprechenden empor.
+                        Ein eigentümlicher Ausdruck feiner Selbstironie belebte seine
+                           Züge: <said id="24" mode="direct" content="speech" level="1">»Tot diese Buchstaben, von denen ich jeden mit soviel Liebe
+                           hingemalt habe?
+                        – Das doch nicht«</said><seg id="24" type="frame" pos="end">, <seg id="24" type="intExpr">sagte</seg> <seg id="24" type="speaker">er</seg>.</seg>
+                        <said id="25" mode="direct" content="speech" level="1">»Jeder davon ist ein Teilchen einer Gedankenseele; sie fügen
+                           sich zu Worten zusammen, und Worte bilden den Körper des Gedankens.«</said>
+                        
+                     
+                     
+                        <seg id="26" type="frame" pos="start">Der <seg id="26" type="speaker">Literat</seg> hörte ihm mit lächelnder Aufmerksamkeit zu und
+                              <seg id="26" type="intExpr">rief</seg> plötzlich:</seg> <said id="26" mode="direct" content="speech" level="1">»Ich war
+                           blind!
+                        Ich war blind!... Nein, Sie sind nicht angetan, mitzuwirken
+                           in unserer heißen Werkstätte, in unserer großen stoffzermalmenden
+                           Maschine!
+                        Sie werden niemals ein Rädchen, nicht einmal eine Speiche an
+                           einem Rädchen sein.«</said> 
+                     
+                     
+                        <seg id="27" type="frame" pos="start"><seg id="27" type="speaker">Er</seg> klopfte mit keckem Humor Andreas auf die
+                           Schulter:</seg> <said id="27" mode="direct" content="speech" level="1">»Sie selbst sind Stoff und sollen verarbeitet werden.</said>
+                     
+                  
+               
+            
+         
+      
+   
+
+</p>
+      </body>
+   </text>
+</TEI>

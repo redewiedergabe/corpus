@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>16.Der Räuber Matthes</title>
+             <author>Meier, Ernst</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meier,_Ernst_16__Der_Raeuber_Matthes.tg23_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1852</f>
+         <f name="decade">1850</f>
+         <f name="title">16.Der Räuber Matthes</f>
+         <f name="author">Meier, Ernst</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Vor vielen Jahren wollte einmal ein Fuhrmann die große Steige bei Haigerloch im Hechinger Ländchen mit einem schwer beladenen Fuhrwagen hinauffahren; da stand plötzlich das ganze Fuhrwerk still als ob's verhext wäre und kein Pferd wollte mehr anziehen. Der Fuhrmann versuchte es nun erst mit der Peitsche und schlug auf die Pferde los, um sie anzutreiben; aber es war umsonst. <said id="1" mode="reported" content="thought" level="1" border="yes">Dann betete er still</said>; aber auch das half nichts. Endlich ward er zornig und <said id="37" mode="reported" content="speech" level="1" border="yes">fieng an zu wettern und zu fluchen</said>, so arg er's nur konnte. <seg id="3" type="frame" pos="start">Darauf trat ein buckeliger <seg id="3" type="speaker">Jäger</seg> zu ihm hin und <seg id="3" type="intExpr">sagte</seg>: </seg><said id="3" mode="direct" content="speech" level="1">»was gibst Du mir, wenn ich Dir helfe?«</said> – <said id="4" mode="direct" content="speech" level="1">»Laß mal hören, <said id="5" mode="reported" content="speech" level="2" nonfact="yes">was Du verlangst!</said>«</said> <seg id="4" type="frame" pos="end"><seg id="4" type="intExpr">sprach</seg> der <seg id="4" type="speaker">Bauer</seg>.</seg> <seg id="6" type="frame" pos="start">Da <seg id="6" type="intExpr">sagte</seg> der <seg id="6" type="speaker">Jäger</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»<said id="7" mode="reported" content="speech" level="2" nonfact="yes">Du mußt mir Etwas versprechen</said>, was Du daheim besitzest, <said id="8" mode="reported" content="thought" level="2" nonfact="yes" border="yes">ohne es zu wißen.</said>«</said> 
+                  <seg id="10" type="frame" pos="start"><said id="9" mode="reported" content="thought" level="1">Nun besann sich der <seg id="10" type="speaker">Fuhrmann</seg> eine Weile</said> und <seg id="10" type="intExpr">dachte</seg>:</seg><said id="10" mode="direct" content="thought" level="1" border="yes"> »Alles, was Werth hat in meinem Hause, das kenne ich ja;</said> <said id="10" mode="direct" content="thought" level="1" nonfact="yes" border="yes">kenne ich etwas aber nicht, so hat's auch keinen Werth für mich,«</said> <seg id="11" type="frame" pos="start">und dann <seg id="11" type="intExpr">sprach</seg> <seg id="11" type="speaker">er</seg> zu dem Jäger:</seg> <said id="11" mode="direct" content="speech" level="1">»Du magst es meinetwegen nehmen; hilf mir jetzt nur, daß ich weiter fahren kann.«</said> <said id="12" mode="reported" content="writing" level="1">Da ließ sich der Jäger mit einem Blutstropfen diese <said id="13" mode="reported" content="speech" level="2">Zusage</said> verschreiben</said> und dann konnten die Pferde ganz bequem den Wagen hinaufziehen. 
+                  <said id="14" mode="reported" content="speech" level="1" nonfact="yes">Als der Bauer nun wißen wollte, <said id="15" mode="reported" content="speech" level="2">was der Jäger gemeint hatte</said></said>,<seg id="16" type="frame" pos="start"> so <seg id="16" type="intExpr">sprach</seg> <seg id="16" type="speaker">er</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Deine Frau trägt ein Kindlein unter ihrem Herzen, <said id="17" mode="reported" content="thought" level="1" nonfact="yes" border="yes">davon Du noch nichts weißt</said>, und wenn das geboren ist, so gehört's mein.«</said> Da wurde der Bauer 
+sehr traurig und <said id="18" mode="reported" content="speech" level="1">verlangte die <said id="19" mode="reported" content="writing" level="2">Unterschrift</said> zurück</said>; aber der Jäger lachte und machte daß er fortkam. 
+                  Seit der Zeit hatte der Bauer keine ruhige Stund' mehr in seinem Hause; er seufzte und weinte, mochte weder eßen noch trinken und konnte bei Nacht kein Auge zuthun. <said id="21" mode="reported" content="speech" level="1">Da drang seine Frau so lange in ihn</said>, <seg id="22" type="frame" pos="start"><said id="20" mode="reported" content="speech" level="1">bis <seg id="22" type="speaker">er</seg> ihr endlich Alles gestand</said> und <seg id="22" type="intExpr">sagte</seg>,</seg> <said id="22" mode="indirect" content="speech" level="1">daß er das Kind, das sie bekommen werde, dem Teufel <said id="23" mode="reported" content="speech" level="2">versprochen</said> und <said id="24" mode="reported" content="writing" level="2">verschrieben</said> habe.</said> 
+                  <said id="25" mode="reported" content="speech" level="1" border="yes">Da betete die Frau bei Tag und Nacht und weinte und jammerte;</said> und als die Zeit nahe kam, wo sie ihr Kind gebären sollte, gieng sie zu einem geistlichen Herrn ins Kloster und <said id="26" mode="reported" content="speech" level="1">klagte dem ihre Noth.</said> Da behielt der Geistliche die Frau im Kloster und <said id="27" mode="reported" content="speech" level="1">tröstete sie;</said> und als sie hier einen Sohn geboren hatte, <said id="28" mode="reported" content="speech" level="1" border="yes">weihte sie ihn dem Dienste Gottes und seiner Kirche</said> und ließ ihn zurück in dem Kloster. 
+                  <said id="29" mode="reported" content="speech" level="1">Hier wurde der Knabe nun früh zu allem Guten angehalten,</said> und war so fromm und brav, daß der Böse keine Gewalt über ihn hatte. Als er fünf Jahre alt war, <said id="30" mode="reported" content="speech" level="1">lehrte man ihn ein Gebet,</said> <said id="31" mode="reported" content="speech" level="1">das mußte er alle Tage in der Kapelle der heiligen Jungfrau hersagen;</said> und als er eben sein zehntes Jahr erreicht hatte, erschien ihm <seg id="32" type="frame" pos="start"><seg id="32" type="speaker">Maria</seg> und <seg id="32" type="intExpr">sprach</seg> zu ihm:</seg><said id="32" mode="direct" content="speech" level="1"> »in zwei Jahren will ich Dir einen Stab geben, mit dem mußt Du in die Hölle wandern und <said id="33" mode="reported" content="speech" level="2" nonfact="yes">Deinen Namen, <said id="34" mode="reported" content="writing" level="3">der einem bösen Geiste verschrieben ist</said>, zurückfordern.</said>«</said> 
+                  Nach dieser Zeit erschien ihm Maria noch öfters in der Kapelle und <said id="35" mode="reported" content="speech" level="1">gab ihm gute Lehren</said> und <said id="36" mode="reported" content="speech" level="1">offenbarte ihm Mancherlei.</said>
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

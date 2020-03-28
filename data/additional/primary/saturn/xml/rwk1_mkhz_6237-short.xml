@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt15_1868_4.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+         
+            <said id="1" mode="direct" content="speech" level="1">„Jch weiß nicht, Fraue, was Minne ist!“</said>
+                        
+            <seg id="2" type="frame" pos="start"><seg id="2" type="intExpr">Schien</seg> es <seg id="2" type="speaker">ihm</seg> nur so,</seg> <said id="2" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">als drücke ihr Arm leise den seinen?</said> Er
+                        schwieg verwirrt.
+            <said id="3" mode="direct" content="speech" level="1">„So sind Sie wahrlich ein Fremdling im Leben!“</said> <seg id="3" type="frame" pos="end"><seg id="3" type="intExpr">sprach</seg> <seg id="3" type="speaker">sie</seg>.</seg>
+                        <said id="4" mode="direct" content="speech" level="1">„Halten Sie sich absichtlich fern von den Frauen?“</said>
+                         
+            <said id="5" mode="direct" content="speech" level="1">„Jch halte mich nicht fern; aber meine lange Krankheit hat mich
+                        schüchtern und ungelenk gemacht. Jch besitze nichts Anziehendes für
+                        Frauen.“</said>
+                         
+            <said id="6" mode="direct" content="speech" level="1">„Sind Sie dessen so sicher?“</said>
+                         
+            <said id="7" mode="direct" content="speech" level="1">„Auch kenne ich wenige Frauen, und die ich bisher kannte, entsprechen meinem Jdeal nicht“</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sagte</seg> <seg id="7" type="speaker">er</seg> zögernd.</seg>
+            <said id="8" mode="freeIndirect" content="thought" level="1">Die ich kannte -- <seg id="9" type="frame" pos="start"><seg id="9" type="speaker">er</seg> <seg id="9" type="intExpr">wußte</seg> wohl,</seg> <said id="9" mode="indirect" content="thought" level="2" border="yes"><said id="10" mode="reported" content="speech" level="3">warum er in der Vergangenheit sprach.</said></said> <said id="11" mode="reported" content="thought" level="2" nonfact="yes" border="yes">Wußte sie es auch?</said></said>
+                         
+            Der Vollmond goß seinen Silberschein über die schweigende Welt.
+                        Die Rosen dufteten, leise rauschten die Wipfel der Bäume. Sie
+                        schritten stumm dahin.
+            <said id="12" mode="direct" content="speech" level="1">„Jch möchte ruhen“</said><seg id="12" type="frame" pos="end">, <seg id="12" type="intExpr">sprach</seg> <seg id="12" type="speaker">sie</seg> leise.</seg> <said id="13" mode="freeIndirect" content="thought" level="1">Winkte dort nicht das
+                        Halbdunkel einer Laube?</said> Er führte sie hin, sie ließ sich nieder;
+                        aber er wagte nicht, dasselbe zu thun. Stumm, mit verschränkten
+                        Armen, stand er vor ihr; seine Stirn brannte, seine Pulse klopften
+                        fieberhaft. Sie wies auf einen Strauch weißer Rosen, der nahe
+                        stand. <said id="14" mode="direct" content="speech" level="1">„Pflücken Sie mir eine Rose!“</said>
+                         
+            Er gehorchte. Als er ihr die Blume reichte, berührte ihre Hand
+                        die seine. Es war nicht Zufall; ihre Finger schlossen sich fest um die
+                        Rose und -- um seine Hand.
+            Er beugte sich nieder; er suchte ihren Blick und fand ihn -- mit
+                        einem Laut des Entzückens sank er nieder und barg sein glühendes
+                        Antlitz in ihrem Schooß.
+            Wenige Wochen später drängte sich in den Sälen des Grafen W.
+                        eine auserlesene Gesellschaft. Seinem Neffen und Erben zu Ehren,
+                        der vor Kurzem aus fernen Landen zurückgekehrt war, hatte der Graf
+                        einen glänzenden Ball veranstaltet.
+            Jm bunten Gewühl achtete Niemand auf einen jungen Mann,
+                        der einsam an einem Pfeiler lehnte und mit finsterm Blick ein Paar
+                        verfolgte, das bereits die allgemeine Aufmerksamkeit erregte.
+            <said id="15" mode="direct" content="speech" level="1">„Kaum angelangt und schon gefangen!“</said> <seg id="15" type="frame" pos="end"><seg id="15" type="intExpr">flüsterte</seg> <seg id="15" type="speaker">man</seg> sich lächelnd
+                        zu</seg><seg id="16" type="frame" pos="start">, als <seg id="16" type="speaker">man</seg> <seg id="16" type="intExpr">bemerkte</seg>,</seg> <said id="16" mode="indirect" content="thought" level="1" border="yes">wie unausgesetzt der Held des Abends sich um
+                        die reizende Wittwe Viktoria von L. bemühte.</said> Sie war strahlend
+                        schön, und man hatte sie kaum je so liebenswürdig gesehen. Jhr
+                        anmuthigstes Lächeln aber, <said id="17" mode="reported" content="speech" level="1">ihre geistvollen Worte gehörten dem jungen
+                        Grafen</said>, der sich willig ihrem Zauber hingab.
+            Eben waren sie im Tanz durch den Saal geflogen und standen
+                        nun ausruhend neben einander. Als Viktoriens Auge durch die Versammlung schweifte, begegnete es dem Blick des finstern Mannes.
+                        Ruhig lächelnd hielt sie ihn einen Augenblick aus und wandte sich
+                        dann, einen Scherz auf den Lippen, zu ihrem Tänzer.
+            Der alte Baron trat zu dem einsamen Zuschauer.
+            <said id="18" mode="direct" content="speech" level="1">„Ein schönes Paar“</said><seg id="18" type="frame" pos="end">, <seg id="18" type="intExpr">sprach</seg> <seg id="18" type="speaker">er</seg>,</seg> auf die Beiden deutend, die sich
+                        eben von Neuem unter die Tanzenden mischten.
+            Der Angeredete nickte flüchtig und kehrte sich ab. Der alte Herr
+                        sah ihm kopfschüttelnd nach.
+            <said id="19" mode="direct" content="thought" level="1">„Armer Narr!“</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">dachte</seg> <seg id="19" type="speaker">er</seg>.</seg>
+            <seg id="" type="frame" pos="start"><seg id="" type="speaker">Der</seg> aber <seg id="" type="intExpr">murmelte</seg> mit bitterm Lächeln:</seg>
+                         
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>

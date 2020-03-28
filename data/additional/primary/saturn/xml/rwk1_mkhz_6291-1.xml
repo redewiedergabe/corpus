@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Undefined</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">nn_sonntagsblatt22_1868_1.xml</f>
+         <f name="name">saturn</f>
+         <f name="year">1868</f>
+         <f name="decade">1860</f>
+         <f name="title">Undefined</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">mkhz.sonntagsblatt</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">german</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">Marie selbst ist außerordentlich gerührt von dieser
+                        Zartheit und verehrt sie um so höher.“</said>
+                         
+            <said id="2" mode="direct" content="speech" level="1">„Genug davon“</said><seg id="2" type="frame" pos="mid">, <seg id="2" type="intExpr">sprach</seg> der <seg id="2" type="speaker">Assessor</seg> und schüttelte seinem Freunde
+                        die Hand;</seg> <said id="2" mode="direct" content="speech" level="1">„wenn Du selbst keine Gefahr siehst, bin ich vollständig
+                        befriedigt. Meine Braut übrigens --“</said> Er stockte mit einem Mal
+                        und schien den Satz nicht vollenden zu wollen.
+            <said id="3" mode="direct" content="speech" level="1">„Nun, Deine Braut?“</said>
+                         
+            <said id="4" mode="direct" content="speech" level="1">„Ach -- <seg id="5" type="frame" pos="start"><seg id="5" type="speaker">sie</seg> bildet sich etwas auf ihren Scharfsinn ein und <seg id="5" type="intExpr">glaubt</seg></seg>
+                        <said id="5" mode="indirect" content="thought" level="2">noch eine andere Möglichkeit zu sehen.</said> Lassen wir es sein. <said id="6" mode="reported" content="speech" level="2">Weibergeschwätz!</said>“</said>
+                         
+            Er wollte weiter gehen; Ludwig hielt ihn zurück.
+            <said id="7" mode="direct" content="speech" level="1">„Jch sehe ebenfalls noch eine andere Möglichkeit -- heut wenigstens
+                        schien es mir so“</said><seg id="7" type="frame" pos="end">, <seg id="7" type="intExpr">sprach</seg> <seg id="7" type="speaker">er</seg>.</seg> <said id="8" mode="direct" content="speech" level="1">„Jch möchte deßhalb die Ansicht Deiner
+                        Braut kennen.“</said>
+                         
+            <said id="9" mode="direct" content="speech" level="1">„Nun, <seg id="10" type="frame" pos="start"><seg id="10" type="speaker">sie</seg> <seg id="10" type="intExpr">meint</seg>,</seg> <said id="10" mode="indirect" content="speech thought" level="2">möglicherweise</said> -- bedenke wohl, <said id="10" mode="indirect" content="speech thought" level="2">möglicherweise
+                        könnte Dein Schwiegervater ebenfalls Neigung zu Helene fassen.</said>“</said>
+                        Er sah Ludwig fragend an; dieser schwieg. <said id="11" mode="direct" content="speech" level="1">„Es könnte dies unangenehm für Dich sein“</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">fuhr</seg> <seg id="11" type="speaker">er</seg> <seg id="11" type="intExpr">fort</seg>,</seg> <said id="11" mode="direct" content="speech" level="1">„weil Dir dadurch ein Theil
+                        des Vermögens entzogen würde; aber Dein Schwiegervater besitzt so
+                        viel, daß Du Dich darüber trösten könntest. <said id="12" mode="reported" content="thought" level="2" border="yes">Doch halte ich <said id="13" mode="reported" content="thought" level="3" border="yes">die Ansicht meiner Braut</said> nur für ein Hirngespinnst.</said>“</said>
+                         
+            <said id="14" mode="direct" content="speech" level="1">„<seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Jch</seg> <seg id="16" type="intExpr">vermuthe</seg> auch,</seg> <said id="16" mode="indirect" content="thought" level="2">es ist ein Hirngespinnst</said>“</said> <seg id="14" type="frame" pos="end"><seg id="14" type="intExpr">versetzte</seg> <seg id="14" type="speaker">Ludwig</seg></seg>
+                        und zwang sich zu einem etwas scharf klingenden Lachen. <said id="15" mode="direct" content="speech" level="1">„Wenigstens
+                        würde ich kein Glück für das Mädchen darin seher, wenn sie einem
+                        bejahrten Mann ihre Hand reichen sollte.“</said>
+                         
+            <said id="17" mode="direct" content="speech" level="1">„<seg id="18" type="frame" pos="start"><seg id="18" type="speaker">Wer</seg> <seg id="18" type="intExpr">weiß</seg></seg>“</said><seg id="17" type="frame" pos="mid">, <seg id="17" type="intExpr">meinte</seg> der <seg id="17" type="speaker">Assessor</seg>,</seg> <said id="17" mode="direct" content="speech" level="1">„<said id="18" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">ob sie selbst so denkt?</said> Sie
+                        würde zwischen dem Aufenthalt bei ihrem Vater und dem beim
+                        Banquier zu wählen haben, und <said id="19" mode="reported" content="speech" level="2">was man mir erzählt</said>, <seg id="20" type="frame" pos="start">bewegt <seg id="20" type="speaker">mich</seg>
+                        zu <seg id="20" type="intExpr">glauben</seg>,</seg> <said id="20" mode="indirect" content="thought" level="2">daß sie ihr jetziges Leben vorziehen wird.</said>“</said>
+                         
+            <said id="21" mode="direct" content="speech" level="1">„Daß sie meine Schwiegermutter werden wollte? Was wir für
+                        närrisches Zeug ersinnen!“</said> <seg id="21" type="frame" pos="end">Damit <seg id="21" type="intExpr">unterbrach</seg> <seg id="21" type="speaker">er</seg> das Gespräch.</seg> Er
+                        nahm den Arm des Assessors. <said id="22" mode="direct" content="speech" level="1">„Komm, laß uns zu den Mädchen
+                        zurückkehren.“</said>
+                         
+            Als die Beiden sich näherten, fuhr Marie in die Höhe, nahm
+                        die Hand ihres Bräutigams und führte ihn zu dem Stuhl, welcher
+                        neben dem ihrigen war.
+            <said id="23" mode="direct" content="speech" level="1">„Wir sind sehr ernsthaft“</said><seg id="23" type="frame" pos="mid">, <seg id="23" type="intExpr">sagte</seg> <seg id="23" type="speaker">sie</seg>;</seg> <said id="23" mode="direct" content="speech" level="1">„<said id="24" mode="reported" content="speech" level="2">wir haben eine lange Berathung gepflogen</said>“.</said> Und dabei lachte sie hell auf.
+            <said id="25" mode="direct" content="speech" level="1">„Wie viel Minuten lang?“</said> <seg id="25" type="frame" pos="end"><seg id="25" type="intExpr">fragte</seg> der <seg id="25" type="speaker">Assessor</seg> sich setzend</seg>, und
+                        zog seine Uhr hervor. Seine Braut zwang ihn durch einen Schlag
+                        mit dem Fächer zur Ruhe.
+            <said id="26" mode="direct" content="speech" level="1">„Nein, Marie, <said id="27" mode="reported" content="speech" level="2" nonfact="yes">sage nichts</said>“</said><seg id="26" type="frame" pos="start">, <seg id="26" type="intExpr">bat</seg> <seg id="26" type="speaker">Helene</seg></seg> und erröthete.
+            <said id="28" mode="direct" content="speech" level="1">„Doch, <said id="30" mode="reported" content="speech" level="2" nonfact="yes">ich muß es berichten</said>“</said><seg id="28" type="frame" pos="end">, <seg id="28" type="intExpr">sagte</seg> <seg id="28" type="speaker">Marie</seg> eifrig.</seg> <said id="29" mode="direct" content="speech" level="1">„Das Beste
+                        wäre für Helene, sie könnte sich verheirathen. <said id="31" mode="reported" content="thought" level="2" nonfact="yes" prag="yes">Meinst Du nicht</said>,
+                        Ludwig?“</said>
+                         
+            <said id="32" mode="direct" content="speech" level="1">„Ja, <seg id="33" type="frame" pos="start"><seg id="33" type="speaker">ich</seg> <seg id="33" type="intExpr">meine</seg> auch,</seg> <said id="33" mode="indirect" content="thought" level="2">es wäre das Beste</said>“</said><seg id="32" type="frame" pos="end">, <seg id="32" type="intExpr">sprach</seg> die <seg id="32" type="speaker">Braut</seg> des
+                        Assessors</seg> und sah diesen dabei an.
+            
+            
+            
+            Helene schlug flehend ihre braunen Augen zu den beiden Mädchen
+                        auf, und dabei streifte ihr Blick das Gesicht Ludwigs, dann aber
+                        stützte sie ihren Kopf auf den Tisch, und eine Thräne floß über ihre
+                        Wangen.
+            <said id="34" mode="direct" content="speech" level="1">„Sei nicht böse, Helene!“</said> <seg id="34" type="frame" pos="end"><seg id="34" type="intExpr">rief</seg> die gutmüthige <seg id="34" type="speaker">Marie</seg></seg> und umarmte sie. <said id="35" mode="direct" content="speech" level="1">„Wir wollen jetzt davon schweigen.“</said>
+                         
+            <said id="36" mode="direct" content="speech" level="1">„Nein!“</said> <seg id="36" type="frame" pos="mid"><seg id="36" type="intExpr">fuhr</seg> <seg id="36" type="speaker">Helene</seg> <seg id="36" type="intExpr">empor</seg>,</seg> <said id="36" mode="direct" content="speech" level="1">„<said id="37" mode="reported" content="speech" level="2" nonfact="yes">sprecht nicht von meiner Zukunft.</said>
+                        Jch bin ja jetzt so glücklich bei Euch, Marie“</said>, und dabei lehnte sie
+                        ihren Kopf an Marie, und diese streichelte ihr mit den Händen das
+                        schöne braune Haar, <said id="36" mode="direct" content="speech" level="1">„und ganz unverhofft ist mir dies Glück gekommen. Dafür werde ich mein Lebelang dankbar sein. Ja, das
+                        werde ich, Marie!</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

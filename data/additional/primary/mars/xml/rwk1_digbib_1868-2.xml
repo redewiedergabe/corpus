@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Der versiegelte Engel</title>
+             <author>Leskov, Semënovi? Nikolaj</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Leskov,_Semenovic_Nikolaj_Der_versiegelte_Engel.tg43_1.xml</f>
+         <f name="name">mars</f>
+         <f name="year">1873</f>
+         <f name="decade">1870</f>
+         <f name="title">Der versiegelte Engel</f>
+         <f name="author">Leskov, Semënovi? Nikolaj</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<said id="1" mode="direct" content="speech" level="1">»Wir sind alle vom Leibe Christi, er umfängt uns alle.«</said> 
+                     <seg id="2" type="frame" pos="start">Und damit führt <seg id="2" type="speaker">er</seg> uns in einen Winkel, wo auf dem Boden eine dürftige Lagerstatt aus Matten hergerichtet ist und am Kopfende ein mit Stroh bedeckter Holzklotz liegt, und <seg id="2" type="intExpr">sagt</seg> zu uns beiden:</seg> <said id="2" mode="direct" content="speech" level="1">»Schlaft!«</said> 
+                     
+                        
+Mein Lewontij legt sich als gehorsamer Junge gleich hin, <seg id="3" type="frame" pos="start">während <seg id="3" type="speaker">ich</seg> meine Vorsicht beibehalte und <seg id="3" type="intExpr">frage</seg>: </seg>
+                     <said id="3" mode="direct" content="speech" level="1">»Verzeih, Mann Gottes, noch eine Frage ...«</said> 
+                     <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Er</seg> <seg id="4" type="intExpr">antwortet</seg>:</seg> <said id="4" mode="direct" content="speech" level="1">»Wozu fragen: <said id="5" mode="reported" content="thought" level="2" border="yes">Gott weiß alles.</said>«</said> 
+                     <said id="6" mode="direct" content="speech" level="1">»Nein, <said id="7" mode="reported" content="speech" level="2" nonfact="yes">sage mir: wie heißt du?</said>«</said> 
+                     <seg id="8" type="frame" pos="start">Aber <seg id="8" type="speaker">er</seg> <seg id="8" type="intExpr">erwidert</seg> mit dem für ihn ganz unpassenden Weiberspruch:</seg> 
+                     <said id="8" mode="direct" content="speech" level="1">»<said id="9" mode="reported" content="speech" level="2" border="yes">Man nennet mich den Enterich</said>, <said id="10" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="11" mode="reported" content="speech" level="3">wie man mich heißt</said></said><seg id="10" type="frame" pos="end">, das <seg id="10" type="intExpr">weiß</seg> <seg id="10" type="speaker">ich</seg> nicht.</seg>«</said> Und mit diesen leeren Worten kriecht er mit seinem Lichtlein in eine kleine Kammer, eng wie ein Holzsärglein, <seg id="12" type="frame" pos="start">aber hinter der Wand vernimmt man wieder die <seg id="12" type="intExpr">Stimme</seg> des <seg id="12" type="speaker">Grobians</seg>:</seg> 
+                     <said id="12" mode="direct" content="speech" level="1">»Untersteh dich nicht, Licht zu brennen: du zündest noch die Zelle an. <said id="13" mode="reported" content="thought" level="2" border="yes">Aus dem Büchlein kannst du am Tage beten</said>, <said id="14" mode="reported" content="thought" level="2" nonfact="yes" border="yes">jetzt aber bete im Dunkeln.</said>«</said> 
+                     <said id="15" mode="direct" content="speech" level="1">»Ich werde nicht, Bruder Miron«</said><seg id="15" type="frame" pos="mid">, <seg id="15" type="intExpr">antwortet</seg> <seg id="15" type="speaker">jener</seg>,</seg> <said id="15" mode="direct" content="speech" level="1">»ich werde nicht.«</said> Und bläst das Lichtlein aus. 
+                     <seg id="16" type="frame" pos="start"><seg id="16" type="speaker">Ich</seg> <seg id="16" type="intExpr">flüstere</seg>:</seg> <said id="16" mode="direct" content="speech" level="1">»Vater, wer ist es, <said id="17" mode="reported" content="speech" level="2">der Euch so barsch bedroht?</said>«</said> 
+                     <said id="18" mode="direct" content="speech" level="1">»Es ist mein Diener Miron, ein guter Mensch ... er behütet mich.«</said> 
+                     <said id="19" mode="direct" content="thought" level="1">»Nun ist es aus«</said><seg id="19" type="frame" pos="mid">, <seg id="19" type="intExpr">denke</seg> <seg id="19" type="speaker">ich</seg> mir,</seg> <said id="19" mode="direct" content="thought" level="1">»es ist der Einsiedler Pamwa. Es kann niemand anders sein, als er, der Zorn- und Neidlose. Jetzt ist das Unglück da! Er hat uns hieher gebracht und sengt uns jetzt, wie der Feuerbrand das Fett. Das einzige, was übrigbleibt, ist, morgen beim Morgengrauen Lewontij von hier zu entführen und zu fliehen, <seg id="20" type="frame" pos="start">damit <seg id="20" type="speaker">er</seg> nicht <seg id="20" type="intExpr">wisse</seg>,</seg> <said id="20" mode="indirect" content="thought" level="2" nonfact="yes" border="yes">wo wir sind.</said>«</said> <said id="22" mode="reported" content="thought" level="1">Ich klammerte mich an diesen Plan</said> und <said id="21" mode="reported" content="thought" level="1">beschloß nicht zu schlafen</said>, um den Jüngling beim ersten Morgenschimmer zu wecken und zu fliehen. 
+                     
+                        
+Um nicht einzuschlafen und womöglich zu verschlafen, liege ich da und <said id="23" mode="reported" content="speech" level="1">spreche in einem fort das Glaubensbekenntnis</said>, wie es der alte Glaube vorschreibt, und wenn ich damit fertig bin, <seg id="24" type="frame" pos="start"><seg id="24" type="intExpr">setze</seg> <seg id="24" type="speaker">ich</seg> gleich <seg id="24" type="intExpr">hinzu</seg>:</seg> <said id="24" mode="direct" content="speech" level="1">»Dieser Glaube ist der Apostolische, dieser Glaube ist der Katholische, dieser Glaube hält das All ...«</said> und beginne von neuem. <seg id="25" type="frame" pos="start"><seg id="25" type="speaker">Ich</seg> <seg id="25" type="intExpr">weiß</seg> nicht,</seg> <said id="25" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">wie oft ich das Glaubensbekenntnis wiederholt habe, um nicht einzuschlafen</said>, aber gewiß waren es viele Male. <said id="26" mode="reported" content="speech thought" level="1">Und auch der Alte betet noch immer in seinem Sarge</said>, <seg id="27" type="frame" pos="start">und <seg id="27" type="speaker">mir</seg> <seg id="27" type="intExpr">scheint</seg>,</seg> <said id="27" mode="indirect" content="thought" level="1">als zeige mir das Licht in den Balkenritzen, wie er sich immer von neuem verneigt.</said> Und plötzlich meine ich ein Gespräch zu hören, und was für eines ... ein ganz unerklärliches ... als sei Lewontij beim Starez eingetreten und <said id="28" mode="reported" content="speech" level="1" nonfact="yes">spräche mit ihm über den Glauben</said> ... aber ohne Worte, sondern sie sehen einander nur an und verstehen sich. Dieses Bild stand mir lange vor Augen, <seg id="29" type="frame" pos="start">und <seg id="29" type="speaker">ich</seg> hatte darüber schon <seg id="29" type="intExpr">vergessen</seg>,</seg> <said id="29" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">mein Glaubensbekenntnis zu wiederholen.</said> <seg id="30" type="frame" pos="start">Da <seg id="30" type="intExpr">glaube</seg> <seg id="30" type="speaker">ich</seg> zu hören,</seg> <said id="30" mode="indirect" content="thought" level="1"><seg id="31" type="frame" pos="start">wie der <seg id="31" type="speaker">Starez</seg> dem Jüngling <seg id="31" type="intExpr">sagt</seg>:</seg> <said id="31" mode="direct" content="speech" level="2">»Gehe und entsündige dich!«</said></said> <seg id="32" type="frame" pos="start">Und <seg id="32" type="speaker">jener</seg> <seg id="32" type="intExpr">antwortet</seg>:</seg> <said id="32" mode="direct" content="speech" level="1">»Ja, ich will mich entsündigen.«</said> <seg id="33" type="frame" pos="start">Auch jetzt kann <seg id="33" type="speaker">ich</seg> Ihnen nicht <seg id="33" type="intExpr">sagen</seg>,</seg> <said id="33" mode="indirect" content="speech" level="1" nonfact="yes">ob es im Traume oder in der Wirklichkeit geschehen ist</said>, aber sicher habe ich darauf lange geschlafen. Wie ich endlich erwache, sehe ich: es ist heller Tag, und der Starez, unser Wirt, der Einsiedler, sitzt da und zieht eine Aale durch einen Lindenbastschuh, den er auf seinen Knien hält.
+
+
+
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

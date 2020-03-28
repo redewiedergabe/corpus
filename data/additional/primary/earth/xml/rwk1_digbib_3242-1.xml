@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>4. Der Herrenbau</title>
+             <author>Wildermuth, Ottilie</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Wildermuth,_Ottilie_4__Der_Herrenbau.tg27_1.xml</f>
+         <f name="name">earth</f>
+         <f name="year">1847</f>
+         <f name="decade">1840</f>
+         <f name="title">4. Der Herrenbau</f>
+         <f name="author">Wildermuth, Ottilie</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">third</f>
+         <f name="quotes">chevron</f>
+      </fs>
+      <body>
+         <p>            
+ 
+  erz_3242 
+ Wildermuth,_Ottilie_4__Der_Herrenbau.tg27_1.xml 
+ 1847 
+ 1840 
+ erz 
+ 4. Der Herrenbau 
+ Wildermuth, Ottilie 
+ yes 
+ 649 
+ 1 
+ 
+ 
+ 
+ 
+ 
+  Wie die Mägde und Marktweiber bei Johann, so hätten die paar Hofdamen gern diese einzige Gelegenheit benützt, seinen Frauenhaß durch süße Blicke zu brechen oder <said id="1" mode="reported" content="speech" level="1">durch spitze Worte</said> zu rächen; aber alle Versuche glitten ab an der äußersten Gleichgültigkeit, mit der er die schönste wie die häßlichste Gestalt gleich entschieden als Luft behandelte und seine feierliche Höflichkeit allein der gebietenden Frau zuwandte.   
+                    Auch die Kirche fing er seit jener Zeit an zu besuchen und erregte das Erstaunen und Ergötzen der Schuljugend durch den großen Muff, mit dem er sich zur Winterszeit gegen die Kälte schützte.   Niemand in der Stadt Kirchheim hatte ihn jung gesehen; er hatte schon das Ansehen eines bejahrten Mannes, als er seine Einsiedelei zum erstenmal verlassen.   
+                    Nur ein Band gab es, das den scheuen Freiherrn noch mit den Menschen verband, <said id="2" mode="reported" content="speech" level="1" nonfact="yes" prag="yes">nur eine Freude, der er nicht entsagt hatte</said>, – die des Wohltuns.   Wo er eine bekannte oder verborgene Not erfuhr, da war seine Hand stets offen, natürlich so still und heimlich wie möglich.   Viel Freude konnte nun freilich auch nicht dabei sein, <said id="15" mode="reported" content="speech" level="1" nonfact="yes">da er fast nie den Dank aus eines Armen Munde selbst empfing;</said> aber doch ist <said id="4" mode="reported" content="thought" level="1">manch stilles Gebet</said> für ihn emporgestiegen und hat einen Friedenshauch in sein verdüstertes Dasein gebracht, <seg id="5" type="frame" pos="start">ohne daß <seg id="5" type="speaker">er</seg> <seg id="5" type="intExpr">wußte</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">woher er ihm gekommen.</said>   
+                    Außer den Armen war ihm wohl niemand so gewogen wie die Lichterzieher, die gern der halben Bevölkerung zugunsten ihres Gewerbes eine so menschenfeindliche Laune gewünscht hätten; wie es denn überhaupt eine tröstliche und daneben eine höchst leidige Eigenschaft des Menschenlebens ist, daß jedes Unglück des einen für den andern eine Lichtseite hat.   Wir sind ein Raubvogelgeschlecht, wo sich jeder, vom Generalfeldmarschall bis zum Totengräber, von einem Stückchen menschlicher Vergänglichkeit oder menschlichen Jammers nährt.   <seg id="6" type="frame" pos="start">Ich hörte eine Frau <seg id="6" type="speaker">Apothekerin</seg> einst ganz ärgerlich <seg id="6" type="intExpr">sagen</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">»Jetzt kommt d' Cholera erst nicht!«</said> Hagelwetter und Katzenmusiken sind die Blütezeit der Glaser; <said id="17" mode="reported" content="speech" level="1">bei der »herannahenden Saison der Rheumatismen« preisen die »wollenen Warenhändler« vergnügt ihre Waren an;</said> die zerrissenen Stiefel, die den Jungen Schläge und Schelte eintragen, helfen den Kindern des armen Schusters zu ihrem täglichen Brot; und so war das verstörte Gemüt des Freiherrn, das ihm das Tageslicht verhaßt machte, ein rechtes Labsal für seinen Nachbar Seifensieder, der sonst die gutmütigste Seele von der Welt war.   
+                    Alle Lichter brennen aus, so auch das Lebenslicht des alten Freiherrn.   An einem kühlen, klaren Herbstmorgen öffneten sich zum erstenmal die Fenster und Läden im Herrenbau, zum erstenmal fiel das Sonnenlicht auf das Lager des alten Herrn, als die Leichenschau es umstand, <said id="16" mode="reported" content="thought" level="1">um sich von seinem Tode durch Schlagfluß zu überzeugen.</said>   <said id="8" mode="reported" content="speech" level="1">Ein entfernter Vetter wurde herbeigerufen</said>, um des Freiherrn Erbe in Besitz zu nehmen, <said id="9" mode="reported" content="thought" level="1">das man nach seinen Spenden an die Armut für viel größer gehalten</said>, als sich nun zeigte.   
+                    Der junge Baron hatte seinen Vetter im Leben nicht gekannt, <said id="10" mode="reported" content="thought" level="1">aber im Tod interessierte er sich sehr für ihn;</said> <seg id="11" type="frame" pos="start"><seg id="11" type="speaker">er</seg> hatte Sinn fürs Romantische und hätte gar zu gern <seg id="11" type="intExpr">gewußt</seg>,</seg> <said id="11" mode="indirect" content="thought" level="1" nonfact="yes">was 
+                      denn den alten Herrn zu solch einem verfehlten Dasein voll Nacht und Trübsal gebracht.</said>   Der Freiherr aber hat sein Geheimnis mit in das Grab genommen; den Johann hatte er erst kurz vor seiner Ankunft in Kirchheim gedingt, und so war niemand, der Aufschluß geben konnte.   
+                    <seg id="12" type="frame" pos="start">Nur das <seg id="12" type="speaker">Bild</seg> einer wunderschönen Dame, das sich im verborgensten Fach eines Schreibtisches gefunden, soll <seg id="12" type="intExpr">Kunde gegeben</seg> haben,</seg> <said id="12" mode="indirect" content="speech" level="1" metaph="yes">daß der Freiherr wohl nicht sein Leben lang so tiefen Abscheu vor Frauen gehegt hatte.</said>   <seg id="13" type="frame" pos="start">Ein unverbürgtes <seg id="13" type="speaker">Gerücht</seg> <seg id="13" type="intExpr">sagt</seg>,</seg> <said id="13" mode="indirect" content="speech" level="1" metaph="yes">daß der junge Erbe an dem Hofe, wo der Freiherr seine Jugend verlebt, einiges erfahren, was das Rätsel lösen konnte:</said> eine alte leidige Geschichte, wie sie bei dem früheren Leben an Höfen wohl nicht die erste war und nicht die letzte blieb: die Geschichte von einem lebensfrischen jungen Pagen, der jahrelang mit der reinen Glut einer jungen Seele, mit stiller, hoffnungsloser Treue zu einer stolzen Schönheit aufgeschaut, und der endlich <said id="14" mode="reported" content="speech" level="1">durch ein fürstliches Fürwort</said> mit einem Schlag an das Ziel seiner Wünsche gekommen war. 
+ 
+ 
+ 
+ 
+ 
+ 
+ </p>
+      </body>
+   </text>
+</TEI>

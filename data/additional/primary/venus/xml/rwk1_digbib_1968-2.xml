@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Das Leiden eines Knaben</title>
+             <author>Meyer, Conrad Ferdinand</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">Meyer,_Conrad_Ferdinand_Das_Leiden_eines_Knaben.tg406_1.xml</f>
+         <f name="name">venus</f>
+         <f name="year">1883</f>
+         <f name="decade">1880</f>
+         <f name="title">Das Leiden eines Knaben</f>
+         <f name="author">Meyer, Conrad Ferdinand</f>
+         <f name="fictional">yes</f>
+         <f name="sample_id">2</f>
+         <f name="narrative">yes</f>
+         <f name="text_type">Erzähltext</f>
+         <f name="source">digbib</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first</f>
+         <f name="quotes">other</f>
+      </fs>
+      <body>
+         <p>          
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Der Knabe kam zurück, weich und glücklich.<said id="1" mode="direct" content="speech" level="1"> ›Laß mich einmal sehen, was du zeichnest und malst‹</said><seg id="1" type="frame" pos="end">, <seg id="1" type="intExpr">sagte</seg> <seg id="1 2" type="speaker">ich</seg>. </seg><said id="2" mode="direct" content="speech" level="1">›Es liegt ja wohl alles auf der Kammer Moutons.‹ </said>Er willfahrte und brachte mir eine volle Mappe. <seg id="3" type="speaker">Ich</seg> besah Blatt um Blatt. Seltsamer Anblick, diese Mischung zweier ungleichen Hände: Moutons freche Würfe von der bescheidenen Hand des Knaben nachgestammelt und <said id="3" mode="freeIndirect" content="thought" level="1">– leise geadelt! </said>Lange hielt ich einen blauen Bogen, worauf Julian einige von Mouton in verschiedenen Flügelstellungen mit Hilfe der Lupe gezeichnete Bienen unglaublich sorgfältig wiedergegeben. Offenbar hatte der Knabe die Gestalt des Tierchens liebgewonnen. <seg id="4" type="frame" pos="start"><seg id="4" type="speaker">Wer</seg> mir <seg id="4" type="intExpr">gesagt</seg> hätte,</seg> <said id="4" mode="indirect" content="speech" level="1" nonfact="yes">daß die Zeichnung eines Bienchens den Knaben töten würde! </said>
+                  Zuunterst in der Mappe lag noch ein unförmlicher Fetzen, worauf Mouton etwas gesudelt hatte, was meine Neugierde fesselte.<said id="5" mode="direct" content="speech" level="1"> ›Das ist nicht von mir‹</said><seg id="5" type="frame" pos="mid">, <seg id="5" type="intExpr">sagte</seg> <seg id="5" type="speaker">Julian</seg>,</seg><said id="5" mode="direct" content="speech" level="1"> ›es hat sich angehängt.‹ </said>Ich studierte das Blatt, welches die wunderliche Parodie einer ovidischen Szene enthielt: jener, wo Pentheus rennt, von den Mänaden gejagt, und Bacchus, der grausame Gott, um den Flüchtenden zu verderben, ein senkrechtes Gebirge vor ihm in die Höhe wachsen läßt. <said id="6" mode="reported" content="speech" level="1">Wahrscheinlich hatte Mouton den <seg id="6" type="speaker">Knaben</seg>, der zuweilen seinen Aufgaben in der Malkammer oblag, die Verse Ovids mühselig genug <seg id="6" type="intExpr">übersetzen</seg> hören</said> und daraus seinen Stoff geschöpft. Ein Jüngling, unverkennbar Julian in allen seinen Körperformen, welche Moutons Malerauge leichtlich besser kannte als der Knabe selbst, ein schlanker Renner, floh, den Kopf mit einem Ausdrucke tödlicher Angst nach ein paar ihm nachjagenden Gespenstern umgewendet. Keine Bacchantinnen, Weiber ohne 
+Alter, verkörperte Vorstellungen, Ängstigungen, folternde Gedanken – eines dieser Scheusale trug einen langen Jesuitenhut auf dem geschorenen Schädel und einen Folianten in der Hand – und erst die Felswand, wüst und unerklimmbar, die vor dem Blicke zu wachsen schien, wie ein finsteres Schicksal! 
+                  Ich sah den Knaben an. Dieser betrachtete das Blatt ohne Widerwillen, ohne eine Ahnung seiner möglichen Bedeutung. Auch Mouton mochte sich nicht klargemacht haben, welches schlimme Omen er in genialer Dumpfheit auf das Blatt hingeträumt hatte. Ich steckte dasselbe unwillkürlich, um es zu verbergen, in die Mitte der Blätterschicht, bevor ich diese in die Mappe schob. 
+                <said id="7" mode="direct" content="speech" level="1">  ›<seg id="20" type="speaker">Julian</seg>‹</said><seg id="7" type="frame" pos="mid">, <seg id="7" type="intExpr">begann</seg> <seg id="7" type="speaker">ich</seg> freundlich, </seg><said id="7" mode="direct" content="speech" level="1">›<said id="19" mode="reported" content="speech" level="2"><seg id="19" type="speaker">ich</seg> <seg id="19" type="intExpr">beklage</seg> mich bei dir</said>, daß du mir Mouton vorgezogen hast, ihn zu deinem Vertrauten machend, während du dich gegen mein Wohlwollen, das du kennst, <said id="20" mode="reported" content="speech" level="2" nonfact="yes">in ein unbegreifliches <seg id="20" type="intExpr">Schweigen</seg> verschlossest.</said> Fürchtest du dich, <said id="18" mode="reported" content="speech" level="2" nonfact="yes">mir <seg id="18" type="speaker">dein</seg> Unglück zu <seg id="18" type="intExpr">sagen</seg></said>, weil ich imstande bin, dasselbe klar zu begrenzen und richtig zu beurteilen, und du vorziehst, in hoffnungslosem Brüten dich zu verzehren? Das ist nicht mutig.‹</said> 
+                  Julian verzog schmerzlich die Brauen. Aber noch einmal spielte ein Strahl der heute genossenen Seligkeit über sein Antlitz.<said id="8" mode="direct" content="speech" level="1"> ›Herr Fagon‹</said><seg id="8" type="frame" pos="mid">, <seg id="8" type="intExpr">sagte</seg> <seg id="8" type="speaker">er</seg> halb lächelnd,</seg><said id="8" mode="direct" content="speech" level="1"> ›<said id="21" mode="reported" content="speech" level="2">eigentlich habe <seg id="21" type="speaker">ich</seg> meinen Gram nur dem  Pudel Mouton <seg id="21" type="intExpr">erzählt</seg>.</said>‹ 
+ </said>                 <said id="9" mode="reported" content="speech" level="1">Dieses artige <seg id="9" type="intExpr">Wort</seg>, welches <seg id="12 14" type="speaker">ich</seg> <seg id="9" type="speaker">ihm</seg> nicht zugetraut hätte</said>, überraschte mich. Der Knabe deutete meine erstaune Miene falsch.<seg id="10" type="frame" pos="start"> <seg id="10" type="speaker">Er</seg> <seg id="10" type="intExpr">glaubte</seg></seg> <said id="10" mode="indirect" content="thought" level="1">sich mißredet zu haben.</said><said id="11" mode="direct" content="speech" level="1"> ›Fraget mich, Herr Fagon‹</said><seg id="11" type="frame" pos="mid">, <seg id="11" type="intExpr">sagte</seg> <seg id="11 13" type="speaker">er</seg>, </seg><said id="11" mode="direct" content="speech" level="1">›ich antworte Euch die Wahrheit.‹ </said>
+                <said id="12" mode="direct" content="speech" level="1">  ›Du hast Mühe zu leben?‹ 
+ </said>                 <said id="13" mode="direct" content="speech" level="1">›Ja, Herr Fagon.‹ 
+ </said>                <said id="14" mode="direct" content="speech" level="1"> ›<said id="15" mode="reported" content="thought" level="2"><seg id="15" type="speaker">Man</seg> <seg id="15" type="intExpr">hält</seg> dich <seg id="15" type="intExpr">für</seg> beschränkt</said> und du bist es auch, doch vielleicht anders, <said id="16" mode="reported" content="thought" level="2">als die <seg id="16" type="speaker">Leute</seg> <seg id="16" type="intExpr">meinen</seg>.</said>‹ </said><said id="17" mode="reported" content="speech" level="1">Das harte Wort war <seg id="17" type="intExpr">gesprochen</seg>.
+
+</said>
+
+
+
+
+</p>
+      </body>
+   </text>
+</TEI>

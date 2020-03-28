@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Literaturgeschichte.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341578_96706.txt_53.xml</f>
+         <f name="name">jupiter</f>
+         <f name="year">1854</f>
+         <f name="decade">1850</f>
+         <f name="title">Literaturgeschichte.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">1</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Rezension</f>
+         <f name="source">grenz</f>
+         <f name="dialect">no</f>
+         <f name="perspective">first_plural</f>
+         <f name="quotes">undef</f>
+      </fs>
+      <body>
+         <p>         
+ 
+ 
+  
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+  
+  
+   
+    
+     
+      Zweite verbesserte Auflage in 2 Bänden.
+      Stuttgart, Krabbe.
+      — 
+     
+     
+      <said id="1" mode="reported" content="writing" level="1">In <said id="2" mode="reported" content="writing" level="2">einer sehr gut geschriebenen Einleitung</said> setzt der Verfasser die Methode
+       seiner Bearbeitung auseinander.</said>
+      <seg id="3" type="frame" pos="start">Wenn <seg id="3" type="speaker">er</seg> nicht darauf <seg id="3" type="intExpr">ausgegangen</seg> ist,</seg> <said id="3" mode="indirect" content="thought" level="1" nonfact="yes"><said id="4" mode="reported" content="writing" level="2">eine bloße Uebersetzung zu geben</said></said>, so lag
+       das in der Natur des ihm vorliegenden Originals.
+      <said id="5" mode="reported" content="writing" level="1"><said id="6" mode="reported" content="writing" level="2">Die beiden großen epischen Gedichte der Indier, Mahabharata und Ramajana</said>, sind
+       <said id="7" mode="reported" content="writing" level="2">wie die meisten Dichtungen aus der Jugendzeit der Völker</said>, nicht aus einem Guß geschaffen</said>,
+       sondern <said id="8" mode="reported" content="writing" level="1">sie sind durch sehr verschiedene Hände gegangen</said>, und <said id="9" mode="reported" content="writing" level="1">die Ueberarbeitungen späterer
+       Zeitalter</said>, <said id="10" mode="reported" content="thought" level="1">die zum Theil von einer höchst abweichenden sittlichen Weltanschauung ausgingen</said>,
+       sind noch leicht zu erkennen.
+      <said id="11" mode="reported" content="writing" level="1">Der Mahabharata füllt vier dicke Quartbände</said>, <said id="12" mode="reported" content="writing" level="1">in denen der ursprünglich
+       sagenhafte Theil</said> <said id="13" mode="reported" content="writing" level="1">durch die Ueberfülle des später hinzugefügten Materials</said> fast erstickt
+       wird.
+      <said id="14" mode="reported" content="writing" level="1">Diese Zusätze und Veränderungen</said> gingen theils aus der veränderten
+       Geschmacksrichtung hervor, <seg id="15" type="frame" pos="start">theils <seg id="15" type="intExpr">aus</seg> dem <seg id="15" type="intExpr">Bedürfniß</seg>,</seg> <said id="15" mode="indirect" content="thought" level="1"><said id="16" mode="reported" content="writing" level="2">in einem großen Werk alles
+       zusammenzustellen, was <said id="17" mode="reported" content="writing" level="3">die indische Poesie</said> überhaupt geschaffen hatte</said>, und so <said id="18" mode="reported" content="writing" level="2">alle andere
+       poetischen Werke</said> gewissermaßen entbehrlich zu machen</said>, hauptsächlich aber aus dogmatischen
+       Zwecken.
+      In dem indischen Religionssystem war eine gewaltige Umwandlung
+       vorgegangen.
+      Auf das Heldenzeitalter der Nation war ein dumpfes Priesterthum gefolgt, und
+       die lebendigen Göttergestalten wurden durch Abstractionen und Natursymbole verdrängt.
+      Diese Umwandlung wurde nun auch mit dem Gedicht vorgenommen 
+     
+     
+     
+      und dadurch die ursprüngliche kräftig jugendliche Färbung in ein düstres Grau
+       verwandelt.
+     
+     
+      Der Verfasser hat sich nun die Aufgabe gesetzt, soviel es durch Divination,
+       durch Gefühl des Zweckmäßigen und Unzweckmäßigen möglich ist, die ursprüngliche Gestalt des
+       Gedichts wiederherzustellen.
+      <seg id="19" type="frame" pos="start"><seg id="19" type="speaker">Er</seg> ist sich sehr wohl <seg id="19" type="intExpr">bewußt</seg>,</seg> <said id="19" mode="indirect" content="thought" level="1" border="yes">daß <said id="20" mode="reported" content="writing" level="2" nonfact="yes">eine spätere wissenschaftliche Kritik</said>
+       vielleicht zu ganz andern Resultaten kommen wird</said>, <seg id="21" type="frame" pos="start">wenn <seg id="21" type="speaker">er</seg> auch <seg id="21" type="intExpr">hofft</seg>,</seg> <said id="21" mode="indirect" content="thought" level="1"><said id="22" mode="reported" content="writing" level="2" nonfact="yes">daß sie ihm in vielen
+       Punkten Recht geben wird.</said></said>
+      <seg id="23" type="frame" pos="start"><seg id="23" type="speaker">Ihm</seg> <seg id="23" type="intExpr">kam</seg> es vor allem aber <seg id="23" type="intExpr">darauf</seg> <seg id="23" type="intExpr">an</seg>,</seg> <said id="23" mode="indirect" content="thought" level="1"><said id="24" mode="reported" content="writing" level="2">dem deutschen Publicum ein Gedicht
+       herzustellen, welches in Beziehung auf die Begebenheiten wie auf die zu Grunde gelegte
+       Weltanschauung ein harmonisches Ganze bilden sollte.</said></said>
+      <said id="25" mode="reported" content="writing" level="1" nonfact="yes">Er hat nichts von eigner Erfindung hinzugethan</said>, sondern sich so getreu als
+       möglich an die indischen Vorstellungen zu halten gesucht, und auch wo er <said id="26" mode="reported" content="thought" level="1">der Verknüpfung
+       wegen einen Nebenumstand erfinden mußte</said>, überall <said id="27" mode="reported" content="writing" level="1">eine bestimmte indische Ueberlieferung</said> zu
+       Rathe gezogen.
+     
+     
+      Diese Aufgabe ist ihm vollkommen gelungen.
+      <said id="28" mode="reported" content="writing" level="1">Das Gedicht, „die Kuruinge", in welchem die Hauptbegebenheit der Mahabharata
+       behandelt wird</said>, ist ein in sich zusammenhängendes, geschlossenes Gedicht, <said id="29" mode="reported" content="writing" level="1">welches uns in den
+       blühendsten und kräftigsten Farben ein wildbewegtes Heldenzeitalter darstellt</said> und in vieler
+       Beziehung mit uusern Nibelungen verglichen werden kann.
+      Ein ruhmvolles Königsgeschlecht fällt durch eigne Schuld in schmählichen
+       Untergang.
+      <said id="30" mode="reported" content="writing" level="1">Die einzelnen Helden sind in sehr bestimmten und leicht erkennbaren Umrissen
+       gezeichnet</said>; die Bewegung ist frei und eigenthümlich, und eine lebendige Spannung fesselt uns
+       vom Anfang bis zum Ende.
+      <said id="31" mode="reported" content="writing" level="1">Die Schlachtengemälde sind mit einer großen sinnlichen Wahrheit wiedergegeben</said>,
+       und so, daß sie trotz der Verschiedenartigkeit der indischen Cultur von der unsrigen uns grade
+       so lebendig werden, wie <said id="32" mode="reported" content="writing" level="1">die griechischen Heldensagen vom Trojanerkrieg</said> und <said id="33" mode="reported" content="writing" level="1">die deutschen von
+       der Völkerwanderung.</said>
+      Freilich hat bei der Darstellung von Heldenthaten jedes Volk eine eigne Weise
+       zu übertreiben, und die eine Kunstfertigkeit im Kriegshandwerk, die unzählige Male vorkommt,
+       wird alle deutschen Leser vor den Kopf stoßen.
+      Wenn nämlich ein Held auf einen geschickten Bogenschützen eine
+       Lanze wirft, so schießt sie dieser im Fluge mit einer Reihe von Pfeilen in Stücke, einmal
+       sogar in elf Stücke.
+     
+    
+   
+  
+ 
+
+</p>
+      </body>
+   </text>
+</TEI>
