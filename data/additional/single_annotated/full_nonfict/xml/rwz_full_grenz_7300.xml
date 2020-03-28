@@ -1,0 +1,574 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="resources/tei_rw_corpus_schema.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+       <fileDesc>
+         <titleStmt>
+            <title>Polnischer Monatsbericht.</title>
+             <author>Undefined</author>
+            <respStmt>
+               <resp></resp>
+               <name></name>
+            </respStmt>
+         </titleStmt>
+         <publicationStmt>
+            <distributor>www.redewiedergabe.de</distributor>
+         </publicationStmt>
+         <sourceDesc>
+            <bibl></bibl>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <text>
+      <fs type="metadata">
+         <f name="filename">grenzboten_341809_121220.txt_26.xml</f>
+         <f name="name">uranus</f>
+         <f name="year">1869</f>
+         <f name="decade">1860</f>
+         <f name="title">Polnischer Monatsbericht.</f>
+         <f name="author">Undefined</f>
+         <f name="fictional">no</f>
+         <f name="sample_id">0</f>
+         <f name="narrative">no</f>
+         <f name="text_type">Undefined</f>
+         <f name="source">grenz</f>
+         <f name="dialect">NA</f>
+         <f name="perspective">NA</f>
+         <f name="quotes">NA</f>
+      </fs>
+      <body>
+         <p>         
+
+   
+   
+      
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+         
+      
+      
+         
+            Polnischer Monatsbericht.
+                        
+            X
+                        
+            <said id="1" mode="reported" content="speech" level="1">Wenn <seg id="1" type="speaker">Regierungen</seg> und <seg id="1" type="speaker">Völker</seg> Europas vor zwanzig und vor dreißig
+                        Jahren nach den Neuigkeiten aus Paris <seg id="1" type="intExpr">fragten</seg></said>, so geschah das, weil der
+                        Lauf der Dinge in der französischen Hauptstadt auf die innere Entwickelung
+                        der übrigen Staaten Einfluß übte und <said id="2" mode="reported" content="thought" level="1" border="yes"><seg id="2" type="speaker">man</seg> von ihnen lernen zu können
+                        <seg id="2" type="intExpr">glaubte</seg>. </said>Heute hat dieselbe Frage eine wesentlich andere Bedeutung. <said id="3" mode="reported" content="speech" level="1"><seg id="3" type="speaker">Man</seg>
+                        <seg id="3" type="intExpr">wirst</seg> sie <seg id="3" type="intExpr">auf</seg>,</said> <seg id="4" type="frame" pos="start">weil <seg id="4" type="speaker">man</seg> <seg id="4" type="intExpr">wissen</seg> will,</seg> <said id="4" mode="indirect" content="thought" level="1" nonfact="yes">ob es mit der Verzweiflung der Franzosen an sich selbst, bereits so weit gekommen ist, daß sie nach einer auswärtigen Verwickelung greifen müssen, um ihren inneren Bankerott zu maskiren.</said>
+            Sieben Wochen sind seit den Hauptwahlen zum gesetzgebenden Körper
+                        Frankreichs vergangen <seg id="5" type="frame" pos="start">und noch immer <seg id="5" type="intExpr">gestehen</seg> die genausten <seg id="5" type="speaker">Kenner</seg> französischer Dinge achselzuckend <seg id="5" type="intExpr">ein</seg>,</seg> <said id="5" mode="indirect" content="thought" level="1">daß die Lage sich nicht übersehen lasse.</said>
+                        <seg id="6" type="frame" pos="start"><seg id="6 7" type="speaker">Charles de Mazade</seg> hat das Geheimniß dieser Lage <said id="7" mode="reported" content="speech" level="1">in ein kurzes aber treffendes <seg id="7" type="intExpr">Wort</seg></said> <seg id="6" type="intExpr">zusammengefaßt</seg>:</seg> <said id="6" mode="direct" content="speech" level="1">„I/adLönee ü'dominos capables as 5-6 wesurer
+                        avölz les oireoustg.i»</said>och&gt; Weder der Kaiser noch die Nation vermag Männer
+                        ausfindig zu machen, <seg id="8" type="frame" pos="start"><seg id="8" type="speaker">die</seg> genau <seg id="8" type="intExpr">wissen</seg>,</seg> <said id="8" mode="indirect" content="thought" level="1" border="yes">wie dem kranken Staat zu helfen ist</said>
+                        und deren Namen irgend geeignet wären das Vertrauen des Landes zu wecken.
+                        Die Hauptwahlen fielen im Sinne der extremen Parteien aus, <said id="9" mode="reported" content="writing" level="1"><seg id="9" type="speaker">die</seg> entweder
+                        blindes Vertrauen zu der kaiserlichen Regierung oder unversöhnliches Mißtrauen
+                        gegen dieselbe auf ihre Fahnen <seg id="9" type="intExpr">«/schrieben</seg> hatten</said>; die Nachwahlen zeigten,
+                        daß die <seg id="10" type="speaker">Franzosen</seg> vor den Consequenzen ihres eignen Willens zurückschreckten,
+                        sobald dieselben klar zu Tage lagen <said id="10" mode="reported" content="speech" level="1">und <seg id="10" type="intExpr">sprachen sich</seg> demgemäß im Sinne des
+                        gemäßigten Liberalismus und eines monarchischen Constitutionalismus <seg id="10" type="intExpr">aus</seg></said>; <said id="11" mode="reported" content="speech" level="1">die
+                        bisherige Opposition, die <seg id="11" type="speaker">man</seg> noch eben <seg id="11" type="intExpr">desavouirt</seg> hatte</said>, erhielt eine Art von
+                        Vertrauensvotum. Dann folgten jene halb revolutionären, halb kindischen Auftritte in den Straßen von Paris, welche einige Tage lang ganz Europa beschäftigten <said id="12" mode="reported" content="thought" level="1" nonfact="yes" border="yes">und dann <seg id="12" type="intExpr">vergessen</seg> wurden</said>, noch bevor man nur über ihren Ursprung und
+                        ihre Bedeutung ins Klare gekommen war. Alle Welt erwartete eine Meinungsäußerung darüber, <said id="13" mode="reported" content="thought" level="1">wie der <seg id="13" type="speaker">Kaiser</seg> die Lage <seg id="13" type="intExpr">auffaßte</seg></said>, <said id="14" mode="reported" content="speech" level="1" nonfact="yes">aber der <seg id="14" type="speaker">Kaiser</seg> <seg id="14" type="intExpr">schwieg</seg>
+                        hartnäckig</said> und <said id="15" mode="reported" content="speech" level="1">wenn <seg id="15 19 20" type="speaker">er</seg> <seg id="15" type="intExpr">sprach</seg></said>, <seg id="16" type="frame" pos="start">schien <seg id="16" type="speaker">er</seg> den Leuten <seg id="16" type="intExpr">sagen</seg> zu wollen:</seg> <said id="16" mode="direct" content="speech" level="1" nonfact="yes"><seg id="17" type="frame" pos="start"><seg id="17" type="speaker">Ich</seg>
+                         
+            
+            <seg id="17" type="intExpr">weiß</seg> selbst nicht,</seg> <said id="17" mode="indirect" content="thought" level="2" nonfact="yes" border="yes"><said id="18" mode="reported" content="thought" level="3" nonfact="yes">was <seg id="18" type="speaker">ich</seg> <seg id="18" type="intExpr">denken</seg> soll.</said></said></said> <said id="19" mode="reported" content="writing" level="1">Das <seg id="19" type="intExpr">Schreiben</seg> an den Baron Mackau.</said>
+                        eines der jüngsten und unbedeutendsten Mitglieder der bisherigen Majorität, ließ ein striktes Beharren bei dem bisherigen System und dessen
+                        Männern erwarten; <said id="20" mode="reported" content="writing" level="1">der <seg id="20" type="intExpr">Brief</seg> an den Präsidenten Schneider betonte dagegen
+                        das Gewicht, welches der Kaiser auf <said id="21" mode="reported" content="thought" level="2">die <seg id="21" type="intExpr">Meinung</seg> des gesetzgebenden <seg id="21" type="speaker">Körpers</seg></said>
+                        legte.</said> Dann erfolgte der Zusammentritt dieses Körpers und <said id="22" mode="reported" content="speech writing" level="1">eine wilde
+                        Fluth von <seg id="22" type="intExpr">Drohungen</seg> und <seg id="22" type="intExpr">Unzufriedenheitsäußerungen'</seg> ergoß sich über die
+                        Regierung</said>, welche trotz der verwerflichen und unredlichen Mittel, die sie
+                        beim Wahlkampf angewandt hatte, moralisch unterlegen war. Das Gefühl,
+                        daß es in der bisherigen Weise nicht fortgehen könne und daß eine Entscheidung, eine verhängnisvolle Krisis des inneren Staatslebens bevorstehe, bemächtigt sich aller Theile der zu den Wahlprüfungen einberufenen Volksvertretung. Bis in die Reihen der Majorität greift die Furcht um sich,
+                        hinter den Verhältnissen zurückzubleiben, <said id="23" mode="reported" content="thought" level="1" nonfact="yes">von deren Entwickelung sich doch
+                        <seg id="23" type="speaker">Niemand</seg> eine deutliche <seg id="23" type="intExpr">Vorstellung</seg> machen kann</said> und denen Niemand gewachsen ist. Die Tiers-Partei bringt eine Jnterpellation ein, welche Verantwortlichkeit der Minister verlangt; nach einem Augenblick <said id="24" mode="reported" content="speech" level="1" nonfact="yes">verlegenen
+                        <seg id="24" type="intExpr">Schweigens</seg></said> <said id="25" mode="reported" content="speech" level="1"><seg id="25" type="intExpr">drängt</seg> <seg id="25" type="speaker">man</seg> sich von allen Seiten zur <seg id="26" type="intExpr"><said id="26" mode="reported" content="writing" level="2" nonfact="yes">Unterzeichnung</said></seg> derselben</said>,
+                        selbst die Majorität wird mit fortgerissen und identificirt sich mit einem
+                        Verlangen, welches über dieselbe Politik, zu der sie sich bisher bekannt hatte,
+                        rücksichtslos und unbarmherzig den Stab bricht. <said id="27" mode="reported" content="writing" level="1"><said id="28" mode="reported" content="speech" level="2"><seg id="27 28" type="speaker">Herr von Mackau</seg>, der
+                        Musterdeputirte von Vorgestern, der Mann, den der Kaiser zum Zeugen für
+                        die Nothwendigkeit seiner Unnachgiebigkeit <seg id="28" type="intExpr">aufgerufen</seg> hatte</said>, <seg id="27" type="intExpr">unterschreibt</seg></said>, <said id="29" mode="reported" content="writing" level="1">der
+                        <seg id="29" type="speaker">Herzog von Mouchy</seg> <seg id="29" type="intExpr">unterschreibt</seg> auch </said>und ihnen folgt eine ganze Anzahl von
+                        Leuten, die eingestandener Maaßen die Wetterfahne zum Regulator ihrer
+                        Handlungen und Meinungen gemacht hat. Die Regierung, deren Weisheit
+                        bisher darin bestanden hatte, leise Winke zu ignoriren und es zum Aeußersten
+                        kommen zu lassen, <said id="30" mode="reported" content="thought" level="1">ehe <seg id="30" type="speaker">sie</seg> von ihrer vorgefaßten <seg id="30" type="intExpr">Meinung</seg> abgeht</said>, — die
+                        Regierung wartet nicht einmal ab, daß diese Jnterpellation der Kammer übergeben und nach förmlicher Constituirung derselben in den Bureaus geprüft wird; <said id="31" mode="reported" content="speech" level="1"><seg id="31 33" type="speaker">sie</seg> <seg id="31" type="intExpr">antwortet</seg></said>, <said id="32" mode="reported" content="speech" level="1" nonfact="yes">noch bevor sie eigentlich <seg id="32" type="intExpr">gefragt</seg>
+                        worden ist,</said> <said id="33" mode="reported" content="speech" level="1">und antwortet mit einer ganzen Reihe von <seg id="33" type="intExpr">Zugeständnissen</seg></said>,
+                        die sowohl den Einfluß des gesetzgebenden Körpers auf, die Staatsverwaltung erhöhen, als dem Selbstgefühl des Hauses genug thun sollen.
+                        Während ganz Paris unter dem Eindruck <said id="34" mode="reported" content="speech writing" level="1">dieser <seg id="34" type="speaker">kaiserlichen</seg> <seg id="34" type="intExpr">Botschaft</seg></said>
+                        steht, die verschiedensten Ansichten über dieselbe abgegeben werden, die
+                        öffentliche Meinung sich noch nicht geklärt hat, heißt es bereits, daß das alte
+                        Cabinet in voller Auflösung begriffen sei und daß der Kaiser sich nach neuen
+                        Rathgebern umsehe. <said id="35" mode="reported" content="speech" level="1" nonfact="yes">Den Grund dieser Eile weiß <seg id="35" type="speaker">Niemand</seg> <seg id="35" type="intExpr">anzugeben</seg></said>, denn
+                        noch sind die Wahlprüfungen nicht beendet, noch ist die neue Kammer nicht
+                         
+            
+            constituirt, noch <said id="36" mode="reported" content="speech writing" level="1">sind die <seg id="36" type="speaker">kaiserlichen</seg> <seg id="36" type="intExpr">Zugeständnisse</seg></said> nicht an den Senat gegangen, der diese Verfassungsänderungen begutachten und registriren soll. Noch
+                        mühen Journale und parlamentarische Clubbs sich mit der Aufstellung mehr
+                        oder minder unwahrscheinlicher Ministerlisten ab und schon steht eine neue'
+                        Ueberraschung vor der Thür: <said id="37" mode="reported" content="writing" level="1">das officielle <seg id="37" type="speaker">Journal</seg> <seg id="37" type="intExpr">kündigt</seg> die Vertagung der Kammer so brüsk und so unerwartet <seg id="37" type="intExpr">an</seg></said>, daß nicht nur <said id="38" mode="reported" content="speech" level="1">die
+                        <seg id="38" type="speaker">Opposition</seg> zu leidenschaftlichen <seg id="38" type="intExpr">Aeußerungen</seg> des Aergers und der Unzufriedenheit</said> gedrängt wird, sondern selbst hoch kaiserliche Arkadier aus
+                        ihrer Verstimmung kein Hehl machen. Die fünfundfünfzig ungeprüft gebliebenen Mandate gehören meist den Gliedern dieser Partei an und der
+                        <seg id="39" type="speaker">Kaiser</seg> muß dieselben in sein Haus laden, um sie <said id="39" mode="reported" content="speech" level="1">durch persönlichen <seg id="39" type="intExpr">Zuspruch</seg></said>
+                        zu begütigen. Statt der Pause, die nach dieser athemlosen Hast gouvernementaler Entschließungen von allen Seiten erwartet wird, erfolgt endlich die
+                        Bildung des neuen Cabinets! Und dabei sind die zahlreichen Zwischenfälle
+                        und Episoden, welche auf kaiserliche Berathungen mit Staatsmännern der einen
+                        und der anderen Richtung kommen, nicht einmal mitgezählt.
+            Die widerspruchsvollen Maaßregeln der Regierung sind einander so rasch
+                        gefolgt, daß Urtheile über ihr Facit bis jetzt noch nicht gefällt worden sind,
+                        ja eigentlich auch nicht gefällt werden konnten. Der alte Thiers hatte ganz
+                        Recht, <seg id="40" type="frame" pos="start">wenn <seg id="40" type="speaker">er</seg> <seg id="40" type="intExpr">behauptete</seg>,</seg> <said id="40" mode="indirect" content="speech" level="1">die Situation in den Tuilerien habe sich alle
+                        zwei Stunden verändert und <said id="41" mode="reported" content="writing" level="2">eine <seg id="41" type="intExpr">Nachricht</seg> über die Lage</said>, wie sie morgens
+                        um zehn Uhr gewesen, sei um zwölf Uhr veraltet, um zwei Uhr Nachmittags bereits vergessen.</said> Gegenwärtig steht die Zusammensetzung des neuen
+                        Cabinets im Mittelpunkt der allgemeinen Aufmerksamkeit und in der That
+                        ist sie geeigneter zals alles Uebrige, um die Stellung der Regierung zu
+                        charakterisiren.
+            <said id="42" mode="reported" content="writing" level="1">Die <seg id="42" type="speaker">kaiserliche</seg> <seg id="42" type="intExpr">Botschaft</seg></said> verleiht der Volksvertretung eine Reihe neuer
+                        Rechte, deren relativer Werth von allen Seiten und namentlich von der englischen Presse anerkannt worden ist. In Frankreich hat man das Hauptgewicht auf die Bestimmung gelegt, welche die Vereinbarkeit des Ministerpostens mit der parlamentarischen Thätigkeit ausspricht und von der man
+                        auf die Wahrscheinlichkeit oder doch Möglichkeit eines constitutionellen Majoritätenregiments schloß. Wir lassen ununtersucht, ob und in wie weit ein
+                        solches für Frankreich heilsam wäre — <said id="43" mode="reported" content="thought" level="1" nonfact="yes">daß der <seg id="43" type="speaker">Kaiser</seg> daran noch nicht <seg id="43" type="intExpr">gedacht</seg>
+                        hat.</said> ist zweifellos. Die Spannung, mit der die Franzosen der Bildung des
+                        neuen Cabinets entgegensahen, beweist sogar, <seg id="44" type="frame" pos="start">daß <seg id="44" type="speaker">sie</seg> selbst sehr genau <seg id="44" type="intExpr">wußten</seg>,</seg>
+                        <said id="44" mode="indirect" content="thought" level="1" border="yes">die Ministerliste werde nicht aus der Majorität, sondern aus der kaiserlichen
+                        Willkür hervorgehen.</said> Steht die Sache doch überhaupt so, daß die Bedeutung der
+                        gegenwärtigen Krisis, nicht sowohl darin besteht, ob und in wie weit das neue
+                        System einen constitutionellen Charakter erhält, sondern darin, daß mit dem alten
+                         
+            
+            System des rein persönlichen Regiments gebrochen worden ist und daß der Kaiser
+                        die Nothwendigkeit einer Annäherung an <said id="45" mode="reported" content="thought" level="1">die <seg id="45" type="intExpr">Wünsche</seg> der liberalen <seg id="45" type="speaker">Majorität</seg></said>
+                        anerkannt hat. Darauf was im Einzelnen geschieht, kommt es zunächst noch
+                        nicht an, die Hauptsache ist. daß das zweite Kaiserthum überhaupt den Cours
+                        gewechselt und neuen Händen das Staatsruder anvertraut hat.
+            Die Wahl die der Kaiser getroffen, hat das Vertrauen zu der neuen
+                        Wendung der französischen Dinge nicht gehoben. Die Ministerliste besteht
+                        aus einer Anzahl bisheriger Bureauchefs und den Namen wenig populairer
+                        Glieder der zur Tiers - Partei neigenden konservativen Schattirung. Befremdend ist zunächst die Ostentation, mit welcher der Kaiser ein völlig neues
+                        Cabinet geschaffen: warum Lavalette dem Fürsten de la Tour d'Auvergne
+                        Platz machen, statt Duruy's, ein untergeordneter Gesinnungsgenosse dieses
+                        Unterrichtsministers eintreten mußte, ist um so weniger abzusehen, als Niet
+                        im Amte blieb und von andern Gliedern des neuen Cabinets bekannt ist.
+                        daß Nouher sie empfohlen hat. Es liegt der Verdacht nah. daß die fast vollständige Neubildung des Ministeriums ein auf die französische Nationaleitelkeit berechnetes Effectstück war, und daß das alte Cabinet nach dem Austritt
+                        Rouher's im Grunde dieselbe Bedeutung gehabt hätte, wie diese neue Rathgeberschaft des Kaisers. Weder Herr Leroux, noch der Unterrichtsminister Bourbeau,
+                        weder Chasseloup-Laubat noch der hochbetagte Düvergier lassen irgend errathen, auf welches neue Ziel der Kaiser lossteuert <said id="46" mode="reported" content="thought" level="1">und in wie weit <seg id="46" type="speaker">er</seg> an
+                        neue Mittel zur Befestigung seiner Regierung <seg id="46" type="intExpr">denkt</seg>.</said> Nach wie vor herrscht
+                        in dieser Beziehung Ungewißheit — <seg id="47" type="frame" pos="start">das Einzige, <seg id="47" type="speaker">was</seg> man positiv <seg id="47" type="intExpr">weiß</seg>, ist,</seg>
+                        <said id="47" mode="indirect" content="thought" level="1" border="yes">daß die beliebten Verfassungsänderungen ernst genug gemeint sind, um nicht
+                        in Rouher's Hände gelegt zu werden und daß <said id="48" mode="reported" content="thought" level="2">der <seg id="48" type="speaker">Kaiser</seg> den Ausfall der
+                        letzten Wahlen <seg id="48" type="intExpr">für</seg> das Symptom einer veränderten Volksstimmung <seg id="48" type="intExpr">ansieht</seg>.</said></said>
+            In Paris tröstet man sich damit, daß das neue Ministerium nur ein
+                        Uebergangscabinet sei, dem ein liberaleres folgen werde. Als ob es mit dem
+                        Mehr oder Minder von Liberalismus gethan wäre und <seg id="49" type="frame" pos="start">als ob irgend ein
+                        Grund zu der <seg id="49" type="intExpr">Annahme</seg> vorläge,</seg> <said id="49" mode="indirect" content="thought" level="1" nonfact="yes">daß der Kaiser weiter zu gehen Willens
+                        sei, als er bereits gegangen!</said> Wo ist der Mann, wo ist die Partei, von
+                        der erwartet werden könnte, sie vermöge Frankreich aus der Rathlostgkeit zu
+                        reißen, in welche dieses Land gerathen ist, nachdem es fast die ganze Speisekarte möglicher Staatsformen durchgekostet hat? <seg id="50" type="frame" pos="start">Selbst am Vorabende ihres
+                        Bankerotts kann die kaiserliche <seg id="50" type="speaker">Regierung</seg> getrost <seg id="50" type="intExpr">fragen</seg>,</seg> <said id="50" mode="indirect" content="speech" level="1" nonfact="yes">wer unter den lebenden Politikern Frankreichs mit dem Volk, das nach der Revolution von 1848
+                        sich selbst aufgegeben hatte, weiter gekommen wäre als sie</said>, und so heillos
+                        der gegenwärtige Zustand auch ist— <said id="51" mode="reported" content="speech" level="1" nonfact="yes">sie braucht die <seg id="51" type="speaker">Antwort</seg> nicht zu <seg id="51" type="intExpr">scheuen</seg>.</said>
+                        Nicht darin besteht die Schwierigkeit, daß die Regierung nicht zu den Maaßregeln gebracht werden kann, von denen das Land seine politische Gesundung
+                         
+            
+            erwartet, sondern dann, daß es kein Programm gibt, welches das öffentliche
+                        Vertrauen hat, keinen Mann, dem man die Fähigkeit zur Durchführung eines
+                        solchen zutraut. Vielleicht noch niemals ist eine liberale Oppositionspartei
+                        von der Masse des französischen Volks so kühl und ablehnend behandelt worden,
+                        wie die gegenwärtige Linke und der sinkende Credit des alten Regimes hat
+                        mit den Fortschritten der Opposition nur sehr wenig zu thun gehabt. Die
+                        Ereignisse der letzten Tage haben nicht wenig dazu beigetragen die ganze
+                        Lahmheit, Zerfahrenheit und Ueberzeugungslosigkeit dieser Partei bloszulegen, welche eigentlich nur von den Mißgriffen der Rouher und Hausmann, nicht von ihrem eigenen Programm gelebt hat, Picard hat sich von
+                        der Majorität seiner Genossen getrennt, die beabsichtigte Parteikundgebung
+                        hat unterbleiben müssen und der innere Bruch zwischen der Linken und der
+                        äußersten Linken ist nur mühsam verkleistert worden. Daß das nicht dazu
+                        beitragen kann, die dem Kaiser imputirten parlamentarischen Absichten zu
+                        stärken, werden selbst die Optimisten einräumen müssen, welche bereits von heilsamen Einflüssen der neusten französischen Krisis aus die übrigen europäischen
+                        Staaten und namentlich auf Deutschland träumten.
+            Ziemlich gleichzeitig <said id="52" mode="reported" content="writing" level="1">mit der <seg id="52" type="speaker">kaiserlichen</seg> <seg id="52" type="intExpr">Botschaft</seg> an den gesetzgebenden
+                        Körper </said>wurde der <said id="53" mode="reported" content="writing" level="1"><seg id="53" type="intExpr">Rechenschaftsbericht</seg> der belgisch-französischen <seg id="53" type="speaker">Eisenbahncommission</seg></said> veröffentlicht. Außer der Erlaubniß zur Errichtung von Transitzügen (Basel-Antwerpen und Basel-Rotterdam-Amsterdam) hat die französische Ostbahncompagnie keine wesentlichen Errungenschaften zu registriren gehabt, und diese Angelegenheit, die wochenlang von sich reden machte,
+                        ist vor der Hand von der Tagesordnung abgesetzt. Dafür, daß sie zu gelegener Zeit wieder hervorgeholt werden kann, haben die gleichzeitig veröffentlichten Entwürfe für künftig abzuschließende Verträge mit der belgischen
+                        Staatsbahn und der Compagnie Lüttich-Limburg gesorgt und trotz ihrer
+                        Beschäftigung mit den brennenden Tagesfragen der Heimath <said id="54" mode="reported" content="writing" level="1">hat die <seg id="54 55" type="speaker">Pariser
+                        Presse</seg> Zeit gehabt, die Holländer bei Veröffentlichung dieser Actenstücke vor
+                        den Plänen preußisch-deutschen Ehrgeizes zu <seg id="54" type="intExpr">warnen</seg></said> <said id="55" mode="reported" content="writing" level="1">und zum Anschluß an
+                        die Politik der großen Nation <seg id="55" type="intExpr">einzuladen</seg>.</said> — Ein bleibendes Interesse ist der
+                        geschlossenen Phase der belgisch-französischen Eisenbahnverhandlungen übrigens
+                        schon gegenwärtig gesichert. In Berlin und London wird man der freundlichen Theilnahme eingedenk bleiben, die Graf Beust den Brüsseler Staatsmännern bewiesen hat, als Frere-Orbans Verhalten im belgischen Parlament
+                        den wilden Sturm französischer Drohungen hinaufbeschwor. Dieses kleine
+                        Capitel aus der Geschichte der k. k. auswärtigen Politik ist lehrreicher, als
+                        es die Lektüre ganzer Bände von Wiener Rothbüchern sein kann, es gibt
+                        den besten Commentar zu jenen Versicherungen unerschütterlicher Friedensliebe ab, welche auch in diesem Monat ihre Runde durch die Zeitungen mach 
+            
+            ten. <said id="56" mode="reported" content="thought" level="1">Die stillen <seg id="56" type="intExpr">Wünsche</seg> des <seg id="56" type="speaker">Reichskanzlers</seg> für das Zustandekommen des
+                        Südbundes</said>, <said id="57" mode="reported" content="writing" level="1">die in der neuesten Sammlung diplomatischer <seg id="57" type="speaker">Actenstücke</seg> ausdrücklich
+                        <seg id="57" type="intExpr">zugestanden</seg> werden</said> <seg id="59" type="frame" pos="start">und die k. k. <seg id="59" type="speaker">Beurtheilung</seg> der belgisch-französischen Wechselbeziehungen haben zum Ueberfluß <seg id="59" type="intExpr">bestätigt</seg>, <said id="58" mode="reported" content="thought" level="1" border="yes">was unbefangene <seg id="58" type="speaker">Zuschauer</seg> der
+                        neuesten östreichischen Aera längst <seg id="58" type="intExpr">wußten</seg></said>:</seg> <said id="59" mode="indirect" content="writing" level="1">daß des Grafen Beust sogenannte
+                        liberale innere Politik nur Mittel zum Zweck ist und daß Oestreich die erste
+                        sich ihm darbietende Gelegenheit benutzen wird, um genau da anzuknüpfen,
+                        wo es im Jahre 1866 stehen blieb.</said> <said id="60" mode="reported" content="thought" level="1" border="yes">Nirgend scheint <seg id="60" type="speaker">man</seg> das genauer zu
+                        <seg id="60" type="intExpr">wissen</seg> wie in Ungarn</said>, wo man den <said id="62" mode="reported" content="thought" level="1"><seg id="62" type="intExpr">Friedenswünschen</seg> der <seg id="61 62" type="speaker">Wiener Negierung</seg></said>
+                        auch neuerdings wieder die richtige Auslegung gegeben hat. <said id="61" mode="direct" content="writing" level="1">„Noch haben wir
+                        den Frieden nöthig."</said>
+                         
+            Seit dem Schluß des ungarischen <seg id="63" type="speaker">Landtags</seg> <said id="63" mode="reported" content="speech" level="1">und jener leidenschaftlichen
+                        <seg id="63" type="intExpr">Debatten</seg> über den Entwurf zur Umgestaltung der Rechtspflege</said>, welche die
+                        Stellung des Justizministers Hvrvath zu erschüttern Miene machten, stehen die
+                        Vorgänge in den slavischen Ländern des Kaiserstaats wieder im Mittelpunkt
+                        der Interessen. Die vielbesprochene Angelegenheit des Bischofs von Linz
+                        hat durch eine mit der Verurtheilung beinahe gleichzeitige Begnadigung dieses Prälaten unerwartet raschen Abschluß gefunden <seg id="64" type="frame" pos="start">und von den Verhandlungen der Delegationen <seg id="64" type="intExpr">weiß</seg> <seg id="64" type="speaker">man</seg> wenig mehr,</seg> <said id="64" mode="indirect" content="thought" level="1" border="yes">als daß das um 6—7 Mill.
+                        Gulden erhöhte Kriegsbudget den wichtigsten Punkt derselben bilden wird.</said>
+                        Wenn es wahr ist, daß die Ausschüsse der beiden parlamentarischen Körper
+                        die Erhöhung der Osfiziersgehalte und die Verpflegungssummen ihrem ganzen
+                        Umfange nach zu bewilligen entschlossen sind, so ist der übrig bleibende
+                        Spielraum für Streichungen ein verschwindend geringer und das auf vier
+                        Millionen berechnete Deficit für 1870 unvermeidlich. — Mindestens in einem
+                        großen Theil der Monarchie wird Fragen dieser Art aber ebenso gleichgiltig
+                        zugesehen, wie allen übrigen Dingen, welche das Interesse des Gesammtstaats
+                        berühren; namentlich in den von Slaven bewohnten Grenzländern werden
+                        die nationalen Händel und Eifersüchteleien allen übrigen Rücksichten vorgesetzt.
+                        In Böhmen versucht man es, die utraquistischen Traditionen des Czechenthums durch eine Gedächtnißfeier zu Ehren Johann Huß's aufzuwärmen, ein
+                        Bestreben, dem der russische Panslavismus mit besonderer Befriedigung zusieht, weil ihm die „Entkatholisirung" des czechischen Königreichs eine der
+                        wesentlichsten Bedingungen zur Herstellung eines wahrhaft slavischen Programms bedeutet. In Galizien hat die Bestattung der Gebeine Kasimirs
+                        des Großen eine ungewöhnliche Erregung der polnischen Gemüther hervorgerufen, natürlich aber zu gleicher Zeit den Polenhaß der Ruthenen unter
+                        die Waffen gerufen. Vergebens müht die von dem Schwärmer Smolka geführte polnische Demokratie sich ab, eine Verständigung mit den russischen
+                        Stimmführern zu bewirken — in der slavischen Welt sind nationale und
+                         
+            
+            religiöse Instincte, nicht Principien durchschlagend <said id="65" mode="reported" content="writing" level="1" nonfact="yes">und die Vergeblichkeitder Smolkaschen Rundreise durch die ostgalizischen Städte kann schon
+                        gegenwärtig für <seg id="65" type="intExpr">unterschrieben</seg> gelten.</said> — An der Südgrenze der ungarischöstreichischen Monarchie, in Serbien, hat die <seg id="66" type="speaker">Volksvertretung</seg> eine neue Verfassung votirt, die sogleich eingeführt worden ist. <said id="66" mode="reported" content="speech" level="1">Die <seg id="66" type="intExpr">Verhandlungen</seg> sind
+                        dieses Mal stiller und discreter geführt worden</said>, als früher, wo die Skuptschina es in der Regel für ihre Hauptaufgabe hielt, möglichst viel nationalen
+                        Staub aufzuwirbeln, die Aufmerksamkeit der in den beiden Nachbarstaaten
+                        lebenden Serben zu erregen und der Welt zu beweisen, daß der großserbische
+                        Gedanke nicht aufgegeben, sondern nur vertagt sei. Die gegenwärtige Regierung scheint ein anderes Programm befolgen und sich auf ihre häuslichen
+                        Angelegenheiten beschränken zu wollen; seit sie die Führung der Geschäfte
+                        übernommen, sind die Besorgnisse verstummt, welche noch vor anderthalb
+                        Jahren weit verbreitet waren und in Constantinopel besonders ernst genommen wurden.
+            Auch in Rumänien ist seit dem mißglückter Attentat auf den Minister
+                        Cogolnitscheano die Ruhe nicht wieder gestört worden. Seit der Pariser
+                        Conferenz hat die Pforte sich auf ihrem eigenen Gebiet wie in den
+                        europäischen Vasallenstaaten überhaupt einer Ruhe zu erfreuen gehabt, wie
+                        sie ihr lange nicht zu Theil geworden war. <said id="67" mode="reported" content="writing" level="1">Auch der griechisch-bulgarische
+                        Kirchenstreit hat nach den neuesten <seg id="67" type="speaker">russischen</seg> <seg id="67" type="intExpr">Nachrichten</seg> eine Wendung genommen, wie sie der Regierung des Sultans nur erwünscht sein kann.</said> Bekanntlich nähren die <seg id="68" type="speaker">Bulgaren</seg> schon lange <said id="68" mode="reported" content="thought" level="1">den <seg id="68" type="intExpr">Wunsch</seg> der Unterordnung
+                        unter die griechische Kirche und Geistlichkeit</said>, welcher sie sich seit Jahrhunderten fügen mußten, ledig zu werden; sie verlangen, <said id="69" mode="reported" content="speech" level="1" nonfact="yes">daß der Gottesdienst ausschließlich in ihrer <seg id="69" type="intExpr">Sprache</seg> gehalten werde</said>, daß sie ihre Geistlichen selbst
+                        wählen dürfen, daß in den von ihnen bewohnten Bezirken die Bischöfe von
+                        einer bulgarischen Synode und zwar aus der specifisch bulgarischen Geistlichkeit
+                        ernannt und bloß durch den Sultan (nicht den Patriarchen) bestätigt werden
+                        sollen u. s. w. — kurz, vollständige Emancipation und Gleichstellung mit den
+                        Griechen. Diese Vorschläge wurden von dem Patriarchen Gregorius von
+                        Constantinopel verworfen, obgleich die türkische <seg id="70" type="speaker">Regierung</seg> dieselben moralisch
+                        unterstützt <said id="70" mode="reported" content="speech" level="1">und ihre Annahme <seg id="70" type="intExpr">empfohlen</seg> hatte.</said> Natürlich wurden bulgarischer Seits die Gegenvorschläge des Patriarchen gleichfalls verworfen und die
+                        Spannung der Gemüther erreichte einen so hohen Grad, daß in den bulgarischen Kirchen bereits für den Sultan, als den Befreier des Bulgarenvolkes von
+                        dem griechischen Joche gebetet wurde. In dieser Verlegenheit und aus Aerger
+                        über die Parteinahme der Pforte für die bulgarische Sache, wandte der Patriarch
+                        sich auf den Rath des russischen G esandten Jgnatjew an, die höchste
+                        russische Kirchenbehörde, den spröd zu Petersburg, um derselben die Ein 
+            
+            berufung eines griechisch-rechtgläubigen Concils vorzuschlagen und diesem die
+                        Erledigung des griechisch-bulgarischen Kirchenstreits anheim zu stellen. <said id="71" mode="reported" content="speech" level="1" nonfact="yes">Der
+                        <seg id="71" type="speaker">spröd</seg> (dessen Abhängigkeit von der Regierung, beziehungsweise seinem vom
+                        Kaiser ernannten Oberprocureur ^gegenwärtig der Unterrichtsminister Graf
+                        Tolstoy) notorisch ist) schwankte längere Zeit mit seiner <seg id="71" type="intExpr">Antwort</seg></said>; fiel dieselbe
+                        im Sinne des Patriarchen aus, so konnten der Pforte ernsthafte Verlegenheiten bereitet werden, denn die pcmslavistischen Wortführer waren längst darüber
+                        einig, daß das Concil nur in Rußland und zwar in Kiew, der Wiege der russischen Kirche, abgehalten werden dürfe und daß diese Gelegenheit im Sinne
+                        und Interesse des orientalischen Christenthums ausgebeutet werden müsse.
+            Aber dieser Kelch ist an Abdul-Aziz und dessen Ministern glücklich vorübergegangen. <said id="72" mode="reported" content="speech" level="1">In seiner neuerdings erfolgten <seg id="72" type="intExpr">Antwort</seg> <said id="73" mode="reported" content="speech" level="2">spricht der russische
+                        <seg id="73 72" type="speaker">spröd</seg> sich wider Erwarten gegen die Wünsche Jgnatjews und des Patriarchen aus</said></said>; <said id="75" mode="indirect" content="speech" level="1">das Concil</said> <seg id="75" type="frame" pos="mid">— so heißt es in der <seg id="75" type="intExpr">Antwort</seg> —</seg> <said id="75" mode="indirect" content="speech" level="1">sei zur Zeit nicht
+                        rathsam, da dasselbe für den Fall bulgarischer Unnachgiebigkeit zu einer Kirchenspaltung führen könne, <said id="76" mode="reported" content="speech" level="2" nonfact="yes">der <seg id="76" type="speaker">Patriarch</seg> möge darum nicht müde werden, mit
+                        den Bulgaren in versöhnlicher Weise zu <seg id="76" type="intExpr">unterhandeln</seg></said> u. f. w.</said> Da auch
+                        die <seg id="77" type="speaker">Bulgaren</seg> sich<said id="77" mode="reported" content="thought" level="1"> mit dem <seg id="77" type="intExpr">Gedanken</seg> einer Entscheidung durch das zu berufende allgemeine Concil</said> einverstanden erklärt hatten und die Zustimmung
+                        der griechisch-orthodoxen Synoden von Athen. Belgrad, Bukarest und Karlowitz ohne große Mühe zu beschaffen gewesen wären, so lag die Sache ausschließlich in der Hand Rußlands und der Sultan hat allen Grund, mit der
+                        vorläufigen Ablehnung der Petersburger Oberkirchenbehörde zufrieden zu
+                        sein. — Die Streitigkeiten der Pforte mit dem Vicekönig von Aegypten
+                        sind dagegen noch nicht ausgeglichen. Der Sultan sieht in den von Aegypten
+                        projectirten Handelsverträgen ebenso eine Verletzung des Einsetzungs-Fermans,
+                        wie in jenen Einladungen zur Eröffnung des Suezkanals, <said id="78" mode="reported" content="writing" level="1">welche das „<seg id="78" type="speaker">Journal de Turquie</seg>" als ungiltig und unberechtigt <seg id="78" type="intExpr">bezeichnet</seg> hat.</said> <said id="79" mode="reported" content="thought" level="1">Der <seg id="79" type="intExpr">Entschluß</seg> der <seg id="79" type="speaker">Pforte</seg>, die Aufhebung der Capitulationen auf dem einen oder
+                        dem anderen Wege durchzusetzen</said>, scheint trotz der bekannten Abneigung
+                        Rußlands gegen den bloßen Gedanken an eine solche Concession, ernstlich gefaßt zu sein; <said id="80" mode="reported" content="writing" level="1">die türkische <seg id="80" type="speaker">Denkschrift</seg>, welche die UnHaltbarkeit des
+                        gegenwärtigen Zustandes ausführlich <seg id="80" type="intExpr">erörtert</seg></said>, ist den Großmächten bereits übergeben und hat alle Aussicht, wenigstens von Oestreich und
+                        England berücksichtigt zu werden. Von analogen neueren Schritten des
+                        <seg id="81" type="speaker">Vicekönigs</seg>, der die Abschaffung der Consulargerichtsbarkeit gleichfalls seit
+                        längerer Zeit betreibt <said id="81" mode="reported" content="thought" level="1">und besonderes <seg id="81" type="intExpr">Interesse</seg> daran hat, der Pforte
+                        den Vorsprung abzugewinnen</said>, — ist in letzter Zeit Nichts bekannt geworden. Bei der Abhängigkeit des Khedive von dem Wohl- oder Uebelwollen der Westmächte, ist übrigens wenig wahrscheinlich, daß die Differenzen
+                         
+            
+            zwischen diesem und der Regierung von Constantinopel größere Proportionen
+                        gewinnen und die Sicherheit der Pforte stören.
+            <said id="82" mode="reported" content="speech" level="1">Während die Lage der orientalischen Dinge in früherer Zeit regelmäßig
+                        den Gegenstand von ausführlichen <seg id="82" type="intExpr">Debatten</seg> im englischen <seg id="82" type="speaker">Parlament</seg> bildete</said>,
+                        ist sie dieses Mal unerörtert geblieben. <said id="83" mode="reported" content="speech" level="1">Dafür hat der <seg id="83 84" type="speaker">brittische Premier</seg> sich
+                        ausführlicher als bisher über Englands Stellung zur Ausbreitung der russischen Macht in Mittelasien <seg id="83" type="intExpr">ausgesprochen</seg></said> und durch <seg id="84" type="frame" pos="start">seine <seg id="84" type="intExpr">Aeußerung</seg></seg>, <said id="84" mode="indirect" content="speech" level="1">daß
+                        <said id="85" mode="reported" content="thought" level="2" nonfact="yes">an einen Conflict zwischen den beiden großen Staaten zunächst und wahrscheinlich noch für viele Jahre nicht zu <seg id="85" type="intExpr">denken</seg> sei</said></said>, einen Theil der Besorgnisse widerlegt, welche bisher an dieselbe geknüpft wurden. In Rußland, wo
+                        man den Beziehungen Lord Mayos zu Afghanistan mit Mißtrauen zugesehen
+                        und von dem neuen Generalgouvemeur Ostindiens eine entschieden antirussische Politik erwartet hatte, haben <said id="86" mode="reported" content="speech" level="1">die von <seg id="86" type="speaker">Gladstone</seg> gesprochenen <seg id="86" type="intExpr">Worte</seg></said>
+                        um so angenehmer berührt, als sie ziemli'es unerwartet kamen; freilich hat
+                        eines der Organe der Moskaner Presse die hämische Bemerkung nicht unterdrücken können, daß <said id="87" mode="reported" content="speech" level="1"><seg id="87" type="speaker">Englands</seg> friedliche <seg id="87" type="intExpr">Sprache</seg> gegen Rußland</said> wahrscheinlich mit der Alabama-Angelegenheit in engem Zusammenhange stehe. <said id="88" mode="reported" content="speech" level="1" nonfact="yes">Zur
+                        Zeit will <seg id="88" type="speaker">man</seg> übrigens von auswärtigen Verwickelungen in Rußland noch
+                        weniger <seg id="88" type="intExpr">hören</seg>, als in England.</said> Die nationale Partei fürchtet durch einen
+                        Krieg ihren Einfluß beschränkt und die Regierung von den „nationalen"
+                        Zielen abgelenkt zu sehen, auf-deren Erreichung mit aller Macht hingearbeitet
+                        wird. Dieses Ziel ist nach wie vor die Ausrottung aller westeuropäischen
+                        Einflüsse in den Grenzprovinzen, den polnischen wie den deutschen, und nimmt
+                        alle disponiblen politischen Kräfte reichlich in Anspruch. Der Kampf gegen
+                        die katholische Kirche in Polen und Litthauen wird immer schwieriger und
+                        gefährlicher, <said id="89" mode="reported" content="speech" level="1">denn nachgerade haben alle <seg id="89" type="speaker">Würdenträger</seg> dieser Kirche dem
+                        Petersburger katholischen Consistorium den Dienst <seg id="89" type="intExpr">aufgesagt</seg></said>; dieses Consistorium
+                        hat seinerseits wiederum gegen die von Moskau her andrängende nationale
+                        Partei einen schwierigen Stand, <seg id="90" type="frame" pos="start">denn <seg id="90" type="speaker">diese</seg> kann ihm nicht <seg id="90" type="intExpr">vergessen</seg>,</seg> <said id="90" mode="indirect" content="thought" level="1" nonfact="yes" border="yes">daß es
+                        der projectirten Einführung der russischen Sprache in die katholischen Gottesdienste Litthauens Schwierigkeiten in den Weg gelegt und dieselbe widerrathen hat.</said> So lange diese Maaßregel aber nicht durchgeführt ist, fehlt der
+                        Russification der Schule in Litthauen jeder feste Boden und wollen die neuen
+                        Schulordnungen Nichts sagen; das eigentliche Volk sieht die Schule nur als ein
+                        Filial der Kirche an und <said id="91" mode="reported" content="thought" level="1">die von <seg id="91" type="speaker">dieser</seg> <seg id="91" type="intExpr">gesprochene</seg> Sprache</said> ist ihm die maaßgebende. Selbst die Verwandlung der Warschauer Hochschule in eine russische Universität bietet nach russischer Anschauung keine Garantie gegen den
+                        Polonismus. Man hat einem Theil der Professoren gestatten müssen, vorläufig, d. h. bis zur Erlernung der russischen Sprache, — polnisch zu lesen, <seg id="92" type="frame" pos="start">und
+                        bei dem Mangel russischer Lehrkräfte liegt der <seg id="92" type="intExpr">Gedanke</seg> nah.</seg> <said id="92" mode="indirect" content="thought" level="1">daß diese
+                         
+            
+            provisorische Concession mit der Zeit den Charakter eines Definitivums annehmen werde.</said> Die Russen wissen die polnische Widerstandskraft und das
+                        polnische Geschick, mit mißliebigen Gesetzen Versteckens zu spielen, ebenso
+                        genau abzuschätzen, wie die Lahmheit der eigenen Initiative und die Armuth
+                        an brauchbaren Streitkräften. Steht die Sache doch noch gegenwärtig so,
+                        daß (die Universität Dorpat ausgenommen) nahezu die Hälfte aller akademischen Lehrstühle unbesetzt ist und die sämmtlichen russischen Hochschulen zusammen nur einen einzigen Professor des römischen Rechts haben! Wo soll
+                        da der Ueberfluß von Kräften herkommen, den man zur Russification der
+                        ausgedehnten Grenzländer nöthig hat? — In den Ostseeprovinzen hat
+                        neuerdings eine Demonstration stattgefunden, die in den russischen Hauptstädten um so peinlicher berührt hat, als ihr absolut nicht beizukommen war.
+                        Zur Feier der vor fünfzig Jahren erfolgten Aufhebung der Leibeigenschaft in
+                        Livland ist in Dorpat ein chemisches Sängerfest gefeiert worden, zu dem nicht
+                        die Deutschen, sondern die Ehlen die Initiative ergriffen und das den
+                        Charakter eines Verbrüderungsfestes der beiden Nationalitäten angenommen
+                        hat, die man in Moskau für Todfeinde auszugeben gewohnt ist, obgleich
+                        sie durch das gleiche religiöse Bekenntniß die gleiche Bildungssubstanz und
+                        eine siebenhundertjährige gemeinsame Geschichte eng genug mit einander verbunden sind. Der Krieg, den die russische Demokratie gegen das baltischdeutsche Element führt, ist ja im Namen der „unterdrückten Letten und
+                        Ehlen" unternommen worden, und wenn diese sich auf die Seite ihrer angeblichen Unterdrücker stellen, ist der Feldzugsplan, den die Politiker an der
+                        Newa und Moskwa ausgearbeitet haben, so gut wie unmöglich geworden,
+                        denn ein Kampf gegen Deutsche, Letten und Ehlen hat wenig Aussicht auf
+                        Erfolg. Für das Ungeschick, mit welchem dieser Kampf geführt wird, ist
+                        eine im Lause der letzten Wochen erfundene neue Censurmaaßcegel besonders
+                        charakteristisch: sämmtliche in Dorpat, Pernau, Reval und Mitau erscheinende
+                        lettische und chemische Zeitschriften werden in Riga der Präventivcensur unterzogen, und zwar der Censur durch Convertiten der griechischen Kirche, welche
+                        als Seminarlehrer direct unter dem Einfluß des Rigaer griechischen Erzbischofs stehen. Die beträchtlichen Entfernungen, welche Riga von den übrigen Druckorten entfernen, machen natürlich jeden Aufschwung der lettischen
+                        und chemischen Journale unmöglich und der blinde <seg id="93" type="speaker">Eifer</seg> der „rechtgläubigen"
+                        Censoren gegen jedes Preßerzeugniß in protestantischen Sinn <seg id="93" type="frame" pos="start"><seg id="93" type="intExpr">belehrt</seg> das
+                        das Landvolk darüber,</seg> <said id="93" mode="indirect" content="speech" level="1">wo es die wahren Feinde seiner Bildung zu suchen
+                        hat.</said> — Einen herben Verlust haben die baltischen Provinzen neuerdings
+                        durch den Tod des im Jahre 1864 seiner nationalen Gesinnung wegen abgesetzten livländischen Generalsuperintendenten Dr. Walter erlitten, eines freisinnigen und patriotischen Theologen, der sich namentlich um die Sache der
+                         
+            
+            Volksbildung große Verdienste erworben hat und in den vordersten Reihen
+                        stand, als es den Kampf gegen die Propaganda der griechischen Kirche galt.
+            Indessen auf dem politischen Gebiet der Vernichtungskrieg gegen
+                        die westeuropäischen Elemente in den Grenzprovinzen nach wie vor auf
+                        der russischen Tagesordnung steht, ist die Aufmerksamkeit weiterer Kreise
+                        häuptsächlich auf die Ausbreitung des russischen Eisenbahnnetzes gerichtet.
+                        Wöchentlich werden neue Concessionen ertheilt und das Vertrauen des Publikums in die neu zu bauenden Bahnen ist so groß, daß die Actien schon im
+                        Voraus gezeichnet sind und zu den höchsten Preisen verkauft werden, ehe
+                        irgend welche Erhebungen über die Rentabilität dieser Schienenwege gemacht
+                        worden sind. Binnen der letzten fünf Jahre sind in Rußland mehr Eisenbahnstrecken gebaut worden, als sonst in dreißig Jahren und noch immer
+                        tauchen neue Unternehmer und neue Concessionsgesuche auf. Ausländer und
+                        Inländer, Provinzialvertretungen und freie Genossenschaften suchen einander
+                        nach Kräften Concurrenz zu machen. Die wichtigste der neuconcessionirten
+                        Bahnen ist die Linie Kowno-Libau, welche die Bestimmung hat, den polnischen und westrussischen Export, der seinen Weg bisher nach Königsberg
+                        und Memel nahm, in den genannten Kurländischen Hafen zu dirigiren. —
+                        Natürlich hat der Schwindel mit der soliden Unternehmungslust Schritt gehalten <said id="94" mode="reported" content="speech" level="1">und schon seit längerer Zeit hört <seg id="94" type="speaker">man</seg> über die Leichtfertigkeit der
+                        Börsenspeculation und namentlich des Actienhandels in Petersburg <seg id="94" type="intExpr">klagen</seg>.</said>
+                        Um den Unwesen der Privatbörsen und künstlich gemachten Course abzuhelfen, hat die Regierung die Zahl der Tage, an denen officielle Coursnotirungen an der Petersburger Börse vorgenommen werden, von drei aus
+                        fünf in der Woche erhöht. — Ueber den Kirgisenaufstand an der Grenze
+                        Turkestans (den grundlose Gerüchte maaßlos übertrieben hatten), liegen neuere
+                        Nachrichten nicht vor.
+            Während der Julimonat den meisten europäischen Staaten politische
+                        und parlamentarische Ferien gebracht hat, <said id="95" mode="reported" content="speech" level="1">sind die beiden Häuser der <seg id="95" type="speaker">Volksvertretung Englands</seg> vollauf mit der <seg id="95" type="intExpr">Discussion</seg> und endlichen Erledigung
+                        der irischen Kirchenbill beschäftigt gewesen.</said> Jede der Wendungen, welche
+                        diese wichtige Angelegenheit" genommen, ist überraschend gewesen <said id="96" mode="reported" content="writing" level="1">und hat die
+                        <seg id="96" type="intExpr">Vorhersagungen</seg> der <seg id="96" type="speaker">Tagespresse</seg> Lügen gestraft.</said> Als die Gladstone'sche Bill
+                        die zweite Lesung im Hause de'r Gemeinen passirt war, galt sie für bereits
+                        gesichert, denn daß das Oberhaus eine große, von der Majorität der Nation
+                        gewollte Maaßregel zurückgewiesen hätte, war seit einem Menschenalter nicht
+                        mehr vorgekommen, <said id="98" mode="reported" content="thought" level="1">nach <seg id="98" type="intExpr">Annahme</seg> der<seg id="98" type="speaker"> d'Jsraelischen Haushalterbill</seg> höchst unwahrscheinlich geworden. </said><said id="97" mode="reported" content="speech" level="1">Nach der ersten <seg id="97" type="intExpr">Lesung</seg> bei den Lords</said> wandte das
+                        Blatt sich aber, <said id="99" mode="reported" content="speech" level="1">und ziemlich <seg id="99" type="speaker">allgemein</seg> wurden eine Niederlage des Cabinets,
+                        ein Conflict der beiden Häuser u. s. w. <seg id="99" type="intExpr">vorhergesagt</seg>.</said> Die Nacht vom 18.
+            
+            und 19. Juni entschied wider viles Erwarten die principielle Annahme
+                        des neuen Gesetzes <said id="100" mode="reported" content="speech" level="1">und jetzt wurde der Triumph Gladstones als bereits
+                        entschieden <seg id="100" type="intExpr">verkündet</seg>.</said> <said id="101" mode="reported" content="speech" level="1">Als aber die <seg id="101" type="speaker">Lords</seg> bei der Specialdiscusfion eine
+                        ganze Reihe wichtiger Amendements <seg id="101" type="intExpr">einbrachten</seg></said> und namentlich den Satz
+                        gestrichen sehen wollten, welcher die Ueberschüsse der der bisherigen Staatskirche zuständigen Einnahmen ausschließlich zu nicht kirchlichen Zwecken
+                        bestimmte, gewann der Pessimismus nochmals die Oberhand und wurden aufs
+                        Neue Scheitern der Bill, Conflict der beiden Häuser, Einberufung einer Herbstsession u. f. w. an die Wand gemalt. In der elften Stunde trat dann
+                        abermals eine unerwartete Wendung ein: <said id="102" mode="reported" content="speech" level="1"><seg id="102" type="speaker">Gemeine</seg> und <seg id="102" type="intExpr">Lords</seg> <seg id="102" type="intExpr">einigten sich</seg>
+                        in der Srille über die an der Bill vorzunehmenden Aenderungen</said>, <seg id="103" type="frame" pos="start"><seg id="103 104" type="speaker">Gladstone</seg>
+                        setzte seinen <seg id="103" type="intExpr">Wunsch</seg>,</seg><said id="103" mode="reported" content="thought" level="1"> die Ueberschüsse zu nicht kirchlichen Zwecken verwandt
+                        zu sehen</said> mit Hilfe <said id="104" mode="reported" content="speech" level="1">einer klug formulirten <seg id="104" type="intExpr">Clausel</seg></said> durch und der „Conflict"
+                        war ausgeglichen, noch <said id="105" mode="reported" content="speech" level="1" nonfact="yes">bevor er <seg id="105" type="intExpr">erklärt</seg> war.</said> Unnachgiebiger hat die Pairie
+                        sich in der Frage nach Abschaffung des Testeides sür die beiden alten Universitäten bewiesen; <seg id="106" type="frame" pos="start">übrigens liegt die <seg id="106" type="intExpr">Vermuthung</seg> nah,</seg> <said id="106" mode="indirect" content="thought" level="1">daß die Ablehnung
+                        nicht sowohl der Sache selbst, als der Verschwommenheit des Glaubensbekenntnisses galt, welches den alten Eid ersetzen sollte.</said> — Die Alabama Angelegenheit ist noch in der Schwebe und wird wahrscheinlich erst im nächsten
+                        Jahre wieder in Wendung kommen, da dem Schluß des Parlaments eine
+                        halbjährige Ruhezeit folgen soll; <said id="107" mode="reported" content="speech" level="1"><seg id="107 108" type="speaker">Gladstones</seg> <seg id="107" type="intExpr">Weigerung</seg> <said id="108" mode="reported" content="speech" level="2" nonfact="yes">auf die Jnterpellation Henry Bulwers <seg id="108" type="intExpr">einzugehen</seg></said></said>,<seg id="109" type="frame" pos="start"> legt die <seg id="109" type="intExpr">Vermuthung</seg> nah,</seg> <said id="109" mode="indirect" content="thought" level="1">daß neue Verhandlungen zwischen den beiden Regierungen bereits wieder im Gange sind.</said>
+            In Spanten, das seine Cortesversammlung am 13. d. M. auf vier
+                        Monate vertagte, hat die Zersetzung der neu geschaffenen Verhältnisse ihren
+                        unaufhaltsamen Fortgang genommen. Das nach Erlaß des Regentschaftsgesetzes gebildete Ministerium hat ^sich wiederholt umgestalten müssen und
+                        krankt auch in seiner gegenwärtigen Zusammensetzung an der Uneinigkeit
+                        und dem gegenseitigen Mißtrauen seiner Glieder, von denen jedes seine
+                        Specialpolitik und seinen speciellen Ehrgeiz hat. Herrera, der Justizminister,
+                        hat auf <said id="110" mode="reported" content="speech" level="1"><seg id="110" type="intExpr">Andrängen</seg> der monarchischen <seg id="110" type="speaker">Demokraten</seg></said> zurücktreten müssen, Figuerala und Prim vertrugen sich so schlecht, daß der erstere, <said id="111" mode="reported" content="speech" level="1">nachdem <seg id="111" type="speaker">er</seg> bereits wiederholt mit seinem Abschied <seg id="111" type="intExpr">gedroht</seg> hatte</said>, zurücktrat und durch
+                        Ardcmaz ersetzt wurde, Rivero, der Präsident der Cortes, steht in offenem
+                        Gegensatz gegen das gesammte Ministerium. Die Schwäche und Zerfahrenheit der Negierung hat den Muth der karlistischen und republikanischen Parteien
+                        gehoben; <said id="112" mode="reported" content="speech" level="1">die <seg id="112" type="speaker">erstere</seg> versucht sich in,it einer Reihe von bis jetzt verunglückten
+                        <seg id="112" type="intExpr">Schilderhebungen</seg></said>, <said id="114" mode="indirect" content="speech" level="1">an denen</said><seg id="114" type="frame" pos="mid">, wie es <seg id="114" type="intExpr">heißt</seg>,</seg> <said id="114" mode="indirect" content="speech" level="1">der Prätendent Don Carlos persönlichen Antheil genommen hat,</said> die Republikaner bilden eine Liga, die sich
+                        allmälig über die ganze Halbinsel verbreitet und neuerdings durch einen
+                         
+            
+            in Madrid lagerten Centralausschuß einheitlich geleitet wird. — Die Verwirrung
+                        der Gemüther in Spanien droht bereits das benachbarte Portugal anzustecken.
+                        Seit der Ministerkrifis in Lissabon ist die Bevölkerung in eine gewisse Gährung
+                        gerathen <said id="115" mode="reported" content="writing" level="1">und aus Madeira wird von einer republikanischen Bewegung <seg id="115" type="intExpr">berichtet</seg></said>, die bereits die Absendung von Truppen nothwendig gemacht hat.
+            Wenig besser sieht es in Italien aus, wo der Finanzminister Cambray-Digny
+                        um seine Existenz kämpft und durch Menabrea nur mühsam auf seinein Posten
+                        zurück gehalten wird. Trotzdem, daß die von der Kammer angeordnete Untersuchung über angebliche Bestechungen in der Tabaksangelegenheit resultatlos
+                        geblieben ist, dauert die Erregung der Gemüther in der Hauptstadt und den
+                        Provinzen fort und kann die Regierung es zu keiner festen Position bringen.
+                        Ueber die von Baiern beantragten Collectivschritte gegen Ausschreitungen des
+                        bevorstehenden ökumenischen Concils ist Menabrea noch nicht schlüssig geworden, <said id="116" mode="reported" content="speech" level="1">doch hat <seg id="116" type="speaker">er</seg> seine Geneigtheit deutlicher als bisher <seg id="116" type="intExpr">bekundet</seg>.</said> <seg id="117" type="frame" pos="start">In
+                        Rom scheint <seg id="117" type="speaker">man</seg> <seg id="117" type="intExpr">entschlossen</seg>,</seg> <said id="117" mode="indirect" content="thought" level="1">aus dem bisherigen Wege weitergehen und
+                        lieber ohne jede Betheiligung der Regierungen tagen, als sich durch <said id="118" mode="reported" content="speech" level="2"><seg id="118" type="intExpr">Mittheilungen</seg> über die Vorlagen</said> die Hände binden zu wollen.</said> Auf eine vollständige
+                        Vertretung des Episcopats wird Pius IX. übrigens verzichten müssen, da
+                        nahezu die Hälfte der geladenen Kirchenfürsten theils wegen ihnen bereiteter
+                        Schwierigkeiten, theils wegen eigener Bedenken dem Concil fern bleiben
+                        wird. Das Sekretariat hat Fehler, der Bischof von Se. Pölten, die Leitung
+                        der Section zur Vorberathung staatsrechtlicher Fragen Cardinal Reischach
+                        übernommen; <seg id="119" type="frame" pos="start">im Uebrigen <seg id="119" type="intExpr">weiß</seg> <seg id="119" type="speaker">man</seg> schon jetzt,</seg> <said id="119" mode="indirect" content="thought" level="1" border="yes">daß das italienische Episcopat die übrigen Elemente numerisch überragen und das eigentlich ausschlaggebende sein wird.</said>
+            Bei uns in Deutschland herrscht seit dem Schluß des Zollparlaments
+                        und des Reichstages eine ziemlich vollständige politische Windstille. Aber
+                        das Gefühl des Unbehagens, welches von den letzten Verhandlungen dieser
+                        Körper zurückgeblieben ist, nimmt eher zu als ab. Zwar machen die dem
+                        neuen Bundesstaat feindlichen Parteien weniger als jemals von sich reden
+                        und scheint selbst der welfische Legitismus an Lust und Kraft für die Agitation beträchtlich eingebüßt zu haben; <said id="121" mode="reported" content="thought" level="1">die <seg id="121" type="speaker">Organe</seg> des vaterlandsfeindlichen
+                        Particularismus ergehen sich in <seg id="121" type="intExpr">Phantastereien</seg> so kindischer Art</said>, daß <said id="120" mode="reported" content="thought" level="1"><seg id="120" type="intExpr">Schlüsse</seg>
+                        auf ihre Erschöpfung und auf die Verzweiflung an. der eigenen Sache den
+                        eigenen Anhängern nahe gelegt sind.</said> Dafür nehmen aber auch in den
+                        nationalen Kreisen Verstimmung und Indifferenz sichtlich zu. Das abermalige Scheitern der Tarifreform <said id="122" mode="reported" content="thought" level="1">hat den <seg id="122" type="speaker">Glauben</seg> an die Brauchbarkeit des Zollparlaments, mit dem es schon seit Jahr und Tag nicht
+                        mehr weit her ist, vollends erschüttert</said>, <seg id="123" type="frame" pos="start">dessen zu <seg id="123" type="intExpr">geschweigen</seg>.</seg> <said id="123" mode="indirect" content="speech" level="1" nonfact="yes">daß <said id="124" mode="reported" content="thought" level="2" nonfact="yes">an
+                        die Möglichlichkeit einer Competenzerweiterung dieses Parlaments von
+                         
+            
+            <seg id="124" type="speaker">Niemand</seg> mehr <seg id="124" type="intExpr">gedacht</seg> wird.</said></said> Auf die politische Parteistellung im Reichstage hat <said id="125" mode="reported" content="speech" level="1">der <seg id="125" type="speaker">Gegensatz</seg> der materiellen Interessen, der im Zollparlament
+                        das große <seg id="125" type="intExpr">Wort</seg> führte</said>, nur verwirrend gewirkt. Und die Lage des Reichstags war an und für sich peinlich und schwierig genug. Das Verhältniß
+                        desselben zum Bundeskanzler ist seit der Ablehnung der Steuervorlagen
+                        nicht mehr von diesem Körper selbst, sondern von den Resultaten des
+                        bevorstehenden Landtags abhängig. Findet die Finanznoth der Regierung
+                        keine Abhilfe, so sind neue Steuervorlagen an den Reichstag unvermeidlich
+                        und diese können nur dazu führen, die bereits vorhandene Kluft zu erweitern. <seg id="126" type="frame" pos="start">Wenn uns gar, wie in den letzten Tagen geschehen ist, <seg id="126" type="intExpr">gesagt</seg> wird,</seg>
+                        <said id="126" mode="indirect" content="speech" level="1">daß es mit dem Deficit gar nicht so schlimm sei. als es von Herrn v. d. Heste,
+                        bei dessen lakonischer Einbringung der Vorlagen gemacht worden, daß die Einnahmen sich in unerwarteter Weise gehoben und die Voranschläge überschritten
+                        hätten</said>, so kann das die Lage nur erschweren, nicht erleichtern <seg id="127" type="frame" pos="start">und die <seg id="127" type="speaker">Volksvertretung</seg> in der <seg id="127" type="intExpr">Meinung</seg> bestärken,</seg> <said id="127" mode="indirect" content="thought" level="1">daß sie keine Steuern bewilligen darf,
+                        ehe ihr voller Einblick in die Finanzverhältnisse, ehe ihr die Möglichkeit
+                        geboten worden, die Verwendungen zu controlliren.</said> Eine Finanzverwaltung,
+                        die je nach den wechselnden Bedürfnissen des Tages Muthlosigkeit oder Zuversicht, üble oder gute Laune zeigt, hat es sich selbst zuzuschreiben, wenn
+                        man ihr mißtrauisch entgegentritt, zumal wenn sie im Dienst einer inneren
+                        Politik steht, die nicht nur die Majorität gegen sich, sondern gar keine Partei
+                        hinter sich hat. — Dieser innern Politik, die in den letzten Jahren wesentlich
+                        von dem Succurs gelebt hat, welcher ihr durch die Erfolge der nationalen
+                        Staatskunst des Bundeskanzlers geboten wurde, ist in dem abgelaufenen
+                        Monat zugemuthet worden, wenigstens für einige Zeit auf eigenen Füßen
+                        zu stehen. Graf Bismarck hat sich von dem Amte des preußischen Ministerpräsidenten förmlich beurlauben lassen <seg id="128" type="frame" pos="start">und wie die <seg id="128" type="speaker">Offiziösen</seg> übereinstimmend
+                        <seg id="128" type="intExpr">berichten</seg>,</seg> <said id="128" mode="indirect" content="speech" level="1">wird dieser Urlaub bis über die Eröffnung des Landtags hinaus
+                        dauern und die Herren v. d. Heydt, v. Muster, v. Eulenburg u. s. w. für
+                        die bevorstehende parlamentarische Campagne auf sich selbst und ihre eigenen
+                        Kräfte anweisen.</said> Wem bewiesen werden soll, daß Graf Bismarck für den
+                        preußischen Staat unentbehrlich ist, ob der Opposition, ob dem Ministerium
+                        selbst, ist zunächst noch dahin gestellt. Vom Standpunkte der preußischen
+                        Opposition aus, mag die erschwerte Stellung des in eine Anzahl zusammenhangsloser Theile aufgelösten Cabinets als Vortheil erscheinen, weil sie dem
+                        nächsten Landtage die Erfüllung seiner Pflicht wesentlich erleichtert —<said id="129" mode="reported" content="thought" level="1"> <seg id="129" type="speaker">wir</seg>, die
+                        wir die Sache nach ihrer Wirkung auf das außerpreußische Deutschland <seg id="129" type="intExpr">beurtheilen</seg></said>, können in dem zeitweise» Ausscheiden des Ministerpräsidenten nur
+                        eine neue Calamität, eine Erschwerung der ohnehin unbehaglichen Lage sehen.
+                        Die Dinge liegen einmal so, daß das Geschick des preußischen Staats und
+                         
+            
+            die nationale Sache im deutschen „Auslande" zusammenfallen, daß jede dem ersteren bereitete Schwierigkeit auf die letztere zurückwirkt. Selbst wenn sich erwarten
+                        ließe, daß die Verlegenheit des führerlos gewordenen Cabinets zu einer Umbildung des Ministeriums führen könnte, bliebe ein momentaner innerer
+                        Bankerott der preußischen Politik für die nationale Sache eine Verlegenheit.
+                        <seg id="130" type="frame" pos="start">Aber es ließe sich dann doch <seg id="130" type="intExpr">hoffen</seg>,</seg> <said id="130" mode="indirect" content="thought" level="1">daß dem Stillstande frischere Bewegung
+                        folgen und den Verlust ausgleichen werde.</said> Von Hoffnungen dieser Art sind
+                        wir aber noch weit entfernt. <seg id="131" type="frame" pos="start">Sehr viel näher liegt die <seg id="131" type="intExpr">Befürchtung</seg>,</seg> <said id="131" mode="indirect" content="thought" level="1">nach
+                        den ersten ministeriellen Niederlagen <said id="132" mode="reported" content="speech" level="2" nonfact="yes">werde Graf Bismarck zu Hilfe <seg id="132" type="intExpr">gerufen</seg>
+                        werden</said>, um einen Conflict beizulegen, dessen Ausgleichung ihn um den besten
+                        Theil seines nationalen Einflusses bringen würde.</said> Die mit dem Namen des
+                        Bundeskanzlers wenigstens zur Zeit identificirte Sache des jungen deutschen
+                        Staates hätte dann für das alte preußische Ministerium die Zeche zu zahlen.
+                        Ob seine Mittel nach dem Rückschläge, den wir seit 1867 ohnehin erlebt
+                        haben, wohl dazu ausreichen werden?
+                         
+            Der eigentliche Kern des Volks, die gebildete Mittelclasse, ist mit ihren
+                        Interessen allerdings zu tief in den neuen Staat hineingewachsen, <said id="133" mode="reported" content="thought" level="1" nonfact="yes">als daß <seg id="133" type="speaker">sie</seg> den
+                        Bestand desselben von den einzelnen Stadien der Vor- und Rückbewegung abhängig <seg id="133" type="intExpr">glauben</seg> könnte.</said> <seg id="134" type="frame" pos="start">Aber es läßt sich nicht <seg id="134" type="intExpr">leugnen</seg>,</seg> <said id="134" mode="indirect" content="speech" level="1" nonfact="yes">daß an die Stelle des vertrauensvollen Eifers, der sich noch vor Jahresfrist zeigte, eine gewisse Abspannung
+                        und Gleichgiltigkeit getreten ist.</said> <seg id="135" type="frame" pos="start">Wohl <seg id="135" type="intExpr">weiß</seg> <seg id="135" type="speaker">man</seg>,</seg> <said id="135" mode="indirect" content="thought" level="1">daß den neugeschaffenen
+                        Verhältnissen zuviel gesunde Kraft inne wohnt, als daß dieselben schon bei
+                        den ersten Hemmungen in Frage gestellt erscheinen könnten</said> — aber schon
+                        seit geraumer Zeit haben die Vorgänge auf unserer politischen Bühne ein
+                        ziemlich laues und unaufmerksames Publikum; <seg id="136" type="frame" pos="start">die <seg id="136" type="speaker">Einen</seg> <seg id="136" type="intExpr">meinen</seg>,</seg> <said id="136" mode="indirect" content="thought" level="1"><said id="137" mode="reported" content="speech" level="2" nonfact="yes">erfreuliche
+                        Dinge bekomme <seg id="137" type="speaker">man</seg> doch nicht zu <seg id="137" type="intExpr">hören</seg></said></said>, <said id="138" mode="reported" content="thought" level="1">die <seg id="138" type="speaker">Anderen</seg> <seg id="138" type="intExpr">sehen</seg> den gesammten
+                        und gegenwärtigen Zustand als ein Provisorium <seg id="138" type="intExpr">an</seg>, das erst nach einer Abrechnung mit Frankreich und mit dem Süden zu definitiver Gestaltung
+                        gelangen wird.</said> Und von einer solchen Abrechnung scheinen wir doch zur Zeit
+                        entfernter denn je zu sein. — In den s. g. arbeitenden Classen gravitiren
+                        die Interessen schon seit Jahren nach einer andern Seite hin. Namentlich
+                        in den größeren Städten Norddeutschlands hat die Lauheit der Massen für
+                        rein politische Fragen in demselben Maaße zugenommen, in dem sich der
+                        Eiser für eine Lösung des großen socialen Problems im Sinne der Lassalleschen
+                        Ideen, erhitzte.
+            Obgleich die socialistische Bewegung ihre Kinderschuhe noch nicht ausgezogen hat, gewinnt sie in Deutschland doch mehr und mehr an Bedeutung.
+                        Verdunkelt wird dieselbe freilich durch das selbstische, aufgeblasene und principienlose Gebühren der socialistischen Wortführer, die seit ihrem Eintritt in
+                        den Reichstag außerhalb wie innerhalb ihrer Anhängerschaft den Rest ihres
+                         
+            
+            bescheidenen Credits eingebüßt haben. Das Zeitalter jener Secessionen, welche
+                        die Jüngerschaar Lassalles zerrissen und in eine ganze Anzahl von Fractionen
+                        und Fractiönchen zerspalteten, ist im letzten Monat durch eine Versöhnung der
+                        feindlichen Brüder Schweitzer und Meute geschlossen worden. Aber diese Aussöhnung hat bis jetzt einen Erfolg gehabt, der die Erwartungen, die sich an
+                        dieselbe knüpften, diametral entgegenläuft. Die große Masse der Arbeiter
+                        ist dem von den beiden Präsidenten gegebenen Beispiel nicht uur nicht gefolgt, sondern hat an dem eigenmächtigen Friedensschluß derselben Veranlassung
+                        zu einer Lösung der bisherigen Bande genommen. Der allgemeine deutsche Arbeiterverein, oder vielmehr die verschiedenen Vereine, welche diesen Namen führten, sind in voller Auflösung begriffen, eine Coterie steht gegen die andere
+                        auf, <said id="139" mode="reported" content="speech" level="1">ein <seg id="139" type="speaker">Wortführer</seg> <seg id="139" type="intExpr">beschuldigt</seg> den andern des Verraths, der Käuflichkeit und
+                        des Unterschleiss</said> und die Resultate jahrelanger Agitationsarbeit sind so gut
+                        wie verloren, die sauer verdienten Arbeiterpfennige, welche an dieselben
+                        gewandt wurden, ins Wasser geworfen. Nichtsdestoweniger liegt es
+                        ziemlich nah, von dieser Krisis eher Vorschub als Rückgang der Sache des
+                        deutschen Socialismus zu erwarten. So lange die bisherigen Männer an
+                        der Spitze der Bewegung standen, war von derselben Nichts zu fürchten, denn
+                        diese Männer bewiesen bei jeder Gelegenheit, daß ihnen alle die Eigenschaften
+                        fehlten, deren es zu erfolgreicher Demagogie bedarf; schon als Leute, die
+                        eigentlich der Bourgeoisie angehörten, hatten sie bei dem Arbeiterstande keinen
+                        eigentlichen Boden, und Vertrauen in <said id="140" mode="reported" content="speech" level="1"><seg id="140 141" type="speaker">ihre</seg> <seg id="140" type="intExpr">Redlichkeit</seg></said> und <seg id="141" type="intExpr"><said id="141" mode="reported" content="thought" level="1">Ueberzeugung</said></seg>
+                        haben sie bei Niemand zu erwerben verstanden. Von der Vormundschaft
+                        dieser Schwätzer frei geworden. wird die <seg id="142" type="speaker">Arbeiterbewegung</seg> brutalere Formen
+                        gewinnen, <said id="142" mode="reported" content="writing" level="1">die Phrasen und Theorien von ihrem Programm <seg id="142" type="intExpr">streichen</seg></said> und
+                        sich wesentlich auf die Cultivirung des Feldes legen, auf dem sie ihre
+                        Existenz bisher am fühlbarsten geltend gemacht hat — das Feld der Strikes,
+                        die mit den Lassalleschen Ideen zwar nichts zu thun haben, aber sehr viel
+                        einschneidender und imposanter wirken, als hochtönende Resolutionen und
+                        theoretische Beschlüsse. Diese Strikes. die gegenwärtig in einer ganzen Reihe
+                        norddeutscher Städte chronisch geworden sind, gewöhnen die betheiligten
+                        Classen an beständigen Kampf mit den Arbeitgebern, eine systematischen
+                        Feindschaft gegen das Capital. Taucht einmal ein ächter Demagog? auf,
+                        so findet er den Boden ungleich besser bearbeitet vor, als wenn <said id="143" mode="reported" content="speech" level="1">die <seg id="143" type="speaker">Apostel</seg>
+                        Lassalles noch ein halbes Jahrzehnt das große <seg id="143" type="intExpr">Wort</seg> geführt</said> und <said id="144" mode="reported" content="speech" level="1" nonfact="yes">die <seg id="144" type="speaker">Noth</seg>
+                        ihrer Anhänger mit Anweisungen aus die Casse des künftigen Arbeiterstaats
+                        zu <seg id="144" type="intExpr">beschwören</seg> versucht hätten.</said>
+            
+            
+         
+      
+   
+</p>
+      </body>
+   </text>
+</TEI>
