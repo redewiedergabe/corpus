@@ -19,24 +19,24 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 
 | filename | author | title | year | tokens |
 |----------|--------|-------|------|--------|
-| rwz_full_digbib_5004 | Malsberg, Otto Freiherr von der | **Der Gefangene** | 1822 |  |
-| rwz_full_digbib_5007 | Ungern-Sternberg, Alexander von | **Die Doppelgängerin** | 1834 |  |
-| rwz_full_digbib_2473 | Poe, Edgar Allan | Hinab in den Maelström | 1841 |  |
-| rwz_full_digbib_1136 | Droste-Hülshoff, Annette von | **Die Judenbuche** | 1842 |  |
-| rwz_full_digbib_1199 | Grillparzer, Franz | **Der arme Spielmann** | 1847 |  |
-| rwz_full_digbib_3228 | Wildermuth, Ottilie | Aus dem Leben einer Hausfrau der neuen Zeit | 1847 |  |
-| rwz_full_digbib_5002 | Gotthelf, Jeremias | **Das Erdbeerimareili** | 1850 |  |
-| rwz_full_digbib_5006 | Stifter, Adalbert | **Bergmilch** | 1853 |  |
-| rwz_full_digbib_5001 | François, Louise von | **Phosphorus Hollunder** | 1857 |  |
-| rwz_full_digbib_5005 | Raabe, Wilhelm | **Die schwarze Galeere** | 1861 |  |
-| rwz_full_digbib_2649 | Riehl, Wilhelm Heinrich von | Amphion | 1862 |  |
-| rwz_full_digbib_5003 | Marlitt, E. | **Die zwölf Apostel** | 1865 |  |
-| rwz_full_digbib_3153 | Storm, Theodor | **Eine Malerarbeit** | 1867 |  |
-| rwz_full_digbib_5000 | Eckstein, Ernst | **Der Leuchtturm von Livorno** | 1871 |  |
-| rwz_full_digbib_3152 | Storm, Theodor | Eine Halligfahrt | 1871 |  |
+| rwz_full_digbib_5004 | Malsberg, Otto Freiherr von der | **Der Gefangene** | 1822 | 10,754 |
+| rwz_full_digbib_5007 | Ungern-Sternberg, Alexander von | **Die Doppelgängerin** | 1834 | 9,685 |
+| rwz_full_digbib_2473 | Poe, Edgar Allan | Hinab in den Maelström | 1841 | 7,288 |
+| rwz_full_digbib_1136 | Droste-Hülshoff, Annette von | **Die Judenbuche** | 1842 | 20,124 |
+| rwz_full_digbib_1199 | Grillparzer, Franz | **Der arme Spielmann** | 1847 | 17,966 |
+| rwz_full_digbib_3228 | Wildermuth, Ottilie | Aus dem Leben einer Hausfrau der neuen Zeit | 1847 | 8,125 |
+| rwz_full_digbib_5002 | Gotthelf, Jeremias | **Das Erdbeerimareili** | 1850 | 18,447 |
+| rwz_full_digbib_5006 | Stifter, Adalbert | **Bergmilch** | 1853 | 11,429 |
+| rwz_full_digbib_5001 | François, Louise von | **Phosphorus Hollunder** | 1857 | 16,798 |
+| rwz_full_digbib_5005 | Raabe, Wilhelm | **Die schwarze Galeere** | 1861 | 19,008 |
+| rwz_full_digbib_2649 | Riehl, Wilhelm Heinrich von | Amphion | 1862 | 9,640 |
+| rwz_full_digbib_5003 | Marlitt, E. | **Die zwölf Apostel** | 1865 | 23,856 |
+| rwz_full_digbib_3153 | Storm, Theodor | **Eine Malerarbeit** | 1867 | 11,447 |
+| rwz_full_digbib_5000 | Eckstein, Ernst | **Der Leuchtturm von Livorno** | 1871 | 10,809 |
+| rwz_full_digbib_3152 | Storm, Theodor | Eine Halligfahrt | 1871 | 10,075 |
 | rwz_full_digbib_1340 | Keller, Gottfried | Kleider machen Leute | 1874 | 16,553 |
-| rwz_full_digbib_1208 | Heyking, Elisabeth von | Gewesen | 1905 |  |
-| rwz_full_digbib_2632 | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 |  |
+| rwz_full_digbib_1208 | Heyking, Elisabeth von | Gewesen | 1905 | 6,423 |
+| rwz_full_digbib_2632 | Reventlow, Franziska Gräfin zu | Das Logierhaus "Zur schwankenden Weltkugel" | 1917 | 7,066 |
 | **total** | **18 files** |  |  | **235,493** |
 
 
