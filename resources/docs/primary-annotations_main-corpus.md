@@ -59,4 +59,5 @@ Instances of STWR-types per annotator
 | neptune | 18 | 28 | 2 | 1 | 60 |
 | pluto | 16 | 34 | 0 | 3 | 49 |
 | *total* | *8,256* | *5,424* | *299* | *124* | *13,182* |
+
 +12 ambiguous STWR-types
