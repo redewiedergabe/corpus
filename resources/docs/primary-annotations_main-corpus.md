@@ -45,3 +45,18 @@ Distribution of annotators
 | neptune | 6 | 3,578 | 109 |
 | pluto | 6 | 3,578 | 102 |
 | *total* | *1,704* | *989,384* | *27,297* |
+
+Instances of STWR-types per annotator
+| annotator | direct | indirect | free indirect | indirect/free indirect | reported |
+|-----------|--------|----------|---------------|------------------------|----------|
+| mercury | 906 | 442 | 47 | 7 | 1,105 |
+| venus | 362 | 148 | 28 | 5 | 406 |
+| earth | 518 | 339 | 10 | 0 | 1,134 |
+| mars | 1,601 | 1,045 | 32 | 28 | 1,940 |
+| jupiter | 1,979 | 1,453 | 72 | 8 | 5,042 |
+| saturn | 1,715 | 1,199 | 74 | 63 | 1,852 |
+| uranus | 1,141 | 736 | 34 | 9 | 1,594 |
+| neptune | 18 | 28 | 2 | 1 | 60 |
+| pluto | 16 | 34 | 0 | 3 | 49 |
+| *total* | *8,256* | *5,424* | *299* | *124* | *13,182* |
++12 ambiguous STWR-types
