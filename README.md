@@ -11,6 +11,8 @@ The corpus was created by the DFG-funded project "Redewiedergabe - eine literatu
 
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
 
+Project Redewiedergabe also provides [automatic taggers for German STWR](https://github.com/redewiedergabe/tagger), trained (mostly) on this corpus.
+
 ## Available Data
 ### Core corpus
 
