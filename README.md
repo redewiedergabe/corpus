@@ -19,7 +19,7 @@ Project Redewiedergabe also provides [automatic taggers for German STWR](https:/
 
 |                            | Samples | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Main corpus](data/main)                | 838     | 489,459 | 12,123         | [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
+| [Main corpus](data/main)                | 838     | 489,459 | 12,123         | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739239.svg)](https://doi.org/10.5281/zenodo.3739239) [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
 | [Main corpus (Beta release)](data/beta-release) | 619     | 360,974 | 9,451          |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)  [Detailed statistical data](resources/docs/beta_release_statistics.md); [Differences to the final release](resources/docs/differences-main-beta.md)|
 
 ### Additional Material
