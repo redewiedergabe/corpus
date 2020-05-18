@@ -12,7 +12,7 @@ The corpus was created by the DFG-funded project "Redewiedergabe - eine literatu
 
 Please cite the following publication if you use the corpus: 
 
-[Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference* Marseille.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
+[Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
 
 
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
@@ -60,7 +60,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # Publications
 
-Most recent publication: [Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference* Marseille.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
+Most recent publication: [Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
 
 A complete list of all publications can be found [here](resources/docs/publications.md).
 
