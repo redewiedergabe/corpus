@@ -10,9 +10,9 @@ A historical German-language corpus (1840-1920) of fictional and non-fictional t
 
 The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). Homepage: www.redewiedergabe.de
 
-Please cite the following publication if you use the corpus: 
+Please cite the following publication, if you use the corpus: 
 
-[Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 796‑805.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
+[Brunner, Annelen / Engelberg, Stefan / Jannidis, Fotis / Tu, Ngoc Duyen Tanja / Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 796‑805.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
 
 
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
