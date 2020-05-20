@@ -4,19 +4,27 @@
 
 
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+ [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739239.svg)](https://doi.org/10.5281/zenodo.3739239)
 
 A historical German-language corpus (1840-1920) of fictional and non-fictional texts, annotated for speech, thought and writing representation 
 
 The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). Homepage: www.redewiedergabe.de
 
+Please cite the following publication, if you use the corpus: 
+
+[Brunner, Annelen / Engelberg, Stefan / Jannidis, Fotis / Tu, Ngoc Duyen Tanja / Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 796‑805.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
+
+
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
+
+Project Redewiedergabe also provides [automatic taggers for German STWR](https://github.com/redewiedergabe/tagger), trained (mostly) on this corpus.
 
 ## Available Data
 ### Core corpus
 
 |                            | Samples | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Main corpus](data/main)                | 838     | 489,459 | 12,123         | [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
+| [Main corpus](data/main)                | 838     | 489,459 | 12,123         | [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739239.svg)](https://doi.org/10.5281/zenodo.3739239) [Detailed statistical data](resources/docs/main_release_statistics.md)                                                      |
 | [Main corpus (Beta release)](data/beta-release) | 619     | 360,974 | 9,451          |   [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2635192.svg)](https://doi.org/10.5281/zenodo.2635192)  [Detailed statistical data](resources/docs/beta_release_statistics.md); [Differences to the final release](resources/docs/differences-main-beta.md)|
 
 ### Additional Material
@@ -52,7 +60,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 # Publications
 
-Most recent publication: Brunner/Engelberg/Jannids/Tu/Weimer: Corpus REDEWIEDERGABE, *LREC-Conference* Marseille, May 11th-16th 2020.
+Most recent publication: [Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille.](http://www.lrec-conf.org/proceedings/lrec2020/pdf/2020.lrec-1.99.pdf)
 
 A complete list of all publications can be found [here](resources/docs/publications.md).
 
