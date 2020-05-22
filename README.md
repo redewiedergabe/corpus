@@ -32,14 +32,14 @@ This is a collection of several types of additional annotated material produced 
 
 |                            | Files | Tokens  | STWR instances | Notes                                                   |
 |----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Single-annotated samples](data/additional/single_annotated/samples) |  258    | 150,162 | 4,395          |   [Description](resources/docs/single_annotated_samples.md)
-| [Single-annotated full texts (fictional)](data/additional/single_annotated/full_fict) |   18   | 235,493|   6,232        |[Description](resources/docs/full_texts.md) **Note**: Annotation guidelines differ slightly with respect to *speaker*   
-| [Single-annotated full texts (non-fictional)](data/additional/single_annotated/full_nonfict) |  15    | 84,769 |   1,472        |  [Description](resources/docs/full_texts.md)
-| [Indirect full texts](data/additional/simplified/indirect)| 16| 51,864 | 272 | [Description](resources/docs/indirect-corpus.md) **Note**: Only instances of *indirect* STWR with a simplified annotation system
-| [Free indirect full texts (fictional) (semi-automatic)](data/additional/simplified/free_indirect) | 142 | 2,647,924 | 2,136 | [Description](resources/docs/freeindirect-corpus.md) **Note**: Only instances of *free indirect* STWR with a simplified annotation system
-| [Primary annotations of the main corpus](data/additional/primary) | 1,704 | 989,384 | 27,297 | [Description](resources/docs/primary-annotations_main-corpus.md)
+| [Single-annotated samples](resources/docs/single_annotated_samples.md) |  258    | 150,162 | 4,395          |  Annotations only by a single annotator 
+| [Single-annotated full texts (fictional)](resources/docs/full_texts.md) |   18   | 235,493|   6,232        |  Annotations only by a single annotator; **Note:** Annotation guidelines differ slightly with respect to *speaker*   
+| [Single-annotated full texts (non-fictional)](resources/docs/full_texts.md) |  15    | 84,769 |   1,472        | Annotations only by a single annotator 
+| [Indirect full texts](resources/docs/indirect-corpus.md)| 16| 51,864 | 272 | Only instances of *indirect* STWR with a simplified annotation system
+| [Free indirect full texts (fictional)](resources/docs/freeindirect-corpus.md) | 142 | 2,647,924 | 2,136 | Only instances of *free indirect* STWR with a simplified annotation system; semi-automated annotation
+| [Primary annotations of the core corpus](resources/docs/primary-annotations_main-corpus.md) | 1,704 | 989,384 | 27,297 | Collection of all individual annotations of the core corpus
+| [KONVENS 2020 data](resources/docs/data_konvens-paper-2020.md) | | | | Data splits used for the [STWR taggers](https://github.com/redewiedergabe/tagger), as described in the KONVENS 2020 paper 
 
-More additional material will be added in the future.
 
 ## Format
 The corpus is available in three different formats:
