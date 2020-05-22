@@ -19,8 +19,8 @@ have different labels (according to their STWR type).
 
 All data in these files is part of corpus REDEWIEDERGABE (main corpus & additional material).
 There might be some slight discrepancies in the file names and annotations, as these files were
-created before the final cleanup of corpus REDEWIEDERGABE. The format of the annotation is 
-reduced to just STWR type in this version of the data.
+created before the final cleanup of corpus REDEWIEDERGABE. The annotation is 
+simplified to just STWR type in this version of the data.
 
 Unfortunately we cannot provide the exact data for the free indirect model due  to copyright restrictions 
 on the modern texts. The historical data used for the free indirect model ist available [here](../../data/additional/simplified/free_indirect).
