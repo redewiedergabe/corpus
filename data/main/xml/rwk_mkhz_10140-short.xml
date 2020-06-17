@@ -31,9 +31,9 @@
          <f name="narrative">no</f>
          <f name="text_type">Kommentar</f>
          <f name="source">mkhz.maehrisches</f>
-         <f name="dialect">no</f>
-         <f name="perspective">third</f>
-         <f name="quotes">undef</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
       </fs>
       <body>
          <p>         
@@ -62,7 +62,7 @@
                         es als sicher gelten, daß auch Kaiser Friedrich
                         sich von dem großen Staatsmanne nicht trennen
                         will und nicht trennen wird; <seg id="6" type="frame" pos="start"><seg id="6" type="speaker">man</seg> <seg id="6" type="intExpr">gewinnt</seg> auch
-                        immer mehr den <seg id="6" type="intExpr">Eindruck</seg>,</seg> <said id="5" mode="reported" content="thought" level="1"><said id="6" mode="indirect" content="thought" level="1">als <seg id="5" type="intExpr">betrachte</seg> <seg id="5" type="speaker">Fürst
+                        immer mehr den <seg id="6" type="intExpr">Eindruck</seg>,</seg> <said id="6" mode="indirect" content="thought" level="1"><said id="5" mode="reported" content="thought" level="2">als <seg id="5" type="intExpr">betrachte</seg> <seg id="5" type="speaker">Fürst
                         Bismarck</seg> die Zeit für gekommen, da man auch
                         ohne die reactionären Parteien regieren kann.</said></said> Der
                         geniale Realpolitiker hat sich niemals an Parteien

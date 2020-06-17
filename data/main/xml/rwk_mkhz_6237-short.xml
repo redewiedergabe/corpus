@@ -31,9 +31,9 @@
          <f name="narrative">yes</f>
          <f name="text_type">Erzähltext</f>
          <f name="source">mkhz.sonntagsblatt</f>
-         <f name="dialect">no</f>
-         <f name="perspective">third</f>
-         <f name="quotes">german</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
       </fs>
       <body>
          <p>         
@@ -93,7 +93,7 @@
             Der Angeredete nickte flüchtig und kehrte sich ab. Der alte Herr
                         sah ihm kopfschüttelnd nach.
             <said id="19" mode="direct" content="thought" level="1">„Armer Narr!“</said> <seg id="19" type="frame" pos="end"><seg id="19" type="intExpr">dachte</seg> <seg id="19" type="speaker">er</seg>.</seg>
-            <seg id="0" type="frame" pos="start"><seg id="" type="speaker">Der</seg> aber <seg id="" type="intExpr">murmelte</seg> mit bitterm Lächeln:</seg>
+            <seg id="0" type="frame" pos="start"><seg id="0" type="speaker">Der</seg> aber <seg id="0" type="intExpr">murmelte</seg> mit bitterm Lächeln:</seg>
                          
          
       </p>

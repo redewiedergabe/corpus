@@ -31,9 +31,9 @@
          <f name="narrative">yes</f>
          <f name="text_type">Erzähltext</f>
          <f name="source">digbib</f>
-         <f name="dialect">no</f>
-         <f name="perspective">first</f>
-         <f name="quotes">dash chevron other</f>
+         <f name="dialect">null</f>
+         <f name="perspective">null</f>
+         <f name="quotes">null</f>
       </fs>
       <body>
          <p>         
@@ -47,7 +47,7 @@
                      <said id="12" mode="reported" content="speech" level="1" nonfact="yes"><seg id="12" type="speaker">Wir</seg> verharrten nach Schluß dieser Rede eine 
 Zeitlang in tiefem <seg id="12" type="intExpr">Schweigen</seg>.</said> Die Situation war doch prekär geworden ...
                      <seg id="14" type="frame" pos="start">Schließlich <seg id="14" type="intExpr">ergriff</seg> der <seg id="14 17 42" type="speaker">Oberstabsarzt</seg> das <seg id="14" type="intExpr">Wort</seg>:</seg> 
-                     <said id="14" mode="direct" content="speech" level="1">– <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">Sagen</seg> Sie, <seg id="15 16 18 21 44" type="speaker">Herr Pastor</seg>,</seg> <said id="15" mode="indirect" content="speech" level="2" nonfact="yes">haben Sie die Sache mit der.. der Frau Oberförster besprochen?</said></said> 
+                     <said id="14" mode="direct" content="speech" level="1">– <seg id="15" type="frame" pos="start"><seg id="15" type="intExpr">Sagen</seg> Sie, <seg id="15 16 18 44" type="speaker">Herr Pastor</seg>,</seg> <said id="15" mode="indirect" content="speech" level="2" nonfact="yes">haben Sie die Sache mit der.. der Frau Oberförster besprochen?</said></said> 
                      <said id="16" mode="direct" content="speech" level="1">– O doch, gewiß! Die gute Frau war ganz unglücklich, ganz unglücklich, – sie hat sogar geweint.</said> 
                      <said id="17" mode="direct" content="speech" level="1">– So. – –</said> 
                      <said id="18" mode="direct" content="speech" level="1">– Ja, und hat immer versucht, mich zu trösten. <seg id="19" type="frame" pos="start">Und ganz zum Abschied <seg id="19" type="intExpr">sagte</seg> <seg id="19" type="speaker">sie</seg>:</seg><said id="19" mode="indirect" content="speech" level="2"> Ich möchte mich nur beruhigen: sie würde die Sache schon ins Reine bringen.</said></said> 
