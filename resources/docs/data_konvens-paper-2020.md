@@ -6,10 +6,7 @@
 This download contains the exact training, validation and test corpora used to train and evaluate the taggers 
 for direct, indirect and reported STWR described in
 
-*Brunner, Annelen / Tu, Ngoc Duyen Tanja / Weimer, Lukas / Jannidis, Fotis (to appear in June 2020): To BERT or
-not to BERT – Comparing contextual embeddings in a deep learning architecture for the automatic
-recognition of four types of speech, thought and writing representation, Proceedings of the 5th 
-SwissText & 16th KONVENS Joint Conference.*
+*Annelen Brunner, Ngoc Duyen Tanja Tu, Lukas Weimer, Fotis Jannidis: [To BERT or not to BERT – Comparing contextual embeddings in a deep learning architecture for the automatic recognition of four types of speech, thought and writing representation](http://ceur-ws.org/Vol-2624/paper5.pdf), Proceedings of the 5th Swiss Text Analytics Conference (SwissText) & 16th Conference on Natural Language Processing (KONVENS), Zurich, Switzerland, June 23-25, 2020.*
 
 The resulting models are available via our [Tagger page](https://github.com/redewiedergabe/tagger).
 
