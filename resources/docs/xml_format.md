@@ -28,6 +28,7 @@ Schema and Documentation: [data/xml/resources](../../data/main/xml/resources)
 | prag     | yes/no                                                                                   | STWR with a different pragmatic function, e.g. rhetorical figures       |
 | metaph   | yes/no                                                                                   | metaphorical STWR                                           |
 | border   | unspec/state/percept                                                                     | borderline cases of STWR (typically for thought representation), e.g. perceptions                            |
+| stwrnote | _raw text_                                                                               | Text input field for additional comments                    |
 
 ### Extensions of the TEI element `<seg>`
 | Attribute | Values | Description                                     |
