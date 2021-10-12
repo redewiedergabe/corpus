@@ -3659,12 +3659,6 @@ Suggested values include: 1] page; 2] column; 3] line; 4] book; 5] poem; 6] cant
             </attribute>
          </optional>
          <optional>
-            <attribute name="stwrnote">
-               <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">contains any additional comments.</a:documentation>
-            <text/>
-            </attribute>
-         </optional>
-         <optional>
             <attribute name="aloud">
                <a:documentation xmlns:a="http://relaxng.org/ns/compatibility/annotations/1.0">may be used to indicate whether the quoted matter is regarded as having been vocalized or signed.</a:documentation>
                <choice>
