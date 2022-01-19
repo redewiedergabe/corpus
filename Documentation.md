@@ -21,27 +21,27 @@ Project Redewiedergabe also provides [automatic taggers for German STWR](https:/
 # Available Data
 ## Core corpus
 
-|                            | Samples | Tokens  | STWR instances | Notes                                                   |
-|----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Main corpus](data/main)                | 838     | 489,459 | 12,123         |  [Detailed statistical data](#main-release-statistics)                                                      |
+|Folder      | Samples | Tokens  | STWR instances | Notes                                                   |
+|-----|---------|---------|----------------|---------------------------------------------------------|
+| main           | 838     | 489,459 | 12,123         |  [Detailed statistical data](#main-release-statistics)                                                      |
 ## Additional Material
 This is a collection of several types of additional annotated material produced by project Redewiedergabe. The material generally follows the same annotation guidelines and is available in the same formats as the main corpus, but has some idiosyncracies and less quality control. For additional information about the different corpus parts follow the links in the table.    
 
-|                            | Files | Tokens  | STWR instances | Notes                                                   |
-|----------------------------|---------|---------|----------------|---------------------------------------------------------|
-| [Single-annotated samples](resources/docs/single_annotated_samples.md) |  258    | 150,162 | 4,395          |  Annotations only by a single annotator 
-| [Single-annotated full texts (fictional)](resources/docs/full_texts.md) |   18   | 235,493|   6,232        |  Annotations only by a single annotator; **Note:** Annotation guidelines differ slightly with respect to *speaker*   
-| [Single-annotated full texts (non-fictional)](resources/docs/full_texts.md) |  15    | 84,769 |   1,472        | Annotations only by a single annotator 
-| [Indirect full texts](resources/docs/indirect-corpus.md)| 16| 51,864 | 272 | Only instances of *indirect* STWR with a simplified annotation system
-| [Free indirect full texts (fictional)](resources/docs/freeindirect-corpus.md) | 142 | 2,647,924 | 2,136 | Only instances of *free indirect* STWR with a simplified annotation system; semi-automated annotation
-| [Primary annotations of the core corpus](resources/docs/primary-annotations_main-corpus.md) | 1,704 | 989,384 | 27,297 | Collection of all individual annotations of the core corpus
+|                    |Folder| Files | Tokens  | STWR instances | Notes                                                   |
+|--------------------|--------|---------|---------|----------------|---------------------------------------------------------|
+| [Single-annotated samples](#single-annotated-samples) |additional/single_annotated/samples |  258    | 150,162 | 4,395          |  Annotations only by a single annotator 
+| [Single-annotated full texts (fictional)](#single-annotated-full-texts)|additional/single_annotated/full_fict |   18   | 235,493|   6,232        |  Annotations only by a single annotator; **Note:** Annotation guidelines differ slightly with respect to *speaker*   
+| [Single-annotated full texts (non-fictional)](#single-annotated-full-texts) | additional/single_annotated/full_nonfict |  15    | 84,769 |   1,472        | Annotations only by a single annotator 
+| [Indirect full texts](#indirect-corpus)|additional/simplified/indirect| 16| 51,864 | 272 | Only instances of *indirect* STWR with a simplified annotation system
+| [Free indirect full texts (fictional)](#free-indirect-corpus) |additional/simplified/free_indirect| 142 | 2,647,924 | 2,136 | Only instances of *free indirect* STWR with a simplified annotation system; semi-automated annotation
+| [Primary annotations of the core corpus](#primary-annotations-of-the-main-corpus) |additional/primary | 1,704 | 989,384 | 27,297 | Collection of all individual annotations of the core corpus
 
 
 # Format
 The corpus is available in three different formats:
-* [Column-based text format](resources/docs/column_based_text_format.md)
-* [XML format](resources/docs/xml_format.md)
-* [XMI format](resources/docs/xmi_format.md) (Not available for the Beta release)
+* [Column-based text format](#column-based-text-format)
+* [XML format](#xml-format)
+* [XMI format](#xmi-format) (Not available for the Beta release)
 
 NOTE: The XMI files are compatible with the free anntotation tool [ATHEN](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen) (developed by Markus Krug in the [Kallimachos project](http://kallimachos.de)) and its [STWR view](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen/blob/master/de.uniwue.mk.athen/releng/de.uniwue.mk.athen.docu/STWRView.md) (developed by Tanja Tu).
 
@@ -58,7 +58,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 
 Most recent publication: [Brunner, Annelen/Engelberg, Stefan/Jannidis, Fotis/Tu, Ngoc Duyen Tanja/Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille.](https://www.aclweb.org/anthology/2020.lrec-1.100.pdf)
 
-A complete list of all publications can be found [here](resources/docs/publications.md).
+A complete list of all publications can be found [here](#publications-of-project-redewiedergabe).
 
 # License
 
@@ -74,7 +74,7 @@ The "Redewiedergabe" corpus is a historical corpus of fictional and non-fictiona
 
 The corpus does not consist of complete texts but of text samples. The sample length is at least 500 tokens for texts from the Digitale Bibliothek and at least 200 tokens for newspaper/magazine texts. The samples are drawn randomly from the available material with following additional rules: For the texts from the Digitale Bibliothek, it was enforced that material by each author was considered evenly within a decade. Accordingly, for the texts from MKHZ it was enforced that the different newspapers/magazines were considered evenly. Thus we prevented authors or newspapers with little material from dropping out entirely during the sampling process.
  
-Each sample contains metadata with information about the publication time, text type, fictionality status and author and title if available (more information: [Metadata](resources/docs/metadata.md)).  
+Each sample contains metadata with information about the publication time, text type, fictionality status and author and title if available (more information: [Metadata](#metadata)).  
 
 # Annotation
 The corpus contains detailed annotation of instances of speech, thought and writing representation (STWR). We distiguish four main types: direct STWR (_Er sagte: "Ich bin hungrig."_), indirect STWR (_Er sagte, er sei hungrig._), free indirect STWR (_Wo sollte er jetzt etwas zu Essen herbekommen?_) and reported STWR (_Er sprach über Restaurants._), as well as the main media speech, thought and writing. In addition to that, we annotate attributes like embedding level, non-factual STWR, borderline cases, pragmatic and metaphoric use, as well as frames, introductory expressions and speakers. 
@@ -83,7 +83,7 @@ Each sample of the main corpus was annotated independently by two different peop
 
 The detailed annotation guidelines are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html) (in German). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634995.svg)](https://doi.org/10.5281/zenodo.2634995)
 
-An overview over the structure of the annotations is available at [Annotation structure](resources/docs/annotation_structure.md).
+An overview over the structure of the annotations is available at [Annotation structure](#annotation-structure).
 
 
 # Main release statistics
@@ -169,13 +169,13 @@ The graphic shows the distribution of the text types within the samples drawn fr
 
 # Single-annotated samples
 
-Folder: [data/additional/single_annotated/samples](../../data/additional/single_annotated/samples)
+Folder: `data/additional/single_annotated/samples`
 
 This is a collection of fictional and non-fictional samples that follow the same guidelines as the samples of the main corpus. The only difference is that the annotation was performed by only one annotator with no additional quality control. 
 
 The collection is roughly balanced for fictional vs. non-fictional as well as for decades. 
 
-Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
+Click the following links to get familiar with the [annotation structure](#annotation-structure), [metadata](#metadata) and the different formats available ([column-based text format](#column-based-text-format),  [xml-format](#xml-format),  [xmi-format](#xmi-format)).
 
 ## Statistics
 
@@ -199,7 +199,7 @@ In total, this collection consists of 33 files with 320,262 tokens.
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
 
 ## Fictional full texts
-Folder: [data/additional/single_annotated/full_fict](../../data/additional/single_annotated/full_fict)
+Folder: `data/additional/single_annotated/full_fict`
 
 This collection consists of complete narrative texts. The source was [Digitale Bibliothek](https://textgrid.de/digitale-bibliothek).
 
@@ -235,7 +235,7 @@ This change affected only the following texts: *Der Gefangene*, *Die Doppelgäng
 
 
 ## Non-fictional full texts
-Folder: [data/additional/single_annotated/full_nonfict](../../data/additional/single_annotated/full_nonfict)
+Folder: `data/additional/single_annotated/full_nonfict`
 
 This collection consists of complete magazine and newspaper articles. The sources were the journal ['Die Grenzboten'](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) and different periodicals from the [Mannheimer Korpus Historischer Zeitungen und Zeitschriften](http://www.deutschestextarchiv.de/doku/textquellen#mkhz). 
 
@@ -263,21 +263,23 @@ This collection consists of complete magazine and newspaper articles. The source
 
 # Indirect corpus
 
+folder: `data/additional/simplified/indirect`
+
 This subcorpus was created to generate training data for our recognizers, especially for **indirect STWR**. The annotation system is strongly reduced, *only* specifying the type indirect (without medium or attributes).  Frame, intExpr and speaker are not annotated.
 
-To create this corpus, the texts were  tagged by one of our automatic indirect recognizers. The annotation was then corrected by humans, who checked the whole texts, so false negatives were corrected as well. Annotation quality should therefore be comparable to the [single-annotated files](/data/additional/single_annotated).
+To create this corpus, the texts were  tagged by one of our automatic indirect recognizers. The annotation was then corrected by humans, who checked the whole texts, so false negatives were corrected as well. Annotation quality should therefore be comparable to the single-annotated files (`data/additional/single_annotated`).
 
-The indirect corpus is only available in [column-based text format](/resources/docs/column_based_text_format.md) in a reduced form (only tokens and category).
+The indirect corpus is only available in [column-based text format](#column-based-text-format) in a reduced form (only tokens and category).
 
 ## Statistics
 
 This corpus consists of **16 files**, containing **51,864 tokens** with	**272 instances** of indirect STWR.
 
-A list of all texts including author, title, year of publication and information on fictionality be found [here](/data/additional/simplified/indirect/txt/metadata_indirect.tsv).
+A list of all texts including author, title, year of publication and information on fictionality be found at: `data/additional/simplified/indirect/txt/metadata_indirect.tsv`
 
 # Free indirect corpus
 
-folder: [/data/additional/simplified/free_indirect](/data/additional/simplified/free_indirect)
+folder: `data/additional/simplified/free_indirect`
 
 This subcorpus was created to generate training data training data for our recognizers specifically for **free indirect STWR**. The annotation system is strongly reduced, *only* specifying the type free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
 
@@ -290,31 +292,32 @@ The annotations were generated semi-automatically: The texts were  tagged by one
 This corpus consists of **142 files**, containing **2,647,924 tokens** with	**2,136 instances** of free indirect STWR.
 
 
-A list of all texts including author, title and year of publicationcan be found [here](/data/additional/simplified/free_indirect/txt/metadata_fi.tsv).
+A list of all texts including author, title and year of publicationcan be found at:
+`data/additional/simplified/free_indirect/txt/metadata_fi.tsv`
 
 # Primary annotations of the main corpus
 
-folder: [/data/additional/primary](/data/additional/primary)
+folder: `data/additional/primary`
 
- Each sample of the [main corpus](/data/main) was annotated independently by two different people. Then, a third person created a consens annotation on this basis - these are the annotations you find in the main corpus. 
+ Each sample of the main corpus (`data/main`) was annotated independently by two different people. Then, a third person created a consens annotation on this basis - these are the annotations you find in the main corpus. 
  
  In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consens annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
   
- A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated) and the [free indirect sub-corpus](/data/additional/simplified/free_indirect).
+ A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of single-annotated files (`data/additional/single_annotated`) and the free indirect sub-corpus(`data/additional/simplified/free_indirect`).
  
- We provide a list ([tsv](/data/additional/primary/rwk1_list.tsv) and [xlsx](/data/additional/primary/rwk1_list.xlsx) format that lists the available single-person annotations for all main corpus samples. For 3 samples (rwk_digbib_1134-1, rwk_digbib_1299-1, rwk_digbib_935-1), we can only provide one primary annotation. 
+ We provide a list (`data/additional/primary/rwk1_list.tsv`) that contains the available single-person annotations for all main corpus samples. For 3 samples (rwk_digbib_1134-1, rwk_digbib_1299-1, rwk_digbib_935-1), we can only provide one primary annotation. 
  
  
  **Note**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the OpenNLP Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
- In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"). 
+ In the folder `data/additional/primary/consens`,  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"). 
  
  
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
 
- In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
+ In the folder `data/additional/primary/resources_xmi` you find an extended typesystem for the XMI version of these files.
 
 ## Annotator agreement
-The following table lists the annotator agreement scores for 834 samples of the main corpus (4 samples are missing in this calculation). If more than two primary annotation was available, two were chosen at random. 
+The following table lists the annotator agreement scores for 834 samples of the main corpus (4 samples are missing in this calculation). If more than two primary annotations were available, two were chosen at random. 
 
 | annotations   | Fleiss’ Kappa |               |
 |---------------|---------------|---------------|
@@ -434,9 +437,9 @@ Generally, each frame annotation is linked to one IntExpr and one Speaker annota
 
 ## General remarks
 
-Folder: [data/main/txt](../../data/main/txt)
+Folder: `data/main/tsv` (and other subfolders called `tsv`)
 
-Corpus metadata is available in the file **metadata** ([tsv format](../../data/main/txt/metadata.tsv) or [Excel format](../../data/main/txt/metadata.xlsx))
+Corpus metadata is available in the file `metadata.tsv`.
 
 The corpus consists of UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample (Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de)).
 
@@ -492,9 +495,9 @@ Example:
 This token is annotated as speaker with two IDs: 12 and 19 (i.e. this speaker is associated with the STWR annotation with ID=12 as well as the STWR annotation with ID=19).
 
 
-# XML
+# XML format
 
-Folder: [data/xml](../../data/main/xml)
+Folder: `data/main/xml` (and other subfolders called `xml`)
 
 This version of the corpus consists of TEI compliant XML files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
 
@@ -532,7 +535,7 @@ Schema and Documentation: [data/xml/resources](../../data/main/xml/resources)
 
 The attribute `type` of the `<seg>` tag is used to specify which information the tag is used for. Options are: frame, speaker, intExpr.
 
-# XMI
+# XMI format
 
 ## General remarks
 Folder: [data/main/xmi](../../data/main/xmi)
