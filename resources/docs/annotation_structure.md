@@ -2,11 +2,11 @@
 
 This is a short overview over the annotations used in the "Redewiedergabe" corpus, their structure and names.
 
-**NOTE**: This page only explains the technical structure of the annotation. To really understand the meaning and proper usage of these categories, we strongly recommend consulting the [detailed annotation guidelines](http://redewiedergabe.de/richtlinien/richtlinien.html) on our project homepage (in German). 
+**NOTE**: This page only explains the technical structure of the annotation. To really understand the meaning and proper usage of these categories, we strongly recommend consulting the detailed annotation guidelines (in German) at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634994.svg)](https://doi.org/10.5281/zenodo.2634994).
 
 Spelling and formatting of the attribute names differ slightly in the output formats [column-based text format](column_based_text_format.md) and [XML format](xml_format.md) (cf. documentation of these formats), but this page explains the general structure and caveats.
 
-This visualization can give you a first impression.
+The following visualizations can give you a first impression.
 
 A standard case:
 
@@ -17,9 +17,9 @@ A case of embedded STWR:
 ![example2, Louise von François: Phosphorus Hollunder (1881)](/resources/docs/img/example_embedding.png)
 
 # Note (Footnote text)
-The samples of the "Redewiedergabe" corpus sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original full texts in order to ensure that the footnote text can be separated from the main text if necessary.
+The samples of the "Redewiedergabe" corpus sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original texts in order to ensure that the footnote text can be separated from the main text if necessary.
 
-_Warning:_ Footnote text can interrupt sentences! Sentence splitting information (in the column-based format) is not correct in these cases.
+NOTE: Footnote text can interrupt sentences! Sentence splitting information (in the column-based text format) is not correct in these cases.
 
 # Annotation STWR (Speech, Thought, Writing Representation)
 ## Main attributes
@@ -48,21 +48,21 @@ These attributes are optional.
 
 | Attribute | Values          | Description                                                                                                                    |
 |-----------|-----------------|--------------------------------------------------------------------------------------------------------------------------------|
-| id        | _Number_        | ID; links the annotations to each other as well as to one or more STWR annotations; may have the value 0 for frame/speaker/intExpr annotations without corresponding STWR annotations (this may occur at the end of a sample)                    |
+| id        | _Number_        | ID; links the annotations to each other as well as to one or more STWR annotations; may have the value 0 for Frame/Speaker/IntExpr annotations without corresponding STWR annotations (this may occur at the end of a sample)                    |
 | pos       | start, mid, end | only for frame: position of the frame relative to its STWR; start=before the STWR, mid=interrupts the STWR, end=after the STWR |
 
-In rare cases, frame annotations can appear without a linked STWR, if they are positioned at the end of a sample. In these cases, the ID has value zero.
+In rare cases, Frame annotations can appear without a linked STWR, if they are positioned at the end of a sample. In these cases, the ID has value zero.
 
 Speaker annotations can have more than one ID, if they are associated with several different STWR annotations. 
 
-Frame annotations can only be linked to STWR annotations with the types *direct* or *indirect*. IntExpr annotations can additionally be linked to STWR annotations with the type *reported*. Speaker annotations can be linked to STWR annotations of any type.
+Frame annotations can only be linked to STWR annotations with the types *direct* or *indirect*. IntExpr annotations can be linked to STWR annotations with the type *direct*, *indirect* or *reported*. Speaker annotations can be linked to STWR annotations of any type.
 
-IntExpr annotations only appear within frame annotations or within STWR annotations of the type reported.
+IntExpr annotations only appear within F rame annotations or within STWR annotations of the type *reported*.
 
-Generally, each frame annotation is linked to one IntExpr and one Speaker annotation. However, there are exceptions to this rule:
-* There can be several IntExpr annotations for one frame annotation. These are either coordinated elements ("er _bat_ und _bettelte_") or parts of a phrase or a complex verb that are separated ("er _rief_ laut _aus_").
-* There can be several Speaker annotations for one frame annotation. These are coordinated elements (e.g. several different people).
-* There may be frame annotations that have neither Speaker nor IntExpr (if those could not be identified).
+Generally, each Frame annotation is linked to one IntExpr and one Speaker annotation. However, there are exceptions to this rule:
+* There can be several IntExpr annotations for one Frame annotation. These are either coordinated elements ("er _bat_ und _bettelte_") or parts of a phrase or a complex verb that are separated ("er _rief_ laut _aus_").
+* There can be several Speaker annotations for one Frame annotation. These are coordinated elements (e.g. several different people).
+* There may be Frame annotations that have neither Speaker nor IntExpr (if those could not be identified).
 
 # Additional structural remarks
 * STWR annotations are often nested. The maximum nesting depth is level=5, which is very rare.

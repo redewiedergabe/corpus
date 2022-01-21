@@ -1,6 +1,6 @@
 # XML
 
-Folder: [data/xml](../../data/main/xml)
+Folder: subfolders called `xml`
 
 This version of the corpus consists of TEI compliant XML files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
 
@@ -14,7 +14,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 # Project-specific TEI extensions
 We created a RELAX-NG syntax schema that adapts the TEI Module for Linguistic corpora to the annotation schema of the project Redewiedergabe. The following paragraph lists the extensions we defined.
 
-Schema and Documentation: [data/xml/resources](../../data/main/xml/resources)
+The Schema and its documentation can be found in the subfolder `resources` in each XML folder. In the [primary annotations corpus](primary-annotations_main-corpus.md) these files are stored in `data/additional/primary/resources_xml`.
 
 ## Extensions of the TEI element `<said>`
 

@@ -2,13 +2,13 @@
 
 # General remarks
 
-Folder: [data/main/txt](../../data/main/txt)
+Folder: subfolders called `tsv`
 
-Corpus metadata is available in the file **metadata** ([tsv format](../../data/main/txt/metadata.tsv) or [Excel format](../../data/main/txt/metadata.xlsx))
+Each tsv-folder contains two files (tsv and Excel format) with a name starting with 'metadata' that contain corpus metadata.
 
-The corpus consists of UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample (Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de)).
+The corpus consists of UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) for all corpora except the [primary annotations corpus](primary-annotations_main-corpus.md).
 
-In addition to the annotations added by the project Redewiedergabe, the files also contain morpho-syntactic annotations produced by automatic tools that were not developed by the project Redewiedergabe.
+In addition to the annotations added by project Redewiedergabe, the files also contain morpho-syntactic annotations produced by automatic tools that were not developed by project Redewiedergabe.
 
 For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md). 
 

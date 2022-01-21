@@ -8,22 +8,25 @@ folder: [/data/additional/primary](/data/additional/primary)
   
  A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated) and the [free indirect sub-corpus](/data/additional/simplified/free_indirect).
  
- We provide a list ([tsv](/data/additional/primary/rwk1_list.tsv) and [xlsx](/data/additional/primary/rwk1_list.xlsx) format that lists the available single-person annotations for all main corpus samples. For 3 samples (rwk_digbib_1134-1, rwk_digbib_1299-1, rwk_digbib_935-1), we can only provide one primary annotation. 
+ In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG syntax schema and its documentation for the XML version of these files.
+
+ In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
+ 
+ We provide an overview 'annotators per file' (in [tsv](/data/additional/primary/annotators_per_file.tsv) and [xlsx](/data/additional/primary/annotators_per_file.xlsx) format) that lists the available single-person annotations for all main corpus samples. For 3 samples (rwk_digbib_1134-1, rwk_digbib_1299-1, rwk_digbib_935-1), we can only provide one primary annotation (the second annotation existed during corpus creation, but in an outdated format). 
  
  
- **Note**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the OpenNLP Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
- In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"). 
+ **NOTE**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the [OpenNLP](https://opennlp.apache.org/) Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
+ In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
  
  
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
 
- In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
 
 ## Annotator agreement
 The following table lists the annotator agreement scores for 834 samples of the main corpus (4 samples are missing in this calculation). If more than two primary annotations were available, two were chosen at random. 
-| annotations   | Fleiss’ Kappa |               |
+
+| annotations   | Fleiss’ Kappa (type)|  Fleiss’ Kappa (type & medium)           |
 |---------------|---------------|---------------|
-|               | type          | type & medium |
 | all types     | 0.73          | 0.72          |
 | only direct   | 0.92          | 0.89          |
 | only indirect | 0.73          | 0.68          |
@@ -33,6 +36,7 @@ The following table lists the annotator agreement scores for 834 samples of the 
 
 ## Statistics
 Distribution of annotators
+
 | annotator | files | tokens | instances |
 |-----------|-------|--------|-----------|
 | mercury | 188 | 109,029 | 2,508 |
@@ -46,7 +50,8 @@ Distribution of annotators
 | pluto | 6 | 3,578 | 102 |
 | *total* | *1,704* | *989,384* | *27,297* |
 
-Instances of STWR-types per annotator
+Instances of STWR types per annotator
+
 | annotator | direct | indirect | free indirect | indirect/free indirect | reported |
 |-----------|--------|----------|---------------|------------------------|----------|
 | mercury | 906 | 442 | 47 | 7 | 1,105 |
@@ -60,4 +65,3 @@ Instances of STWR-types per annotator
 | pluto | 16 | 34 | 0 | 3 | 49 |
 | *total* | *8,256* | *5,424* | *299* | *124* | *13,182* |
 
-+12 ambiguous STWR-types

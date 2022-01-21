@@ -11,7 +11,7 @@ or
 
 `rwk_source_textid_short`
 
-Example: `rwk_digbib_123_2` means this is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source digbib (Digitale Bibliothek). The ending `short` can only appear for the newspaper sources (mkhz and grenz) and marks files that contain full articles (rather than excerpts) which are shorter than 500 tokens.
+Example: `rwk_grenz_123_2` means this is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source grenz (magazine "Die Grenzboten"). The ending `short` can only appear for the newspaper/magazine sources (mkhz and grenz) and marks files that contain full articles (rather than excerpts) which are shorter than 500 tokens.
 
  
 # Metadata table
@@ -24,7 +24,7 @@ Example: `rwk_digbib_123_2` means this is the second excerpt drawn from a text w
 | author    | _String_, Undefined                                                                                         | Author of the text, if available                                                                                                                                  |
 | fictional | yes, no                                                                                                   | Is the text sample fictional?                                                                                                                                |
 | text_type | Erzähltext, Kommentar, Anzeige, Reportage, Nachrichten, Biographie, Rezension, Reisebericht/Brief, unsure | Type of the text; if a sample contains several different texts (e.g. Kommentar and Anzeige), the dominant type is used for classification or the value is set to 'unsure' |
-| filename    | _String_                                                     | Name of the source file this sample was pulled from. **Note**: We do not guarantee that these file names remain stable in the text sources.            |
+| filename    | _String_                                                     | Name of the source file this sample was pulled from. **NOTE**: We do not guarantee that these file names remain stable in the text sources.            |
 | dialect     | yes, no, yes_DS (only in direct speech)                    | Information whether this sample contains a significant amount of non-standard German                                                              |
 | perspective | first, first_plural ('we'), third                          | Predominant narrative perspective of the sample                                                                                                   |
 | quotes      | dash, german,  chevron, chevron_single, none, other, undef | Quotation marks predominantly used in this sample; may contain more than one value if more than one type is used (e.g. "chevron chevron_single")) |

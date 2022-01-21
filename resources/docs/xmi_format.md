@@ -1,14 +1,20 @@
 # XMI
 
+NOTE: We provide XMI files as a convenience for DKPro users, but offer no further support for this format.
+
 ## General remarks
-Folder: [data/main/xmi](../../data/main/xmi)
+Folder: subfolders called `xmi`
 
-Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
+This version of the corpus consists of XMI files as used by the [DKPro framework](https://dkpro.github.io/dkpro-core/). Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [column-based text](column_based_text.md) formats. 
+DKPro needs a so-called type system to process the XMI files. The necessary type systems can be found in the subfolder `resources` in each XMI folder. In the [primary annotations corpus](primary-annotations_main-corpus.md) the type systems are stored in `data/additional/primary/resources_xmi`. These type systems work for all primary annotator XMI files. We provide two type systems to choose from:
+* `rwTypesystem.xml` is the minimal type system needed to work with the XMI files in DKPro.
+* `rwTypesystem_stwrview.xml` contains some additional definitions needed to properly display the texts in the [ATHEN annotation tool](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen) with its [STWR view](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen/blob/master/de.uniwue.mk.athen/releng/de.uniwue.mk.athen.docu/STWRView.md).
 
-This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [text](column_based_text_format.md) formats. The files contain the following types of annotations:
+The following types of annotations are relevant for the files of corpus Redewiedergabe and will be explained further. Some XMI files might contain additional annotations which were needed during the project workflow.   
+
 * **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of these annotations see [Annotation structure](annotation_structure.md) and [Metadata](metadata.md).
 * **Text**: Structural marker. The relevant text of the sample is enclosed in this annotation.
-* **CabToken, Sentence**: Additional morpho-syntactic annotation produced by automatic tools that were not developed by the project Redewiedergabe (CAB, RFTagger, references see below). 
+* **CabToken, Sentence**: Additional morpho-syntactic annotation produced by automatic tools that were not developed by the project Redewiedergabe (CAB, RFTagger, references see below). XMI files of the main corpus and the primary annotations corpus also contain **Token** (token annotation produced by the [OpenNLP](https://opennlp.apache.org/) tokenizer).
 * **TeiType**: Additional XML tags coded as XMI annotations. In the workflow of the project Redewiedergabe, samples were pulled from TEI complient XML files, then annotated with the CAB tool in XML mode and finally converted to XMI. The annotation **TeiType** preserves all XML annotations that were detected in the input documents. These annotations are diverse and have not been standardized in any way. They are provided as optional information for anyone who is interested in the relationship of the Redewiedergabe annotations to original TEI markers.
 
 NOTE: Some XMI files contain textual metadata information at the beginning of the document. This information should be ignored by *only* processing the Annotation element **Text**. The correct metadata is stored in the annotation **Metadata**.  
@@ -24,6 +30,7 @@ The XMI files are compatible with the anntotation tool [ATHEN](https://gitlab2.i
 | Type| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | CabToken      | String                                                                      | token (tokenization by CAB) |
+| Token      | String                                                                      | token (tokenization by OpenNLP) *only in main corpus and primary annotations corpus*  |
 | Frame| String                                         | frame of the STWR            |
 | IntExpression     | String                                                                       | word/s introducing the STWR            |
 | Metadata       | String                                                   | metadata of the sample          |
@@ -33,6 +40,7 @@ The XMI files are compatible with the anntotation tool [ATHEN](https://gitlab2.i
 | TeiType     | String                                                                             | addition XML tags from the  the source material |
 | Text | String | textual content of the sample |
 ## Features
+
 
 ### Features of the type **CabToken**
 
@@ -44,6 +52,18 @@ The XMI files are compatible with the anntotation tool [ATHEN](https://gitlab2.i
 | Pos       | String                                                   | morphological information (provided by CAB)        |
 | Lemma     | String                                          | lemma (provided by CAB)         |
 | RfPos | String | morphological information (provided by RF-Tagger)         |
+
+### Features of the type **Token**
+
+| Feature| Value                                                                                        | Description                      |
+|-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
+| TokenId      | String                                                                      | token id |
+| Pos       | String                                                   | morphological information (provided by OpenNLP)        |
+| Lemma     | String                                          | lemma (provided by OpenNLP)         |
+| RfPos | String | morphological information (provided by RF-Tagger)         |
+
+Token has additional features (CPos, Morphology, DependencyHead, DependencyRelation, NamedEntity, CorefId) that are not relevant in the context of corpus Redewiedergabe. 
+
 
 ### Features of the type **Frame**
 

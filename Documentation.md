@@ -88,7 +88,7 @@ An overview over the structure of the annotations is available at [Annotation st
 
 # Main release statistics
 
-The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
+The following statistics are for the main release of the "Redewiedergabe" corpus. Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](#column-based-text-format)).
 
 ## Samples and tokens
 
@@ -196,7 +196,7 @@ This is a collection of fictional and non-fictional complete texts, annotated ac
 
 In total, this collection consists of 33 files with 320,262 tokens.
 
-Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
+Click the following links to get familiar with the [annotation structure](#annotation-structure), [metadata](#metadata) and the different formats available ([column-based text format](#column-based-text-format),  [xml-format](#xml-format),  [xmi-format](#xmi-format)).
 
 ## Fictional full texts
 Folder: `data/additional/single_annotated/full_fict`
@@ -275,7 +275,7 @@ The indirect corpus is only available in [column-based text format](#column-base
 
 This corpus consists of **16 files**, containing **51,864 tokens** with	**272 instances** of indirect STWR.
 
-A list of all texts including author, title, year of publication and information on fictionality be found at: `data/additional/simplified/indirect/txt/metadata_indirect.tsv`
+A list of all texts including author, title, year of publication and information on fictionality be found at: `data/additional/simplified/indirect/tsv/metadata_indirect.tsv`
 
 # Free indirect corpus
 
@@ -293,7 +293,7 @@ This corpus consists of **142 files**, containing **2,647,924 tokens** with	**2,
 
 
 A list of all texts including author, title and year of publicationcan be found at:
-`data/additional/simplified/free_indirect/txt/metadata_fi.tsv`
+`data/additional/simplified/free_indirect/tsv/metadata_fi.tsv`
 
 # Primary annotations of the main corpus
 
@@ -311,8 +311,7 @@ folder: `data/additional/primary`
  **Note**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the OpenNLP Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
  In the folder `data/additional/primary/consens`,  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"). 
  
- 
-Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
+Click the following links to get familiar with the [annotation structure](#annotation-structure), [metadata](#metadata) and the different formats available ([column-based text format](#column-based-text-format),  [xml-format](#xml-format),  [xmi-format](#xmi-format)).
 
  In the folder `data/additional/primary/resources_xmi` you find an extended typesystem for the XMI version of these files.
 
@@ -369,7 +368,7 @@ This is a short overview over the annotations used in the "Redewiedergabe" corpu
 
 **NOTE**: This page only explains the technical structure of the annotation. To really understand the meaning and proper usage of these categories, we strongly recommend consulting the [detailed annotation guidelines](http://redewiedergabe.de/richtlinien/richtlinien.html) on our project homepage (in German). 
 
-Spelling and formatting of the attribute names differ slightly in the output formats [column-based text format](column_based_text_format.md) and [XML format](xml_format.md) (cf. documentation of these formats), but this page explains the general structure and caveats.
+Spelling and formatting of the attribute names differ slightly in the output formats [column-based text format](#column-based-text-format) and [XML format](#xml-format) (cf. documentation of these formats), but this page explains the general structure and caveats.
 
 This visualization can give you a first impression.
 
@@ -437,15 +436,15 @@ Generally, each frame annotation is linked to one IntExpr and one Speaker annota
 
 ## General remarks
 
-Folder: `data/main/tsv` (and other subfolders called `tsv`)
+Folder: subfolders called `tsv`
 
-Corpus metadata is available in the file `metadata.tsv`.
+Corpus metadata is available in the file `metadata.tsv` (or similar) in these subfolders.
 
 The corpus consists of UTF-8 coded files with the file ending "tsv" (tab-separated values). Each file contains a sample in a column-based format. The columns are separated by tabstops and each line corresponds to one token of the sample (Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de)).
 
 In addition to the annotations added by the project Redewiedergabe, the files also contain morpho-syntactic annotations produced by automatic tools that were not developed by the project Redewiedergabe.
 
-For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md). 
+For a more detailed explanation of the annotation structure see [Annotation structure](#annotation-structure). 
 
 ### References:  
 * **CAB ("Cascaded Analysis Broker" for error-tolerant linguistic analysis)**: Jurish, B. Finite-state Canonicalization Techniques for Historical German. PhD thesis, Universität Potsdam, 2012 (defended 2011). `URN urn:nbn:de:kobv:517-opus-55789`. [Documentation](http://odo.dwds.de/~moocow/software/DTA-CAB)    
@@ -497,15 +496,15 @@ This token is annotated as speaker with two IDs: 12 and 19 (i.e. this speaker is
 
 # XML format
 
-Folder: `data/main/xml` (and other subfolders called `xml`)
+Folder: subfolders called `xml`
 
 This version of the corpus consists of TEI compliant XML files. Each file contains the text of one sample and the annotations of the project Redewiedergabe.
 
-For a more detailed explanation of the annotation structure see [Annotation structure](annotation_structure.md).
+For a more detailed explanation of the annotation structure see [Annotation structure](#annotation-structure).
 
 ## Structure of a sample file
 * TEI header with general information
-* `<fs>` tag with metadata in the format defined by the Redewiedergabe project (see [Metadata](metadata.md))
+* `<fs>` tag with metadata in the format defined by the Redewiedergabe project (see [Metadata](#metadata))
 * The sample text contains the following XML tags: `<said>` (STWR annotation), `<seg>` (frame/speaker/intExpr annotation), `<note>` (footnote text), `<p>` (paragraph; always covers the full sample text)
 
 ## Project-specific TEI extensions
@@ -538,12 +537,12 @@ The attribute `type` of the `<seg>` tag is used to specify which information the
 # XMI format
 
 ## General remarks
-Folder: [data/main/xmi](../../data/main/xmi)
+Folder: subfolders called `xmi`
 
-Typesystem: [data/main/xmi/resources](../../data/main/xmi/resources)
+Typesystem: `data/main/xmi/resources`
 
-This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [text](column_based_text_format.md) formats. The files contain the following types of annotations:
-* **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of these annotations see [Annotation structure](annotation_structure.md) and [Metadata](metadata.md).
+This version of the corpus consists of XMI files. Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](#xml-format) and [text](#column-based-text-format) formats. The files contain the following types of annotations:
+* **STWR, Frame, IntExpr, Speaker, Metadata**: Annotations specific to the project Redewiedergabe. For a more detailed explanation of these annotations see [Annotation structure](#annotation-structure) and [Metadata](#metadata).
 * **Text**: Structural marker. The relevant text of the sample is enclosed in this annotation.
 * **CabToken, Sentence**: Additional morpho-syntactic annotation produced by automatic tools that were not developed by the project Redewiedergabe (CAB, RFTagger, references see below). 
 * **TeiType**: Additional XML tags coded as XMI annotations. In the workflow of the project Redewiedergabe, samples were pulled from TEI complient XML files, then annotated with the CAB tool in XML mode and finally converted to XMI. The annotation **TeiType** preserves all XML annotations that were detected in the input documents. These annotations are diverse and have not been standardized in any way. They are provided as optional information for anyone who is interested in the relationship of the Redewiedergabe annotations to original TEI markers.

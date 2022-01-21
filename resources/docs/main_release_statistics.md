@@ -21,7 +21,7 @@ In total, the corpus contains 838 samples and 489,459 tokens.
 # STWR instances
 The following tables list the number of annotated STWR instances in the corpus. These instances vary greatly in length, between one token (possible for STWR types direct and reported) and several sentences (possible for STWR types direct, freeIndirect and indirect/freeIndirect.)
 
-Note that there are also samples that do not contain any instances. These samples were not excluded to guarantee representativity.
+Note that there are also samples that do not contain any instances. These samples were not excluded as the corpus is supposed to be representative with regard to the frequency of STWR. 
 
 ## STWR types
 | Type                    | Number of instances | Percent of all annotated STWR instances|
@@ -49,11 +49,11 @@ Note that there are also samples that do not contain any instances. These sample
 |                    | fictional           | fictional                   | non-fictional       | non-fictional               |
 | direct             | 3527                | 22.2                        | 639                 | 39.5                        |
 | indirect           | 1424                | 12.4                        | 1245                | 18.4                        |
-| free ind           | 132                 | 26.4                        | 4                   | 14.0                        |
-| indirect/ free ind | 65                  | 32.8                        | 66                  | 31.7                        |
+| free indirect           | 132                 | 26.4                        | 4                   | 14.0                        |
+| indirect/ free indirect | 65                  | 32.8                        | 66                  | 31.7                        |
 | reported           | 2778                | 8.0                         | 2653                | 11.2                        |
 
-The average length varies between ST&WR types and between fictional vs. non-fictional texts. While _free indirect_ and _indirect/free indirect_ are too infrequent to draw robust conclusions, it is interesting to note that for the three remaining types the instances in non-fictional texts are longer on average. 
+The average length varies between STWR types and between fictional vs. non-fictional texts. While free indirect and indirect/free indirect are too infrequent to draw robust conclusions, it is interesting to note that for the three remaining types the instances in non-fictional texts are longer on average. 
 
 # STWR token percentages
 
@@ -63,7 +63,7 @@ The graphics show the distribution of types and media in fictional vs. non-ficti
 
 ![rw_Types](/resources/docs/img/rw_type.png)
 
-Direct and free indirect ST&WR are clearly more common in fictional texts. Free indirect even occurs almost exclusively there, but is very infrequent in general, due to the historical nature of our corpus. Indirect and reported ST&WR on the other hand are more frequent in non-fictional texts, though the difference is not as pronounced.
+Direct and free indirect STWR are clearly more common in fictional texts. Free indirect even occurs almost exclusively there, but is very infrequent in general, due to the historical nature of our corpus. Indirect and reported STWR on the other hand are more frequent in non-fictional texts, though the difference is not as pronounced.
 
 ## STWR medium
 
@@ -73,7 +73,7 @@ The graphic only shows the most frequent ambiguous category "speech/writing" (am
 
 Speech representation is dominant in fictional texts and writing in non-fictional ones. The latter is due to book reviews and to written communication often being a topic in news stories. The high percentage of speech/writing also indicates that the medium tends to be underspecified and probably considered less important than the represented content in non-fiction.  
 
-# Text types
+# Text types (newspaper/magazine sources)
 
 ![text types](/resources/docs/img/text_type.png)
 
