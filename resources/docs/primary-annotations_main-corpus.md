@@ -2,13 +2,13 @@
 
 folder: [/data/additional/primary](/data/additional/primary)
 
- Each sample of the [main corpus](/data/main) was annotated independently by two different people. Then, a third person created a consens annotation on this basis - these are the annotations you find in the main corpus. 
+ Each sample of the [main corpus](/data/main) was annotated independently by two different people. Then, a third person created a consensus annotation on this basis - these are the annotations you find in the main corpus. 
  
- In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consens annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
+ In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consensus annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
   
  A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated) and the [free indirect sub-corpus](/data/additional/simplified/free_indirect).
  
- In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG syntax schema and its documentation for the XML version of these files.
+ In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG syntax and its documentation for the XML version of these files.
 
  In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
  
@@ -16,7 +16,7 @@ folder: [/data/additional/primary](/data/additional/primary)
  
  
  **NOTE**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the [OpenNLP](https://opennlp.apache.org/) Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
- In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consens annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
+ In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consensus annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
  
  
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
