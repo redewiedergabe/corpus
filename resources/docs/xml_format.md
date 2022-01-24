@@ -12,7 +12,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 * The sample text contains the following XML tags: `<said>` (STWR annotation), `<seg>` (frame/speaker/intExpr annotation), `<note>` (footnote text), `<p>` (paragraph; always covers the full sample text)
 
 # Project-specific TEI extensions
-We created a RELAX-NG syntax schema that adapts the TEI Module for Linguistic corpora to the annotation schema of the project Redewiedergabe. The following paragraph lists the extensions we defined.
+We created a RELAX-NG schema that adapts the TEI Module for Linguistic corpora to the annotation schema of the project Redewiedergabe. The following paragraph lists the extensions we defined.
 
 The Schema and its documentation can be found in the subfolder `resources` in each XML folder. In the [primary annotations corpus](primary-annotations_main-corpus.md) these files are stored in `data/additional/primary/resources_xml`.
 
