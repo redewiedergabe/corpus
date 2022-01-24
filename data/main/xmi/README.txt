@@ -1,0 +1,8 @@
+This folder contains the main release of the core corpus REDEWIEDERGABE in XMI-format, as used by the annoation framework DKPro (https://dkpro.github.io/). 
+Each file contains the text of one sample, its metadata and the annotations of project REDEWIEDERGABE.
+
+Folder "resources" contains the type systems needed to process the XMI files.
+
+NOTE: We provide XMI files as a convenience for DKPro users, but offer no further support for this format.
+
+For more detailed information please consult the documentation.
