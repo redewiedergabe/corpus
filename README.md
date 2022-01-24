@@ -21,7 +21,7 @@ Project Redewiedergabe also provides [automatic taggers for German STWR](https:/
 
 ## License
 
-The "Redewiedergabe" corpus is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+The corpus "Redewiedergabe" is available under a Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 
 We ask you to mention [project "Redewiedergabe"](http://www.redewiedergabe.de) regarding the annotation, and [project TextGrid](https://textgrid.de/digitale-bibliothek), [Deutsches Textarchiv](http://www.deutschestextarchiv.de), [Leibniz-Institut für Deutsche Sprache](http://www1.ids-mannheim.de) and [Universitätsbibliothek Bremen](http://brema.suub.uni-bremen.de) regarding the texts.
 
