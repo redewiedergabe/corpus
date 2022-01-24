@@ -21,7 +21,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 | Column | Description                                                                                        | Type                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | tok       | token (tokenization by CAB)                                                                        | surface |
-| normtok   | ortographically normalized token (provided by CAB)                                           | NLP information           |
+| normtok   | orthographically normalized token (provided by CAB)                                           | NLP information           |
 | lemma     | lemma (provided by CAB)                                                                        | NLP information           |
 | pos       | morphological information (provided by CAB)                                                   | NLP information           |
 | rfpos     | morphological information (provided by RF-Tagger)                                             | NLP information           |
@@ -36,9 +36,9 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 The STWR annotation can have many attributes and can be nested. Because of this, the column **stwr** contains complex values.
 
 * The character `|` (vertical line) is used as separator, if a token has several annotations of different levels (nested STWR). The first annotation can be interpreted as level=1, the second annotation as level=2 etc. (Maximum nesting depth is 5)
-* The character `.` (dot) is used to separate the attributes of a single STWR annotation. The following order is used: **Type**, **Medium**, **ID**, Nonfact, Border, Prag, Metaph. The three bolded attributes are obligatory, the other four may be missing, if the corresponding attributes are not relevant.
+* The character `.` (dot) is used to separate the attributes of a single STWR annotation. The following order is used: **Type**, **Medium**, **ID**, Nonfact, Border, Prag, Metaph. The three bold attributes are obligatory, the other four may be missing, if the corresponding attributes are not relevant.
 * The attribute border is further specified by a value after the character `=` (equals sign) (e.g. border=state)
-* Alternative values are separated by the character `_` (low dash). This can happen for the attributes **Type** (e.g. indirect_freeIndirect) und **Medium** (e.g. speech_thought).
+* Alternative values are separated by the character `_` (low dash). This can happen for the attributes **Type** (e.g. indirect_freeIndirect) and **Medium** (e.g. speech_thought).
 
 Example:
 
