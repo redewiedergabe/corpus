@@ -12,7 +12,7 @@ The corpus was created by the DFG-funded project "Redewiedergabe - eine literatu
 
 The following publication complements this technical description with in-depth discussion of corpus design and annotation. Please cite it when using the corpus: 
 
-[Brunner, Annelen / Engelberg, Stefan / Jannidis, Fotis / Tu, Ngoc Duyen Tanja / Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 796‑805.](https://www.aclweb.org/anthology/2020.lrec-1.100.pdf)
+[Brunner, Annelen / Engelberg, Stefan / Jannidis, Fotis / Tu, Ngoc Duyen Tanja / Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 803‑812.](https://www.aclweb.org/anthology/2020.lrec-1.100.pdf)
 
 
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
