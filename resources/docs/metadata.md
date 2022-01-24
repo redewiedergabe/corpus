@@ -15,7 +15,7 @@ Example: `rwk_grenz_123_2` means this is the second excerpt drawn from a text wi
 
  
 # Metadata table
-| Metadatum | Values                                                                                                     | Description                                                                                                                                                      |
+| Metadata item | Values                                                                                                     | Description                                                                                                                                                      |
 |-----------|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | year      | _Number between 1840 and 1919_                                                                               | publication year of the text (for digBib texts: year of first publication, if available)                                                                            |
 | decade    | _Number in steps of 10_                                                                                    | publication decade of the text                                                                                                                                     |
