@@ -10,13 +10,13 @@ folder: [/data/additional/primary](/data/additional/primary)
  
  In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG syntax and its documentation for the XML version of these files.
 
- In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended typesystem for the XMI version of these files.
+ In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended type system for the XMI version of these files.
  
  We provide an overview 'annotators per file' (in [tsv](/data/additional/primary/annotators_per_file.tsv) and [xlsx](/data/additional/primary/annotators_per_file.xlsx) format) that lists the available single-person annotations for all main corpus samples. For 3 samples (rwk_digbib_1134-1, rwk_digbib_1299-1, rwk_digbib_935-1), we can only provide one primary annotation (the second annotation existed during corpus creation, but in an outdated format). 
  
  
  **NOTE**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the [OpenNLP](https://opennlp.apache.org/) Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
- In the folder [consens](/data/additional/primary/consens),  we also provide an alternative tsv version of the consensus annotated main corpus, tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
+ In the folder [consensus](/data/additional/primary/consensus),  we also provide an alternative tsv version of the main corpus (which contains the consensus annotaion), tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
  
  
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
