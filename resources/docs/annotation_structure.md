@@ -60,7 +60,7 @@ Frame annotations can only be linked to STWR annotations with the types *direct*
 IntExpr annotations only appear within Frame annotations or within STWR annotations of the type *reported*.
 
 Generally, each Frame annotation is linked to one IntExpr and one Speaker annotation. However, there are exceptions to this rule:
-* There can be several IntExpr annotations for one Frame annotation. These are either coordinated elements ("er _bat_ und _bettelte_") or parts of a phrase or a complex verb that is separated ("er _rief_ laut _aus_").
+* There can be several IntExpr annotations for one Frame annotation. These are either coordinated elements ("er _bat_ und _bettelte_") or parts of a phrase or a complex verb that are separated ("er _rief_ laut _aus_").
 * There can be several Speaker annotations for one Frame annotation. These are coordinated elements (e.g. several different people).
 * There may be Frame annotations that have neither Speaker nor IntExpr (if those could not be identified).
 
