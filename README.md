@@ -6,7 +6,7 @@
  [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
  [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3739239.svg)](https://doi.org/10.5281/zenodo.3739239)
 
-A historical German-language corpus (1840-1920) of fictional and non-fictional texts, annotated for speech, thought and writing representation (STWR). 
+A historical German-language corpus (1840-1919) of fictional and non-fictional texts, annotated for speech, thought and writing representation (STWR). 
 
 The corpus was created by the DFG-funded project "Redewiedergabe - eine literatur- und sprachwissenschaftliche Korpusanalyse" (Leibniz Institute for the German Language / University of Würzburg). Homepage: www.redewiedergabe.de
 
@@ -67,7 +67,7 @@ Project homepage: [www.redewiedergabe.de](http://www.redewiedergabe.de)
 A list of all publications can be found [here](resources/docs/publications.md).
 
 ## Text sources
-The corpus "Redewiedergabe" is a historical corpus of fictional and non-fictional texts. These texts were published between 1840-1920 and were compiled from the following three sources: 
+The corpus "Redewiedergabe" is a historical corpus of fictional and non-fictional texts. These texts were published between 1840-1919 and were compiled from the following three sources: 
 * Narrative texts from the 'Digitalen Bibliothek', converted to TEI format by [project TextGrid](https://textgrid.de/digitale-bibliothek)
 * Texts from the magazine "Die Grenzboten", digitized by [Universitätsbibliothek Bremen](http://brema.suub.uni-bremen.de/grenzboten) (Source: Die Grenzboten: Zeitschrift für Politik, Literatur und Kunst. Berlin: Dt. Verl, 1841-1922. Staats- und Universitätsbibliothek Bremen, Ac 7155 Public Domain Mark 1.0), TEI structuring by [Deutsches Textarchiv](http://www.deutschestextarchiv.de/doku/textquellen#grenzboten) and OCR correction by project "Redewiedergabe".
 * Texts from the "Mannheimer Korpus Historischer Zeitungen und Zeitschriften" (Mannheim corpus of historical newspapers and magazines), collected by the [Leibniz-Institut für Deutsche Sprache](https://repos.ids-mannheim.de/mkhz-beschreibung.html) and converted by [Deutsches Textarchiv](http://www.deutschestextarchiv.de/doku/textquellen#mkhz).
