@@ -1,4 +1,4 @@
-This folder contains full texts annotated with only free indirect STWR.
+This folder contains complete fictional texts annotated with only free indirect STWR.
 
 This subcorpus was created to generate training data for the automatic recognizers developed by project REDEWIEDERGABE. The annotation system is strongly reduced, only specifying the type free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
 The annotations were generated semi-automatically: The texts were tagged by a beta version of the automatic free indirect recognizer. The annotations and their immediate environment were then checked by humans, who, if necessary, deleted, corrected or extended the annotations.
