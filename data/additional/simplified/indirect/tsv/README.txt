@@ -1,5 +1,6 @@
 This folder contains the simplified indirect corpus in column-based plain text format (encoding: UTF-8).
-Each file contains the text of one sample and the annotations of project REDEWIEDERGABE (only columns "tok" and "cat").
+Each file contains the text of one sample and the annotations of project REDEWIEDERGABE. 
+NOTE: The information is strongly reduced, only columns "tok" and "cat" are provided.
 
 "metadata_indirect.tsv" contains the metadata information.
 
