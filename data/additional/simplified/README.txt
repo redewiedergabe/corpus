@@ -1,5 +1,5 @@
-This folder contains additional full texts annotated with only indirect or free indirect STWR with a simplified annotation system and by single annotators.
-These subcorpora were created to generate training data for the automatic recognizers developed by project REDEWIEDERGABE. The annotation system is strongly reduced, only specifying the type indirect or free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
+This folder contains additional complete texts annotated with only indirect or free indirect STWR with a simplified annotation system.
+These annotations were created semi-automatically in order to generate training data for the automatic recognizers developed by project REDEWIEDERGABE. The annotation system is strongly reduced, only specifying the type indirect or free indirect (without medium or attributes). Frame, intExpr and speaker are not annotated.
 
 The folder "free_indirect" contains texts annotated with only free indirect STWR.
 The folder "indirect" contains texts annotated with only indirect STWR.
