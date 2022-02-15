@@ -6,7 +6,7 @@ folder: [/data/additional/primary](/data/additional/primary)
  
  In this collection, we share all single-person annotations for the main corpus samples that were produced over the course of our project. Most of them are the two annotations that served as the basis of the consensus annotation, but some are additional annotations that were created to study annotator agreement. Each annotation was created independently.
   
- A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated) and the [free indirect sub-corpus](/data/additional/simplified/free_indirect).
+ A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated).
  
  In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG schema and its documentation for the XML version of these files.
 
