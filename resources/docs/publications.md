@@ -34,4 +34,3 @@ Publications in chronological order; newest first
 
 - Krug/Tu/Weimer/Reger/Konle/Jannidis/Puppe: Annotation and beyond - Using ATHEN, *DHd-Conference* Cologne 2018, pp. 458-460. [Link](http://dhd2018.uni-koeln.de/wp-content/uploads/boa-DHd2018-web-ISBN.pdf)
 
-- Brunner: Automatische Erkennung von Redewiedergabe. Ein Beitrag zur quantitativen Narratologie, 2015.

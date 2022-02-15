@@ -8,7 +8,7 @@ folder: [/data/additional/primary](/data/additional/primary)
   
  A total of 9 different annotators were involved in this project. The files in this collection are organized in sub-folders, each containing the work of one person. The names of the planets of our solar system (plus Pluto!) serve as pseudonyms. You can also find these same pseudonyms in the metadata of [single-annotated files](/data/additional/single_annotated) and the [free indirect sub-corpus](/data/additional/simplified/free_indirect).
  
- In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG syntax and its documentation for the XML version of these files.
+ In the folder [resources_xml](/data/additional/primary/resources_xml) you find the RELAX-NG schema and its documentation for the XML version of these files.
 
  In the folder [resources_xmi](/data/additional/primary/resources_xmi) you find an extended type system for the XMI version of these files.
  
