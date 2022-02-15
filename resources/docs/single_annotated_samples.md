@@ -2,7 +2,7 @@
 
 Folder: [data/additional/single_annotated/samples](../../data/additional/single_annotated/samples)
 
-This is a collection of fictional and non-fictional samples that follow the same guidelines as the samples of the main corpus. The only difference is that the annotation was performed by only one annotator with no additional quality control. 
+This is a collection of fictional and non-fictional samples that follow the same guidelines as the samples of the main corpus. The only difference is that the annotation was performed by only one annotator with no additional quality control. The metadata information is somewhat more sparse than the core corpus metadata, but provides an additional slot "annotator". The pseudonyms used there are the same as in the [primary annotation corpus](../../data/additional/primary). 
 
 The collection is roughly balanced for fictional vs. non-fictional as well as for decades. 
 
