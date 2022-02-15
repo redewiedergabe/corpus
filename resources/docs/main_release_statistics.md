@@ -1,6 +1,6 @@
 # Main release statistics
 
-The following statistics are for the main release of the corpus "Redewiedergabe". Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
+The following statistics are for the main release of the core corpus "Redewiedergabe". Tokenization was performed with [CAB](https://kaskade.dwds.de/demo/cab/file) available via [Deutsches Textarchiv](http://www.deutschestextarchiv.de) (see also [Column-based text format](column_based_text_format.md)).
 
 # Samples and tokens
 
