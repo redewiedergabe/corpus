@@ -17,7 +17,7 @@ Possible use cases in different disciplines:
 **Literary studies:**
 - frequency and form of representation in narrative texts in relation to characterisation of characters
 - arising and development of different forms of representation over time
-- studies depending on perspective, fictionaliy, time (see [metadata](metadata.md) for further use cases)
+- studies depending on perspective, fictionality, time (see [metadata](metadata.md) for further use cases)
 - studies on genre, single authors etc.
 
 ---
