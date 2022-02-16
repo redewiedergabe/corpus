@@ -5,7 +5,7 @@ NOTE: We provide XMI files as a convenience for DKPro users, but offer no furthe
 ## General remarks
 Folder: subfolders called `xmi`
 
-This version of the corpus consists of XMI files as used by the [DKPro framework](https://dkpro.github.io/dkpro-core/). Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [column-based text](column_based_text.md) formats. 
+This version of the corpus consists of XMI files as used by the [DKPro framework](https://dkpro.github.io/dkpro-core/). Each file contains the text of one sample. XMI was the working format of the project Redewiedergabe and the basis for the [XML](xml_format.md) and [column-based text](column_based_text_format.md) formats. 
 DKPro needs a so-called type system to process the XMI files. The necessary type systems can be found in the subfolder `resources` in each XMI folder. In the [primary annotations corpus](primary-annotations_main-corpus.md) the type systems are stored in `data/additional/primary/resources_xmi`. These type systems work for all primary annotator XMI files. We provide two type systems to choose from:
 * `rwTypesystem.xml` is the minimal type system needed to work with the XMI files in DKPro.
 * `rwTypesystem_stwrview.xml` contains some additional definitions needed to properly display the texts in the [ATHEN annotation tool](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen) with its [STWR view](https://gitlab2.informatik.uni-wuerzburg.de/kallimachos/Athen/blob/master/de.uniwue.mk.athen/releng/de.uniwue.mk.athen.docu/STWRView.md).
