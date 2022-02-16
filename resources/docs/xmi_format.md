@@ -37,7 +37,7 @@ The XMI files are compatible with the annotation tool [ATHEN](https://gitlab2.in
 | Sentence     | String                                          | sentence (sentence splitting by CAB)           |
 | Speaker | String | speaker/source of the STWR         |
 | Stwr       | String                                                      | main STWR annotation|
-| TeiType     | String                                                                             | addition XML tags from the  the source material |
+| TeiType     | String                                                                             | addition XML tags from the source material |
 | Text | String | textual content of the sample |
 ## Features
 
@@ -47,7 +47,7 @@ The XMI files are compatible with the annotation tool [ATHEN](https://gitlab2.in
 | Feature| Value                                                                                        | Description                      |
 |-----------|-----------------------------------------------------------------------------------------------------|---------------------------|
 | Id      | String                                                                      | token id |
-| Xlit| String                                         | ortographically normalized token (provided by CAB)           |
+| Xlit| String                                         | orthographically normalized token (provided by CAB)           |
 | Canon     | String                                                                       | canonical form of token (provided by CAB)           |
 | Pos       | String                                                   | morphological information (provided by CAB)        |
 | Lemma     | String                                          | lemma (provided by CAB)         |
@@ -62,7 +62,7 @@ The XMI files are compatible with the annotation tool [ATHEN](https://gitlab2.in
 | Lemma     | String                                          | lemma (provided by OpenNLP)         |
 | RfPos | String | morphological information (provided by RF-Tagger)         |
 
-Token has additional features (CPos, Morphology, DependencyHead, DependencyRelation, NamedEntity, CorefId) that are not relevant in the context of corpus Redewiedergabe. 
+Token has additional features (CPos, Morphology, DependencyHead, DependencyRelation, NamedEntity, CorefId) that are not relevant in the context of corpus REDEWIEDERGABE. 
 
 
 ### Features of the type **Frame**
@@ -97,7 +97,7 @@ Token has additional features (CPos, Morphology, DependencyHead, DependencyRelat
 | TextType | Anzeige, Biographie, Erzähltext, Kommentar, Nachrichten, Reisebericht/Brief, Reportage, Rezension, Unsure | predominant text type         |
 | Dialect | yes, yes_DS (dialect in direct speech), no | information on dialect        |
 | Perspective | first, first_plural, third, unsure | predominant perspective        |
-| Quotes | german, chevron, chevorn_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
+| Quotes | german, chevron, chevron_single, ascii, dash, none, other, undef | predominantly used quotation marks         |
 
 ### Features of the type **Sentence**
 
