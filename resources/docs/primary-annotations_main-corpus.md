@@ -16,7 +16,7 @@ folder: [/data/additional/primary](/data/additional/primary)
  
  
  **NOTE**: As the CAB Tokenization is not available for the early primary annotations, we decided to use the [OpenNLP](https://opennlp.apache.org/) Tokenizer for all files in this collection. This should ensure that the files (particularly in tsv and xmi format) can be aligned to calculate annotator agreement scores. CABTokens are still available in many of the XMI files. 
- In the folder [consensus](/data/additional/primary/consensus),  we also provide an alternative tsv version of the main corpus (which contains the consensus annotaion), tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
+ In the folder [consensus](/data/additional/primary/consensus),  we also provide an alternative tsv version of the main corpus (which contains the consensus annotation), tokenized with the OpenNLP Tokenizer, that can be aligned with these files. The xmi files of the main corpus contain OpenNLP Tokens as well (Annotation "Token"), so they can also be used for alignment. 
  
  
 Click the following links to get familiar with the [annotation structure](annotation_structure.md), [metadata](metadata.md) and the different formats available ([column-based text format](column_based_text_format.md),  [xml-format](xml_format.md),  [xmi-format](xmi_format.md)).
