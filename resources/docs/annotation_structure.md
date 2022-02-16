@@ -1,6 +1,6 @@
 # Annotation structure
 
-This is a short overview over the annotations used in the corpus "Redewiedergabe", their structure and names.
+This is a short overview over the annotations used in the corpus REDEWIEDERGABE, their structure and names.
 
 **NOTE**: This page only explains the technical structure of the annotation. To really understand the meaning and proper usage of these categories, we strongly recommend consulting the detailed annotation guidelines (in German) at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634994.svg)](https://doi.org/10.5281/zenodo.2634994).
 
@@ -17,7 +17,7 @@ A case of embedded STWR:
 ![example2, Louise von François: Phosphorus Hollunder (1881)](/resources/docs/img/example_embedding.png)
 
 # Note (Footnote text)
-The samples of the corpus "Redewiedergabe" sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original texts in order to ensure that the footnote text can be separated from the main text if necessary.
+The samples of the corpus REDEWIEDERGABE sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original texts in order to ensure that the footnote text can be separated from the main text if necessary.
 
 NOTE: Footnote text can interrupt sentences! Sentence splitting information (in the column-based text format) is not correct in these cases.
 
