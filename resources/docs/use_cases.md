@@ -1,4 +1,4 @@
-The Redewiedergabe-corpus and the additional corpora can be used to answer various questions. This page gives a brief overview of possible use cases.
+The corpus REDEWIEDERGABE and the additional corpora can be used to answer various questions. This page gives a brief overview of possible use cases.
 
 Possible use cases in different disciplines:
 
@@ -10,8 +10,8 @@ Possible use cases in different disciplines:
 
 
 **Linguistics:**
-- corpus studies to linguistic pecularities of speech, thought and writing representation, for example introductional expressions, independent subjunctive clauses etc.
-- linguistic studies depending on perspective, fictionaliy, time (see [metadata](metadata.md) for further use cases)
+- corpus studies to linguistic peculiarities of speech, thought and writing representation, for example introductional expressions, independent subjunctive clauses etc.
+- linguistic studies depending on perspective, fictionality, time (see [metadata](metadata.md) for further use cases)
 
 
 **Literary studies:**
@@ -22,7 +22,7 @@ Possible use cases in different disciplines:
 
 ---
 
-There are differnent processing options using the corpora:
+There are different processing options using the corpora:
 - extract single annotations
 - extract special forms of representation, media, frame,...
 - frequency lists
