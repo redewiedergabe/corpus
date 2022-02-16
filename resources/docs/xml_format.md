@@ -8,7 +8,7 @@ For a more detailed explanation of the annotation structure see [Annotation stru
 
 # Structure of a sample file
 * TEI header with general information
-* `<fs>` tag with metadata in the format defined by the Redewiedergabe project (see [Metadata](metadata.md))
+* `<fs>` tag with metadata in the format defined by the project Redewiedergabe (see [Metadata](metadata.md))
 * The sample text contains the following XML tags: `<said>` (STWR annotation), `<seg>` (frame/speaker/intExpr annotation), `<note>` (footnote text), `<p>` (paragraph; always covers the full sample text)
 
 # Project-specific TEI extensions
