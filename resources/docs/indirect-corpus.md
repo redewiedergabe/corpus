@@ -10,4 +10,4 @@ The indirect corpus is only available in [column-based text format](column_based
 
 This corpus consists of **16 files**, containing **51,864 tokens** with	**272 instances** of indirect STWR.
 
-A list of all texts including author, title, year of publication and information on fictionality can be found [here](/data/additional/simplified/indirect/txt/metadata_indirect.tsv).
+A list of all texts including author, title, year of publication and information on fictionality can be found [here](/data/additional/simplified/indirect/tsv/metadata_indirect.tsv).
