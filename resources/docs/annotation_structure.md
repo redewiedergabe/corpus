@@ -17,7 +17,7 @@ A case of embedded STWR:
 ![example2, Louise von François: Phosphorus Hollunder (1881)](/resources/docs/img/example_embedding.png)
 
 # Note (Footnote text)
-The samples of the "Redewiedergabe" corpus sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original texts in order to ensure that the footnote text can be separated from the main text if necessary.
+The samples of the corpus "Redewiedergabe" sometimes contain footnote text that interrupts the main text. Those are marked with the annotation **note**. This structural annotation was copied from the original texts in order to ensure that the footnote text can be separated from the main text if necessary.
 
 NOTE: Footnote text can interrupt sentences! Sentence splitting information (in the column-based text format) is not correct in these cases.
 
@@ -29,7 +29,7 @@ These attributes are obligatory for each STWR annotation.
 |----------|------------------------------------------|-------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | type     | direct, freeIndirect, indirect, reported | indirect_freeIndirect                                                   | STWR type                                                                                                                                                                     |
 | medium   | speech, thought, writing                 | speech_thought, speech_writing, thought_writing, speech_thought_writing | STWR medium                                                                                                                                                                        |
-| id       | _Number_                                 |                                                                         | ID; refers to the IDs of frame, speaker and intExpr and can also link discontinuous STWR annotations (e.g. a direct STWR that is separated by a frame).|
+| id       | _Number_                                 |                                                                         | ID; refers to the IDs of stwr, frame, speaker and intExpr and can also link discontinuous STWR annotations (e.g. a direct STWR that is separated by a frame).|
 | level    | _Number_ (starts with 1)                 |                                                                         | nesting depth of this STWR annotation; value=1 means highest level                                                                                                            |
 
 _Note:_ The combined values are separated by `_` in the column-based format, but by whitespace in the XML format.
