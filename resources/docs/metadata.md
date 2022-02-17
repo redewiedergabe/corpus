@@ -1,5 +1,5 @@
 # Metadata
-# Corpus files
+# File names
 
 The core corpus consists of several text samples. Each sample is a randomly drawn excerpt from a text.
 
@@ -11,7 +11,11 @@ or
 
 `rwk_source_textid_short`
 
-Example: `rwk_grenz_123_2` means this is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source grenz (magazine "Die Grenzboten"). The ending `short` can only appear for the newspaper/magazine sources (mkhz and grenz) and marks files that contain full articles (rather than excerpts) which are shorter than 500 tokens.
+Example: `rwk_grenz_123_2` means this is the second excerpt drawn from a text with the (project-internal) ID 123. The text comes from the source grenz (magazine "Die Grenzboten"). 
+
+The ending `short` can only appear for the newspaper/magazine sources (mkhz and grenz) and marks files that contain full articles (rather than excerpts) which are shorter than 500 tokens.
+
+The file names for the additional material follow the same pattern, but use  `rwz` combined with a subcorpus name as prefix. `samplenumber` or `short` is omitted, if the file contains a complete text. 
 
  
 # Metadata table
