@@ -1,6 +1,6 @@
 # Indirect corpus
 
-This subcorpus was created to generate training data for our recognizers specifically for **indirect STWR**. The annotation system is strongly reduced, *only* specifying the type indirect (without medium or attributes).  Frame, intExpr and speaker are not annotated.
+This subcorpus was created to generate training data for our recognizers specifically for **indirect STWR**. The annotation system is strongly reduced, *only* specifying the type indirect (without medium and attributes).  Frame, intExpr and speaker are not annotated.
 
 To create this corpus, the texts were  tagged by one of our automatic indirect recognizers. The annotation was then corrected by humans who checked the whole texts, so false negatives were corrected as well. Annotation quality should therefore be comparable to the [single-annotated files](/data/additional/single_annotated).
 
