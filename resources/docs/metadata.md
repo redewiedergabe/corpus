@@ -1,7 +1,7 @@
 # Metadata
 # Corpus files
 
-The corpus consists of several samples. Each sample is a randomly drawn excerpt from a text.
+The core corpus consists of several text samples. Each sample is a randomly drawn excerpt from a text.
 
 The file names are structured as follows:
 
