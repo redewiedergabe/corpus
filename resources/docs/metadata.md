@@ -42,7 +42,7 @@ Example: `rwk_grenz_123_2` means this is the second excerpt drawn from a text wi
 ## Shorthands for periodicals of source mkhz
 Example: `mkhz.badener` means: This sample comes from Badener Zeitung.
 
-The shorthand correspond to the shorthand used for the newspapers/magazines in the [DTA archive](http://www.deutschestextarchiv.de/doku/textquellen#mkhz).
+The shorthands correspond to the shorthands used for the newspapers/magazines in the [DTA archive](http://www.deutschestextarchiv.de/doku/textquellen#mkhz).
 
 | Periodical | Shorthand          |
 |------------------------------------------------------------------------------------------------------------|--------------------|
