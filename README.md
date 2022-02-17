@@ -14,7 +14,7 @@ The following publication complements this technical description with in-depth d
 
 [Brunner, Annelen / Engelberg, Stefan / Jannidis, Fotis / Tu, Ngoc Duyen Tanja / Weimer, Lukas (2020): Corpus REDEWIEDERGABE, *Proceedings of The 12th Language Resources and Evaluation Conference*, Marseille, pp. 803‑812.](https://www.aclweb.org/anthology/2020.lrec-1.100.pdf)
 
-The detailed annotation guidelines developed by project REDEWIEDERGABE at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634994.svg)](https://doi.org/10.5281/zenodo.2634994) (in German).
+The detailed annotation guidelines developed by project REDEWIEDERGABE are available at [redewiedergabe.de/richtlinien/richtlinien.html](http://redewiedergabe.de/richtlinien/richtlinien.html). [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.2634994.svg)](https://doi.org/10.5281/zenodo.2634994) (in German).
 
 If you encounter any issues or have any questions, please use [Github's Issues tracker](https://github.com/redewiedergabe/corpus/issues).
 
